@@ -384,73 +384,6 @@
       <button class="filter" data-filter="codex">Codex</button>
     </nav>
 
-    <section class="grid" id="feed" aria-live="polite">
-      <article class="card" data-category="gemini">
-        <div class="card-top">
-          <span class="badge gemini">Gemini</span>
-          <span class="time">7:00 AM Today</span>
-        </div>
-        <h2>Mastering Context Caching for Large-Scale File Analysis</h2>
-        <p>
-          Optimize token efficiency when sending massive codebases, PDFs, or video files to Gemini.
-          Use persistent context to reduce repeated processing, improve latency, and keep exploratory
-          analysis fast.
-        </p>
-        <div class="card-footer">
-          <a class="read-link" href="#" aria-label="Read Gemini documentation">Read documentation →</a>
-          <span class="difficulty">Advanced</span>
-        </div>
-      </article>
-
-      <article class="card" data-category="claude">
-        <div class="card-top">
-          <span class="badge claude">Claude Code</span>
-          <span class="time">7:00 AM Today</span>
-        </div>
-        <h2>Advanced Agentic Workflows in the CLI</h2>
-        <p>
-          Explore terminal-native automation patterns, prompt overrides, safe execution guardrails,
-          and multi-file refactoring loops that keep code changes reviewable and reversible.
-        </p>
-        <div class="card-footer">
-          <a class="read-link" href="#" aria-label="View Claude Code tutorial">View tutorial →</a>
-          <span class="difficulty">Expert</span>
-        </div>
-      </article>
-
-      <article class="card" data-category="chatgpt">
-        <div class="card-top">
-          <span class="badge chatgpt">ChatGPT</span>
-          <span class="time">7:00 AM Today</span>
-        </div>
-        <h2>System Instructions & Reliable Tool Calling Chains</h2>
-        <p>
-          Build deterministic multi-step workflows by pairing clear instructions with validation,
-          structured intermediate outputs, and native analysis tools for grounded results.
-        </p>
-        <div class="card-footer">
-          <a class="read-link" href="#" aria-label="Read ChatGPT deep dive">Read deep dive →</a>
-          <span class="difficulty">Advanced</span>
-        </div>
-      </article>
-
-      <article class="card" data-category="codex">
-        <div class="card-top">
-          <span class="badge codex">Codex / LLM Code</span>
-          <span class="time">7:00 AM Today</span>
-        </div>
-        <h2>Few-Shot Templates for Custom API Generation</h2>
-        <p>
-          Create reusable prompt patterns that help coding models adapt to internal libraries,
-          undocumented SDKs, and legacy conventions without requiring fine-tuning.
-        </p>
-        <div class="card-footer">
-          <a class="read-link" href="#" aria-label="View Codex GitHub repository">View repo →</a>
-          <span class="difficulty">Intermediate</span>
-        </div>
-      </article>
-    </section>
-
     <p class="empty" id="emptyState">No matching briefs found. Try a different search or category.</p>
 
     <footer>
@@ -459,39 +392,68 @@
   </main>
 
   <script>
-    const filters = Array.from(document.querySelectorAll(".filter"));
-    const cards = Array.from(document.querySelectorAll(".card"));
-    const searchInput = document.querySelector("#searchInput");
-    const emptyState = document.querySelector("#emptyState");
+  const filters = Array.from(document.querySelectorAll('.filter'));
+  const feed = document.querySelector('#feed');
+  const searchInput = document.querySelector('#searchInput');
+  const emptyState = document.querySelector('#emptyState');
+  let cards = [];
+  let activeFilter = 'all';
 
-    let activeFilter = "all";
+  function createCard(article) {
+    return `
+      <article class="card" data-category="${article.category}">
+        <div class="card-top">
+          <span class="badge ${article.category}">${article.label}</span>
+          <span class="time">${article.time}</span>
+        </div>
+        <h2>${article.title}</h2>
+        <p>${article.summary}</p>
+        <div class="card-footer">
+          <a class="read-link" href="${article.url}" target="_blank" rel="noopener">${article.linkText}</a>
+          <span class="difficulty">${article.difficulty}</span>
+        </div>
+      </article>
+    `;
+  }
 
-    function applyFilters() {
-      const query = searchInput.value.trim().toLowerCase();
-      let visibleCount = 0;
+  function applyFilters() {
+    const query = searchInput.value.trim().toLowerCase();
+    let visibleCount = 0;
 
-      cards.forEach((card) => {
-        const matchesCategory = activeFilter === "all" || card.dataset.category === activeFilter;
-        const matchesSearch = card.textContent.toLowerCase().includes(query);
-        const shouldShow = matchesCategory && matchesSearch;
+    cards.forEach((card) => {
+      const matchesCategory = activeFilter === 'all' || card.dataset.category === activeFilter;
+      const matchesSearch = card.textContent.toLowerCase().includes(query);
+      const shouldShow = matchesCategory && matchesSearch;
 
-        card.hidden = !shouldShow;
-        if (shouldShow) visibleCount += 1;
-      });
-
-      emptyState.style.display = visibleCount ? "none" : "block";
-    }
-
-    filters.forEach((button) => {
-      button.addEventListener("click", () => {
-        filters.forEach((filter) => filter.classList.remove("active"));
-        button.classList.add("active");
-        activeFilter = button.dataset.filter;
-        applyFilters();
-      });
+      card.hidden = !shouldShow;
+      if (shouldShow) visibleCount += 1;
     });
 
-    searchInput.addEventListener("input", applyFilters);
-  </script>
+    emptyState.style.display = visibleCount ? 'none' : 'block';
+  }
+
+  async function loadArticles() {
+    const response = await fetch('articles.json');
+    const articles = await response.json();
+
+    feed.innerHTML = articles.map(createCard).join('');
+    cards = Array.from(document.querySelectorAll('.card'));
+
+    applyFilters();
+  }
+
+  filters.forEach((button) => {
+    button.addEventListener('click', () => {
+      filters.forEach((filter) => filter.classList.remove('active'));
+      button.classList.add('active');
+      activeFilter = button.dataset.filter;
+      applyFilters();
+    });
+  });
+
+  searchInput.addEventListener('input', applyFilters);
+
+  loadArticles();
+</script>
 </body>
 </html>
