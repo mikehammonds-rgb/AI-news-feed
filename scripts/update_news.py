@@ -80,4 +80,13 @@ articles = articles[:MAX_TOTAL]
 with open("articles.json", "w", encoding="utf-8") as f:
     json.dump(articles, f, indent=2, ensure_ascii=False)
 
+from datetime import datetime
+
+timestamp = {
+    "lastUpdated": datetime.now().strftime("%B %d, %Y at %I:%M %p")
+}
+
+with open("feed-info.json", "w", encoding="utf-8") as f:
+    json.dump(timestamp, f, indent=2)
+
 print(f"Updated {len(articles)} articles at {datetime.now(timezone.utc).isoformat()}")
