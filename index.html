@@ -491,9 +491,19 @@ function saveArticle(title, url) {
   document.querySelector('#savedCount').textContent = savedArticles.length;
 
   feed.innerHTML = articles.map(createCard).join('');
-  cards = Array.from(document.querySelectorAll('.card'));
 
-  applyFilters();
+cards = Array.from(document.querySelectorAll('.card'));
+
+document.querySelectorAll('.save-btn').forEach(button => {
+  button.addEventListener('click', () => {
+    saveArticle(
+      button.dataset.title,
+      button.dataset.url
+    );
+  });
+});
+
+applyFilters();
 }
 
   filters.forEach((button) => {
