@@ -80,10 +80,12 @@ articles = articles[:MAX_TOTAL]
 with open("articles.json", "w", encoding="utf-8") as f:
     json.dump(articles, f, indent=2, ensure_ascii=False)
 
-from datetime import datetime
+from zoneinfo import ZoneInfo
+
+eastern_time = datetime.now(ZoneInfo("America/New_York"))
 
 timestamp = {
-    "lastUpdated": datetime.now().strftime("%B %d, %Y at %I:%M %p")
+    "lastUpdated": eastern_time.strftime("%B %d, %Y at %I:%M %p ET")
 }
 
 with open("feed-info.json", "w", encoding="utf-8") as f:
