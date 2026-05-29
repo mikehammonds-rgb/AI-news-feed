@@ -430,7 +430,29 @@ function createCard(article) {
     </article>
   `;
 }
+function saveArticle(title, url) {
+  const saved = JSON.parse(
+    localStorage.getItem('savedArticles') || '[]'
+  );
 
+  const exists = saved.some(article => article.url === url);
+
+  if (!exists) {
+    saved.push({
+      title,
+      url,
+      savedAt: new Date().toISOString()
+    });
+
+    localStorage.setItem(
+      'savedArticles',
+      JSON.stringify(saved)
+    );
+  }
+
+  document.querySelector('#savedCount').textContent =
+    saved.length;
+}
   function applyFilters() {
     const query = searchInput.value.trim().toLowerCase();
     let visibleCount = 0;
