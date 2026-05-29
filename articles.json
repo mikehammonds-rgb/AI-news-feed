@@ -1,42 +1,202 @@
 [
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "7:00 AM Today",
-    "title": "Mastering Context Caching for Large-Scale File Analysis",
-    "summary": "Optimize token efficiency when sending massive codebases, PDFs, or video files to Gemini.",
-    "linkText": "Read documentation →",
-    "url": "#",
-    "difficulty": "Advanced"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "7:00 AM Today",
-    "title": "Advanced Agentic Workflows in the CLI",
-    "summary": "Explore terminal-native automation patterns, prompt overrides, safe execution guardrails, and multi-file refactoring loops.",
-    "linkText": "View tutorial →",
-    "url": "#",
-    "difficulty": "Expert"
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "Samsung, SK Hynix join strategic investment round in Anthropic, developer of Claude AI model - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbVk?oc=5\" target=\"_blank\">Samsun",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbVk?oc=5",
+    "difficulty": "News"
   },
   {
     "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "7:00 AM Today",
-    "title": "System Instructions & Reliable Tool Calling Chains",
-    "summary": "Build deterministic multi-step workflows with clear instructions, validation, structured outputs, and native analysis tools.",
-    "linkText": "Read deep dive →",
-    "url": "#",
-    "difficulty": "Advanced"
+    "label": "AI News",
+    "time": "Latest",
+    "title": "Big Tech is laying off developers. My company just hired its first. We\u2019re both right about AI - Fortune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXpPTl81RW5xYk9XRFhjZ0RHMnFRNzdZYU16VFdETm5QNlZQQWVJT3BYUlFoSDZVcFc3bFhhdVR4V1NJS3JBSXloOWhkb3lTODR4bHZlaXdzcldGNDlUemp3MHBmRlE1SHpZNXNUR0ZYZ2M2SlNSWGxGV2pmcHlCT09PV09nejU0RWNBZndjY0N1QQ?o",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXpPTl81RW5xYk9XRFhjZ0RHMnFRNzdZYU16VFdETm5QNlZQQWVJT3BYUlFoSDZVcFc3bFhhdVR4V1NJS3JBSXloOWhkb3lTODR4bHZlaXdzcldGNDlUemp3MHBmRlE1SHpZNXNUR0ZYZ2M2SlNSWGxGV2pmcHlCT09PV09nejU0RWNBZndjY0N1QQ?oc=5",
+    "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "7:00 AM Today",
-    "title": "Few-Shot Templates for Custom API Generation",
-    "summary": "Create reusable prompt patterns that help coding models adapt to internal libraries and legacy conventions.",
-    "linkText": "View repo →",
-    "url": "#",
-    "difficulty": "Intermediate"
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "China AI Developer Zhipu Hits Record $112 Billion Valuation - Caixin Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjNIejNXMTlBdUpRd2swVHZXWC1POEkxWFMxOWdRT2ZweFNnUjQ2RW1fVkgtdEpZWmxESnZnZEVCaER6YXR3VUFSbEYwV21ZMVBySE5PY1Q4cHF1dWhrTjRIdlFvQkZtMmpZYTJmY2pYejRkbnJEVUQ1di0xR25MdUhXbGZuWW5LTWhPaUQ3RUVqeUNo",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjNIejNXMTlBdUpRd2swVHZXWC1POEkxWFMxOWdRT2ZweFNnUjQ2RW1fVkgtdEpZWmxESnZnZEVCaER6YXR3VUFSbEYwV21ZMVBySE5PY1Q4cHF1dWhrTjRIdlFvQkZtMmpZYTJmY2pYejRkbnJEVUQ1di0xR25MdUhXbGZuWW5LTWhPaUQ3RUVqeUNoUW85eUtqc29PZmJWUlB5RUg1TTh4QVFSeE1LZjBvYw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "Run Step 3.7 Flash on NVIDIA GPUs with Enterprise-Ready Multimodal AI | NVIDIA Technical Blog - NVIDIA Developer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxONjFXbWRLd1pmR1hTWVV5cVlPY01xTWpTNmNfUUhkUExqdHlxUUhiczJoNEYyWjRXeW1PV2RKaG1iRWNvQlAxX1RQV1d1NnJObGljbWRrVFNwQU1jZ0xUTFdFLWgzdGZDLWh0bDhvZzhiY1RXZ3pTQi1hVmwyRGV0Q1JKczJWek9HQXNJOTBMbDJ2eWFS",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjFXbWRLd1pmR1hTWVV5cVlPY01xTWpTNmNfUUhkUExqdHlxUUhiczJoNEYyWjRXeW1PV2RKaG1iRWNvQlAxX1RQV1d1NnJObGljbWRrVFNwQU1jZ0xUTFdFLWgzdGZDLWh0bDhvZzhiY1RXZ3pTQi1hVmwyRGV0Q1JKczJWek9HQXNJOTBMbDJ2eWFSMTFTeko2S1lVaWYtX1FHbl9MSQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "I'm a college senior who built a vintage clothing marketplace with Claude. It took me 5 days to build the pilot. - Business Insider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNdnhMQXJZal9fNlphX3NYVTR2by1NRm1PMHE4MWFDV3VnZ2laTXZxbDVITWswOTg4WTNvU09BemM0YnNFNFFfZjUtUnpNb05BcGlVektsUF85cEpuZ1Z0d1ZUN1RnSWJkb0VZWllCVnVwZEZRajBIOVRFSHNTUWhQVERKbWlOM3JGUHlLZ1ZoRQ?oc=5\"",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdnhMQXJZal9fNlphX3NYVTR2by1NRm1PMHE4MWFDV3VnZ2laTXZxbDVITWswOTg4WTNvU09BemM0YnNFNFFfZjUtUnpNb05BcGlVektsUF85cEpuZ1Z0d1ZUN1RnSWJkb0VZWllCVnVwZEZRajBIOVRFSHNTUWhQVERKbWlOM3JGUHlLZ1ZoRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack - CoinDesk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFEZnhQQ2FkWllXVW8tQ3JXczgzMlBmS293TVJSQTVOYkJLVEVxdk5qNDdpa3UtQUVGcEg0U1BJQlBmbS1QZXlTY3VtM2FOcUxHcDRBa01mUGpSQmtHem1hZjRoaTFlQmtwcnRoTVg3aWZCVzdkdHliamV1LXVLeGNkTFpfZzdsNEx1d1NUNGlFY0dz",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEFEZnhQQ2FkWllXVW8tQ3JXczgzMlBmS293TVJSQTVOYkJLVEVxdk5qNDdpa3UtQUVGcEg0U1BJQlBmbS1QZXlTY3VtM2FOcUxHcDRBa01mUGpSQmtHem1hZjRoaTFlQmtwcnRoTVg3aWZCVzdkdHliamV1LXVLeGNkTFpfZzdsNEx1d1NUNGlFY0dzb2VOSm53U1N0UDV0Z0xQZXktV2gtb3gyUVE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "A New Era of Innovation: Google Research at I/O 2026 - Research at Google",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQcFYxd2lFa29QcXYxOHRlQktGOC1NSEVjbHlIOHl4WmYwNEFGS3IyMWRhQXhNaktKSXBIa2tYb3YwZ2J5QUtQNnkwRGVHeTRsRWtEOUNQSGdSbmxaNUw1RDNJQ2h1TnN3RUhYTDZIREk2TmJBa2lXU29TUzdxc0I1OFpuSjV2aW8?oc=5\" target=\"_b",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcFYxd2lFa29QcXYxOHRlQktGOC1NSEVjbHlIOHl4WmYwNEFGS3IyMWRhQXhNaktKSXBIa2tYb3YwZ2J5QUtQNnkwRGVHeTRsRWtEOUNQSGdSbmxaNUw1RDNJQ2h1TnN3RUhYTDZIREk2TmJBa2lXU29TUzdxc0I1OFpuSjV2aW8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "Supercharge your integration workflow with the Google Pay & Wallet Developer MCP server - blog.google",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0pqYkhZOExRZXhMNzJpczAzZmZFZVhtX1FlQmhzWWZTQXpHVUplVms1YUEzZlR1U0hNT2RVN05qZVZLQjh5ZkZqV2dya2xBdDgzb2xabFdLaEI0bHZaQk5tcGlOZUExRURDTlVrZGhPUjZ3RHRMREZfTFFmNTRSVFNxcWV4b1dVR3dtdG56bndHYldn",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0pqYkhZOExRZXhMNzJpczAzZmZFZVhtX1FlQmhzWWZTQXpHVUplVms1YUEzZlR1U0hNT2RVN05qZVZLQjh5ZkZqV2dya2xBdDgzb2xabFdLaEI0bHZaQk5tcGlOZUExRURDTlVrZGhPUjZ3RHRMREZfTFFmNTRSVFNxcWV4b1dVR3dtdG56bndHYldnWmx3U1R3WFNOZTNHdmxES2h3WVl2RzFXcldIbnM1VHZFMTNZVUpsWA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "Is Xometry (XMTR) Quietly Recasting Its Moat Around AI Infrastructure And Developer Ecosystems? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPV0EyN0dCaFg2TFdNQVhHX2dDeldpMUtMTkNrOGhSWVRUbW5RRkN4bldfYjhLY0ZSWnR0UHNLQm9sUkdOd0ZoUEVsZmVNM1RELWdxdWJRM0ZSeG1Zb181UU5xYzB0VkRyU0tTM1Y4OTdQbE1vc0UtTHlZUTluTVRHWUV6Qk5KckxJb2I1a29sSjl4Q1du",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV0EyN0dCaFg2TFdNQVhHX2dDeldpMUtMTkNrOGhSWVRUbW5RRkN4bldfYjhLY0ZSWnR0UHNLQm9sUkdOd0ZoUEVsZmVNM1RELWdxdWJRM0ZSeG1Zb181UU5xYzB0VkRyU0tTM1Y4OTdQbE1vc0UtTHlZUTluTVRHWUV6Qk5KckxJb2I1a29sSjl4Q1dubFl0QU1ob3ZXMFhCVVBzV2lyVFRuWGExaEgwSVFRNENJaTBGdlBmc3h1d2dJWFI2a3hxbDNCa9IB0AFBVV95cUxQaUJwSjlPQTBSMEo0UnAzV1JuTE5zTjZYVjFjd3pkVXhzSWNoYzRBUFR4RkVPVDgwXzhtY1JzaTBpYmpNSWE1SXJCTkIyN2ZvdnN3QmVMa1pZSUgwbWpabjVrTmNQTlh4cWxSQmpzSmlQM2xYMXBubE0zbGNnV0t0dG9QMDA5NXNsSkRKcWVLX2JLczBlU2Ezd29HTGxucG9wSGdSU3d3aEJ1VnpiVk5STjV3WjVUS19xUkNEMlhDU2JTOEVuc0ZBZk1vaWJnMlhP?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "HELOC, HOA Lien Monitoring, AI, Developer Platform Tools; Webinars and Training - Mortgage News Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1RZGdTSk0xbnRDdDdxQ3JBbFhiU1Q5S1gybWx1TGN0YW5OUEkzdFNkNUNyVjNCbmtqT0dISVBYTjR6bl9lQjUwY1hKemt2UG1DTXBYS3djc2VqZDJMWVdUZWNCVzFQM3p2Y2hsMWlINlFFd9IBdEFVX3lxTFBKTU8xeGYxNG1vUDdBbUM3U3Q2a2RJWHZi",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RZGdTSk0xbnRDdDdxQ3JBbFhiU1Q5S1gybWx1TGN0YW5OUEkzdFNkNUNyVjNCbmtqT0dISVBYTjR6bl9lQjUwY1hKemt2UG1DTXBYS3djc2VqZDJMWVdUZWNCVzFQM3p2Y2hsMWlINlFFd9IBdEFVX3lxTFBKTU8xeGYxNG1vUDdBbUM3U3Q2a2RJWHZia3lwaENJTFVubFhhMEZTT3pqeXN2Q1VIMG1tc3JCd3RobHJxeC1sdTdubGJ5VHpsUGZTZVROcTd2cll0cjZHS05RbHZXYlJKcXdUVmNkX1VhMjVq?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "Inside Rocket One's bid to design cooler AI chips for space and defense - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUZjS1dONjlrM2g0aTJNWGFPQWVCMTNOb1paamVyaUUxbkNHQ2cyaDhxdFNTR0Q1aGVVNzBFdTROUjd0SGxJcExrcm9IU1JQei05NURWeHJ6dGQtaW1UV1g5ZkpScG5Rb0MyX1BJTVhxM1FjYzhuX3lQSmdKUmtfdjRtaGFmbldYUnBWVXNJbHZsUWZB",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUZjS1dONjlrM2g0aTJNWGFPQWVCMTNOb1paamVyaUUxbkNHQ2cyaDhxdFNTR0Q1aGVVNzBFdTROUjd0SGxJcExrcm9IU1JQei05NURWeHJ6dGQtaW1UV1g5ZkpScG5Rb0MyX1BJTVhxM1FjYzhuX3lQSmdKUmtfdjRtaGFmbldYUnBWVXNJbHZsUWZBb2RFYXhyeGtVZFlpLTQ2MTlZXy1ZeFRRNGhGeDNqcXVLdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "Connecticut Takes Aim at AI in Employment Decisions With SB 5 - ArentFox Schiff",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPVzNleWZ3azctbm5JellIMk9TbzFMTEJiN3JkRzJUWVJuUXppLXBoX2ZNTElCRExaRmd6MXRLU0NyYmI3dk9LLWh5X25JNFBFNy1BaGpsdFhyRENQb2RaeDZ6Wnd1MjZoaV9tNFhRRGl1Z2RBZmpMRTVYZUNVRThtYjJVYlpwMkc0Q21OdzlWMzNRVy1a",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVzNleWZ3azctbm5JellIMk9TbzFMTEJiN3JkRzJUWVJuUXppLXBoX2ZNTElCRExaRmd6MXRLU0NyYmI3dk9LLWh5X25JNFBFNy1BaGpsdFhyRENQb2RaeDZ6Wnd1MjZoaV9tNFhRRGl1Z2RBZmpMRTVYZUNVRThtYjJVYlpwMkc0Q21OdzlWMzNRVy1aR3daS054VUx0bDg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "I set up Claude Code the way Anthropic showed at Code w/ Claude, and it'll change your workflow - XDA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3pDSXU3b0lNeFpUdDNWZ0NqU0lORHlTTjNlX3VNdVo1WUVPTG83SGJDSzhPYU83MUVSeWdUcXRsQVgzWl9yd0pFNkxES2todW5BZXI0S3FhV3QzMkpzSFZRSTBPYkdtLWlaZWVTbTFteWF2Umo4UW0zVWk4RXhWVFdaeDVkSmZrRTctTkE5aW9XdjJ1",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3pDSXU3b0lNeFpUdDNWZ0NqU0lORHlTTjNlX3VNdVo1WUVPTG83SGJDSzhPYU83MUVSeWdUcXRsQVgzWl9yd0pFNkxES2todW5BZXI0S3FhV3QzMkpzSFZRSTBPYkdtLWlaZWVTbTFteWF2Umo4UW0zVWk4RXhWVFdaeDVkSmZrRTctTkE5aW9XdjJ1b3dGbkpibUlUUWVLU2VtVTFPSUFVcDk0OEtwTzZ3WG5kSHhja2E1OWpadFlQdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "How we contain Claude across products - Anthropic",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE16Q1A1LU9QUFNJNWgxdkI4ei1iaHEwN2gzTjNmT2s2MV9icExhR3hYWHRMWWFUVUpJUTBhcl9HV3doZnRlcVVZd0ZWV0NlWDVNcTRLeDNJMlpWRFhDd3BWcUpyektXUC10V29N?oc=5\" target=\"_blank\">How we contain Claude across prod",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Q1A1LU9QUFNJNWgxdkI4ei1iaHEwN2gzTjNmT2s2MV9icExhR3hYWHRMWWFUVUpJUTBhcl9HV3doZnRlcVVZd0ZWV0NlWDVNcTRLeDNJMlpWRFhDd3BWcUpyektXUC10V29N?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "Rocket One Joins AMD AI Developer Program - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1pQUTlZNjVkSTB0aDRZdmhkV2IxemdzZnUyaUloTUZUS3dXU3FVSWhpOUZEYnAzR05SQ3pZMGRGVGpXZjNLd2VVWVZGRnZvMFd3TnFrYUNFMk1CQXpHVWNhbURRc0lRQ2hoMFN4dkRTam5vUUcyRDFwdTljZEdhZ09jMWxsSkh3OWNNR2tTc2NaLWlX",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1pQUTlZNjVkSTB0aDRZdmhkV2IxemdzZnUyaUloTUZUS3dXU3FVSWhpOUZEYnAzR05SQ3pZMGRGVGpXZjNLd2VVWVZGRnZvMFd3TnFrYUNFMk1CQXpHVWNhbURRc0lRQ2hoMFN4dkRTam5vUUcyRDFwdTljZEdhZ09jMWxsSkh3OWNNR2tTc2NaLWlXNFhLRTN4M2FhNnUzMnBJ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "Powergentic Introduces Repeatable AI Developer Workflows - Let's Data Science",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGl4QVRRcTJDa2dGaHgxdVB3VXQ4M2NUVGM0NDhhQjVxaDdkdUVtOVpNQ0x4S3Awc0w0MHdPNTBjdkRDR0lqODY0SWtsdGtiR3FPU1lxWjdleGV2TVhWNHhyNndSWEtsTzdZTXdwSEpfdFg5d2Q5cW5TZlh6YnV4NGpjd2tJeU1zcC1OTzJGRnROWWg1",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGl4QVRRcTJDa2dGaHgxdVB3VXQ4M2NUVGM0NDhhQjVxaDdkdUVtOVpNQ0x4S3Awc0w0MHdPNTBjdkRDR0lqODY0SWtsdGtiR3FPU1lxWjdleGV2TVhWNHhyNndSWEtsTzdZTXdwSEpfdFg5d2Q5cW5TZlh6YnV4NGpjd2tJeU1zcC1OTzJGRnROWWg1WjVqcGdkUlIxLTQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "Claude Code Introduces Real-Time Vulnerability Detection & Auto-Fixes for Developers - LinkedIn",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFBneDBOMlNHS3Y4al9aWG9EM2FhQ1N3N1QtUnVsSkRCdUx2N3VtbUFsbG83cFRxODUwRXZxeG1HcjFLdkNzRWhoal9FckRUNFVRSFMybjQxWEgwZDRMcWVla2twYUh6VTM1Q2c4S0t0aUFtd0N4Nm5FN3hpOGpPNERkY1Qybk1SS0l4T0RtQU41UQ?o",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFBneDBOMlNHS3Y4al9aWG9EM2FhQ1N3N1QtUnVsSkRCdUx2N3VtbUFsbG83cFRxODUwRXZxeG1HcjFLdkNzRWhoal9FckRUNFVRSFMybjQxWEgwZDRMcWVla2twYUh6VTM1Q2c4S0t0aUFtd0N4Nm5FN3hpOGpPNERkY1Qybk1SS0l4T0RtQU41UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "What\u2019s New for Game Developers in NVIDIA RTX: DLSS 4.5 for UE5 and Multilingual AI Characters - NVIDIA Developer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3lwTzlPdDZfVm8zRDh2ZjN6bW1zTkZLWXZSMTNsZHRPWXhURmF3QWJCVG14bDRUa294WXNiMDI5QXJsbXNnQWQ5VzF2TUgwQXVrSHMwRmxrUVl4U2FCWXZSemJZdU81Z2djWFdkUlc2V2JLdGxvaHAwR0NUYzBoSnplcXRFck9MRi00RTM2YWktb1Mz",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3lwTzlPdDZfVm8zRDh2ZjN6bW1zTkZLWXZSMTNsZHRPWXhURmF3QWJCVG14bDRUa294WXNiMDI5QXJsbXNnQWQ5VzF2TUgwQXVrSHMwRmxrUVl4U2FCWXZSemJZdU81Z2djWFdkUlc2V2JLdGxvaHAwR0NUYzBoSnplcXRFck9MRi00RTM2YWktb1MzNXZ6OFRpREM0QmN2WmlYdGhIZm54VXJiblVpNHdmSzd4TElzNEhEeEkwOUtmMHg1?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers - Anthropic",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Mb1dkTXE0WXgzR1BsWERKOVRjUm5feFJOUzJBSnFHTVJZaGQyMDN6ejVVYWluZW9WRmg0QUFhMy10d0lwaHczS2I5WjJpQ1IzMTNnZnZyTTZYVXJENTRaLQ?oc=5\" target=\"_blank\">Anthropic opens Milan office to support Italian",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Mb1dkTXE0WXgzR1BsWERKOVRjUm5feFJOUzJBSnFHTVJZaGQyMDN6ejVVYWluZW9WRmg0QUFhMy10d0lwaHczS2I5WjJpQ1IzMTNnZnZyTTZYVXJENTRaLQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "AI News",
+    "time": "Latest",
+    "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code - Ars Technica",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQkozX0RXOVJ1THJDNlV1ZkRzWGFqNnBOamx5SXltX3psV1k3RFdKX2xqaWtVR1FXN043cnpKbUx3d2R3RG5UOWVjemJ0NHJZbFJDQkQ0S3RUdDZndUdyOWFmU2NjV2NRWXRoN2EtbTFFSlVoZjdXMXlEUmd5cmVHMHFVU3ZWcV9vTkpWUkFSR185dUZy",
+    "linkText": "Read article \u2192",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQkozX0RXOVJ1THJDNlV1ZkRzWGFqNnBOamx5SXltX3psV1k3RFdKX2xqaWtVR1FXN043cnpKbUx3d2R3RG5UOWVjemJ0NHJZbFJDQkQ0S3RUdDZndUdyOWFmU2NjV2NRWXRoN2EtbTFFSlVoZjdXMXlEUmd5cmVHMHFVU3ZWcV9vTkpWUkFSR185dUZyMTdmbHFXbEpBWGU0RVlJb0FVTjhpeW8zVGxENXlzV1JZbS01cV9YOUFB?oc=5",
+    "difficulty": "News"
   }
 ]
