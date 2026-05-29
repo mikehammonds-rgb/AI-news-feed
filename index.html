@@ -384,11 +384,7 @@
   <button class="filter" data-filter="codex">Codex</button>
   <button class="filter" data-filter="saved">Saved</button>
 
-  <a class="filter"
-     href="https://github.com/mikehammonds-rgb/AI-news-feed/actions/workflows/update-news.yml"
-     target="_blank">
-    Refresh Feed
-  </a>
+  <button class="filter" id="refreshFeed" type="button">Refresh Feed</button>
 </nav>
 
 <section class="grid" id="feed" aria-live="polite"></section>
@@ -441,7 +437,7 @@
   }
 
   async function loadArticles() {
-    const response = await fetch('articles.json');
+    const response = await fetch(`articles.json?cacheBust=${Date.now()}`);
     const articles = await response.json();
 
     feed.innerHTML = articles.map(createCard).join('');
@@ -459,9 +455,11 @@
     });
   });
 
-  searchInput.addEventListener('input', applyFilters);
+ searchInput.addEventListener('input', applyFilters);
 
-  loadArticles();
+document.querySelector('#refreshFeed').addEventListener('click', loadArticles);
+
+loadArticles();
 </script>
 </body>
 </html>
