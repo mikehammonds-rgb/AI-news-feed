@@ -396,7 +396,9 @@
   </main>
 
   <script>
-  const filters = Array.from(document.querySelectorAll('.filter'));
+  const filters = Array.from(
+  document.querySelectorAll('.filter[data-filter]')
+);
   const feed = document.querySelector('#feed');
   const searchInput = document.querySelector('#searchInput');
   const emptyState = document.querySelector('#emptyState');
@@ -405,7 +407,10 @@
 
 function createCard(article) {
   return `
-    <article class="card" data-category="${article.category}" data-title="${article.title}">
+    <article class="card"
+         data-category="${article.category}"
+         data-title="${article.title}"
+         data-url="${article.url}">
       <div class="card-top">
         <span class="badge ${article.category}">${article.label}</span>
         <span class="time">${article.time}</span>
@@ -454,21 +459,42 @@ function saveArticle(title, url) {
     saved.length;
 }
   function applyFilters() {
-    const query = searchInput.value.trim().toLowerCase();
-    let visibleCount = 0;
+  const query = searchInput.value.trim().toLowerCase();
 
-    cards.forEach((card) => {
-      const matchesCategory = activeFilter === 'all' || card.dataset.category === activeFilter;
-      const matchesSearch = card.textContent.toLowerCase().includes(query);
-      const shouldShow = matchesCategory && matchesSearch;
+  const savedArticles = JSON.parse(
+    localStorage.getItem('savedArticles') || '[]'
+  );
 
-      card.hidden = !shouldShow;
-      if (shouldShow) visibleCount += 1;
-    });
+  const savedUrls = new Set(
+    savedArticles.map(article => article.url)
+  );
 
-    emptyState.style.display = visibleCount ? 'none' : 'block';
-  }
+  let visibleCount = 0;
 
+  cards.forEach((card) => {
+
+    const matchesCategory =
+      activeFilter === 'all' ||
+      (activeFilter === 'saved' &&
+       savedUrls.has(card.dataset.url)) ||
+      card.dataset.category === activeFilter;
+
+    const matchesSearch =
+      card.textContent.toLowerCase().includes(query);
+
+    const shouldShow =
+      matchesCategory && matchesSearch;
+
+    card.hidden = !shouldShow;
+
+    if (shouldShow) {
+      visibleCount++;
+    }
+  });
+
+  emptyState.style.display =
+    visibleCount ? 'none' : 'block';
+}
     async function loadLastUpdated() {
   try {
     const response = await fetch(`feed-info.json?cacheBust=${Date.now()}`);
