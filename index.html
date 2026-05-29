@@ -108,9 +108,9 @@
     h1 {
       max-width: 820px;
       margin: 0;
-      font-size: clamp(2.3rem, 6vw, 5rem);
+      font-size: 4.5rem;
       line-height: 0.96;
-      letter-spacing: -0.075em;
+      letter-spacing: 0;
     }
 
     .gradient-text {
@@ -124,7 +124,7 @@
       max-width: 720px;
       margin: 22px 0 0;
       color: var(--muted-2);
-      font-size: clamp(1rem, 2vw, 1.2rem);
+      font-size: 1.12rem;
       line-height: 1.7;
     }
 
@@ -197,11 +197,18 @@
     }
 
     .filter:hover,
-    .filter.active {
+    .filter.active,
+    .filter[aria-pressed="true"] {
       transform: translateY(-1px);
       border-color: rgba(56, 189, 248, 0.48);
       background: rgba(56, 189, 248, 0.12);
       color: var(--text);
+    }
+
+    .filter:disabled {
+      cursor: wait;
+      opacity: 0.68;
+      transform: none;
     }
 
     .grid {
@@ -212,6 +219,8 @@
 
     .card {
       position: relative;
+      display: flex;
+      flex-direction: column;
       overflow: hidden;
       min-height: 280px;
       border: 1px solid var(--border);
@@ -284,9 +293,9 @@
 
     .card h2 {
       margin: 0 0 12px;
-      font-size: clamp(1.25rem, 2.5vw, 1.7rem);
+      font-size: 1.45rem;
       line-height: 1.18;
-      letter-spacing: -0.035em;
+      letter-spacing: 0;
     }
 
     .card p {
@@ -300,6 +309,7 @@
       justify-content: space-between;
       gap: 16px;
       align-items: center;
+      flex-wrap: wrap;
       margin-top: auto;
     }
 
@@ -313,6 +323,39 @@
     }
 
     .read-link:hover { text-decoration: underline; }
+
+    .source {
+      color: var(--muted);
+      font-size: 0.82rem;
+      font-weight: 700;
+    }
+
+    .save-btn {
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 8px 12px;
+      background: rgba(2, 6, 23, 0.38);
+      color: var(--muted-2);
+      cursor: pointer;
+      font: inherit;
+      font-size: 0.86rem;
+      font-weight: 800;
+      transition: border-color 0.18s ease, background 0.18s ease, color 0.18s ease;
+    }
+
+    .save-btn:hover,
+    .save-btn.is-saved {
+      border-color: rgba(16, 185, 129, 0.48);
+      background: rgba(16, 185, 129, 0.12);
+      color: var(--text);
+    }
+
+    .save-btn:focus-visible,
+    .filter:focus-visible,
+    .read-link:focus-visible {
+      outline: 3px solid rgba(56, 189, 248, 0.5);
+      outline-offset: 3px;
+    }
 
     .difficulty {
       color: var(--muted);
@@ -337,10 +380,13 @@
 
     @media (max-width: 760px) {
       body { padding: 18px 12px 40px; }
+      h1 { font-size: 2.55rem; }
+      .hero-copy { font-size: 1rem; }
       .toolbar { grid-template-columns: 1fr; }
       .stats { grid-template-columns: repeat(2, 1fr); }
       .grid { grid-template-columns: 1fr; }
       .card { min-height: auto; }
+      .card h2 { font-size: 1.25rem; }
     }
 
     @media (prefers-reduced-motion: reduce) {
@@ -368,185 +414,296 @@
         <input class="search" id="searchInput" type="search" placeholder="Search topics, tools, workflows..." autocomplete="off" />
       </div>
 
-<div class="stats" aria-label="Feed summary">
-  <div class="stat"><strong id="articleCount">0</strong><span>articles</span></div>
-  <div class="stat"><strong>Updated</strong><span id="lastUpdated">Loading...</span></div>
-  <div class="stat"><strong id="categoryCount">0</strong><span>categories</span></div>
-  <div class="stat"><strong id="savedCount">0</strong><span>saved</span></div>
-</div>
+      <div class="stats" aria-label="Feed summary">
+        <div class="stat"><strong id="articleCount">0</strong><span>articles</span></div>
+        <div class="stat"><strong>Updated</strong><span id="lastUpdated">Loading...</span></div>
+        <div class="stat"><strong id="categoryCount">0</strong><span>categories</span></div>
+        <div class="stat"><strong id="savedCount">0</strong><span>saved</span></div>
+      </div>
     </section>
 
-   <nav class="filters" aria-label="Filter articles">
-  <button class="filter active" data-filter="all">All</button>
-  <button class="filter" data-filter="gemini">Gemini</button>
-  <button class="filter" data-filter="claude">Claude Code</button>
-  <button class="filter" data-filter="chatgpt">ChatGPT</button>
-  <button class="filter" data-filter="codex">Codex</button>
-  <button class="filter" data-filter="saved">Saved</button>
+    <nav class="filters" aria-label="Filter articles">
+      <button class="filter active" type="button" data-filter="all" aria-pressed="true">All</button>
+      <button class="filter" type="button" data-filter="gemini" aria-pressed="false">Gemini</button>
+      <button class="filter" type="button" data-filter="claude" aria-pressed="false">Claude Code</button>
+      <button class="filter" type="button" data-filter="chatgpt" aria-pressed="false">ChatGPT</button>
+      <button class="filter" type="button" data-filter="codex" aria-pressed="false">Codex</button>
+      <button class="filter" type="button" data-filter="saved" aria-pressed="false">Saved</button>
 
-  <button class="filter" id="refreshFeed" type="button">Refresh Feed</button>
-</nav>
+      <button class="filter" id="refreshFeed" type="button">Refresh Feed</button>
+    </nav>
 
-<section class="grid" id="feed" aria-live="polite"></section>
+    <section class="grid" id="feed" aria-live="polite"></section>
 
-<p class="empty" id="emptyState">No matching briefs found. Try a different search or category.</p>
+    <p class="empty" id="emptyState">No matching briefs found. Try a different search or category.</p>
     <footer>
       Built for fast scanning, deep dives, and daily AI engineering momentum.
     </footer>
   </main>
 
   <script>
-  const filters = Array.from(
-  document.querySelectorAll('.filter[data-filter]')
-);
+  const CATEGORY_LABELS = {
+    gemini: 'Gemini',
+    claude: 'Claude Code',
+    chatgpt: 'ChatGPT',
+    codex: 'Codex / LLM Code'
+  };
+
+  const filters = Array.from(document.querySelectorAll('.filter[data-filter]'));
   const feed = document.querySelector('#feed');
   const searchInput = document.querySelector('#searchInput');
   const emptyState = document.querySelector('#emptyState');
+  const refreshButton = document.querySelector('#refreshFeed');
+  const articleCount = document.querySelector('#articleCount');
+  const categoryCount = document.querySelector('#categoryCount');
+  const savedCount = document.querySelector('#savedCount');
+  const lastUpdated = document.querySelector('#lastUpdated');
   let cards = [];
   let activeFilter = 'all';
 
-function createCard(article) {
-  return `
-    <article class="card"
-         data-category="${article.category}"
-         data-title="${article.title}"
-         data-url="${article.url}">
-      <div class="card-top">
-        <span class="badge ${article.category}">${article.label}</span>
-        <span class="time">${article.time}</span>
-      </div>
+  function getSavedArticles() {
+    try {
+      const saved = JSON.parse(localStorage.getItem('savedArticles') || '[]');
+      return Array.isArray(saved) ? saved : [];
+    } catch (error) {
+      return [];
+    }
+  }
 
-      <h2>${article.title}</h2>
-      <p>${article.summary}</p>
+  function setSavedArticles(saved) {
+    localStorage.setItem('savedArticles', JSON.stringify(saved));
+    savedCount.textContent = saved.length;
+  }
 
-      <div class="card-footer">
-        <a class="read-link" href="${article.url}" target="_blank" rel="noopener">
-          ${article.linkText}
-        </a>
+  function normalizeCategory(category) {
+    return Object.prototype.hasOwnProperty.call(CATEGORY_LABELS, category) ? category : 'codex';
+  }
 
-        <button class="save-btn"
-                data-title="${article.title}"
-                data-url="${article.url}">
-          ⭐ Save
-        </button>
+  function safeUrl(rawUrl) {
+    try {
+      const url = new URL(rawUrl, window.location.href);
+      return ['http:', 'https:'].includes(url.protocol) ? url.href : '#';
+    } catch (error) {
+      return '#';
+    }
+  }
 
-        <span class="difficulty">${article.difficulty}</span>
-      </div>
-    </article>
-  `;
-}
-function saveArticle(title, url) {
-  const saved = JSON.parse(
-    localStorage.getItem('savedArticles') || '[]'
-  );
+  function createElement(tag, className, text) {
+    const element = document.createElement(tag);
+    if (className) {
+      element.className = className;
+    }
+    if (text !== undefined) {
+      element.textContent = text;
+    }
+    return element;
+  }
 
-  const exists = saved.some(article => article.url === url);
+  function isLowSignalArticle(article) {
+    const title = (article.title || '').trim().toLowerCase();
+    return title === 'untitled' || title.startsWith('untitled -');
+  }
 
-  if (!exists) {
-    saved.push({
-      title,
-      url,
-      savedAt: new Date().toISOString()
+  function updateSaveButton(button, url) {
+    const savedUrls = new Set(getSavedArticles().map(article => article.url));
+    const isSaved = savedUrls.has(url);
+    button.classList.toggle('is-saved', isSaved);
+    button.setAttribute('aria-pressed', String(isSaved));
+    button.textContent = isSaved ? 'Saved' : 'Save';
+  }
+
+  function refreshSaveButtons() {
+    document.querySelectorAll('.save-btn').forEach(button => {
+      updateSaveButton(button, button.dataset.url);
+    });
+  }
+
+  function toggleSavedArticle(article) {
+    const saved = getSavedArticles();
+    const existingIndex = saved.findIndex(savedArticle => savedArticle.url === article.url);
+
+    if (existingIndex >= 0) {
+      saved.splice(existingIndex, 1);
+    } else {
+      saved.push({
+        title: article.title,
+        url: article.url,
+        source: article.source,
+        category: article.category,
+        savedAt: new Date().toISOString()
+      });
+    }
+
+    setSavedArticles(saved);
+    refreshSaveButtons();
+    applyFilters();
+  }
+
+  function createCard(article) {
+    const category = normalizeCategory(article.category);
+    const url = safeUrl(article.url);
+    let title = article.title || 'Untitled';
+    let source = article.source || '';
+    const sourceSeparator = title.lastIndexOf(' - ');
+
+    if (!source && sourceSeparator > 0) {
+      source = title.slice(sourceSeparator + 3);
+      title = title.slice(0, sourceSeparator);
+    }
+
+    source = source || 'Unknown source';
+    const summary = article.summary || 'Open the article for the full report.';
+    const label = article.label || CATEGORY_LABELS[category];
+
+    const card = createElement('article', 'card');
+    card.dataset.category = category;
+    card.dataset.title = title;
+    card.dataset.url = url;
+    card.dataset.search = [title, summary, source, label].join(' ').toLowerCase();
+
+    const top = createElement('div', 'card-top');
+    top.append(
+      createElement('span', `badge ${category}`, label),
+      createElement('span', 'time', article.time || 'Latest')
+    );
+
+    const heading = createElement('h2', '', title);
+    const summaryText = createElement('p', '', summary);
+
+    const footer = createElement('div', 'card-footer');
+    const readLink = createElement('a', 'read-link', article.linkText || 'Read article');
+    readLink.href = url;
+    readLink.target = '_blank';
+    readLink.rel = 'noopener noreferrer';
+
+    const saveButton = createElement('button', 'save-btn');
+    saveButton.type = 'button';
+    saveButton.dataset.url = url;
+    saveButton.addEventListener('click', () => {
+      toggleSavedArticle({ title, url, source, category });
+    });
+    updateSaveButton(saveButton, url);
+
+    footer.append(
+      readLink,
+      saveButton,
+      createElement('span', 'source', source),
+      createElement('span', 'difficulty', article.difficulty || 'News')
+    );
+
+    card.append(top, heading, summaryText, footer);
+    return card;
+  }
+
+  function applyFilters() {
+    const query = searchInput.value.trim().toLowerCase();
+    const savedUrls = new Set(getSavedArticles().map(article => article.url));
+    let visibleCount = 0;
+
+    cards.forEach((card) => {
+      const matchesCategory =
+        activeFilter === 'all' ||
+        (activeFilter === 'saved' && savedUrls.has(card.dataset.url)) ||
+        card.dataset.category === activeFilter;
+
+      const matchesSearch = card.dataset.search.includes(query);
+      const shouldShow = matchesCategory && matchesSearch;
+      card.hidden = !shouldShow;
+
+      if (shouldShow) {
+        visibleCount++;
+      }
     });
 
-    localStorage.setItem(
-      'savedArticles',
-      JSON.stringify(saved)
-    );
+    emptyState.textContent = activeFilter === 'saved'
+      ? 'No saved articles yet.'
+      : 'No matching briefs found. Try a different search or category.';
+    emptyState.style.display = visibleCount ? 'none' : 'block';
   }
 
-  document.querySelector('#savedCount').textContent =
-    saved.length;
-}
-  function applyFilters() {
-  const query = searchInput.value.trim().toLowerCase();
-
-  const savedArticles = JSON.parse(
-    localStorage.getItem('savedArticles') || '[]'
-  );
-
-  const savedUrls = new Set(
-    savedArticles.map(article => article.url)
-  );
-
-  let visibleCount = 0;
-
-  cards.forEach((card) => {
-
-    const matchesCategory =
-      activeFilter === 'all' ||
-      (activeFilter === 'saved' &&
-       savedUrls.has(card.dataset.url)) ||
-      card.dataset.category === activeFilter;
-
-    const matchesSearch =
-      card.textContent.toLowerCase().includes(query);
-
-    const shouldShow =
-      matchesCategory && matchesSearch;
-
-    card.hidden = !shouldShow;
-
-    if (shouldShow) {
-      visibleCount++;
+  async function loadLastUpdated() {
+    try {
+      const response = await fetch(`feed-info.json?cacheBust=${Date.now()}`, { cache: 'no-store' });
+      if (!response.ok) {
+        throw new Error('Feed metadata request failed');
+      }
+      const data = await response.json();
+      lastUpdated.textContent = data.lastUpdated || 'Unknown';
+    } catch (error) {
+      lastUpdated.textContent = 'Unknown';
     }
-  });
-
-  emptyState.style.display =
-    visibleCount ? 'none' : 'block';
-}
-    async function loadLastUpdated() {
-  try {
-    const response = await fetch(`feed-info.json?cacheBust=${Date.now()}`);
-    const data = await response.json();
-    document.querySelector('#lastUpdated').textContent = data.lastUpdated;
-  } catch (error) {
-    document.querySelector('#lastUpdated').textContent = 'Unknown';
   }
-}
+
+  function setLoading(isLoading) {
+    refreshButton.disabled = isLoading;
+    refreshButton.textContent = isLoading ? 'Refreshing...' : 'Refresh Feed';
+  }
+
   async function loadArticles() {
-  const response = await fetch(`articles.json?cacheBust=${Date.now()}`);
-  const articles = await response.json();
+    setLoading(true);
 
-  document.querySelector('#articleCount').textContent = articles.length;
+    try {
+      const response = await fetch(`articles.json?cacheBust=${Date.now()}`, { cache: 'no-store' });
+      if (!response.ok) {
+        throw new Error('Article request failed');
+      }
 
-  const categories = new Set(articles.map(article => article.category));
-  document.querySelector('#categoryCount').textContent = categories.size;
+      const articles = await response.json();
+      if (!Array.isArray(articles)) {
+        throw new Error('Article payload was not a list');
+      }
 
-  const savedArticles = JSON.parse(localStorage.getItem('savedArticles') || '[]');
-  document.querySelector('#savedCount').textContent = savedArticles.length;
+      const visibleArticles = articles.filter(article => !isLowSignalArticle(article));
 
-  feed.innerHTML = articles.map(createCard).join('');
+      articleCount.textContent = visibleArticles.length;
+      categoryCount.textContent = new Set(
+        visibleArticles.map(article => normalizeCategory(article.category))
+      ).size;
+      savedCount.textContent = getSavedArticles().length;
 
-cards = Array.from(document.querySelectorAll('.card'));
+      feed.replaceChildren(...visibleArticles.map(createCard));
+      cards = Array.from(document.querySelectorAll('.card'));
+      applyFilters();
+    } catch (error) {
+      feed.replaceChildren();
+      cards = [];
+      articleCount.textContent = '0';
+      categoryCount.textContent = '0';
+      emptyState.textContent = 'Could not load the feed. Try refreshing again in a moment.';
+      emptyState.style.display = 'block';
+    } finally {
+      setLoading(false);
+    }
+  }
 
-document.querySelectorAll('.save-btn').forEach(button => {
-  button.addEventListener('click', () => {
-    saveArticle(
-      button.dataset.title,
-      button.dataset.url
-    );
-  });
-});
-
-applyFilters();
-}
+  async function loadFeed() {
+    await Promise.all([loadArticles(), loadLastUpdated()]);
+  }
 
   filters.forEach((button) => {
     button.addEventListener('click', () => {
-      filters.forEach((filter) => filter.classList.remove('active'));
+      filters.forEach((filter) => {
+        filter.classList.remove('active');
+        filter.setAttribute('aria-pressed', 'false');
+      });
       button.classList.add('active');
+      button.setAttribute('aria-pressed', 'true');
       activeFilter = button.dataset.filter;
       applyFilters();
     });
   });
 
- searchInput.addEventListener('input', applyFilters);
+  searchInput.addEventListener('input', applyFilters);
+  refreshButton.addEventListener('click', loadFeed);
 
-document.querySelector('#refreshFeed').addEventListener('click', loadArticles);
+  document.addEventListener('keydown', (event) => {
+    if (event.key === '/' && document.activeElement !== searchInput) {
+      event.preventDefault();
+      searchInput.focus();
+    }
+  });
 
-loadLastUpdated();
-loadArticles();
+  loadFeed();
 </script>
 </body>
 </html>
