@@ -403,22 +403,33 @@
   let cards = [];
   let activeFilter = 'all';
 
-  function createCard(article) {
-    return `
-      <article class="card" data-category="${article.category}">
-        <div class="card-top">
-          <span class="badge ${article.category}">${article.label}</span>
-          <span class="time">${article.time}</span>
-        </div>
-        <h2>${article.title}</h2>
-        <p>${article.summary}</p>
-        <div class="card-footer">
-          <a class="read-link" href="${article.url}" target="_blank" rel="noopener">${article.linkText}</a>
-          <span class="difficulty">${article.difficulty}</span>
-        </div>
-      </article>
-    `;
-  }
+function createCard(article) {
+  return `
+    <article class="card" data-category="${article.category}" data-title="${article.title}">
+      <div class="card-top">
+        <span class="badge ${article.category}">${article.label}</span>
+        <span class="time">${article.time}</span>
+      </div>
+
+      <h2>${article.title}</h2>
+      <p>${article.summary}</p>
+
+      <div class="card-footer">
+        <a class="read-link" href="${article.url}" target="_blank" rel="noopener">
+          ${article.linkText}
+        </a>
+
+        <button class="save-btn"
+                data-title="${article.title}"
+                data-url="${article.url}">
+          ⭐ Save
+        </button>
+
+        <span class="difficulty">${article.difficulty}</span>
+      </div>
+    </article>
+  `;
+}
 
   function applyFilters() {
     const query = searchInput.value.trim().toLowerCase();
