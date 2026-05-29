@@ -1,0 +1,42 @@
+[
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "7:00 AM Today",
+    "title": "Mastering Context Caching for Large-Scale File Analysis",
+    "summary": "Optimize token efficiency when sending massive codebases, PDFs, or video files to Gemini.",
+    "linkText": "Read documentation →",
+    "url": "#",
+    "difficulty": "Advanced"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "7:00 AM Today",
+    "title": "Advanced Agentic Workflows in the CLI",
+    "summary": "Explore terminal-native automation patterns, prompt overrides, safe execution guardrails, and multi-file refactoring loops.",
+    "linkText": "View tutorial →",
+    "url": "#",
+    "difficulty": "Expert"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "7:00 AM Today",
+    "title": "System Instructions & Reliable Tool Calling Chains",
+    "summary": "Build deterministic multi-step workflows with clear instructions, validation, structured outputs, and native analysis tools.",
+    "linkText": "Read deep dive →",
+    "url": "#",
+    "difficulty": "Advanced"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "7:00 AM Today",
+    "title": "Few-Shot Templates for Custom API Generation",
+    "summary": "Create reusable prompt patterns that help coding models adapt to internal libraries and legacy conventions.",
+    "linkText": "View repo →",
+    "url": "#",
+    "difficulty": "Intermediate"
+  }
+]
