@@ -5,6 +5,10 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
+concurrency:
+  group: update-ai-news-feed
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -23,7 +27,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser requests
+          python -m pip install --upgrade pip
+          pip install feedparser
 
       - name: Run updater
         run: |
@@ -38,4 +43,5 @@ jobs:
 
           git diff --staged --quiet || git commit -m "Update AI news feed"
 
+          git pull --rebase
           git push
