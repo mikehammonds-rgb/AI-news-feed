@@ -370,7 +370,10 @@
 
       <div class="stats" aria-label="Feed summary">
         <div class="stat"><strong>4</strong><span>featured briefs</span></div>
-        <div class="stat"><strong>Daily</strong><span>7:00 AM refresh</span></div>
+        <div class="stat">
+  <strong>Updated</strong>
+  <span id="lastUpdated">Loading...</span>
+</div>
         <div class="stat"><strong>4</strong><span>AI categories</span></div>
         <div class="stat"><strong>Dev</strong><span>workflow focus</span></div>
       </div>
@@ -436,6 +439,15 @@
     emptyState.style.display = visibleCount ? 'none' : 'block';
   }
 
+    async function loadLastUpdated() {
+  try {
+    const response = await fetch(`feed-info.json?cacheBust=${Date.now()}`);
+    const data = await response.json();
+    document.querySelector('#lastUpdated').textContent = data.lastUpdated;
+  } catch (error) {
+    document.querySelector('#lastUpdated').textContent = 'Unknown';
+  }
+}
   async function loadArticles() {
     const response = await fetch(`articles.json?cacheBust=${Date.now()}`);
     const articles = await response.json();
@@ -459,6 +471,7 @@
 
 document.querySelector('#refreshFeed').addEventListener('click', loadArticles);
 
+loadLastUpdated();
 loadArticles();
 </script>
 </body>
