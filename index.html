@@ -368,15 +368,12 @@
         <input class="search" id="searchInput" type="search" placeholder="Search topics, tools, workflows..." autocomplete="off" />
       </div>
 
-      <div class="stats" aria-label="Feed summary">
-        <div class="stat"><strong>4</strong><span>featured briefs</span></div>
-        <div class="stat">
-  <strong>Updated</strong>
-  <span id="lastUpdated">Loading...</span>
+<div class="stats" aria-label="Feed summary">
+  <div class="stat"><strong id="articleCount">0</strong><span>articles</span></div>
+  <div class="stat"><strong>Updated</strong><span id="lastUpdated">Loading...</span></div>
+  <div class="stat"><strong id="categoryCount">0</strong><span>categories</span></div>
+  <div class="stat"><strong id="savedCount">0</strong><span>saved</span></div>
 </div>
-        <div class="stat"><strong>4</strong><span>AI categories</span></div>
-        <div class="stat"><strong>Dev</strong><span>workflow focus</span></div>
-      </div>
     </section>
 
    <nav class="filters" aria-label="Filter articles">
@@ -449,14 +446,22 @@
   }
 }
   async function loadArticles() {
-    const response = await fetch(`articles.json?cacheBust=${Date.now()}`);
-    const articles = await response.json();
+  const response = await fetch(`articles.json?cacheBust=${Date.now()}`);
+  const articles = await response.json();
 
-    feed.innerHTML = articles.map(createCard).join('');
-    cards = Array.from(document.querySelectorAll('.card'));
+  document.querySelector('#articleCount').textContent = articles.length;
 
-    applyFilters();
-  }
+  const categories = new Set(articles.map(article => article.category));
+  document.querySelector('#categoryCount').textContent = categories.size;
+
+  const savedArticles = JSON.parse(localStorage.getItem('savedArticles') || '[]');
+  document.querySelector('#savedCount').textContent = savedArticles.length;
+
+  feed.innerHTML = articles.map(createCard).join('');
+  cards = Array.from(document.querySelectorAll('.card'));
+
+  applyFilters();
+}
 
   filters.forEach((button) => {
     button.addEventListener('click', () => {
