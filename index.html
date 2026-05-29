@@ -376,14 +376,20 @@
       </div>
     </section>
 
-    <nav class="filters" aria-label="Filter articles">
-      <button class="filter active" data-filter="all">All</button>
-      <button class="filter" data-filter="gemini">Gemini</button>
-      <button class="filter" data-filter="claude">Claude Code</button>
-      <button class="filter" data-filter="chatgpt">ChatGPT</button>
-      <button class="filter" data-filter="codex">Codex</button>
-      <button class="filter" data-filter="saved">Saved</button>
-    </nav>
+   <nav class="filters" aria-label="Filter articles">
+  <button class="filter active" data-filter="all">All</button>
+  <button class="filter" data-filter="gemini">Gemini</button>
+  <button class="filter" data-filter="claude">Claude Code</button>
+  <button class="filter" data-filter="chatgpt">ChatGPT</button>
+  <button class="filter" data-filter="codex">Codex</button>
+  <button class="filter" data-filter="saved">Saved</button>
+
+  <a class="filter"
+     href="https://github.com/mikehammonds-rgb/AI-news-feed/actions/workflows/update-news.yml"
+     target="_blank">
+    Refresh Feed
+  </a>
+</nav>
 
 <section class="grid" id="feed" aria-live="polite"></section>
 
