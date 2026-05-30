@@ -12,18 +12,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 30, 04:52 AM ET",
-    "publishedAt": "2026-05-30T08:52:00+00:00",
-    "source": "The Times of India",
-    "title": "Google CEO Sundar Pichai called out 'biggest AI budget problem' of companies world over from IO stage wit",
-    "summary": "The Times of India is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQWmtCY1ctdl9WSmg3MUlxcFdoVHRya0FraEc2dUpJdDRSMXA4MVUwLTlfV05sVTlfMXFyR1ZVeU9feGpsR0xnUVdPREJaQ2pLWGlFWDduaDFtVllxMjZGTlY0MmtIU1p2Z1BzTl8wb05kTUFWdlNyTGFpRHBvR2hWUVNNZkEtTmYtU2NoLU5mV1RrV3poY3BJWmRMQnp6NjBDWGpFc0ZOVEZLdm8wbjlnVG9YN2FWd1d2eXFiSlVQcXRGT0J3d1VHMTVLU3Fsa2VQU1g1QlhIUmM0c29fbUNYR2ZEai02MTcwSUtvaGxja2F0RURGX3pMQTBPSkNUUS10VmxZXzNfUnJ3MlRmZVdxcEU1NUhhSnkxcV90U1JOdENWQlllNUF2Mk5aNFhabFlTOENVUlZzMU1vOUprV0VQR0FLYlVFNm5acTBWVUstVjE4VVZRbnp30gHcAkFVX3lxTFBhTEJoMWZJZUVkeHJybTJ0UTZ5MVZiNEZnVlJWamV2TnBMbEo2ekdFRzU5NDMyX1N2YmJ3eWVfa1NadlNZYmR3SFE1d0JJTkRSS0tneG0zZFl6Qm1FekdFVFFUOTlFQnZyMjlUaGxMUjR4dzluNEdubjhNNWRBTFZsOGJQZElqMGhTSmFSYi1taE80R2czX2JYRFNwOW5POG8xNVpYTlZHNEYyTHpMLTBzdXJJbGd0bG5vWHhfdEliY29pT2lxOUY3VHRMOXF0SjJrV1gtWU5QZlhsZHBpNTZYbGpOZHlhTVl1Z3hnZDNsbmFZVjg3NVBqSUFlRUllbTZhWmc5N19ZUHpGRk9GMFNZVk5WVmhtTnU0OGJkRG9CbWd0b1hnZzUyeGVaOTV6RDFFSDNoWGZGNXFkV05GeFJaZGcydDM5SUw1SzRHY1BJUS03cVh1dXpZbEI5UA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 29, 07:49 PM ET",
@@ -137,7 +125,7 @@
     "time": "May 28, 01:51 PM ET",
     "publishedAt": "2026-05-28T17:51:32+00:00",
     "source": "Amazon Web Services (AWS)",
-    "title": "Claude Opus 4.8 is now available on AWS | Amazon Web Services",
+    "title": "Claude Opus 4.8 is now available on AWS | Artificial Intelligence",
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDctNzFXM1FDSHlUa3Ywdk9sVDB4V0tvMmVwamtxUzJfZGlyaXF2eThaT3B2ZWhuUzQ1LUlQZEpTWDZzTVlZdGZlOW5CdE1wNjRRZWRaYldWRHBpWEtUc2ZXM1dmRlpoT3djblB2Q2xaVTY5ekliNUh3N1RCM1l2MTd5Z29TaWdVanAxenpvcw?oc=5",
@@ -165,6 +153,18 @@
     "summary": "The Information is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnYwdFliUHZQWnMxTHQ5TnA1QVBFd2VCMHRQNUFEWGtra1h1eEsxdWVadDB1Z2dHdDJ6eERhd3lVT3Z1czJaOHYzbVIyN1JFUFc3TDl0cFBtQzFoY3VzdklCM2dLOC12cUF4dXlleDBtS3pob1YyMVNvS3RBQUY0a3dlQ01fMGJMYnpsUWlnblhObEtWU0s2TVRkc0daa1dRSUpsdEZKZHNJbFlUTHo4cTZLcXE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 27, 02:16 PM ET",
+    "publishedAt": "2026-05-27T18:16:26+00:00",
+    "source": "TechRepublic",
+    "title": "Google AI Studio Cheat Sheet: Features, Pricing, and More",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LbU9DX0ZRbFQ2SlJUTFoycEhieWhIbXJtU3RrWDYyblVFN2JLM2QwOXB4SEVNanhVQlhraU5XVHlWcnFBREw5Wlh1MnFzUGM2aHMtOG16eVNnbUlaSDF3SS1DdDBxUmhvU2kyWHpoSmdLdk5ZSWpNZXJncw?oc=5",
     "difficulty": "News"
   },
   {
