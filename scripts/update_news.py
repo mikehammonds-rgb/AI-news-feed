@@ -137,10 +137,12 @@ articles = articles[:MAX_TOTAL]
 with open("articles.json", "w", encoding="utf-8") as f:
     json.dump(articles, f, indent=2, ensure_ascii=False)
 
-eastern_time = datetime.now(LOCAL_TIMEZONE)
+updated_at_utc = datetime.now(timezone.utc)
+eastern_time = updated_at_utc.astimezone(LOCAL_TIMEZONE)
 
 timestamp = {
-    "lastUpdated": eastern_time.strftime("%B %d, %Y at %I:%M %p ET")
+    "lastUpdated": eastern_time.strftime("%B %d, %Y at %I:%M %p ET"),
+    "lastUpdatedUtc": updated_at_utc.isoformat().replace("+00:00", "Z")
 }
 
 with open("feed-info.json", "w", encoding="utf-8") as f:
