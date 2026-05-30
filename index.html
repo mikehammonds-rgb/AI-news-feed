@@ -499,6 +499,31 @@
     return element;
   }
 
+  function formatLocalTimestamp(isoTimestamp, options = {}) {
+    if (!isoTimestamp) {
+      return '';
+    }
+
+    const date = new Date(isoTimestamp);
+    if (Number.isNaN(date.getTime())) {
+      return '';
+    }
+
+    const formatOptions = {
+      month: 'short',
+      day: 'numeric',
+      hour: 'numeric',
+      minute: '2-digit',
+      timeZoneName: 'short'
+    };
+
+    if (options.includeYear) {
+      formatOptions.year = 'numeric';
+    }
+
+    return new Intl.DateTimeFormat(undefined, formatOptions).format(date);
+  }
+
   function isLowSignalArticle(article) {
     const title = (article.title || '').trim().toLowerCase();
     return title === 'untitled' || title.startsWith('untitled -');
@@ -564,7 +589,7 @@
     const top = createElement('div', 'card-top');
     top.append(
       createElement('span', `badge ${category}`, label),
-      createElement('span', 'time', article.time || 'Latest')
+      createElement('span', 'time', formatLocalTimestamp(article.publishedAt) || article.time || 'Latest')
     );
 
     const heading = createElement('h2', '', title);
@@ -628,7 +653,10 @@
         throw new Error('Feed metadata request failed');
       }
       const data = await response.json();
-      lastUpdated.textContent = data.lastUpdated || 'Unknown';
+      lastUpdated.textContent =
+        formatLocalTimestamp(data.lastUpdatedUtc, { includeYear: true }) ||
+        data.lastUpdated ||
+        'Unknown';
     } catch (error) {
       lastUpdated.textContent = 'Unknown';
     }
