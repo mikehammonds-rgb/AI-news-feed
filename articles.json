@@ -1,5 +1,29 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "May 30, 12:25 AM ET",
+    "publishedAt": "2026-05-30T04:25:20+00:00",
+    "source": "Let's Data Science",
+    "title": "Anthropic Releases Claude Opus 4.8 With Faster, Higher-Effort Modes",
+    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWEF2c3NvT2F2MEkyVXFlckFDdlYwSkp5dTlmUEN3QnlMRURDeVFTZXlHNWNTNmNfYTRvSmMtS0RCSTlsek5nOXB6cXJSVlZIUW9ub2tCWFd3b3BVSGRVNXk2MUJlVHdxWklnd1JZM2ZUU1dDUEdyNWRPODEtWnJjR2dvaUZUandCQ2VXbFhWOFJEc1JLZkVpcHBvS2F6dVlycEdZ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 29, 07:49 PM ET",
+    "publishedAt": "2026-05-29T23:49:57+00:00",
+    "source": "TradingView",
+    "title": "MSFT Stock Records Best Month In A Year: AI PC Tease With NVDA And A Super App For Copilot Are Aiding The Stock",
+    "summary": "TradingView is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOb200UlFmRHhEUEdYeTVnUkNoSXV4UGEwdzRVMTlGOTM2NW45UF9JZ0cyazhwUTU5bzdpQkpKSU1MRVdMWkZGWGZ6RnhCUTJJV3RvTFhtdUktYUhxeTJ0aHRORnA3aDd3Qk1CNFQwOGhqWURkRFYwQmNPbkVHeDJuYkw3OFc1U29yRU41b1N3WkZjUlY4RWlBamEyczVGMnFTTzViTTdjZDVwSzBGcjgxNnY5ZWo3R2xBSFQ0bEY5S0lySjVKeDVxd2xkRmRPaVdNOWRkdHdubFYyWGJTWEZzTTF0RWlSckpTb3ZKemNrZ3VNa2R1ZGJsQ2dXMFBnM2tJ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 29, 03:59 PM ET",
@@ -9,6 +33,18 @@
     "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lNnlKWl9QZXZzdS02T01YNmlCbG9tdmpCdGVYUnNfQkMwVWdQUHZ5eW9FWVpFWDFOLU8zUHVyUk9yVFRzREVlTW11RnVWN1RNcHdZVF9tVkNzNXItX1dDeHFSN2d6dw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 29, 03:14 PM ET",
+    "publishedAt": "2026-05-29T19:14:10+00:00",
+    "source": "blog.google",
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORlhDby1MZDNPMVBEbFZJSTUwUlpOdVJQRXJXVHIxc0QyZ0laZVVubDlUQ2c1eHk0RndTaF8xTi15Q0hMQkxuWE5ick9LTF84cG9GdkZRcnNQeC1ZblE2ZzNsb01tYXYzLTRrckN3MlVNSGFSeXRiY2ZVRTFwenQzam9R?oc=5",
     "difficulty": "News"
   },
   {
@@ -24,6 +60,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "May 29, 01:35 PM ET",
+    "publishedAt": "2026-05-29T17:35:19+00:00",
+    "source": "Yahoo Finance",
+    "title": "Company Blew $500M On Claude AI In One Month Due To No Usage Limit On Licenses For Employees",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVy1BYXdYTWVlblVqWG9lY2VvclQ1SkFxR0ZoWHpPU1VsRWd4NXZFM2tZbl9WSWE0OVN1MG9MTDFTMzRtVU44SUtQTzJwOHRDU08xcjV6Vm50azhER0cyMk5HclZ6ZFdFdEp6ejkwNVc5bFgzcVFFajR6MERSdV8tZG9qeENCVWdOVXJwektZZ0tKSnJidWRHZEF2al8?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 29, 01:14 PM ET",
@@ -33,18 +81,6 @@
     "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 29, 08:39 AM ET",
-    "publishedAt": "2026-05-29T12:39:14+00:00",
-    "source": "Blockonomi",
-    "title": "Datasection Taps OpenAI API for Asia Enterprise AI Push as Stock Surges 19%",
-    "summary": "Blockonomi is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUpRaHZWRzRGaTZ6anBDMHRYSnA5NkxhTWtkU19HSnNFWmVPVmdJUkY5M3Y4WlF0bHgxXzBlU1FLM1pka0xyUkdqaXJIZmFhQ01kUGtoeE92LWt2U1d1R0UyR1RPSkJUbzFCNG8yRDNNSlpWajctQ2JtZUF3SW9vbzBCRWFyR2JvdVljU1VrcEZWMmVVLUstME1tcjNvcmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -62,78 +98,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "May 29, 06:54 AM ET",
-    "publishedAt": "2026-05-29T10:54:00+00:00",
-    "source": "Yahoo Finance",
-    "title": "Client Accidentally Burns $500 Million on Claude AI in One Month: Here’s How",
-    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXR1M1VnRWg1dDZRYnR1bkFsRFBDWUpQTTRvalJ4MnhCOXg3NGJGd1Y0UzJvYzFaOThwaXVPZng4aUwtVzVxTmlIZmtDaFhnSU9qVTE4Tmp3bkc4bnVPYXcwdXVuZVBYX01RcXU3aFdtX01jZXhiU2ViajF4Xzk1WFBnRHY2d3Z1dG5weXVVYmVEbEg3djNocllOLTRJSXpzdHA0UGZCMVg0Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "May 29, 06:52 AM ET",
-    "publishedAt": "2026-05-29T10:52:03+00:00",
-    "source": "AI News",
-    "title": "Anthropic releases Claude Opus 4.8",
-    "summary": "AI News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNybmJkWXhJX2FCQVpwVjdmRGduY2ZCeEsyWFpCMXRvQWhhZUZmSnl0bnhPTkVJY1pSQ2w3UTR5S0J4cGZXN2VGcHJscy1URm9zMzdlbEltd3NrWWRFcEFSSXFWOFZkSXVfRm1uZ1V4OVloaUZNMFdzY1kwNFZ2dk1nNThXZHpqeWZPeEtSVm1qZHM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "May 29, 05:44 AM ET",
-    "publishedAt": "2026-05-29T09:44:01+00:00",
-    "source": "Let's Data Science",
-    "title": "Unnamed Company Incurs $500M Claude AI Monthly Bill",
-    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEtIcWlZSnpialV0Tk1mZTk1dWluTHhLenI2ODN6am94UTBYbkczRmhCaENGZVByandpWnVMMUw1Y3BINXhDSzFxNXgxRk9ubkVkVDJvRWd3RGwwTzNOcmhlYmR1b0xxQXVRZkJVcmctaUNYSXoxeUhxVGd1eUNmMTZLUnFkbjZPZFNoLTJlQ3dVTGpsR0xZ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "May 29, 05:44 AM ET",
-    "publishedAt": "2026-05-29T09:44:01+00:00",
-    "source": "Tom's Hardware",
-    "title": "Mystery company accidentally blew $500 million on Claude AI in a single month — failed to put usage limit on licenses for employees",
-    "summary": "Tom's Hardware is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQV0hVVlFtTXYwNEY2RzkxeXhzYmppWGRUX2MxRVpSSENkTWdqT0dPdkw2bGJpTExyb2hmc2NpekMycF91SnBiaGYzb256dm11QkxSeExqS3E3YkpBUERxMElsbGU1WjRRM3V2QWNwQmpDYW1LeGtha21VU2Y3RHlNeGliSmdJZ2dabUpXdjliSmd0WklfLUlwMmpyTTVBeDJicWs1Nl9kZFZ5Zmp5WnVkZlkwQ3o2bkVXbTAyclNyVTlqX2VrU2hjRWxSY1JRdzROQWNYQ2Y1alEyZzItVEppLWJGVlhPejZjeE1Vc0hMa216QjNtUkFLR01NOWpYdkZucjAydlVWWVZkVWxkVG5rdFI3bWgtdElZcU42QnRIZDA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "May 29, 03:30 AM ET",
-    "publishedAt": "2026-05-29T07:30:28+00:00",
-    "source": "India Today",
-    "title": "Microsoft to launch new AI coding model, take on OpenAI and Anthropic business",
-    "summary": "India Today is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVzJ2X2ZzZ09mdUxobmEySmZ0MVIwMThjakJjeERuMlplUHdVSDYyTWluNWJ6RUJtUTdta2tEcFNGcVRIUTNGT00xeEJLTXlmdW5aMm40aU04TjY4QThPLXpLREM5OW5UZkRyb3dPSjVtQ2VyZ2VKd3ZzZGtHem43STR0bEdlSjQ2WXRvU3UzaFZwaGl1ci12Y3g4YlpYZDF0Z0tPMEZBMTNBSl9lN2QzSHJZSWxWY2s2MjM0bDFMaXpQalpzaTA2a081TURZbkJYS1UtYld30gHbAUFVX3lxTE1EQ3lzdEF1T1NBVkY1ci1ESjFSWjV1ZTFkaDVMaEU0OUFncmQ1TTFtT2VsY3hxNUlfMTY2RmpHdHNrcDdnMkR4V1psejcyT3lWOExlTjN3eWpRMjBuMWRhZm1Rb1hqa09CLTN4SDBqdzE5OWowblVqaUVvZC1JZm84SWEwcTZCeFBIYVZ5M3YtV2NfQ3RfcnBiN0VYUnp4TGZ3SGgzTWVOTS1GcnlsWG1yMTZJNHBKc2ZDaHlNNHdZSTVUNVZ4ZkVpTUliMVBMQTJCd2FrX05ZdTJhMA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 29, 02:29 AM ET",
-    "publishedAt": "2026-05-29T06:29:52+00:00",
-    "source": "Android Police",
-    "title": "Gemini’s restrictive usage limits are getting another overhaul",
-    "summary": "Android Police is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHpWU056WUdZRE5xc1lFcW9MM3g1dWdjWnFUMWotSEFSanROTDgwSkYzN3hrNjJucWhGSl9namtnczJhazFQaDQ5ZWJsdVNhR3FnN3pUODlFU0hnRnR3RHFsMXJGbXczX3VlejY1UXFuc29Vc2hscFdVQUdFREtOSVFreWVEc1JYbEZ4cHJwQ3c4dHNrMVNr?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "May 28, 06:52 PM ET",
     "publishedAt": "2026-05-28T22:52:08+00:00",
     "source": "Anthropic",
@@ -146,6 +110,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "May 28, 04:11 PM ET",
+    "publishedAt": "2026-05-28T20:11:49+00:00",
+    "source": "Mashable",
+    "title": "Claude Opus 4.8: Anthropic makes a more 'honest' AI",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03M1pjaGtYNGI1S3hoSkpvOWlqZW9YV3lwQmQ4WERWbzZ1MkE1ZmkwR2NrTnNBOW1MX3JuMU44QzFzeGdCWEYzUkxWSkZkN3hXWmF2cnQ4cnVxZ3B2bm9XWHZ3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "May 28, 01:51 PM ET",
     "publishedAt": "2026-05-28T17:51:32+00:00",
     "source": "Amazon Web Services (AWS)",
@@ -153,6 +129,18 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDctNzFXM1FDSHlUa3Ywdk9sVDB4V0tvMmVwamtxUzJfZGlyaXF2eThaT3B2ZWhuUzQ1LUlQZEpTWDZzTVlZdGZlOW5CdE1wNjRRZWRaYldWRHBpWEtUc2ZXM1dmRlpoT3djblB2Q2xaVTY5ekliNUh3N1RCM1l2MTd5Z29TaWdVanAxenpvcw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "May 28, 12:56 PM ET",
+    "publishedAt": "2026-05-28T16:56:24+00:00",
+    "source": "The GitHub Blog",
+    "title": "Claude Opus 4.8 is generally available for GitHub Copilot",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVFFNVA2ejRDWV9mOXRSTW1NcDFRYlZnNkkxN1pBMzdQSlA2N0J6ZUFMeDh0WnhwaXJXdnhjcWVCUjZXYTFhSHQ0UTFCZlVFRExncHlGTUhKYmw1UngxblZkcVcyeU5KbERWdV9teHBPazRFOVlXWUdhd0k4YVA5bVpHZ1FfZ3ZkVy1XTUZxQnpkdjVrdkRqcENNTlVld2FN?oc=5",
     "difficulty": "News"
   },
   {
@@ -173,10 +161,10 @@
     "time": "May 27, 03:00 AM ET",
     "publishedAt": "2026-05-27T07:00:00+00:00",
     "source": "Augment Code",
-    "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
+    "title": "8 Best AI Coding Assistants [Updated May 2026]",
     "summary": "Augment Code is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSnA4TElnNUJ2QjI2d0RMSW9Vb3ROUTRLNnpKYUNqbEk3MHRiaTk5ZUxVQ09SNE9aOGJDZWxiMnlWNjFpcFFSSEtYT2UxOGZlVnBzc2RRbmhCSEkxZlJQUThCdDFrRkZvSGxHZElFeGt5WGNUWkJScGJhbFBBSnludTk3MS1JWEV3REx3cG5n?oc=5",
     "difficulty": "News"
   },
   {
@@ -237,18 +225,6 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 24, 03:00 AM ET",
-    "publishedAt": "2026-05-24T07:00:00+00:00",
-    "source": "PCMag",
-    "title": "I Paid for Google's Gemini AI Plan. These 5 Features Justify the Price",
-    "summary": "PCMag is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnFKNjViTU54dkFVU2RyU1VXdU42cGxjazNaRWV5QU1nSlEtNGs2Ulkxc185ZEtjTW1sRmN3Z1NzOTUxTU1vUFNsb1RQdURCSkdNMy0wYTAtd3B0U1ZWdmxPbTAxSk15NTNrTFI3QjAwYzR1T1VJc3AzeVA4VHY2VU5kbk90MTY2MmdqRjNlLXAxUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -324,6 +300,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 19, 03:00 AM ET",
+    "publishedAt": "2026-05-19T07:00:00+00:00",
+    "source": "TechCrunch",
+    "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHZkQnVKUnpEWmx5bC1GUGJmdGRrbk9pd1lrQXliS2RIU1RZLW9GZURiNldKNFVVNXVvbmdZY1plWmdWME5pOWJSbkdsa0Y2YWRFT2FYZmpyVlhKM2ZiaGJ2aHB1TmNmUVFDUXppNVlIS0FXMmJEZ1R1dG1WR19GeXNEQ0FPVWs5Y0FqT004TUlFeGdReHZsT2pqQlZvcG8?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "May 17, 03:00 AM ET",
@@ -369,6 +357,18 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEVKNVBfWjRiOU9oWWM0Zkh4elFUbWtaMVd6RDVFeXVpTVU0TVZvTzVxbVVaMTdVWW9CejVZcklRTGFZWkhGRG1MS1NQb1V5VEF0MGxnbE9VZzVqZ0tBa2MzYjluZWpOME5wT0VBQzBFbFV4UDBfbDVlQ2tXeDZnUG5IMzdsODNXZ2NHa3I2VndTRk5XZUxXYg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Dec 11, 03:00 AM ET",
+    "publishedAt": "2025-12-11T08:00:00+00:00",
+    "source": "Databricks",
+    "title": "OpenAI GPT-5.2 and Responses API on Databricks: Build Trusted, Data-Aware Agentic Systems",
+    "summary": "Databricks is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDlWVzhKOGlrQVZzMGYtV0pZRkpSZ0lXNVVtZ0pLRkp6QndlNGwxc0N0T0hvekxfdWEtQVZNanRFZERoa095RWJHT2ZKQjZmcnNIZUVPMlVIS25lWDFGVDNXM1NpQmM4Y2pzcVZmbXlqeTdaeUlsQjhqNWtSQ3lLb0hoaEJQckpubzhJd3R1SWk2dlJvSV84ZXdOb3pzX0dLaTZnVTBMTE9SWXJlaUNuTXFwa3htQQ?oc=5",
     "difficulty": "News"
   }
 ]
