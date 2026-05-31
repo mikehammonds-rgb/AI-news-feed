@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 31, 12:52 PM ET",
+    "publishedAt": "2026-05-31T16:52:21+00:00",
+    "source": "PPC Land",
+    "title": "Google GML backstage: product leaders on Gemini, AI Max, and measurement",
+    "summary": "PPC Land is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0FCckxxVl9tNzU2QXlteUhhQjd5bW5TYV9rVkJTeERNRGxUSFBHcnZ6OG5xdVVNaEViSkplcWFKTE5HNGFXQkNFZWM4NDdiT2lPSlZEWFdIR1ZQRzNDekhvNFpYSk9wWEliV1NNbGg0WVRGMTB0RW1HNnk0NjhGXzdhWVczLXBnek14OXlFR2k?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 31, 05:18 AM ET",
@@ -48,6 +60,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "May 29, 01:35 PM ET",
+    "publishedAt": "2026-05-29T17:35:19+00:00",
+    "source": "Yahoo Finance",
+    "title": "Company Blew $500M On Claude AI In One Month Due To No Usage Limit On Licenses For Employees",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVy1BYXdYTWVlblVqWG9lY2VvclQ1SkFxR0ZoWHpPU1VsRWd4NXZFM2tZbl9WSWE0OVN1MG9MTDFTMzRtVU44SUtQTzJwOHRDU08xcjV6Vm50azhER0cyMk5HclZ6ZFdFdEp6ejkwNVc5bFgzcVFFajR6MERSdV8tZG9qeENCVWdOVXJwektZZ0tKSnJidWRHZEF2al8?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 29, 01:14 PM ET",
@@ -57,30 +81,6 @@
     "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 29, 07:02 AM ET",
-    "publishedAt": "2026-05-29T11:02:11+00:00",
-    "source": "Thurrott.com",
-    "title": "Google Tweaks Gemini’s New Usage Limits After Listening to Feedback",
-    "summary": "Thurrott.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWE1FdnloellqSFRuLU9Uc0pDX3JHRTZ6TU80NjNBcTh1U1N0UnFjdnEza2FIQ3VoWXh4SWQ5Uk9MTEJnM1d5dlVCbWQ5YzJwNWU4V05WRUdkd3pLTll4amhLOTIycmlJUm1QYndGWENfX0ZOaUNlTl9EbWhWZFNYQXl3SnhJWjFKcEZJd1RISWFJd0Qxb0hHRENzYmVyanNVUkhqSQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "May 29, 06:54 AM ET",
-    "publishedAt": "2026-05-29T10:54:00+00:00",
-    "source": "Yahoo Finance",
-    "title": "Client Accidentally Burns $500 Million on Claude AI in One Month: Here’s How",
-    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXR1M1VnRWg1dDZRYnR1bkFsRFBDWUpQTTRvalJ4MnhCOXg3NGJGd1Y0UzJvYzFaOThwaXVPZng4aUwtVzVxTmlIZmtDaFhnSU9qVTE4Tmp3bkc4bnVPYXcwdXVuZVBYX01RcXU3aFdtX01jZXhiU2ViajF4Xzk1WFBnRHY2d3Z1dG5weXVVYmVEbEg3djNocllOLTRJSXpzdHA0UGZCMVg0Zw?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,6 +105,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "May 28, 03:57 PM ET",
+    "publishedAt": "2026-05-28T19:57:05+00:00",
+    "source": "Mashable",
+    "title": "Claude Opus 4.8: Anthropic makes a more 'honest' AI",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03M1pjaGtYNGI1S3hoSkpvOWlqZW9YV3lwQmQ4WERWbzZ1MkE1ZmkwR2NrTnNBOW1MX3JuMU44QzFzeGdCWEYzUkxWSkZkN3hXWmF2cnQ4cnVxZ3B2bm9XWHZ3?oc=5",
     "difficulty": "News"
   },
   {
@@ -144,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 28, 12:11 PM ET",
-    "publishedAt": "2026-05-28T16:11:35+00:00",
-    "source": "blog.google",
-    "title": "Catch up on 12 major I/O 2026 moments",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDJZaHlMcDEzNmtieE1DS0pBck5zRFh4akFYZ1c2VXNxZWYtX3FSQ29wZF9aTTloM1d2VDA3dVBUZlVHSkI4T1BiV0l1VjRHeFA2UXhqS2R6SUVvbEtqV2JOSWZVVHpuRkU4eVZMOFVLQkhtRTVHVm5LX013M0s4LWNramQyUV9qbmc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 28, 10:00 AM ET",
@@ -185,10 +185,10 @@
     "time": "May 27, 03:00 AM ET",
     "publishedAt": "2026-05-27T07:00:00+00:00",
     "source": "Augment Code",
-    "title": "8 Best AI Coding Assistants [Updated May 2026]",
+    "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
     "summary": "Augment Code is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSnA4TElnNUJ2QjI2d0RMSW9Vb3ROUTRLNnpKYUNqbEk3MHRiaTk5ZUxVQ09SNE9aOGJDZWxiMnlWNjFpcFFSSEtYT2UxOGZlVnBzc2RRbmhCSEkxZlJQUThCdDFrRkZvSGxHZElFeGt5WGNUWkJScGJhbFBBSnludTk3MS1JWEV3REx3cG5n?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
     "difficulty": "News"
   },
   {
@@ -204,6 +204,30 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 25, 04:27 PM ET",
+    "publishedAt": "2026-05-25T20:27:00+00:00",
+    "source": "9to5Google",
+    "title": "What Gemini features you get with Google AI Plus, Pro, & Ultra [May 2026]",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMERrMmhzSy1vOFdvSS1XaTAxeVZrSUNmYVgzbV92cE1Jal9fY2ljQmVqMXlRQXVZcm1jSWZNQTV6Qkw1M1BYTVN0YzhCejk3QzFKOHZQZEZPQzBuMml2elBKZkpYal9MLUMyR29xZEdsNHp0dHFhVnRHSl9QXzIyRw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "May 25, 12:18 PM ET",
+    "publishedAt": "2026-05-25T16:18:34+00:00",
+    "source": "Help Net Security",
+    "title": "Anthropic adds 28 security and compliance integrations for Claude",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3FLd0sxNFpWUFY5WkJRNXY0QmMxZDFsa2FmVXpSNHJYYjdWOHMxNnkxRnhwZ3BXNjg4a2dGT09DVTh2THNwd3U1bjdYYk44NktyOTYtU1ZxMmpSZEJhUGlGaEZHVVY5R19xbzEteEdEaDlUUmZHUWgyZG9IUkJpN0ZFekFtWGdWb2F1R2hBdVZtSUdLdTd5TA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 25, 01:02 AM ET",
@@ -213,30 +237,6 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "May 21, 01:48 PM ET",
-    "publishedAt": "2026-05-21T17:48:19+00:00",
-    "source": "wiz.io",
-    "title": "Claude Enterprise Meets the Security Graph: Wiz Integrates with Anthropic's Compliance API",
-    "summary": "wiz.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DWDB1T0JUU1dtVU9Ec3Q5ZmJpWDY3QXJ2UG1QMTR2ckJUdkVQOWhyMlktOVptY0VfSk4xaXoxSU4tN2JYbXNRY29lcUNwSF9XWnFzamNNYkdxQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "May 21, 03:00 AM ET",
-    "publishedAt": "2026-05-21T07:00:00+00:00",
-    "source": "The Cloudflare Blog",
-    "title": "Announcing Claude Compliance API support with Cloudflare CASB",
-    "summary": "The Cloudflare Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwNnlhazhDWkU0YnNIVHFuOGJpMHBCcDVsTFp0YWw4SjFBeTZCVEV4U0hHVXM4MFVmR0prclhvVzd3a0R6cEJWWDJKRlZ5WVRTcUozeW5Bb2QxTmR0TDNVZ0tNeGwtZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -266,25 +266,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Built In",
-    "title": "What is Google Gemini? (Models, Capabilities & How to Use)",
-    "summary": "Built In is reporting this update. Open the article for the full story.",
+    "time": "May 19, 01:42 PM ET",
+    "publishedAt": "2026-05-19T17:42:03+00:00",
+    "source": "Mashable",
+    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXanowczhneC1OaVYwSngyWVJiTm81VVZRTEtIZVV2N1hsOTBjSzFtYU5rd0MyVjZ3S1c0bElDVW4wQXd5WW9DR09RaEFGVXZKVVdhUA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 19, 03:00 AM ET",
-    "publishedAt": "2026-05-19T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RaFg2Q3pCVU5icWEzMFd5bE05TnBGWjd1d1VRWnJvaEszWGhPWVZnSGR0Z0ZZZEVrVnYtb0lLQkRDUWk4WDVXbHpWamFsSFFHdUxFcTE0MzNXWXlfcDBjNXhMMlA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,6 +333,18 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEVKNVBfWjRiOU9oWWM0Zkh4elFUbWtaMVd6RDVFeXVpTVU0TVZvTzVxbVVaMTdVWW9CejVZcklRTGFZWkhGRG1MS1NQb1V5VEF0MGxnbE9VZzVqZ0tBa2MzYjluZWpOME5wT0VBQzBFbFV4UDBfbDVlQ2tXeDZnUG5IMzdsODNXZ2NHa3I2VndTRk5XZUxXYg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Apr 27, 03:00 AM ET",
+    "publishedAt": "2026-04-27T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "OpenAI available at FedRAMP Moderate",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uR1hHSEpQU0t4OFlKdHBlZ2JvS1ZtVnhDQ3BBTktfVW5ITk10WWd2amplMmUwQWFmUVdNWTVRVWpGZ2pYb0ZkTFpERTJ6WEE2VVF0clVIaGtlTjBqX0JLbzZFT1pRbHh2aFV5VEFkcw?oc=5",
     "difficulty": "News"
   },
   {
