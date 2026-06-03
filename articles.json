@@ -1,5 +1,77 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 03, 05:59 PM ET",
+    "publishedAt": "2026-06-03T21:59:10+00:00",
+    "source": "Android Headlines",
+    "title": "Google Rolls Out Gemini Thinking Levels to All Users, No Subscription Needed",
+    "summary": "Android Headlines is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZHE0T2JxZmFZZTlkRjRVVDFpVVBoRXpQUC02eTliZ2hDV3RVRkVUMjFDcEdGdjdoLWNiOXJzWnVPWDJOTURCUlBwRWYtMlc5bGlxX1RJdlpmQ1BkeU9LYUFsSHZnWC11NDVRZkRnS2JUZFNaTnNSYjVDZ21xOHQteHdqMWMyLXNVVGZJd3FHeFFEbWVoUGgtTS1IdURIZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 03, 12:24 PM ET",
+    "publishedAt": "2026-06-03T16:24:00+00:00",
+    "source": "The Times of India",
+    "title": "Microsoft launches GitHub Copilot desktop app to manage multiple AI agents",
+    "summary": "The Times of India is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaEV2cm9vdlpSTGROZkEwNUd3UndIYnBmN0pOTUFtZjBMVHpXS2tTb2h3UWQ5N01HUkFqTGJxZHJ5VVFzdHNrYjdVZ3ZjbHNaLS1rLTZWbGlJdUx6VTJTNGlXd3JOZ25ZZ0VWdGlYa2p3al9tTEFLMDFfZDFlS0hfTmpuQkxVQ043cEgwckU3b3F6TUxqdzNfT3d4N0owM3lVNEJyOXhtaXNRb2NiQXNubEJMWFJlUUFGYWI5WGhIbEMwZ29vS19EN1FGX1JUbWFCMW9Lakc3YmQxMUR2aF9pUDZFV1FRcVdWaGlUSldB0gHzAUFVX3lxTE1rbHhMdkdQdGo2QnY4QnZoVGU1VTBUYWxPR1FDTlA4X2JoWTdfU1pmdUlJV0M3bXJ1U3RSeGxnNmRwQnJRSDVPTi1BSzE3dXpFTXhBSHNpRFg4MlJEOGFoWjlSOXY3LTlyTmFFSTcxamxMcUpIeVdsZWZSVkNSckRkZVpwWmowZlp4TWtlcmNNTWJ2a2FLTDNMcUgtcTVYVGhtZHAtQV90bTBaNWRHTFlPZWhnNEd5Ylh1aVVnaUNteHJycGhhXy12U1Z3MWVuWU9WSUZHMjcydzM4bHFIZmF1d0FsSnp0anlxOFRFMmFaMjJrdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 03, 12:10 PM ET",
+    "publishedAt": "2026-06-03T16:10:37+00:00",
+    "source": "blog.google",
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTdUNDVqeHpOQ3AtSDdyeE1oR2VVXzA2ZFNOTi1mZWh6ek9ZWkhjY19hZU1la2tBalJzcjVsVkk2RENHLWo5c2VDai13QXlZaGs2TXpfYWpkWTBKZnBNbnItYy0yUGpxSzRhQmpUT3NhSHhHOWZGUERHVjZWaDF6am0zUGJLekYtemp2SmhQODU4dDg1?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 03, 11:00 AM ET",
+    "publishedAt": "2026-06-03T15:00:00+00:00",
+    "source": "Cloud Wars",
+    "title": "Microsoft Extends Purview With Visibility and Control of Anthropic Claude",
+    "summary": "Cloud Wars is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUkFkM1pZeHM3RjhyTjhuMlVTWTNZd1BMV09GbTBQWTZjMkRTMVh0anBaRVJrcDVDRzFYS1NlRWljcFhhSlZhVVNFZFNIVzg5TngzUU52SmxEaEp5UXVyMVJHMGFqMkNFdlpTbS1vNmFPZ0x4ZWhUZmY0Nk9IQmp5dXdJd0dnSC1NaXlvZWJaUHdQci10b25ZeTlYVmU4MzZ5?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 03, 09:21 AM ET",
+    "publishedAt": "2026-06-03T13:21:20+00:00",
+    "source": "36 Kr",
+    "title": "Why Is the Gemini Experience Becoming Increasingly Awkward? Good AI Gets Costlier with Use, Free AIs Get Dumber Collectively",
+    "summary": "36 Kr is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43VmdDN2RtWmdoN2RKMmxYZ2ZDV05vWklNM1VlTW55Sm1Eb2QxZWFtM3VpQlR4eF9hNGN6NlJWOHNGVTA1TmNMVmQxeVllZzRVdXhV?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 03, 07:01 AM ET",
+    "publishedAt": "2026-06-03T11:01:13+00:00",
+    "source": "TheSequence",
+    "title": "The Sequence AI of the Week #871: Inside the Loop with Claude Opus 4.8",
+    "summary": "TheSequence is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyTHZiY2YtVVh1Ujg1Sm5nR01SWm9RZTdGcmdCU2p4MWs3X3NzdlppM1FMOGJabmlGdDF4S1JDOG80THRJSk5NWV9QS3ZvQ1ZzaFQzYjlGUEtpYXBuQUhDLW5aWUluSnV1UnB0dTZRV0VoNWY3VS1fYjl2azRCUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 03, 01:10 AM ET",
@@ -9,18 +81,6 @@
     "summary": "GIGAZINE is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NTC1SNTJQMWtGelVTWmJ0ZllJWlhCcUVwWHFDc2hkMWJuaDhaSndGbTJWVFlhc1hfbFpCQ19qYnRyTUJDdXNnX1ljdms1cDdrRm0tYWd4ZWM4SzZBRXNURTZZQmFwX3ZCRUN4dHBn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 03, 12:03 AM ET",
-    "publishedAt": "2026-06-03T04:03:45+00:00",
-    "source": "Storyboard18",
-    "title": "Anthropic acknowledges Claude Opus 4.6 disruption, details hours-long service outage",
-    "summary": "Storyboard18 is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcVNMWVVNLU95NmJSVzlFMkxZYm1pdUJ6WGhwaEZZZGx4WkVZZWxsRVZTS3pvYXJsa3VzaFp1WlVXQ3d4b2d5NlAzZ3J5R0N2cWF1OUo0WGhfanhNRFZTTS1FY2I3aC0zNXFrWHNGdWFVdzUxLWk0WFdJekRVYS1zdDJRY3V6WVlwQnJmXzdzajJxMzE5dE9UWjJQdG9jSnV4ek1RVk0wOXo4Z0toZmpMWHpYckhPN3FUS05MQTRQOW0wZXdueVFuOWJOLTdIVllDZGNneFdB0gHbAUFVX3lxTE1vOUhpUzlRLTFNZ3E0MUlORTFUdUVMYkZSMGNXZ2p1LVF6QmZudGkyTFFWZFpxdjNRWWg2cDhQbVpOenR6VDVfMnZ4bEpTc3hWX3pGOTBZc2l1UGZ5WEpkdFhWcEo0VHlZTks1aEF5dWJOdW9rci1ocGZTMElodmpSQ0lhWnMyTDB5c3JvdDA2UXQwQXVFMm05N2NnRDRmZXFzR1lFVHdVU2V2d2xSbUhwM3J6SEZMYkpzWjFyOFc4d2pUdjNUVjEyTjcxRFRFdnVoV3I1VzVCSms0RQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 01, 08:55 AM ET",
-    "publishedAt": "2026-06-01T12:55:15+00:00",
-    "source": "Cybernews",
-    "title": "Runaway Claude AI usage led to $500 million monthly bill",
-    "summary": "Cybernews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uR3VNeVpfaWMwLUNHVlVsbF9zRmxiZmhEbjh2RW5FeXRaVk5ETVlGLVdhU2VFMjZndkhkYUlkODlJOFA5bGt5VjBaUzVHRHV4cXpJZ0dDZGgxNjZLVGFDVDdjMm5WSE5aQTFMeFhXQXNteWQ0Zjdn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 01, 05:31 AM ET",
@@ -180,27 +228,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 01, 12:15 AM ET",
-    "publishedAt": "2026-06-01T04:15:43+00:00",
-    "source": "MLQ.ai",
-    "title": "GitHub Copilot Switches to Token-Based Billing June 1, Drawing Developer Backlash",
-    "summary": "MLQ.ai is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "About Amazon",
+    "title": "OpenAI models GPT-5.5 and GPT-5.4—and Codex—now on Amazon Bedrock",
+    "summary": "About Amazon is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTF9QcXlVSC1KbFlKRzhJaUh1QzYtM0RVSXduWEZQSjB1VnFoN3Q5MzR1cFAxSjZsYUozbEdwV0R5eHIyVFBpZ2llTWZhYktCeEJrakhEbURpVmhOeWdubjYwQnQ0VVBkX3lVaGJqcF92ckRkOEc5SDBnNnc5QXdRUm1Zb21HUDJ5YjVtV3d4M3ZXZGd3ZV9wbGw5U2otZDFZLUQtR0tSWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 29, 01:37 PM ET",
-    "publishedAt": "2026-05-29T17:37:23+00:00",
-    "source": "blog.google",
-    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTldlanRmY25faDlIUmctd0VmVjVidDR1aURuUlFyMFRYNHNxZ2d1ampzVnphQmZESGdVOTZzSmsyUWkyRU9NR1BBWEMwblJoVTFUTlNNUFZPMVVuaXVUSVZVNmN0OWxfOUVRcExhazdrNldQU0I0cktub0dwaDBGcktxWnVfcHlpQVVPSEJ4c3gxQmRMbDBZTXYtVQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yUDN3S29aQWhmTHJubmoxRmM1aU5zakU2ZVBYQmpNcFNNUEZmYTkzNXE1RHRyMV9nSnNnWjF0YWxiS1BGak96d1hNNDNOSC0tM3BEZE1aYUYtMkRxX1B5SWJNb1V1RmlaY3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 29, 03:00 AM ET",
-    "publishedAt": "2026-05-29T07:00:00+00:00",
-    "source": "PCMag",
-    "title": "Are Google's Gemini Pro or Plus Worth It? 5 Features That Justify the Price",
-    "summary": "PCMag is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZTBJWWhiRkxQOTAxOWNncDlWMlFGX1hCYlp2Q0d2ckhLTldWNHp1WGdBMVppYmRqNjF2dUJ4TnJvcmdOekQ3c1ZhTXdrbDF6anhnWEU3UGt6MEJvUHkzRzZVZlBXajlEeGkyYWtielhwanRRaUlXNy05Ym5yNDg3b1ZiNU9kQUVTcU9IU3BGdWtvRG9fODJ4WTFkUFhTSGo5R3MwcQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "May 28, 06:52 PM ET",
@@ -261,42 +285,6 @@
     "summary": "The Verge is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVBIN1d1a2ZPSDVHNmhPXy1QeXIxcTZVS2lFXy1zQmdJcVFOaWg0QmM0eW1HQlFOYlV6Z3doS1lwSXBlMFBqYlFRXzRVanNLVUFOTWpzSjV3SXVTX0NqdTdwdjhyd0J0UzRpRVVzSXBva05ILWV6cXR4UFZrS3pqcHFtSjZXcmNtRDJqYlU4cXdqUVVvRXpHSWExMHltQnk2YTZtNkxLMlVrQXFhYi1BRFNB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 19, 01:42 PM ET",
-    "publishedAt": "2026-05-19T17:42:03+00:00",
-    "source": "Mashable",
-    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 19, 03:00 AM ET",
-    "publishedAt": "2026-05-19T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RaFg2Q3pCVU5icWEzMFd5bE05TnBGWjd1d1VRWnJvaEszWGhPWVZnSGR0Z0ZZZEVrVnYtb0lLQkRDUWk4WDVXbHpWamFsSFFHdUxFcTE0MzNXWXlfcDBjNXhMMlA?oc=5",
     "difficulty": "News"
   },
   {
@@ -326,13 +314,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "May 19, 03:00 AM ET",
-    "publishedAt": "2026-05-19T07:00:00+00:00",
-    "source": "CNET",
-    "title": "Google's New Gemini AI Model and Tools Are All About Agents Now",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "time": "May 18, 12:07 PM ET",
+    "publishedAt": "2026-05-18T16:07:45+00:00",
+    "source": "Mashable",
+    "title": "Gemini expands app features with deeper thinking",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVNSZk5HMElsMHYzMEt4Zlg5MmRRel90ZDdOUjQ2SXRuM2NvQU9GSGVqVlRZaVdWSkdEYTdNbFA1VEFGUHFIMno5amMtYW01d3NXcGNJdmZUbkg5bFBESkdXa3pHbjYzdkN2M3E3cFhrOWhPejZ1bVFSTlVqdlVvbGx6bjdJbjQxRnZJWXFwTTJIbGph?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnpNM1JvZW42WW1VYXJfbUxZaDhORWg2b01ocVpYT0dvRDlnZlpPRG95bnJGRm15MVpxQmNuLTBSRm9ZaWJ0NHJ2TWlBTTVPb0xLazJUNjJtcGFKSUQyWW9RT251aDZYQlYzYU9aUkRFaE1Jd3ptYVZmZmxHYk5wQw?oc=5",
     "difficulty": "News"
   },
   {
@@ -362,13 +350,25 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Dec 11, 03:00 AM ET",
-    "publishedAt": "2025-12-11T08:00:00+00:00",
-    "source": "Databricks",
-    "title": "OpenAI GPT-5.2 and Responses API on Databricks: Build Trusted, Data-Aware Agentic Systems",
-    "summary": "Databricks is reporting this update. Open the article for the full story.",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDlWVzhKOGlrQVZzMGYtV0pZRkpSZ0lXNVVtZ0pLRkp6QndlNGwxc0N0T0hvekxfdWEtQVZNanRFZERoa095RWJHT2ZKQjZmcnNIZUVPMlVIS25lWDFGVDNXM1NpQmM4Y2pzcVZmbXlqeTdaeUlsQjhqNWtSQ3lLb0hoaEJQckpubzhJd3R1SWk2dlJvSV84ZXdOb3pzX0dLaTZnVTBMTE9SWXJlaUNuTXFwa3htQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
