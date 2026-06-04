@@ -3,7 +3,7 @@
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 04, 02:19 PM ET",
-    "publishedAt": "2026-06-04T18:19:07+00:00",
+    "publishedAt": "2026-06-04T18:19:17+00:00",
     "source": "Android Headlines",
     "title": "Google Gemini is Forgetting Your Conversations Faster Than It Should, Paid Users Complaint",
     "summary": "Android Headlines is reporting this update. Open the article for the full story.",
@@ -12,39 +12,27 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 04, 09:34 AM ET",
+    "publishedAt": "2026-06-04T13:34:36+00:00",
+    "source": "MSN",
+    "title": "OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month",
+    "summary": "MSN is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUGp5SlVlc3JxRUhnR0JyZkRkcDJpV05kLU9Ra3NSSHpNR2NwX2hyb0lvSW5TMlpjU2tTYWV2TmYyRzU0eU5NZi1YT1J5MFNvR2FtQ1JZc2VreGk3aERzVzZtWXMwdG1IcFhOUlNtUHd5a3dtRHBFaUI3QjgxTWFmODNaSlFONVUtNDNsQ05ablFLeGdyMDJKUldKSHlCQ1RYdXZ4bHhWbUhMX192aFptTm85dEV2V2ZHRHZPZ3dFV1ozV3ZRQTlDR2Rsdw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 04, 08:47 AM ET",
     "publishedAt": "2026-06-04T12:47:00+00:00",
-    "source": "PR Newswire",
+    "source": "Yahoo Finance Singapore",
     "title": "OrcaRouter Launches Monthly Plans: Access Claude Opus 4.8 API, OpenAI GPT-5.5 Pro API, Gemini 3.5 API and More -- Now Up to 10% Cheaper",
-    "summary": "PR Newswire is reporting this update. Open the article for the full story.",
+    "summary": "Yahoo Finance Singapore is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMGllQmw4ZTZ1MVY2Z000X1N0TWdITWZkYW5XOE1VU2E3ZWVzY3R6VXRxck4yVDZGWUNkUDJZTEltSkxqLWNZSlM5dFplWHVJaFlPalotc2NLN2FGZ1dXMVl4N2lMWEd3aTZZOWZic2FoWGlxSnEySkVTd0tURjdnanNIV294M0QwRnV5V1BsT1BoYlc2bzFVTkQ0SGJFVnFITTJ2RTQ4aTBoalhpcTRJWFJIM1dlTnpYaE1lblJXemZESlBoQ2QxNmNDa3gtSzl0R09VXzQ3WHRmUjU2RVg2SWFtQ2NxMjBNUS1wb0lsTWhTLTRBbTQxOE9CVXkwRXZiSWF0elhVYVROVTJLdXVtamk4aw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 04, 03:57 AM ET",
-    "publishedAt": "2026-06-04T07:57:13+00:00",
-    "source": "Android Authority",
-    "title": "Users say Gemini starts forgetting long before it's supposed to",
-    "summary": "Android Authority is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbFpJb3N2REhJek1tcDBqUjZMZGNiRkJSeTg5eWtyeFRBWkpRbEJsWGdmemU3aWRBZmU1ZXBGclduaEJSc0xTTHd4VFU5eUVjRUdyckFvUFd0dUZXZ19EM1lISWdFSEdyemQ2SUV5VjdBdmU1ZGYzYkw0VmV6alkxd2pqY3Zta2c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 04, 12:40 AM ET",
-    "publishedAt": "2026-06-04T04:40:45+00:00",
-    "source": "Alphr",
-    "title": "Quick Guide to Using AI Cursor’s Code Editor in Windows",
-    "summary": "Alphr is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS0hyekdMSU9kQ1NYWUhUNzZRWkZTeEVsamlfQ2VGYzdlLW9XSWx3WWktUnhIdHBFQmlWSjNhQXdMM19TN1VucDZGN2J5VklvS1FtcXVSS0xuWVMxcVUwMGNXa3FMcm5wX2pVYndicDdnX3hPUWdNU01PQ014UHIteG1IOA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSU5zTVBBaWtzRkNVaV9mSjc0M0pibWVPVVVpSUlEc01FNFhVQWc1MktUY0dXeW9oM2ZWS2lJcHZpdFVvVk9zVG96U3ZyZ19MYTB4bmxpNXFhUmNLSHlPOUhkVFgwYnI1ODlwakNyQlM3SGtaQ3ZtV2UxNVdtR1hPZDQ4VWhxYWlFdnJCdC1mOEx4R3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -57,6 +45,30 @@
     "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZJRUxZUTdyTWFTTE51anU1NE9uTFQzZEdMNWQzdzk3anV1eHcyYWo0TkF0bU0zaEpBQ0VNWHRTa1d5M2RrdFBaNkNQWEgxMW5VNk9BSEVvZ2xFVVdLMThXZUJ4a3dUSHYxM3ZTalJFY2VHOEdwSUgwc3FkbWttcWwxdF9uMmZjb0FkVGxPTVk2Q2h2SzRFbWtBZFBTak9NNWRaMnF3X2hOMTFwMzhPTEZyb0pqVVU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 03, 11:00 AM ET",
+    "publishedAt": "2026-06-03T15:00:00+00:00",
+    "source": "Cloud Wars",
+    "title": "Microsoft Extends Purview With Visibility and Control of Anthropic Claude",
+    "summary": "Cloud Wars is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUkFkM1pZeHM3RjhyTjhuMlVTWTNZd1BMV09GbTBQWTZjMkRTMVh0anBaRVJrcDVDRzFYS1NlRWljcFhhSlZhVVNFZFNIVzg5TngzUU52SmxEaEp5UXVyMVJHMGFqMkNFdlpTbS1vNmFPZ0x4ZWhUZmY0Nk9IQmp5dXdJd0dnSC1NaXlvZWJaUHdQci10b25ZeTlYVmU4MzZ5?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 03, 09:29 AM ET",
+    "publishedAt": "2026-06-03T13:29:26+00:00",
+    "source": "Security Boulevard",
+    "title": "Your AI Coding Assistant Has Never Read Your Security Wiki. Now it writes half your code.",
+    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtCNEs2T2hBdTNDRHc1bUxKZ2pVUzJxZ2c1Q0hDcnBsLUlBclZZZ0lzSXFuV1dBTFloaUNUS0tCZDRFOGkwNUFhQzFyWURpLVhxeDdEalFEYi1LX1hBZl85MHByS2F4bDJON19OX0xQejhzOU5HbXcwUEt3eGR2dGk5TXNsOThvTFZDT1NhMTQ2UFVPejl5cEFaTjdvMDBuWVlWdVhEbGJDSnNBUTVPeHEwazRpalFxMUhTcm93cEVTY0hZ?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 01, 09:24 AM ET",
-    "publishedAt": "2026-06-01T13:24:02+00:00",
-    "source": "MarketWise",
-    "title": "Why the $60 Billion SpaceX-Cursor AI Deal Will Intensify Cash Burn to a Whole New Level",
-    "summary": "MarketWise is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9odU0tRGJaWWFnUmtWaEJyUDlhQ0ZubEdnN3hlbTRIZ085WXlsUGxhR0lRWFZlaE9oNGE1R2FpTU5HbHZyOUNDMmVLWFFJV0tJc242eGZmNTVMZHdLQXQ4RFlLbnA3LUFSZHItT0R4ZnBmaE0?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 01, 08:55 AM ET",
@@ -218,13 +218,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "May 29, 05:01 PM ET",
-    "publishedAt": "2026-05-29T21:01:31+00:00",
-    "source": "MSN",
-    "title": "OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month",
-    "summary": "MSN is reporting this update. Open the article for the full story.",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "About Amazon",
+    "title": "OpenAI models GPT-5.5 and GPT-5.4—and Codex—now on Amazon Bedrock",
+    "summary": "About Amazon is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ2E0SHNJcXB1c1AxRXNKa201WHRQS2dLM19ocmNNRWdXdGRZbnhTZ1hoNGlFNU1rVENscWxzVGp1TzBNaWNoT09uZjBvXzZBVW1yeHl4QWs2NUgydDgyMUMwTEJzNmlRVFRnUjNfbWcxOHBsMkZDSUgydzRxaldYMEJqWTZsZmhMNHdOdWU4d0lyLUFMdThuRndGRVVmZk1fRV9mYWhwbWpzazRJVlFYTy1HVFFMVUhiVGdRQklnM3RzSmZiZ3kwb3pFbXBLQzRHVlhoZFV6eTZDbE83SFB5bGJYWUg3QQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yUDN3S29aQWhmTHJubmoxRmM1aU5zakU2ZVBYQmpNcFNNUEZmYTkzNXE1RHRyMV9nSnNnWjF0YWxiS1BGak96d1hNNDNOSC0tM3BEZE1aYUYtMkRxX1B5SWJNb1V1RmlaY3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -249,6 +249,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 25, 01:02 AM ET",
+    "publishedAt": "2026-05-25T05:02:51+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,18 +312,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 19, 03:00 AM ET",
-    "publishedAt": "2026-05-19T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RaFg2Q3pCVU5icWEzMFd5bE05TnBGWjd1d1VRWnJvaEszWGhPWVZnSGR0Z0ZZZEVrVnYtb0lLQkRDUWk4WDVXbHpWamFsSFFHdUxFcTE0MzNXWXlfcDBjNXhMMlA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 19, 03:00 AM ET",
@@ -345,6 +345,18 @@
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 19, 03:00 AM ET",
+    "publishedAt": "2026-05-19T07:00:00+00:00",
+    "source": "Adobe",
+    "title": "Adobe for creativity connector is coming soon to Google Gemini",
+    "summary": "Adobe is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXQ2MmQ3V25YUGZRVU93V0JjUUl4TXZVUURLNHNJeW9ENVIwLXo2TlBiLUxiTUdkYnpwYUpyU1VxS0VsblBIMFgtbUxyMXFSQWxLRlZYWEJYMnNwMFRlaThTRjVGRmFxY1RWdHJnWGZJNkYtWnBjNnpmanZHMFR5eXZtX0JONl9Bb3FtSnVUSlU5bm9lYXAw?oc=5",
     "difficulty": "News"
   },
   {
