@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 06, 08:40 AM ET",
+    "publishedAt": "2026-06-06T12:40:25+00:00",
+    "source": "Tech Times",
+    "title": "Salesforce Will Not Hire More Software Engineers Next Year As Claude Code Compresses Migrations",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOVFENjNkMjdwWlYwYmZRMDYyVThyMnRZSTdaY3c3cjc1ZXZ2NE01UWkyQW9samhkMEdiQkFOMHRITTQzdWdhLUE0ZmNOZFNmVlcwaDQ1b3JtTlBBSUctZXpHOHJ1Yy04aUxteVR1MVdWMEJKcC1fWEpWZ1dRUGZFQXBOR3VqN3l4Y0N6MENMc3pmSElBa3FpUmhDeG94YmdSclBXdEQ3Tlo1UzNWdXJyNDNUZTBYNnJYRWNmQXpvVnZlV2NPT3o1azM4T2NTSE41TW9CTUxKSW1BOTZZNk04eA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 06, 04:11 AM ET",
@@ -33,6 +45,18 @@
     "summary": "Cybernews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzhJd2JxOHY5NlhMQWx4NHRqYmZnMVh0SGdBY2JIQVNNeHd2VzhUcllEUmp0ZkVVTFJuMUJ6TXBXY2FPdFBWQzNWbEUzZjZhWlJlOGg1bzgydEo1VkgwNlBjeWxOTnRuV0QtXzB1MElSQWpVaXpocF9oVU5oVmRqeXNBanFEeHlN?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 05, 03:15 PM ET",
+    "publishedAt": "2026-06-05T19:15:11+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTdaQVNjcDhoUTVkMTJqZ2FSZ3RrVWdOdmNRd2V6dVVoN09ET2s0czdlZXhFbjV1bE45T1E2bk9ZVUdWelFYMkxZLVFFN3pzQnNPMU1laGdaU2RyXzRacXRJeTJkX1pyTE9xOHpYcTBHd1hjbDFfdnpkQUdqUTI2emYwUlA2dThxMldXSFNTVTRKVWJnU2FxSnBpb1RTdU1md1k3QlhMQXJlejdjSzg4eTFCTnEzR1JvOHlPekp5UVIzemhuRml4S3ZyM21ZZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -146,13 +170,13 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 03, 09:29 AM ET",
-    "publishedAt": "2026-06-03T13:29:26+00:00",
-    "source": "Security Boulevard",
-    "title": "Your AI Coding Assistant Has Never Read Your Security Wiki. Now it writes half your code.",
-    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
+    "time": "Jun 03, 01:10 AM ET",
+    "publishedAt": "2026-06-03T05:10:00+00:00",
+    "source": "GIGAZINE",
+    "title": "GitHub Copilot evolves from an 'AI assistant' to an 'AI development team,' revealing the full scope of its dedicated app.",
+    "summary": "GIGAZINE is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtCNEs2T2hBdTNDRHc1bUxKZ2pVUzJxZ2c1Q0hDcnBsLUlBclZZZ0lzSXFuV1dBTFloaUNUS0tCZDRFOGkwNUFhQzFyWURpLVhxeDdEalFEYi1LX1hBZl85MHByS2F4bDJON19OX0xQejhzOU5HbXcwUEt3eGR2dGk5TXNsOThvTFZDT1NhMTQ2UFVPejl5cEFaTjdvMDBuWVlWdVhEbGJDSnNBUTVPeHEwazRpalFxMUhTcm93cEVTY0hZ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NTC1SNTJQMWtGelVTWmJ0ZllJWlhCcUVwWHFDc2hkMWJuaDhaSndGbTJWVFlhc1hfbFpCQ19qYnRyTUJDdXNnX1ljdms1cDdrRm0tYWd4ZWM4SzZBRXNURTZZQmFwX3ZCRUN4dHBn?oc=5",
     "difficulty": "News"
   },
   {
@@ -240,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 01, 12:55 PM ET",
-    "publishedAt": "2026-06-01T16:55:55+00:00",
-    "source": "infoq.com",
-    "title": "Claude Code Adds Dynamic Workflows for Parallel Agent Coordination",
-    "summary": "infoq.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13TV9oS3VyZE1WVkhjWHdteXQ1MGdtT1ZxdHVLbks1dms3RGdhQXlEWlNQd0g4c2otSEs3ZU52bTRWUzRJYlpHRHI4NzdzM0dfWXV1b3FPWHQ2RzZKQl9OVWdUcFNoNWFlb1BwYkxSZ1ZlLW8?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 01, 09:24 AM ET",
@@ -276,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 29, 03:00 AM ET",
-    "publishedAt": "2026-05-29T07:00:00+00:00",
-    "source": "Fortune",
-    "title": "Exclusive: Microsoft is building a super app that combines coding, chat, and other Copilot AI tools",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "May 28, 03:00 AM ET",
@@ -300,30 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 26, 04:11 AM ET",
-    "publishedAt": "2026-05-26T08:11:33+00:00",
-    "source": "tech-insider.org",
-    "title": "GPT-5.5 Launch: 82.7% Terminal-Bench, $5 API [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1RKVFhGRTdKa2EyVjFNRTBOXy1OYklMalZZRWZiZEd6SWNBc1UxSGhfUlRHbjNFSFZVTG85LWN1RGNkekV4X3lJVHotUVQ1akFhSUZ1ZHJzM0V3ZGNaSlFZSDRCMmhMa09qdDE5SjFGOVh3TTN2NDBuVU9hTkx3ZUdR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 25, 01:02 AM ET",
-    "publishedAt": "2026-05-25T05:02:51+00:00",
-    "source": "AI: Reset to Zero",
-    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "May 21, 03:00 AM ET",
@@ -333,18 +309,6 @@
     "summary": "The Verge is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVBIN1d1a2ZPSDVHNmhPXy1QeXIxcTZVS2lFXy1zQmdJcVFOaWg0QmM0eW1HQlFOYlV6Z3doS1lwSXBlMFBqYlFRXzRVanNLVUFOTWpzSjV3SXVTX0NqdTdwdjhyd0J0UzRpRVVzSXBva05ILWV6cXR4UFZrS3pqcHFtSjZXcmNtRDJqYlU4cXdqUVVvRXpHSWExMHltQnk2YTZtNkxLMlVrQXFhYi1BRFNB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,6 +333,54 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "May 13, 03:00 AM ET",
+    "publishedAt": "2026-05-13T07:00:00+00:00",
+    "source": "Built In",
+    "title": "Claude Code vs. Codex vs. Cursor vs. GitHub Copilot: Which AI Coding Tool Is Best?",
+    "summary": "Built In is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVNIajNVS1QydTlxNVJna24tNjFxRkt6dURoNklwajRlNjlXelVZQ2g3Z1VNVzdrSS1rTThrUFZDUWo2eGZKQUVpR0NkQ1EzbjhLMWRNMGJ3cjl1UDhUcm9UbVBFMlZzNEprTWphQ3psbFRjdWtSWm1QYThYZm1ZQUlRR2Mwdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 15, 03:00 AM ET",
+    "publishedAt": "2025-10-15T07:00:00+00:00",
+    "source": "The GitHub Blog",
+    "title": "Copilot: Faster, smarter, and built for how you work now",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYzVqTTg0TFdzMUZTR2Naa2ttUk9FOWVwVFVKYWV3M19TME9TanI1M0dnMHlscU1IY0VIc1lid2pieDB3bDFoNzg1VG92ZWhPSkdKbC15aGE5MElSNkN1aWRGMEtTbmZ0V2dPLVA4X0VwazdHejhJVHRMZldiM0RCWTZkZGJIUF9OcjYzRlpFRzJ0NWhTckZPMDRXSkdwU1ZaY1QwM25ySGM3MjlaZWJ1Qlg5U2kzVjdqR1ZDejYtRFlEOTRlNEtoOGRXeVk5SW5pckpPQVRaQTNFZVVOMHN3Rnd4V1NsT1E5WHJ5YXZUTTdzSnJQTXZhTk1DUWIxUmtkd1NSX0hzS0lobTlTMmxQTjFRTFBHdW5ubVRVNVBBdEs3cWc?oc=5",
     "difficulty": "News"
   }
 ]
