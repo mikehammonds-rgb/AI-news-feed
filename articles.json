@@ -38,6 +38,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 05, 03:03 PM ET",
+    "publishedAt": "2026-06-05T19:03:13+00:00",
+    "source": "USA Today",
+    "title": "NeatAPI.ai Launches Affordable OpenAI and Claude API Token Marketplace for Tech Startups",
+    "summary": "USA Today is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2dMVGxKT1QzQk9HSF9yTmZZZWJWQzdmYlNPdlNmdVdPNlVycm1ZbU5XUDhZVmV3YjNvNUNGMnZYRUltNi02Ujdiazlobmp1NHN4U2tyYUFUbE1PY1ljMVQwZWVzamdBM2RSNjRDaDV4d004X1V6S3BYMXlCTEwtQldXMUoweUNPRHhtOGdWaDNaUHZLQXRLbFNCVTNMSTJGYncyTmJrT1E2elc4bEI0MFN0MzdMOTNaT0Z6LThIU3kwcUloZ2RTZjEzeHpsQnM5LURtZW1ENA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 05, 12:46 PM ET",
     "publishedAt": "2026-06-05T16:46:47+00:00",
     "source": "Microsoft",
@@ -96,18 +108,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 04, 03:00 AM ET",
-    "publishedAt": "2026-06-04T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUmlDZ29pZlZFNHNfSzBVbXkxRkZXNTZ0cjVpOG5DWHMtTGpNOV82dG5WeVZpbVktQjViSHRRZ0lEVWx3N0ZIZGo0UllDV3A4Z1R1R29HbzU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 03, 10:58 PM ET",
@@ -141,18 +141,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5naW8wcnBhMi1QZmozRWtmR25qSTM4Y2txRzBBMWpMSTdpc2phNGN3aURlTGdNc3pHQld0MXdkd2tJWTRLWEE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 02, 10:51 AM ET",
-    "publishedAt": "2026-06-02T14:51:40+00:00",
-    "source": "Startup Fortune",
-    "title": "Developers are testing life after GitHub Copilot changes its billing",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3JLS0I5OGdJTTVzVXc4R3ZJeGd6OGkyQ2h5WGc2YUhHbzVrcER6NW13QlJLWmJJSlZuekk4OUIxVDU4bGdIdVo4b0p1ZDlwcFotbDZNZFQtSkc5SWItNHBkbDBuQTZpc1RybkFGMHJ1VjVMOWJzc054T3o3QWJxMXBnMjZiNGR6X2hoRW5hWVpoTGxhRy1mcS10akQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -204,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 01, 01:30 PM ET",
-    "publishedAt": "2026-06-01T17:30:00+00:00",
-    "source": "Towards Data Science",
-    "title": "How to Combine Claude Code and Codex for Maximum Coding Power",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnZzNmsybm1vWGpCdjdUcFBwdzY4VEhaTkV3di1WNUpYLXNlSnY4WXFyZlVCVC04ejNaSVdrTnlQRmNFajdWWDU2a3pad0duMnFhNlNpck94ZmtSUVNXZTVqZDdON0JRM0ktWG90MEVkeWhUcnlYOFJXSTBYdFhQOHlCbUl0OUNHQXJKLXVyNDN1SVJKVVE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 01, 01:24 PM ET",
@@ -225,18 +201,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUS3J6eW1oSDVVOC13Tk5ZQ3dnTkUzekhXZFRXS1otSUcwYVA0OVdFaFJCYzZZb0E4MjRIS3pyaVVZUE1vdzc3MTVqUmNza0s2NDBDeFVNZnZoOVhBVndaajVBZFlTTU4ydWE0YWJsVmNIaTlVTTBFR2Vn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 01, 12:55 PM ET",
-    "publishedAt": "2026-06-01T16:55:55+00:00",
-    "source": "infoq.com",
-    "title": "Claude Code Adds Dynamic Workflows for Parallel Agent Coordination",
-    "summary": "infoq.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13TV9oS3VyZE1WVkhjWHdteXQ1MGdtT1ZxdHVLbks1dms3RGdhQXlEWlNQd0g4c2otSEs3ZU52bTRWUzRJYlpHRHI4NzdzM0dfWXV1b3FPWHQ2RzZKQl9OVWdUcFNoNWFlb1BwYkxSZ1ZlLW8?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,6 +240,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "May 26, 03:00 AM ET",
+    "publishedAt": "2026-05-26T07:00:00+00:00",
+    "source": "XDA",
+    "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+    "summary": "XDA is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 25, 01:02 AM ET",
@@ -285,6 +261,18 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "May 21, 03:00 AM ET",
+    "publishedAt": "2026-05-21T07:00:00+00:00",
+    "source": "The Cloudflare Blog",
+    "title": "Announcing Claude Compliance API support with Cloudflare CASB",
+    "summary": "The Cloudflare Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwNnlhazhDWkU0YnNIVHFuOGJpMHBCcDVsTFp0YWw4SjFBeTZCVEV4U0hHVXM4MFVmR0prclhvVzd3a0R6cEJWWDJKRlZ5WVRTcUozeW5Bb2QxTmR0TDNVZ0tNeGwtZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -348,15 +336,39 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "May 13, 03:00 AM ET",
+    "publishedAt": "2026-05-13T07:00:00+00:00",
+    "source": "Built In",
+    "title": "Claude Code vs. Codex vs. Cursor vs. GitHub Copilot: Which AI Coding Tool Is Best?",
+    "summary": "Built In is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVNIajNVS1QydTlxNVJna24tNjFxRkt6dURoNklwajRlNjlXelVZQ2g3Z1VNVzdrSS1rTThrUFZDUWo2eGZKQUVpR0NkQ1EzbjhLMWRNMGJ3cjl1UDhUcm9UbVBFMlZzNEprTWphQ3psbFRjdWtSWm1QYThYZm1ZQUlRR2Mwdw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jan 08, 03:00 AM ET",
-    "publishedAt": "2026-01-08T08:00:00+00:00",
-    "source": "Health API Guy",
-    "title": "The End of the Standalone PHR",
-    "summary": "Health API Guy is reporting this update. Open the article for the full story.",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUdkQtdnlYNTRNS3kyTnJvdXM1V2lHQ0ZZNG9iWDY5a0t3eDUwVVR3MWVfdGd2d1R0VVI0OEo0VERTR3dtbXN1b1BMa2JxY1JONlo0elFQU1N6eXdBZXQtelRXU2lESlB3V0hCeGd0SUtvbk0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,18 +381,6 @@
     "summary": "Databricks is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDlWVzhKOGlrQVZzMGYtV0pZRkpSZ0lXNVVtZ0pLRkp6QndlNGwxc0N0T0hvekxfdWEtQVZNanRFZERoa095RWJHT2ZKQjZmcnNIZUVPMlVIS25lWDFGVDNXM1NpQmM4Y2pzcVZmbXlqeTdaeUlsQjhqNWtSQ3lLb0hoaEJQckpubzhJd3R1SWk2dlJvSV84ZXdOb3pzX0dLaTZnVTBMTE9SWXJlaUNuTXFwa3htQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Nov 03, 03:00 AM ET",
-    "publishedAt": "2025-11-03T08:00:00+00:00",
-    "source": "Microsoft",
-    "title": "SesameOp: Novel backdoor uses OpenAI Assistants API for command and control",
-    "summary": "Microsoft is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0hiazZ4cUgyRzkwZTdhOVJvVWtvb2lGc2hSQ0p0WDVibTlpWENUVWtFbVJuMm00dmF0SzdfX1NhcTJFLVJNSFdGWWQ2RDE1cGxpM3Z2X2hYdGFIdEVaRzZxLUdFXzVIbEtuYXJfZXRxUGs4UmdmUjJqUG9jWXkxQzE4R05BX0lCal9ONHZjSjVnY3lkZlBFOHpUb1JVdEE4X092eDM5WXMxUUxNTU9vTnVOb1BibVFqdm9KMDVBNjRacDFqc2JNM09STUg?oc=5",
     "difficulty": "News"
   }
 ]
