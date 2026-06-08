@@ -1,14 +1,74 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 08, 06:03 AM ET",
+    "publishedAt": "2026-06-08T10:03:22+00:00",
+    "source": "Memeburn",
+    "title": "Google AI Edge Gallery Comes to macOS, Bringing Gemini Models Offline",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3dsQnQwQUVKaVFCcnpZN3Rod0lrUTgzNlpyTk1kVDB6Q2ZmUkNnNkhOYjV4dGtVTEhVdHZ6RHhqRGRHQnZuVldhWUNxWjM1bTl2VTRoOEpYbHB3Q3pkVW9FbVgxWTFjUDdTRVBqdVRlOF9jZUdoN1pXaTN0aDJBcjVMdDZTNV9LODRkWkhGWmxKc0Nj?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 08, 05:03 AM ET",
+    "publishedAt": "2026-06-08T09:03:19+00:00",
+    "source": "Techzine Global",
+    "title": "The AI trailblazer GitHub Copilot is running out of road",
+    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGo2TXJKY2JMOWItMlQtMWotUmU2Vm1WQzRaUFFsb0JEOW1KMm9fOVpIblJZOTF4QTVwMUtYUl9GWHBjZkRNcWlZckJpYUhHZG90aUtYaFFNdGlaREJfaVZGU1M1Wk1vUlVncUF0WUdKNXJnNDFnV1JWdlZVbzU2RWptWFFLbXczejgzUHdVbi1QYkNXVmZBbXpYcTlpV2pnUnRF?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 06, 09:59 AM ET",
-    "publishedAt": "2026-06-06T13:59:39+00:00",
-    "source": "Fathom Journal",
-    "title": "How To Use Claude Code For FREE - No Subscription Needed! (5U6w4CwTBl)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
+    "time": "Jun 08, 02:31 AM ET",
+    "publishedAt": "2026-06-08T06:31:28+00:00",
+    "source": "Let's Data Science",
+    "title": "ZoomInfo Enables Claude With GTM.AI GTM Context Graph",
+    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpcmpPblMzOUNYMERmcUtqYWNYQ0J4bWZXTEszVXZzaUpWQWdBQTF0SXRSU0w5ajJuaDFZYVlQWnA4Y1JKSFZDck55Y3dDV3g1MHcxczNOMHY1MTFMX1lmSGpGZUQwaTN0eEY2RWZQUFpFRjhqZ3c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQmJXVVlXUDhybUpHdVlxUURzWkR1emNYRkZfT1g3UHhWc1RsTEZacjUzXzBLd3BoX2Y5d2hYcEoyd0lJZTk5cElXaElkeU1LSFl2RUNBLUtqUkRUSlJlZ2VscFZFZ3Qta0RCeEVza3MtYV8yYTkwSVM1SVc3eHRSeW9EdWNvUWtpTGZlMXNaQ1dTb3RpYW80X3F3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 08, 01:22 AM ET",
+    "publishedAt": "2026-06-08T05:22:37+00:00",
+    "source": "People Matters Media",
+    "title": "Google begins shutting down Pixel Studio, redirects users to Gemini",
+    "summary": "People Matters Media is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaGtIa25TOVhvZWtFWElOR0xzU0k0SG9uME1TU0p0R0JvXzBZTHVXRmhPOVJGZEVRWkRrSGVZRFhkWk1TUnJQTzByZGh5SGdTX05FM1JMNHhLSjhEQ0l6RTR5aU1CZVBzOFhoLTM4V2o1VFRRWHV1djJ0OFZaeHU2bGRhNG5CSHhham10akdpX1lZbjl0T0ZNdzRWOHN4QWFHYWZsNHNIY2p1cktnQmgxQjM3bXAzdGRQZEFLSmZuYmt4TTc4UEE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 07, 11:13 PM ET",
+    "publishedAt": "2026-06-08T03:13:50+00:00",
+    "source": "trendmicro.com",
+    "title": "Governing Claude Enterprise in Environments Where Inline Controls Can't Go",
+    "summary": "trendmicro.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2dVYlBEUWpCOFlXSEVkX2lVbXJYZWNrYUJpUW11dnBJdTJueVdQU1JjZFVjd3RWcVBTZlk0UHRlcFNvNHUwMFFjMV9HTVVKczNGSUVmOWtDeXczYTRBZlpzdGowS2pLOVZmTlN5QlpMaVpXUU5JY3gyZi1lV2JKeDljQ1Axdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 07, 04:30 PM ET",
+    "publishedAt": "2026-06-07T20:30:23+00:00",
+    "source": "XDA",
+    "title": "These open-source tools do what Claude charges for, and some do it better",
+    "summary": "XDA is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWXFsSmM0ajNMQTFZb1ZKb25qUlFOZHJPUzBrM0VNVGVRWFg1Uy10Y283cmVqQW51VmhZN0xWUkVUYi10SUxPazlQV3Vka255dDZnRWNDNjJEX1M3bmhlQnd5RTVFYjZsaVpCQ0tkS2hDNTREYlZ6ZTJaaU9zTURWUnBWNHk1SmVHRW4xT0IwVlhiSnUwQ3ZUZWl5MU4yWVk?oc=5",
     "difficulty": "News"
   },
   {
@@ -17,7 +77,7 @@
     "time": "Jun 05, 05:27 PM ET",
     "publishedAt": "2026-06-05T21:27:46+00:00",
     "source": "Cybernews",
-    "title": "Anthropic probes customer data leak claims after Friday Claude outage",
+    "title": "Claude outage sparks customer data leak claims as Anthropic investigates",
     "summary": "Cybernews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzhJd2JxOHY5NlhMQWx4NHRqYmZnMVh0SGdBY2JIQVNNeHd2VzhUcllEUmp0ZkVVTFJuMUJ6TXBXY2FPdFBWQzNWbEUzZjZhWlJlOGg1bzgydEo1VkgwNlBjeWxOTnRuV0QtXzB1MElSQWpVaXpocF9oVU5oVmRqeXNBanFEeHlN?oc=5",
@@ -108,6 +168,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 04, 09:34 AM ET",
+    "publishedAt": "2026-06-04T13:34:36+00:00",
+    "source": "MSN",
+    "title": "OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month",
+    "summary": "MSN is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUGp5SlVlc3JxRUhnR0JyZkRkcDJpV05kLU9Ra3NSSHpNR2NwX2hyb0lvSW5TMlpjU2tTYWV2TmYyRzU0eU5NZi1YT1J5MFNvR2FtQ1JZc2VreGk3aERzVzZtWXMwdG1IcFhOUlNtUHd5a3dtRHBFaUI3QjgxTWFmODNaSlFONVUtNDNsQ05ablFLeGdyMDJKUldKSHlCQ1RYdXZ4bHhWbUhMX192aFptTm85dEV2V2ZHRHZPZ3dFV1ozV3ZRQTlDR2Rsdw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 03, 10:58 PM ET",
@@ -117,42 +189,6 @@
     "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZJRUxZUTdyTWFTTE51anU1NE9uTFQzZEdMNWQzdzk3anV1eHcyYWo0TkF0bU0zaEpBQ0VNWHRTa1d5M2RrdFBaNkNQWEgxMW5VNk9BSEVvZ2xFVVdLMThXZUJ4a3dUSHYxM3ZTalJFY2VHOEdwSUgwc3FkbWttcWwxdF9uMmZjb0FkVGxPTVk2Q2h2SzRFbWtBZFBTak9NNWRaMnF3X2hOMTFwMzhPTEZyb0pqVVU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 03, 11:38 AM ET",
-    "publishedAt": "2026-06-03T15:38:00+00:00",
-    "source": "PCWorld",
-    "title": "I made a Gemini avatar of myself. It’s so real, it creeps me out",
-    "summary": "PCWorld is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3REbHdPWWN6VC11Wnp5TXhvOEU0V0dnbzNhUDNSUExLa3l1Ti1fb0hsenJsa2pHYXA2WWZVcEZSRXg1T1JyaWVET2FtUkhENzcxb2NHWGFNTUJ0b1h2b0hmYy1zdENfS1ZmeTZJMFFOWElYa21oWXdVSlVWc2xVaC1IUi1LOUtaWllOM3dUbE1OVTZUMUFYSWRsc1lSU3pUV2Y3R09zNmZZdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 02, 06:04 PM ET",
-    "publishedAt": "2026-06-02T22:04:24+00:00",
-    "source": "Anthropic",
-    "title": "Project Glasswing: Securing critical software for the AI era",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5naW8wcnBhMi1QZmozRWtmR25qSTM4Y2txRzBBMWpMSTdpc2phNGN3aURlTGdNc3pHQld0MXdkd2tJWTRLWEE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 02, 05:21 AM ET",
-    "publishedAt": "2026-06-02T09:21:14+00:00",
-    "source": "spyglass.org",
-    "title": "The Summer of 'Super Apps'",
-    "summary": "spyglass.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54TFM4LTZNSUlWdktGWUdVeEk1V0VyLXh6bFkxUDF6MW1jbzlkc0JVeTNQRGpkdnBVcnhWZVhGSzdhcU4xaTlBR3RNdllseEJRUUhZSA?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,18 +228,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 01, 01:24 PM ET",
-    "publishedAt": "2026-06-01T17:24:03+00:00",
-    "source": "blog.google",
-    "title": "How we used Gemini to build Google I/O 2026",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUS3J6eW1oSDVVOC13Tk5ZQ3dnTkUzekhXZFRXS1otSUcwYVA0OVdFaFJCYzZZb0E4MjRIS3pyaVVZUE1vdzc3MTVqUmNza0s2NDBDeFVNZnZoOVhBVndaajVBZFlTTU4ydWE0YWJsVmNIaTlVTTBFR2Vn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 01, 05:31 AM ET",
@@ -213,6 +237,18 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xRmtjbnRYMThXYXMzeEIxdG93OGMyX0tsS0EtYndQekdzYkVWc0dwWmt1dWR5UHJwY29CX2FrYTFJVWJpbTZhVUhOcXQ5VGVKbGpZNmd1RGJmZmZabWVSRjRiXzk1S2dDaFpfX29vVzJFdzJKYnNhMXdWcHBudw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 29, 03:00 AM ET",
+    "publishedAt": "2026-05-29T07:00:00+00:00",
+    "source": "blog.google",
+    "title": "Introducing Gemini Omni",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWlaMUVtdkx6SklzdmNOYnZibDJSak96Mi0zZXhoUVdsamQ2M1VIeEUtcTdWVVJrV09PcTRPWVFCQzlzSW5RUzM1Ui1FRmJtR1N2aVNkeWtEM192TDcxUFhxNGN5MGhpYjk0aEJJdWJrcDlUNG1mQ2xodS1YNXEtVUxPSnpWNGVjZlpwXw?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,27 +264,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 27, 03:00 AM ET",
-    "publishedAt": "2026-05-27T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Coding agents in the social sciences",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZOVA5Z3pKZ1JzSHJXaFl0LWdSQlZfZWhGb3AtY1R3MExZRm9KS2dfRmNzTE1XR2VXdjlPMVh6U25SU2JmcXBZQjlnSWRreHM2SGZmTnpQVzRLQVFmVFQyOExiR2o5dFhSb3A2WVBmV2RzQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "May 26, 03:00 AM ET",
-    "publishedAt": "2026-05-26T07:00:00+00:00",
-    "source": "XDA",
-    "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-    "summary": "XDA is reporting this update. Open the article for the full story.",
+    "time": "May 28, 03:00 AM ET",
+    "publishedAt": "2026-05-28T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Opus 4.8",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,30 +285,6 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "May 21, 03:00 AM ET",
-    "publishedAt": "2026-05-21T07:00:00+00:00",
-    "source": "The Cloudflare Blog",
-    "title": "Announcing Claude Compliance API support with Cloudflare CASB",
-    "summary": "The Cloudflare Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwNnlhazhDWkU0YnNIVHFuOGJpMHBCcDVsTFp0YWw4SjFBeTZCVEV4U0hHVXM4MFVmR0prclhvVzd3a0R6cEJWWDJKRlZ5WVRTcUozeW5Bb2QxTmR0TDNVZ0tNeGwtZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 21, 03:00 AM ET",
-    "publishedAt": "2026-05-21T07:00:00+00:00",
-    "source": "The Verge",
-    "title": "I can’t believe how fast Google vibe coded my first Android app",
-    "summary": "The Verge is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVBIN1d1a2ZPSDVHNmhPXy1QeXIxcTZVS2lFXy1zQmdJcVFOaWg0QmM0eW1HQlFOYlV6Z3doS1lwSXBlMFBqYlFRXzRVanNLVUFOTWpzSjV3SXVTX0NqdTdwdjhyd0J0UzRpRVVzSXBva05ILWV6cXR4UFZrS3pqcHFtSjZXcmNtRDJqYlU4cXdqUVVvRXpHSWExMHltQnk2YTZtNkxLMlVrQXFhYi1BRFNB?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,18 +309,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 17, 03:00 AM ET",
-    "publishedAt": "2026-05-17T07:00:00+00:00",
-    "source": "Tom's Hardware",
-    "title": "OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month — bill covered 603 billion tokens across 7.6 million requests and 100 coding agents",
-    "summary": "Tom's Hardware is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZmhHTVpuYXZRWjV4Vk53dVFMMk8yNzUzZC1FQS0wMkkxVHEzbjB2Wi0zeUlOMGNRc3VoNDlJWFRYbTZFOXdyR2hUQ19KYWR5Ri1FS2lORHlYNVlyVkNGdnRKQk1kdl85a2p6NTFtTHgyaW5sOXh2TzYtS19xQ2p3NXZQOU5oNVBhcVU5Qmtkc2t6bENBMXFmMXVzTUNlNERVSS04OGpobUdjeG85VzF1N3lMMW1VdWV4Sm5ZaEZmY2llT1Zza1ZXWXF5dWsyTERNUWYxZWdTZWNIVno2S25CLUtR?oc=5",
     "difficulty": "News"
   },
   {
@@ -374,13 +362,25 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Dec 11, 03:00 AM ET",
-    "publishedAt": "2025-12-11T08:00:00+00:00",
-    "source": "Databricks",
-    "title": "OpenAI GPT-5.2 and Responses API on Databricks: Build Trusted, Data-Aware Agentic Systems",
-    "summary": "Databricks is reporting this update. Open the article for the full story.",
+    "time": "Mar 05, 03:00 AM ET",
+    "publishedAt": "2026-03-05T08:00:00+00:00",
+    "source": "Snowflake",
+    "title": "Announcing OpenAI GPT 5.4 on Snowflake Cortex AI",
+    "summary": "Snowflake is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDlWVzhKOGlrQVZzMGYtV0pZRkpSZ0lXNVVtZ0pLRkp6QndlNGwxc0N0T0hvekxfdWEtQVZNanRFZERoa095RWJHT2ZKQjZmcnNIZUVPMlVIS25lWDFGVDNXM1NpQmM4Y2pzcVZmbXlqeTdaeUlsQjhqNWtSQ3lLb0hoaEJQckpubzhJd3R1SWk2dlJvSV84ZXdOb3pzX0dLaTZnVTBMTE9SWXJlaUNuTXFwa3htQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PWnREc2h3b2xDYV93LXBsVTdBcFIybE1tOGdHcG95NEl1eGxYZWRMS3NTNzRJenB2cTdKUXlzU2NLaU9LOWVBVDZXdmYtSm93Qkp4LVFEbE05SW5LNUNsZHpaeElTd3l5dkJqOVBRQ01ud200d1N2YQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 15, 03:00 AM ET",
+    "publishedAt": "2025-10-15T07:00:00+00:00",
+    "source": "The GitHub Blog",
+    "title": "Copilot: Faster, smarter, and built for how you work now",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYzVqTTg0TFdzMUZTR2Naa2ttUk9FOWVwVFVKYWV3M19TME9TanI1M0dnMHlscU1IY0VIc1lid2pieDB3bDFoNzg1VG92ZWhPSkdKbC15aGE5MElSNkN1aWRGMEtTbmZ0V2dPLVA4X0VwazdHejhJVHRMZldiM0RCWTZkZGJIUF9OcjYzRlpFRzJ0NWhTckZPMDRXSkdwU1ZaY1QwM25ySGM3MjlaZWJ1Qlg5U2kzVjdqR1ZDejYtRFlEOTRlNEtoOGRXeVk5SW5pckpPQVRaQTNFZVVOMHN3Rnd4V1NsT1E5WHJ5YXZUTTdzSnJQTXZhTk1DUWIxUmtkd1NSX0hzS0lobTlTMmxQTjFRTFBHdW5ubVRVNVBBdEs3cWc?oc=5",
     "difficulty": "News"
   }
 ]
