@@ -2,8 +2,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 10, 03:04 PM ET",
-    "publishedAt": "2026-06-10T19:04:00+00:00",
+    "time": "Jun 10, 03:08 PM ET",
+    "publishedAt": "2026-06-10T19:08:09+00:00",
     "source": "PPC Land",
     "title": "Google's Gemini 3.5 Live Translate lands with 70-language real-time speech",
     "summary": "PPC Land is reporting this update. Open the article for the full story.",
@@ -24,15 +24,27 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 10, 02:06 PM ET",
-    "publishedAt": "2026-06-10T18:06:54+00:00",
-    "source": "TradingView",
-    "title": "Google Stock Weakens After Launch of Real-Time Speech AI Tool",
-    "summary": "TradingView is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 10, 02:02 PM ET",
+    "publishedAt": "2026-06-10T18:02:36+00:00",
+    "source": "Digiday",
+    "title": "OpenAI’s ChatGPT ads get their first measurement partner in LiveRamp",
+    "summary": "Digiday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDk5eS0yYkdzZXNBM0FsUUZyRTFjTmQzQVZKSS0wc3ZvWEdBMmwybHNnUjdyY2dBbG9PaDR5UmpCVk5xSm9pdGd0ZWY0OWV5YnRfRmhLLVBxU3lQYnk0aVJvWVY0S1BUVjNQSVFoZEI5a1VRWlBwRmt2Zmc3WjhpWXRHR0ZIcnRzWnZqd2pKd29EZ0YyUXU0aVBBTGtUaWdCY3M0QjJpYmV6bDRTb0p3SzhzSTJDQ3JsdDdxcVVn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUtfSERxN2t2OUxEeTJQMFZqbnIzMjMzTUtRTGJ0Nl8td2U1UUtFbnJoT21TazZGcUYzQVo3ZHR4VUYzOEx5d0FNMWRnQlV3cGJ0Rno4M0lHaHhubUJfeEZUUEJNcUlVdkRDd3ZPbnZBdVE5MlFiYTVlQzg1cHJQanVtNXQxVHA5V3NveEFxNGJpTE1WdTZUelVqV2Y5RG8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 10, 12:35 PM ET",
+    "publishedAt": "2026-06-10T16:35:12+00:00",
+    "source": "The Futurum Group",
+    "title": "Claude Fable 5 Is Most Consequential Where Software Is Built",
+    "summary": "The Futurum Group is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGctR1kzWVlnNlc3VndKclZMZkpHU0RuQ2gzd0dGM0JEeDQyRUNpY1J0V0VGc1I1Y2dVWkxMVlh4RENzdWxaU21UbDJ5ekdpdHlxb3VJZVM0NG5laXR2NnBTWEV4SldzWWZUaEZpTEk5Rld5T1RQYm9oeTQ2ajVUaEJub1o4dzRfZFhNZXBzQ0t2N2gzY2kySnF5OA?oc=5",
     "difficulty": "News"
   },
   {
@@ -62,18 +74,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 10, 10:48 AM ET",
-    "publishedAt": "2026-06-10T14:48:45+00:00",
-    "source": "The Futurum Group",
-    "title": "Claude Fable 5 Is Most Consequential Where Software Is Built",
-    "summary": "The Futurum Group is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGctR1kzWVlnNlc3VndKclZMZkpHU0RuQ2gzd0dGM0JEeDQyRUNpY1J0V0VGc1I1Y2dVWkxMVlh4RENzdWxaU21UbDJ5ekdpdHlxb3VJZVM0NG5laXR2NnBTWEV4SldzWWZUaEZpTEk5Rld5T1RQYm9oeTQ2ajVUaEJub1o4dzRfZFhNZXBzQ0t2N2gzY2kySnF5OA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jun 10, 10:37 AM ET",
     "publishedAt": "2026-06-10T14:37:56+00:00",
     "source": "DevOps.com",
@@ -89,7 +89,7 @@
     "time": "Jun 10, 10:00 AM ET",
     "publishedAt": "2026-06-10T14:00:49+00:00",
     "source": "Android Police",
-    "title": "Google Gemini outage frustrates users, but status page says everything’s fine (Updated)",
+    "title": "Google Gemini outage frustrates users, but a fix is in the works (Updated)",
     "summary": "Android Police is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWNpbDJ1QmxQXzhaZjNSZmdYWHpYdHliOWc0V1RFbDN5dExXVVd6NHA4UjZFcmppWklUTHc5WnpwWHBVMHR3cWxkNk9TR3BxaW9wUjZ1V0dIeTA5ZE1FOVpvakhRTWNlQ2xnaGQ2QkRpV0xmamYxOVppMTByRi1oNUlnZ083WEduR0ljOEp3VElDdkxKaWpFdUVkYzJvX3VZb0lmZUgxb01HUQ?oc=5",
@@ -252,6 +252,30 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 08, 03:00 AM ET",
+    "publishedAt": "2026-06-08T07:00:00+00:00",
+    "source": "Android Central",
+    "title": "Google Gemini AI: Gemini 3.5 Flash, Nano Banana, Live, best features, linked apps, and more",
+    "summary": "Android Central is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52bzRyUGZlOWU5N0ZKUU9nNUxRS2dRN05VcWkxU3V5MWF5aG15TXRmZmZQYmVWeHUtRVJlaGZyQmhLWW9OMzFQaEZ2eEFVMEtxNGRROG1uNEplQjdvd3kyZm1tejlSMW9SaVE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 06, 03:47 AM ET",
+    "publishedAt": "2026-06-06T07:47:18+00:00",
+    "source": "Fathom Journal",
+    "title": "Replace OpenAI API With Local Models: Ollama + LiteLLM, Text Gen Webui, Google Colab (W7bVqSuebo)",
+    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IeU9QVzhYUnFDWkZyN0RsS0s1ekl6S0VId3RWcnVnRkNjVThHa1k1LVJKQjdMaktURVVWZTZETVRPM2hoOGsxUmxKUVRyeHNLWE1SVWVRUHV1MEZvdER6Zjl0Qm85NlhCYVJDRF9UZS0?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 05, 03:15 PM ET",
@@ -261,30 +285,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTdaQVNjcDhoUTVkMTJqZ2FSZ3RrVWdOdmNRd2V6dVVoN09ET2s0czdlZXhFbjV1bE45T1E2bk9ZVUdWelFYMkxZLVFFN3pzQnNPMU1laGdaU2RyXzRacXRJeTJkX1pyTE9xOHpYcTBHd1hjbDFfdnpkQUdqUTI2emYwUlA2dThxMldXSFNTVTRKVWJnU2FxSnBpb1RTdU1md1k3QlhMQXJlejdjSzg4eTFCTnEzR1JvOHlPekp5UVIzemhuRml4S3ZyM21ZZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 05, 03:03 PM ET",
-    "publishedAt": "2026-06-05T19:03:13+00:00",
-    "source": "USA Today",
-    "title": "NeatAPI.ai Launches Affordable OpenAI and Claude API Token Marketplace for Tech Startups",
-    "summary": "USA Today is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2dMVGxKT1QzQk9HSF9yTmZZZWJWQzdmYlNPdlNmdVdPNlVycm1ZbU5XUDhZVmV3YjNvNUNGMnZYRUltNi02Ujdiazlobmp1NHN4U2tyYUFUbE1PY1ljMVQwZWVzamdBM2RSNjRDaDV4d004X1V6S3BYMXlCTEwtQldXMUoweUNPRHhtOGdWaDNaUHZLQXRLbFNCVTNMSTJGYncyTmJrT1E2elc4bEI0MFN0MzdMOTNaT0Z6LThIU3kwcUloZ2RTZjEzeHpsQnM5LURtZW1ENA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 01, 03:00 AM ET",
-    "publishedAt": "2026-06-01T07:00:00+00:00",
-    "source": "The Hacker News",
-    "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xRmtjbnRYMThXYXMzeEIxdG93OGMyX0tsS0EtYndQekdzYkVWc0dwWmt1dWR5UHJwY29CX2FrYTFJVWJpbTZhVUhOcXQ5VGVKbGpZNmd1RGJmZmZabWVSRjRiXzk1S2dDaFpfX29vVzJFdzJKYnNhMXdWcHBudw?oc=5",
     "difficulty": "News"
   },
   {
@@ -362,25 +362,25 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Apr 28, 01:01 PM ET",
-    "publishedAt": "2026-04-28T17:01:21+00:00",
-    "source": "Stratechery by Ben Thompson",
-    "title": "An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents",
-    "summary": "Stratechery by Ben Thompson is reporting this update. Open the article for the full story.",
+    "time": "Feb 27, 03:00 AM ET",
+    "publishedAt": "2026-02-27T08:00:00+00:00",
+    "source": "The Official Microsoft Blog",
+    "title": "Microsoft and OpenAI joint statement on continuing partnership",
+    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlFsWXNCbkJ0ZEJITGRSeF9EWWoxNTNFYzkyaWs2R3YyVVVuUWVfWTZodWozTGNydThCM3ViM0hzT1JwNm5qcks2STNiZG5HZW5peUpwVUhFWFVER1pFTlA5U1poWGZtZDZEQTlZTGNIU1g5NEdlNlpPR2p6VTlQT0twc0JfR3c3UWg0RU1vcVVYVUtmZFY5ekRSYi0zTGppazEyWnFwU1dGdEdaanNzSVRQaDMtX3h5eWVLMVdFaw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOElSNlR5ZmxjMktRREk2RE40QlRIUDZTVTZFRW9tME4xcjVOSFR0WHEyVFU5WUVZSEZXOWROeHZjY2o0Q0JmbWRabXZlQXFsaWNUS0stVzJ2Rkc4aWZCUUJGZ3p5SGZHMjZvdV9ic1lZYmZDTTlnMzMweXBJWWEtQVJWZ1NTWE9aUFdqUVhMZXNqTkliWmdkWmQ1SHAxbzZRRzdSWlRXQjZEOGc?oc=5",
     "difficulty": "News"
   },
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Mar 12, 03:00 AM ET",
-    "publishedAt": "2026-03-12T07:00:00+00:00",
-    "source": "Towards Data Science",
-    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "time": "Dec 11, 03:00 AM ET",
+    "publishedAt": "2025-12-11T08:00:00+00:00",
+    "source": "Databricks",
+    "title": "OpenAI GPT-5.2 and Responses API on Databricks: Build Trusted, Data-Aware Agentic Systems",
+    "summary": "Databricks is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDlWVzhKOGlrQVZzMGYtV0pZRkpSZ0lXNVVtZ0pLRkp6QndlNGwxc0N0T0hvekxfdWEtQVZNanRFZERoa095RWJHT2ZKQjZmcnNIZUVPMlVIS25lWDFGVDNXM1NpQmM4Y2pzcVZmbXlqeTdaeUlsQjhqNWtSQ3lLb0hoaEJQckpubzhJd3R1SWk2dlJvSV84ZXdOb3pzX0dLaTZnVTBMTE9SWXJlaUNuTXFwa3htQQ?oc=5",
     "difficulty": "News"
   }
 ]
