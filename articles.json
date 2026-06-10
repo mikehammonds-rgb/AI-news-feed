@@ -76,9 +76,9 @@
     "label": "Claude Code",
     "time": "Jun 09, 01:19 PM ET",
     "publishedAt": "2026-06-09T17:19:29+00:00",
-    "source": "Venturebeat",
+    "source": "VentureBeat",
     "title": "Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever",
-    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON296bVlNQTJuY0RzMDdyV0dNTWhaNHVQak1wUGpKNWJsM21qWEZjQ1J5d0pIbEE4dWNFZURZWjFwVzUteHE0S2ZfQlQxYXQtVjlVc0hWeDlmVUUtVzhvSld4YldCYmJsclBxVnhrbTJza1ZZRXZxNHhzU1dfb1IyZVdCVzZZNHVTcGM1ZjhmWkV3dTBISXprMXJOUGF2dVR3MmNRWUJkVmduajRtYThXeTdaeW1XVWwyRDVFRnNNdHF3XzJiX2FiU0Z3QVppZXNPblJPT3BudnY?oc=5",
     "difficulty": "News"
@@ -240,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 04, 08:47 AM ET",
-    "publishedAt": "2026-06-04T12:47:00+00:00",
-    "source": "PR Newswire",
-    "title": "OrcaRouter Launches Monthly Plans: Access Claude Opus 4.8 API, OpenAI GPT-5.5 Pro API, Gemini 3.5 API and More -- Now Up to 10% Cheaper",
-    "summary": "PR Newswire is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMGllQmw4ZTZ1MVY2Z000X1N0TWdITWZkYW5XOE1VU2E3ZWVzY3R6VXRxck4yVDZGWUNkUDJZTEltSkxqLWNZSlM5dFplWHVJaFlPalotc2NLN2FGZ1dXMVl4N2lMWEd3aTZZOWZic2FoWGlxSnEySkVTd0tURjdnanNIV294M0QwRnV5V1BsT1BoYlc2bzFVTkQ0SGJFVnFITTJ2RTQ4aTBoalhpcTRJWFJIM1dlTnpYaE1lblJXemZESlBoQ2QxNmNDa3gtSzl0R09VXzQ3WHRmUjU2RVg2SWFtQ2NxMjBNUS1wb0lsTWhTLTRBbTQxOE9CVXkwRXZiSWF0elhVYVROVTJLdXVtamk4aw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 29, 03:00 AM ET",
@@ -266,6 +254,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "May 27, 03:00 AM ET",
+    "publishedAt": "2026-05-27T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Coding agents in the social sciences",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZOVA5Z3pKZ1JzSHJXaFl0LWdSQlZfZWhGb3AtY1R3MExZRm9KS2dfRmNzTE1XR2VXdjlPMVh6U25SU2JmcXBZQjlnSWRreHM2SGZmTnpQVzRLQVFmVFQyOExiR2o5dFhSb3A2WVBmV2RzQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "May 25, 01:02 AM ET",
     "publishedAt": "2026-05-25T05:02:51+00:00",
     "source": "AI: Reset to Zero",
@@ -273,30 +273,6 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 22, 03:00 AM ET",
-    "publishedAt": "2026-05-22T07:00:00+00:00",
-    "source": "The GitHub Blog",
-    "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQUtSb0JJeGtMOUNiQWlLZkJSUU80RU5wa1J3WUd0Z1hUSW5BTHo2U19HemhoRXJTYWdQcW83RFM2RVRLWTJOMkxaT0pmOWhNZV9VRHlVWHJZbXdGMGRtUE9nQzRpNmRDdkk0ZmM3N3hoZ1dDQ2JuY3Rkbzd1SWswVk1TTnZlQUdiYmE5SFZEZHpiZ2dCdktHN3pFTklMVHFQZHAxcWhBdXlFSGRTN3NjbENEY1FVZGtCRnVoVUpDZWl0aFhDZnNwSzg0OEZYSGRHNVFKYThiYlgzaFhOQ1hhZ1JqcjhIaUJRTi1valhTaWsxUUtIN1V0Mw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
     "difficulty": "News"
   },
   {
@@ -338,6 +314,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Apr 28, 01:01 PM ET",
+    "publishedAt": "2026-04-28T17:01:21+00:00",
+    "source": "Stratechery by Ben Thompson",
+    "title": "An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents",
+    "summary": "Stratechery by Ben Thompson is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlFsWXNCbkJ0ZEJITGRSeF9EWWoxNTNFYzkyaWs2R3YyVVVuUWVfWTZodWozTGNydThCM3ViM0hzT1JwNm5qcks2STNiZG5HZW5peUpwVUhFWFVER1pFTlA5U1poWGZtZDZEQTlZTGNIU1g5NEdlNlpPR2p6VTlQT0twc0JfR3c3UWg0RU1vcVVYVUtmZFY5ekRSYi0zTGppazEyWnFwU1dGdEdaanNzSVRQaDMtX3h5eWVLMVdFaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Apr 23, 03:00 AM ET",
     "publishedAt": "2026-04-23T07:00:00+00:00",
     "source": "OpenAI",
@@ -345,6 +333,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 27, 03:00 AM ET",
+    "publishedAt": "2026-03-27T07:00:00+00:00",
+    "source": "infoq.com",
+    "title": "OpenAI Extends the Responses API to Serve as a Foundation for Autonomous Agents",
+    "summary": "infoq.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxMnRnVHJZM3lLRWtUdm9CQ0c5elJmSXBBbDJ0NzhDWC13dF9vYWNOdVYxbmRqWDlCTVR2OGJFOGFDSnVyOGZvYUNQRF9oTVNfMnRkU2lJLUZpaThnRmNQQXotUS10QXU5MjV4c2hOb0Y?oc=5",
     "difficulty": "News"
   },
   {
