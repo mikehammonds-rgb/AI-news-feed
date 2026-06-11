@@ -2,11 +2,23 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 11, 01:43 PM ET",
+    "publishedAt": "2026-06-11T17:43:22+00:00",
+    "source": "Mashable",
+    "title": "Using Claude Fable 5 means opting into data collection",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzFiZTlJYXRBWGJaRXl3YUQ1WTBjUU00czBkYnk1TDlaWUd4NndPeDhqZzlCTXE3ZWRMQ09RdGxLdWZRU1cxaS1veHdieXVKdjZIMW9tTFV5STVLeFFLVmlEV0dCb1kxbzhJZlFRRUM5N01kYjVHRHZNX1FzeG1pbUJYR25HVG1raGN0YkplRldOMVM5LXZwYl9QeDVoQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 11, 11:35 AM ET",
     "publishedAt": "2026-06-11T15:35:47+00:00",
-    "source": "The Decoder",
+    "source": "the-decoder.com",
     "title": "OpenAI vs. Anthropic: A price war over API tokens is brewing",
-    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFpKbmNlVWc1UnNZbThIaThWY2dMQ1lwU3RhclE1LXY3bGx1QWR5SGVSeXNGTnFZVDkzOHRTZmc4MlNmRFZmVkF0cVJmWHNjTUdjZjBlYlluclRWakQ0Q0RnZWZOZWlOTGxfbnI5VEdEZmZIcDhabXdvTUctbGxzT0o0ZkFVejU2UzNv?oc=5",
     "difficulty": "News"
@@ -33,18 +45,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnRk42MEsxNHRZOTQ5eVFSdnVhd09iTWdwUzdZOVlyVnlGRWYtNTRpWlVDeUF2Q1hJQk9hSlRQZUJaU0pGLUNnX2QyajBucldWc2ZNTnBoNEN0bGRrMjUyb1RGNkR5ZUxpUkRkdUFNeG90Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 11, 02:58 AM ET",
-    "publishedAt": "2026-06-11T06:58:38+00:00",
-    "source": "MIT Sloan Management Review Middle East",
-    "title": "Anthropic Releases Claude Fable 5 and Mythos 5",
-    "summary": "MIT Sloan Management Review Middle East is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOemlscnhJMl9RaDBFdHJoeXBkbU5yQ0IwOHFObHg5Q1ZYSm5ZRWlQczEzUlpXUnM4TktuUkpVbl9nWFpab3pfcGRUSGZ4UllPcW1oZllyNjNHUGZvV2RBY0xPMzNpejNQZktlSWpCbVJybktNX2dyWnJCQk1BbEpwZmlJSTlpRE5C?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,18 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 06, 03:47 AM ET",
-    "publishedAt": "2026-06-06T07:47:18+00:00",
-    "source": "Fathom Journal",
-    "title": "Replace OpenAI API With Local Models: Ollama + LiteLLM, Text Gen Webui, Google Colab (W7bVqSuebo)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IeU9QVzhYUnFDWkZyN0RsS0s1ekl6S0VId3RWcnVnRkNjVThHa1k1LVJKQjdMaktURVVWZTZETVRPM2hoOGsxUmxKUVRyeHNLWE1SVWVRUHV1MEZvdER6Zjl0Qm85NlhCYVJDRF9UZS0?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 05, 03:15 PM ET",
@@ -333,6 +321,18 @@
     "summary": "Microsoft is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREJ4Wm45a0lId2d5MUxEOHdRWldESTBfVUZWNFdzMWozbGpLVFVNaEVIV0JlZUFBU0ZjMmFCeWNMazVuM1BsNUx2Z3VlajhHQURuR3cyNDd0LTY5YVJsVGpOU0E1RmtsZmVyb1JyOEgyQmNCeFJZT3U5bTBPSlZuNmdtdm10bzNwSmhyMmNLNkRrUU5EYVRxVG1McjVJSmNqZTBTb0dmRk15UlJtOWFubl9TTFRMUnJmQm5MTg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "The Hacker News",
+    "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xRmtjbnRYMThXYXMzeEIxdG93OGMyX0tsS0EtYndQekdzYkVWc0dwWmt1dWR5UHJwY29CX2FrYTFJVWJpbTZhVUhOcXQ5VGVKbGpZNmd1RGJmZmZabWVSRjRiXzk1S2dDaFpfX29vVzJFdzJKYnNhMXdWcHBudw?oc=5",
     "difficulty": "News"
   },
   {
@@ -374,13 +374,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Dec 11, 03:00 AM ET",
-    "publishedAt": "2025-12-11T08:00:00+00:00",
-    "source": "Databricks",
-    "title": "OpenAI GPT-5.2 and Responses API on Databricks: Build Trusted, Data-Aware Agentic Systems",
-    "summary": "Databricks is reporting this update. Open the article for the full story.",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDlWVzhKOGlrQVZzMGYtV0pZRkpSZ0lXNVVtZ0pLRkp6QndlNGwxc0N0T0hvekxfdWEtQVZNanRFZERoa095RWJHT2ZKQjZmcnNIZUVPMlVIS25lWDFGVDNXM1NpQmM4Y2pzcVZmbXlqeTdaeUlsQjhqNWtSQ3lLb0hoaEJQckpubzhJd3R1SWk2dlJvSV84ZXdOb3pzX0dLaTZnVTBMTE9SWXJlaUNuTXFwa3htQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
