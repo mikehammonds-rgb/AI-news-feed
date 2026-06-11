@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 11, 01:58 AM ET",
+    "publishedAt": "2026-06-11T05:58:36+00:00",
+    "source": "MIT Sloan Management Review Middle East",
+    "title": "Anthropic Releases Claude Fable 5 and Mythos 5",
+    "summary": "MIT Sloan Management Review Middle East is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOemlscnhJMl9RaDBFdHJoeXBkbU5yQ0IwOHFObHg5Q1ZYSm5ZRWlQczEzUlpXUnM4TktuUkpVbl9nWFpab3pfcGRUSGZ4UllPcW1oZllyNjNHUGZvV2RBY0xPMzNpejNQZktlSWpCbVJybktNX2dyWnJCQk1BbEpwZmlJSTlpRE5C?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 10, 08:56 PM ET",
@@ -12,15 +24,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 10, 03:52 PM ET",
-    "publishedAt": "2026-06-10T19:52:30+00:00",
-    "source": "MSN",
-    "title": "Anthropic releases Claude Fable 5 with new safeguards and API access",
-    "summary": "MSN is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 10, 03:27 PM ET",
+    "publishedAt": "2026-06-10T19:27:52+00:00",
+    "source": "PPC Land",
+    "title": "LiveRamp CAPI Hub now connects ChatGPT ads - here's what it measures",
+    "summary": "PPC Land is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVU9EQTRXay1STl8xU0VlbUlhekhzYjRobThYRlZkY2ZoNF9vYkJHQ3VCTGZMeXFIRmc3Y3hQOURsY0NfUFpWQUlJSldOaFJRVU1TYzRLTm9tOXRiU2FJYXEyLVE3TmF1eEk4LUh6VXhOdlBkRVBXSFlwVjRWLTdpczNvTmpYMm1nZmxrbnFfZkZPeTBNTnI4MnloaXRtQ1A5dXJpWEJGbGlwaWlOTXVJQUpOc29PMUJra2xGWHY0QQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa29XR0Jjd05iVE5nRHI4VzJvTnF2VkV0dFYxMW53V1YyVjlVQWZFUlZVbjFtUWxfdGttQ3U1Wmdma2FyWF9LNzdZZVowbENuWVlGaXhCaTRDb0pBa3VPZFE0SGxvMUtxTUVvR2dWalpnQ1BqVkh1eWFVa05RV1NBSHZtSjRRQkVNWDg0?oc=5",
     "difficulty": "News"
   },
   {
@@ -33,18 +45,6 @@
     "summary": "PPC Land is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVZxTHBfMjgzcF9BVjl1WFJVWHh0V21iZFpRWU5YcjNKa29mZHZ4T24tTk9VTDJ3a2RQR3FZT3BvNllLUjBuUHdpclYzX2h3M1FSTWRja2hqS1NsbUdueFJtZWNsdHRNQnJhVGRFS0taQ0UyaXdWa2xraDNVZmZaQWlEMDlJMnp5cWRaajgzYUFRWW1RYlE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 10, 03:01 PM ET",
-    "publishedAt": "2026-06-10T19:01:56+00:00",
-    "source": "StartupHub.ai",
-    "title": "Bugbot Gets Major Speed and Cost Upgrades",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVo2clVJa0FMQ2lwVDUwMklNRUNtbG1OYlJwcjFVeFpOMktRcVRiNjV5aGVjcUN3ZEVCejROSjUxeW8xbUpRWnRMQXZGUlFjaXQxc21adEs2TzNBWl9zMDRyMVZxUGZ5OEx5bC1Mc21EUE9yTG1KYUg5MkhfUDdoenZnOHhQWDRuRWpyWEUtU1YwRlVrUnc?oc=5",
     "difficulty": "News"
   },
   {
@@ -81,18 +81,6 @@
     "summary": "The Futurum Group is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGctR1kzWVlnNlc3VndKclZMZkpHU0RuQ2gzd0dGM0JEeDQyRUNpY1J0V0VGc1I1Y2dVWkxMVlh4RENzdWxaU21UbDJ5ekdpdHlxb3VJZVM0NG5laXR2NnBTWEV4SldzWWZUaEZpTEk5Rld5T1RQYm9oeTQ2ajVUaEJub1o4dzRfZFhNZXBzQ0t2N2gzY2kySnF5OA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 10, 11:46 AM ET",
-    "publishedAt": "2026-06-10T15:46:58+00:00",
-    "source": "Mashable",
-    "title": "Using Claude Fable 5 means your data will be collected. It’s not optional.",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzFiZTlJYXRBWGJaRXl3YUQ1WTBjUU00czBkYnk1TDlaWUd4NndPeDhqZzlCTXE3ZWRMQ09RdGxLdWZRU1cxaS1veHdieXVKdjZIMW9tTFV5STVLeFFLVmlEV0dCb1kxbzhJZlFRRUM5N01kYjVHRHZNX1FzeG1pbUJYR25HVG1raGN0YkplRldOMVM5LXZwYl9QeDVoQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,6 +180,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 09, 12:01 PM ET",
+    "publishedAt": "2026-06-09T16:01:58+00:00",
+    "source": "StartupHub.ai",
+    "title": "GitHub Copilot CLI Agents Get Context",
+    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2JTaHNELUo1a3pjNFdlY1k3aU5ZRXZnSW1LWmpuRkloUjZJYURnMHNfVlJaVE1WMHJpZ0xBdExjZkRWTmdXUlprMnU4c0R4RUlGVEIxQ2hUZFNDekYzRGN1d0FXZXBpOUZyLXhPSEdTSXVmMF9mX1dlUVd3WFZiMTlCWGhQMmdDMTJ3dkFWbnc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 09, 11:15 AM ET",
@@ -278,13 +278,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 05, 03:03 PM ET",
-    "publishedAt": "2026-06-05T19:03:13+00:00",
-    "source": "USA Today",
-    "title": "NeatAPI.ai Launches Affordable OpenAI and Claude API Token Marketplace for Tech Startups",
-    "summary": "USA Today is reporting this update. Open the article for the full story.",
+    "time": "Jun 05, 12:46 PM ET",
+    "publishedAt": "2026-06-05T16:46:47+00:00",
+    "source": "Microsoft",
+    "title": "Securing CI/CD in an agentic world: Claude Code Github action case",
+    "summary": "Microsoft is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2dMVGxKT1QzQk9HSF9yTmZZZWJWQzdmYlNPdlNmdVdPNlVycm1ZbU5XUDhZVmV3YjNvNUNGMnZYRUltNi02Ujdiazlobmp1NHN4U2tyYUFUbE1PY1ljMVQwZWVzamdBM2RSNjRDaDV4d004X1V6S3BYMXlCTEwtQldXMUoweUNPRHhtOGdWaDNaUHZLQXRLbFNCVTNMSTJGYncyTmJrT1E2elc4bEI0MFN0MzdMOTNaT0Z6LThIU3kwcUloZ2RTZjEzeHpsQnM5LURtZW1ENA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREJ4Wm45a0lId2d5MUxEOHdRWldESTBfVUZWNFdzMWozbGpLVFVNaEVIV0JlZUFBU0ZjMmFCeWNMazVuM1BsNUx2Z3VlajhHQURuR3cyNDd0LTY5YVJsVGpOU0E1RmtsZmVyb1JyOEgyQmNCeFJZT3U5bTBPSlZuNmdtdm10bzNwSmhyMmNLNkRrUU5EYVRxVG1McjVJSmNqZTBTb0dmRk15UlJtOWFubl9TTFRMUnJmQm5MTg?oc=5",
     "difficulty": "News"
   },
   {
