@@ -132,18 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 10, 05:19 AM ET",
-    "publishedAt": "2026-06-10T09:19:26+00:00",
-    "source": "OpenAI",
-    "title": "From data to decisions: how LSEG is scaling trusted AI",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Yb1BlMUdZSUpjNVNmZ0dtbU4zWGt1aGw0M0FKLWlkYUlNNHZnQ1pPaVl6RWNwdDdLMkl6SW1jeC11VGJv?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 09, 09:13 PM ET",
@@ -216,6 +204,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 09, 01:00 PM ET",
+    "publishedAt": "2026-06-09T17:00:00+00:00",
+    "source": "TechCrunch",
+    "title": "Anthropic releases Claude Fable, a version of Mythos, days after warning AI is becoming too dangerous",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXY2ajk2ZExQQkkwSXdYZWVPdHV0MFpfN2RlSEdrSE1KMG1tbEFJZ1AyU1dXaUlTNVVxTkxSaHBDWEc5NWhLa0plOTlCRzBtWEhBdHNmdWg4dkV1cFQ2VGEycmtDbktzV1RZLVNSdHpXZmZVME5MT2xQYU5tdVJNb194SEVxVVZPT2c3M29QcHBfaThFU0xIbDR3R1p5M1NfMnJIRnA2dGcxWFhobEgxSQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 09, 11:15 AM ET",
@@ -254,6 +254,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jun 09, 12:26 AM ET",
+    "publishedAt": "2026-06-09T04:26:41+00:00",
+    "source": "Android Central",
+    "title": "Google Gemini AI: Gemini 3.5 Flash, Nano Banana, Live, best features, linked apps, and more",
+    "summary": "Android Central is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52bzRyUGZlOWU5N0ZKUU9nNUxRS2dRN05VcWkxU3V5MWF5aG15TXRmZmZQYmVWeHUtRVJlaGZyQmhLWW9OMzFQaEZ2eEFVMEtxNGRROG1uNEplQjdvd3kyZm1tejlSMW9SaVE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jun 08, 01:21 PM ET",
     "publishedAt": "2026-06-08T17:21:00+00:00",
     "source": "9to5Google",
@@ -261,18 +273,6 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5USmFyNGFhc0JGcGVMN0lJZVE1eDQ1QVZpSU10dXpycUpKNlRsdHd3QW00UmphZW52SEtPUDYxN1Z4UE9CUUxnZVd5RE5ibkZ1ay15ck9OdUppMnR1UkZWOHpYQU5qZ3d0MDhFbQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 08, 09:00 AM ET",
-    "publishedAt": "2026-06-08T13:00:00+00:00",
-    "source": "Business Wire",
-    "title": "New Relic Introduces AI Coding Observability to Bring Critical Visibility and Governance to AI Coding Assistants",
-    "summary": "Business Wire is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcHZXTDF1azRzNnpvV2JiazN2bTMyN1pYak1nbXFYalJwME1ZRnRtcERUb3o4cnBtdWtaa214RTNJaXZjRU5zU0dnYmRCTzBHOGxIdElNX3JmZFRBcTR2Uk5lTElfTFBmVDhxWks3eE9TUEV0a0l6UUFTcjBsUGdIZWNNYVhrclY4M2lXbmd5T0hrU09aU0hhd19fT3d3WVIyRzk1dlo3ZmRBNGFvcThpX0Y4YTB6SFREaXFCMVd4WHFiUmFNdlc5clYxVWJXS04tQjExNnpTZFp4Tkl4bUNRMmJNdDlPdjlaYllibUU5R3F3RHRQZWNPSWUtd2luZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -297,18 +297,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTdaQVNjcDhoUTVkMTJqZ2FSZ3RrVWdOdmNRd2V6dVVoN09ET2s0czdlZXhFbjV1bE45T1E2bk9ZVUdWelFYMkxZLVFFN3pzQnNPMU1laGdaU2RyXzRacXRJeTJkX1pyTE9xOHpYcTBHd1hjbDFfdnpkQUdqUTI2emYwUlA2dThxMldXSFNTVTRKVWJnU2FxSnBpb1RTdU1md1k3QlhMQXJlejdjSzg4eTFCTnEzR1JvOHlPekp5UVIzemhuRml4S3ZyM21ZZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 05, 12:46 PM ET",
-    "publishedAt": "2026-06-05T16:46:47+00:00",
-    "source": "Microsoft",
-    "title": "Securing CI/CD in an agentic world: Claude Code Github action case",
-    "summary": "Microsoft is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREJ4Wm45a0lId2d5MUxEOHdRWldESTBfVUZWNFdzMWozbGpLVFVNaEVIV0JlZUFBU0ZjMmFCeWNMazVuM1BsNUx2Z3VlajhHQURuR3cyNDd0LTY5YVJsVGpOU0E1RmtsZmVyb1JyOEgyQmNCeFJZT3U5bTBPSlZuNmdtdm10bzNwSmhyMmNLNkRrUU5EYVRxVG1McjVJSmNqZTBTb0dmRk15UlJtOWFubl9TTFRMUnJmQm5MTg?oc=5",
     "difficulty": "News"
   },
   {
@@ -348,15 +336,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 21, 03:00 AM ET",
-    "publishedAt": "2026-05-21T07:00:00+00:00",
-    "source": "The Verge",
-    "title": "I can’t believe how fast Google vibe coded my first Android app",
-    "summary": "The Verge is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 22, 03:00 AM ET",
+    "publishedAt": "2026-05-22T07:00:00+00:00",
+    "source": "The GitHub Blog",
+    "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVBIN1d1a2ZPSDVHNmhPXy1QeXIxcTZVS2lFXy1zQmdJcVFOaWg0QmM0eW1HQlFOYlV6Z3doS1lwSXBlMFBqYlFRXzRVanNLVUFOTWpzSjV3SXVTX0NqdTdwdjhyd0J0UzRpRVVzSXBva05ILWV6cXR4UFZrS3pqcHFtSjZXcmNtRDJqYlU4cXdqUVVvRXpHSWExMHltQnk2YTZtNkxLMlVrQXFhYi1BRFNB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQUtSb0JJeGtMOUNiQWlLZkJSUU80RU5wa1J3WUd0Z1hUSW5BTHo2U19HemhoRXJTYWdQcW83RFM2RVRLWTJOMkxaT0pmOWhNZV9VRHlVWHJZbXdGMGRtUE9nQzRpNmRDdkk0ZmM3N3hoZ1dDQ2JuY3Rkbzd1SWswVk1TTnZlQUdiYmE5SFZEZHpiZ2dCdktHN3pFTklMVHFQZHAxcWhBdXlFSGRTN3NjbENEY1FVZGtCRnVoVUpDZWl0aFhDZnNwSzg0OEZYSGRHNVFKYThiYlgzaFhOQ1hhZ1JqcjhIaUJRTi1valhTaWsxUUtIN1V0Mw?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +369,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnNNT1ZqbDBUd0RZUGNralNNbktJNjk1aGgzV0NSVkhRTXlhUjg2clE5dXVQd0pYME1Iekh4N0NORGoteTJhVS16QzNNT0Z5d3FIYVo5RWlyM1ZaNlpPdUtibTcwZy16SjJOZFRnQkZpZFZxYUZDTXZoSTZzQllRSWoxa0hieGRvTnFBTy1PeS1GYzdLczFV?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
