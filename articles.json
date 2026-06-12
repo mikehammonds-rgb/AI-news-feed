@@ -14,37 +14,25 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 11, 08:54 PM ET",
-    "publishedAt": "2026-06-12T00:54:49+00:00",
-    "source": "MLQ.ai",
-    "title": "Anthropic Reverses Secret Policy That Silently Degraded Claude for Rival AI Researchers",
-    "summary": "MLQ.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2RhbUlPNS1IX0M0SElidk1KX2pRbzI4SThUUEdKVVllbF84bkNESE5ETXFoSHFNRVJCeXRPU2RwRWF1MXBPVWgtQjlzcXlEbnBRU29WOGR1U0tidmlqWGxBX0Vlb3JVdEhkTHBXZ25ZNGhVTHNXeUpLNzdBME5yWXBsNGpGc0ZXNmpmRG9PT1hiRDNwN28tRUFOV2RJYWx1OHVqU0pLMS1RM3Vo?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 11, 07:15 PM ET",
-    "publishedAt": "2026-06-11T23:15:37+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "Anthropic commits $150m to Claude Corps AI fellowship program",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeHpCeG1oQ0hSLU4xTUplR3p1QUp4TTcxcHpBdlVIdFJBY3M2WkRSNExuZmU1b1FrU3FZaVo5NkhqMGhqbmN5SEE1bkU1V0drMWNMSmJFNERfMTJVNUtERE9TbVdzb2RhU3EwQ1FxTE1pSDZQV0dhX1hrRVVqT0ZWM0ZIS2ZIeVdXRzJRQmU3Qm9HbG0zMHpKd0lZMElpNUdhZnhnejRfSElsZHEyRHRHQ2pLZkhvSU0yLVNYSEhnY1ZnX0lIbGRkSFA3SFNWYlhrejRnc1gtTDNZMFJ5QlE0blcxaEFVZUFyUWJwc3g4ZWdiVGxhOUhINFBwZkZzV2R2VGpxTVNPUURpZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jun 11, 07:14 PM ET",
     "publishedAt": "2026-06-11T23:14:00+00:00",
-    "source": "VentureBeat",
+    "source": "Venturebeat",
     "title": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQU9vTnF6eFktY0ZJeDdib1M0TzVWY1hMUl9Ka3dMUGlERlo1UGNDYU5xazgxeWRxY0d3UHA1N1h3dzlSZnBFNzQ2ZjRTVDFBV0loZGdjRGNKS2tMNzNYNVZjZmFPOTFuYW9YOGtEUGItWm9NUmpEMTdKaG02eVRHaURJanNRMEtPekxOZFZKeGJfR1BKMUVMV1pUYmNUMDNwUW02VlpSeC12UGhmVlJGTUdqY0pEWmwtbENPeEdKYXUtcEZBZ0w2c3ViWnlydll6TWVncVNNOUk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 11, 05:21 PM ET",
+    "publishedAt": "2026-06-11T21:21:59+00:00",
+    "source": "HackerNoon",
+    "title": "OpenAI Realtime API Pricing in 2026: Real-World Data From 4,000 Measured Sessions",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHhTNzc2MDFPdHBBYjl1c0pfLUhVQkk1ZG5WR296SDFobHU2eUJyQVhtWkxSei1sOWRsZ2FhSkF0M19QZWJHT0p3SDlzXzJnTzM3ZFdyOFphV1l5VGNVOXlPTFhHdGNBRjlvWmdCazV6bTExRHlscVRxa2dQLTd6VnVUdE9vTlUwclB2MFNWaGd4UVZYd2NRZEwzb3hrWmdwVVBIQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,6 +108,30 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 10, 11:09 AM ET",
+    "publishedAt": "2026-06-10T15:09:22+00:00",
+    "source": "The Neuron",
+    "title": "😸 Claude Fable Five is Anthropic's Most Controversial Model Yet",
+    "summary": "The Neuron is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVpmdUlhb3o5ZUhyYmZ5RjJadVFzeTV4cTlPSnEtdlpGY1NVQlM2VjB4X1NrcXFTUENsREZ1SmRkb0p6ZC1mYTROSEszQnk4ZkhnaTBidUtUc2tfRXBSRkxWQVBpRHBnWkhyMkFLNGJpWE02UFh3VFRyZjlpVnF1b3JucWZUSWpqT013aUlGNnFFRk1yNGEwXy13?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 10, 10:37 AM ET",
+    "publishedAt": "2026-06-10T14:37:56+00:00",
+    "source": "DevOps.com",
+    "title": "Security Flaw in Claude Code Illustrates the Risk of AI in Developer Workflows",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjZVZ3cwYV9IZHpqdnlHUnZjTVljT2ZUcGtWRFB1TUxFd1lMZ09GTFhrQkRxZ1pXR1dxaUNMb1RrTGQzYV83WWFFTjQ2Qm5tQnVOX01odXBsYTljd21XbHV2YzNzdmJqRmQ4b3h0UXRTQ1UtVGNrNVR5UEtyNThLc1RTT09qT1p4VTRETjB4cDJaVTYxaEdsTzFrX0JZNm8?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 10, 05:19 AM ET",
@@ -153,6 +165,18 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTFSemRQVVhNUVI3dGZaQmlQY2JlaGtNeHpQQXJfSWFBbE13WTV2YkduYWJJbm9FdUw1WkxCaG5zNDdBWVRvRU96QTRmMURWOE94SGZtN29NclhoemNCUXlOTU01SGtKNWNlZkFmOEh4NkFiUkoyNEhNYm5SckxSV3JhMzFNbU9Fd2VVaU1Hbk41cmxERV9RazllSi1MNmRkT1Vr?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 09, 05:08 PM ET",
+    "publishedAt": "2026-06-09T21:08:53+00:00",
+    "source": "saastr.com",
+    "title": "Why It’s So Hard for Older B2B Leaders to Compete in AI: Your Customers Can Do A Lot in Claude for $20-$200/Month. And You’re Paying $1.00 Per API Call For the Good Stuff.",
+    "summary": "saastr.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcWNWaHItQzJlZ0U2NXVkZTdzd18yTUJDb2RoZzN2clJ4YjNORFBFZE9IWm9TS2E5Rmh6cVRhRUVlZThuQm05elAtTWlfa05ETnlmRnplZmprWnJESjZKZzR2M0xGWmpPQmdWMlNtZFV4anFmMEhYRjFmVjJacWRmYXdPOG9xLW1aSVZTb0VJazFrcjhqMU92ajJhc255ekFMSVZMblNnMjBiMGFVcmFmenpqUGtGSktMYnU5S25KQ3Ftd2Q4OEFPZF9ndlAxaURmYXhhR19KMTJyR2VaVENhMmNaSE5GQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -230,18 +254,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 09, 12:26 AM ET",
-    "publishedAt": "2026-06-09T04:26:41+00:00",
-    "source": "Android Central",
-    "title": "Google Gemini AI: Gemini 3.5 Flash, Nano Banana, Live, best features, linked apps, and more",
-    "summary": "Android Central is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52bzRyUGZlOWU5N0ZKUU9nNUxRS2dRN05VcWkxU3V5MWF5aG15TXRmZmZQYmVWeHUtRVJlaGZyQmhLWW9OMzFQaEZ2eEFVMEtxNGRROG1uNEplQjdvd3kyZm1tejlSMW9SaVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Jun 08, 01:21 PM ET",
     "publishedAt": "2026-06-08T17:21:00+00:00",
     "source": "9to5Google",
@@ -278,30 +290,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 07, 11:44 PM ET",
-    "publishedAt": "2026-06-08T03:44:45+00:00",
-    "source": "trendmicro.com",
-    "title": "Governing Claude Enterprise in Environments Where Inline Controls Can't Go",
-    "summary": "trendmicro.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNam1uM0RFdlM3a3l5ajZlXzZ6cHUtQ2FJQllXLU1oMlk1WGJ4dVBNYy05RU80ZTFmaDc0c2FIT3hhYnktY0N2TDJmaXdUaWp1c3dEUTJtNEFEbFV0aGpNeVExRW9CUlJkYzdVOXpsZVZGREJDdnJqYjlMNEN5ZU9ZaG9n?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 06, 03:47 AM ET",
-    "publishedAt": "2026-06-06T07:47:18+00:00",
-    "source": "Fathom Journal",
-    "title": "Replace OpenAI API With Local Models: Ollama + LiteLLM, Text Gen Webui, Google Colab (W7bVqSuebo)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IeU9QVzhYUnFDWkZyN0RsS0s1ekl6S0VId3RWcnVnRkNjVThHa1k1LVJKQjdMaktURVVWZTZETVRPM2hoOGsxUmxKUVRyeHNLWE1SVWVRUHV1MEZvdER6Zjl0Qm85NlhCYVJDRF9UZS0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jun 05, 03:15 PM ET",
     "publishedAt": "2026-06-05T19:15:11+00:00",
     "source": "Amazon Web Services (AWS)",
@@ -324,6 +312,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "The Hacker News",
+    "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xRmtjbnRYMThXYXMzeEIxdG93OGMyX0tsS0EtYndQekdzYkVWc0dwWmt1dWR5UHJwY29CX2FrYTFJVWJpbTZhVUhOcXQ5VGVKbGpZNmd1RGJmZmZabWVSRjRiXzk1S2dDaFpfX29vVzJFdzJKYnNhMXdWcHBudw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 29, 03:00 AM ET",
@@ -338,13 +338,25 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "May 22, 03:00 AM ET",
-    "publishedAt": "2026-05-22T07:00:00+00:00",
-    "source": "The GitHub Blog",
-    "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "time": "May 24, 03:00 AM ET",
+    "publishedAt": "2026-05-24T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQUtSb0JJeGtMOUNiQWlLZkJSUU80RU5wa1J3WUd0Z1hUSW5BTHo2U19HemhoRXJTYWdQcW83RFM2RVRLWTJOMkxaT0pmOWhNZV9VRHlVWHJZbXdGMGRtUE9nQzRpNmRDdkk0ZmM3N3hoZ1dDQ2JuY3Rkbzd1SWswVk1TTnZlQUdiYmE5SFZEZHpiZ2dCdktHN3pFTklMVHFQZHAxcWhBdXlFSGRTN3NjbENEY1FVZGtCRnVoVUpDZWl0aFhDZnNwSzg0OEZYSGRHNVFKYThiYlgzaFhOQ1hhZ1JqcjhIaUJRTi1valhTaWsxUUtIN1V0Mw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 21, 03:00 AM ET",
+    "publishedAt": "2026-05-21T07:00:00+00:00",
+    "source": "The Verge",
+    "title": "I can’t believe how fast Google vibe coded my first Android app",
+    "summary": "The Verge is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVBIN1d1a2ZPSDVHNmhPXy1QeXIxcTZVS2lFXy1zQmdJcVFOaWg0QmM0eW1HQlFOYlV6Z3doS1lwSXBlMFBqYlFRXzRVanNLVUFOTWpzSjV3SXVTX0NqdTdwdjhyd0J0UzRpRVVzSXBva05ILWV6cXR4UFZrS3pqcHFtSjZXcmNtRDJqYlU4cXdqUVVvRXpHSWExMHltQnk2YTZtNkxLMlVrQXFhYi1BRFNB?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,18 +381,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnNNT1ZqbDBUd0RZUGNralNNbktJNjk1aGgzV0NSVkhRTXlhUjg2clE5dXVQd0pYME1Iekh4N0NORGoteTJhVS16QzNNT0Z5d3FIYVo5RWlyM1ZaNlpPdUtibTcwZy16SjJOZFRnQkZpZFZxYUZDTXZoSTZzQllRSWoxa0hieGRvTnFBTy1PeS1GYzdLczFV?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Dec 11, 03:00 AM ET",
-    "publishedAt": "2025-12-11T08:00:00+00:00",
-    "source": "Databricks",
-    "title": "OpenAI GPT-5.2 and Responses API on Databricks: Build Trusted, Data-Aware Agentic Systems",
-    "summary": "Databricks is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDlWVzhKOGlrQVZzMGYtV0pZRkpSZ0lXNVVtZ0pLRkp6QndlNGwxc0N0T0hvekxfdWEtQVZNanRFZERoa095RWJHT2ZKQjZmcnNIZUVPMlVIS25lWDFGVDNXM1NpQmM4Y2pzcVZmbXlqeTdaeUlsQjhqNWtSQ3lLb0hoaEJQckpubzhJd3R1SWk2dlJvSV84ZXdOb3pzX0dLaTZnVTBMTE9SWXJlaUNuTXFwa3htQQ?oc=5",
     "difficulty": "News"
   }
 ]
