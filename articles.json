@@ -2,20 +2,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 12, 01:16 PM ET",
-    "publishedAt": "2026-06-12T17:16:00+00:00",
-    "source": "Yahoo Finance",
-    "title": "Opsin Integrates with Claude's Compliance API to Extend AI Governance to Anthropic-Hosted Deployments",
-    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0xzZHEtUjRGei0yTmRmYzlHT3JCS1dhNnBzbmNUZHduNEpocEQzbUdRZUdRYjRjbFFkNDNJT2dWdUw2c1llU0ZLUlVRdnJWWjdLZzd6M25DZVM2QVpPUlJzLVpRWFNrVkt4Y3Y2YjFHcC1KcEVpQmNoc0wtVWVFTUJSbVdBUVdHd2dQVGRZLWpiVVZIT3dlNnR2SDRob3ZQYl9OVHMwMGs5WGFX?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 12, 01:15 PM ET",
-    "publishedAt": "2026-06-12T17:15:00+00:00",
+    "time": "Jun 12, 01:24 PM ET",
+    "publishedAt": "2026-06-12T17:24:48+00:00",
     "source": "Security Boulevard",
     "title": "Claude AI Governance and Security Visibility | Grip Security",
     "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
@@ -26,13 +14,25 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 12, 01:00 PM ET",
-    "publishedAt": "2026-06-12T17:00:00+00:00",
+    "time": "Jun 12, 01:16 PM ET",
+    "publishedAt": "2026-06-12T17:16:00+00:00",
     "source": "Business Wire",
-    "title": "Zenity Extends AI Agent Security and Governance to Claude Enterprise",
+    "title": "Opsin Integrates with Claude's Compliance API to Extend AI Governance to Anthropic-Hosted Deployments",
     "summary": "Business Wire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLXdVRzQyb0F1YW5tRDlDemV4WkYwc2ZOdVBab0NGU0g0ZURmOHZRZkw2TFVBMS1FQ0U4ZFAyalN3SnBLNTBmZmw5TmhWQjROUnpEUFpaSmszemhzN1I4QkRmMld1TXIwMWQzeGplMVZGd01DNzJCNVlLVGF3Mmswd0s4cENNbHdCZjdHN0R5VGRvRUtUMWFpZkpGMDMwQXJjVTVfLVczZW1xdUg4SW05d1FHenR4dUdHNk01NzBKOWJSWDg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOTk5MFBSVXc3ZUE2WUlhQUFSWWNaY3FFRk5XZXdhNFRIZ0pVdHoyTDBtRU9MZEhHa0xtbmpodmdxaHdrdEs5eFZ6RkxFNjVfVkRoLUxoSzlCWGNNb0t5RXVfR000TVZ3RzZWZC1iZGs2cjJ1cDA0a1VwVUFsenNxXzJzbE1ZcHlETWpVX05kLXJuM2FfSk84UVBlTUkzNFMxQ2NUR3lRaGQ0S212TDNXR2NOemtfQUdyNWdySGx2VndqU24zdVV3QnJLY2VRQ2UtZHFmLXZVREJISF84N09UY2lzbGdjTkNHU0VBMkxB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 12, 01:00 PM ET",
+    "publishedAt": "2026-06-12T17:00:00+00:00",
+    "source": "Yahoo Finance",
+    "title": "Linx Security Integrates with Claude Compliance API to Bring Identity Governance to Enterprise AI",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUJsNHVLZlotS2xIM0NNc2llQXNEYXZPRnRQZTkwbGJ1QnRDMjYwb3RUODV5NDBkRGxObHZTeTNQeVdUcklBeWJxZldpRDFRQmR3VUJET0ZPMlNQdVI4WU5aMnZ5d3lPX3E1eEt4aklhVjZPdEp6bndIYmxndjc3WDE5VWswX1lKMjFkRUV3S2l3Tk4wV29GYWZQN2NFVGRfS2M1bGpPVVhFcE1FWW4xdg?oc=5",
     "difficulty": "News"
   },
   {
@@ -141,6 +141,18 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjZVZ3cwYV9IZHpqdnlHUnZjTVljT2ZUcGtWRFB1TUxFd1lMZ09GTFhrQkRxZ1pXR1dxaUNMb1RrTGQzYV83WWFFTjQ2Qm5tQnVOX01odXBsYTljd21XbHV2YzNzdmJqRmQ4b3h0UXRTQ1UtVGNrNVR5UEtyNThLc1RTT09qT1p4VTRETjB4cDJaVTYxaEdsTzFrX0JZNm8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 10, 06:24 AM ET",
+    "publishedAt": "2026-06-10T10:24:17+00:00",
+    "source": "MarkTechPost",
+    "title": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFRXU1lETzA5Mm5DWU1RY2RLS3Y0N1RjZnJ6SjJWYnVPQ2tVekhPa0hma3VHZy15VnBjYUNWSVN5OWVNT0NxRGZlRnM4VFE2NjBBZkFaY05SdUxvaVlDRWFoMjlFXzlfVmtPUzhUN3A3Q29yWTZuU2MwMkh0VlhUTlVFNnFweHJYRmxGdA?oc=5",
     "difficulty": "News"
   },
   {
@@ -273,18 +285,6 @@
     "summary": "Android Central is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52bzRyUGZlOWU5N0ZKUU9nNUxRS2dRN05VcWkxU3V5MWF5aG15TXRmZmZQYmVWeHUtRVJlaGZyQmhLWW9OMzFQaEZ2eEFVMEtxNGRROG1uNEplQjdvd3kyZm1tejlSMW9SaVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 08, 09:00 AM ET",
-    "publishedAt": "2026-06-08T13:00:00+00:00",
-    "source": "Business Wire",
-    "title": "New Relic Introduces AI Coding Observability to Bring Critical Visibility and Governance to AI Coding Assistants",
-    "summary": "Business Wire is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcHZXTDF1azRzNnpvV2JiazN2bTMyN1pYak1nbXFYalJwME1ZRnRtcERUb3o4cnBtdWtaa214RTNJaXZjRU5zU0dnYmRCTzBHOGxIdElNX3JmZFRBcTR2Uk5lTElfTFBmVDhxWks3eE9TUEV0a0l6UUFTcjBsUGdIZWNNYVhrclY4M2lXbmd5T0hrU09aU0hhd19fT3d3WVIyRzk1dlo3ZmRBNGFvcThpX0Y4YTB6SFREaXFCMVd4WHFiUmFNdlc5clYxVWJXS04tQjExNnpTZFp4Tkl4bUNRMmJNdDlPdjlaYllibUU5R3F3RHRQZWNPSWUtd2luZw?oc=5",
     "difficulty": "News"
   },
   {
