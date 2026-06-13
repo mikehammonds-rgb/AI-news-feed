@@ -48,6 +48,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 11, 05:21 PM ET",
+    "publishedAt": "2026-06-11T21:21:59+00:00",
+    "source": "HackerNoon",
+    "title": "OpenAI Realtime API Pricing in 2026: Real-World Data From 4,000 Measured Sessions",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHhTNzc2MDFPdHBBYjl1c0pfLUhVQkk1ZG5WR296SDFobHU2eUJyQVhtWkxSei1sOWRsZ2FhSkF0M19QZWJHT0p3SDlzXzJnTzM3ZFdyOFphV1l5VGNVOXlPTFhHdGNBRjlvWmdCazV6bTExRHlscVRxa2dQLTd6VnVUdE9vTlUwclB2MFNWaGd4UVZYd2NRZEwzb3hrWmdwVVBIQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 11, 11:35 AM ET",
@@ -60,18 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 11, 08:31 AM ET",
-    "publishedAt": "2026-06-11T12:31:40+00:00",
-    "source": "Substack",
-    "title": "Anthropic shakes up its pricing strategy",
-    "summary": "Substack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOGNpZW11bzBlSlA3NVFOTHR3b0FrRHNSTE1CS2drbVVfdmNERmE1VWNobjA4bEl3Z2h1UkRaTkN2UlFxQUF0bzc0MU5QSXBRWG4wMF82UkhhR1dobENqcW5kVGxTbUVWd05fdHhuNEhqaThkT2NpUDNRSkFGYmJ1d0NTQkh3WG5G?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 11, 03:17 AM ET",
@@ -81,6 +81,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnRk42MEsxNHRZOTQ5eVFSdnVhd09iTWdwUzdZOVlyVnlGRWYtNTRpWlVDeUF2Q1hJQk9hSlRQZUJaU0pGLUNnX2QyajBucldWc2ZNTnBoNEN0bGRrMjUyb1RGNkR5ZUxpUkRkdUFNeG90Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 10, 08:56 PM ET",
+    "publishedAt": "2026-06-11T00:56:18+00:00",
+    "source": "tech-insider.org",
+    "title": "GitHub Copilot Pricing [2026]: From $0 to $39/mo",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wSlZPaVVNMURMZDM2bXF6MEExSVR6NnpsdHlzcDlsNTVvQzdwVlVGcE5mWHkzLUxuaDV3Z2h0Z21nRExGRWZSdXpiWURJcDVYS2Q0dTY4Vk9vUUJZN3luSWJZUExVSmEwT3hKNkpvUXRINWxfWXBZ?oc=5",
     "difficulty": "News"
   },
   {
@@ -144,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 09, 09:13 PM ET",
-    "publishedAt": "2026-06-10T01:13:57+00:00",
-    "source": "Hostinger",
-    "title": "22 best AI coding tools for developers and beginners",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16SU9HdTFaVjRidzZYVmNKSmp6U2J3RnlSM3pqZ2tOUWVmSzdRMTJWUXhmeWw5eUhFOVFpaFBycnNxN19PRXo0MERfMldDZEtxZm1BdlVRMnI4MlZFWHR5SmFBRVpDcGtGRi13?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 09, 08:26 PM ET",
@@ -216,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 09, 12:01 PM ET",
-    "publishedAt": "2026-06-09T16:01:58+00:00",
-    "source": "StartupHub.ai",
-    "title": "GitHub Copilot CLI Agents Get Context",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2JTaHNELUo1a3pjNFdlY1k3aU5ZRXZnSW1LWmpuRkloUjZJYURnMHNfVlJaVE1WMHJpZ0xBdExjZkRWTmdXUlprMnU4c0R4RUlGVEIxQ2hUZFNDekYzRGN1d0FXZXBpOUZyLXhPSEdTSXVmMF9mX1dlUVd3WFZiMTlCWGhQMmdDMTJ3dkFWbnc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 09, 11:15 AM ET",
@@ -276,15 +264,27 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 06, 03:47 AM ET",
-    "publishedAt": "2026-06-06T07:47:18+00:00",
-    "source": "Fathom Journal",
-    "title": "Replace OpenAI API With Local Models: Ollama + LiteLLM, Text Gen Webui, Google Colab (W7bVqSuebo)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 08, 10:00 AM ET",
+    "publishedAt": "2026-06-08T14:00:00+00:00",
+    "source": "Hackaday",
+    "title": "Revisiting Using AI Coding Assistants: You’re Holding It Wrong Edition",
+    "summary": "Hackaday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IeU9QVzhYUnFDWkZyN0RsS0s1ekl6S0VId3RWcnVnRkNjVThHa1k1LVJKQjdMaktURVVWZTZETVRPM2hoOGsxUmxKUVRyeHNLWE1SVWVRUHV1MEZvdER6Zjl0Qm85NlhCYVJDRF9UZS0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU5BWjUzUHdHT1UyQmhkS2RnTTJMR2NhTmpnX0xpX1dmTXRVRVdST1FzY2tLVkI5SmZyVUJ3MFgyVW9CMHk5enlxTmphMk9oeHd5cEgzOFl1NmZrVURMTzl2cllXeEpoOVR5Y3ZfRzNaYURpQXpJYl93N1dHX3NXRlBlRkJub3M3MUhjT2NXaWR3ejRWTzZHTFRIYzY4ZWpoNlk0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 08, 05:03 AM ET",
+    "publishedAt": "2026-06-08T09:03:19+00:00",
+    "source": "Techzine Global",
+    "title": "The AI trailblazer GitHub Copilot is running out of road",
+    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGo2TXJKY2JMOWItMlQtMWotUmU2Vm1WQzRaUFFsb0JEOW1KMm9fOVpIblJZOTF4QTVwMUtYUl9GWHBjZkRNcWlZckJpYUhHZG90aUtYaFFNdGlaREJfaVZGU1M1Wk1vUlVncUF0WUdKNXJnNDFnV1JWdlZVbzU2RWptWFFLbXczejgzUHdVbi1QYkNXVmZBbXpYcTlpV2pnUnRF?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,6 +300,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "The Hacker News",
+    "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xRmtjbnRYMThXYXMzeEIxdG93OGMyX0tsS0EtYndQekdzYkVWc0dwWmt1dWR5UHJwY29CX2FrYTFJVWJpbTZhVUhOcXQ5VGVKbGpZNmd1RGJmZmZabWVSRjRiXzk1S2dDaFpfX29vVzJFdzJKYnNhMXdWcHBudw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 29, 03:00 AM ET",
@@ -309,6 +321,18 @@
     "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 24, 03:00 AM ET",
+    "publishedAt": "2026-05-24T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   },
   {
@@ -350,37 +374,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Feb 27, 03:00 AM ET",
-    "publishedAt": "2026-02-27T08:00:00+00:00",
-    "source": "The Official Microsoft Blog",
-    "title": "Microsoft and OpenAI joint statement on continuing partnership",
-    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOElSNlR5ZmxjMktRREk2RE40QlRIUDZTVTZFRW9tME4xcjVOSFR0WHEyVFU5WUVZSEZXOWROeHZjY2o0Q0JmbWRabXZlQXFsaWNUS0stVzJ2Rkc4aWZCUUJGZ3p5SGZHMjZvdV9ic1lZYmZDTTlnMzMweXBJWWEtQVJWZ1NTWE9aUFdqUVhMZXNqTkliWmdkWmQ1SHAxbzZRRzdSWlRXQjZEOGc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Dec 11, 03:00 AM ET",
-    "publishedAt": "2025-12-11T08:00:00+00:00",
-    "source": "Databricks",
-    "title": "OpenAI GPT-5.2 and Responses API on Databricks: Build Trusted, Data-Aware Agentic Systems",
-    "summary": "Databricks is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDlWVzhKOGlrQVZzMGYtV0pZRkpSZ0lXNVVtZ0pLRkp6QndlNGwxc0N0T0hvekxfdWEtQVZNanRFZERoa095RWJHT2ZKQjZmcnNIZUVPMlVIS25lWDFGVDNXM1NpQmM4Y2pzcVZmbXlqeTdaeUlsQjhqNWtSQ3lLb0hoaEJQckpubzhJd3R1SWk2dlJvSV84ZXdOb3pzX0dLaTZnVTBMTE9SWXJlaUNuTXFwa3htQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 15, 03:00 AM ET",
-    "publishedAt": "2025-10-15T07:00:00+00:00",
-    "source": "The GitHub Blog",
-    "title": "Copilot: Faster, smarter, and built for how you work now",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYzVqTTg0TFdzMUZTR2Naa2ttUk9FOWVwVFVKYWV3M19TME9TanI1M0dnMHlscU1IY0VIc1lid2pieDB3bDFoNzg1VG92ZWhPSkdKbC15aGE5MElSNkN1aWRGMEtTbmZ0V2dPLVA4X0VwazdHejhJVHRMZldiM0RCWTZkZGJIUF9OcjYzRlpFRzJ0NWhTckZPMDRXSkdwU1ZaY1QwM25ySGM3MjlaZWJ1Qlg5U2kzVjdqR1ZDejYtRFlEOTRlNEtoOGRXeVk5SW5pckpPQVRaQTNFZVVOMHN3Rnd4V1NsT1E5WHJ5YXZUTTdzSnJQTXZhTk1DUWIxUmtkd1NSX0hzS0lobTlTMmxQTjFRTFBHdW5ubVRVNVBBdEs3cWc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
