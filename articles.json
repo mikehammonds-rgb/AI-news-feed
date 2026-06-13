@@ -5,10 +5,10 @@
     "time": "Jun 12, 05:44 PM ET",
     "publishedAt": "2026-06-12T21:44:27+00:00",
     "source": "VMblog",
-    "title": "Linx Security Integrates with Claude Compliance API to Bring Identity Governance to Enterprise AI",
+    "title": "Reco Mitigates AI Agent Risk Across Claude and the Enterprise",
     "summary": "VMblog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPekNlQXg2VllZcGlEU2lvbF9XdHc2S0tTMTV6SVpwRW9QRlpaMXQ4Ym5Sd1ppYVF3MzZEbDVacG10aEs1a0dMaG45dVczaE1iSDJJRFhuaVc1QU5CZ21XX1hqbjB5Y3ZRdkpDS0o2UmRmeUwxV21DRWU1bnpDSF9vc1loSFM5UjZjUzdaOE5tdnZfSk4xYVdUcEFaZ3U3Q3Q2dHNONVM5SEtXUnZndnNYcjl2ZXpWdFJ4UE15ZmRRbw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ1RnRnMwM2JDNF9XdUhSdUw5UkVvVk5yQmVsaTJtSzJQeU1FOVQ0QnhNbXAwWjhfWFNOa2pTQktENXN3eGhzOTZDOFlldGlvOEk4M2NmM0tENzB0ZkdUY00zdGVYTUhpZW5PYUhvWm1fUXlZQXZIbVBIZG5xXzhJaFlUeHRKUkdWODVPdmlGMA?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,6 +192,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 09, 08:26 PM ET",
+    "publishedAt": "2026-06-10T00:26:10+00:00",
+    "source": "TechCrunch",
+    "title": "Google just fired a warning shot in the AI subscription price wars",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTFSemRQVVhNUVI3dGZaQmlQY2JlaGtNeHpQQXJfSWFBbE13WTV2YkduYWJJbm9FdUw1WkxCaG5zNDdBWVRvRU96QTRmMURWOE94SGZtN29NclhoemNCUXlOTU01SGtKNWNlZkFmOEh4NkFiUkoyNEhNYm5SckxSV3JhMzFNbU9Fd2VVaU1Hbk41cmxERV9RazllSi1MNmRkT1Vr?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 09, 05:08 PM ET",
@@ -225,18 +237,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 09, 11:43 AM ET",
-    "publishedAt": "2026-06-09T15:43:00+00:00",
-    "source": "9to5Google",
-    "title": "Gemini 3.5 Live Translate rolling out to Google Meet & Translate with new ‘listening mode’",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EbVhPX3dUMXJrdWVtUG91YXA1NlBQbHlNcVFYRENWUzhCVmlBTGV2bXNWcmVtRFdVTUh5bXJlVTk3UG5HTmJNRGN0NWszc1Z1dzdnSURjcy1qbE44RG5mdlpWallRS0E0aUxQZ29ldnF1d2c?oc=5",
     "difficulty": "News"
   },
   {
@@ -302,13 +302,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 06, 03:47 AM ET",
-    "publishedAt": "2026-06-06T07:47:18+00:00",
-    "source": "Fathom Journal",
-    "title": "Replace OpenAI API With Local Models: Ollama + LiteLLM, Text Gen Webui, Google Colab (W7bVqSuebo)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "The Hacker News",
+    "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IeU9QVzhYUnFDWkZyN0RsS0s1ekl6S0VId3RWcnVnRkNjVThHa1k1LVJKQjdMaktURVVWZTZETVRPM2hoOGsxUmxKUVRyeHNLWE1SVWVRUHV1MEZvdER6Zjl0Qm85NlhCYVJDRF9UZS0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xRmtjbnRYMThXYXMzeEIxdG93OGMyX0tsS0EtYndQekdzYkVWc0dwWmt1dWR5UHJwY29CX2FrYTFJVWJpbTZhVUhOcXQ5VGVKbGpZNmd1RGJmZmZabWVSRjRiXzk1S2dDaFpfX29vVzJFdzJKYnNhMXdWcHBudw?oc=5",
     "difficulty": "News"
   },
   {
@@ -374,13 +374,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Dec 11, 03:00 AM ET",
-    "publishedAt": "2025-12-11T08:00:00+00:00",
-    "source": "Databricks",
-    "title": "OpenAI GPT-5.2 and Responses API on Databricks: Build Trusted, Data-Aware Agentic Systems",
-    "summary": "Databricks is reporting this update. Open the article for the full story.",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDlWVzhKOGlrQVZzMGYtV0pZRkpSZ0lXNVVtZ0pLRkp6QndlNGwxc0N0T0hvekxfdWEtQVZNanRFZERoa095RWJHT2ZKQjZmcnNIZUVPMlVIS25lWDFGVDNXM1NpQmM4Y2pzcVZmbXlqeTdaeUlsQjhqNWtSQ3lLb0hoaEJQckpubzhJd3R1SWk2dlJvSV84ZXdOb3pzX0dLaTZnVTBMTE9SWXJlaUNuTXFwa3htQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
