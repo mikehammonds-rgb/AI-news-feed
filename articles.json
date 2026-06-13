@@ -74,18 +74,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 10, 08:56 PM ET",
-    "publishedAt": "2026-06-11T00:56:18+00:00",
-    "source": "tech-insider.org",
-    "title": "GitHub Copilot Pricing [2026]: From $0 to $39/mo",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wSlZPaVVNMURMZDM2bXF6MEExSVR6NnpsdHlzcDlsNTVvQzdwVlVGcE5mWHkzLUxuaDV3Z2h0Z21nRExGRWZSdXpiWURJcDVYS2Q0dTY4Vk9vUUJZN3luSWJZUExVSmEwT3hKNkpvUXRINWxfWXBZ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Jun 10, 05:35 PM ET",
     "publishedAt": "2026-06-10T21:35:43+00:00",
     "source": "JD Supra",
@@ -141,6 +129,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Yb1BlMUdZSUpjNVNmZ0dtbU4zWGt1aGw0M0FKLWlkYUlNNHZnQ1pPaVl6RWNwdDdLMkl6SW1jeC11VGJv?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 09, 09:13 PM ET",
+    "publishedAt": "2026-06-10T01:13:57+00:00",
+    "source": "Hostinger",
+    "title": "22 best AI coding tools for developers and beginners",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16SU9HdTFaVjRidzZYVmNKSmp6U2J3RnlSM3pqZ2tOUWVmSzdRMTJWUXhmeWw5eUhFOVFpaFBycnNxN19PRXo0MERfMldDZEtxZm1BdlVRMnI4MlZFWHR5SmFBRVpDcGtGRi13?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,18 +228,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 09, 10:08 AM ET",
-    "publishedAt": "2026-06-09T14:08:05+00:00",
-    "source": "Visual Studio Magazine",
-    "title": "Mastering AI Development and Building AI Apps with GitHub Copilot",
-    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHB4Ymc5WWJyOGJndmt5NzBTZTdFME9PcG1jUUkzYmFwVUFiRmJON1U1MVNRQXEyeS1YWWtaeV9CdV9QUzZhbmtxaUtyekFkNVFLUDZPRWVlYU1LWWtOelV6bXF3QklLZmpzeVhMZndNVm1ybWJCUEUwUHYyYnYwRk03aFByZTVpVVB3eFJnOVdfQ0pqV3ZqYTJBUlV0cERyOG9BaWRHZG9fUnlZb1Y4SFg4R0xmcG1MU19SOFg0TFU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 09, 04:07 AM ET",
@@ -276,15 +264,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 08, 05:03 AM ET",
-    "publishedAt": "2026-06-08T09:03:19+00:00",
-    "source": "Techzine Global",
-    "title": "The AI trailblazer GitHub Copilot is running out of road",
-    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 05, 03:00 AM ET",
+    "publishedAt": "2026-06-05T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGo2TXJKY2JMOWItMlQtMWotUmU2Vm1WQzRaUFFsb0JEOW1KMm9fOVpIblJZOTF4QTVwMUtYUl9GWHBjZkRNcWlZckJpYUhHZG90aUtYaFFNdGlaREJfaVZGU1M1Wk1vUlVncUF0WUdKNXJnNDFnV1JWdlZVbzU2RWptWFFLbXczejgzUHdVbi1QYkNXVmZBbXpYcTlpV2pnUnRF?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTdaQVNjcDhoUTVkMTJqZ2FSZ3RrVWdOdmNRd2V6dVVoN09ET2s0czdlZXhFbjV1bE45T1E2bk9ZVUdWelFYMkxZLVFFN3pzQnNPMU1laGdaU2RyXzRacXRJeTJkX1pyTE9xOHpYcTBHd1hjbDFfdnpkQUdqUTI2emYwUlA2dThxMldXSFNTVTRKVWJnU2FxSnBpb1RTdU1md1k3QlhMQXJlejdjSzg4eTFCTnEzR1JvOHlPekp5UVIzemhuRml4S3ZyM21ZZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -336,6 +324,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 22, 03:00 AM ET",
+    "publishedAt": "2026-05-22T07:00:00+00:00",
+    "source": "The GitHub Blog",
+    "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQUtSb0JJeGtMOUNiQWlLZkJSUU80RU5wa1J3WUd0Z1hUSW5BTHo2U19HemhoRXJTYWdQcW83RFM2RVRLWTJOMkxaT0pmOWhNZV9VRHlVWHJZbXdGMGRtUE9nQzRpNmRDdkk0ZmM3N3hoZ1dDQ2JuY3Rkbzd1SWswVk1TTnZlQUdiYmE5SFZEZHpiZ2dCdktHN3pFTklMVHFQZHAxcWhBdXlFSGRTN3NjbENEY1FVZGtCRnVoVUpDZWl0aFhDZnNwSzg0OEZYSGRHNVFKYThiYlgzaFhOQ1hhZ1JqcjhIaUJRTi1valhTaWsxUUtIN1V0Mw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "May 20, 03:00 AM ET",
@@ -372,15 +372,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Mar 12, 03:00 AM ET",
-    "publishedAt": "2026-03-12T07:00:00+00:00",
-    "source": "Towards Data Science",
-    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Mar 19, 03:00 AM ET",
+    "publishedAt": "2026-03-19T07:00:00+00:00",
+    "source": "wiz.io",
+    "title": "Claude Code vs GitHub Copilot: Better Together?",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYMmhWR2o3M2hmSjk3U0lkY1JpelFQTENZeGdiRVlRQUp1blBNTE5NZzUwbDQ0NlF4SF9wd3BwejZpN2RYRHFiTFUxQUZwYnhlODVyNWpLU3NOdmJzcXVsSmUzUEp0b2hNYTZ1bHlrU01lM1k1ZmpB?oc=5",
     "difficulty": "News"
   }
 ]
