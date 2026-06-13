@@ -24,18 +24,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 12, 05:04 PM ET",
-    "publishedAt": "2026-06-12T21:04:11+00:00",
-    "source": "MarkTechPost",
-    "title": "Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ1QwUnpXSEpUdXZvUnpLaVliQjFRN1E1azVqQnJaQ2N3OFJTQm84RzhVWDFQWnlyZG9WNng3U1MwUjFwaWdUTXJDMjdER3kyM01FbTl5N0kxS3FXMmF2QXpCUDJySnJQSE1QQXNDelVHV0xEWHYyWGVYdWQ3UUhNalRaN0RHeUVNZ2JOLTNQQXV6enlGZnRiRXVyVVFfa3pjVkM2ZkJNOElmZjI4R3hDZ1pQYXo2Q3UtbnlNSUpScW9fQXA2R3FxTzA2TkFQQWk0UzZFa0k1Njk?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 12, 12:26 PM ET",
@@ -213,6 +201,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 09, 11:43 AM ET",
+    "publishedAt": "2026-06-09T15:43:00+00:00",
+    "source": "9to5Google",
+    "title": "Gemini 3.5 Live Translate rolling out to Google Meet & Translate with new ‘listening mode’",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EbVhPX3dUMXJrdWVtUG91YXA1NlBQbHlNcVFYRENWUzhCVmlBTGV2bXNWcmVtRFdVTUh5bXJlVTk3UG5HTmJNRGN0NWszc1Z1dzdnSURjcy1qbE44RG5mdlpWallRS0E0aUxQZ29ldnF1d2c?oc=5",
     "difficulty": "News"
   },
   {
