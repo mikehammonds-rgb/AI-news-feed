@@ -38,30 +38,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 14, 01:01 AM ET",
-    "publishedAt": "2026-06-14T05:01:39+00:00",
-    "source": "MarkTechPost",
-    "title": "Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS0FIXzYza1liZV9wSXNhTVduVFdsMXhxNzhxejd2YVZTdGdvUzlCQ21jVkh4MDZUb3NBeFQzQTJDS0d2c3VRV2puMGVVNE9nZnpoeUJSYU1NVXQzM2RkTXNwV3RnRUU5NU13OW11SUM5SzhCNk5wbVctZEVXeWRsb2phN0RqV2xUTGN5RExkdGF6TVg1VXdnQVB3S1RkVGgwRGhqVDZKSDNBRHZsend4eWdyVUkyeDdBQkNmNEJMeGZGT2FEXzdCbzhranJDUVBVX3F0aFlLaE44MXA0X2hGU3NwXzVPVVM3aThYNHR0UDdfUmlSUkE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 12, 08:49 PM ET",
-    "publishedAt": "2026-06-13T00:49:00+00:00",
-    "source": "WILX",
-    "title": "What The Tech? Google Gemini",
-    "summary": "WILX is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRSDdjQ1NnTW1pZVdDSEVIRVFZeVZOeTRhcmFzcE9GeEVIOHRnRHNJSFVYdTlsSmthOUZ5eFR3Qmpyd2hOZTRUZkFQblcxbXJSZ25OUUF3bVFVY3JKZFI0SEplT0h5NGVwOUNUTDVSeGc3QzRkZGhndHZHRdIBe0FVX3lxTFBRSDdjQ1NnTW1pZVdDSEVIRVFZeVZOeTRhcmFzcE9GeEVIOHRnRHNJSFVYdTlsSmthOUZ5eFR3Qmpyd2hOZTRUZkFQblcxbXJSZ25OUUF3bVFVY3JKZFI0SEplT0h5NGVwOUNUTDVSeGc3QzRkZGhndHZHRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jun 12, 12:26 PM ET",
     "publishedAt": "2026-06-12T16:26:00+00:00",
     "source": "PR Newswire",
@@ -105,18 +81,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnRk42MEsxNHRZOTQ5eVFSdnVhd09iTWdwUzdZOVlyVnlGRWYtNTRpWlVDeUF2Q1hJQk9hSlRQZUJaU0pGLUNnX2QyajBucldWc2ZNTnBoNEN0bGRrMjUyb1RGNkR5ZUxpUkRkdUFNeG90Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 10, 08:56 PM ET",
-    "publishedAt": "2026-06-11T00:56:18+00:00",
-    "source": "tech-insider.org",
-    "title": "GitHub Copilot Pricing [2026]: From $0 to $39/mo",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wSlZPaVVNMURMZDM2bXF6MEExSVR6NnpsdHlzcDlsNTVvQzdwVlVGcE5mWHkzLUxuaDV3Z2h0Z21nRExGRWZSdXpiWURJcDVYS2Q0dTY4Vk9vUUJZN3luSWJZUExVSmEwT3hKNkpvUXRINWxfWXBZ?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,6 +177,18 @@
     "summary": "Ars Technica is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUh5bjBGalp5Q0stWTlpeUZCa1RqQm1MRUxjR1dPcWs3ck5ZMWRveE9NbUxFSlFzTE5wQWlvRU91NFZmVlFLdDAza0RyVHdsdVBrbUFsYXY3TmZoYmoxLXoyWElKTjF6X2VaOGhwaWNkRHEtUzNrZ2tnOHJ4TnBnbXJ1dmE5Z1ZoMWVwQ0Z1YUlmbU1pemN0bTVEQ1VaTkd0NHo1Tmw2dy1OWVhJcEZsRE1fTVZhLTFi?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 09, 01:39 PM ET",
+    "publishedAt": "2026-06-09T17:39:26+00:00",
+    "source": "The GitHub Blog",
+    "title": "Claude Fable 5 is generally available for GitHub Copilot",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2N1T3FoR29kaW1tem9jSVJFQUZiSmQ5alpvMEIzdjVPVFA3OXVPb0pjbFU3cFVVOWhEN1NYWmJKaGNFUW5aMlZNQUwtTVBNNG9ZZllOY1hpeWtXNXR4VUZyaktEV2FyTHpFbFJ6Z0lkUkxlOGlyazFvOXpZMDBqMDRwYU0tYnhPQVVDbzdZV2RrU0s4NnZuejFKOEotdTQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -324,6 +300,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 25, 03:00 AM ET",
+    "publishedAt": "2026-05-25T07:00:00+00:00",
+    "source": "9to5Google",
+    "title": "What Gemini features you get with Google AI Plus, Pro, & Ultra [May 2026]",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMERrMmhzSy1vOFdvSS1XaTAxeVZrSUNmYVgzbV92cE1Jal9fY2ljQmVqMXlRQXVZcm1jSWZNQTV6Qkw1M1BYTVN0YzhCejk3QzFKOHZQZEZPQzBuMml2elBKZkpYal9MLUMyR29xZEdsNHp0dHFhVnRHSl9QXzIyRw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 24, 03:00 AM ET",
@@ -381,6 +369,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnNNT1ZqbDBUd0RZUGNralNNbktJNjk1aGgzV0NSVkhRTXlhUjg2clE5dXVQd0pYME1Iekh4N0NORGoteTJhVS16QzNNT0Z5d3FIYVo5RWlyM1ZaNlpPdUtibTcwZy16SjJOZFRnQkZpZFZxYUZDTXZoSTZzQllRSWoxa0hieGRvTnFBTy1PeS1GYzdLczFV?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 15, 03:00 AM ET",
+    "publishedAt": "2025-10-15T07:00:00+00:00",
+    "source": "The GitHub Blog",
+    "title": "Copilot: Faster, smarter, and built for how you work now",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYzVqTTg0TFdzMUZTR2Naa2ttUk9FOWVwVFVKYWV3M19TME9TanI1M0dnMHlscU1IY0VIc1lid2pieDB3bDFoNzg1VG92ZWhPSkdKbC15aGE5MElSNkN1aWRGMEtTbmZ0V2dPLVA4X0VwazdHejhJVHRMZldiM0RCWTZkZGJIUF9OcjYzRlpFRzJ0NWhTckZPMDRXSkdwU1ZaY1QwM25ySGM3MjlaZWJ1Qlg5U2kzVjdqR1ZDejYtRFlEOTRlNEtoOGRXeVk5SW5pckpPQVRaQTNFZVVOMHN3Rnd4V1NsT1E5WHJ5YXZUTTdzSnJQTXZhTk1DUWIxUmtkd1NSX0hzS0lobTlTMmxQTjFRTFBHdW5ubVRVNVBBdEs3cWc?oc=5",
     "difficulty": "News"
   }
 ]
