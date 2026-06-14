@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 14, 03:04 PM ET",
+    "publishedAt": "2026-06-14T19:04:16+00:00",
+    "source": "Memeburn",
+    "title": "Google's Gemini 3.5 Live Translate Brings Real-Time Voice Translation to 70+ Languages",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWNlZDJjZVRXMWVfQ1E1eGZQbkhQSEo1VkxhUmg1T0tWMEI5dGtid2prQzdveUQzZFdSNnpKT2FIdVMzOFU5MnR1bG1qbUlyaFNxYzl0X2tqbXF5VHFfdEpVa2ZiR1Z6QlVZelUzWm83RDg2RzV4ZGJ5TVRGVXBJQlZoOGtQNHpTVXJja3lraUhELUFzZHNDRXdKTnhQRkNENFFZcUk1el9rUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 14, 01:33 PM ET",
@@ -9,18 +21,6 @@
     "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkRiT0taQTA0aG9BVFBldEZHenpkMjBuTUxpZEJJX2Fua2ViSVROaDJSU2M2Z21paVZHMTRUeGtrckwwaWxsZS1VdHJPcmhKaGVFWXd5cG41YTM0ZTkxc2tfN1l1TDU3QUxZT29OUkZyN1RzMi1TblBkbTF2a3BQWmxkVWw1VTN6cFQwQm56TklWZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 14, 12:39 PM ET",
-    "publishedAt": "2026-06-14T16:39:23+00:00",
-    "source": "Memeburn",
-    "title": "Google's Gemini 3.5 Live Translate Brings Real-Time Voice Translation to 70+ Languages",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWNlZDJjZVRXMWVfQ1E1eGZQbkhQSEo1VkxhUmg1T0tWMEI5dGtid2prQzdveUQzZFdSNnpKT2FIdVMzOFU5MnR1bG1qbUlyaFNxYzl0X2tqbXF5VHFfdEpVa2ZiR1Z6QlVZelUzWm83RDg2RzV4ZGJ5TVRGVXBJQlZoOGtQNHpTVXJja3lraUhELUFzZHNDRXdKTnhQRkNENFFZcUk1el9rUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,30 +276,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 06, 03:47 AM ET",
-    "publishedAt": "2026-06-06T07:47:18+00:00",
-    "source": "Fathom Journal",
-    "title": "Replace OpenAI API With Local Models: Ollama + LiteLLM, Text Gen Webui, Google Colab (W7bVqSuebo)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IeU9QVzhYUnFDWkZyN0RsS0s1ekl6S0VId3RWcnVnRkNjVThHa1k1LVJKQjdMaktURVVWZTZETVRPM2hoOGsxUmxKUVRyeHNLWE1SVWVRUHV1MEZvdER6Zjl0Qm85NlhCYVJDRF9UZS0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 05, 03:00 AM ET",
-    "publishedAt": "2026-06-05T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTdaQVNjcDhoUTVkMTJqZ2FSZ3RrVWdOdmNRd2V6dVVoN09ET2s0czdlZXhFbjV1bE45T1E2bk9ZVUdWelFYMkxZLVFFN3pzQnNPMU1laGdaU2RyXzRacXRJeTJkX1pyTE9xOHpYcTBHd1hjbDFfdnpkQUdqUTI2emYwUlA2dThxMldXSFNTVTRKVWJnU2FxSnBpb1RTdU1md1k3QlhMQXJlejdjSzg4eTFCTnEzR1JvOHlPekp5UVIzemhuRml4S3ZyM21ZZw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 05, 03:00 AM ET",
@@ -309,6 +285,18 @@
     "summary": "Microsoft is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREJ4Wm45a0lId2d5MUxEOHdRWldESTBfVUZWNFdzMWozbGpLVFVNaEVIV0JlZUFBU0ZjMmFCeWNMazVuM1BsNUx2Z3VlajhHQURuR3cyNDd0LTY5YVJsVGpOU0E1RmtsZmVyb1JyOEgyQmNCeFJZT3U5bTBPSlZuNmdtdm10bzNwSmhyMmNLNkRrUU5EYVRxVG1McjVJSmNqZTBTb0dmRk15UlJtOWFubl9TTFRMUnJmQm5MTg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "The Hacker News",
+    "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xRmtjbnRYMThXYXMzeEIxdG93OGMyX0tsS0EtYndQekdzYkVWc0dwWmt1dWR5UHJwY29CX2FrYTFJVWJpbTZhVUhOcXQ5VGVKbGpZNmd1RGJmZmZabWVSRjRiXzk1S2dDaFpfX29vVzJFdzJKYnNhMXdWcHBudw?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +369,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnNNT1ZqbDBUd0RZUGNralNNbktJNjk1aGgzV0NSVkhRTXlhUjg2clE5dXVQd0pYME1Iekh4N0NORGoteTJhVS16QzNNT0Z5d3FIYVo5RWlyM1ZaNlpPdUtibTcwZy16SjJOZFRnQkZpZFZxYUZDTXZoSTZzQllRSWoxa0hieGRvTnFBTy1PeS1GYzdLczFV?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
