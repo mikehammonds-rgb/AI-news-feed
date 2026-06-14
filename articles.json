@@ -2,18 +2,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 14, 06:23 AM ET",
-    "publishedAt": "2026-06-14T10:23:33+00:00",
-    "source": "36 Kr",
-    "title": "The Most Powerful Claude Stuck on the Eve of Going Public",
-    "summary": "36 Kr is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qdnpYX0xwVUlPY1d1MUZmbExQdEFwNjJHLTFQTjZnX2ExVjlHRjZsMzg4UFo5Z0hERmVQRi1XcWI3N1hkWUI5ODVPOV9oeURxTzNv?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jun 14, 05:00 AM ET",
     "publishedAt": "2026-06-14T09:00:00+00:00",
     "source": "Mashable",
@@ -57,6 +45,30 @@
     "summary": "PR Newswire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWdscUR6NVZRbHZJd3htc1pLMjFCeGFnQnlzajNHajZxbXQzdkpvZk9CcjY2eHUwVFlnZmFTLUkwY29ldlVjdmN4ekF1VkgwQUdYWDIwZ3BNVzZ5RWxhWGIyNGVmeUxWT242aXBDMHRPN3VwWEotNXl5bTVPNVZ2OF82OU1ISzdTa2hVOTlXc3JiSlQyLU93VGhFUzI2OGlacmdjVkdTQjBjMzhGSzJUOVRjaEhTbk5ROElaTQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 12, 10:09 AM ET",
+    "publishedAt": "2026-06-12T14:09:27+00:00",
+    "source": "KDnuggets",
+    "title": "Pairing Claude Code with Local Models",
+    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yaXl0dU11aDEtYkk3T3hjRWEzdjRUTGNyTjQ1cWFROWRrVWhTWEFWb09XN0N6VG5UN25iT3J4ZTlUczFXVjZJVnpTb3UteGlvOHhxNHRWTWpwN2cwVUhNd21pMUY1UWZCdnJIUHVTeWM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 11, 05:21 PM ET",
+    "publishedAt": "2026-06-11T21:21:59+00:00",
+    "source": "HackerNoon",
+    "title": "OpenAI Realtime API Pricing in 2026: Real-World Data From 4,000 Measured Sessions",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHhTNzc2MDFPdHBBYjl1c0pfLUhVQkk1ZG5WR296SDFobHU2eUJyQVhtWkxSei1sOWRsZ2FhSkF0M19QZWJHT0p3SDlzXzJnTzM3ZFdyOFphV1l5VGNVOXlPTFhHdGNBRjlvWmdCazV6bTExRHlscVRxa2dQLTd6VnVUdE9vTlUwclB2MFNWaGd4UVZYd2NRZEwzb3hrWmdwVVBIQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -110,6 +122,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Jun 10, 03:09 PM ET",
+    "publishedAt": "2026-06-10T19:09:28+00:00",
+    "source": "Capital Brief",
+    "title": "Ventia partners with OpenAI to deploy AI tools",
+    "summary": "Capital Brief is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1JOXzNKRmN5VHk1enZMd0hZU2NfbGJSS0RobENfSmxWNmh3c2U4b0dWTmxyZXpER3ZqaWxxVUw0ckJwbEVLUkNkZ3RDYnlqb1k2eUZINE1JSk1ITTdSMFY5TExzaWJPODJaNld6eVYwa294Q1FwVERUSWhtY1RPeVdVdFJzcjlab2xYXzdGakJCUmRaS2ZvcTdhTXdMM0ZtNmpsQjlKb2tfVXNQS2t4bUs0aGY5TklLQ3oxYjhoaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Jun 10, 02:02 PM ET",
     "publishedAt": "2026-06-10T18:02:36+00:00",
     "source": "Digiday",
@@ -141,30 +165,6 @@
     "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFRXU1lETzA5Mm5DWU1RY2RLS3Y0N1RjZnJ6SjJWYnVPQ2tVekhPa0hma3VHZy15VnBjYUNWSVN5OWVNT0NxRGZlRnM4VFE2NjBBZkFaY05SdUxvaVlDRWFoMjlFXzlfVmtPUzhUN3A3Q29yWTZuU2MwMkh0VlhUTlVFNnFweHJYRmxGdA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 10, 05:19 AM ET",
-    "publishedAt": "2026-06-10T09:19:26+00:00",
-    "source": "OpenAI",
-    "title": "From data to decisions: how LSEG is scaling trusted AI",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Yb1BlMUdZSUpjNVNmZ0dtbU4zWGt1aGw0M0FKLWlkYUlNNHZnQ1pPaVl6RWNwdDdLMkl6SW1jeC11VGJv?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 09, 09:13 PM ET",
-    "publishedAt": "2026-06-10T01:13:57+00:00",
-    "source": "Hostinger",
-    "title": "22 best AI coding tools for developers and beginners",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16SU9HdTFaVjRidzZYVmNKSmp6U2J3RnlSM3pqZ2tOUWVmSzdRMTJWUXhmeWw5eUhFOVFpaFBycnNxN19PRXo0MERfMldDZEtxZm1BdlVRMnI4MlZFWHR5SmFBRVpDcGtGRi13?oc=5",
     "difficulty": "News"
   },
   {
@@ -254,6 +254,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Jun 08, 11:30 AM ET",
+    "publishedAt": "2026-06-08T15:30:00+00:00",
+    "source": "Business Wire",
+    "title": "Pega Harnesses Best Practices and AI Coding Agents to Build Apps with Mission-Critical Reliability",
+    "summary": "Business Wire is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVk5iQWNkSkw3UDVBaDhKbjRoWlFCZnZqc2M3OXBPY25fQ1dibkVVbmZOTHkxQ19UY09vUUQ2b1hKQmlXOGszcXhlTjFOMzJuR0JlQXppa1RTZWJfcHVLUUs3Wnh6YVZOczM3QnZBOHNGTGR5MEEzRW9MdUIxUDJVcEhRQzZKSDA3Y1NNOWR4dzJwYWd6X1Z6b3p5UlVIdmF2Z19VeU8yRjB3d2U5OGNkRDcyZWNXejFYXzFfWi1PTE5zbXN2T3FTMjZ3SE4xT243aFZYWEIzR20xTWhxNlgzLTNDc2xiSl9HTnVn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Jun 08, 10:00 AM ET",
     "publishedAt": "2026-06-08T14:00:00+00:00",
     "source": "Hackaday",
@@ -261,30 +273,6 @@
     "summary": "Hackaday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU5BWjUzUHdHT1UyQmhkS2RnTTJMR2NhTmpnX0xpX1dmTXRVRVdST1FzY2tLVkI5SmZyVUJ3MFgyVW9CMHk5enlxTmphMk9oeHd5cEgzOFl1NmZrVURMTzl2cllXeEpoOVR5Y3ZfRzNaYURpQXpJYl93N1dHX3NXRlBlRkJub3M3MUhjT2NXaWR3ejRWTzZHTFRIYzY4ZWpoNlk0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 08, 05:03 AM ET",
-    "publishedAt": "2026-06-08T09:03:19+00:00",
-    "source": "Techzine Global",
-    "title": "The AI trailblazer GitHub Copilot is running out of road",
-    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGo2TXJKY2JMOWItMlQtMWotUmU2Vm1WQzRaUFFsb0JEOW1KMm9fOVpIblJZOTF4QTVwMUtYUl9GWHBjZkRNcWlZckJpYUhHZG90aUtYaFFNdGlaREJfaVZGU1M1Wk1vUlVncUF0WUdKNXJnNDFnV1JWdlZVbzU2RWptWFFLbXczejgzUHdVbi1QYkNXVmZBbXpYcTlpV2pnUnRF?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 06, 03:47 AM ET",
-    "publishedAt": "2026-06-06T07:47:18+00:00",
-    "source": "Fathom Journal",
-    "title": "Replace OpenAI API With Local Models: Ollama + LiteLLM, Text Gen Webui, Google Colab (W7bVqSuebo)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IeU9QVzhYUnFDWkZyN0RsS0s1ekl6S0VId3RWcnVnRkNjVThHa1k1LVJKQjdMaktURVVWZTZETVRPM2hoOGsxUmxKUVRyeHNLWE1SVWVRUHV1MEZvdER6Zjl0Qm85NlhCYVJDRF9UZS0?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,6 +300,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "The Hacker News",
+    "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xRmtjbnRYMThXYXMzeEIxdG93OGMyX0tsS0EtYndQekdzYkVWc0dwWmt1dWR5UHJwY29CX2FrYTFJVWJpbTZhVUhOcXQ5VGVKbGpZNmd1RGJmZmZabWVSRjRiXzk1S2dDaFpfX29vVzJFdzJKYnNhMXdWcHBudw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 29, 03:00 AM ET",
@@ -321,18 +321,6 @@
     "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 27, 03:00 AM ET",
-    "publishedAt": "2026-05-27T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "From model to agent: Equipping the Responses API with a computer environment",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TZGh1LXExeGtKNnY0V2dKeGlVUHQ4OTgzRW5QOFh3Y1FUWGE5SkMzY1JBaVZPdkxsRHNuLWhrTnVaZnRHZF9peUVyNEhud0ZkcEkxREtPeV9UU29OOUNXS2lQT01xRkdCTDlwblV1c0c2cXg2WmtRV0xIS3Y?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,6 +357,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnNNT1ZqbDBUd0RZUGNralNNbktJNjk1aGgzV0NSVkhRTXlhUjg2clE5dXVQd0pYME1Iekh4N0NORGoteTJhVS16QzNNT0Z5d3FIYVo5RWlyM1ZaNlpPdUtibTcwZy16SjJOZFRnQkZpZFZxYUZDTXZoSTZzQllRSWoxa0hieGRvTnFBTy1PeS1GYzdLczFV?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Mar 19, 03:00 AM ET",
+    "publishedAt": "2026-03-19T07:00:00+00:00",
+    "source": "wiz.io",
+    "title": "Claude Code vs GitHub Copilot: Better Together?",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYMmhWR2o3M2hmSjk3U0lkY1JpelFQTENZeGdiRVlRQUp1blBNTE5NZzUwbDQ0NlF4SF9wd3BwejZpN2RYRHFiTFUxQUZwYnhlODVyNWpLU3NOdmJzcXVsSmUzUEp0b2hNYTZ1bHlrU01lM1k1ZmpB?oc=5",
     "difficulty": "News"
   },
   {
