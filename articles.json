@@ -3,7 +3,7 @@
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 14, 05:00 AM ET",
-    "publishedAt": "2026-06-14T09:00:00+00:00",
+    "publishedAt": "2026-06-14T09:00:32+00:00",
     "source": "Mashable",
     "title": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other?",
     "summary": "Mashable is reporting this update. Open the article for the full story.",
@@ -60,18 +60,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 11, 05:21 PM ET",
-    "publishedAt": "2026-06-11T21:21:59+00:00",
-    "source": "HackerNoon",
-    "title": "OpenAI Realtime API Pricing in 2026: Real-World Data From 4,000 Measured Sessions",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHhTNzc2MDFPdHBBYjl1c0pfLUhVQkk1ZG5WR296SDFobHU2eUJyQVhtWkxSei1sOWRsZ2FhSkF0M19QZWJHT0p3SDlzXzJnTzM3ZFdyOFphV1l5VGNVOXlPTFhHdGNBRjlvWmdCazV6bTExRHlscVRxa2dQLTd6VnVUdE9vTlUwclB2MFNWaGd4UVZYd2NRZEwzb3hrWmdwVVBIQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 11, 11:35 AM ET",
@@ -122,18 +110,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 10, 03:09 PM ET",
-    "publishedAt": "2026-06-10T19:09:28+00:00",
-    "source": "Capital Brief",
-    "title": "Ventia partners with OpenAI to deploy AI tools",
-    "summary": "Capital Brief is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1JOXzNKRmN5VHk1enZMd0hZU2NfbGJSS0RobENfSmxWNmh3c2U4b0dWTmxyZXpER3ZqaWxxVUw0ckJwbEVLUkNkZ3RDYnlqb1k2eUZINE1JSk1ITTdSMFY5TExzaWJPODJaNld6eVYwa294Q1FwVERUSWhtY1RPeVdVdFJzcjlab2xYXzdGakJCUmRaS2ZvcTdhTXdMM0ZtNmpsQjlKb2tfVXNQS2t4bUs0aGY5TklLQ3oxYjhoaw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jun 10, 02:02 PM ET",
     "publishedAt": "2026-06-10T18:02:36+00:00",
     "source": "Digiday",
@@ -165,6 +141,18 @@
     "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFRXU1lETzA5Mm5DWU1RY2RLS3Y0N1RjZnJ6SjJWYnVPQ2tVekhPa0hma3VHZy15VnBjYUNWSVN5OWVNT0NxRGZlRnM4VFE2NjBBZkFaY05SdUxvaVlDRWFoMjlFXzlfVmtPUzhUN3A3Q29yWTZuU2MwMkh0VlhUTlVFNnFweHJYRmxGdA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 09, 09:13 PM ET",
+    "publishedAt": "2026-06-10T01:13:57+00:00",
+    "source": "Hostinger",
+    "title": "22 best AI coding tools for developers and beginners",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16SU9HdTFaVjRidzZYVmNKSmp6U2J3RnlSM3pqZ2tOUWVmSzdRMTJWUXhmeWw5eUhFOVFpaFBycnNxN19PRXo0MERfMldDZEtxZm1BdlVRMnI4MlZFWHR5SmFBRVpDcGtGRi13?oc=5",
     "difficulty": "News"
   },
   {
@@ -240,30 +228,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 09, 12:26 AM ET",
-    "publishedAt": "2026-06-09T04:26:41+00:00",
-    "source": "Android Central",
-    "title": "Google Gemini AI: Gemini 3.5 Flash, Nano Banana, Live, best features, linked apps, and more",
-    "summary": "Android Central is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52bzRyUGZlOWU5N0ZKUU9nNUxRS2dRN05VcWkxU3V5MWF5aG15TXRmZmZQYmVWeHUtRVJlaGZyQmhLWW9OMzFQaEZ2eEFVMEtxNGRROG1uNEplQjdvd3kyZm1tejlSMW9SaVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 08, 11:30 AM ET",
-    "publishedAt": "2026-06-08T15:30:00+00:00",
-    "source": "Business Wire",
-    "title": "Pega Harnesses Best Practices and AI Coding Agents to Build Apps with Mission-Critical Reliability",
-    "summary": "Business Wire is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVk5iQWNkSkw3UDVBaDhKbjRoWlFCZnZqc2M3OXBPY25fQ1dibkVVbmZOTHkxQ19UY09vUUQ2b1hKQmlXOGszcXhlTjFOMzJuR0JlQXppa1RTZWJfcHVLUUs3Wnh6YVZOczM3QnZBOHNGTGR5MEEzRW9MdUIxUDJVcEhRQzZKSDA3Y1NNOWR4dzJwYWd6X1Z6b3p5UlVIdmF2Z19VeU8yRjB3d2U5OGNkRDcyZWNXejFYXzFfWi1PTE5zbXN2T3FTMjZ3SE4xT243aFZYWEIzR20xTWhxNlgzLTNDc2xiSl9HTnVn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 08, 10:00 AM ET",
@@ -273,6 +237,30 @@
     "summary": "Hackaday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU5BWjUzUHdHT1UyQmhkS2RnTTJMR2NhTmpnX0xpX1dmTXRVRVdST1FzY2tLVkI5SmZyVUJ3MFgyVW9CMHk5enlxTmphMk9oeHd5cEgzOFl1NmZrVURMTzl2cllXeEpoOVR5Y3ZfRzNaYURpQXpJYl93N1dHX3NXRlBlRkJub3M3MUhjT2NXaWR3ejRWTzZHTFRIYzY4ZWpoNlk0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 08, 05:03 AM ET",
+    "publishedAt": "2026-06-08T09:03:19+00:00",
+    "source": "Techzine Global",
+    "title": "The AI trailblazer GitHub Copilot is running out of road",
+    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGo2TXJKY2JMOWItMlQtMWotUmU2Vm1WQzRaUFFsb0JEOW1KMm9fOVpIblJZOTF4QTVwMUtYUl9GWHBjZkRNcWlZckJpYUhHZG90aUtYaFFNdGlaREJfaVZGU1M1Wk1vUlVncUF0WUdKNXJnNDFnV1JWdlZVbzU2RWptWFFLbXczejgzUHdVbi1QYkNXVmZBbXpYcTlpV2pnUnRF?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 06, 03:47 AM ET",
+    "publishedAt": "2026-06-06T07:47:18+00:00",
+    "source": "Fathom Journal",
+    "title": "Replace OpenAI API With Local Models: Ollama + LiteLLM, Text Gen Webui, Google Colab (W7bVqSuebo)",
+    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IeU9QVzhYUnFDWkZyN0RsS0s1ekl6S0VId3RWcnVnRkNjVThHa1k1LVJKQjdMaktURVVWZTZETVRPM2hoOGsxUmxKUVRyeHNLWE1SVWVRUHV1MEZvdER6Zjl0Qm85NlhCYVJDRF9UZS0?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 01, 03:00 AM ET",
-    "publishedAt": "2026-06-01T07:00:00+00:00",
-    "source": "The Hacker News",
-    "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xRmtjbnRYMThXYXMzeEIxdG93OGMyX0tsS0EtYndQekdzYkVWc0dwWmt1dWR5UHJwY29CX2FrYTFJVWJpbTZhVUhOcXQ5VGVKbGpZNmd1RGJmZmZabWVSRjRiXzk1S2dDaFpfX29vVzJFdzJKYnNhMXdWcHBudw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 29, 03:00 AM ET",
@@ -321,6 +297,18 @@
     "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 21, 03:00 AM ET",
+    "publishedAt": "2026-05-21T07:00:00+00:00",
+    "source": "The Verge",
+    "title": "I can’t believe how fast Google vibe coded my first Android app",
+    "summary": "The Verge is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVBIN1d1a2ZPSDVHNmhPXy1QeXIxcTZVS2lFXy1zQmdJcVFOaWg0QmM0eW1HQlFOYlV6Z3doS1lwSXBlMFBqYlFRXzRVanNLVUFOTWpzSjV3SXVTX0NqdTdwdjhyd0J0UzRpRVVzSXBva05ILWV6cXR4UFZrS3pqcHFtSjZXcmNtRDJqYlU4cXdqUVVvRXpHSWExMHltQnk2YTZtNkxLMlVrQXFhYi1BRFNB?oc=5",
     "difficulty": "News"
   },
   {
@@ -360,15 +348,27 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Mar 19, 03:00 AM ET",
-    "publishedAt": "2026-03-19T07:00:00+00:00",
-    "source": "wiz.io",
-    "title": "Claude Code vs GitHub Copilot: Better Together?",
-    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "May 17, 03:00 AM ET",
+    "publishedAt": "2026-05-17T07:00:00+00:00",
+    "source": "Tom's Hardware",
+    "title": "OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month — bill covered 603 billion tokens across 7.6 million requests and 100 coding agents",
+    "summary": "Tom's Hardware is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYMmhWR2o3M2hmSjk3U0lkY1JpelFQTENZeGdiRVlRQUp1blBNTE5NZzUwbDQ0NlF4SF9wd3BwejZpN2RYRHFiTFUxQUZwYnhlODVyNWpLU3NOdmJzcXVsSmUzUEp0b2hNYTZ1bHlrU01lM1k1ZmpB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZmhHTVpuYXZRWjV4Vk53dVFMMk8yNzUzZC1FQS0wMkkxVHEzbjB2Wi0zeUlOMGNRc3VoNDlJWFRYbTZFOXdyR2hUQ19KYWR5Ri1FS2lORHlYNVlyVkNGdnRKQk1kdl85a2p6NTFtTHgyaW5sOXh2TzYtS19xQ2p3NXZQOU5oNVBhcVU5Qmtkc2t6bENBMXFmMXVzTUNlNERVSS04OGpobUdjeG85VzF1N3lMMW1VdWV4Sm5ZaEZmY2llT1Zza1ZXWXF5dWsyTERNUWYxZWdTZWNIVno2S25CLUtR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 27, 03:00 AM ET",
+    "publishedAt": "2026-03-27T07:00:00+00:00",
+    "source": "infoq.com",
+    "title": "OpenAI Extends the Responses API to Serve as a Foundation for Autonomous Agents",
+    "summary": "infoq.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxMnRnVHJZM3lLRWtUdm9CQ0c5elJmSXBBbDJ0NzhDWC13dF9vYWNOdVYxbmRqWDlCTVR2OGJFOGFDSnVyOGZvYUNQRF9oTVNfMnRkU2lJLUZpaThnRmNQQXotUS10QXU5MjV4c2hOb0Y?oc=5",
     "difficulty": "News"
   },
   {
