@@ -2,6 +2,42 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 15, 06:34 AM ET",
+    "publishedAt": "2026-06-15T10:34:34+00:00",
+    "source": "saastr.com",
+    "title": "Why It’s So Hard for Older B2B Leaders to Compete in AI: Your Customers Can Do A Lot in Claude for $20-$200/Month. And You’re Paying $1.00 Per API Call For the Good Stuff.",
+    "summary": "saastr.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcWNWaHItQzJlZ0U2NXVkZTdzd18yTUJDb2RoZzN2clJ4YjNORFBFZE9IWm9TS2E5Rmh6cVRhRUVlZThuQm05elAtTWlfa05ETnlmRnplZmprWnJESjZKZzR2M0xGWmpPQmdWMlNtZFV4anFmMEhYRjFmVjJacWRmYXdPOG9xLW1aSVZTb0VJazFrcjhqMU92ajJhc255ekFMSVZMblNnMjBiMGFVcmFmenpqUGtGSktMYnU5S25KQ3Ftd2Q4OEFPZF9ndlAxaURmYXhhR19KMTJyR2VaVENhMmNaSE5GQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 15, 05:38 AM ET",
+    "publishedAt": "2026-06-15T09:38:28+00:00",
+    "source": "Mashable",
+    "title": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other?",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ENkVmNkswcWNpaWJhSGFucVpaM19FOU9pZHd3SF9EYVlLTmxRRUhvcTUtWVNFcmNHdTRickxvaFE1RkpNZzdZRlBmVDB1NVJ4QWcxVEJaZUNuWGRnQVlLcjRyTll4UU9CMEE1VHBnVVVZZVRzOUxj?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 15, 01:01 AM ET",
+    "publishedAt": "2026-06-15T05:01:23+00:00",
+    "source": "infoq.com",
+    "title": "Anthropic Releases and Temporarily Suspends Claude Fable 5",
+    "summary": "infoq.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KZ2dYRkVybk1YWUJCQllMOW53U2NCMlhkRFo4cHVjYXB1SUVVZzVDcXo4OEgtUVBQXzd2TTVHT2JKQzFnZGdfMklQWWdQTExxM0gya0NHUHN5dW9XSTZJaFpB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 14, 09:04 PM ET",
     "publishedAt": "2026-06-15T01:04:53+00:00",
     "source": "MarkTechPost",
@@ -33,18 +69,6 @@
     "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkRiT0taQTA0aG9BVFBldEZHenpkMjBuTUxpZEJJX2Fua2ViSVROaDJSU2M2Z21paVZHMTRUeGtrckwwaWxsZS1VdHJPcmhKaGVFWXd5cG41YTM0ZTkxc2tfN1l1TDU3QUxZT29OUkZyN1RzMi1TblBkbTF2a3BQWmxkVWw1VTN6cFQwQm56TklWZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 14, 05:00 AM ET",
-    "publishedAt": "2026-06-14T09:00:32+00:00",
-    "source": "Mashable",
-    "title": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other?",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ENkVmNkswcWNpaWJhSGFucVpaM19FOU9pZHd3SF9EYVlLTmxRRUhvcTUtWVNFcmNHdTRickxvaFE1RkpNZzdZRlBmVDB1NVJ4QWcxVEJaZUNuWGRnQVlLcjRyTll4UU9CMEE1VHBnVVVZZVRzOUxj?oc=5",
     "difficulty": "News"
   },
   {
@@ -81,6 +105,18 @@
     "summary": "KDnuggets is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yaXl0dU11aDEtYkk3T3hjRWEzdjRUTGNyTjQ1cWFROWRrVWhTWEFWb09XN0N6VG5UN25iT3J4ZTlUczFXVjZJVnpTb3UteGlvOHhxNHRWTWpwN2cwVUhNd21pMUY1UWZCdnJIUHVTeWM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 12, 03:00 AM ET",
+    "publishedAt": "2026-06-12T07:00:00+00:00",
+    "source": "Security Boulevard",
+    "title": "Top 10 AI Dev Agents in 2026",
+    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50YmZVeUdMSkFxT3ZJTE50UzhKVEJ5Zm43TTNvNFNMUHBOaldmcVFFWDhkZDJ4aXg3YkxSb182RUZIeVlYZzBFUU5sWXpHV29sN2w5VTlNaGpHbGpVR0RzOUZnZklyc2o0MnpFU2E4N0RWUHJRamc?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,30 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 09, 09:13 PM ET",
-    "publishedAt": "2026-06-10T01:13:57+00:00",
-    "source": "Hostinger",
-    "title": "22 best AI coding tools for developers and beginners",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16SU9HdTFaVjRidzZYVmNKSmp6U2J3RnlSM3pqZ2tOUWVmSzdRMTJWUXhmeWw5eUhFOVFpaFBycnNxN19PRXo0MERfMldDZEtxZm1BdlVRMnI4MlZFWHR5SmFBRVpDcGtGRi13?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 09, 05:08 PM ET",
-    "publishedAt": "2026-06-09T21:08:53+00:00",
-    "source": "saastr.com",
-    "title": "Why It’s So Hard for Older B2B Leaders to Compete in AI: Your Customers Can Do A Lot in Claude for $20-$200/Month. And You’re Paying $1.00 Per API Call For the Good Stuff.",
-    "summary": "saastr.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcWNWaHItQzJlZ0U2NXVkZTdzd18yTUJDb2RoZzN2clJ4YjNORFBFZE9IWm9TS2E5Rmh6cVRhRUVlZThuQm05elAtTWlfa05ETnlmRnplZmprWnJESjZKZzR2M0xGWmpPQmdWMlNtZFV4anFmMEhYRjFmVjJacWRmYXdPOG9xLW1aSVZTb0VJazFrcjhqMU92ajJhc255ekFMSVZMblNnMjBiMGFVcmFmenpqUGtGSktMYnU5S25KQ3Ftd2Q4OEFPZF9ndlAxaURmYXhhR19KMTJyR2VaVENhMmNaSE5GQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 09, 02:57 PM ET",
@@ -261,18 +273,6 @@
     "summary": "Hackaday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU5BWjUzUHdHT1UyQmhkS2RnTTJMR2NhTmpnX0xpX1dmTXRVRVdST1FzY2tLVkI5SmZyVUJ3MFgyVW9CMHk5enlxTmphMk9oeHd5cEgzOFl1NmZrVURMTzl2cllXeEpoOVR5Y3ZfRzNaYURpQXpJYl93N1dHX3NXRlBlRkJub3M3MUhjT2NXaWR3ejRWTzZHTFRIYzY4ZWpoNlk0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 05, 03:00 AM ET",
-    "publishedAt": "2026-06-05T07:00:00+00:00",
-    "source": "Microsoft",
-    "title": "Securing CI/CD in an agentic world: Claude Code Github action case",
-    "summary": "Microsoft is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREJ4Wm45a0lId2d5MUxEOHdRWldESTBfVUZWNFdzMWozbGpLVFVNaEVIV0JlZUFBU0ZjMmFCeWNMazVuM1BsNUx2Z3VlajhHQURuR3cyNDd0LTY5YVJsVGpOU0E1RmtsZmVyb1JyOEgyQmNCeFJZT3U5bTBPSlZuNmdtdm10bzNwSmhyMmNLNkRrUU5EYVRxVG1McjVJSmNqZTBTb0dmRk15UlJtOWFubl9TTFRMUnJmQm5MTg?oc=5",
     "difficulty": "News"
   },
   {
