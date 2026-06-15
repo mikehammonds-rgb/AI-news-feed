@@ -1,26 +1,26 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 15, 06:34 AM ET",
-    "publishedAt": "2026-06-15T10:34:34+00:00",
-    "source": "saastr.com",
-    "title": "Why It’s So Hard for Older B2B Leaders to Compete in AI: Your Customers Can Do A Lot in Claude for $20-$200/Month. And You’re Paying $1.00 Per API Call For the Good Stuff.",
-    "summary": "saastr.com is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 15, 10:02 AM ET",
+    "publishedAt": "2026-06-15T14:02:07+00:00",
+    "source": "GitGuardian Blog",
+    "title": "Gitguardian Agent Skills: Secret Detection and Remediation For AI-Assisted Development",
+    "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcWNWaHItQzJlZ0U2NXVkZTdzd18yTUJDb2RoZzN2clJ4YjNORFBFZE9IWm9TS2E5Rmh6cVRhRUVlZThuQm05elAtTWlfa05ETnlmRnplZmprWnJESjZKZzR2M0xGWmpPQmdWMlNtZFV4anFmMEhYRjFmVjJacWRmYXdPOG9xLW1aSVZTb0VJazFrcjhqMU92ajJhc255ekFMSVZMblNnMjBiMGFVcmFmenpqUGtGSktMYnU5S25KQ3Ftd2Q4OEFPZF9ndlAxaURmYXhhR19KMTJyR2VaVENhMmNaSE5GQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1QWJ1WGJEbGhIZm1lREdUb3lnS1hIZXBoRTdhd2JDS0pkRDk5TkM3Qlp3WG1JTG9XSUNYN20ycXdxd28wdW5TTnNvOEVDMnpiczR0RmlCQl9MNzlvdTVQRERPYXV4NUxIejdCLVNvVjBXTzRm?oc=5",
     "difficulty": "News"
   },
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 15, 05:38 AM ET",
-    "publishedAt": "2026-06-15T09:38:28+00:00",
-    "source": "Mashable",
-    "title": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other?",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "time": "Jun 15, 08:36 AM ET",
+    "publishedAt": "2026-06-15T12:36:15+00:00",
+    "source": "The NonProfit Times",
+    "title": "Anthropic Launches ‘Claude Corps’ With $150M Pledge",
+    "summary": "The NonProfit Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ENkVmNkswcWNpaWJhSGFucVpaM19FOU9pZHd3SF9EYVlLTmxRRUhvcTUtWVNFcmNHdTRickxvaFE1RkpNZzdZRlBmVDB1NVJ4QWcxVEJaZUNuWGRnQVlLcjRyTll4UU9CMEE1VHBnVVVZZVRzOUxj?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXVWZlVCOE9wMXR4bW1DSTUyTk5fVnJMVnJLRFhQR1JtLWhrSHBtWWNDbWlOV2t5TVl6OENsQTh4NEdNMUJZaTFqWndicHlLWUhpZEhCajVJblUyZ01hN1BzVXp3a3NxQ3YtQmczTVEtZ0h3elFza2FOU1pkc2Nzem5MelZLbGFNcXkyQ01jbF9pLU85NFM0?oc=5",
     "difficulty": "News"
   },
   {
@@ -45,18 +45,6 @@
     "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 14, 03:04 PM ET",
-    "publishedAt": "2026-06-14T19:04:16+00:00",
-    "source": "Memeburn",
-    "title": "Google's Gemini 3.5 Live Translate Brings Real-Time Voice Translation to 70+ Languages",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWNlZDJjZVRXMWVfQ1E1eGZQbkhQSEo1VkxhUmg1T0tWMEI5dGtid2prQzdveUQzZFdSNnpKT2FIdVMzOFU5MnR1bG1qbUlyaFNxYzl0X2tqbXF5VHFfdEpVa2ZiR1Z6QlVZelUzWm83RDg2RzV4ZGJ5TVRGVXBJQlZoOGtQNHpTVXJja3lraUhELUFzZHNDRXdKTnhQRkNENFFZcUk1el9rUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -96,6 +84,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 12, 05:04 PM ET",
+    "publishedAt": "2026-06-12T21:04:11+00:00",
+    "source": "MarkTechPost",
+    "title": "Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ1QwUnpXSEpUdXZvUnpLaVliQjFRN1E1azVqQnJaQ2N3OFJTQm84RzhVWDFQWnlyZG9WNng3U1MwUjFwaWdUTXJDMjdER3kyM01FbTl5N0kxS3FXMmF2QXpCUDJySnJQSE1QQXNDelVHV0xEWHYyWGVYdWQ3UUhNalRaN0RHeUVNZ2JOLTNQQXV6enlGZnRiRXVyVVFfa3pjVkM2ZkJNOElmZjI4R3hDZ1pQYXo2Q3UtbnlNSUpScW9fQXA2R3FxTzA2TkFQQWk0UzZFa0k1Njk?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 12, 10:09 AM ET",
@@ -108,15 +108,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 12, 03:00 AM ET",
-    "publishedAt": "2026-06-12T07:00:00+00:00",
-    "source": "Security Boulevard",
-    "title": "Top 10 AI Dev Agents in 2026",
-    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 11, 05:21 PM ET",
+    "publishedAt": "2026-06-11T21:21:59+00:00",
+    "source": "HackerNoon",
+    "title": "OpenAI Realtime API Pricing in 2026: Real-World Data From 4,000 Measured Sessions",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50YmZVeUdMSkFxT3ZJTE50UzhKVEJ5Zm43TTNvNFNMUHBOaldmcVFFWDhkZDJ4aXg3YkxSb182RUZIeVlYZzBFUU5sWXpHV29sN2w5VTlNaGpHbGpVR0RzOUZnZklyc2o0MnpFU2E4N0RWUHJRamc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHhTNzc2MDFPdHBBYjl1c0pfLUhVQkk1ZG5WR296SDFobHU2eUJyQVhtWkxSei1sOWRsZ2FhSkF0M19QZWJHT0p3SDlzXzJnTzM3ZFdyOFphV1l5VGNVOXlPTFhHdGNBRjlvWmdCazV6bTExRHlscVRxa2dQLTd6VnVUdE9vTlUwclB2MFNWaGd4UVZYd2NRZEwzb3hrWmdwVVBIQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -170,18 +170,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 10, 03:09 PM ET",
-    "publishedAt": "2026-06-10T19:09:28+00:00",
-    "source": "Capital Brief",
-    "title": "Ventia partners with OpenAI to deploy AI tools",
-    "summary": "Capital Brief is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1JOXzNKRmN5VHk1enZMd0hZU2NfbGJSS0RobENfSmxWNmh3c2U4b0dWTmxyZXpER3ZqaWxxVUw0ckJwbEVLUkNkZ3RDYnlqb1k2eUZINE1JSk1ITTdSMFY5TExzaWJPODJaNld6eVYwa294Q1FwVERUSWhtY1RPeVdVdFJzcjlab2xYXzdGakJCUmRaS2ZvcTdhTXdMM0ZtNmpsQjlKb2tfVXNQS2t4bUs0aGY5TklLQ3oxYjhoaw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jun 10, 02:02 PM ET",
     "publishedAt": "2026-06-10T18:02:36+00:00",
     "source": "Digiday",
@@ -213,6 +201,18 @@
     "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFRXU1lETzA5Mm5DWU1RY2RLS3Y0N1RjZnJ6SjJWYnVPQ2tVekhPa0hma3VHZy15VnBjYUNWSVN5OWVNT0NxRGZlRnM4VFE2NjBBZkFaY05SdUxvaVlDRWFoMjlFXzlfVmtPUzhUN3A3Q29yWTZuU2MwMkh0VlhUTlVFNnFweHJYRmxGdA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 09, 05:08 PM ET",
+    "publishedAt": "2026-06-09T21:08:53+00:00",
+    "source": "saastr.com",
+    "title": "Why It’s So Hard for Older B2B Leaders to Compete in AI: Your Customers Can Do A Lot in Claude for $20-$200/Month. And You’re Paying $1.00 Per API Call For the Good Stuff.",
+    "summary": "saastr.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcWNWaHItQzJlZ0U2NXVkZTdzd18yTUJDb2RoZzN2clJ4YjNORFBFZE9IWm9TS2E5Rmh6cVRhRUVlZThuQm05elAtTWlfa05ETnlmRnplZmprWnJESjZKZzR2M0xGWmpPQmdWMlNtZFV4anFmMEhYRjFmVjJacWRmYXdPOG9xLW1aSVZTb0VJazFrcjhqMU92ajJhc255ekFMSVZMblNnMjBiMGFVcmFmenpqUGtGSktMYnU5S25KQ3Ftd2Q4OEFPZF9ndlAxaURmYXhhR19KMTJyR2VaVENhMmNaSE5GQQ?oc=5",
     "difficulty": "News"
   },
   {
