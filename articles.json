@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 15, 01:32 PM ET",
+    "publishedAt": "2026-06-15T17:32:52+00:00",
+    "source": "Mashable",
+    "title": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other?",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ENkVmNkswcWNpaWJhSGFucVpaM19FOU9pZHd3SF9EYVlLTmxRRUhvcTUtWVNFcmNHdTRickxvaFE1RkpNZzdZRlBmVDB1NVJ4QWcxVEJaZUNuWGRnQVlLcjRyTll4UU9CMEE1VHBnVVVZZVRzOUxj?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 15, 10:02 AM ET",
@@ -60,6 +72,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 14, 01:33 PM ET",
+    "publishedAt": "2026-06-14T17:33:00+00:00",
+    "source": "TechSpot",
+    "title": "A $200 ChatGPT subscription could cost OpenAI $14,000 if you actually used it to its full potential",
+    "summary": "TechSpot is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbjF2b0k5WlRVZFRRVF9aMi01U3ZGVG1mWExpUlFlRTZDalpqVjRtT2FmSTlmNTFmeWxQRlVaUERrOE9ibkR1OVlNT3F3enBXeF9ZUXBhNHJYNzZheUhSdW1pVEFyWFdLWnM4UlY2ZjhKZ0hCR3ZQR3pQcWxSQlgxWVQ5VHUwaFZBNzhjVGt0VzRyQWxmSlE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 12, 08:49 PM ET",
@@ -108,15 +132,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 11, 05:21 PM ET",
-    "publishedAt": "2026-06-11T21:21:59+00:00",
-    "source": "HackerNoon",
-    "title": "OpenAI Realtime API Pricing in 2026: Real-World Data From 4,000 Measured Sessions",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 12, 03:00 AM ET",
+    "publishedAt": "2026-06-12T07:00:00+00:00",
+    "source": "Security Boulevard",
+    "title": "Top 10 AI Dev Agents in 2026",
+    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHhTNzc2MDFPdHBBYjl1c0pfLUhVQkk1ZG5WR296SDFobHU2eUJyQVhtWkxSei1sOWRsZ2FhSkF0M19QZWJHT0p3SDlzXzJnTzM3ZFdyOFphV1l5VGNVOXlPTFhHdGNBRjlvWmdCazV6bTExRHlscVRxa2dQLTd6VnVUdE9vTlUwclB2MFNWaGd4UVZYd2NRZEwzb3hrWmdwVVBIQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50YmZVeUdMSkFxT3ZJTE50UzhKVEJ5Zm43TTNvNFNMUHBOaldmcVFFWDhkZDJ4aXg3YkxSb182RUZIeVlYZzBFUU5sWXpHV29sN2w5VTlNaGpHbGpVR0RzOUZnZklyc2o0MnpFU2E4N0RWUHJRamc?oc=5",
     "difficulty": "News"
   },
   {
@@ -177,30 +201,6 @@
     "summary": "Digiday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUtfSERxN2t2OUxEeTJQMFZqbnIzMjMzTUtRTGJ0Nl8td2U1UUtFbnJoT21TazZGcUYzQVo3ZHR4VUYzOEx5d0FNMWRnQlV3cGJ0Rno4M0lHaHhubUJfeEZUUEJNcUlVdkRDd3ZPbnZBdVE5MlFiYTVlQzg1cHJQanVtNXQxVHA5V3NveEFxNGJpTE1WdTZUelVqV2Y5RG8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 10, 10:37 AM ET",
-    "publishedAt": "2026-06-10T14:37:56+00:00",
-    "source": "DevOps.com",
-    "title": "Security Flaw in Claude Code Illustrates the Risk of AI in Developer Workflows",
-    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjZVZ3cwYV9IZHpqdnlHUnZjTVljT2ZUcGtWRFB1TUxFd1lMZ09GTFhrQkRxZ1pXR1dxaUNMb1RrTGQzYV83WWFFTjQ2Qm5tQnVOX01odXBsYTljd21XbHV2YzNzdmJqRmQ4b3h0UXRTQ1UtVGNrNVR5UEtyNThLc1RTT09qT1p4VTRETjB4cDJaVTYxaEdsTzFrX0JZNm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 10, 06:24 AM ET",
-    "publishedAt": "2026-06-10T10:24:17+00:00",
-    "source": "MarkTechPost",
-    "title": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFRXU1lETzA5Mm5DWU1RY2RLS3Y0N1RjZnJ6SjJWYnVPQ2tVekhPa0hma3VHZy15VnBjYUNWSVN5OWVNT0NxRGZlRnM4VFE2NjBBZkFaY05SdUxvaVlDRWFoMjlFXzlfVmtPUzhUN3A3Q29yWTZuU2MwMkh0VlhUTlVFNnFweHJYRmxGdA?oc=5",
     "difficulty": "News"
   },
   {
