@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 14, 09:04 PM ET",
+    "publishedAt": "2026-06-15T01:04:53+00:00",
+    "source": "MarkTechPost",
+    "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 14, 03:04 PM ET",
@@ -26,13 +38,25 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 14, 10:59 AM ET",
-    "publishedAt": "2026-06-14T14:59:29+00:00",
+    "time": "Jun 14, 05:00 AM ET",
+    "publishedAt": "2026-06-14T09:00:32+00:00",
     "source": "Mashable",
     "title": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other?",
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ENkVmNkswcWNpaWJhSGFucVpaM19FOU9pZHd3SF9EYVlLTmxRRUhvcTUtWVNFcmNHdTRickxvaFE1RkpNZzdZRlBmVDB1NVJ4QWcxVEJaZUNuWGRnQVlLcjRyTll4UU9CMEE1VHBnVVVZZVRzOUxj?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 12, 08:49 PM ET",
+    "publishedAt": "2026-06-13T00:49:00+00:00",
+    "source": "WILX",
+    "title": "What The Tech? Google Gemini",
+    "summary": "WILX is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRSDdjQ1NnTW1pZVdDSEVIRVFZeVZOeTRhcmFzcE9GeEVIOHRnRHNJSFVYdTlsSmthOUZ5eFR3Qmpyd2hOZTRUZkFQblcxbXJSZ25OUUF3bVFVY3JKZFI0SEplT0h5NGVwOUNUTDVSeGc3QzRkZGhndHZHRdIBe0FVX3lxTFBRSDdjQ1NnTW1pZVdDSEVIRVFZeVZOeTRhcmFzcE9GeEVIOHRnRHNJSFVYdTlsSmthOUZ5eFR3Qmpyd2hOZTRUZkFQblcxbXJSZ25OUUF3bVFVY3JKZFI0SEplT0h5NGVwOUNUTDVSeGc3QzRkZGhndHZHRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -81,6 +105,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnRk42MEsxNHRZOTQ5eVFSdnVhd09iTWdwUzdZOVlyVnlGRWYtNTRpWlVDeUF2Q1hJQk9hSlRQZUJaU0pGLUNnX2QyajBucldWc2ZNTnBoNEN0bGRrMjUyb1RGNkR5ZUxpUkRkdUFNeG90Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 10, 08:56 PM ET",
+    "publishedAt": "2026-06-11T00:56:18+00:00",
+    "source": "tech-insider.org",
+    "title": "GitHub Copilot Pricing [2026]: From $0 to $39/mo",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wSlZPaVVNMURMZDM2bXF6MEExSVR6NnpsdHlzcDlsNTVvQzdwVlVGcE5mWHkzLUxuaDV3Z2h0Z21nRExGRWZSdXpiWURJcDVYS2Q0dTY4Vk9vUUJZN3luSWJZUExVSmEwT3hKNkpvUXRINWxfWXBZ?oc=5",
     "difficulty": "News"
   },
   {
@@ -182,18 +218,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 09, 01:39 PM ET",
-    "publishedAt": "2026-06-09T17:39:26+00:00",
-    "source": "The GitHub Blog",
-    "title": "Claude Fable 5 is generally available for GitHub Copilot",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2N1T3FoR29kaW1tem9jSVJFQUZiSmQ5alpvMEIzdjVPVFA3OXVPb0pjbFU3cFVVOWhEN1NYWmJKaGNFUW5aMlZNQUwtTVBNNG9ZZllOY1hpeWtXNXR4VUZyaktEV2FyTHpFbFJ6Z0lkUkxlOGlyazFvOXpZMDBqMDRwYU0tYnhPQVVDbzdZV2RrU0s4NnZuejFKOEotdTQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jun 09, 01:08 PM ET",
     "publishedAt": "2026-06-09T17:08:42+00:00",
     "source": "Anthropic",
@@ -216,15 +240,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 09, 04:07 AM ET",
-    "publishedAt": "2026-06-09T08:07:17+00:00",
-    "source": "tech-insider.org",
-    "title": "Google AI Mode: 1B Users, Gemini 3.5 Flash [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 09, 10:08 AM ET",
+    "publishedAt": "2026-06-09T14:08:05+00:00",
+    "source": "Visual Studio Magazine",
+    "title": "Mastering AI Development and Building AI Apps with GitHub Copilot",
+    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0dlJEU2gwcWE1Vk03OHRWNy1ZUVhtRDhndnRyejhoSTRXU3lCXzJwMHZ5cDRGNlMzY0Zqai1EaVhDbEpZWGJseURQaVpzcUJscVJFRXIxeno3eXBfZmpTa29OSHNIdm42d09GWGp1US1yZw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHB4Ymc5WWJyOGJndmt5NzBTZTdFME9PcG1jUUkzYmFwVUFiRmJON1U1MVNRQXEyeS1YWWtaeV9CdV9QUzZhbmtxaUtyekFkNVFLUDZPRWVlYU1LWWtOelV6bXF3QklLZmpzeVhMZndNVm1ybWJCUEUwUHYyYnYwRk03aFByZTVpVVB3eFJnOVdfQ0pqV3ZqYTJBUlV0cERyOG9BaWRHZG9fUnlZb1Y4SFg4R0xmcG1MU19SOFg0TFU?oc=5",
     "difficulty": "News"
   },
   {
@@ -348,18 +372,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Mar 19, 03:00 AM ET",
-    "publishedAt": "2026-03-19T07:00:00+00:00",
-    "source": "wiz.io",
-    "title": "Claude Code vs GitHub Copilot: Better Together?",
-    "summary": "wiz.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYMmhWR2o3M2hmSjk3U0lkY1JpelFQTENZeGdiRVlRQUp1blBNTE5NZzUwbDQ0NlF4SF9wd3BwejZpN2RYRHFiTFUxQUZwYnhlODVyNWpLU3NOdmJzcXVsSmUzUEp0b2hNYTZ1bHlrU01lM1k1ZmpB?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Mar 12, 03:00 AM ET",
@@ -369,18 +381,6 @@
     "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 15, 03:00 AM ET",
-    "publishedAt": "2025-10-15T07:00:00+00:00",
-    "source": "The GitHub Blog",
-    "title": "Copilot: Faster, smarter, and built for how you work now",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYzVqTTg0TFdzMUZTR2Naa2ttUk9FOWVwVFVKYWV3M19TME9TanI1M0dnMHlscU1IY0VIc1lid2pieDB3bDFoNzg1VG92ZWhPSkdKbC15aGE5MElSNkN1aWRGMEtTbmZ0V2dPLVA4X0VwazdHejhJVHRMZldiM0RCWTZkZGJIUF9OcjYzRlpFRzJ0NWhTckZPMDRXSkdwU1ZaY1QwM25ySGM3MjlaZWJ1Qlg5U2kzVjdqR1ZDejYtRFlEOTRlNEtoOGRXeVk5SW5pckpPQVRaQTNFZVVOMHN3Rnd4V1NsT1E5WHJ5YXZUTTdzSnJQTXZhTk1DUWIxUmtkd1NSX0hzS0lobTlTMmxQTjFRTFBHdW5ubVRVNVBBdEs3cWc?oc=5",
     "difficulty": "News"
   }
 ]
