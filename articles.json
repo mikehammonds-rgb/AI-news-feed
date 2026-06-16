@@ -2,6 +2,42 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 16, 08:11 AM ET",
+    "publishedAt": "2026-06-16T12:11:30+00:00",
+    "source": "The New Stack",
+    "title": "Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUV3RjhQdHFtT1NUQjNCbWZLSEJnOGZncFRWQ0p4U0NUTzFRUmpZYmV3WnhCNXdzR3I3UmpuVHIyYlluSEROX3A5RThIbTZPejd3LWtRYVdUWnBMVXluX1BMUjc2Mk1wZVhCOVhoX3h2ZklpZVRBTjFMaFQtX1N0d010cw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 08:02 AM ET",
+    "publishedAt": "2026-06-16T12:02:00+00:00",
+    "source": "CBS News",
+    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 16, 04:50 AM ET",
+    "publishedAt": "2026-06-16T08:50:52+00:00",
+    "source": "Slator",
+    "title": "Google Expands AI Live Speech Translation with Gemini 3.5 Live Translate",
+    "summary": "Slator is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU0dzQTJLQXUxODVLZ1g2X3Q4ejg5cHFOcEt6ZGo4ZnZqbzBxcVFGNXdnUDQxVHRqZnRlS1E4LXJQbnE3VEFNQWV5bzFvaXU2cXNzNkF4OXNlX3NielRZU0xCSU40OE9zYTU1WEJSMjI4TTBNZ3hGRG9vUHJxNGNMMU5QY2wyZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 16, 03:22 AM ET",
     "publishedAt": "2026-06-16T07:22:13+00:00",
     "source": "Social Samosa",
@@ -38,13 +74,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 15, 08:36 AM ET",
-    "publishedAt": "2026-06-15T12:36:15+00:00",
-    "source": "The NonProfit Times",
-    "title": "Anthropic Launches ‘Claude Corps’ With $150M Pledge",
-    "summary": "The NonProfit Times is reporting this update. Open the article for the full story.",
+    "time": "Jun 15, 01:01 AM ET",
+    "publishedAt": "2026-06-15T05:01:23+00:00",
+    "source": "infoq.com",
+    "title": "Anthropic Releases and Temporarily Suspends Claude Fable 5",
+    "summary": "infoq.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXVWZlVCOE9wMXR4bW1DSTUyTk5fVnJMVnJLRFhQR1JtLWhrSHBtWWNDbWlOV2t5TVl6OENsQTh4NEdNMUJZaTFqWndicHlLWUhpZEhCajVJblUyZ01hN1BzVXp3a3NxQ3YtQmczTVEtZ0h3elFza2FOU1pkc2Nzem5MelZLbGFNcXkyQ01jbF9pLU85NFM0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KZ2dYRkVybk1YWUJCQllMOW53U2NCMlhkRFo4cHVjYXB1SUVVZzVDcXo4OEgtUVBQXzd2TTVHT2JKQzFnZGdfMklQWWdQTExxM0gya0NHUHN5dW9XSTZJaFpB?oc=5",
     "difficulty": "News"
   },
   {
@@ -84,18 +120,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 12, 08:49 PM ET",
-    "publishedAt": "2026-06-13T00:49:00+00:00",
-    "source": "WILX",
-    "title": "What The Tech? Google Gemini",
-    "summary": "WILX is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRSDdjQ1NnTW1pZVdDSEVIRVFZeVZOeTRhcmFzcE9GeEVIOHRnRHNJSFVYdTlsSmthOUZ5eFR3Qmpyd2hOZTRUZkFQblcxbXJSZ25OUUF3bVFVY3JKZFI0SEplT0h5NGVwOUNUTDVSeGc3QzRkZGhndHZHRdIBe0FVX3lxTFBRSDdjQ1NnTW1pZVdDSEVIRVFZeVZOeTRhcmFzcE9GeEVIOHRnRHNJSFVYdTlsSmthOUZ5eFR3Qmpyd2hOZTRUZkFQblcxbXJSZ25OUUF3bVFVY3JKZFI0SEplT0h5NGVwOUNUTDVSeGc3QzRkZGhndHZHRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 12, 05:06 PM ET",
@@ -132,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 12, 03:00 AM ET",
-    "publishedAt": "2026-06-12T07:00:00+00:00",
-    "source": "Security Boulevard",
-    "title": "Top 10 AI Dev Agents in 2026",
-    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50YmZVeUdMSkFxT3ZJTE50UzhKVEJ5Zm43TTNvNFNMUHBOaldmcVFFWDhkZDJ4aXg3YkxSb182RUZIeVlYZzBFUU5sWXpHV29sN2w5VTlNaGpHbGpVR0RzOUZnZklyc2o0MnpFU2E4N0RWUHJRamc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 11, 11:35 AM ET",
@@ -165,18 +177,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnRk42MEsxNHRZOTQ5eVFSdnVhd09iTWdwUzdZOVlyVnlGRWYtNTRpWlVDeUF2Q1hJQk9hSlRQZUJaU0pGLUNnX2QyajBucldWc2ZNTnBoNEN0bGRrMjUyb1RGNkR5ZUxpUkRkdUFNeG90Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 10, 08:56 PM ET",
-    "publishedAt": "2026-06-11T00:56:18+00:00",
-    "source": "tech-insider.org",
-    "title": "GitHub Copilot Pricing [2026]: From $0 to $39/mo",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wSlZPaVVNMURMZDM2bXF6MEExSVR6NnpsdHlzcDlsNTVvQzdwVlVGcE5mWHkzLUxuaDV3Z2h0Z21nRExGRWZSdXpiWURJcDVYS2Q0dTY4Vk9vUUJZN3luSWJZUExVSmEwT3hKNkpvUXRINWxfWXBZ?oc=5",
     "difficulty": "News"
   },
   {
@@ -206,18 +206,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 10, 10:37 AM ET",
-    "publishedAt": "2026-06-10T14:37:56+00:00",
-    "source": "DevOps.com",
-    "title": "Security Flaw in Claude Code Illustrates the Risk of AI in Developer Workflows",
-    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjZVZ3cwYV9IZHpqdnlHUnZjTVljT2ZUcGtWRFB1TUxFd1lMZ09GTFhrQkRxZ1pXR1dxaUNMb1RrTGQzYV83WWFFTjQ2Qm5tQnVOX01odXBsYTljd21XbHV2YzNzdmJqRmQ4b3h0UXRTQ1UtVGNrNVR5UEtyNThLc1RTT09qT1p4VTRETjB4cDJaVTYxaEdsTzFrX0JZNm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jun 09, 05:08 PM ET",
     "publishedAt": "2026-06-09T21:08:53+00:00",
     "source": "saastr.com",
@@ -225,18 +213,6 @@
     "summary": "saastr.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcWNWaHItQzJlZ0U2NXVkZTdzd18yTUJDb2RoZzN2clJ4YjNORFBFZE9IWm9TS2E5Rmh6cVRhRUVlZThuQm05elAtTWlfa05ETnlmRnplZmprWnJESjZKZzR2M0xGWmpPQmdWMlNtZFV4anFmMEhYRjFmVjJacWRmYXdPOG9xLW1aSVZTb0VJazFrcjhqMU92ajJhc255ekFMSVZMblNnMjBiMGFVcmFmenpqUGtGSktMYnU5S25KQ3Ftd2Q4OEFPZF9ndlAxaURmYXhhR19KMTJyR2VaVENhMmNaSE5GQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 09, 02:57 PM ET",
-    "publishedAt": "2026-06-09T18:57:25+00:00",
-    "source": "Ars Technica",
-    "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUh5bjBGalp5Q0stWTlpeUZCa1RqQm1MRUxjR1dPcWs3ck5ZMWRveE9NbUxFSlFzTE5wQWlvRU91NFZmVlFLdDAza0RyVHdsdVBrbUFsYXY3TmZoYmoxLXoyWElKTjF6X2VaOGhwaWNkRHEtUzNrZ2tnOHJ4TnBnbXJ1dmE5Z1ZoMWVwQ0Z1YUlmbU1pemN0bTVEQ1VaTkd0NHo1Tmw2dy1OWVhJcEZsRE1fTVZhLTFi?oc=5",
     "difficulty": "News"
   },
   {
@@ -297,6 +273,18 @@
     "summary": "Microsoft is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREJ4Wm45a0lId2d5MUxEOHdRWldESTBfVUZWNFdzMWozbGpLVFVNaEVIV0JlZUFBU0ZjMmFCeWNMazVuM1BsNUx2Z3VlajhHQURuR3cyNDd0LTY5YVJsVGpOU0E1RmtsZmVyb1JyOEgyQmNCeFJZT3U5bTBPSlZuNmdtdm10bzNwSmhyMmNLNkRrUU5EYVRxVG1McjVJSmNqZTBTb0dmRk15UlJtOWFubl9TTFRMUnJmQm5MTg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 03, 03:00 AM ET",
+    "publishedAt": "2026-06-03T07:00:00+00:00",
+    "source": "PCWorld",
+    "title": "I made a Gemini avatar of myself. It’s so real, it creeps me out",
+    "summary": "PCWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3REbHdPWWN6VC11Wnp5TXhvOEU0V0dnbzNhUDNSUExLa3l1Ti1fb0hsenJsa2pHYXA2WWZVcEZSRXg1T1JyaWVET2FtUkhENzcxb2NHWGFNTUJ0b1h2b0hmYy1zdENfS1ZmeTZJMFFOWElYa21oWXdVSlVWc2xVaC1IUi1LOUtaWllOM3dUbE1OVTZUMUFYSWRsc1lSU3pUV2Y3R09zNmZZdw?oc=5",
     "difficulty": "News"
   },
   {
