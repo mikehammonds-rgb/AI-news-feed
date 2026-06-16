@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 16, 03:22 AM ET",
+    "publishedAt": "2026-06-16T07:22:13+00:00",
+    "source": "Social Samosa",
+    "title": "Punt Panther's ShelfRadar joins Anthropic's Claude Partner Network",
+    "summary": "Social Samosa is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHRuWG5pU0hOQUFqc1d4ZlFzRi1sNFFJVGdGeU9WU3ExTlV1QXdGYUp0OF9IY0N4RV9hVFMyRVpyUThXQTg4TjVMaE9iLUZUNDJyT3hXT2JWTE40bTlaWllfalFFa2NQd3N1bVhOMGFSNmtTMG1RTzhtVG1HZWpaX1Zyb2Y0UkRsRlpVMkFZMDVjaEZ3bGRVMHNMVzYxOWdjQnFjeHFUYlBQV1BaU0tZNdIBsAFBVV95cUxPeHRuWG5pU0hOQUFqc1d4ZlFzRi1sNFFJVGdGeU9WU3ExTlV1QXdGYUp0OF9IY0N4RV9hVFMyRVpyUThXQTg4TjVMaE9iLUZUNDJyT3hXT2JWTE40bTlaWllfalFFa2NQd3N1bVhOMGFSNmtTMG1RTzhtVG1HZWpaX1Zyb2Y0UkRsRlpVMkFZMDVjaEZ3bGRVMHNMVzYxOWdjQnFjeHFUYlBQV1BaU0tZNQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 15, 05:01 PM ET",
@@ -33,18 +45,6 @@
     "summary": "The NonProfit Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXVWZlVCOE9wMXR4bW1DSTUyTk5fVnJMVnJLRFhQR1JtLWhrSHBtWWNDbWlOV2t5TVl6OENsQTh4NEdNMUJZaTFqWndicHlLWUhpZEhCajVJblUyZ01hN1BzVXp3a3NxQ3YtQmczTVEtZ0h3elFza2FOU1pkc2Nzem5MelZLbGFNcXkyQ01jbF9pLU85NFM0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 14, 09:04 PM ET",
-    "publishedAt": "2026-06-15T01:04:53+00:00",
-    "source": "MarkTechPost",
-    "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn?oc=5",
     "difficulty": "News"
   },
   {
@@ -108,15 +108,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 12, 01:16 PM ET",
-    "publishedAt": "2026-06-12T17:16:00+00:00",
-    "source": "Business Wire",
-    "title": "Opsin Integrates with Claude's Compliance API to Extend AI Governance to Anthropic-Hosted Deployments",
-    "summary": "Business Wire is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 12, 05:04 PM ET",
+    "publishedAt": "2026-06-12T21:04:11+00:00",
+    "source": "MarkTechPost",
+    "title": "Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOTk5MFBSVXc3ZUE2WUlhQUFSWWNaY3FFRk5XZXdhNFRIZ0pVdHoyTDBtRU9MZEhHa0xtbmpodmdxaHdrdEs5eFZ6RkxFNjVfVkRoLUxoSzlCWGNNb0t5RXVfR000TVZ3RzZWZC1iZGs2cjJ1cDA0a1VwVUFsenNxXzJzbE1ZcHlETWpVX05kLXJuM2FfSk84UVBlTUkzNFMxQ2NUR3lRaGQ0S212TDNXR2NOemtfQUdyNWdySGx2VndqU24zdVV3QnJLY2VRQ2UtZHFmLXZVREJISF84N09UY2lzbGdjTkNHU0VBMkxB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ1QwUnpXSEpUdXZvUnpLaVliQjFRN1E1azVqQnJaQ2N3OFJTQm84RzhVWDFQWnlyZG9WNng3U1MwUjFwaWdUTXJDMjdER3kyM01FbTl5N0kxS3FXMmF2QXpCUDJySnJQSE1QQXNDelVHV0xEWHYyWGVYdWQ3UUhNalRaN0RHeUVNZ2JOLTNQQXV6enlGZnRiRXVyVVFfa3pjVkM2ZkJNOElmZjI4R3hDZ1pQYXo2Q3UtbnlNSUpScW9fQXA2R3FxTzA2TkFQQWk0UzZFa0k1Njk?oc=5",
     "difficulty": "News"
   },
   {
@@ -206,6 +206,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 10, 10:37 AM ET",
+    "publishedAt": "2026-06-10T14:37:56+00:00",
+    "source": "DevOps.com",
+    "title": "Security Flaw in Claude Code Illustrates the Risk of AI in Developer Workflows",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjZVZ3cwYV9IZHpqdnlHUnZjTVljT2ZUcGtWRFB1TUxFd1lMZ09GTFhrQkRxZ1pXR1dxaUNMb1RrTGQzYV83WWFFTjQ2Qm5tQnVOX01odXBsYTljd21XbHV2YzNzdmJqRmQ4b3h0UXRTQ1UtVGNrNVR5UEtyNThLc1RTT09qT1p4VTRETjB4cDJaVTYxaEdsTzFrX0JZNm8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 09, 05:08 PM ET",
     "publishedAt": "2026-06-09T21:08:53+00:00",
     "source": "saastr.com",
@@ -288,18 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 29, 03:00 AM ET",
-    "publishedAt": "2026-05-29T07:00:00+00:00",
-    "source": "Fortune",
-    "title": "Exclusive: Microsoft is building a super app that combines coding, chat, and other Copilot AI tools",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "May 25, 03:00 AM ET",
@@ -309,6 +309,18 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMERrMmhzSy1vOFdvSS1XaTAxeVZrSUNmYVgzbV92cE1Jal9fY2ljQmVqMXlRQXVZcm1jSWZNQTV6Qkw1M1BYTVN0YzhCejk3QzFKOHZQZEZPQzBuMml2elBKZkpYal9MLUMyR29xZEdsNHp0dHFhVnRHSl9QXzIyRw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 24, 03:00 AM ET",
+    "publishedAt": "2026-05-24T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,18 +369,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 19, 03:00 AM ET",
-    "publishedAt": "2026-05-19T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Introducing Managed Agents in the Gemini API",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnNNT1ZqbDBUd0RZUGNralNNbktJNjk1aGgzV0NSVkhRTXlhUjg2clE5dXVQd0pYME1Iekh4N0NORGoteTJhVS16QzNNT0Z5d3FIYVo5RWlyM1ZaNlpPdUtibTcwZy16SjJOZFRnQkZpZFZxYUZDTXZoSTZzQllRSWoxa0hieGRvTnFBTy1PeS1GYzdLczFV?oc=5",
     "difficulty": "News"
   },
   {
