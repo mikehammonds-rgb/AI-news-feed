@@ -146,13 +146,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 15, 01:01 AM ET",
-    "publishedAt": "2026-06-15T05:01:23+00:00",
-    "source": "infoq.com",
-    "title": "Anthropic Releases and Temporarily Suspends Claude Fable 5",
-    "summary": "infoq.com is reporting this update. Open the article for the full story.",
+    "time": "Jun 14, 09:04 PM ET",
+    "publishedAt": "2026-06-15T01:04:53+00:00",
+    "source": "MarkTechPost",
+    "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KZ2dYRkVybk1YWUJCQllMOW53U2NCMlhkRFo4cHVjYXB1SUVVZzVDcXo4OEgtUVBQXzd2TTVHT2JKQzFnZGdfMklQWWdQTExxM0gya0NHUHN5dW9XSTZJaFpB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn?oc=5",
     "difficulty": "News"
   },
   {
@@ -266,13 +266,25 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 08, 10:00 AM ET",
-    "publishedAt": "2026-06-08T14:00:00+00:00",
+    "time": "Jun 08, 03:00 AM ET",
+    "publishedAt": "2026-06-08T07:00:00+00:00",
     "source": "Hackaday",
     "title": "Revisiting Using AI Coding Assistants: You’re Holding It Wrong Edition",
     "summary": "Hackaday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU5BWjUzUHdHT1UyQmhkS2RnTTJMR2NhTmpnX0xpX1dmTXRVRVdST1FzY2tLVkI5SmZyVUJ3MFgyVW9CMHk5enlxTmphMk9oeHd5cEgzOFl1NmZrVURMTzl2cllXeEpoOVR5Y3ZfRzNaYURpQXpJYl93N1dHX3NXRlBlRkJub3M3MUhjT2NXaWR3ejRWTzZHTFRIYzY4ZWpoNlk0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 04, 03:00 AM ET",
+    "publishedAt": "2026-06-04T07:00:00+00:00",
+    "source": "AppleInsider",
+    "title": "Run Google's Gemini LLMs right on your Mac with the new AI Edge Gallery",
+    "summary": "AppleInsider is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQy14U2VWbmxwRWhLZ1hsNXdXSzJhT0EwS3A5MmlETXdGU1BQeXJoRkt0YXQ2TmdjWW9ZRmdHUkc4QjJiSElBa1ZnOTk5YjFuWHduZEYtRjAxcWxQbVA3YTh2QnM4Zmw1MFgwLXhDN1FoSUcwMGVIMG85bFJUTVpBMGg2OVMtZG03Vlh3SEEzMTJ5U1lDM2xJUk1fbzg0RGFOTU9fUzcyWXBRdHVFSFVnUm5sRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -338,25 +350,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "May 19, 01:42 PM ET",
-    "publishedAt": "2026-05-19T17:42:03+00:00",
+    "time": "May 19, 03:00 AM ET",
+    "publishedAt": "2026-05-19T07:00:00+00:00",
     "source": "Mashable",
     "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 19, 03:00 AM ET",
-    "publishedAt": "2026-05-19T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Building the agentic future: Developer highlights from I/O 2026",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
     "difficulty": "News"
   },
   {
