@@ -2,6 +2,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Jun 15, 05:01 PM ET",
+    "publishedAt": "2026-06-15T21:01:57+00:00",
+    "source": "StartupHub.ai",
+    "title": "GitHub Copilot CLI: Slash Commands Explained",
+    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXBlQm5mcWQ0MTUwSEJ0b1hobEoxWHNhWlBYMUpZMWd3eDU2M1ltdFhKbklmNVNzSWYwY2VwbV9TUjBnWHN0ajBhY280V2o5czQ5RlRGdmdlN0hIM2ZSekdteXlWT1BTOHg2QlVjVENnZU80eVd3TVJoZU1mek1oY1ZnSEJ5OTl1clVNdFlTQi1FTkd2b2MySA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Jun 15, 10:02 AM ET",
     "publishedAt": "2026-06-15T14:02:07+00:00",
     "source": "GitGuardian Blog",
@@ -21,18 +33,6 @@
     "summary": "The NonProfit Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXVWZlVCOE9wMXR4bW1DSTUyTk5fVnJMVnJLRFhQR1JtLWhrSHBtWWNDbWlOV2t5TVl6OENsQTh4NEdNMUJZaTFqWndicHlLWUhpZEhCajVJblUyZ01hN1BzVXp3a3NxQ3YtQmczTVEtZ0h3elFza2FOU1pkc2Nzem5MelZLbGFNcXkyQ01jbF9pLU85NFM0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 15, 01:01 AM ET",
-    "publishedAt": "2026-06-15T05:01:23+00:00",
-    "source": "infoq.com",
-    "title": "Anthropic Releases and Temporarily Suspends Claude Fable 5",
-    "summary": "infoq.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KZ2dYRkVybk1YWUJCQllMOW53U2NCMlhkRFo4cHVjYXB1SUVVZzVDcXo4OEgtUVBQXzd2TTVHT2JKQzFnZGdfMklQWWdQTExxM0gya0NHUHN5dW9XSTZJaFpB?oc=5",
     "difficulty": "News"
   },
   {
@@ -84,6 +84,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 12, 08:49 PM ET",
+    "publishedAt": "2026-06-13T00:49:00+00:00",
+    "source": "WILX",
+    "title": "What The Tech? Google Gemini",
+    "summary": "WILX is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRSDdjQ1NnTW1pZVdDSEVIRVFZeVZOeTRhcmFzcE9GeEVIOHRnRHNJSFVYdTlsSmthOUZ5eFR3Qmpyd2hOZTRUZkFQblcxbXJSZ25OUUF3bVFVY3JKZFI0SEplT0h5NGVwOUNUTDVSeGc3QzRkZGhndHZHRdIBe0FVX3lxTFBRSDdjQ1NnTW1pZVdDSEVIRVFZeVZOeTRhcmFzcE9GeEVIOHRnRHNJSFVYdTlsSmthOUZ5eFR3Qmpyd2hOZTRUZkFQblcxbXJSZ25OUUF3bVFVY3JKZFI0SEplT0h5NGVwOUNUTDVSeGc3QzRkZGhndHZHRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 12, 05:06 PM ET",
@@ -93,6 +105,18 @@
     "summary": "trendmicro.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2dVYlBEUWpCOFlXSEVkX2lVbXJYZWNrYUJpUW11dnBJdTJueVdQU1JjZFVjd3RWcVBTZlk0UHRlcFNvNHUwMFFjMV9HTVVKczNGSUVmOWtDeXczYTRBZlpzdGowS2pLOVZmTlN5QlpMaVpXUU5JY3gyZi1lV2JKeDljQ1Axdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 12, 01:16 PM ET",
+    "publishedAt": "2026-06-12T17:16:00+00:00",
+    "source": "Business Wire",
+    "title": "Opsin Integrates with Claude's Compliance API to Extend AI Governance to Anthropic-Hosted Deployments",
+    "summary": "Business Wire is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOTk5MFBSVXc3ZUE2WUlhQUFSWWNaY3FFRk5XZXdhNFRIZ0pVdHoyTDBtRU9MZEhHa0xtbmpodmdxaHdrdEs5eFZ6RkxFNjVfVkRoLUxoSzlCWGNNb0t5RXVfR000TVZ3RzZWZC1iZGs2cjJ1cDA0a1VwVUFsenNxXzJzbE1ZcHlETWpVX05kLXJuM2FfSk84UVBlTUkzNFMxQ2NUR3lRaGQ0S212TDNXR2NOemtfQUdyNWdySGx2VndqU24zdVV3QnJLY2VRQ2UtZHFmLXZVREJISF84N09UY2lzbGdjTkNHU0VBMkxB?oc=5",
     "difficulty": "News"
   },
   {
@@ -117,18 +141,6 @@
     "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50YmZVeUdMSkFxT3ZJTE50UzhKVEJ5Zm43TTNvNFNMUHBOaldmcVFFWDhkZDJ4aXg3YkxSb182RUZIeVlYZzBFUU5sWXpHV29sN2w5VTlNaGpHbGpVR0RzOUZnZklyc2o0MnpFU2E4N0RWUHJRamc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 11, 02:39 PM ET",
-    "publishedAt": "2026-06-11T18:39:15+00:00",
-    "source": "Mshale",
-    "title": "NEW Gemini Features Explained — How To Use Google’s Latest AI Upgrade Atlas Fc (jIRe3sLw5k)",
-    "summary": "Mshale is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WYzZfdkZvZnJvTlhqM2lqdVB6WExDRDlhMWo1UHBuVjlBbVdaWndSRUJjNnNXT1FoSTYwQnRDWkVRTDlRZDEwdkRYSUNTcFlSU2VkczZ3MVNpWE0?oc=5",
     "difficulty": "News"
   },
   {
@@ -182,13 +194,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 10, 05:19 AM ET",
-    "publishedAt": "2026-06-10T09:19:26+00:00",
-    "source": "OpenAI",
-    "title": "From data to decisions: how LSEG is scaling trusted AI",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "time": "Jun 10, 02:02 PM ET",
+    "publishedAt": "2026-06-10T18:02:36+00:00",
+    "source": "Digiday",
+    "title": "OpenAI’s ChatGPT ads get its first conversion API partner in LiveRamp",
+    "summary": "Digiday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Yb1BlMUdZSUpjNVNmZ0dtbU4zWGt1aGw0M0FKLWlkYUlNNHZnQ1pPaVl6RWNwdDdLMkl6SW1jeC11VGJv?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUtfSERxN2t2OUxEeTJQMFZqbnIzMjMzTUtRTGJ0Nl8td2U1UUtFbnJoT21TazZGcUYzQVo3ZHR4VUYzOEx5d0FNMWRnQlV3cGJ0Rno4M0lHaHhubUJfeEZUUEJNcUlVdkRDd3ZPbnZBdVE5MlFiYTVlQzg1cHJQanVtNXQxVHA5V3NveEFxNGJpTE1WdTZUelVqV2Y5RG8?oc=5",
     "difficulty": "News"
   },
   {
@@ -218,8 +230,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 09, 01:08 PM ET",
-    "publishedAt": "2026-06-09T17:08:42+00:00",
+    "time": "Jun 09, 01:09 PM ET",
+    "publishedAt": "2026-06-09T17:09:02+00:00",
     "source": "Anthropic",
     "title": "Claude Fable 5 and Claude Mythos 5",
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
@@ -264,18 +276,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 06, 03:47 AM ET",
-    "publishedAt": "2026-06-06T07:47:18+00:00",
-    "source": "Fathom Journal",
-    "title": "Replace OpenAI API With Local Models: Ollama + LiteLLM, Text Gen Webui, Google Colab (W7bVqSuebo)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IeU9QVzhYUnFDWkZyN0RsS0s1ekl6S0VId3RWcnVnRkNjVThHa1k1LVJKQjdMaktURVVWZTZETVRPM2hoOGsxUmxKUVRyeHNLWE1SVWVRUHV1MEZvdER6Zjl0Qm85NlhCYVJDRF9UZS0?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 05, 03:00 AM ET",
@@ -285,18 +285,6 @@
     "summary": "Microsoft is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREJ4Wm45a0lId2d5MUxEOHdRWldESTBfVUZWNFdzMWozbGpLVFVNaEVIV0JlZUFBU0ZjMmFCeWNMazVuM1BsNUx2Z3VlajhHQURuR3cyNDd0LTY5YVJsVGpOU0E1RmtsZmVyb1JyOEgyQmNCeFJZT3U5bTBPSlZuNmdtdm10bzNwSmhyMmNLNkRrUU5EYVRxVG1McjVJSmNqZTBTb0dmRk15UlJtOWFubl9TTFRMUnJmQm5MTg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 29, 03:00 AM ET",
-    "publishedAt": "2026-05-29T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Introducing Gemini Omni",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWlaMUVtdkx6SklzdmNOYnZibDJSak96Mi0zZXhoUVdsamQ2M1VIeEUtcTdWVVJrV09PcTRPWVFCQzlzSW5RUzM1Ui1FRmJtR1N2aVNkeWtEM192TDcxUFhxNGN5MGhpYjk0aEJJdWJrcDlUNG1mQ2xodS1YNXEtVUxPSnpWNGVjZlpwXw?oc=5",
     "difficulty": "News"
   },
   {
@@ -324,18 +312,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 24, 03:00 AM ET",
-    "publishedAt": "2026-05-24T07:00:00+00:00",
-    "source": "AI: Reset to Zero",
-    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "May 21, 03:00 AM ET",
@@ -360,6 +336,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 19, 01:42 PM ET",
+    "publishedAt": "2026-05-19T17:42:03+00:00",
+    "source": "Mashable",
+    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 19, 03:00 AM ET",
@@ -381,6 +369,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnNNT1ZqbDBUd0RZUGNralNNbktJNjk1aGgzV0NSVkhRTXlhUjg2clE5dXVQd0pYME1Iekh4N0NORGoteTJhVS16QzNNT0Z5d3FIYVo5RWlyM1ZaNlpPdUtibTcwZy16SjJOZFRnQkZpZFZxYUZDTXZoSTZzQllRSWoxa0hieGRvTnFBTy1PeS1GYzdLczFV?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
