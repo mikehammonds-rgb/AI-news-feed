@@ -1,5 +1,53 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 12:50 PM ET",
+    "publishedAt": "2026-06-16T16:50:30+00:00",
+    "source": "WinBuzzer",
+    "title": "SpaceX Wants to Buy Cursor for $60B to Boost xAI in AI Coding Race",
+    "summary": "WinBuzzer is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMFE0THF0ZE8zWldGMEFjTHQxNXNVejZIZnNtN0JtYWZEZ1ZuaF9MUEtST2syUUpkQjJzNjZTejZENHBSM3JXUW1mRThwNDkyNFhaa3N0UmswZWZ0MElJa2ZPbHdmbzUydFJKY2dZWTd4UVZJVEpxLUowRjBuTFIwajAzczhXdUxfWVZCM2EzLTcxeGhGQ2c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 12:02 PM ET",
+    "publishedAt": "2026-06-16T16:02:00+00:00",
+    "source": "WSJ",
+    "title": "SpaceX Agrees to Buy AI Coding Agent Cursor for $60 Billion",
+    "summary": "WSJ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnRzaGtTRlBIX3JLenZhbjJzVm1pYVRPYWIxeVJRQlIxLXdLMjc0bV9DczV0VzFScWVreGdQcjl3dWRCdWxIbV92Q1RYU0VtUTFPUEZnR1htTGQzOXJsYnM0WS04aVY4RlNrcUJQVFg3N3pfYUpxRWN2MEE0bVBkMV9XS0FCdzhtN18yaHdDUGdXeW1BWFZfZnlWcGs?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 16, 10:33 AM ET",
+    "publishedAt": "2026-06-16T14:33:44+00:00",
+    "source": "Fathom Journal",
+    "title": "How Anthropic Uses Claude In GTM Engineering Trossard Wife (2lSQWrDode)",
+    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrSDA5NjNIakE4dVVlRXAxYnBSTXZyYkJVd1JWVGdiTkJQVThzZDNrOVdxdVE3cTlTOHhzN1VWeWkwbjZFbnBjUUdlZ0Naa2dVSjFTZHZ1aGtPTVNvU0JZaFo0eC0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 09:12 AM ET",
+    "publishedAt": "2026-06-16T13:12:00+00:00",
+    "source": "Fortune",
+    "title": "Cursor’s 25-year-old CEO is a former Google intern who just cemented a $60 billion deal with SpaceX",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZktJVndsV2FBbHdaUUF4YklwVWhnUW5RR0lBNzBleFBEOUR4NEcxTWJtc3RjVzVDZGlmdWk1c0VpR2xLRTAtTTNSS1dRVjdrVkVJUUtFOG53NG9rSXJ1OHlBR1hVX0gwbEVqS3ZEUlAyYXB5OVBrdE03M1hXZTY0ZEhTTVpoUUE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 16, 08:11 AM ET",
@@ -24,6 +72,30 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 07:44 AM ET",
+    "publishedAt": "2026-06-16T11:44:24+00:00",
+    "source": "NDTV Profit",
+    "title": "SpaceX Expands AI Push With $60 Billion Acquisition Of Coding Agent Operator Cursor",
+    "summary": "NDTV Profit is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRDhFem5Ma205eURtV002LVk5T0JHSUhCaWFHbF9KdjM0MzJvZTJ5Vm5yYWxfU0RDYXVxWjFmTUNIQU5xTFlXQ1F1ak9JWG5VMmRoODY4RjJrbExTSHFPdEtRN2JsZ0llTTdlcjlpTVVRdmlUWXNFbzFiZ0pnSGUxWDNtYVZJWDh0a2RGVXQ1Uk1NRnd2aXFJQVc5eGFuSy0yUlB3YlNBZVZIQy1wX0k3SUZYMWJ0YkdTTWg5VmV5SDdLVWFzaVHSAc4BQVVfeXFMUDlxUDljZ1Z4ZmllUFFDUHoxZjR3dW1kYURNRHFXVFJlQjBkWUVMZEZ0MnJDXzlzbDJLdGZiVDVVMHpRUFFNVmItNlVIQm5CSEJuUEpOUndVZmZUWExJOE1DY2x0WnBfUldXbGxYU2w5Szk5UnlYeE02enFvTDVoYlhlVEg2UVVHOTRaTzhyNzB2T285Q3R4cGpBRmZPQ1Z6NXkzcEFRd2lsbHpsNmRwcjdXc1Z5RmZ6bUdvOEdZdG8wMFlFSGNjS1BUVGp4Smc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 16, 06:33 AM ET",
+    "publishedAt": "2026-06-16T10:33:34+00:00",
+    "source": "saastr.com",
+    "title": "Why It’s So Hard for Older B2B Leaders to Compete in AI: Your Customers Can Do A Lot in Claude for $20-$200/Month. And You’re Paying $1.00 Per API Call For the Good Stuff.",
+    "summary": "saastr.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcWNWaHItQzJlZ0U2NXVkZTdzd18yTUJDb2RoZzN2clJ4YjNORFBFZE9IWm9TS2E5Rmh6cVRhRUVlZThuQm05elAtTWlfa05ETnlmRnplZmprWnJESjZKZzR2M0xGWmpPQmdWMlNtZFV4anFmMEhYRjFmVjJacWRmYXdPOG9xLW1aSVZTb0VJazFrcjhqMU92ajJhc255ekFMSVZMblNnMjBiMGFVcmFmenpqUGtGSktMYnU5S25KQ3Ftd2Q4OEFPZF9ndlAxaURmYXhhR19KMTJyR2VaVENhMmNaSE5GQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 16, 04:50 AM ET",
@@ -38,25 +110,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 16, 03:22 AM ET",
-    "publishedAt": "2026-06-16T07:22:13+00:00",
-    "source": "Social Samosa",
-    "title": "Punt Panther's ShelfRadar joins Anthropic's Claude Partner Network",
-    "summary": "Social Samosa is reporting this update. Open the article for the full story.",
+    "time": "Jun 15, 05:03 PM ET",
+    "publishedAt": "2026-06-15T21:03:00+00:00",
+    "source": "CNET",
+    "title": "Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHRuWG5pU0hOQUFqc1d4ZlFzRi1sNFFJVGdGeU9WU3ExTlV1QXdGYUp0OF9IY0N4RV9hVFMyRVpyUThXQTg4TjVMaE9iLUZUNDJyT3hXT2JWTE40bTlaWllfalFFa2NQd3N1bVhOMGFSNmtTMG1RTzhtVG1HZWpaX1Zyb2Y0UkRsRlpVMkFZMDVjaEZ3bGRVMHNMVzYxOWdjQnFjeHFUYlBQV1BaU0tZNdIBsAFBVV95cUxPeHRuWG5pU0hOQUFqc1d4ZlFzRi1sNFFJVGdGeU9WU3ExTlV1QXdGYUp0OF9IY0N4RV9hVFMyRVpyUThXQTg4TjVMaE9iLUZUNDJyT3hXT2JWTE40bTlaWllfalFFa2NQd3N1bVhOMGFSNmtTMG1RTzhtVG1HZWpaX1Zyb2Y0UkRsRlpVMkFZMDVjaEZ3bGRVMHNMVzYxOWdjQnFjeHFUYlBQV1BaU0tZNQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 15, 05:01 PM ET",
-    "publishedAt": "2026-06-15T21:01:57+00:00",
-    "source": "StartupHub.ai",
-    "title": "GitHub Copilot CLI: Slash Commands Explained",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXBlQm5mcWQ0MTUwSEJ0b1hobEoxWHNhWlBYMUpZMWd3eDU2M1ltdFhKbklmNVNzSWYwY2VwbV9TUjBnWHN0ajBhY280V2o5czQ5RlRGdmdlN0hIM2ZSekdteXlWT1BTOHg2QlVjVENnZU80eVd3TVJoZU1mek1oY1ZnSEJ5OTl1clVNdFlTQi1FTkd2b2MySA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5",
     "difficulty": "News"
   },
   {
@@ -81,6 +141,18 @@
     "summary": "infoq.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KZ2dYRkVybk1YWUJCQllMOW53U2NCMlhkRFo4cHVjYXB1SUVVZzVDcXo4OEgtUVBQXzd2TTVHT2JKQzFnZGdfMklQWWdQTExxM0gya0NHUHN5dW9XSTZJaFpB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 14, 09:04 PM ET",
+    "publishedAt": "2026-06-15T01:04:53+00:00",
+    "source": "MarkTechPost",
+    "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn?oc=5",
     "difficulty": "News"
   },
   {
@@ -117,18 +189,6 @@
     "summary": "Tom's Hardware is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNX2N2c2MzQ21zcldHZFFMV3BNS0p6eUROSGlDc3NNcEFwbUUzaHVrVm1fSzh3bDV0MkZva1RkU0dZbEU0ekxxVW9RYlpVX1VlQmpGUWtwWXJWQ2ZwbTdwWU91X01xT3pob1EySG5IaV9ZVldUZ1hjdkJrQ0c3SUJaSXRTZVhYeDFJc3o3dU1GX1YzV2ktbmVHeURWdUd5WkFqeVAwS0R4MGMtR1lJb0JsZ1laeVJzS2Q2SGFoYV8tbUcteWhDcWxKX0JVX1dsTGhURFk4X0VPQTY5cVowOGhMSHIyVlk1ZlJHX1J0UlhCRmhfNGFCNDhQNlZyanpWVFFXdWNrUjBiM09UM2VCcGc2Sw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 12, 05:06 PM ET",
-    "publishedAt": "2026-06-12T21:06:19+00:00",
-    "source": "trendmicro.com",
-    "title": "Governing Claude Enterprise in Environments Where Inline Controls Can't Go",
-    "summary": "trendmicro.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2dVYlBEUWpCOFlXSEVkX2lVbXJYZWNrYUJpUW11dnBJdTJueVdQU1JjZFVjd3RWcVBTZlk0UHRlcFNvNHUwMFFjMV9HTVVKczNGSUVmOWtDeXczYTRBZlpzdGowS2pLOVZmTlN5QlpMaVpXUU5JY3gyZi1lV2JKeDljQ1Axdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 10, 05:35 PM ET",
-    "publishedAt": "2026-06-10T21:35:43+00:00",
-    "source": "JD Supra",
-    "title": "When the worm targets the assistant: Miasma turns AI coding agents into the trigger",
-    "summary": "JD Supra is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT1U5cFVIQXBsMEJFU1hFbmFuVlJ5X0V6dERsbUtNWXJYV1Vub0N6QWYxemhHNnBMLXpmR1ZRb3JlUmlza3BXbFhod0dqVC1QXy1heXYzWEUtc1VzRlFCQnVBNHRlX2Q4c2cyUlk0WXVOSEMyT3hBRm1od3F6NkZNUjF3cmE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 10, 02:02 PM ET",
@@ -201,18 +249,6 @@
     "summary": "Digiday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUtfSERxN2t2OUxEeTJQMFZqbnIzMjMzTUtRTGJ0Nl8td2U1UUtFbnJoT21TazZGcUYzQVo3ZHR4VUYzOEx5d0FNMWRnQlV3cGJ0Rno4M0lHaHhubUJfeEZUUEJNcUlVdkRDd3ZPbnZBdVE5MlFiYTVlQzg1cHJQanVtNXQxVHA5V3NveEFxNGJpTE1WdTZUelVqV2Y5RG8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 09, 05:08 PM ET",
-    "publishedAt": "2026-06-09T21:08:53+00:00",
-    "source": "saastr.com",
-    "title": "Why It’s So Hard for Older B2B Leaders to Compete in AI: Your Customers Can Do A Lot in Claude for $20-$200/Month. And You’re Paying $1.00 Per API Call For the Good Stuff.",
-    "summary": "saastr.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcWNWaHItQzJlZ0U2NXVkZTdzd18yTUJDb2RoZzN2clJ4YjNORFBFZE9IWm9TS2E5Rmh6cVRhRUVlZThuQm05elAtTWlfa05ETnlmRnplZmprWnJESjZKZzR2M0xGWmpPQmdWMlNtZFV4anFmMEhYRjFmVjJacWRmYXdPOG9xLW1aSVZTb0VJazFrcjhqMU92ajJhc255ekFMSVZMblNnMjBiMGFVcmFmenpqUGtGSktMYnU5S25KQ3Ftd2Q4OEFPZF9ndlAxaURmYXhhR19KMTJyR2VaVENhMmNaSE5GQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,30 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 09, 11:15 AM ET",
-    "publishedAt": "2026-06-09T15:15:10+00:00",
-    "source": "blog.google",
-    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYmE4REJXdHJpTzA0SVhCY3NMeTZTdGlGeVMtQUYtMFR4WnNKMWp2ZzM4Zi10UTREdGd3dzJ4X1dKN2hIWVZObkw4ZkdQX2tVdnMwRERfU0g3WG9kcGJNNUlmaDhzVER4VE9QQkJENXI2N0NhcnVCNFlpcEViNloyWG83UGlCdDFFaGt2bV9zLTdSZHBSUEUxb2xzeXE4SnM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 09, 10:08 AM ET",
-    "publishedAt": "2026-06-09T14:08:05+00:00",
-    "source": "Visual Studio Magazine",
-    "title": "Mastering AI Development and Building AI Apps with GitHub Copilot",
-    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHB4Ymc5WWJyOGJndmt5NzBTZTdFME9PcG1jUUkzYmFwVUFiRmJON1U1MVNRQXEyeS1YWWtaeV9CdV9QUzZhbmtxaUtyekFkNVFLUDZPRWVlYU1LWWtOelV6bXF3QklLZmpzeVhMZndNVm1ybWJCUEUwUHYyYnYwRk03aFByZTVpVVB3eFJnOVdfQ0pqV3ZqYTJBUlV0cERyOG9BaWRHZG9fUnlZb1Y4SFg4R0xmcG1MU19SOFg0TFU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 08, 10:00 AM ET",
@@ -261,18 +273,6 @@
     "summary": "Hackaday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU5BWjUzUHdHT1UyQmhkS2RnTTJMR2NhTmpnX0xpX1dmTXRVRVdST1FzY2tLVkI5SmZyVUJ3MFgyVW9CMHk5enlxTmphMk9oeHd5cEgzOFl1NmZrVURMTzl2cllXeEpoOVR5Y3ZfRzNaYURpQXpJYl93N1dHX3NXRlBlRkJub3M3MUhjT2NXaWR3ejRWTzZHTFRIYzY4ZWpoNlk0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 05, 03:00 AM ET",
-    "publishedAt": "2026-06-05T07:00:00+00:00",
-    "source": "Microsoft",
-    "title": "Securing CI/CD in an agentic world: Claude Code Github action case",
-    "summary": "Microsoft is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREJ4Wm45a0lId2d5MUxEOHdRWldESTBfVUZWNFdzMWozbGpLVFVNaEVIV0JlZUFBU0ZjMmFCeWNMazVuM1BsNUx2Z3VlajhHQURuR3cyNDd0LTY5YVJsVGpOU0E1RmtsZmVyb1JyOEgyQmNCeFJZT3U5bTBPSlZuNmdtdm10bzNwSmhyMmNLNkRrUU5EYVRxVG1McjVJSmNqZTBTb0dmRk15UlJtOWFubl9TTFRMUnJmQm5MTg?oc=5",
     "difficulty": "News"
   },
   {
@@ -290,6 +290,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "May 29, 03:00 AM ET",
+    "publishedAt": "2026-05-29T07:00:00+00:00",
+    "source": "blog.google",
+    "title": "Introducing Gemini Omni",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWlaMUVtdkx6SklzdmNOYnZibDJSak96Mi0zZXhoUVdsamQ2M1VIeEUtcTdWVVJrV09PcTRPWVFCQzlzSW5RUzM1Ui1FRmJtR1N2aVNkeWtEM192TDcxUFhxNGN5MGhpYjk0aEJJdWJrcDlUNG1mQ2xodS1YNXEtVUxPSnpWNGVjZlpwXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "May 25, 03:00 AM ET",
     "publishedAt": "2026-05-25T07:00:00+00:00",
     "source": "9to5Google",
@@ -297,18 +309,6 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMERrMmhzSy1vOFdvSS1XaTAxeVZrSUNmYVgzbV92cE1Jal9fY2ljQmVqMXlRQXVZcm1jSWZNQTV6Qkw1M1BYTVN0YzhCejk3QzFKOHZQZEZPQzBuMml2elBKZkpYal9MLUMyR29xZEdsNHp0dHFhVnRHSl9QXzIyRw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 24, 03:00 AM ET",
-    "publishedAt": "2026-05-24T07:00:00+00:00",
-    "source": "AI: Reset to Zero",
-    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   },
   {
