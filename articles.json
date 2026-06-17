@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 17, 03:00 AM ET",
+    "publishedAt": "2026-06-17T07:00:00+00:00",
+    "source": "IT Pro",
+    "title": "Here's how small businesses are actually using AI, according to Google",
+    "summary": "IT Pro is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQWp4N01kWGtjYVNldGlKc2dwQjV2YkRvYTBHa003cGRPOGJhUkU1TGlyR3VnRjBlTGxwWWNZejE0dWJOWUJQN1R0V1YwZVNPYXJaeDNaX1FyZUI4MzlqRks4aFlZdGhjVkxsV25kZ2JuUDZGOHp6QncyYVRNNWZMVkFjekR1dlpsQkxKcmdzeXhFd2dsRGRDdkxqZDg3NDJNNWFlbTR6em1ZRHEzOGxSNHFkek9mZ3JVc1JPbVVFY2lqYmc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 16, 06:35 PM ET",
@@ -50,6 +62,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Jun 16, 12:50 PM ET",
+    "publishedAt": "2026-06-16T16:50:30+00:00",
+    "source": "WinBuzzer",
+    "title": "SpaceX Wants to Buy Cursor for $60B to Boost xAI in AI Coding Race",
+    "summary": "WinBuzzer is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMFE0THF0ZE8zWldGMEFjTHQxNXNVejZIZnNtN0JtYWZEZ1ZuaF9MUEtST2syUUpkQjJzNjZTejZENHBSM3JXUW1mRThwNDkyNFhaa3N0UmswZWZ0MElJa2ZPbHdmbzUydFJKY2dZWTd4UVZJVEpxLUowRjBuTFIwajAzczhXdUxfWVZCM2EzLTcxeGhGQ2c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Jun 16, 12:02 PM ET",
     "publishedAt": "2026-06-16T16:02:00+00:00",
     "source": "WSJ",
@@ -81,18 +105,6 @@
     "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrSDA5NjNIakE4dVVlRXAxYnBSTXZyYkJVd1JWVGdiTkJQVThzZDNrOVdxdVE3cTlTOHhzN1VWeWkwbjZFbnBjUUdlZ0Naa2dVSjFTZHZ1aGtPTVNvU0JZaFo0eC0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 16, 09:12 AM ET",
-    "publishedAt": "2026-06-16T13:12:00+00:00",
-    "source": "Fortune",
-    "title": "Cursor’s 25-year-old CEO is a former Google intern who just cemented a $60 billion deal with SpaceX",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZktJVndsV2FBbHdaUUF4YklwVWhnUW5RR0lBNzBleFBEOUR4NEcxTWJtc3RjVzVDZGlmdWk1c0VpR2xLRTAtTTNSS1dRVjdrVkVJUUtFOG53NG9rSXJ1OHlBR1hVX0gwbEVqS3ZEUlAyYXB5OVBrdE03M1hXZTY0ZEhTTVpoUUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -242,8 +254,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 09, 01:09 PM ET",
-    "publishedAt": "2026-06-09T17:09:02+00:00",
+    "time": "Jun 09, 03:00 AM ET",
+    "publishedAt": "2026-06-09T07:00:00+00:00",
     "source": "Anthropic",
     "title": "Claude Fable 5 and Claude Mythos 5",
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
@@ -266,13 +278,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 04, 03:00 AM ET",
-    "publishedAt": "2026-06-04T07:00:00+00:00",
-    "source": "AppleInsider",
-    "title": "Run Google's Gemini LLMs right on your Mac with the new AI Edge Gallery",
-    "summary": "AppleInsider is reporting this update. Open the article for the full story.",
+    "time": "Jun 03, 03:00 AM ET",
+    "publishedAt": "2026-06-03T07:00:00+00:00",
+    "source": "9to5Mac",
+    "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally",
+    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQy14U2VWbmxwRWhLZ1hsNXdXSzJhT0EwS3A5MmlETXdGU1BQeXJoRkt0YXQ2TmdjWW9ZRmdHUkc4QjJiSElBa1ZnOTk5YjFuWHduZEYtRjAxcWxQbVA3YTh2QnM4Zmw1MFgwLXhDN1FoSUcwMGVIMG85bFJUTVpBMGg2OVMtZG03Vlh3SEEzMTJ5U1lDM2xJUk1fbzg0RGFOTU9fUzcyWXBRdHVFSFVnUm5sRQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZJRUxZUTdyTWFTTE51anU1NE9uTFQzZEdMNWQzdzk3anV1eHcyYWo0TkF0bU0zaEpBQ0VNWHRTa1d5M2RrdFBaNkNQWEgxMW5VNk9BSEVvZ2xFVVdLMThXZUJ4a3dUSHYxM3ZTalJFY2VHOEdwSUgwc3FkbWttcWwxdF9uMmZjb0FkVGxPTVk2Q2h2SzRFbWtBZFBTak9NNWRaMnF3X2hOMTFwMzhPTEZyb0pqVVU?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,18 +324,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 21, 03:00 AM ET",
-    "publishedAt": "2026-05-21T07:00:00+00:00",
-    "source": "The Verge",
-    "title": "I can’t believe how fast Google vibe coded my first Android app",
-    "summary": "The Verge is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVBIN1d1a2ZPSDVHNmhPXy1QeXIxcTZVS2lFXy1zQmdJcVFOaWg0QmM0eW1HQlFOYlV6Z3doS1lwSXBlMFBqYlFRXzRVanNLVUFOTWpzSjV3SXVTX0NqdTdwdjhyd0J0UzRpRVVzSXBva05ILWV6cXR4UFZrS3pqcHFtSjZXcmNtRDJqYlU4cXdqUVVvRXpHSWExMHltQnk2YTZtNkxLMlVrQXFhYi1BRFNB?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "May 20, 03:00 AM ET",
@@ -336,6 +336,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 19, 01:42 PM ET",
+    "publishedAt": "2026-05-19T17:42:03+00:00",
+    "source": "Mashable",
+    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 19, 03:00 AM ET",
@@ -345,18 +357,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 19, 03:00 AM ET",
-    "publishedAt": "2026-05-19T07:00:00+00:00",
-    "source": "Mashable",
-    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
     "difficulty": "News"
   },
   {
