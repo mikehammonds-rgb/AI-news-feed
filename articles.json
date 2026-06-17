@@ -1,5 +1,29 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 17, 06:02 PM ET",
+    "publishedAt": "2026-06-17T22:02:18+00:00",
+    "source": "The National Law Review",
+    "title": "AI Company Anthropic Suspends Access to Claude Fable 5, Claude Mythos 5 Following US Export Control Directive",
+    "summary": "The National Law Review is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2VvX1ZJMXpQNmYxdi1jUk11c0ZwdC1jelZlQ1Q2TVpLbVVBOUJQbjZqcFFJNjllUUVMQUNVRXlDNXVVcUVIVm5hME9DaFkxM2xUSk10eG8wTW03MTFaT0tVanFQQjlfQmhyVjZqbWxpSzdocmo5aTFtdzctMVl1dWk0T3FlU1RORkpsaHBNYVV2ZGRwQWIyYmhkUzJkenFBdGZjTHhhSXItaldXblBhc0NZNNIBuAFBVV95cUxPRFRwVjdJQTllWUtjbjhnLWhFY2J3emVKY1ZVVjYzajhXUEJUUGs2dE1ZM2hhbmFHNG9QYlphOThIZVFUQ0xha3NDN0hFdFN0MGdhXzA0dHJRc0tYUDlEVnJKQTF3X3VIblFlaDNPWG11SjVRTHdVMW1qSmkzRDlFbWtQMGJuQ1cyemoydzVkM1JTbUM2M2F1OGprV3JKYkhPZGRkTHhSemNZcDNvMFdKUXhsdG43dE55?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 17, 11:06 AM ET",
+    "publishedAt": "2026-06-17T15:06:01+00:00",
+    "source": "Augment Code",
+    "title": "AI SDLC Tools: Platform vs Point Solutions",
+    "summary": "Augment Code is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc2VVQk0xUEl6clA0YkN4cWlGNk9oVGxoM3NGTWpZQWNIQTJaVkRiVmMyUC1oLUNJcE1JRnJraWM3cjVpbUtmMUp1OEw5bmc1THZCbmVHemJFNUxqczJEX3FNb1Bod0ZlX1B1cVhKWDVDVVBFbGs5eHRHS2tpRFhJRVZ3?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 17, 10:04 AM ET",
@@ -96,18 +120,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 16, 04:01 PM ET",
-    "publishedAt": "2026-06-16T20:01:48+00:00",
-    "source": "Billionaires.Africa",
-    "title": "Elon Musk's SpaceX just bought AI coding startup Cursor for $60 billion and its stock hit $211 a share",
-    "summary": "Billionaires.Africa is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYjY0aTNyakNfTGRIbzNIczJTYWdUQzJJMnF4enJlUm4zQTFvdTBkaERyVVFWZVNpbDVxcE4xNzRfb2pKTTQ3Q1NfVEc5TklZZzktZlRnNVN0cDFhMlpPNkh2ME1XdjZFRE9mb0RmeW9xalRHYmdOZllYbGJSUVdRSlc2XzdTZUhnQ3p2aXZmQ1d3WThoYnFmblRTNnNiZ1BsV0dvdTJOdk42TUdEcXpSTWVyOU0zR3RqdlVoVXRUTTJwemFqTm9teTR6LWdxOFBBQ3VTdEVmcmc1cXc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 16, 03:43 PM ET",
@@ -129,6 +141,18 @@
     "summary": "WSJ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnRzaGtTRlBIX3JLenZhbjJzVm1pYVRPYWIxeVJRQlIxLXdLMjc0bV9DczV0VzFScWVreGdQcjl3dWRCdWxIbV92Q1RYU0VtUTFPUEZnR1htTGQzOXJsYnM0WS04aVY4RlNrcUJQVFg3N3pfYUpxRWN2MEE0bVBkMV9XS0FCdzhtN18yaHdDUGdXeW1BWFZfZnlWcGs?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 10:52 AM ET",
+    "publishedAt": "2026-06-16T14:52:06+00:00",
+    "source": "Reuters",
+    "title": "SpaceX locks in $60 billion Cursor deal to close gap with rivals in AI coding race",
+    "summary": "Reuters is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmxuTnhpZnhfWk9xMXRkVFVNeXBjXzZSRmZRakJpR0RzZnBxOWFfMk40NW1yaXBvTlBQY2FhbG1wY0w4d0wyRFhIOUhjSlF5VW5Fc3pwZ2xRaERESmhmWGp0UE4yT1l2d0M2N2R2UTlLRGFYSkczc2wxcWxCSU1TMzhleHJMR2pKSjcydDRGMHE?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 14, 09:04 PM ET",
-    "publishedAt": "2026-06-15T01:04:53+00:00",
-    "source": "MarkTechPost",
-    "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 14, 01:33 PM ET",
@@ -288,6 +300,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 08, 03:00 AM ET",
+    "publishedAt": "2026-06-08T07:00:00+00:00",
+    "source": "Hackaday",
+    "title": "Revisiting Using AI Coding Assistants: You’re Holding It Wrong Edition",
+    "summary": "Hackaday is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU5BWjUzUHdHT1UyQmhkS2RnTTJMR2NhTmpnX0xpX1dmTXRVRVdST1FzY2tLVkI5SmZyVUJ3MFgyVW9CMHk5enlxTmphMk9oeHd5cEgzOFl1NmZrVURMTzl2cllXeEpoOVR5Y3ZfRzNaYURpQXpJYl93N1dHX3NXRlBlRkJub3M3MUhjT2NXaWR3ejRWTzZHTFRIYzY4ZWpoNlk0?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 03, 03:00 AM ET",
@@ -312,18 +336,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 29, 03:00 AM ET",
-    "publishedAt": "2026-05-29T07:00:00+00:00",
-    "source": "Fortune",
-    "title": "Exclusive: Microsoft is building a super app that combines coding, chat, and other Copilot AI tools",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "May 25, 03:00 AM ET",
@@ -333,18 +345,6 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMERrMmhzSy1vOFdvSS1XaTAxeVZrSUNmYVgzbV92cE1Jal9fY2ljQmVqMXlRQXVZcm1jSWZNQTV6Qkw1M1BYTVN0YzhCejk3QzFKOHZQZEZPQzBuMml2elBKZkpYal9MLUMyR29xZEdsNHp0dHFhVnRHSl9QXzIyRw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 24, 03:00 AM ET",
-    "publishedAt": "2026-05-24T07:00:00+00:00",
-    "source": "AI: Reset to Zero",
-    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   },
   {
