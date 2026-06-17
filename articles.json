@@ -1,5 +1,29 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 17, 06:59 AM ET",
+    "publishedAt": "2026-06-17T10:59:00+00:00",
+    "source": "gHacks",
+    "title": "SpaceX Acquires AI Coding Startup Anysphere, Maker of Cursor, in $60 Billion All-Stock Deal",
+    "summary": "gHacks is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSXVOeUtTVzZJMDRWN0Q2YUVUSTJxLVFweU5ZQlRJM1k5ZExndTBQVl9zU2dZcGR6TDhBOW1RenBWbHFhS2lCSnBtYXdwMWJJR0MtR01vX1dFRDkwcGIzV2JYR1N0T0h4c0F6Mlpub1ZwUmVLRmZESVBOUVR3bEJVQ0lBYjdnNVBHYlVpX01zamwwUk1OcHlGSFFZRmt5OE5kNFo1WWpZMlhTMHU3dzhnTFFxdnNLVUgyajNvWEQ2SFY?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 17, 04:18 AM ET",
+    "publishedAt": "2026-06-17T08:18:32+00:00",
+    "source": "Hackread",
+    "title": "15 Malicious JetBrains Plugins Caught Stealing DeepSeek, OpenAI API Keys",
+    "summary": "Hackread is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSXNQdXdIcWlFcXlmc080UzY3cXhibWp6TG9KLW5obXVzVXp3WnEtaGpaa3Y1NkpuWTljZm1HVlBLWURIRGZNWUhUY3A3WU8xa1NNTm9NZTBtNUVMNDhjdHk2NUR2dGMyOW9pTW9kZDBSMXlfRFJYX1VjS1k4R3ZZaUx2b2NxMjA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 17, 03:00 AM ET",
@@ -62,18 +86,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 16, 12:50 PM ET",
-    "publishedAt": "2026-06-16T16:50:30+00:00",
-    "source": "WinBuzzer",
-    "title": "SpaceX Wants to Buy Cursor for $60B to Boost xAI in AI Coding Race",
-    "summary": "WinBuzzer is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMFE0THF0ZE8zWldGMEFjTHQxNXNVejZIZnNtN0JtYWZEZ1ZuaF9MUEtST2syUUpkQjJzNjZTejZENHBSM3JXUW1mRThwNDkyNFhaa3N0UmswZWZ0MElJa2ZPbHdmbzUydFJKY2dZWTd4UVZJVEpxLUowRjBuTFIwajAzczhXdUxfWVZCM2EzLTcxeGhGQ2c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Jun 16, 12:02 PM ET",
     "publishedAt": "2026-06-16T16:02:00+00:00",
     "source": "WSJ",
@@ -93,18 +105,6 @@
     "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmxuTnhpZnhfWk9xMXRkVFVNeXBjXzZSRmZRakJpR0RzZnBxOWFfMk40NW1yaXBvTlBQY2FhbG1wY0w4d0wyRFhIOUhjSlF5VW5Fc3pwZ2xRaERESmhmWGp0UE4yT1l2d0M2N2R2UTlLRGFYSkczc2wxcWxCSU1TMzhleHJMR2pKSjcydDRGMHE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 16, 10:33 AM ET",
-    "publishedAt": "2026-06-16T14:33:44+00:00",
-    "source": "Fathom Journal",
-    "title": "How Anthropic Uses Claude In GTM Engineering Trossard Wife (2lSQWrDode)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrSDA5NjNIakE4dVVlRXAxYnBSTXZyYkJVd1JWVGdiTkJQVThzZDNrOVdxdVE3cTlTOHhzN1VWeWkwbjZFbnBjUUdlZ0Naa2dVSjFTZHZ1aGtPTVNvU0JZaFo0eC0?oc=5",
     "difficulty": "News"
   },
   {
@@ -170,6 +170,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 15, 06:59 AM ET",
+    "publishedAt": "2026-06-15T10:59:58+00:00",
+    "source": "O'Reilly Media",
+    "title": "Who Owns the Code Claude Wrote?",
+    "summary": "O'Reilly Media is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xY2k5ZHpHbXRYcXVuN1hRNnZxSUctLU1VMnV3NDVOM1d4d1NuWjVObUZReGk5UU9CS3ZSN0NwaG5iZ2F4X1VIc2Zja3RfRm9oQ1FWdWNlQlFDdW5ZbF9wSlRJUWFjVmg4eWlWM1Rn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 15, 01:01 AM ET",
     "publishedAt": "2026-06-15T05:01:23+00:00",
     "source": "infoq.com",
@@ -177,6 +189,18 @@
     "summary": "infoq.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KZ2dYRkVybk1YWUJCQllMOW53U2NCMlhkRFo4cHVjYXB1SUVVZzVDcXo4OEgtUVBQXzd2TTVHT2JKQzFnZGdfMklQWWdQTExxM0gya0NHUHN5dW9XSTZJaFpB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 14, 09:04 PM ET",
+    "publishedAt": "2026-06-15T01:04:53+00:00",
+    "source": "MarkTechPost",
+    "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWtsZVJ6WFNiam41bkJjOWM1d2N5U1YtNkg1U1JtNTlsd0NUYTZMWGZJM2diS1pMcDFiWUFselFaZFh5MF8tb2I2NGRHT2RvOExaWFQ0LVlwRlFkSVJMVl9SVnBRSHlKeUQ2NVU3Y1l1Sk4xUTBQelBJSVp5Nlh1V3lDTGZIZmlnNXlZUk41d01mUkdHUWVPRXJn?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,30 +237,6 @@
     "summary": "Tom's Hardware is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNX2N2c2MzQ21zcldHZFFMV3BNS0p6eUROSGlDc3NNcEFwbUUzaHVrVm1fSzh3bDV0MkZva1RkU0dZbEU0ekxxVW9RYlpVX1VlQmpGUWtwWXJWQ2ZwbTdwWU91X01xT3pob1EySG5IaV9ZVldUZ1hjdkJrQ0c3SUJaSXRTZVhYeDFJc3o3dU1GX1YzV2ktbmVHeURWdUd5WkFqeVAwS0R4MGMtR1lJb0JsZ1laeVJzS2Q2SGFoYV8tbUcteWhDcWxKX0JVX1dsTGhURFk4X0VPQTY5cVowOGhMSHIyVlk1ZlJHX1J0UlhCRmhfNGFCNDhQNlZyanpWVFFXdWNrUjBiM09UM2VCcGc2Sw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 12, 10:09 AM ET",
-    "publishedAt": "2026-06-12T14:09:27+00:00",
-    "source": "KDnuggets",
-    "title": "Pairing Claude Code with Local Models",
-    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yaXl0dU11aDEtYkk3T3hjRWEzdjRUTGNyTjQ1cWFROWRrVWhTWEFWb09XN0N6VG5UN25iT3J4ZTlUczFXVjZJVnpTb3UteGlvOHhxNHRWTWpwN2cwVUhNd21pMUY1UWZCdnJIUHVTeWM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 11, 11:35 AM ET",
-    "publishedAt": "2026-06-11T15:35:47+00:00",
-    "source": "the-decoder.com",
-    "title": "OpenAI vs. Anthropic: A price war over API tokens is brewing",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFpKbmNlVWc1UnNZbThIaThWY2dMQ1lwU3RhclE1LXY3bGx1QWR5SGVSeXNGTnFZVDkzOHRTZmc4MlNmRFZmVkF0cVJmWHNjTUdjZjBlYlluclRWakQ0Q0RnZWZOZWlOTGxfbnI5VEdEZmZIcDhabXdvTUctbGxzT0o0ZkFVejU2UzNv?oc=5",
     "difficulty": "News"
   },
   {
