@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 17, 06:34 PM ET",
+    "publishedAt": "2026-06-17T22:34:23+00:00",
+    "source": "saastr.com",
+    "title": "Why It’s So Hard for Older B2B Leaders to Compete in AI: Your Customers Can Do A Lot in Claude for $20-$200/Month. And You’re Paying $1.00 Per API Call For the Good Stuff.",
+    "summary": "saastr.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcWNWaHItQzJlZ0U2NXVkZTdzd18yTUJDb2RoZzN2clJ4YjNORFBFZE9IWm9TS2E5Rmh6cVRhRUVlZThuQm05elAtTWlfa05ETnlmRnplZmprWnJESjZKZzR2M0xGWmpPQmdWMlNtZFV4anFmMEhYRjFmVjJacWRmYXdPOG9xLW1aSVZTb0VJazFrcjhqMU92ajJhc255ekFMSVZMblNnMjBiMGFVcmFmenpqUGtGSktMYnU5S25KQ3Ftd2Q4OEFPZF9ndlAxaURmYXhhR19KMTJyR2VaVENhMmNaSE5GQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 17, 06:02 PM ET",
     "publishedAt": "2026-06-17T22:02:18+00:00",
     "source": "The National Law Review",
@@ -21,6 +33,18 @@
     "summary": "Augment Code is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc2VVQk0xUEl6clA0YkN4cWlGNk9oVGxoM3NGTWpZQWNIQTJaVkRiVmMyUC1oLUNJcE1JRnJraWM3cjVpbUtmMUp1OEw5bmc1THZCbmVHemJFNUxqczJEX3FNb1Bod0ZlX1B1cVhKWDVDVVBFbGs5eHRHS2tpRFhJRVZ3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 17, 10:04 AM ET",
+    "publishedAt": "2026-06-17T14:04:49+00:00",
+    "source": "Fathom Journal",
+    "title": "Gemini Isn’t Even The Best Part Of Google AI Score Canadien Ce Soir (NuVPjHGjc6)",
+    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ad1RpSzNIcHBXeFk0cWIxWWpOdFNEdC1aRlZTZ21tMm5aZm5oamFVZWpMUE5GZFhjZDk2TDM4SmllRTdONlZhNjJ1cU9DX3EzTkNoT3FwX2xHb18yU0E0cElkTHg1bFFXUGc?oc=5",
     "difficulty": "News"
   },
   {
@@ -170,6 +194,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Jun 15, 06:49 PM ET",
+    "publishedAt": "2026-06-15T22:49:04+00:00",
+    "source": "Visual Studio Magazine",
+    "title": "Using Local AI to Cut Copilot Usage-Based Billing Shock",
+    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaFhDMEc4QW13eWluUER6dlY3VUpvQ0h6ZFZ5a2RybkhTaDFrVFdOSVE1dXVWeFBtWEtULS1HQWFzQk1pZ3lHUGZCeGhmMURJME1FSmJoMUpmckFfOTh5VTY2SE9uTlp3UXhuRkw5VTdWUkFyRUEzaVBvb3pHOUZtQ2NyZUZTZ3U1VjdtbkJVSndmNDl4RUZVd0JRVFp4dTNYbXkwZklpb1ZITFRrTEowckZlNA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Jun 15, 10:02 AM ET",
     "publishedAt": "2026-06-15T14:02:07+00:00",
     "source": "GitGuardian Blog",
@@ -276,27 +312,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 05, 03:00 AM ET",
-    "publishedAt": "2026-06-05T07:00:00+00:00",
-    "source": "Microsoft",
-    "title": "Securing CI/CD in an agentic world: Claude Code Github action case",
-    "summary": "Microsoft is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREJ4Wm45a0lId2d5MUxEOHdRWldESTBfVUZWNFdzMWozbGpLVFVNaEVIV0JlZUFBU0ZjMmFCeWNMazVuM1BsNUx2Z3VlajhHQURuR3cyNDd0LTY5YVJsVGpOU0E1RmtsZmVyb1JyOEgyQmNCeFJZT3U5bTBPSlZuNmdtdm10bzNwSmhyMmNLNkRrUU5EYVRxVG1McjVJSmNqZTBTb0dmRk15UlJtOWFubl9TTFRMUnJmQm5MTg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 03, 03:00 AM ET",
     "publishedAt": "2026-06-03T07:00:00+00:00",
-    "source": "PCWorld",
-    "title": "I made a Gemini avatar of myself. It’s so real, it creeps me out",
-    "summary": "PCWorld is reporting this update. Open the article for the full story.",
+    "source": "9to5Mac",
+    "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally",
+    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3REbHdPWWN6VC11Wnp5TXhvOEU0V0dnbzNhUDNSUExLa3l1Ti1fb0hsenJsa2pHYXA2WWZVcEZSRXg1T1JyaWVET2FtUkhENzcxb2NHWGFNTUJ0b1h2b0hmYy1zdENfS1ZmeTZJMFFOWElYa21oWXdVSlVWc2xVaC1IUi1LOUtaWllOM3dUbE1OVTZUMUFYSWRsc1lSU3pUV2Y3R09zNmZZdw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZJRUxZUTdyTWFTTE51anU1NE9uTFQzZEdMNWQzdzk3anV1eHcyYWo0TkF0bU0zaEpBQ0VNWHRTa1d5M2RrdFBaNkNQWEgxMW5VNk9BSEVvZ2xFVVdLMThXZUJ4a3dUSHYxM3ZTalJFY2VHOEdwSUgwc3FkbWttcWwxdF9uMmZjb0FkVGxPTVk2Q2h2SzRFbWtBZFBTak9NNWRaMnF3X2hOMTFwMzhPTEZyb0pqVVU?oc=5",
     "difficulty": "News"
   },
   {
@@ -324,25 +348,13 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 21, 03:00 AM ET",
-    "publishedAt": "2026-05-21T07:00:00+00:00",
-    "source": "The Verge",
-    "title": "I can’t believe how fast Google vibe coded my first Android app",
-    "summary": "The Verge is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVBIN1d1a2ZPSDVHNmhPXy1QeXIxcTZVS2lFXy1zQmdJcVFOaWg0QmM0eW1HQlFOYlV6Z3doS1lwSXBlMFBqYlFRXzRVanNLVUFOTWpzSjV3SXVTX0NqdTdwdjhyd0J0UzRpRVVzSXBva05ILWV6cXR4UFZrS3pqcHFtSjZXcmNtRDJqYlU4cXdqUVVvRXpHSWExMHltQnk2YTZtNkxLMlVrQXFhYi1BRFNB?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "May 20, 03:00 AM ET",
     "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "Amazon Web Services",
     "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
     "difficulty": "News"
