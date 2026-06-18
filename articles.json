@@ -2,6 +2,30 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 18, 03:39 AM ET",
+    "publishedAt": "2026-06-18T07:39:01+00:00",
+    "source": "DevOps.com",
+    "title": "Anthropic Hits Pause on Claude Agent SDK Billing Change, For Now",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWlGX0RCS2hyVlN2U1llUl9JR1NYQjhzMVhZZmRrSlFNa1dQTGFxRzFVN1lmWHBPUVBwTmpqNGJfTkdWQlh0eGw4VlgtdGZ6VTdrdVFIWW1xc0ROUWwzekxNSG5WNWtabkQwUmdjOFNhUGIxamotcUNveE5FRzB3RmV0dnhfellMNHMw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 18, 03:39 AM ET",
+    "publishedAt": "2026-06-18T07:39:01+00:00",
+    "source": "Let's Data Science",
+    "title": "Anthropic Pauses Claude Agent SDK Billing Overhaul",
+    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1o0VWJoMzVlQ3dlYzc3SnpSc0RtUmZjNkp6M2QwdXhFQm5fcVQzZXFhZzFMRlVQZTc5Ty1jSkNvVnlwVXlxZDFRNlhiZnNuY2hSOVc3MnMyRUtvbE41QlhCTVBQNnJ6Q1M5UUdFbzFvclh4NXhyYUV1QjgzRzNBVXg1eXg2eHZrODd6Q3NJZWtrRlRkcGkw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 17, 06:34 PM ET",
     "publishedAt": "2026-06-17T22:34:23+00:00",
     "source": "saastr.com",
@@ -9,18 +33,6 @@
     "summary": "saastr.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcWNWaHItQzJlZ0U2NXVkZTdzd18yTUJDb2RoZzN2clJ4YjNORFBFZE9IWm9TS2E5Rmh6cVRhRUVlZThuQm05elAtTWlfa05ETnlmRnplZmprWnJESjZKZzR2M0xGWmpPQmdWMlNtZFV4anFmMEhYRjFmVjJacWRmYXdPOG9xLW1aSVZTb0VJazFrcjhqMU92ajJhc255ekFMSVZMblNnMjBiMGFVcmFmenpqUGtGSktMYnU5S25KQ3Ftd2Q4OEFPZF9ndlAxaURmYXhhR19KMTJyR2VaVENhMmNaSE5GQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 17, 06:02 PM ET",
-    "publishedAt": "2026-06-17T22:02:18+00:00",
-    "source": "The National Law Review",
-    "title": "AI Company Anthropic Suspends Access to Claude Fable 5, Claude Mythos 5 Following US Export Control Directive",
-    "summary": "The National Law Review is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2VvX1ZJMXpQNmYxdi1jUk11c0ZwdC1jelZlQ1Q2TVpLbVVBOUJQbjZqcFFJNjllUUVMQUNVRXlDNXVVcUVIVm5hME9DaFkxM2xUSk10eG8wTW03MTFaT0tVanFQQjlfQmhyVjZqbWxpSzdocmo5aTFtdzctMVl1dWk0T3FlU1RORkpsaHBNYVV2ZGRwQWIyYmhkUzJkenFBdGZjTHhhSXItaldXblBhc0NZNNIBuAFBVV95cUxPRFRwVjdJQTllWUtjbjhnLWhFY2J3emVKY1ZVVjYzajhXUEJUUGs2dE1ZM2hhbmFHNG9QYlphOThIZVFUQ0xha3NDN0hFdFN0MGdhXzA0dHJRc0tYUDlEVnJKQTF3X3VIblFlaDNPWG11SjVRTHdVMW1qSmkzRDlFbWtQMGJuQ1cyemoydzVkM1JTbUM2M2F1OGprV3JKYkhPZGRkTHhSemNZcDNvMFdKUXhsdG43dE55?oc=5",
     "difficulty": "News"
   },
   {
@@ -36,6 +48,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 17, 10:45 AM ET",
+    "publishedAt": "2026-06-17T14:45:49+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Analyzing Claude Code usage with CloudWatch and OpenTelemetry",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0VCQXk3SzkwenFidjV2VEhvS19iejBiYjFpRmItOHhDTjFzeXpSanAtSWU5NHZpeDRPbVRPbjlGQUVELXp3ZndzdW44RTQwUXJvQnp5WThUTHRUTVZ3VzI3XzlHc0RFczlaYk9TNjB6QW4zR3JxSUNRamN0d09VUC1YcTJhRGNTSDZzNzZfSFNITHJxcG1EWG1n?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 17, 10:04 AM ET",
@@ -45,18 +69,6 @@
     "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ad1RpSzNIcHBXeFk0cWIxWWpOdFNEdC1aRlZTZ21tMm5aZm5oamFVZWpMUE5GZFhjZDk2TDM4SmllRTdONlZhNjJ1cU9DX3EzTkNoT3FwX2xHb18yU0E0cElkTHg1bFFXUGc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 17, 08:28 AM ET",
-    "publishedAt": "2026-06-17T12:28:58+00:00",
-    "source": "CRN UK",
-    "title": "Deloitte and Google Cloud open London AI studio to scale agentic capabilities",
-    "summary": "CRN UK is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sQjlaNmRXeGYyc3RxQ1pHZ1JHVE4wX05mQ0xvZFFnMHlBdkVVYno2dGw5YnlCOF9EYmE5NkhvS2dTaFg5NklsaE51TlpJUW5qU2w1VFVrTExQMG95RXEtRXZ4OVpjd3pyQ055ZUxVb0lQRmVXcEdMZDFDSEt2RFE?oc=5",
     "difficulty": "News"
   },
   {
@@ -98,6 +110,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Jun 16, 04:56 PM ET",
+    "publishedAt": "2026-06-16T20:56:16+00:00",
+    "source": "WSJ",
+    "title": "SpaceX’s $60 Billion Deal to Buy Cursor Gives It More AI Coding Power",
+    "summary": "WSJ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnRzaGtTRlBIX3JLenZhbjJzVm1pYVRPYWIxeVJRQlIxLXdLMjc0bV9DczV0VzFScWVreGdQcjl3dWRCdWxIbV92Q1RYU0VtUTFPUEZnR1htTGQzOXJsYnM0WS04aVY4RlNrcUJQVFg3N3pfYUpxRWN2MEE0bVBkMV9XS0FCdzhtN18yaHdDUGdXeW1BWFZfZnlWcGs?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Jun 16, 04:36 PM ET",
     "publishedAt": "2026-06-16T20:36:13+00:00",
     "source": "Mashable",
@@ -117,18 +141,6 @@
     "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbV9pWWJlU3hCZWxGWFhyMHVDR3ZURlMwX2ZiNjF5eGFydUNYNXhBOUUzeHc2V016MDRvc3VfTE44T0VXMlFyWHlOSG1Qem9JdXpPMV9ZLUpLMVhXNUJpYjlRYlBBdUJ2YlhzQ0c2OHRWR1hRSTRoNzhuX3lObFo0UlgxdE0zVUdEamdsa1Q3VnBkNzNCV1VoYUpQcG9vOFJqSEN3TFFCTUNhY0hfb2R1QXRkVWN3ODhocWsyd1VUN1hRQ0NfbWV0c2o0US04UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 16, 12:02 PM ET",
-    "publishedAt": "2026-06-16T16:02:00+00:00",
-    "source": "WSJ",
-    "title": "SpaceX’s $60 Billion Deal to Buy Cursor Gives It More AI Coding Power",
-    "summary": "WSJ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnRzaGtTRlBIX3JLenZhbjJzVm1pYVRPYWIxeVJRQlIxLXdLMjc0bV9DczV0VzFScWVreGdQcjl3dWRCdWxIbV92Q1RYU0VtUTFPUEZnR1htTGQzOXJsYnM0WS04aVY4RlNrcUJQVFg3N3pfYUpxRWN2MEE0bVBkMV9XS0FCdzhtN18yaHdDUGdXeW1BWFZfZnlWcGs?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,30 +228,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 15, 06:59 AM ET",
-    "publishedAt": "2026-06-15T10:59:58+00:00",
-    "source": "O'Reilly Media",
-    "title": "Who Owns the Code Claude Wrote?",
-    "summary": "O'Reilly Media is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xY2k5ZHpHbXRYcXVuN1hRNnZxSUctLU1VMnV3NDVOM1d4d1NuWjVObUZReGk5UU9CS3ZSN0NwaG5iZ2F4X1VIc2Zja3RfRm9oQ1FWdWNlQlFDdW5ZbF9wSlRJUWFjVmg4eWlWM1Rn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 15, 01:01 AM ET",
-    "publishedAt": "2026-06-15T05:01:23+00:00",
-    "source": "infoq.com",
-    "title": "Anthropic Releases and Temporarily Suspends Claude Fable 5",
-    "summary": "infoq.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KZ2dYRkVybk1YWUJCQllMOW53U2NCMlhkRFo4cHVjYXB1SUVVZzVDcXo4OEgtUVBQXzd2TTVHT2JKQzFnZGdfMklQWWdQTExxM0gya0NHUHN5dW9XSTZJaFpB?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 14, 01:33 PM ET",
@@ -276,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 10, 02:02 PM ET",
-    "publishedAt": "2026-06-10T18:02:36+00:00",
-    "source": "Digiday",
-    "title": "OpenAI’s ChatGPT ads get its first conversion API partner in LiveRamp",
-    "summary": "Digiday is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUtfSERxN2t2OUxEeTJQMFZqbnIzMjMzTUtRTGJ0Nl8td2U1UUtFbnJoT21TazZGcUYzQVo3ZHR4VUYzOEx5d0FNMWRnQlV3cGJ0Rno4M0lHaHhubUJfeEZUUEJNcUlVdkRDd3ZPbnZBdVE5MlFiYTVlQzg1cHJQanVtNXQxVHA5V3NveEFxNGJpTE1WdTZUelVqV2Y5RG8?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 09, 03:00 AM ET",
@@ -312,6 +288,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 05, 03:00 AM ET",
+    "publishedAt": "2026-06-05T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTdaQVNjcDhoUTVkMTJqZ2FSZ3RrVWdOdmNRd2V6dVVoN09ET2s0czdlZXhFbjV1bE45T1E2bk9ZVUdWelFYMkxZLVFFN3pzQnNPMU1laGdaU2RyXzRacXRJeTJkX1pyTE9xOHpYcTBHd1hjbDFfdnpkQUdqUTI2emYwUlA2dThxMldXSFNTVTRKVWJnU2FxSnBpb1RTdU1md1k3QlhMQXJlejdjSzg4eTFCTnEzR1JvOHlPekp5UVIzemhuRml4S3ZyM21ZZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 03, 03:00 AM ET",
@@ -321,6 +309,30 @@
     "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZJRUxZUTdyTWFTTE51anU1NE9uTFQzZEdMNWQzdzk3anV1eHcyYWo0TkF0bU0zaEpBQ0VNWHRTa1d5M2RrdFBaNkNQWEgxMW5VNk9BSEVvZ2xFVVdLMThXZUJ4a3dUSHYxM3ZTalJFY2VHOEdwSUgwc3FkbWttcWwxdF9uMmZjb0FkVGxPTVk2Q2h2SzRFbWtBZFBTak9NNWRaMnF3X2hOMTFwMzhPTEZyb0pqVVU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 03, 03:00 AM ET",
+    "publishedAt": "2026-06-03T07:00:00+00:00",
+    "source": "PCWorld",
+    "title": "I made a Gemini avatar of myself. It’s so real, it creeps me out",
+    "summary": "PCWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3REbHdPWWN6VC11Wnp5TXhvOEU0V0dnbzNhUDNSUExLa3l1Ti1fb0hsenJsa2pHYXA2WWZVcEZSRXg1T1JyaWVET2FtUkhENzcxb2NHWGFNTUJ0b1h2b0hmYy1zdENfS1ZmeTZJMFFOWElYa21oWXdVSlVWc2xVaC1IUi1LOUtaWllOM3dUbE1OVTZUMUFYSWRsc1lSU3pUV2Y3R09zNmZZdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
     "difficulty": "News"
   },
   {
@@ -348,18 +360,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services",
-    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 19, 03:00 AM ET",
@@ -374,13 +374,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Mar 12, 03:00 AM ET",
-    "publishedAt": "2026-03-12T07:00:00+00:00",
-    "source": "Towards Data Science",
-    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
     "difficulty": "News"
   }
 ]
