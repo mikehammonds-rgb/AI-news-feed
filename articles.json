@@ -1,14 +1,14 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 19, 06:07 AM ET",
-    "publishedAt": "2026-06-19T10:07:24+00:00",
-    "source": "HackerNoon",
-    "title": "You Do Not Need Claude Opus for Every Step. Here Is How to Cut Your Agent Costs by 90%.",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 19, 05:58 AM ET",
+    "publishedAt": "2026-06-19T09:58:23+00:00",
+    "source": "AiThority",
+    "title": "Infragistics Turns AI Coding Assistants into Enterprise Development Partners with Ignite UI Enterprise MCP Toolchain",
+    "summary": "AiThority is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWXowaTFHaUs5a0hWX1V0TWtyaVVPU0RaTTUwM3NpaDFoNzJTcWthSnRWOGUwd2J4OTJPaF8wZDRya1RXZmZVak5KRmJ2bHR4OGJCLVJ4SjZhS0FHQ0t1SmlXdmxCcGpQTGNHVW1LMVZ5SFFvYmtfbE9jaExJQ3B4Y0g0TjNNUEM3d1p1Q2lOaUZXWHhVdGJOMUQ2N1pDM2dkbV9fTEtINTRVdlhRWnQ2bFB3ZjFXdmhKbmo1LW9DLW4wMkU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYXRHYndSWWdEQ1JqZVlyZkc4d2duai1JaE1UdzVJNEQ5b29xZmxlMDBBSWNwSmxpb1VMbXRSMnRGVm4tSHROaEg3bFVwcTU3TlNMUUpRc29xRnVQdGpxVzlrcHctS0EtcGRLeEFZcUpEUkhsZEZ6dC1Vb21DNXBCczNpck42b28tcmZIU3VWY2R6TWFOSXp6Smw4Zkg0U3U2VTJ5NGxzRFVZUTNiWklVbGJfX0hmaGw3Y2hpZV9LS0FMWEhPeUdLeXhsR3BsOTNGdnF4MFVka2RQM29Gd3NDZUI4eXVEcFJ6UTQtWA?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,6 +156,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 16, 03:43 PM ET",
+    "publishedAt": "2026-06-16T19:43:38+00:00",
+    "source": "Tech Times",
+    "title": "Claude Outage: Tenth Disruption in 12 Days Exposes Anthropic Infrastructure Strain",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbV9pWWJlU3hCZWxGWFhyMHVDR3ZURlMwX2ZiNjF5eGFydUNYNXhBOUUzeHc2V016MDRvc3VfTE44T0VXMlFyWHlOSG1Qem9JdXpPMV9ZLUpLMVhXNUJpYjlRYlBBdUJ2YlhzQ0c2OHRWR1hRSTRoNzhuX3lObFo0UlgxdE0zVUdEamdsa1Q3VnBkNzNCV1VoYUpQcG9vOFJqSEN3TFFCTUNhY0hfb2R1QXRkVWN3ODhocWsyd1VUN1hRQ0NfbWV0c2o0US04UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 16, 12:02 PM ET",
@@ -228,6 +240,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 15, 10:02 AM ET",
+    "publishedAt": "2026-06-15T14:02:07+00:00",
+    "source": "GitGuardian Blog",
+    "title": "Gitguardian Agent Skills: Secret Detection and Remediation For AI-Assisted Development",
+    "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1QWJ1WGJEbGhIZm1lREdUb3lnS1hIZXBoRTdhd2JDS0pkRDk5TkM3Qlp3WG1JTG9XSUNYN20ycXdxd28wdW5TTnNvOEVDMnpiczR0RmlCQl9MNzlvdTVQRERPYXV4NUxIejdCLVNvVjBXTzRm?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 14, 01:33 PM ET",
@@ -278,18 +302,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 09, 03:00 AM ET",
-    "publishedAt": "2026-06-09T07:00:00+00:00",
-    "source": "Visual Studio Magazine",
-    "title": "Mastering AI Development and Building AI Apps with GitHub Copilot",
-    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHB4Ymc5WWJyOGJndmt5NzBTZTdFME9PcG1jUUkzYmFwVUFiRmJON1U1MVNRQXEyeS1YWWtaeV9CdV9QUzZhbmtxaUtyekFkNVFLUDZPRWVlYU1LWWtOelV6bXF3QklLZmpzeVhMZndNVm1ybWJCUEUwUHYyYnYwRk03aFByZTVpVVB3eFJnOVdfQ0pqV3ZqYTJBUlV0cERyOG9BaWRHZG9fUnlZb1Y4SFg4R0xmcG1MU19SOFg0TFU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Jun 08, 03:00 AM ET",
     "publishedAt": "2026-06-08T07:00:00+00:00",
     "source": "Hackaday",
@@ -333,18 +345,6 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMERrMmhzSy1vOFdvSS1XaTAxeVZrSUNmYVgzbV92cE1Jal9fY2ljQmVqMXlRQXVZcm1jSWZNQTV6Qkw1M1BYTVN0YzhCejk3QzFKOHZQZEZPQzBuMml2elBKZkpYal9MLUMyR29xZEdsNHp0dHFhVnRHSl9QXzIyRw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 24, 03:00 AM ET",
-    "publishedAt": "2026-05-24T07:00:00+00:00",
-    "source": "AI: Reset to Zero",
-    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   },
   {
