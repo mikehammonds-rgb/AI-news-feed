@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 20, 04:23 PM ET",
+    "publishedAt": "2026-06-20T20:23:00+00:00",
+    "source": "Crypto Briefing",
+    "title": "OpenAI partners with Open Network Lab for Kyoto startup pitch contest offering $1M in API credits",
+    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zUjdXam9aMWZ4MDVkRS1TYTllQ0VZRTh5TG9TekxyWUpBWjdMVU9jTjdSRml2bk1jRUtvaGZ5VC1NQXczdmFZNjFsUE8yTzFlR21jY0FObWdUemdncUVsZjBvV1dmdU5YTWRKeThmaFJwNEt2S1VJ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 20, 02:01 PM ET",
@@ -345,18 +357,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Apr 22, 03:00 AM ET",
-    "publishedAt": "2026-04-22T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RS1QX21mYm9qa0plY1BHV0xGZktSa2RBWjhtdHpuMHE5eTE1WWJmcmo4SDB3RGZEaWd4WElTNkVhSDlRM0dyWjVISU45eDIzUmVuMWZUSERmbVJTbWdSSzh1cVE3OGcya1ZjeU9pMjFQbHRhOG9HTEdobw?oc=5",
     "difficulty": "News"
   },
   {
