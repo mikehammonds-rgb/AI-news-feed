@@ -1,17 +1,5 @@
 [
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 20, 01:53 AM ET",
-    "publishedAt": "2026-06-20T05:53:35+00:00",
-    "source": "Magzter",
-    "title": "SPACEX AGREES TO BUY AI CODING AGENT CURSOR FOR 60 BILLION | Techlife News - technology",
-    "summary": "Magzter is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDZVaWhrR2tBNUdzRkVrTkdHU3VRc05IYjNoQ245bktlSEZwMDNqb0RlUVpBU3hMUU5ZLUppdjdoQXYteGRjaEE4cVFWbktadFFFSkQ1bXhHbHVSYklkNFZCNFNNYXpaTk5mZ3JuSk50eVhMc0s5WGxadlVFOHRUTDdYT1VTMVg2N0pHS3JyTlhfbHlxNE5xY3pzMHQtbXdUWktsMXFPUTZxTVhLTTY1bjhLZEN4dw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 19, 10:48 PM ET",
@@ -24,15 +12,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 19, 05:58 AM ET",
-    "publishedAt": "2026-06-19T09:58:23+00:00",
-    "source": "AiThority",
-    "title": "Infragistics Turns AI Coding Assistants into Enterprise Development Partners with Ignite UI Enterprise MCP Toolchain",
-    "summary": "AiThority is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 18, 06:33 PM ET",
+    "publishedAt": "2026-06-18T22:33:54+00:00",
+    "source": "saastr.com",
+    "title": "Why It’s So Hard for Older B2B Leaders to Compete in AI: Your Customers Can Do A Lot in Claude for $20-$200/Month. And You’re Paying $1.00 Per API Call For the Good Stuff.",
+    "summary": "saastr.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYXRHYndSWWdEQ1JqZVlyZkc4d2duai1JaE1UdzVJNEQ5b29xZmxlMDBBSWNwSmxpb1VMbXRSMnRGVm4tSHROaEg3bFVwcTU3TlNMUUpRc29xRnVQdGpxVzlrcHctS0EtcGRLeEFZcUpEUkhsZEZ6dC1Vb21DNXBCczNpck42b28tcmZIU3VWY2R6TWFOSXp6Smw4Zkg0U3U2VTJ5NGxzRFVZUTNiWklVbGJfX0hmaGw3Y2hpZV9LS0FMWEhPeUdLeXhsR3BsOTNGdnF4MFVka2RQM29Gd3NDZUI4eXVEcFJ6UTQtWA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcWNWaHItQzJlZ0U2NXVkZTdzd18yTUJDb2RoZzN2clJ4YjNORFBFZE9IWm9TS2E5Rmh6cVRhRUVlZThuQm05elAtTWlfa05ETnlmRnplZmprWnJESjZKZzR2M0xGWmpPQmdWMlNtZFV4anFmMEhYRjFmVjJacWRmYXdPOG9xLW1aSVZTb0VJazFrcjhqMU92ajJhc255ekFMSVZMblNnMjBiMGFVcmFmenpqUGtGSktMYnU5S25KQ3Ftd2Q4OEFPZF9ndlAxaURmYXhhR19KMTJyR2VaVENhMmNaSE5GQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -230,42 +218,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 15, 01:01 AM ET",
-    "publishedAt": "2026-06-15T05:01:23+00:00",
-    "source": "infoq.com",
-    "title": "Anthropic Releases and Temporarily Suspends Claude Fable 5",
-    "summary": "infoq.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KZ2dYRkVybk1YWUJCQllMOW53U2NCMlhkRFo4cHVjYXB1SUVVZzVDcXo4OEgtUVBQXzd2TTVHT2JKQzFnZGdfMklQWWdQTExxM0gya0NHUHN5dW9XSTZJaFpB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 14, 01:33 PM ET",
-    "publishedAt": "2026-06-14T17:33:00+00:00",
-    "source": "Let's Data Science",
-    "title": "ChatGPT $200 Plan Implies Up To $14,000 API Costs",
-    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkRiT0taQTA0aG9BVFBldEZHenpkMjBuTUxpZEJJX2Fua2ViSVROaDJSU2M2Z21paVZHMTRUeGtrckwwaWxsZS1VdHJPcmhKaGVFWXd5cG41YTM0ZTkxc2tfN1l1TDU3QUxZT29OUkZyN1RzMi1TblBkbTF2a3BQWmxkVWw1VTN6cFQwQm56TklWZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 10, 02:02 PM ET",
-    "publishedAt": "2026-06-10T18:02:36+00:00",
-    "source": "Digiday",
-    "title": "OpenAI’s ChatGPT ads get its first conversion API partner in LiveRamp",
-    "summary": "Digiday is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUtfSERxN2t2OUxEeTJQMFZqbnIzMjMzTUtRTGJ0Nl8td2U1UUtFbnJoT21TazZGcUYzQVo3ZHR4VUYzOEx5d0FNMWRnQlV3cGJ0Rno4M0lHaHhubUJfeEZUUEJNcUlVdkRDd3ZPbnZBdVE5MlFiYTVlQzg1cHJQanVtNXQxVHA5V3NveEFxNGJpTE1WdTZUelVqV2Y5RG8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jun 09, 03:00 AM ET",
     "publishedAt": "2026-06-09T07:00:00+00:00",
     "source": "Anthropic",
@@ -297,6 +249,18 @@
     "summary": "Hackaday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU5BWjUzUHdHT1UyQmhkS2RnTTJMR2NhTmpnX0xpX1dmTXRVRVdST1FzY2tLVkI5SmZyVUJ3MFgyVW9CMHk5enlxTmphMk9oeHd5cEgzOFl1NmZrVURMTzl2cllXeEpoOVR5Y3ZfRzNaYURpQXpJYl93N1dHX3NXRlBlRkJub3M3MUhjT2NXaWR3ejRWTzZHTFRIYzY4ZWpoNlk0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 05, 03:00 AM ET",
+    "publishedAt": "2026-06-05T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTdaQVNjcDhoUTVkMTJqZ2FSZ3RrVWdOdmNRd2V6dVVoN09ET2s0czdlZXhFbjV1bE45T1E2bk9ZVUdWelFYMkxZLVFFN3pzQnNPMU1laGdaU2RyXzRacXRJeTJkX1pyTE9xOHpYcTBHd1hjbDFfdnpkQUdqUTI2emYwUlA2dThxMldXSFNTVTRKVWJnU2FxSnBpb1RTdU1md1k3QlhMQXJlejdjSzg4eTFCTnEzR1JvOHlPekp5UVIzemhuRml4S3ZyM21ZZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -333,6 +297,18 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMERrMmhzSy1vOFdvSS1XaTAxeVZrSUNmYVgzbV92cE1Jal9fY2ljQmVqMXlRQXVZcm1jSWZNQTV6Qkw1M1BYTVN0YzhCejk3QzFKOHZQZEZPQzBuMml2elBKZkpYal9MLUMyR29xZEdsNHp0dHFhVnRHSl9QXzIyRw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 24, 03:00 AM ET",
+    "publishedAt": "2026-05-24T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   },
   {
@@ -374,13 +350,37 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Mar 12, 03:00 AM ET",
-    "publishedAt": "2026-03-12T07:00:00+00:00",
-    "source": "Towards Data Science",
-    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "time": "Apr 22, 03:00 AM ET",
+    "publishedAt": "2026-04-22T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RS1QX21mYm9qa0plY1BHV0xGZktSa2RBWjhtdHpuMHE5eTE1WWJmcmo4SDB3RGZEaWd4WElTNkVhSDlRM0dyWjVISU45eDIzUmVuMWZUSERmbVJTbWdSSzh1cVE3OGcya1ZjeU9pMjFQbHRhOG9HTEdobw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 11, 03:00 AM ET",
+    "publishedAt": "2026-03-11T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sMkxnSDBNRXBuYUowR2J1YXRZSzdpQW1ac1pEczlZNktGNWZRMmdqbmFCR0VfdnpGR295Mlo5Sjg3Uk0ySTAzeWZhSHBFN3BfSFR3cW9DM2tqd1VnTjNGdDZsRHVyRnNIMTBDY2dPTXdzQnBp?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 15, 03:00 AM ET",
+    "publishedAt": "2025-10-15T07:00:00+00:00",
+    "source": "The GitHub Blog",
+    "title": "Copilot: Faster, smarter, and built for how you work now",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYzVqTTg0TFdzMUZTR2Naa2ttUk9FOWVwVFVKYWV3M19TME9TanI1M0dnMHlscU1IY0VIc1lid2pieDB3bDFoNzg1VG92ZWhPSkdKbC15aGE5MElSNkN1aWRGMEtTbmZ0V2dPLVA4X0VwazdHejhJVHRMZldiM0RCWTZkZGJIUF9OcjYzRlpFRzJ0NWhTckZPMDRXSkdwU1ZaY1QwM25ySGM3MjlaZWJ1Qlg5U2kzVjdqR1ZDejYtRFlEOTRlNEtoOGRXeVk5SW5pckpPQVRaQTNFZVVOMHN3Rnd4V1NsT1E5WHJ5YXZUTTdzSnJQTXZhTk1DUWIxUmtkd1NSX0hzS0lobTlTMmxQTjFRTFBHdW5ubVRVNVBBdEs3cWc?oc=5",
     "difficulty": "News"
   }
 ]
