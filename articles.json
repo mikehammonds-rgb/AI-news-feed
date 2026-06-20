@@ -1,5 +1,29 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 20, 01:22 PM ET",
+    "publishedAt": "2026-06-20T17:22:00+00:00",
+    "source": "Asbury Park Press",
+    "title": "Response incomplete claude. Is Claude down? Claude api error",
+    "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXBpU2JzbGd4NnpaM0poaGg0WVBYUzcyQ0RFV2haN2FzSXI0VXBGZjJKQzgtX3Ixd2k3Nm1taFFLSVlwaWNjQWJqaS1nNGg3U0FyN1huVjRhbDc1ZXR1TzNzTWM3bmgtNnZoWWlTdnU3Z2Y3X1ZJUFNsMkFJcy1yN3NFNFFrN2ROVnNhTFFqMVZCa2UwVzNlc3pTdXN0WlFUMXZKYUZLSzZMUWM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 20, 01:53 AM ET",
+    "publishedAt": "2026-06-20T05:53:35+00:00",
+    "source": "Magzter",
+    "title": "SPACEX AGREES TO BUY AI CODING AGENT CURSOR FOR 60 BILLION | Techlife News - technology",
+    "summary": "Magzter is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDZVaWhrR2tBNUdzRkVrTkdHU3VRc05IYjNoQ245bktlSEZwMDNqb0RlUVpBU3hMUU5ZLUppdjdoQXYteGRjaEE4cVFWbktadFFFSkQ1bXhHbHVSYklkNFZCNFNNYXpaTk5mZ3JuSk50eVhMc0s5WGxadlVFOHRUTDdYT1VTMVg2N0pHS3JyTlhfbHlxNE5xY3pzMHQtbXdUWktsMXFPUTZxTVhLTTY1bjhLZEN4dw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 19, 10:48 PM ET",
@@ -120,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 16, 03:43 PM ET",
-    "publishedAt": "2026-06-16T19:43:38+00:00",
-    "source": "Tech Times",
-    "title": "Claude Outage: Tenth Disruption in 12 Days Exposes Anthropic Infrastructure Strain",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbV9pWWJlU3hCZWxGWFhyMHVDR3ZURlMwX2ZiNjF5eGFydUNYNXhBOUUzeHc2V016MDRvc3VfTE44T0VXMlFyWHlOSG1Qem9JdXpPMV9ZLUpLMVhXNUJpYjlRYlBBdUJ2YlhzQ0c2OHRWR1hRSTRoNzhuX3lObFo0UlgxdE0zVUdEamdsa1Q3VnBkNzNCV1VoYUpQcG9vOFJqSEN3TFFCTUNhY0hfb2R1QXRkVWN3ODhocWsyd1VUN1hRQ0NfbWV0c2o0US04UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 16, 12:02 PM ET",
@@ -204,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 15, 10:02 AM ET",
-    "publishedAt": "2026-06-15T14:02:07+00:00",
-    "source": "GitGuardian Blog",
-    "title": "Gitguardian Agent Skills: Secret Detection and Remediation For AI-Assisted Development",
-    "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1QWJ1WGJEbGhIZm1lREdUb3lnS1hIZXBoRTdhd2JDS0pkRDk5TkM3Qlp3WG1JTG9XSUNYN20ycXdxd28wdW5TTnNvOEVDMnpiczR0RmlCQl9MNzlvdTVQRERPYXV4NUxIejdCLVNvVjBXTzRm?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 09, 03:00 AM ET",
@@ -242,6 +242,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Jun 09, 03:00 AM ET",
+    "publishedAt": "2026-06-09T07:00:00+00:00",
+    "source": "Visual Studio Magazine",
+    "title": "Mastering AI Development and Building AI Apps with GitHub Copilot",
+    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHB4Ymc5WWJyOGJndmt5NzBTZTdFME9PcG1jUUkzYmFwVUFiRmJON1U1MVNRQXEyeS1YWWtaeV9CdV9QUzZhbmtxaUtyekFkNVFLUDZPRWVlYU1LWWtOelV6bXF3QklLZmpzeVhMZndNVm1ybWJCUEUwUHYyYnYwRk03aFByZTVpVVB3eFJnOVdfQ0pqV3ZqYTJBUlV0cERyOG9BaWRHZG9fUnlZb1Y4SFg4R0xmcG1MU19SOFg0TFU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Jun 08, 03:00 AM ET",
     "publishedAt": "2026-06-08T07:00:00+00:00",
     "source": "Hackaday",
@@ -249,18 +261,6 @@
     "summary": "Hackaday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU5BWjUzUHdHT1UyQmhkS2RnTTJMR2NhTmpnX0xpX1dmTXRVRVdST1FzY2tLVkI5SmZyVUJ3MFgyVW9CMHk5enlxTmphMk9oeHd5cEgzOFl1NmZrVURMTzl2cllXeEpoOVR5Y3ZfRzNaYURpQXpJYl93N1dHX3NXRlBlRkJub3M3MUhjT2NXaWR3ejRWTzZHTFRIYzY4ZWpoNlk0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 05, 03:00 AM ET",
-    "publishedAt": "2026-06-05T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTdaQVNjcDhoUTVkMTJqZ2FSZ3RrVWdOdmNRd2V6dVVoN09ET2s0czdlZXhFbjV1bE45T1E2bk9ZVUdWelFYMkxZLVFFN3pzQnNPMU1laGdaU2RyXzRacXRJeTJkX1pyTE9xOHpYcTBHd1hjbDFfdnpkQUdqUTI2emYwUlA2dThxMldXSFNTVTRKVWJnU2FxSnBpb1RTdU1md1k3QlhMQXJlejdjSzg4eTFCTnEzR1JvOHlPekp5UVIzemhuRml4S3ZyM21ZZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -362,6 +362,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Mar 11, 03:00 AM ET",
     "publishedAt": "2026-03-11T07:00:00+00:00",
     "source": "OpenAI",
@@ -369,18 +381,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sMkxnSDBNRXBuYUowR2J1YXRZSzdpQW1ac1pEczlZNktGNWZRMmdqbmFCR0VfdnpGR295Mlo5Sjg3Uk0ySTAzeWZhSHBFN3BfSFR3cW9DM2tqd1VnTjNGdDZsRHVyRnNIMTBDY2dPTXdzQnBp?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 15, 03:00 AM ET",
-    "publishedAt": "2025-10-15T07:00:00+00:00",
-    "source": "The GitHub Blog",
-    "title": "Copilot: Faster, smarter, and built for how you work now",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYzVqTTg0TFdzMUZTR2Naa2ttUk9FOWVwVFVKYWV3M19TME9TanI1M0dnMHlscU1IY0VIc1lid2pieDB3bDFoNzg1VG92ZWhPSkdKbC15aGE5MElSNkN1aWRGMEtTbmZ0V2dPLVA4X0VwazdHejhJVHRMZldiM0RCWTZkZGJIUF9OcjYzRlpFRzJ0NWhTckZPMDRXSkdwU1ZaY1QwM25ySGM3MjlaZWJ1Qlg5U2kzVjdqR1ZDejYtRFlEOTRlNEtoOGRXeVk5SW5pckpPQVRaQTNFZVVOMHN3Rnd4V1NsT1E5WHJ5YXZUTTdzSnJQTXZhTk1DUWIxUmtkd1NSX0hzS0lobTlTMmxQTjFRTFBHdW5ubVRVNVBBdEs3cWc?oc=5",
     "difficulty": "News"
   }
 ]
