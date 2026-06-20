@@ -24,18 +24,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 18, 07:15 PM ET",
-    "publishedAt": "2026-06-18T23:15:42+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "OpenAI opens Singapore Founder Day applications to Southeast Asia startups",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmF4UmZlQkh3QWV6eDd5RFFmUFNVZzZOMndRdjdvWlZURkR2V0pWRHJ1ZW9YOWdYMnJnMVFHaG4tNE4xTTBJR1FTNlVMcEF4dkNYc2xjMUUzanJoV29yallKS1NNMHZpM0ZTTGJQX0FJSmtwQkFUX0NLMTRHU09nMVUyQmVqdFpsZXJhV1VvbW9xemFEcTkwbVZTTjJmaDMwSkV0Yk5GVmJsdTdXSlliYzF6c1ZEUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 18, 11:55 AM ET",
@@ -324,6 +312,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "May 25, 03:00 AM ET",
@@ -350,18 +350,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "May 07, 03:00 AM ET",
-    "publishedAt": "2026-05-07T07:00:00+00:00",
-    "source": "TechCrunch",
-    "title": "OpenAI launches new voice intelligence features in its API",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEVKNVBfWjRiOU9oWWM0Zkh4elFUbWtaMVd6RDVFeXVpTVU0TVZvTzVxbVVaMTdVWW9CejVZcklRTGFZWkhGRG1MS1NQb1V5VEF0MGxnbE9VZzVqZ0tBa2MzYjluZWpOME5wT0VBQzBFbFV4UDBfbDVlQ2tXeDZnUG5IMzdsODNXZ2NHa3I2VndTRk5XZUxXYg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Apr 23, 03:00 AM ET",
     "publishedAt": "2026-04-23T07:00:00+00:00",
     "source": "OpenAI",
@@ -381,6 +369,18 @@
     "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 11, 03:00 AM ET",
+    "publishedAt": "2026-03-11T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sMkxnSDBNRXBuYUowR2J1YXRZSzdpQW1ac1pEczlZNktGNWZRMmdqbmFCR0VfdnpGR295Mlo5Sjg3Uk0ySTAzeWZhSHBFN3BfSFR3cW9DM2tqd1VnTjNGdDZsRHVyRnNIMTBDY2dPTXdzQnBp?oc=5",
     "difficulty": "News"
   }
 ]
