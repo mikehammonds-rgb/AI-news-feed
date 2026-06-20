@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 19, 10:48 PM ET",
+    "publishedAt": "2026-06-20T02:48:55+00:00",
+    "source": "SMBtech",
+    "title": "Google Brings Gemini Models To Apple Developers And Expands Firebase Across AI Toolchain",
+    "summary": "SMBtech is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGE3SV96RzB2QWNsdUhUWDFDMFZpQ0UwZnJ6bm9aZG0zZ1FLUDk0OGtHcjRLYy1NWEx3bkwtbi04UXZ3RTlNZ2V5OHhlMEtQOG5LMkdIUUR1UzdTWkFhSVlKMEx4RkNDdmE2Y2JHOFRLQk1JemZva2VTMGhENEJFdDJUX080eWtPMmNzN19vTUc5ZjFsUld0QkZZOG94aTZGMnhLMEp0TGpGa2JFM2t6c0ZNRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 19, 05:58 AM ET",
@@ -9,18 +21,6 @@
     "summary": "AiThority is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYXRHYndSWWdEQ1JqZVlyZkc4d2duai1JaE1UdzVJNEQ5b29xZmxlMDBBSWNwSmxpb1VMbXRSMnRGVm4tSHROaEg3bFVwcTU3TlNMUUpRc29xRnVQdGpxVzlrcHctS0EtcGRLeEFZcUpEUkhsZEZ6dC1Vb21DNXBCczNpck42b28tcmZIU3VWY2R6TWFOSXp6Smw4Zkg0U3U2VTJ5NGxzRFVZUTNiWklVbGJfX0hmaGw3Y2hpZV9LS0FMWEhPeUdLeXhsR3BsOTNGdnF4MFVka2RQM29Gd3NDZUI4eXVEcFJ6UTQtWA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 19, 03:50 AM ET",
-    "publishedAt": "2026-06-19T07:50:26+00:00",
-    "source": "Telecompaper",
-    "title": "Deloitte opens new London AI Studio; trains UK workers on Gemini Enterprise",
-    "summary": "Telecompaper is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVVsSWNqV2FTN1RqaTdUQWExR0Z6WkhfRVhkSHJ6cVlzWGN6R2c0X0thay1PMTFyanl3bmJ5NDJwTG9mRm9ieWVIaGF0dm9TakRNZmtlMGZ3ZXZSQnZRa3pybnN3LVRSUUVMekM1bUpHZTZmU0tCQndJR0ZsS3RjQ2xrWHlzS3JDZV9WbmJxcU1mQ0RWNEtwNGRBenRrMnI4MVA3WkhIdjE4ZllFeVFjZ3dmOXNGbmtD?oc=5",
     "difficulty": "News"
   },
   {
@@ -254,18 +254,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 14, 01:33 PM ET",
-    "publishedAt": "2026-06-14T17:33:00+00:00",
-    "source": "Let's Data Science",
-    "title": "ChatGPT $200 Plan Implies Up To $14,000 API Costs",
-    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkRiT0taQTA0aG9BVFBldEZHenpkMjBuTUxpZEJJX2Fua2ViSVROaDJSU2M2Z21paVZHMTRUeGtrckwwaWxsZS1VdHJPcmhKaGVFWXd5cG41YTM0ZTkxc2tfN1l1TDU3QUxZT29OUkZyN1RzMi1TblBkbTF2a3BQWmxkVWw1VTN6cFQwQm56TklWZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jun 10, 02:02 PM ET",
     "publishedAt": "2026-06-10T18:02:36+00:00",
     "source": "Digiday",
@@ -357,6 +345,18 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "May 07, 03:00 AM ET",
+    "publishedAt": "2026-05-07T07:00:00+00:00",
+    "source": "TechCrunch",
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEVKNVBfWjRiOU9oWWM0Zkh4elFUbWtaMVd6RDVFeXVpTVU0TVZvTzVxbVVaMTdVWW9CejVZcklRTGFZWkhGRG1MS1NQb1V5VEF0MGxnbE9VZzVqZ0tBa2MzYjluZWpOME5wT0VBQzBFbFV4UDBfbDVlQ2tXeDZnUG5IMzdsODNXZ2NHa3I2VndTRk5XZUxXYg?oc=5",
     "difficulty": "News"
   },
   {
