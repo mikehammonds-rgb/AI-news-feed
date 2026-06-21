@@ -36,18 +36,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 19, 02:15 PM ET",
-    "publishedAt": "2026-06-19T18:15:55+00:00",
-    "source": "Let's Data Science",
-    "title": "GPT-5.6 Testing Appears Inside ChatGPT, Rumors Grow",
-    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT1NBajFsZG90Z0pqN2x5b2UxWVY2cUZQT1RuaGVOTjdGblE4bWVaZXg0ZGlXNUZVWU9nNVNjYUlZZ3NlUl9BTHRoaTFlREV4TEpNNXBTdGM2VmE0bnVPbDU3UEM1cldHNXFqWGVYLTZ0eGY5UVM5Y1dtUXpZTGcxbXlLcGY5b1VHWmxjQTg3WnVzNjNWTEE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 19, 05:58 AM ET",
@@ -129,18 +117,6 @@
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KWUVZbVFUQzI3bm5QamdhV255RVNYUlVQbU9QcEdmNnZ5b2R2Tk9seEpNNGZMM3lHZFhKd1pNRHlwZGlPb2U3RlZ2bWxrcnRwUXozR0ZmZFBRMDNZR3BYVmNrb0J2ZUVIMUY4ZnBFOHVLM0JlS3c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 17, 04:18 AM ET",
-    "publishedAt": "2026-06-17T08:18:32+00:00",
-    "source": "Hackread",
-    "title": "15 Malicious JetBrains Plugins Caught Stealing DeepSeek, OpenAI API Keys",
-    "summary": "Hackread is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSXNQdXdIcWlFcXlmc080UzY3cXhibWp6TG9KLW5obXVzVXp3WnEtaGpaa3Y1NkpuWTljZm1HVlBLWURIRGZNWUhUY3A3WU8xa1NNTm9NZTBtNUVMNDhjdHk2NUR2dGMyOW9pTW9kZDBSMXlfRFJYX1VjS1k4R3ZZaUx2b2NxMjA?oc=5",
     "difficulty": "News"
   },
   {
@@ -254,18 +230,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 10, 03:00 AM ET",
-    "publishedAt": "2026-06-10T07:00:00+00:00",
-    "source": "WSJ",
-    "title": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic",
-    "summary": "WSJ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jun 09, 03:00 AM ET",
     "publishedAt": "2026-06-09T07:00:00+00:00",
     "source": "Anthropic",
@@ -324,30 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 01, 03:00 AM ET",
-    "publishedAt": "2026-06-01T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 01, 03:00 AM ET",
-    "publishedAt": "2026-06-01T07:00:00+00:00",
-    "source": "The Hacker News",
-    "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xRmtjbnRYMThXYXMzeEIxdG93OGMyX0tsS0EtYndQekdzYkVWc0dwWmt1dWR5UHJwY29CX2FrYTFJVWJpbTZhVUhOcXQ5VGVKbGpZNmd1RGJmZmZabWVSRjRiXzk1S2dDaFpfX29vVzJFdzJKYnNhMXdWcHBudw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "May 25, 03:00 AM ET",
@@ -369,6 +309,78 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Apr 22, 03:00 AM ET",
+    "publishedAt": "2026-04-22T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RS1QX21mYm9qa0plY1BHV0xGZktSa2RBWjhtdHpuMHE5eTE1WWJmcmo4SDB3RGZEaWd4WElTNkVhSDlRM0dyWjVISU45eDIzUmVuMWZUSERmbVJTbWdSSzh1cVE3OGcya1ZjeU9pMjFQbHRhOG9HTEdobw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 13, 03:00 AM ET",
+    "publishedAt": "2026-03-13T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "How your data is used to improve model performance",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcEE2OHFVVC1CTkNXdzNFd2huWUtwcW9TRlhNRWd4ZVdWQldtMXl6SUd6MnNXS29BNm5xQmFsUG5waU42OHFfUkpDSUFBOTZPOWh0dkdoRzZGM0RtU2xyZVhVNXExLVE5SWJHQ3RhMW95RlhGTmwxai1QRVpRNnVid2x4YzltUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 11, 03:00 AM ET",
+    "publishedAt": "2026-03-11T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sMkxnSDBNRXBuYUowR2J1YXRZSzdpQW1ac1pEczlZNktGNWZRMmdqbmFCR0VfdnpGR295Mlo5Sjg3Uk0ySTAzeWZhSHBFN3BfSFR3cW9DM2tqd1VnTjNGdDZsRHVyRnNIMTBDY2dPTXdzQnBp?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jan 08, 03:00 AM ET",
+    "publishedAt": "2026-01-08T08:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing OpenAI for Healthcare",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ac01FWDBVRTI4blJVdDlLdkNrQWV3d1dOZE41cUViMm1kbThpUDdkbWRHLVd4M0JnNHlHMFltemw2alZjeUluUE1wLTRRRG94dWRPNHBWV0hHV1E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Nov 13, 03:00 AM ET",
+    "publishedAt": "2025-11-13T08:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.1 for developers",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FcTU2YTlVR193Vk1JTktaSlRHRlc2dE00TGw1bnl4NnlKaFN1TENRX0FBWGpPWFlvQ1JBcWJjT3h5dnJ1Rk9TcHFlSkJLQnhBT19aRTI1elQ0UG5w?oc=5",
     "difficulty": "News"
   }
 ]
