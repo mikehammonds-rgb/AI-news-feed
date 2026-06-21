@@ -36,6 +36,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 20, 01:53 AM ET",
+    "publishedAt": "2026-06-20T05:53:35+00:00",
+    "source": "Magzter",
+    "title": "SPACEX AGREES TO BUY AI CODING AGENT CURSOR FOR 60 BILLION | Techlife News - technology",
+    "summary": "Magzter is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDZVaWhrR2tBNUdzRkVrTkdHU3VRc05IYjNoQ245bktlSEZwMDNqb0RlUVpBU3hMUU5ZLUppdjdoQXYteGRjaEE4cVFWbktadFFFSkQ1bXhHbHVSYklkNFZCNFNNYXpaTk5mZ3JuSk50eVhMc0s5WGxadlVFOHRUTDdYT1VTMVg2N0pHS3JyTlhfbHlxNE5xY3pzMHQtbXdUWktsMXFPUTZxTVhLTTY1bjhLZEN4dw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 19, 10:48 PM ET",
@@ -62,18 +74,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 18, 11:55 AM ET",
-    "publishedAt": "2026-06-18T15:55:00+00:00",
-    "source": "Atlassian",
-    "title": "Introducing Claude Agent for Jira",
-    "summary": "Atlassian is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81RWxLeDdZZ0h3RHB4RU5ISFZYVjROTldWdnloRmloOXVNUXNvU0Eyc2xhQjVjNDNMclRDSTNhbUxlNlFMSzZnb0JiTWFRTE9iTU5CUF9YZHNBZURRaHZCQWd4SG1XWUpxdmV2eEVKOTBKTjg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jun 18, 03:39 AM ET",
     "publishedAt": "2026-06-18T07:39:01+00:00",
     "source": "DevOps.com",
@@ -81,6 +81,18 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWlGX0RCS2hyVlN2U1llUl9JR1NYQjhzMVhZZmRrSlFNa1dQTGFxRzFVN1lmWHBPUVBwTmpqNGJfTkdWQlh0eGw4VlgtdGZ6VTdrdVFIWW1xc0ROUWwzekxNSG5WNWtabkQwUmdjOFNhUGIxamotcUNveE5FRzB3RmV0dnhfellMNHMw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 17, 10:45 AM ET",
+    "publishedAt": "2026-06-17T14:45:49+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Analyzing Claude Code usage with CloudWatch and OpenTelemetry",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0VCQXk3SzkwenFidjV2VEhvS19iejBiYjFpRmItOHhDTjFzeXpSanAtSWU5NHZpeDRPbVRPbjlGQUVELXp3ZndzdW44RTQwUXJvQnp5WThUTHRUTVZ3VzI3XzlHc0RFczlaYk9TNjB6QW4zR3JxSUNRamN0d09VUC1YcTJhRGNTSDZzNzZfSFNITHJxcG1EWG1n?oc=5",
     "difficulty": "News"
   },
   {
@@ -132,6 +144,42 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 04:32 PM ET",
+    "publishedAt": "2026-06-16T20:32:19+00:00",
+    "source": "Mashable",
+    "title": "This Copilot vulnerability could expose emails, 2FA codes, and other sensitive data",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkR6WGE0R0FBbV9IM2hfZGJxRTJFQ3YzZ19SNVRfRloyTWZ2MzY3QllrRE1Ic1U2TzNGMngxdVRGYUtCd1c2d25QdzFMd21rZWNOMFdkXzAyT0gyR19hQnlST2Nueml5M0xhYlhuNEJaWlVMSmpOazBabFdjb2luTjBtcl9UME9RdkI5OWRFZDMtdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 12:02 PM ET",
+    "publishedAt": "2026-06-16T16:02:00+00:00",
+    "source": "WSJ",
+    "title": "SpaceX’s $60 Billion Deal to Buy Cursor Gives It More AI Coding Power",
+    "summary": "WSJ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnRzaGtTRlBIX3JLenZhbjJzVm1pYVRPYWIxeVJRQlIxLXdLMjc0bV9DczV0VzFScWVreGdQcjl3dWRCdWxIbV92Q1RYU0VtUTFPUEZnR1htTGQzOXJsYnM0WS04aVY4RlNrcUJQVFg3N3pfYUpxRWN2MEE0bVBkMV9XS0FCdzhtN18yaHdDUGdXeW1BWFZfZnlWcGs?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 10:52 AM ET",
+    "publishedAt": "2026-06-16T14:52:06+00:00",
+    "source": "Reuters",
+    "title": "SpaceX locks in $60 billion Cursor deal to close gap with rivals in AI coding race",
+    "summary": "Reuters is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmxuTnhpZnhfWk9xMXRkVFVNeXBjXzZSRmZRakJpR0RzZnBxOWFfMk40NW1yaXBvTlBQY2FhbG1wY0w4d0wyRFhIOUhjSlF5VW5Fc3pwZ2xRaERESmhmWGp0UE4yT1l2d0M2N2R2UTlLRGFYSkczc2wxcWxCSU1TMzhleHJMR2pKSjcydDRGMHE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 16, 08:11 AM ET",
@@ -141,6 +189,18 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUV3RjhQdHFtT1NUQjNCbWZLSEJnOGZncFRWQ0p4U0NUTzFRUmpZYmV3WnhCNXdzR3I3UmpuVHIyYlluSEROX3A5RThIbTZPejd3LWtRYVdUWnBMVXluX1BMUjc2Mk1wZVhCOVhoX3h2ZklpZVRBTjFMaFQtX1N0d010cw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 08:02 AM ET",
+    "publishedAt": "2026-06-16T12:02:00+00:00",
+    "source": "CBS News",
+    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   },
   {
@@ -168,15 +228,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 11, 03:00 AM ET",
-    "publishedAt": "2026-06-11T07:00:00+00:00",
-    "source": "Substack",
-    "title": "Anthropic shakes up its pricing strategy",
-    "summary": "Substack is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 15, 10:02 AM ET",
+    "publishedAt": "2026-06-15T14:02:07+00:00",
+    "source": "GitGuardian Blog",
+    "title": "Gitguardian Agent Skills: Secret Detection and Remediation For AI-Assisted Development",
+    "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOGNpZW11bzBlSlA3NVFOTHR3b0FrRHNSTE1CS2drbVVfdmNERmE1VWNobjA4bEl3Z2h1UkRaTkN2UlFxQUF0bzc0MU5QSXBRWG4wMF82UkhhR1dobENqcW5kVGxTbUVWd05fdHhuNEhqaThkT2NpUDNRSkFGYmJ1d0NTQkh3WG5G?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1QWJ1WGJEbGhIZm1lREdUb3lnS1hIZXBoRTdhd2JDS0pkRDk5TkM3Qlp3WG1JTG9XSUNYN20ycXdxd28wdW5TTnNvOEVDMnpiczR0RmlCQl9MNzlvdTVQRERPYXV4NUxIejdCLVNvVjBXTzRm?oc=5",
     "difficulty": "News"
   },
   {
@@ -208,23 +268,23 @@
     "label": "Codex / LLM Code",
     "time": "Jun 09, 03:00 AM ET",
     "publishedAt": "2026-06-09T07:00:00+00:00",
-    "source": "Hostinger",
-    "title": "22 best AI coding tools for developers and beginners",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "source": "Visual Studio Magazine",
+    "title": "Mastering AI Development and Building AI Apps with GitHub Copilot",
+    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16SU9HdTFaVjRidzZYVmNKSmp6U2J3RnlSM3pqZ2tOUWVmSzdRMTJWUXhmeWw5eUhFOVFpaFBycnNxN19PRXo0MERfMldDZEtxZm1BdlVRMnI4MlZFWHR5SmFBRVpDcGtGRi13?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHB4Ymc5WWJyOGJndmt5NzBTZTdFME9PcG1jUUkzYmFwVUFiRmJON1U1MVNRQXEyeS1YWWtaeV9CdV9QUzZhbmtxaUtyekFkNVFLUDZPRWVlYU1LWWtOelV6bXF3QklLZmpzeVhMZndNVm1ybWJCUEUwUHYyYnYwRk03aFByZTVpVVB3eFJnOVdfQ0pqV3ZqYTJBUlV0cERyOG9BaWRHZG9fUnlZb1Y4SFg4R0xmcG1MU19SOFg0TFU?oc=5",
     "difficulty": "News"
   },
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 08, 11:29 PM ET",
-    "publishedAt": "2026-06-09T03:29:22+00:00",
-    "source": "iTWire",
-    "title": "New Relic Introduces AI Coding Observability to Bring Critical Visibility and Governance to AI Coding Assistants",
-    "summary": "iTWire is reporting this update. Open the article for the full story.",
+    "time": "Jun 08, 03:00 AM ET",
+    "publishedAt": "2026-06-08T07:00:00+00:00",
+    "source": "Hackaday",
+    "title": "Revisiting Using AI Coding Assistants: You’re Holding It Wrong Edition",
+    "summary": "Hackaday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSUtidHBJZTZrT3c0bHlETEZBODY4Y0UwYmVKSzVEbWRIQUF4Q0tRSUVtekI4RUdUekZIYlJGMWZIMlhaeGUxVW9mWTdCVVpYbVJjY2FiaVpLQXlWOHpYamJDOUxqcmozVDVESERYNTNQYUU0R2pGaGRvR2RGaDhqREVrTkVSN0ZyZHFOVjhzVXVPUnlyZ2s0ZGJvcEkwZTk5d21MMzJFRXp1dTZhLWFIV0dWSlBpT0toQUxwUXNnMzRsa0gxUWZTV1hOclVoaFFyX25kVWxHVml6U1N3WGxsOUgwbndFc3Bu?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU5BWjUzUHdHT1UyQmhkS2RnTTJMR2NhTmpnX0xpX1dmTXRVRVdST1FzY2tLVkI5SmZyVUJ3MFgyVW9CMHk5enlxTmphMk9oeHd5cEgzOFl1NmZrVURMTzl2cllXeEpoOVR5Y3ZfRzNaYURpQXpJYl93N1dHX3NXRlBlRkJub3M3MUhjT2NXaWR3ejRWTzZHTFRIYzY4ZWpoNlk0?oc=5",
     "difficulty": "News"
   },
   {
@@ -249,18 +309,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 29, 03:00 AM ET",
-    "publishedAt": "2026-05-29T07:00:00+00:00",
-    "source": "Crypto Briefing",
-    "title": "Microsoft builds super app integrating Copilot AI tools and chat into one platform",
-    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lNnlKWl9QZXZzdS02T01YNmlCbG9tdmpCdGVYUnNfQkMwVWdQUHZ5eW9FWVpFWDFOLU8zUHVyUk9yVFRzREVlTW11RnVWN1RNcHdZVF9tVkNzNXItX1dDeHFSN2d6dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,30 +360,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Apr 20, 03:00 AM ET",
-    "publishedAt": "2026-04-20T07:00:00+00:00",
-    "source": "Augment Code",
-    "title": "The 2026 EU AI Act and AI-Generated Code: What Changes for Dev Teams",
-    "summary": "Augment Code is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YVHNmVFV2aVh2RktkRnc2QXY5RFdMOFJmRzI1LVhBdnVoQnExdmtWSEJrbW8xQnNrSUY5YlNfcjBibWhwelVNYVFiTkVTY1h3SUNNdm93aFF5dXNraXc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Apr 05, 03:00 AM ET",
-    "publishedAt": "2026-04-05T07:00:00+00:00",
-    "source": "HackerNoon",
-    "title": "AI Coding Tip 014 - One AGENTS.md Is Hurting Your AI Coding Assistant",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWthQk4wRHByYmpOTE93Z1pyNElxY193Smg2bzl0Uzgxa2FXczJ2bl83ZTJqWmZWN2JrRUl0MVRuNEMyVVRjNjQ3YVM0N0FydmpiMTZ4dm1uV2NUcXp0d2l3cUV0QmhSUUN0TjBzeS1iUlpWXzFQMFQ0eVRoSTdTaXV3MTJHd08yVnF3enI0M05DY3c?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Mar 12, 03:00 AM ET",
@@ -357,30 +381,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sMkxnSDBNRXBuYUowR2J1YXRZSzdpQW1ac1pEczlZNktGNWZRMmdqbmFCR0VfdnpGR295Mlo5Sjg3Uk0ySTAzeWZhSHBFN3BfSFR3cW9DM2tqd1VnTjNGdDZsRHVyRnNIMTBDY2dPTXdzQnBp?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Mar 09, 03:00 AM ET",
-    "publishedAt": "2026-03-09T07:00:00+00:00",
-    "source": "Adevinta",
-    "title": "A pragmatic evaluation of software engineering AI tooling",
-    "summary": "Adevinta is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdnFNXzdUa1NtRnRmbmhRQlk5ZF9HSkIySDlONENyYS1lcmF4OUNxb3N1eEhHbzBpYjd4c2x0QV95bG1aZDNyc0NhaU5Sc21zRFUySGQxTHJPcW5xaDJ6X1NmcjRIYS1ueDB2aXlHcU1iVFg5SUxPZjNtQl9Od3dxNTk5RUVFcElaaUhWNGp6aVdTQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Dec 17, 03:00 AM ET",
-    "publishedAt": "2025-12-17T08:00:00+00:00",
-    "source": "Endor Labs",
-    "title": "Bringing Malware Detection Into AI Coding Workflows With… | Blog",
-    "summary": "Endor Labs is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUk0tOWtxREI0Tmd1d19IOE1JVGZNNXdacWQzNU9EMDhIbzA1b2NhSUstVmRHZWRnaUdOSkJkcnZmWXhEZmhTWTZ2RllsLUlUVWJkYzRIak0ya0hIajlnaUUxQUo4eHc2bzdxendvRHVfZGxtRzlMX19Fc2VLaS02ZkFQREx5dDNIMXBGbVZyZXN5dE04YjF1b0JSQjNpeE5BeTNz?oc=5",
     "difficulty": "News"
   }
 ]
