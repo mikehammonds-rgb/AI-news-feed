@@ -48,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 19, 02:15 PM ET",
-    "publishedAt": "2026-06-19T18:15:55+00:00",
-    "source": "Let's Data Science",
-    "title": "GPT-5.6 Testing Appears Inside ChatGPT, Rumors Grow",
-    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT1NBajFsZG90Z0pqN2x5b2UxWVY2cUZQT1RuaGVOTjdGblE4bWVaZXg0ZGlXNUZVWU9nNVNjYUlZZ3NlUl9BTHRoaTFlREV4TEpNNXBTdGM2VmE0bnVPbDU3UEM1cldHNXFqWGVYLTZ0eGY5UVM5Y1dtUXpZTGcxbXlLcGY5b1VHWmxjQTg3WnVzNjNWTEE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 19, 05:58 AM ET",
@@ -129,18 +117,6 @@
     "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ad1RpSzNIcHBXeFk0cWIxWWpOdFNEdC1aRlZTZ21tMm5aZm5oamFVZWpMUE5GZFhjZDk2TDM4SmllRTdONlZhNjJ1cU9DX3EzTkNoT3FwX2xHb18yU0E0cElkTHg1bFFXUGc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 17, 09:01 AM ET",
-    "publishedAt": "2026-06-17T13:01:20+00:00",
-    "source": "Mashable",
-    "title": "The first Google Home Speaker in years has Gemini, costs $99, and arrives soon",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KWUVZbVFUQzI3bm5QamdhV255RVNYUlVQbU9QcEdmNnZ5b2R2Tk9seEpNNGZMM3lHZFhKd1pNRHlwZGlPb2U3RlZ2bWxrcnRwUXozR0ZmZFBRMDNZR3BYVmNrb0J2ZUVIMUY4ZnBFOHVLM0JlS3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -266,6 +242,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 10, 03:00 AM ET",
+    "publishedAt": "2026-06-10T07:00:00+00:00",
+    "source": "WSJ",
+    "title": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic",
+    "summary": "WSJ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 09, 03:00 AM ET",
     "publishedAt": "2026-06-09T07:00:00+00:00",
     "source": "Anthropic",
@@ -321,6 +309,18 @@
     "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZJRUxZUTdyTWFTTE51anU1NE9uTFQzZEdMNWQzdzk3anV1eHcyYWo0TkF0bU0zaEpBQ0VNWHRTa1d5M2RrdFBaNkNQWEgxMW5VNk9BSEVvZ2xFVVdLMThXZUJ4a3dUSHYxM3ZTalJFY2VHOEdwSUgwc3FkbWttcWwxdF9uMmZjb0FkVGxPTVk2Q2h2SzRFbWtBZFBTak9NNWRaMnF3X2hOMTFwMzhPTEZyb0pqVVU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 03, 03:00 AM ET",
+    "publishedAt": "2026-06-03T07:00:00+00:00",
+    "source": "PCWorld",
+    "title": "I made a Gemini avatar of myself. It’s so real, it creeps me out",
+    "summary": "PCWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3REbHdPWWN6VC11Wnp5TXhvOEU0V0dnbzNhUDNSUExLa3l1Ti1fb0hsenJsa2pHYXA2WWZVcEZSRXg1T1JyaWVET2FtUkhENzcxb2NHWGFNTUJ0b1h2b0hmYy1zdENfS1ZmeTZJMFFOWElYa21oWXdVSlVWc2xVaC1IUi1LOUtaWllOM3dUbE1OVTZUMUFYSWRsc1lSU3pUV2Y3R09zNmZZdw?oc=5",
     "difficulty": "News"
   },
   {
