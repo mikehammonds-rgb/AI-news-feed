@@ -26,18 +26,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 22, 08:55 AM ET",
-    "publishedAt": "2026-06-22T12:55:00+00:00",
-    "source": "Tech Times",
-    "title": "Claude Code Loop Engineering: Stop Prompting, Start Designing Autonomous Agent Workflows",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS20xZTRjNHVPVWRDMU1CaGZORzZLOHRaU01hR0ticXhzSDJBNEgwVXlqcmlxem5Gc3V4bFRRSjVDUktwcjQ1VlFWZnJkd1pGUXA0X1BiVUxOeTYxc3BFLWYtVnlzcUx3d1lBUi01Ui1CU2t0LVQ1NEZMemhGMGJLN3l3MkpaeEVpSE52eTd4SVhPdm45SVVzRE9wbmFZcjVNcEVZSUhtclZvOWxESHRleTc1TldOUk5wSnhpVlpjOGo3T3pKU2d0aGtQY3FaMGFMSmhFWjhfTjg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jun 22, 02:56 AM ET",
     "publishedAt": "2026-06-22T06:56:45+00:00",
     "source": "CyberSecurityNews",
@@ -180,15 +168,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 16, 04:32 PM ET",
-    "publishedAt": "2026-06-16T20:32:19+00:00",
-    "source": "Mashable",
-    "title": "This Copilot vulnerability could expose emails, 2FA codes, and other sensitive data",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 16, 05:00 PM ET",
+    "publishedAt": "2026-06-16T21:00:35+00:00",
+    "source": "Ars Technica",
+    "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkR6WGE0R0FBbV9IM2hfZGJxRTJFQ3YzZ19SNVRfRloyTWZ2MzY3QllrRE1Ic1U2TzNGMngxdVRGYUtCd1c2d25QdzFMd21rZWNOMFdkXzAyT0gyR19hQnlST2Nueml5M0xhYlhuNEJaWlVMSmpOazBabFdjb2luTjBtcl9UME9RdkI5OWRFZDMtdw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1dja1FVaUdNTVd0U3ZlV1ZOTGlVRkFGQWI1Q09CZFpzM1BMLS1vQ2VlV3F4dWVSNFRzek5kX3ZkMFBEM19BR1VGbzM3R2w5SE9TR3BjVVV1X3lLZWl3Vk13YUtGcHJpcU1tYnFweWhVUjMxdG9BYk5waG9NTFpOS3RqTVJvdGRDX0preUlpZ01GeXYxYUd3RWpKRjYtZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,6 +249,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxTlZjSWJHdl8tNlFadkQ5WTd4VTRPUFVzaGN2M3g0SDNEVlpZRVBaUDVQMTRVUkEzVE1HU1hvRlAtUkFRRjBOYW80SVNuUlpzNkZJV1pSZTVRZjFyVW5FbkR5UXZNVjVJQ1hLcUVxdFRwN1pnOGNhZnVGOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 11, 03:00 AM ET",
+    "publishedAt": "2026-06-11T07:00:00+00:00",
+    "source": "tech-insider.org",
+    "title": "GitHub Copilot Pricing [2026]: From $0 to $39/mo",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wSlZPaVVNMURMZDM2bXF6MEExSVR6NnpsdHlzcDlsNTVvQzdwVlVGcE5mWHkzLUxuaDV3Z2h0Z21nRExGRWZSdXpiWURJcDVYS2Q0dTY4Vk9vUUJZN3luSWJZUExVSmEwT3hKNkpvUXRINWxfWXBZ?oc=5",
     "difficulty": "News"
   },
   {
