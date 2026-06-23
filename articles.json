@@ -24,15 +24,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 22, 01:30 AM ET",
-    "publishedAt": "2026-06-22T05:30:41+00:00",
-    "source": "36 Kr",
-    "title": "Two Big Names Leave Google One After Another: What's the Bug with Google?",
-    "summary": "36 Kr is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 22, 03:18 AM ET",
+    "publishedAt": "2026-06-22T07:18:45+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Malicious JetBrains and VS Code Extensions Steal OpenAI, Anthropic, and DeepSeek API Keys",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mYlEyQWlDRC1rZVFqeHdRZ3lhRWxZQXYzY2JoaEVaQmpLYmhKZHE4VkhxYU5OMU5ZdHp5YVh1ZHdQdUdlMWdZN1hFei14NnZieUhv?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1ZOLXV2U3FZNU1raTBuVTBCN1lZb3liUEpLUkoya2lGRWtzSFQ3ZUFYUHVBaFRnZ1pyMGtfLXZBaXFwMkZtWXdWZjgtMXp6RkxNZmljbEJwSG1hZXFlWEhVb0lJdEphZ09EbDU2RFdVSkdxM3VQZE5LWVg1Sll3M1B1ZWpFWjZ1QS1XY0RDLXktUdIBlwFBVV95cUxOYThSZEhxaWpXaFFVNEcydjhFU2FwTUtRXzFpdzRpOXZrLVJSRkxyLURrMTJVQnBmOXVaN1dXSHVrektLbHVzN2lYZ2NvNnlkeHUteFdvQ3ZPdGRXai1IdzUyVEkwSmd1OWhXRHRrcnBMZ1NNbVFBNW1BLVRDMEZQT0JoUEg2UHpfM3pmUUtPdlUzTjB2ZGo4?oc=5",
     "difficulty": "News"
   },
   {
@@ -41,7 +41,7 @@
     "time": "Jun 21, 08:49 PM ET",
     "publishedAt": "2026-06-22T00:49:00+00:00",
     "source": "Asbury Park Press",
-    "title": "Is Claude down? Response incomplete Claude. Claude api error",
+    "title": "Response incomplete claude. Is Claude down? Claude api error",
     "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0ZLRW1MSjhETDZRQ0xxLVJRMTNFa2xvQlBaM0NoaVlTa0l1Vl9lb2RqMlBtWjJOa0pVUHdCTzNtbjl0OUZEc2txRjQyRjJCb3hkMk5kczdHV0puelZ2dGdMU2x4UThZc2wwVW1fV2h1VXExLXlWWTNiblVjOHVpU2VtVDlSZEdZcjk1ZXJrSGpzNFFYYXc4alVjdC1hMmtGVlQ5NE9SRnRUVVVuTUpaUEs1dw?oc=5",
@@ -132,15 +132,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 17, 04:18 AM ET",
-    "publishedAt": "2026-06-17T08:18:32+00:00",
-    "source": "Hackread",
-    "title": "15 Malicious JetBrains Plugins Caught Stealing DeepSeek, OpenAI API Keys",
-    "summary": "Hackread is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 17, 09:01 AM ET",
+    "publishedAt": "2026-06-17T13:01:20+00:00",
+    "source": "Mashable",
+    "title": "The first Google Home Speaker in years has Gemini, costs $99, and arrives soon",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSXNQdXdIcWlFcXlmc080UzY3cXhibWp6TG9KLW5obXVzVXp3WnEtaGpaa3Y1NkpuWTljZm1HVlBLWURIRGZNWUhUY3A3WU8xa1NNTm9NZTBtNUVMNDhjdHk2NUR2dGMyOW9pTW9kZDBSMXlfRFJYX1VjS1k4R3ZZaUx2b2NxMjA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KWUVZbVFUQzI3bm5QamdhV255RVNYUlVQbU9QcEdmNnZ5b2R2Tk9seEpNNGZMM3lHZFhKd1pNRHlwZGlPb2U3RlZ2bWxrcnRwUXozR0ZmZFBRMDNZR3BYVmNrb0J2ZUVIMUY4ZnBFOHVLM0JlS3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -204,6 +204,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 16, 04:50 AM ET",
+    "publishedAt": "2026-06-16T08:50:52+00:00",
+    "source": "Slator",
+    "title": "Google Expands AI Live Speech Translation with Gemini 3.5 Live Translate",
+    "summary": "Slator is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU0dzQTJLQXUxODVLZ1g2X3Q4ejg5cHFOcEt6ZGo4ZnZqbzBxcVFGNXdnUDQxVHRqZnRlS1E4LXJQbnE3VEFNQWV5bzFvaXU2cXNzNkF4OXNlX3NielRZU0xCSU40OE9zYTU1WEJSMjI4TTBNZ3hGRG9vUHJxNGNMMU5QY2wyZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 15, 10:19 PM ET",
@@ -230,6 +242,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 10, 03:00 AM ET",
+    "publishedAt": "2026-06-10T07:00:00+00:00",
+    "source": "WSJ",
+    "title": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic",
+    "summary": "WSJ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 09, 03:00 AM ET",
     "publishedAt": "2026-06-09T07:00:00+00:00",
     "source": "Anthropic",
@@ -237,18 +261,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 09, 03:00 AM ET",
-    "publishedAt": "2026-06-09T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYmE4REJXdHJpTzA0SVhCY3NMeTZTdGlGeVMtQUYtMFR4WnNKMWp2ZzM4Zi10UTREdGd3dzJ4X1dKN2hIWVZObkw4ZkdQX2tVdnMwRERfU0g3WG9kcGJNNUlmaDhzVER4VE9QQkJENXI2N0NhcnVCNFlpcEViNloyWG83UGlCdDFFaGt2bV9zLTdSZHBSUEUxb2xzeXE4SnM?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,15 +288,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 05, 03:00 AM ET",
-    "publishedAt": "2026-06-05T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 03, 03:00 AM ET",
+    "publishedAt": "2026-06-03T07:00:00+00:00",
+    "source": "9to5Mac",
+    "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally",
+    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTdaQVNjcDhoUTVkMTJqZ2FSZ3RrVWdOdmNRd2V6dVVoN09ET2s0czdlZXhFbjV1bE45T1E2bk9ZVUdWelFYMkxZLVFFN3pzQnNPMU1laGdaU2RyXzRacXRJeTJkX1pyTE9xOHpYcTBHd1hjbDFfdnpkQUdqUTI2emYwUlA2dThxMldXSFNTVTRKVWJnU2FxSnBpb1RTdU1md1k3QlhMQXJlejdjSzg4eTFCTnEzR1JvOHlPekp5UVIzemhuRml4S3ZyM21ZZw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZJRUxZUTdyTWFTTE51anU1NE9uTFQzZEdMNWQzdzk3anV1eHcyYWo0TkF0bU0zaEpBQ0VNWHRTa1d5M2RrdFBaNkNQWEgxMW5VNk9BSEVvZ2xFVVdLMThXZUJ4a3dUSHYxM3ZTalJFY2VHOEdwSUgwc3FkbWttcWwxdF9uMmZjb0FkVGxPTVk2Q2h2SzRFbWtBZFBTak9NNWRaMnF3X2hOMTFwMzhPTEZyb0pqVVU?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,18 +321,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 25, 03:00 AM ET",
-    "publishedAt": "2026-05-25T07:00:00+00:00",
-    "source": "9to5Google",
-    "title": "What Gemini features you get with Google AI Plus, Pro, & Ultra [May 2026]",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMERrMmhzSy1vOFdvSS1XaTAxeVZrSUNmYVgzbV92cE1Jal9fY2ljQmVqMXlRQXVZcm1jSWZNQTV6Qkw1M1BYTVN0YzhCejk3QzFKOHZQZEZPQzBuMml2elBKZkpYal9MLUMyR29xZEdsNHp0dHFhVnRHSl9QXzIyRw?oc=5",
     "difficulty": "News"
   },
   {
@@ -374,13 +374,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Mar 11, 03:00 AM ET",
-    "publishedAt": "2026-03-11T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "From model to agent: Equipping the Responses API with a computer environment",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sMkxnSDBNRXBuYUowR2J1YXRZSzdpQW1ac1pEczlZNktGNWZRMmdqbmFCR0VfdnpGR295Mlo5Sjg3Uk0ySTAzeWZhSHBFN3BfSFR3cW9DM2tqd1VnTjNGdDZsRHVyRnNIMTBDY2dPTXdzQnBp?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
