@@ -1,5 +1,17 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 23, 07:12 PM ET",
+    "publishedAt": "2026-06-23T23:12:36+00:00",
+    "source": "Visual Studio Magazine",
+    "title": "Infragistics Puts MCP Toolchain at Center of Ultimate 26.1",
+    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUUpqTnMzYmhUckxseEFJcWZWdEtJb2dMRTlKTW14OFpIbG80eTJQa2tod2xkaUlJbkFjM0lTaHNHeUtwQWQ3SDgzNXRFSnktcVNBLUFhMTU2QkJqd09BY29nMnpQenR0MDBEWkpLaFZ5Sy1hcC1idWczcXlsNnZuYzhjYTkwZmdfTmhDSXVXelFKSnZzMGlVOUF0OGRJbGNtbUVCSGNud0wwelBac1dvVndFaXJiQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 23, 04:59 PM ET",
@@ -9,6 +21,66 @@
     "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TekxQb2l2SDFDTmJpRlRZSzVRejk4M2VhYmYtRktjbWM0VkRySGtpMEt2WjdxYnVnbVFScW83cDI2VDVPcngwY0lqVUJaTGN0WXV5eGkyWTNVTS1Od2p4bEdrOTlJeE9mOEVCT3kwbF9RQmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 23, 04:00 PM ET",
+    "publishedAt": "2026-06-23T20:00:00+00:00",
+    "source": "BeInCrypto",
+    "title": "Claude Outage Hits Public Users While Government Tier Stays Online",
+    "summary": "BeInCrypto is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DSW5nQTRXc2JGXzBIbUVQU2l1U0NyaVdhYW1JeGtleFNEeEJlMER3VWt1VFhocnV6UkMtT3JBeUhJV0JGLTBLOUNjX0lDZ1A3UWdUdXlneUE0cFNlRWtHLUoySlM4eWpISy1FZlNjY2J2bE5L?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 23, 11:39 AM ET",
+    "publishedAt": "2026-06-23T15:39:57+00:00",
+    "source": "Tech Times",
+    "title": "Claude Outage Tops 8,000 Reports: Agentic Pipeline Failures Mount Before Anthropic IPO",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVmRfZFVzc0RVWEVoNFNkRDViT0dCRmRiMFNlZGRuemFfejhESVpvS1NBc3dWWTJHT2ZiWFU4TEgyVmpQaGlPcnlObUR6MExZcGtrdzFEMzJzS3J2RE5FSnVCY2ZRdnJzc1N3Y2hkYzU3T3J4SzliaWlHRGpyMXFOMHd4dldkUVR4dldyT3VERDd0LUNpRTZ6R2poYTg2ODBZMDV1aE5CZ1FQTnE0MnBDTkFKaEFCOVB6UW9LTnJSZDdiZWZNTW11NWo2Sy1rX2RHeGtpQm53?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 23, 11:25 AM ET",
+    "publishedAt": "2026-06-23T15:25:00+00:00",
+    "source": "9to5Google",
+    "title": "Claude is back online after major outage affects most models",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkMFFpNzZOVHNFRktiV2RDWUlVZDBwSVJ0TndnUVVoQ1N2bERWVW9saUJRSUg2c0FpS3VPVzV0S013aDhad1ZwbnlKMkZKdndCZ3BjdnRETlpmYzNuRUZHVG81WEZYQ1dlSTNGaEgxSkNLUVlpSzZLXzNZaVc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 23, 11:22 AM ET",
+    "publishedAt": "2026-06-23T15:22:39+00:00",
+    "source": "Let's Data Science",
+    "title": "Claude experiences outage, Anthropic deploys fix",
+    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ3piYzJHUEp6WEplVWlOd015RXF1Sl9CcjEwa1dBQ0t2NjhIbzREUVN0NUlKeGNMVzNvOVBDSkMzRFpIZkhQV1FQbWNsZnRpSm42M0pqSFV5VUNYNXJxYUJqOTZJQUF4VmVZeVY5TVhsUTFwRDZKOEhXbXR3MlB4ZW9DUDBvUXF3UkRXeFNiREw3X28?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 23, 10:37 AM ET",
+    "publishedAt": "2026-06-23T14:37:00+00:00",
+    "source": "Fortune",
+    "title": "Anthropic engineering leader says Claude code made employees' work a 'lonely experience'",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWc2RHNGM21ydVh1emVTZkZJSjQzYVI5ZkpKVWRPRm5wMGpScktOMHRUWDV3Z1lJRVJNbC1yNFNva3dsUjdIdFFPU2VUaHNURWVQTTU2QTFsZHlkX0cxRHdNX2NLREZSX2pva3JSZmc3OE5ZRmxEalZqeUQ0Tm9TaEFDUFNLYjNqXzB4WGJTU2RrbUZJOUdtcldicTRNQmN0cl94aGV1Yw?oc=5",
     "difficulty": "News"
   },
   {
@@ -60,6 +132,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 22, 03:52 PM ET",
+    "publishedAt": "2026-06-22T19:52:56+00:00",
+    "source": "The New Stack",
+    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 22, 02:14 PM ET",
@@ -108,6 +192,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 21, 08:49 PM ET",
+    "publishedAt": "2026-06-22T00:49:00+00:00",
+    "source": "Asbury Park Press",
+    "title": "Response incomplete claude. Is Claude down? Claude api error",
+    "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0ZLRW1MSjhETDZRQ0xxLVJRMTNFa2xvQlBaM0NoaVlTa0l1Vl9lb2RqMlBtWjJOa0pVUHdCTzNtbjl0OUZEc2txRjQyRjJCb3hkMk5kczdHV0puelZ2dGdMU2x4UThZc2wwVW1fV2h1VXExLXlWWTNiblVjOHVpU2VtVDlSZEdZcjk1ZXJrSGpzNFFYYXc4alVjdC1hMmtGVlQ5NE9SRnRUVVVuTUpaUEs1dw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 18, 03:10 PM ET",
@@ -117,6 +213,30 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CWWYwb3Vnc09FSlZocUpXaUtnUVg3SjRyWWNVOEd2ZWhZUTdBVmpadTZCRkxjUFViVTJtSzZpSl9wLVowSnBYTEg4Z3VUMnBmcmE5Tjd5Q1VZRlNZb19wRzhKTGwxSUlYVmlv?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 18, 03:39 AM ET",
+    "publishedAt": "2026-06-18T07:39:01+00:00",
+    "source": "DevOps.com",
+    "title": "Anthropic Hits Pause on Claude Agent SDK Billing Change, For Now",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWlGX0RCS2hyVlN2U1llUl9JR1NYQjhzMVhZZmRrSlFNa1dQTGFxRzFVN1lmWHBPUVBwTmpqNGJfTkdWQlh0eGw4VlgtdGZ6VTdrdVFIWW1xc0ROUWwzekxNSG5WNWtabkQwUmdjOFNhUGIxamotcUNveE5FRzB3RmV0dnhfellMNHMw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 18, 03:00 AM ET",
+    "publishedAt": "2026-06-18T07:00:00+00:00",
+    "source": "Augment Code",
+    "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
+    "summary": "Augment Code is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,51 +276,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 13, 01:16 AM ET",
-    "publishedAt": "2026-06-13T05:16:41+00:00",
-    "source": "www.trendmicro.com",
-    "title": "Governing Claude Enterprise in Environments Where Inline Controls Can't Go",
-    "summary": "www.trendmicro.com is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 11, 03:00 AM ET",
+    "publishedAt": "2026-06-11T07:00:00+00:00",
+    "source": "tech-insider.org",
+    "title": "GitHub Copilot Pricing [2026]: From $0 to $39/mo",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR0Q1bXhwa0U5LWhfWlBLTUFRTHpmVW5ERnZfcmliUHhZcTZraUo4SmxuNVR2MGlRT005QWhiSzZJeXQ0NmJPbFJFS0VFd2hYNWZBUjJQdGNBM1V5d1E1ZllMSmRtYmlfYUZGY2xwR1Q5Vk9EZW5aZTJadXByekVETjd3REFfZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 10, 03:00 AM ET",
-    "publishedAt": "2026-06-10T07:00:00+00:00",
-    "source": "MobiHealthNews",
-    "title": "Anthropic unveils Claude Fable 5 and Mythos 5 with safeguards",
-    "summary": "MobiHealthNews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOakRuTjZibnFraXY2OHFoSVRQOEt6SmtrREtJZ08tODcyczE3RXlWazJsNXFpS3lOWGVvNGYwVld6MG51MG9NSUFlbTBkWm9rTVNSTGplYVByeEE2RWRQUnFOUndLTGVZQWVBaW9WZFE4U2U4TDJBRUFRQURCcm1qLTdOVXZMZng4LUw1WERSNk5QT1JaMmRj?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 10, 03:00 AM ET",
-    "publishedAt": "2026-06-10T07:00:00+00:00",
-    "source": "The Futurum Group",
-    "title": "Claude Fable 5 Is Most Consequential Where Software Is Built",
-    "summary": "The Futurum Group is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGctR1kzWVlnNlc3VndKclZMZkpHU0RuQ2gzd0dGM0JEeDQyRUNpY1J0V0VGc1I1Y2dVWkxMVlh4RENzdWxaU21UbDJ5ekdpdHlxb3VJZVM0NG5laXR2NnBTWEV4SldzWWZUaEZpTEk5Rld5T1RQYm9oeTQ2ajVUaEJub1o4dzRfZFhNZXBzQ0t2N2gzY2kySnF5OA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 09, 01:56 PM ET",
-    "publishedAt": "2026-06-09T17:56:30+00:00",
-    "source": "crypto.news",
-    "title": "Anthropic launches Claude Fable 5 with new safeguards",
-    "summary": "crypto.news is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JQmJlVVgxb2M4SXhJUW5HN1hyYkM3NzRaV1U1RHdmZzREVEhWQ1JRX2c0dW5hUlZrbTE3X0JIZnFIelk5b0V5enpkWkNDZjNjQVlJczhuNFlLTllIdE54TU1MNDdWR2p1QTIzS3lyY2xLRnNmaTZoYXU1R1hUS0U?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wSlZPaVVNMURMZDM2bXF6MEExSVR6NnpsdHlzcDlsNTVvQzdwVlVGcE5mWHkzLUxuaDV3Z2h0Z21nRExGRWZSdXpiWURJcDVYS2Q0dTY4Vk9vUUJZN3luSWJZUExVSmEwT3hKNkpvUXRINWxfWXBZ?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,6 +300,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 09, 03:00 AM ET",
+    "publishedAt": "2026-06-09T07:00:00+00:00",
+    "source": "blog.google",
+    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYmE4REJXdHJpTzA0SVhCY3NMeTZTdGlGeVMtQUYtMFR4WnNKMWp2ZzM4Zi10UTREdGd3dzJ4X1dKN2hIWVZObkw4ZkdQX2tVdnMwRERfU0g3WG9kcGJNNUlmaDhzVER4VE9QQkJENXI2N0NhcnVCNFlpcEViNloyWG83UGlCdDFFaGt2bV9zLTdSZHBSUEUxb2xzeXE4SnM?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 08, 03:00 AM ET",
@@ -225,42 +321,6 @@
     "summary": "Hackaday is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU5BWjUzUHdHT1UyQmhkS2RnTTJMR2NhTmpnX0xpX1dmTXRVRVdST1FzY2tLVkI5SmZyVUJ3MFgyVW9CMHk5enlxTmphMk9oeHd5cEgzOFl1NmZrVURMTzl2cllXeEpoOVR5Y3ZfRzNaYURpQXpJYl93N1dHX3NXRlBlRkJub3M3MUhjT2NXaWR3ejRWTzZHTFRIYzY4ZWpoNlk0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 06, 09:59 AM ET",
-    "publishedAt": "2026-06-06T13:59:39+00:00",
-    "source": "Fathom Journal",
-    "title": "How To Use Claude Code For FREE - No Subscription Needed! (5U6w4CwTBl)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpcmpPblMzOUNYMERmcUtqYWNYQ0J4bWZXTEszVXZzaUpWQWdBQTF0SXRSU0w5ajJuaDFZYVlQWnA4Y1JKSFZDck55Y3dDV3g1MHcxczNOMHY1MTFMX1lmSGpGZUQwaTN0eEY2RWZQUFpFRjhqZ3c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 03, 03:00 AM ET",
-    "publishedAt": "2026-06-03T07:00:00+00:00",
-    "source": "9to5Mac",
-    "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally",
-    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZJRUxZUTdyTWFTTE51anU1NE9uTFQzZEdMNWQzdzk3anV1eHcyYWo0TkF0bU0zaEpBQ0VNWHRTa1d5M2RrdFBaNkNQWEgxMW5VNk9BSEVvZ2xFVVdLMThXZUJ4a3dUSHYxM3ZTalJFY2VHOEdwSUgwc3FkbWttcWwxdF9uMmZjb0FkVGxPTVk2Q2h2SzRFbWtBZFBTak9NNWRaMnF3X2hOMTFwMzhPTEZyb0pqVVU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 02, 09:49 PM ET",
-    "publishedAt": "2026-06-03T01:49:19+00:00",
-    "source": "Augment Code",
-    "title": "CC Switch hits 89.1K stars as a unified manager for AI coding CLIs",
-    "summary": "Augment Code is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhbjc2Rk1RNGExekhsWC0zSG12ajNsX1lhamprVkJHNDk2N3ZtSUhseHJmdUJEZ1pwMDQzQ3BGeU9MenhwTE1tZE5TaEZkdFBTOVZXSUNiemJTWDM4Sy1LVU1XRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -290,18 +350,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "May 29, 03:00 AM ET",
-    "publishedAt": "2026-05-29T07:00:00+00:00",
-    "source": "Fortune",
-    "title": "Exclusive: Microsoft is building a super app that combines coding, chat, and other Copilot AI tools",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "May 24, 03:00 AM ET",
     "publishedAt": "2026-05-24T07:00:00+00:00",
     "source": "AI: Reset to Zero",
@@ -309,18 +357,6 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "May 21, 03:00 AM ET",
-    "publishedAt": "2026-05-21T07:00:00+00:00",
-    "source": "HackerNoon",
-    "title": "Claude Code Won’t Write Production-Ready Code Until You Do This",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWjBVSHJmb3NnaXl6c0Vzb1V1QlZoUkJtNG5naWJ1Ql9ZVWJuUy1YVUUxaVFFMjFhMkt5cURVbDBITEhvVDZoQm9ybmNZZU9BTkg0c0xGSGNJdVZCOGxuVG1jV1ZXU3hBWXhUVVh4V0R2VWpaSXc2MDZGX1Vrem5nM21vc3U1NjdkcVQ1ZHhB?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,42 +381,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 13, 03:00 AM ET",
-    "publishedAt": "2026-05-13T07:00:00+00:00",
-    "source": "Microsoft",
-    "title": "UC San Diego prepares students for AI-driven industry with GitHub Copilot",
-    "summary": "Microsoft is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdG5pT0QxVzZ5a2dmY2Fkb0gwbktuR0ZrTllyc2htRy1IMnNiYURQWk5rRWRxUzhBamxleWd3Q2g2a2FsRnVuTjF4bzI5NlZXWE5sakY2MXpLTUZ5WHA3Z3FNalowajFidzhnazdzTVNrY0FkYjFsZnBZbmF4ZGJpYkFPZTBQYzVobmducE52T1dyR1JxVTg1TFMxN2ZsUzF3VUE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Apr 24, 03:00 AM ET",
-    "publishedAt": "2026-04-24T07:00:00+00:00",
-    "source": "wiz.io",
-    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
-    "summary": "wiz.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 15, 03:00 AM ET",
-    "publishedAt": "2025-10-15T07:00:00+00:00",
-    "source": "The GitHub Blog",
-    "title": "Copilot: Faster, smarter, and built for how you work now",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYzVqTTg0TFdzMUZTR2Naa2ttUk9FOWVwVFVKYWV3M19TME9TanI1M0dnMHlscU1IY0VIc1lid2pieDB3bDFoNzg1VG92ZWhPSkdKbC15aGE5MElSNkN1aWRGMEtTbmZ0V2dPLVA4X0VwazdHejhJVHRMZldiM0RCWTZkZGJIUF9OcjYzRlpFRzJ0NWhTckZPMDRXSkdwU1ZaY1QwM25ySGM3MjlaZWJ1Qlg5U2kzVjdqR1ZDejYtRFlEOTRlNEtoOGRXeVk5SW5pckpPQVRaQTNFZVVOMHN3Rnd4V1NsT1E5WHJ5YXZUTTdzSnJQTXZhTk1DUWIxUmtkd1NSX0hzS0lobTlTMmxQTjFRTFBHdW5ubVRVNVBBdEs3cWc?oc=5",
     "difficulty": "News"
   }
 ]
