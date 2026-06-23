@@ -48,6 +48,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 23, 09:18 AM ET",
+    "publishedAt": "2026-06-23T13:18:51+00:00",
+    "source": "AOL.com",
+    "title": "Response incomplete claude. Is Claude down? Claude api error",
+    "summary": "AOL.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRk5UZi0tZkV0TTg2NjAyZmJuX25TWVRsYmI1cGNMbUFtWEhTM01aY3Z3V1ZYT2NUUExiaGtVNTJKYWhoSFVuc2pKTi13NXNULVNGcTlpeTZJeGVkSkJGdzlJTGVqcjJFYmZDcDJJdnJsRGtNYXRCc0V5dHpQZF9wa254QnQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 23, 08:29 AM ET",
@@ -141,30 +153,6 @@
     "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 22, 03:18 AM ET",
-    "publishedAt": "2026-06-22T07:18:45+00:00",
-    "source": "CyberSecurityNews",
-    "title": "Malicious JetBrains and VS Code Extensions Steal OpenAI, Anthropic, and DeepSeek API Keys",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1ZOLXV2U3FZNU1raTBuVTBCN1lZb3liUEpLUkoya2lGRWtzSFQ3ZUFYUHVBaFRnZ1pyMGtfLXZBaXFwMkZtWXdWZjgtMXp6RkxNZmljbEJwSG1hZXFlWEhVb0lJdEphZ09EbDU2RFdVSkdxM3VQZE5LWVg1Sll3M1B1ZWpFWjZ1QS1XY0RDLXktUdIBlwFBVV95cUxOYThSZEhxaWpXaFFVNEcydjhFU2FwTUtRXzFpdzRpOXZrLVJSRkxyLURrMTJVQnBmOXVaN1dXSHVrektLbHVzN2lYZ2NvNnlkeHUteFdvQ3ZPdGRXai1IdzUyVEkwSmd1OWhXRHRrcnBMZ1NNbVFBNW1BLVRDMEZQT0JoUEg2UHpfM3pmUUtPdlUzTjB2ZGo4?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 21, 08:49 PM ET",
-    "publishedAt": "2026-06-22T00:49:00+00:00",
-    "source": "Asbury Park Press",
-    "title": "Response incomplete claude. Is Claude down? Claude api error",
-    "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0ZLRW1MSjhETDZRQ0xxLVJRMTNFa2xvQlBaM0NoaVlTa0l1Vl9lb2RqMlBtWjJOa0pVUHdCTzNtbjl0OUZEc2txRjQyRjJCb3hkMk5kczdHV0puelZ2dGdMU2x4UThZc2wwVW1fV2h1VXExLXlWWTNiblVjOHVpU2VtVDlSZEdZcjk1ZXJrSGpzNFFYYXc4alVjdC1hMmtGVlQ5NE9SRnRUVVVuTUpaUEs1dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,6 +300,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 24, 03:00 AM ET",
+    "publishedAt": "2026-05-24T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "May 21, 03:00 AM ET",
@@ -324,6 +324,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "May 20, 03:00 AM ET",
+    "publishedAt": "2026-05-20T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 19, 03:00 AM ET",
@@ -333,18 +345,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 13, 03:00 AM ET",
-    "publishedAt": "2026-05-13T07:00:00+00:00",
-    "source": "Microsoft",
-    "title": "UC San Diego prepares students for AI-driven industry with GitHub Copilot",
-    "summary": "Microsoft is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdG5pT0QxVzZ5a2dmY2Fkb0gwbktuR0ZrTllyc2htRy1IMnNiYURQWk5rRWRxUzhBamxleWd3Q2g2a2FsRnVuTjF4bzI5NlZXWE5sakY2MXpLTUZ5WHA3Z3FNalowajFidzhnazdzTVNrY0FkYjFsZnBZbmF4ZGJpYkFPZTBQYzVobmducE52T1dyR1JxVTg1TFMxN2ZsUzF3VUE?oc=5",
     "difficulty": "News"
   },
   {
