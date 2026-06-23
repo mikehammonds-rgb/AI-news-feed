@@ -1,5 +1,53 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 23, 11:39 AM ET",
+    "publishedAt": "2026-06-23T15:39:57+00:00",
+    "source": "Tech Times",
+    "title": "Claude Outage Tops 8,000 Reports: Agentic Pipeline Failures Mount Before Anthropic IPO",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVmRfZFVzc0RVWEVoNFNkRDViT0dCRmRiMFNlZGRuemFfejhESVpvS1NBc3dWWTJHT2ZiWFU4TEgyVmpQaGlPcnlObUR6MExZcGtrdzFEMzJzS3J2RE5FSnVCY2ZRdnJzc1N3Y2hkYzU3T3J4SzliaWlHRGpyMXFOMHd4dldkUVR4dldyT3VERDd0LUNpRTZ6R2poYTg2ODBZMDV1aE5CZ1FQTnE0MnBDTkFKaEFCOVB6UW9LTnJSZDdiZWZNTW11NWo2Sy1rX2RHeGtpQm53?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 23, 11:25 AM ET",
+    "publishedAt": "2026-06-23T15:25:00+00:00",
+    "source": "9to5Google",
+    "title": "Claude is back online after major outage affects most models",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkMFFpNzZOVHNFRktiV2RDWUlVZDBwSVJ0TndnUVVoQ1N2bERWVW9saUJRSUg2c0FpS3VPVzV0S013aDhad1ZwbnlKMkZKdndCZ3BjdnRETlpmYzNuRUZHVG81WEZYQ1dlSTNGaEgxSkNLUVlpSzZLXzNZaVc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 23, 11:22 AM ET",
+    "publishedAt": "2026-06-23T15:22:39+00:00",
+    "source": "Let's Data Science",
+    "title": "Claude experiences outage, Anthropic deploys fix",
+    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ3piYzJHUEp6WEplVWlOd015RXF1Sl9CcjEwa1dBQ0t2NjhIbzREUVN0NUlKeGNMVzNvOVBDSkMzRFpIZkhQV1FQbWNsZnRpSm42M0pqSFV5VUNYNXJxYUJqOTZJQUF4VmVZeVY5TVhsUTFwRDZKOEhXbXR3MlB4ZW9DUDBvUXF3UkRXeFNiREw3X28?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 23, 10:37 AM ET",
+    "publishedAt": "2026-06-23T14:37:00+00:00",
+    "source": "Fortune",
+    "title": "Anthropic engineering leader says Claude code made employees' work a 'lonely experience'",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWc2RHNGM21ydVh1emVTZkZJSjQzYVI5ZkpKVWRPRm5wMGpScktOMHRUWDV3Z1lJRVJNbC1yNFNva3dsUjdIdFFPU2VUaHNURWVQTTU2QTFsZHlkX0cxRHdNX2NLREZSX2pva3JSZmc3OE5ZRmxEalZqeUQ0Tm9TaEFDUFNLYjNqXzB4WGJTU2RrbUZJOUdtcldicTRNQmN0cl94aGV1Yw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 23, 08:29 AM ET",
@@ -9,18 +57,6 @@
     "summary": "ZDNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mU2JQVDlfWldQdEJrczJoNGREMkVwclBnR3FMVldjenVmSUk2OFY4eFRCaUhhalkwd0dhQ2ZJTzg4LXJ6X3JKMlRQcDRCdFYtREc0S19tNms4d0FEVWR4b0NwaW9aWllzRjVTUTlPVWhDWW1nMUE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 23, 06:30 AM ET",
-    "publishedAt": "2026-06-23T10:30:37+00:00",
-    "source": "How-To Geek",
-    "title": "4 reasons my small local AI model gets more use than Claude or Gemini",
-    "summary": "How-To Geek is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTWhycnJMYmd1N1JCVTYyOWRzRWxMVlotTkVVS0dsejlVUV9xc2RWZm9PczJFLWRlQW5WMG93X1JYalg0V0tqLXpuc0JsclYzWGxUdnBSNDhTalJ1YnV6YnpGQ0kyQl8tZGt2UGxMMVJCRTVlZEprNXlhREhQVC1QWHNDNnlPd2tDdkE?oc=5",
     "difficulty": "News"
   },
   {
@@ -60,13 +96,25 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 22, 03:52 PM ET",
+    "publishedAt": "2026-06-22T19:52:56+00:00",
+    "source": "The New Stack",
+    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 22, 02:14 PM ET",
     "publishedAt": "2026-06-22T18:14:55+00:00",
-    "source": "the-decoder.com",
+    "source": "The Decoder",
     "title": "Google makes Interactions API the default interface for Gemini models and agents",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3NSZjhETkM1YXNzQ2l1YUhjVFRwb1NVeWtGaTBRdW5Ra3E0bXJrOWVYcFV0c2E3VTlaeXJwRlZibk5GOUc4TUl6cF9uT2xGY2tsTFh0aTZNS1c2VHAxT3d1RG5QTnI5SWdFRUV0bDlIenhRTW4xNG5vMS1nM0s4WUM0NC1VR2d1TkVodGt6N1d6YW44dWc4dDgtdHZpMVRfRjlBOU1EYkk?oc=5",
     "difficulty": "News"
@@ -98,6 +146,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 22, 03:18 AM ET",
+    "publishedAt": "2026-06-22T07:18:45+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Malicious JetBrains and VS Code Extensions Steal OpenAI, Anthropic, and DeepSeek API Keys",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1ZOLXV2U3FZNU1raTBuVTBCN1lZb3liUEpLUkoya2lGRWtzSFQ3ZUFYUHVBaFRnZ1pyMGtfLXZBaXFwMkZtWXdWZjgtMXp6RkxNZmljbEJwSG1hZXFlWEhVb0lJdEphZ09EbDU2RFdVSkdxM3VQZE5LWVg1Sll3M1B1ZWpFWjZ1QS1XY0RDLXktUdIBlwFBVV95cUxOYThSZEhxaWpXaFFVNEcydjhFU2FwTUtRXzFpdzRpOXZrLVJSRkxyLURrMTJVQnBmOXVaN1dXSHVrektLbHVzN2lYZ2NvNnlkeHUteFdvQ3ZPdGRXai1IdzUyVEkwSmd1OWhXRHRrcnBMZ1NNbVFBNW1BLVRDMEZQT0JoUEg2UHpfM3pmUUtPdlUzTjB2ZGo4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 21, 08:49 PM ET",
     "publishedAt": "2026-06-22T00:49:00+00:00",
     "source": "Asbury Park Press",
@@ -105,18 +165,6 @@
     "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0ZLRW1MSjhETDZRQ0xxLVJRMTNFa2xvQlBaM0NoaVlTa0l1Vl9lb2RqMlBtWjJOa0pVUHdCTzNtbjl0OUZEc2txRjQyRjJCb3hkMk5kczdHV0puelZ2dGdMU2x4UThZc2wwVW1fV2h1VXExLXlWWTNiblVjOHVpU2VtVDlSZEdZcjk1ZXJrSGpzNFFYYXc4alVjdC1hMmtGVlQ5NE9SRnRUVVVuTUpaUEs1dw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 21, 08:47 PM ET",
-    "publishedAt": "2026-06-22T00:47:35+00:00",
-    "source": "Hindustan Times",
-    "title": "Is Claude AI down? API 529 overloaded errors hit coding tasks and Claude Code | Hindustan Times",
-    "summary": "Hindustan Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjlIUTRXVDktRW9DZXFTQWV1N1NXSXh6ZmZZN0J5MUxZLUk2SEM2R3U5ejRVcktnSTdMQkU0WXBDX2EyOGdZYTB5WWR0WTU0TXM5U3U2ZlZqeHh5ZThYZXo1VWNyWmZjbUtYYkRBVHdZQ1hoRjVSZ251bTY3NHpVT3BLdFMyQ05JbXVFYmhuRkdRV215N0J3RlhVak1uVk5hNS01dlA4bW0xZDV5alZYQTFYRWlsdmc4dHJGRGpuQjZNOUtTOTJsdHZTOXVzbXdpa0huRnpseVhJdUQ1X2o3UdIB5gFBVV95cUxNSWlvRGs5SllTVnBidE44NWR0ZkJuOFgybU9xOF9SZ1N3Z2dENm1UbVBGYURuVkZfdnoydGwtNUFTQnJQaUpKOWtxd196aW55bkZXLVFZTC1lWjZjek1RbzNLa19fOV80MDVjWTRVUTZVWUkzNmstZm1IcTFJLUl6WC1HaVNHSFB5Z3Z6N0pFX0Z2UFpFbU1vVVFhNkEtOXBoRURFSjNzUWkydXBmN3htMnR5NEoyWmE5N0dkTS0weDhhcE40X0l3V0NXZVhGRDBtbENBUmJTVHdvdjhTQ1J1QWhmdnlVQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -146,18 +194,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 18, 11:55 AM ET",
-    "publishedAt": "2026-06-18T15:55:00+00:00",
-    "source": "Atlassian",
-    "title": "Introducing Claude Agent for Jira",
-    "summary": "Atlassian is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81RWxLeDdZZ0h3RHB4RU5ISFZYVjROTldWdnloRmloOXVNUXNvU0Eyc2xhQjVjNDNMclRDSTNhbUxlNlFMSzZnb0JiTWFRTE9iTU5CUF9YZHNBZURRaHZCQWd4SG1XWUpxdmV2eEVKOTBKTjg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jun 18, 03:39 AM ET",
     "publishedAt": "2026-06-18T07:39:01+00:00",
     "source": "DevOps.com",
@@ -180,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 17, 09:01 AM ET",
-    "publishedAt": "2026-06-17T13:01:20+00:00",
-    "source": "Mashable",
-    "title": "The first Google Home Speaker in years has Gemini, costs $99, and arrives soon",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KWUVZbVFUQzI3bm5QamdhV255RVNYUlVQbU9QcEdmNnZ5b2R2Tk9seEpNNGZMM3lHZFhKd1pNRHlwZGlPb2U3RlZ2bWxrcnRwUXozR0ZmZFBRMDNZR3BYVmNrb0J2ZUVIMUY4ZnBFOHVLM0JlS3c?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 16, 12:02 PM ET",
@@ -204,15 +228,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 16, 08:11 AM ET",
-    "publishedAt": "2026-06-16T12:11:30+00:00",
-    "source": "The New Stack",
-    "title": "Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 10:52 AM ET",
+    "publishedAt": "2026-06-16T14:52:06+00:00",
+    "source": "Reuters",
+    "title": "SpaceX locks in $60 billion Cursor deal to close gap with rivals in AI coding race",
+    "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUV3RjhQdHFtT1NUQjNCbWZLSEJnOGZncFRWQ0p4U0NUTzFRUmpZYmV3WnhCNXdzR3I3UmpuVHIyYlluSEROX3A5RThIbTZPejd3LWtRYVdUWnBMVXluX1BMUjc2Mk1wZVhCOVhoX3h2ZklpZVRBTjFMaFQtX1N0d010cw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmxuTnhpZnhfWk9xMXRkVFVNeXBjXzZSRmZRakJpR0RzZnBxOWFfMk40NW1yaXBvTlBQY2FhbG1wY0w4d0wyRFhIOUhjSlF5VW5Fc3pwZ2xRaERESmhmWGp0UE4yT1l2d0M2N2R2UTlLRGFYSkczc2wxcWxCSU1TMzhleHJMR2pKSjcydDRGMHE?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,42 +252,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 15, 10:19 PM ET",
-    "publishedAt": "2026-06-16T02:19:42+00:00",
-    "source": "OpenAI",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxTlZjSWJHdl8tNlFadkQ5WTd4VTRPUFVzaGN2M3g0SDNEVlpZRVBaUDVQMTRVUkEzVE1HU1hvRlAtUkFRRjBOYW80SVNuUlpzNkZJV1pSZTVRZjFyVW5FbkR5UXZNVjVJQ1hLcUVxdFRwN1pnOGNhZnVGOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 11, 03:00 AM ET",
-    "publishedAt": "2026-06-11T07:00:00+00:00",
-    "source": "tech-insider.org",
-    "title": "GitHub Copilot Pricing [2026]: From $0 to $39/mo",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wSlZPaVVNMURMZDM2bXF6MEExSVR6NnpsdHlzcDlsNTVvQzdwVlVGcE5mWHkzLUxuaDV3Z2h0Z21nRExGRWZSdXpiWURJcDVYS2Q0dTY4Vk9vUUJZN3luSWJZUExVSmEwT3hKNkpvUXRINWxfWXBZ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 10, 05:35 PM ET",
-    "publishedAt": "2026-06-10T21:35:43+00:00",
-    "source": "JD Supra",
-    "title": "When the worm targets the assistant: Miasma turns AI coding agents into the trigger",
-    "summary": "JD Supra is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT1U5cFVIQXBsMEJFU1hFbmFuVlJ5X0V6dERsbUtNWXJYV1Vub0N6QWYxemhHNnBMLXpmR1ZRb3JlUmlza3BXbFhod0dqVC1QXy1heXYzWEUtc1VzRlFCQnVBNHRlX2Q4c2cyUlk0WXVOSEMyT3hBRm1od3F6NkZNUjF3cmE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 10, 03:00 AM ET",
@@ -273,18 +261,6 @@
     "summary": "WSJ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 09, 03:00 AM ET",
-    "publishedAt": "2026-06-09T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Claude Fable 5 and Claude Mythos 5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
     "difficulty": "News"
   },
   {
@@ -336,27 +312,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 24, 03:00 AM ET",
-    "publishedAt": "2026-05-24T07:00:00+00:00",
-    "source": "AI: Reset to Zero",
-    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 21, 03:00 AM ET",
+    "publishedAt": "2026-05-21T07:00:00+00:00",
+    "source": "The Verge",
+    "title": "I can’t believe how fast Google vibe coded my first Android app",
+    "summary": "The Verge is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVBIN1d1a2ZPSDVHNmhPXy1QeXIxcTZVS2lFXy1zQmdJcVFOaWg0QmM0eW1HQlFOYlV6Z3doS1lwSXBlMFBqYlFRXzRVanNLVUFOTWpzSjV3SXVTX0NqdTdwdjhyd0J0UzRpRVVzSXBva05ILWV6cXR4UFZrS3pqcHFtSjZXcmNtRDJqYlU4cXdqUVVvRXpHSWExMHltQnk2YTZtNkxLMlVrQXFhYi1BRFNB?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,6 +333,30 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 13, 03:00 AM ET",
+    "publishedAt": "2026-05-13T07:00:00+00:00",
+    "source": "Microsoft",
+    "title": "UC San Diego prepares students for AI-driven industry with GitHub Copilot",
+    "summary": "Microsoft is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdG5pT0QxVzZ5a2dmY2Fkb0gwbktuR0ZrTllyc2htRy1IMnNiYURQWk5rRWRxUzhBamxleWd3Q2g2a2FsRnVuTjF4bzI5NlZXWE5sakY2MXpLTUZ5WHA3Z3FNalowajFidzhnazdzTVNrY0FkYjFsZnBZbmF4ZGJpYkFPZTBQYzVobmducE52T1dyR1JxVTg1TFMxN2ZsUzF3VUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
     "difficulty": "News"
   },
   {
