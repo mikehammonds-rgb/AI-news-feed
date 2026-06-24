@@ -60,6 +60,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 24, 06:47 AM ET",
+    "publishedAt": "2026-06-24T10:47:00+00:00",
+    "source": "The Business Journals",
+    "title": "Cincinnati nonprofit selected by AI-maker Anthropic for fellowship program",
+    "summary": "The Business Journals is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDdBcHFWQldsYndva2ExRS16bC1VcnJZSllzMDNfbnc0QVBDRFdaM1V6Tlo1bE5pLUhiMHZxWHdXdmZmdXpmaG1ub1diekFueGVhcHU4bnFLbkl2eDEwTlRCU2QyQ193aGRPV201XzVOZlRWZl9Pd2hrendodndpeTI3R1BjX1ptVDBIRnpTM0ZsSU95UmttWk1IT09RdW1ubVE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 24, 04:12 AM ET",
@@ -84,18 +96,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 23, 04:59 PM ET",
-    "publishedAt": "2026-06-23T20:59:00+00:00",
-    "source": "Crypto Briefing",
-    "title": "OpenAI ships over 30 new models and tools for API in six months",
-    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TekxQb2l2SDFDTmJpRlRZSzVRejk4M2VhYmYtRktjbWM0VkRySGtpMEt2WjdxYnVnbVFScW83cDI2VDVPcngwY0lqVUJaTGN0WXV5eGkyWTNVTS1Od2p4bEdrOTlJeE9mOEVCT3kwbF9RQmc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 23, 11:25 AM ET",
@@ -117,18 +117,6 @@
     "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWc2RHNGM21ydVh1emVTZkZJSjQzYVI5ZkpKVWRPRm5wMGpScktOMHRUWDV3Z1lJRVJNbC1yNFNva3dsUjdIdFFPU2VUaHNURWVQTTU2QTFsZHlkX0cxRHdNX2NLREZSX2pva3JSZmc3OE5ZRmxEalZqeUQ0Tm9TaEFDUFNLYjNqXzB4WGJTU2RrbUZJOUdtcldicTRNQmN0cl94aGV1Yw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 23, 04:01 AM ET",
-    "publishedAt": "2026-06-23T08:01:07+00:00",
-    "source": "Fathom Journal",
-    "title": "How I Vibe Coded A $400K/mo App With Claude Code (Full Tutorial) Volo Pan Am 73 (wYpTXDo3mS)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02SkZrMDNhMHo4RnRheEp6bHlrOVcxck16VjhyWURMWHNidTFSR0Y2U2ZvYVBXRWZpNk1kRUZRTlZtbGhLdHpkYzktOXVpYk8yVXJpWmpjTzNRTDhQcVVaMlFzT2I?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 22, 06:40 AM ET",
-    "publishedAt": "2026-06-22T10:40:06+00:00",
-    "source": "The Cyber Express",
-    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
-    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 21, 08:49 PM ET",
@@ -240,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 18, 03:39 AM ET",
-    "publishedAt": "2026-06-18T07:39:01+00:00",
-    "source": "DevOps.com",
-    "title": "Anthropic Hits Pause on Claude Agent SDK Billing Change, For Now",
-    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWlGX0RCS2hyVlN2U1llUl9JR1NYQjhzMVhZZmRrSlFNa1dQTGFxRzFVN1lmWHBPUVBwTmpqNGJfTkdWQlh0eGw4VlgtdGZ6VTdrdVFIWW1xc0ROUWwzekxNSG5WNWtabkQwUmdjOFNhUGIxamotcUNveE5FRzB3RmV0dnhfellMNHMw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 16, 12:02 PM ET",
@@ -273,6 +237,30 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 11, 03:00 AM ET",
+    "publishedAt": "2026-06-11T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnRk42MEsxNHRZOTQ5eVFSdnVhd09iTWdwUzdZOVlyVnlGRWYtNTRpWlVDeUF2Q1hJQk9hSlRQZUJaU0pGLUNnX2QyajBucldWc2ZNTnBoNEN0bGRrMjUyb1RGNkR5ZUxpUkRkdUFNeG90Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 09, 03:00 AM ET",
+    "publishedAt": "2026-06-09T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Claude Fable 5 and Claude Mythos 5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,18 +297,6 @@
     "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZJRUxZUTdyTWFTTE51anU1NE9uTFQzZEdMNWQzdzk3anV1eHcyYWo0TkF0bU0zaEpBQ0VNWHRTa1d5M2RrdFBaNkNQWEgxMW5VNk9BSEVvZ2xFVVdLMThXZUJ4a3dUSHYxM3ZTalJFY2VHOEdwSUgwc3FkbWttcWwxdF9uMmZjb0FkVGxPTVk2Q2h2SzRFbWtBZFBTak9NNWRaMnF3X2hOMTFwMzhPTEZyb0pqVVU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 01, 03:00 AM ET",
-    "publishedAt": "2026-06-01T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
     "difficulty": "News"
   },
   {
@@ -362,25 +338,49 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "May 07, 03:00 AM ET",
-    "publishedAt": "2026-05-07T07:00:00+00:00",
-    "source": "TechCrunch",
-    "title": "OpenAI launches new voice intelligence features in its API",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEVKNVBfWjRiOU9oWWM0Zkh4elFUbWtaMVd6RDVFeXVpTVU0TVZvTzVxbVVaMTdVWW9CejVZcklRTGFZWkhGRG1MS1NQb1V5VEF0MGxnbE9VZzVqZ0tBa2MzYjluZWpOME5wT0VBQzBFbFV4UDBfbDVlQ2tXeDZnUG5IMzdsODNXZ2NHa3I2VndTRk5XZUxXYg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
     "difficulty": "News"
   },
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Mar 12, 03:00 AM ET",
-    "publishedAt": "2026-03-12T07:00:00+00:00",
-    "source": "Towards Data Science",
-    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "time": "Apr 22, 03:00 AM ET",
+    "publishedAt": "2026-04-22T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RS1QX21mYm9qa0plY1BHV0xGZktSa2RBWjhtdHpuMHE5eTE1WWJmcmo4SDB3RGZEaWd4WElTNkVhSDlRM0dyWjVISU45eDIzUmVuMWZUSERmbVJTbWdSSzh1cVE3OGcya1ZjeU9pMjFQbHRhOG9HTEdobw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 13, 03:00 AM ET",
+    "publishedAt": "2026-03-13T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "How your data is used to improve model performance",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcEE2OHFVVC1CTkNXdzNFd2huWUtwcW9TRlhNRWd4ZVdWQldtMXl6SUd6MnNXS29BNm5xQmFsUG5waU42OHFfUkpDSUFBOTZPOWh0dkdoRzZGM0RtU2xyZVhVNXExLVE5SWJHQ3RhMW95RlhGTmwxai1QRVpRNnVid2x4YzltUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 11, 03:00 AM ET",
+    "publishedAt": "2026-03-11T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sMkxnSDBNRXBuYUowR2J1YXRZSzdpQW1ac1pEczlZNktGNWZRMmdqbmFCR0VfdnpGR295Mlo5Sjg3Uk0ySTAzeWZhSHBFN3BfSFR3cW9DM2tqd1VnTjNGdDZsRHVyRnNIMTBDY2dPTXdzQnBp?oc=5",
     "difficulty": "News"
   }
 ]
