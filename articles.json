@@ -2,13 +2,25 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 24, 07:47 AM ET",
-    "publishedAt": "2026-06-24T11:47:39+00:00",
+    "time": "Jun 24, 10:47 AM ET",
+    "publishedAt": "2026-06-24T14:47:42+00:00",
     "source": "blog.google",
     "title": "Interactions API: our primary interface for Gemini models and agents",
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 24, 09:56 AM ET",
+    "publishedAt": "2026-06-24T13:56:02+00:00",
+    "source": "Help Net Security",
+    "title": "Anthropic’s Claude Tag gives AI agents independent identities",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTm9JLUNaLVBGZHphdmJwajJVVE5nR1JJWmExelNVQ3ZRSC1qdEQxSTlvVGlhcUxPOHZWUUJ3NmxvTFNLRHEwZVNSenZyVWVaNzlXZ1VlQUpxcUhaaE9MbUVxLTdkdjlwNVVCSzhxZ0Q4eEFERDAtc1luM2lCbmsxTUVoSnJ1ZXhheXZtbndn?oc=5",
     "difficulty": "News"
   },
   {
@@ -36,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 24, 12:47 AM ET",
-    "publishedAt": "2026-06-24T04:47:03+00:00",
-    "source": "techgig.com",
-    "title": "Sakana AI Launches Fugu: Multi-Agent LLM Orchestration via Single API",
-    "summary": "techgig.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalhoVlRPNnFlSEkyQzdNeDNIckE1NHM2dkNrYzA1bHhUSTVYbmpfZ2MtRGIzRTNVcFZfTk1na3lMX3haVGFfWkdNeWFqYTFYUmNmdEcyVmFPTXYxQ0stQjlPeUh3TGJlSzM0U09XOEtHTklIVU5kSTlzcGN6T0tNNVlPS2VyZ3huOHRDMVRtS0FKQnJ3b3ZQTVpwcU9GS0E4enFmMWtaZFBVZ9IBrwFBVV95cUxOTUlVU1poMkNYajloLTVoQTJQa2dZajVjdEt0eU5YMzJYa3VVTG5Qdi00dEs0OW94YmMxUWsycUhoMlpRN3dYTUVYcGs0SnJlVEVQNG01Z1Y1VW9kYlYzTVg4aXFMbXpudlZvMUlaaHlEWTY4Qi1lbHVkUjZFZnp4eWpNMFRSTXpfeGtwUVZqVnNwT1AxbXF5VTBlRWNxUkwxcG5jWmI5ekFZdWNITTF3?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 23, 07:12 PM ET",
@@ -57,18 +57,6 @@
     "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUUpqTnMzYmhUckxseEFJcWZWdEtJb2dMRTlKTW14OFpIbG80eTJQa2tod2xkaUlJbkFjM0lTaHNHeUtwQWQ3SDgzNXRFSnktcVNBLUFhMTU2QkJqd09BY29nMnpQenR0MDBEWkpLaFZ5Sy1hcC1idWczcXlsNnZuYzhjYTkwZmdfTmhDSXVXelFKSnZzMGlVOUF0OGRJbGNtbUVCSGNud0wwelBac1dvVndFaXJiQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 23, 04:59 PM ET",
-    "publishedAt": "2026-06-23T20:59:00+00:00",
-    "source": "Crypto Briefing",
-    "title": "OpenAI ships over 30 new models and tools for API in six months",
-    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TekxQb2l2SDFDTmJpRlRZSzVRejk4M2VhYmYtRktjbWM0VkRySGtpMEt2WjdxYnVnbVFScW83cDI2VDVPcngwY0lqVUJaTGN0WXV5eGkyWTNVTS1Od2p4bEdrOTlJeE9mOEVCT3kwbF9RQmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,15 +108,27 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 23, 03:00 AM ET",
+    "publishedAt": "2026-06-23T07:00:00+00:00",
+    "source": "eWeek",
+    "title": "Google AI Talent Losses Raise Stakes for Gemini",
+    "summary": "eWeek is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fWTNtdWxjWEs3VUtFbl9XaW1nT1UwZXlET1ZGOFZfVzZtWVo0YnkzZDVyRXpueld5VWFOeW1mWnd1TVhLbEs4QTZQdVRuWVk5a3phUC1KY2RmZGNVZ2x0Y3F6YnR5WTN4Zmc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 23, 02:35 AM ET",
-    "publishedAt": "2026-06-23T06:35:05+00:00",
-    "source": "MarkTechPost",
-    "title": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "time": "Jun 22, 04:25 PM ET",
+    "publishedAt": "2026-06-22T20:25:58+00:00",
+    "source": "OpenAI",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX1ZmRlF3Z2xzdE1wTTZKRFdYcERzcGpvQTBlMnQyMnc1c2lraFpJZVV4bjRZSEQ3VlhWLUhiTXhQc3JCdEdJdDA3bjhaaHZibGpha3ZTTkFtYXNIY2J1eDNtYXRzbnA5U3g2WEstblgzNEk0Q2x3NDdmNmVsVFJ4dVlHLVJha2dVLWl1cG0yU2w0RkVoYmdRb292U244eXhtTm5KOE9pNnZLSmZDY05lQkg1d2Z2emR0bHN0QlR6elJ2ZXBrZU95bnBhTlJIR1pjbmZPYUEteUtWaXJ0OVQ3ay1LTWg1UQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HelFYOFFjYUh5eXdwYjBnY0dEMFpZbVZ5bUtETE5BRmtUdVZYSlZtTW9qbVF6bkhqRjJzc1ZsSUlTaDgtQkJsSnozSmZEalZxdlN1U053YldVVVZUQmlIcTYwYnlvVk5BaGpvaVdWbFdQSEJUMVU3bTln?oc=5",
     "difficulty": "News"
   },
   {
@@ -148,23 +148,11 @@
     "label": "Gemini",
     "time": "Jun 22, 02:14 PM ET",
     "publishedAt": "2026-06-22T18:14:55+00:00",
-    "source": "the-decoder.com",
+    "source": "The Decoder",
     "title": "Google makes Interactions API the default interface for Gemini models and agents",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3NSZjhETkM1YXNzQ2l1YUhjVFRwb1NVeWtGaTBRdW5Ra3E0bXJrOWVYcFV0c2E3VTlaeXJwRlZibk5GOUc4TUl6cF9uT2xGY2tsTFh0aTZNS1c2VHAxT3d1RG5QTnI5SWdFRUV0bDlIenhRTW4xNG5vMS1nM0s4WUM0NC1VR2d1TkVodGt6N1d6YW44dWc4dDgtdHZpMVRfRjlBOU1EYkk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 22, 06:40 AM ET",
-    "publishedAt": "2026-06-22T10:40:06+00:00",
-    "source": "The Cyber Express",
-    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
-    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 18, 03:10 PM ET",
-    "publishedAt": "2026-06-18T19:10:30+00:00",
-    "source": "OpenAI",
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CWWYwb3Vnc09FSlZocUpXaUtnUVg3SjRyWWNVOEd2ZWhZUTdBVmpadTZCRkxjUFViVTJtSzZpSl9wLVowSnBYTEg4Z3VUMnBmcmE5Tjd5Q1VZRlNZb19wRzhKTGwxSUlYVmlv?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 18, 11:55 AM ET",
@@ -204,6 +180,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 18, 10:20 AM ET",
+    "publishedAt": "2026-06-18T14:20:24+00:00",
+    "source": "DevOps.com",
+    "title": "Microsoft Enlists AWS to Help GitHub Handle Explosive Growth in AI Development",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWjVoWV9TWUtpRTYxdlQ0UkVVRDh2MmJnQ2QzaFZtTUhIckQzRXJSNm9CMzZsQkJMOUZELWtuRXg0amRjQnBMQWhIaUEwRWZzYUtYWDhFRlNHNWhRajAwMFFqWjVIeDlzeFNRWmc5QTlIVklTVTQxNHNKazBNNkJ5OC1uakc1VHZNLVY1cmxObGhGd2VxV3VEcnM3YzdkNGc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 18, 03:39 AM ET",
@@ -213,18 +201,6 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWlGX0RCS2hyVlN2U1llUl9JR1NYQjhzMVhZZmRrSlFNa1dQTGFxRzFVN1lmWHBPUVBwTmpqNGJfTkdWQlh0eGw4VlgtdGZ6VTdrdVFIWW1xc0ROUWwzekxNSG5WNWtabkQwUmdjOFNhUGIxamotcUNveE5FRzB3RmV0dnhfellMNHMw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 18, 03:00 AM ET",
-    "publishedAt": "2026-06-18T07:00:00+00:00",
-    "source": "Augment Code",
-    "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-    "summary": "Augment Code is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
     "difficulty": "News"
   },
   {
@@ -249,6 +225,18 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 09, 11:57 AM ET",
+    "publishedAt": "2026-06-09T15:57:24+00:00",
+    "source": "MSN",
+    "title": "OpenAI pivots ChatGPT to enterprise‑focused superapp with coding agents",
+    "summary": "MSN is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTzF2UFN4dlAyYkhndnF3YzZYZVpldXRfaDhRRFdDcGZfMFpjWDlSa0lwdllOV0htSTNldDljOXhIbTBWTW1fNmg3YTFIYlNhZVJjLUdUZFJnMC1DQk1OR29wbGhyRVRpS2tZeDUxOFRQLVNFUWVueTdLUmJOZHZKOWNseVNITU10Nm1velFyWmJYU2xiamk2eG1oQzRHMUdFMzNlcHIySnBPOHJPdTBvcWE3MnZmRGJnZ2RKalRyZS0tYm4tNFgtQkZKbjNNTlhOTFQtWU9mWXlyZC0zYTI3cUhRVXRsWDB0ZEdsMHh6bXhfcW83Yy1xYmhLdS1VX3pRNEdrZjFR?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,18 +276,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 01, 03:00 AM ET",
-    "publishedAt": "2026-06-01T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 29, 03:00 AM ET",
@@ -324,6 +300,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "May 20, 03:00 AM ET",
+    "publishedAt": "2026-05-20T07:00:00+00:00",
+    "source": "Crypto Briefing",
+    "title": "OpenAI offers $2M in API tokens to every Y Combinator startup for equity",
+    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42aWkwdm91dmZXWUtXb1RkVFpYeG12aTYwZUdsdGhoSlZhUTh2VllLSzZaaFhmY2tBUkRxRnJIY2s5bWdtNlZqa0piZHVKWFpHTTBLS19oank3VEFyZUZtQURaaTdQRUc4SUk5Wg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 19, 03:00 AM ET",
@@ -336,39 +324,63 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 19, 03:00 AM ET",
-    "publishedAt": "2026-05-19T07:00:00+00:00",
-    "source": "Adobe",
-    "title": "Adobe for creativity connector is coming soon to Google Gemini",
-    "summary": "Adobe is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 04, 03:00 AM ET",
+    "publishedAt": "2026-03-04T08:00:00+00:00",
+    "source": "Contract Pharma",
+    "title": "Hoth Therapeutics Deploys OpenAI API to Support Development of HT-KIT",
+    "summary": "Contract Pharma is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXQ2MmQ3V25YUGZRVU93V0JjUUl4TXZVUURLNHNJeW9ENVIwLXo2TlBiLUxiTUdkYnpwYUpyU1VxS0VsblBIMFgtbUxyMXFSQWxLRlZYWEJYMnNwMFRlaThTRjVGRmFxY1RWdHJnWGZJNkYtWnBjNnpmanZHMFR5eXZtX0JONl9Bb3FtSnVUSlU5bm9lYXAw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0dDcEVJWmN3eUNCajloZWw3YTYtZHNMRHpJa0lRdkM2XzJfMHFtdjRtTVF0Sms2M3gtSkN4eXVUNUhIOVVPQU8yZl9ZYnJaM1dqdnRVeDRCaFVZRzVHYzI2bW5Xa3o1MXRqN0g2ZHJ1MzgzVGtRSXlqVWZsaUVTNU5rQ3ZMOEF2d3NycG1mRnNELUZSSko3SGVmX1BvenhjNlFWMzYxeGhaUHpINDYwTzVWWUx0UQ?oc=5",
     "difficulty": "News"
   },
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "May 07, 03:00 AM ET",
-    "publishedAt": "2026-05-07T07:00:00+00:00",
-    "source": "TechCrunch",
-    "title": "OpenAI launches new voice intelligence features in its API",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "time": "Nov 27, 03:00 AM ET",
+    "publishedAt": "2025-11-27T08:00:00+00:00",
+    "source": "FinTech Weekly",
+    "title": "OpenAI Reports Data Exposure After Mixpanel Security Incident",
+    "summary": "FinTech Weekly is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEVKNVBfWjRiOU9oWWM0Zkh4elFUbWtaMVd6RDVFeXVpTVU0TVZvTzVxbVVaMTdVWW9CejVZcklRTGFZWkhGRG1MS1NQb1V5VEF0MGxnbE9VZzVqZ0tBa2MzYjluZWpOME5wT0VBQzBFbFV4UDBfbDVlQ2tXeDZnUG5IMzdsODNXZ2NHa3I2VndTRk5XZUxXYg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOVZvcDV4RXVTejFpcmxyallKM0ZBNDJiWnhydVRFNlFWbE9nbHVzRlRxTW5NampLWUpSQ2xleGhQMUtVb1JUX290eEMzOC1fQU5JWmJFbFpSdFdWNC12aUJTWUVLMG5aYlJXRnlISTNHSXRpRHBqempNbGZIQmhvRF94by1fUFAzVzRfZkc0SjRRTDlHbTVmU05aSFBjenQwV01N?oc=5",
     "difficulty": "News"
   },
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Mar 12, 03:00 AM ET",
-    "publishedAt": "2026-03-12T07:00:00+00:00",
-    "source": "Towards Data Science",
-    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "time": "Nov 27, 03:00 AM ET",
+    "publishedAt": "2025-11-27T08:00:00+00:00",
+    "source": "Rescana",
+    "title": "OpenAI API User Data Exposed in Mixpanel Security Breach: Incident Analysis and Impact Report",
+    "summary": "Rescana is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDZkR2RVSnJxLU91cmg1MHN3UjdWUHF1Tld4S2sydm1jRmVNODcybmhTRm1kX0RrYUZZNVg3SkxBb1lGblZlbHFQMjZIVnRXNmdFRlh6bG5pbVFwQVdlQndXVWgwR3ktazVpVXlnRjY4cmlrTk9BMkVwb2t6Q3JhWFl0bnp5S3V3Y3RsQ1pUc1RlWnZuYjVDU0RrOWRucUUyNktxR3hFZE43OU52anBiVjVzc29RWDFIRXBpZVlR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Nov 04, 03:00 AM ET",
+    "publishedAt": "2025-11-04T08:00:00+00:00",
+    "source": "Dark Reading",
+    "title": "SesameOp Backdoor Uses OpenAI API for Covert C2",
+    "summary": "Dark Reading is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHlhN0xzSUt6UGx4a0RrckpzYWItaGZqSlAyVjFrRmU2WGotTzBGSXljbmFwMGhPdXo4bFI4NUU1aVVGZkM2QkZLVFRjTzhmRi1IM2JoU2NlcF9NUXRNQVBtODBYUDloSmV0UGFMQlNNN2k1RlNETVM2eEZleVVLTmZlUHl0czZwZ0dBQkpZRXlDSzVXOFFDdg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Nov 04, 03:00 AM ET",
+    "publishedAt": "2025-11-04T08:00:00+00:00",
+    "source": "SecurityWeek",
+    "title": "SesameOp Malware Abuses OpenAI API",
+    "summary": "SecurityWeek is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OVU80bE5IQnhBRnNrTlhTaldXYmd1dVR5RTRrTk52TmJqT0NKYjRVWUlHdEdCRzhvV2tqU21wSER4UVZiejYyRXQza2pqaVNxbENrUnJtcjR3eWRwZGtIN25mQnZuM1ZqUFhXeUZVWGpwZ9IBd0FVX3lxTFBHUUpKYzYxR3hESklybVljQklJWXIwa2c5a3VqYXdIYnBOWGE5bWVjU2dWcGc2VFUtX1BUT2NoMUNEWnBJYzJiTTUtcTI2RFZ5VXpTaDBmUWZBS0JJOUlrenAzOHZoV0pBTG11eWlZbmJVajZUSkVr?oc=5",
     "difficulty": "News"
   }
 ]
