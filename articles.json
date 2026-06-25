@@ -2,8 +2,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 25, 07:55 AM ET",
-    "publishedAt": "2026-06-25T11:55:22+00:00",
+    "time": "Jun 25, 10:54 AM ET",
+    "publishedAt": "2026-06-25T14:54:21+00:00",
     "source": "blog.google",
     "title": "Interactions API: our primary interface for Gemini models and agents",
     "summary": "blog.google is reporting this update. Open the article for the full story.",
@@ -69,18 +69,6 @@
     "summary": "Anadolu Ajansı is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmhxdVo5eFFxc3NYVW9pR1ZKU2hvTXhweE1MYWhXOGxDMGJYVjJrZy1QYmRZb2ZXWVV5Tzk5cGhBOWJuRnQ2MTZhdnQ0MlRFUS1la3dwVmxrSEF3dGdGWkctQUlrOU5VUldjUU5fcGxTeVpyT0x4QWdjWjNLZVlTWnJ5azlhY2xhUE9UMFM5VHhKem5FNzUyRDdPNGVhdzBNSUtVY2dIWGs5REZ4MEE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 24, 09:56 AM ET",
-    "publishedAt": "2026-06-24T13:56:02+00:00",
-    "source": "Help Net Security",
-    "title": "Anthropic’s Claude Tag gives AI agents independent identities",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTm9JLUNaLVBGZHphdmJwajJVVE5nR1JJWmExelNVQ3ZRSC1qdEQxSTlvVGlhcUxPOHZWUUJ3NmxvTFNLRHEwZVNSenZyVWVaNzlXZ1VlQUpxcUhaaE9MbUVxLTdkdjlwNVVCSzhxZ0Q4eEFERDAtc1luM2lCbmsxTUVoSnJ1ZXhheXZtbndn?oc=5",
     "difficulty": "News"
   },
   {
@@ -266,18 +254,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 17, 03:00 AM ET",
-    "publishedAt": "2026-06-17T07:00:00+00:00",
-    "source": "WSJ",
-    "title": "SpaceX’s $60 Billion Deal to Buy Cursor Gives It More AI Coding Power",
-    "summary": "WSJ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnRzaGtTRlBIX3JLenZhbjJzVm1pYVRPYWIxeVJRQlIxLXdLMjc0bV9DczV0VzFScWVreGdQcjl3dWRCdWxIbV92Q1RYU0VtUTFPUEZnR1htTGQzOXJsYnM0WS04aVY4RlNrcUJQVFg3N3pfYUpxRWN2MEE0bVBkMV9XS0FCdzhtN18yaHdDUGdXeW1BWFZfZnlWcGs?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Jun 16, 03:00 AM ET",
     "publishedAt": "2026-06-16T07:00:00+00:00",
     "source": "CBS News",
@@ -285,6 +261,18 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 09, 03:00 AM ET",
+    "publishedAt": "2026-06-09T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Claude Fable 5 and Claude Mythos 5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,6 +333,18 @@
     "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 24, 03:00 AM ET",
+    "publishedAt": "2026-05-24T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   },
   {
