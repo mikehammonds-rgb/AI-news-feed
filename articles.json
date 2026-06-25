@@ -2,8 +2,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 25, 01:57 PM ET",
-    "publishedAt": "2026-06-25T17:57:46+00:00",
+    "time": "Jun 25, 04:56 PM ET",
+    "publishedAt": "2026-06-25T20:56:53+00:00",
     "source": "blog.google",
     "title": "Interactions API: our primary interface for Gemini models and agents",
     "summary": "blog.google is reporting this update. Open the article for the full story.",
@@ -60,18 +60,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 25, 04:10 AM ET",
-    "publishedAt": "2026-06-25T08:10:15+00:00",
-    "source": "Let's Data Science",
-    "title": "Notion Integrates Claude Agents into Workspaces",
-    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMVV1ZElRYWRGOVNXbWJHQURjVVA2MFB2YUNEUEI3QmZNUEdTdXV3Ml9CRDg4dmZxc3hUc1h2dFEtemRvams3ZUwxTFV3dEtjcjVUal9weGFnNlJDT2hiaWx0cjM2b2ZTbVZFZXlCdHFWR1RmN0t6bUVpNWNwSTlUMnNzaDl0NUVsNlhQdklXUmhOcWM?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 24, 04:15 PM ET",
@@ -93,18 +81,6 @@
     "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0WGFRXzhTTnprZHZwNVRHWWRMYlVLLVJGeXNtMnBpZ0Y2SWhUY3h6Tmp1SExDVlFzUndpaEhrVU84Um1SbEpReDlCdF94QVNjWjkza0NNcFdYN3ZMQWNvUW5QM2g5ZzJTTy1ZOXBiVENUR3M?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 24, 01:06 PM ET",
-    "publishedAt": "2026-06-24T17:06:15+00:00",
-    "source": "TechPowerUp",
-    "title": "OpenAI Unveils Jalapeno LLM Inferencing Accelerator Built in Collaboration with Broadcom",
-    "summary": "TechPowerUp is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWU5MenRTazJwOWlLdV9GYWE3MUdIS01qamtVMFMzbWZhUGdZMTdUOHNPY3F5YWNNdUQ3TW5xSlRheFlNNzM4ei1JYTZYXzhTejBvSUx1dGhqY3dobkVhcnozUlBsblh4bG5MbHA1VlFrZlRwc3dOTERlMFZZUnVmaXRDSlNyVDUtekQya3Vxbmh0WERZbm1pNXBsbDE1X2t5YmRpU0hkRUxLT09DU2Q1d25DaXBSZXZjTHNsdWRNdULSAcYBQVVfeXFMT01FcjREeHdxVDIwUmt2SFdjbnFHSGxsVldydTdiNXVSaHFIRHNSTDFMQzA2QWxValAxQ2lHdDAyVEZOS1ZzTGU5WW5sRU5wM0JsRFV2eXZ4cHY1aktCWVZLaG1qSXQ4OEI3Tks0Z05BY2tRUkViRzBRTDZCZDM1MUhUNS1QdW1PWjRORkVMLXVaZWNvdUtuODRjV3RsV3RZMHZqWGFkWnYyaUEtUE10ekZZc1pEOXRraGlZa2JvU0I0Tm0xdGhn?oc=5",
     "difficulty": "News"
   },
   {
@@ -264,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 18, 03:10 PM ET",
-    "publishedAt": "2026-06-18T19:10:30+00:00",
-    "source": "OpenAI",
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CWWYwb3Vnc09FSlZocUpXaUtnUVg3SjRyWWNVOEd2ZWhZUTdBVmpadTZCRkxjUFViVTJtSzZpSl9wLVowSnBYTEg4Z3VUMnBmcmE5Tjd5Q1VZRlNZb19wRzhKTGwxSUlYVmlv?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 18, 03:39 AM ET",
@@ -297,6 +261,18 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 09, 03:00 AM ET",
+    "publishedAt": "2026-06-09T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Claude Fable 5 and Claude Mythos 5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +357,30 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
