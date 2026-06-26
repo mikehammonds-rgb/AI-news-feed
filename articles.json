@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 26, 05:03 AM ET",
+    "publishedAt": "2026-06-26T09:03:23+00:00",
+    "source": "blog.google",
+    "title": "Interactions API: our primary interface for Gemini models and agents",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 26, 02:09 AM ET",
@@ -9,18 +21,6 @@
     "summary": "The Good Men Project is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3BGNXgwTTVFZ1k4YmJFc1hKUVFFTTBQTDlpSEp6ZG9KcGh4VDJLa09nOWItSVZBMlA2TVRRZGhVYmFpeF9EOG1zaThhTEUxcWI3S0JCS1JrSnR0cFhYVDJRejF0OUxjVUF2cmdkUVVoVzR0cXBpc2d0dkxadHFUMW9mMDhrTFZ5OGo2NzVNSjhfSkNIRGhjOS1LdmVjMGtRRGk5T2ZrQlk4N2FfMGJBdjBWbzlsd3c5?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 26, 02:03 AM ET",
-    "publishedAt": "2026-06-26T06:03:18+00:00",
-    "source": "blog.google",
-    "title": "Interactions API: our primary interface for Gemini models and agents",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
     "difficulty": "News"
   },
   {
@@ -60,18 +60,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 25, 06:53 AM ET",
-    "publishedAt": "2026-06-25T10:53:26+00:00",
-    "source": "Storyboard18",
-    "title": "What is Jalapeño? OpenAI unveils first custom AI chip with Broadcom for ChatGPT, Codex",
-    "summary": "Storyboard18 is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3ZQN09VdWVEbWpfcUlxb1hCcHhNUDJnYzJWVEVmejVud1hPQS1YMTJjdWR0OU5VaXNVaTd6OFVwRE5ZOHhOM3lTWWNIbHJQRGMycVJaeEpvNEYyZG10ZXlkZ3ltcFdGR2JidEFSbTlNRy1OZmptQzh6S0l5ZEYwZjBMWE84enFYaXRVZkJfb0ttdFUweEJfQ2UwbkVIWVJDTDBUX0pCTU0zMTkzb0Q0YUJwQWJYb3lQcl95ZTFPM2c5dGNkYXd1bVJFQTHSAdIBQVVfeXFMT2s0dTFGemt2YkhUT0Q0Z0RQZS1INzlrbFNnc3FaR0hRVkhWQ25EVnZzSUlYME5CODg2OXo2a1lFbGNBTUZYMzNBcFpYR0F6ZkZIS2xPWE5DOGt0WndSYWpuRGFLcnRvQkI2RUFBZmJvSm51d3cwQjVwcXFNNk9USi1GUTZDeWJTQ1M0bEM0OHNkbHJodjBQQWYwTDJUdVNNbGI4NWJmQWlILVZNUlotb2lzZnozWkZ2dG1iTDZMTlU5dEEtdXZUUFhaZFlLTXRMU1d3?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 24, 04:15 PM ET",
@@ -93,6 +81,18 @@
     "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0WGFRXzhTTnprZHZwNVRHWWRMYlVLLVJGeXNtMnBpZ0Y2SWhUY3h6Tmp1SExDVlFzUndpaEhrVU84Um1SbEpReDlCdF94QVNjWjkza0NNcFdYN3ZMQWNvUW5QM2g5ZzJTTy1ZOXBiVENUR3M?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 24, 04:12 AM ET",
+    "publishedAt": "2026-06-24T08:12:27+00:00",
+    "source": "MarkTechPost",
+    "title": "16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXlURlpYWFBpQkk3dTZrU3JmRWVVNHBDYXFDVFVHQWxRbS1vak1qbWtEcE4xd1R1ckxjVDJ5SWZmWGVjdTI2MVZlak1WQVlLX0ZkSXFUaHhsVmotaF9CVkVnNUx2eDhjay1XOTFybHNIX1RhTVdDX0tLTDQ1Nmx4TlVyUjZwdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -189,18 +189,6 @@
     "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 22, 03:00 AM ET",
-    "publishedAt": "2026-06-22T07:00:00+00:00",
-    "source": "AIMultiple",
-    "title": "AI Deep Research: Claude vs ChatGPT vs Grok",
-    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zLUJPbXloWlFfQ2c5S0tVck9QWE55ZHBwU2U5U1NMelNZUFVFRnRVakxNak5FcEc2UmZrZTFxT1VqZzgzZmVsWm9YN3lka1d1?oc=5",
     "difficulty": "News"
   },
   {
@@ -360,15 +348,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Apr 24, 03:00 AM ET",
-    "publishedAt": "2026-04-24T07:00:00+00:00",
-    "source": "wiz.io",
-    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
-    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "May 07, 03:00 AM ET",
+    "publishedAt": "2026-05-07T07:00:00+00:00",
+    "source": "TechCrunch",
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEVKNVBfWjRiOU9oWWM0Zkh4elFUbWtaMVd6RDVFeXVpTVU0TVZvTzVxbVVaMTdVWW9CejVZcklRTGFZWkhGRG1MS1NQb1V5VEF0MGxnbE9VZzVqZ0tBa2MzYjluZWpOME5wT0VBQzBFbFV4UDBfbDVlQ2tXeDZnUG5IMzdsODNXZ2NHa3I2VndTRk5XZUxXYg?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +369,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
