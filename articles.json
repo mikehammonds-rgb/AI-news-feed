@@ -1,14 +1,14 @@
 [
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 26, 05:03 AM ET",
-    "publishedAt": "2026-06-26T09:03:23+00:00",
-    "source": "blog.google",
-    "title": "Interactions API: our primary interface for Gemini models and agents",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 26, 09:28 AM ET",
+    "publishedAt": "2026-06-26T13:28:23+00:00",
+    "source": "Fathom Journal",
+    "title": "Claude Routines Just Dropped, And It's Perfect Ovo Energy (F2XopBPxvE)",
+    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80alNWQjE3MjFNOE9IV3UtSmxFaHNOdFBrVUZ5Z3JPLWwxY0lHZnBiMWttejBlZ0pKMVlJQXhnMnBJVmlqQ0ZDcnM3RnE0UnJhV2kxTGJ4Q2k3dzVMeXdKTnpRdk0?oc=5",
     "difficulty": "News"
   },
   {
@@ -48,15 +48,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 25, 07:01 AM ET",
-    "publishedAt": "2026-06-25T11:01:00+00:00",
-    "source": "ZDNET",
-    "title": "I let Gemini Flows organize my Gmail, and it effectively filtered my inbox (with one sneaky catch)",
-    "summary": "ZDNET is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 25, 05:43 AM ET",
+    "publishedAt": "2026-06-25T09:43:36+00:00",
+    "source": "The Cyber Express",
+    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
+    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mU2JQVDlfWldQdEJrczJoNGREMkVwclBnR3FMVldjenVmSUk2OFY4eFRCaUhhalkwd0dhQ2ZJTzg4LXJ6X3JKMlRQcDRCdFYtREc0S19tNms4d0FEVWR4b0NwaW9aWllzRjVTUTlPVWhDWW1nMUE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,18 +69,6 @@
     "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0dLX1QzZXdYVmNhQ1VvR3FXaW1iTjhfc2ZFOVRoR01mM0tHRk5BT0lGS1MyOEJGbVVnWUVzdDRLenNzWE9raTJUN2pydzVXODlHUWwySGVQZXdoQUZyQlZkM0NrcXM1a2J6TDlDZlU3enpFakdHN0FlendQTkswNXBFMTVMS0Q5angzM1FuYk9BRkQz?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 24, 01:44 PM ET",
-    "publishedAt": "2026-06-24T17:44:51+00:00",
-    "source": "SQ Magazine",
-    "title": "Gemini 3.5 Flash Gets Powerful Computer Use Features",
-    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0WGFRXzhTTnprZHZwNVRHWWRMYlVLLVJGeXNtMnBpZ0Y2SWhUY3h6Tmp1SExDVlFzUndpaEhrVU84Um1SbEpReDlCdF94QVNjWjkza0NNcFdYN3ZMQWNvUW5QM2g5ZzJTTy1ZOXBiVENUR3M?oc=5",
     "difficulty": "News"
   },
   {
@@ -132,18 +120,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 23, 04:01 AM ET",
-    "publishedAt": "2026-06-23T08:01:07+00:00",
-    "source": "Fathom Journal",
-    "title": "How I Vibe Coded A $400K/mo App With Claude Code (Full Tutorial) Volo Pan Am 73 (wYpTXDo3mS)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02SkZrMDNhMHo4RnRheEp6bHlrOVcxck16VjhyWURMWHNidTFSR0Y2U2ZvYVBXRWZpNk1kRUZRTlZtbGhLdHpkYzktOXVpYk8yVXJpWmpjTzNRTDhQcVVaMlFzT2I?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 23, 02:35 AM ET",
@@ -168,30 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 22, 02:14 PM ET",
-    "publishedAt": "2026-06-22T18:14:55+00:00",
-    "source": "the-decoder.com",
-    "title": "Google makes Interactions API the default interface for Gemini models and agents",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3NSZjhETkM1YXNzQ2l1YUhjVFRwb1NVeWtGaTBRdW5Ra3E0bXJrOWVYcFV0c2E3VTlaeXJwRlZibk5GOUc4TUl6cF9uT2xGY2tsTFh0aTZNS1c2VHAxT3d1RG5QTnI5SWdFRUV0bDlIenhRTW4xNG5vMS1nM0s4WUM0NC1VR2d1TkVodGt6N1d6YW44dWc4dDgtdHZpMVRfRjlBOU1EYkk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 22, 06:40 AM ET",
-    "publishedAt": "2026-06-22T10:40:06+00:00",
-    "source": "The Cyber Express",
-    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
-    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 21, 08:49 PM ET",
@@ -204,6 +156,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 19, 03:25 PM ET",
+    "publishedAt": "2026-06-19T19:25:18+00:00",
+    "source": "Mshale",
+    "title": "Translating Baby Sounds Using Google AI Cleveland Cavaliers Vs Detroit Pistons Match Player Stats (8b5my6MY5H)",
+    "summary": "Mshale is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFMUFmcmxjVUFtc3ZOakVwVUlDaDI3RWZmWWJQZmRpNHB6U1dVLXdhMHhVS2tLWWVkNGRqclVJZFNuMV9Vbkx1SWp6bmJ6dTRfb0xJbkhqTWtRRDQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 18, 03:39 AM ET",
@@ -213,6 +177,18 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWlGX0RCS2hyVlN2U1llUl9JR1NYQjhzMVhZZmRrSlFNa1dQTGFxRzFVN1lmWHBPUVBwTmpqNGJfTkdWQlh0eGw4VlgtdGZ6VTdrdVFIWW1xc0ROUWwzekxNSG5WNWtabkQwUmdjOFNhUGIxamotcUNveE5FRzB3RmV0dnhfellMNHMw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 16, 04:50 AM ET",
+    "publishedAt": "2026-06-16T08:50:52+00:00",
+    "source": "Slator",
+    "title": "Google Expands AI Live Speech Translation with Gemini 3.5 Live Translate",
+    "summary": "Slator is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU0dzQTJLQXUxODVLZ1g2X3Q4ejg5cHFOcEt6ZGo4ZnZqbzBxcVFGNXdnUDQxVHRqZnRlS1E4LXJQbnE3VEFNQWV5bzFvaXU2cXNzNkF4OXNlX3NielRZU0xCSU40OE9zYTU1WEJSMjI4TTBNZ3hGRG9vUHJxNGNMMU5QY2wyZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -252,18 +228,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 09, 03:00 AM ET",
-    "publishedAt": "2026-06-09T07:00:00+00:00",
-    "source": "Ars Technica",
-    "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUh5bjBGalp5Q0stWTlpeUZCa1RqQm1MRUxjR1dPcWs3ck5ZMWRveE9NbUxFSlFzTE5wQWlvRU91NFZmVlFLdDAza0RyVHdsdVBrbUFsYXY3TmZoYmoxLXoyWElKTjF6X2VaOGhwaWNkRHEtUzNrZ2tnOHJ4TnBnbXJ1dmE5Z1ZoMWVwQ0Z1YUlmbU1pemN0bTVEQ1VaTkd0NHo1Tmw2dy1OWVhJcEZsRE1fTVZhLTFi?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 09, 03:00 AM ET",
@@ -278,13 +242,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 03, 03:00 AM ET",
-    "publishedAt": "2026-06-03T07:00:00+00:00",
-    "source": "9to5Mac",
-    "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally",
-    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
+    "time": "Jun 05, 03:00 AM ET",
+    "publishedAt": "2026-06-05T07:00:00+00:00",
+    "source": "abhs.in",
+    "title": "Google I/O 2026: Android 17, Gemini Agentic Coding Preview",
+    "summary": "abhs.in is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZJRUxZUTdyTWFTTE51anU1NE9uTFQzZEdMNWQzdzk3anV1eHcyYWo0TkF0bU0zaEpBQ0VNWHRTa1d5M2RrdFBaNkNQWEgxMW5VNk9BSEVvZ2xFVVdLMThXZUJ4a3dUSHYxM3ZTalJFY2VHOEdwSUgwc3FkbWttcWwxdF9uMmZjb0FkVGxPTVk2Q2h2SzRFbWtBZFBTak9NNWRaMnF3X2hOMTFwMzhPTEZyb0pqVVU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDVwWmd1NmY1aGRndW9zNC1fSVVVdGFtaDFoakN1R1hLMEIxWXAxelRFd09HSjhhR1NLT2t2N0p2dFJOOXdYalFxclFIUGxKWmtTUVJOWWdIaXRtWWw4QzhzN3N4dllmRzl3WXJ0T0JVQzZkS2ZlYXp5SVIwUzA5Nk4wamc5MTNJejNubkEtLWg2MC1i?oc=5",
     "difficulty": "News"
   },
   {
@@ -324,15 +288,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 19, 03:00 AM ET",
-    "publishedAt": "2026-05-19T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Building the agentic future: Developer highlights from I/O 2026",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 23, 03:00 AM ET",
+    "publishedAt": "2026-05-23T07:00:00+00:00",
+    "source": "13newsnow.com",
+    "title": "Google unveils AI tools that let users build Android apps without coding",
+    "summary": "13newsnow.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNWZJMjdYTE1wcHV2d0hoXzZEZDJoVkRkNE02SzVjVTAxcWp2NGlER3hwOUZ3Z3pkMDdaRlZaYnJJSHBobTJNTzYxQVkwaUhWVzhmZ210aWtHMnhEbElKOFJXWG9iSXRPUlNRZXBzdXN6eDlvVkU4R0QwY3BjQUtkQTJtZU1CdU5YbmNQR1lKNFJjeU5faHFtc0VybUxyYWttR1ZUWTVHX28tc2JkQ1NDNWpTd2Y0WUd3eTJ2SVVWempTcGItd05Mdmo1LWpTeWxQRHYwb2NjMVBtdkp0N2lBRHF2LUt1bFppZl9oUzRaNA?oc=5",
     "difficulty": "News"
   },
   {
@@ -340,11 +304,11 @@
     "label": "Gemini",
     "time": "May 19, 03:00 AM ET",
     "publishedAt": "2026-05-19T07:00:00+00:00",
-    "source": "Mashable",
-    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "source": "MSN",
+    "title": "Google makes Gemini 3.5 Flash default AI for billions worldwide",
+    "summary": "MSN is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMUVDNWN0TC1hTk1OZVl0ckJ0eGdjVWFPVDlaRlJURmxJZC1qZDM0a1hpVlNVUVlVcFh1RVFxb0YtdFREa3l6X2JyQjN0emRQVC1QTTdGdTdkRFVnWTRmX3R1dkNrWDYzOU40VlotT28xc01iREZtXzVHYzQtTEJRVlZuek8wU1FLWE9lczlmeTVGTmEzRlFCakRST2x3akp2Qi1KM3ZNcmpCNEVmc0JpSGs4Z3FOVWtrWTV0VEFROXZiQk04ckN2QXNkbkg3X3Z6OHBoSy1ZWjhLWXZCYUxsNUFZZUJXZWxT?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +345,42 @@
     "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Mar 03, 03:00 AM ET",
+    "publishedAt": "2026-03-03T08:00:00+00:00",
+    "source": "Seeking Alpha",
+    "title": "Google unveils cost-efficient AI model Gemini 3.1 Flash-Lite",
+    "summary": "Seeking Alpha is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZnNIdVNVdGV2SkhaVWJOcGxOaXd5RFkzamNkQnZPdWNOMTdWSmlNelJETFJYem5vTDZaWUJDakd6YlpyWTJ5LWs1NzhKNWQ1Ty1oTUpPbFZkdGVhaktqOU5ReFdYdzBTYURUVXpxTXJJT0lCNzY3ekNoYVVNeW4ySFo4NW5QVVpTSlhTTVpfa1dPcl9KQW9jYkdrUHNFZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Feb 06, 03:00 AM ET",
+    "publishedAt": "2026-02-06T08:00:00+00:00",
+    "source": "infoq.com",
+    "title": "Google Supercharges Gemini 3 Flash with Agentic Vision",
+    "summary": "infoq.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41REZTcG1IMFI4MXg0S2t2LXVsMWF4dkZvcDR3WDdMcmZWNHVOZjkxbEIxMld2QU5jOU13dU44QnNQVTFvYXVxTzdqTnlsTkhyMXJBMUluSmNSV1BZSkFxejZhOW9KUmtGLThuVDhBM0VnQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Nov 18, 03:00 AM ET",
+    "publishedAt": "2025-11-18T08:00:00+00:00",
+    "source": "SiliconANGLE",
+    "title": "Google's Gemini 3 AI model makes its long-awaited debut, crushing rivals on top benchmarks",
+    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2NkNHZYVWlnTlNYbjlNdUtScGZIYWVfSE9OVWk2QWY1cENwT0xTR2UtZEx2aW1tU2lDQW1aWjBpQVZpSVNLSG11OGd1QXdWQXVtWFo2UHRZS0tpSlVYOW5Qblk4ZmJmMzdQaFBlTXc3S3pfd1lGdXRwSVh5WkNkOVlvQ25JUHJJMjUyTk5WTGl1LWJWMmp5RnNDSzNyc0pXSlgwRE1xT3hIRHFqTWRMalA1WDE1d2JXU1E?oc=5",
     "difficulty": "News"
   }
 ]
