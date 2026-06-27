@@ -2,8 +2,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 27, 02:20 PM ET",
-    "publishedAt": "2026-06-27T18:20:41+00:00",
+    "time": "Jun 27, 05:25 PM ET",
+    "publishedAt": "2026-06-27T21:25:13+00:00",
     "source": "blog.google",
     "title": "Interactions API: our primary interface for Gemini models and agents",
     "summary": "blog.google is reporting this update. Open the article for the full story.",
@@ -26,37 +26,61 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 26, 09:11 PM ET",
-    "publishedAt": "2026-06-27T01:11:19+00:00",
-    "source": "CryptoRank",
-    "title": "OpenAI restricts GPT-5.6 rollout after US government request, warns against permanent controls",
-    "summary": "CryptoRank is reporting this update. Open the article for the full story.",
+    "time": "Jun 27, 10:35 AM ET",
+    "publishedAt": "2026-06-27T14:35:00+00:00",
+    "source": "Carroll County Mirror-Democrat",
+    "title": "200+ LLMs, One API Key, No Vendor Lock-In",
+    "summary": "Carroll County Mirror-Democrat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTGRTZUZuM3BKcmVjbEQ1TzZ1dDZ4dWRKZFdYUF8zMml0UENuSjdLZk1UQXBmeENPYVkySGNXNlByWm9UUnFSaFlPQVFFQTFXQnhfS3ltWnNMQVRaZVZPU3ZsT0ZTd1NnQ0hheGxfa3BpdXRkWUsxZWZ2MHZ1YkVTTFh2Z2h4Zw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmM1dnJZT0J0TUxDVDEteUVfWDVuZFY2MXdGNWV5R2VkMGU2SlM0WUVpZEllYUkwYVFJd3F0N3RKcjNQWWZtMWdyUXBsQ3lEeXNLRmpHcG5YWFVtT2dhRktabzVKQ281OE5BSmJSWWFsSmtIVERyYTRMQUgtT0pLTTMxU1ppcnozYnJxNWMwc01aOTdPclpoQ1RpU2xlbTNBcTBKNjZRazR6YmxtRWVSSWlXdE0wVkU?oc=5",
     "difficulty": "News"
   },
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 26, 01:47 PM ET",
-    "publishedAt": "2026-06-26T17:47:16+00:00",
-    "source": "OpenAI",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "time": "Jun 26, 03:18 PM ET",
+    "publishedAt": "2026-06-26T19:18:58+00:00",
+    "source": "MarkTechPost",
+    "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05VDJEMldaNWM5WVItS0gtLW1sS2ROaDFIemVheVY3amIyMExNc2dDUDhCaGFkZkxZUDUwUEcxZDlBby1FWURMamhWbnBQcXRPeUNMOW5fWDVyNkw5VlNHeWcwNG9mYXh2WTB5ejVieHVTLVRobUhIbnlR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjd1LUczSlVFZERabEg3VkUwVkRFYzNYSXp1S0E2bDJPTzRvM0hvSGdrU3VZeWVoUUhZWWd1bzNKNXg0OHRRSjlpZndCQU5QaWRkZFdlZnNGTXE2eG1SU05KaEwyLTBpUmVvR01kalBUTzdBUVpqZWRXZncwTnZhUm9sb0Uwbl9rUVpiWEJBWGJaSk1HQklVRWxvTy1ObWNkTU1Yc1FSQTNNVnd5ZThUMHUzdGlEdzlwWWVwVkNiZWtud1lSR1ctM3o4UUVWN3VoNFJB?oc=5",
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 26, 10:01 AM ET",
-    "publishedAt": "2026-06-26T14:01:43+00:00",
-    "source": "GitGuardian Blog",
-    "title": "AI Is the Newest Developer To Misunderstand Secrets In Your Git History",
-    "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 26, 02:51 PM ET",
+    "publishedAt": "2026-06-26T18:51:55+00:00",
+    "source": "Thurrott.com",
+    "title": "OpenAI Launches \"Next-Gen\" GPT‑5.6 Models in Limited Preview",
+    "summary": "Thurrott.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXWjQxbGVESU12TXJnbFBYR1AzTnhSTnNBV2pCaVYxZlVmM1dlenNPaHMyOElyWUNGWnNTUmlNRE9BeEFjT3cyWEI4UEtEM2hQQ21GSkhYTEk5NlFsTTRRdGtOY2tiQ0JhS0JZ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd3NpOHEwZDVfWFhNQnk4Zmw4R0hjQVB4RjgxOEd1d050clhoaUl2c3J5NjVPYlN5dmJGa0RwNXZMeDhVbG9lWk4xeWt5VE9OVXpwZ2JMSDNhQnNMd1FyNnJpUV9na2hWLWdSa2Vhc1oxcXVtckoxUUVCNTB4UXpnQTZIR3B0TnludHBLbExiSGRpNk1sdlVTQUxR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 26, 12:30 PM ET",
+    "publishedAt": "2026-06-26T16:30:00+00:00",
+    "source": "Towards Data Science",
+    "title": "From Local LLM to Tool-Using Agent",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RdFd3SDFLeTRLbl9OVEdxdlBVUDdYVDFFTmNydlFSMU1ITmNGME41ZkswOTRfSEtvY0pxWFBlQ205N25HcVRfS1RQYk53UlRwb0JacGgwUVdLUGlzdlVkbTB6RUhwVmJpVHRCQkZGbTJkLVZY?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 26, 08:17 AM ET",
+    "publishedAt": "2026-06-26T12:17:19+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude vs ChatGPT vs Gemini 2026: 88% SWE-Bench, $2 API",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lU1k5bUdCQnBpcWNta2RJd1loX2hwd1pyZ0MtWjdBdFVwRDRRd0tENUFJZzFiMC1uOU96aWRGelJOcXo2YnZEUFRPQXZQUExkWXBRbTJfOUFVZk5HcjlrQ0tMaDVrSW81eHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -72,6 +96,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 25, 01:02 PM ET",
+    "publishedAt": "2026-06-25T17:02:00+00:00",
+    "source": "VentureBeat",
+    "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent — and it's already in the API",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQanMySVQtdjFGRHN5ZnVFQzhGeXBmTGJJSWFZaUIwSTQ4WlBiT3FQaHpBcVM0NHJXUmMtQ1dHX0wyUDJZREN0VG05OFRtWWNNLUxmcmVWQ0VvZDNSbDVKVzJ6eXBaaDVGLTZGN0lSZUhQaHRld2N0VlA2b1hEWFhCSnM0dm1rcXh5b04zOWlnQmdCbGtTazFzWEN4OGtZZlR5TzJEemNWd2hDVzctampzOS1RdDBqeVctQkNZbFB3bktjZnp2d1l4NjJTSDI5ZEZHaW9lY2xab1ZYRWVGQ0prc3FtT1NwQThzVks2S2F4bndibzFPQlJxbA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 25, 07:01 AM ET",
@@ -81,6 +117,18 @@
     "summary": "ZDNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mU2JQVDlfWldQdEJrczJoNGREMkVwclBnR3FMVldjenVmSUk2OFY4eFRCaUhhalkwd0dhQ2ZJTzg4LXJ6X3JKMlRQcDRCdFYtREc0S19tNms4d0FEVWR4b0NwaW9aWllzRjVTUTlPVWhDWW1nMUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 25, 05:43 AM ET",
+    "publishedAt": "2026-06-25T09:43:36+00:00",
+    "source": "The Cyber Express",
+    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
+    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
     "difficulty": "News"
   },
   {
@@ -96,6 +144,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 24, 09:05 AM ET",
+    "publishedAt": "2026-06-24T13:05:15+00:00",
+    "source": "OpenAI",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 24, 04:12 AM ET",
@@ -105,18 +165,6 @@
     "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXlURlpYWFBpQkk3dTZrU3JmRWVVNHBDYXFDVFVHQWxRbS1vak1qbWtEcE4xd1R1ckxjVDJ5SWZmWGVjdTI2MVZlak1WQVlLX0ZkSXFUaHhsVmotaF9CVkVnNUx2eDhjay1XOTFybHNIX1RhTVdDX0tLTDQ1Nmx4TlVyUjZwdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 24, 12:47 AM ET",
-    "publishedAt": "2026-06-24T04:47:03+00:00",
-    "source": "techgig.com",
-    "title": "Sakana AI Launches Fugu: Multi-Agent LLM Orchestration via Single API",
-    "summary": "techgig.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalhoVlRPNnFlSEkyQzdNeDNIckE1NHM2dkNrYzA1bHhUSTVYbmpfZ2MtRGIzRTNVcFZfTk1na3lMX3haVGFfWkdNeWFqYTFYUmNmdEcyVmFPTXYxQ0stQjlPeUh3TGJlSzM0U09XOEtHTklIVU5kSTlzcGN6T0tNNVlPS2VyZ3huOHRDMVRtS0FKQnJ3b3ZQTVpwcU9GS0E4enFmMWtaZFBVZ9IBrwFBVV95cUxOTUlVU1poMkNYajloLTVoQTJQa2dZajVjdEt0eU5YMzJYa3VVTG5Qdi00dEs0OW94YmMxUWsycUhoMlpRN3dYTUVYcGs0SnJlVEVQNG01Z1Y1VW9kYlYzTVg4aXFMbXpudlZvMUlaaHlEWTY4Qi1lbHVkUjZFZnp4eWpNMFRSTXpfeGtwUVZqVnNwT1AxbXF5VTBlRWNxUkwxcG5jWmI5ekFZdWNITTF3?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,15 +276,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 09, 11:57 AM ET",
-    "publishedAt": "2026-06-09T15:57:24+00:00",
-    "source": "MSN",
-    "title": "OpenAI pivots ChatGPT to enterprise‑focused superapp with coding agents",
-    "summary": "MSN is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 10, 05:35 PM ET",
+    "publishedAt": "2026-06-10T21:35:43+00:00",
+    "source": "JD Supra",
+    "title": "When the worm targets the assistant: Miasma turns AI coding agents into the trigger",
+    "summary": "JD Supra is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTzF2UFN4dlAyYkhndnF3YzZYZVpldXRfaDhRRFdDcGZfMFpjWDlSa0lwdllOV0htSTNldDljOXhIbTBWTW1fNmg3YTFIYlNhZVJjLUdUZFJnMC1DQk1OR29wbGhyRVRpS2tZeDUxOFRQLVNFUWVueTdLUmJOZHZKOWNseVNITU10Nm1velFyWmJYU2xiamk2eG1oQzRHMUdFMzNlcHIySnBPOHJPdTBvcWE3MnZmRGJnZ2RKalRyZS0tYm4tNFgtQkZKbjNNTlhOTFQtWU9mWXlyZC0zYTI3cUhRVXRsWDB0ZEdsMHh6bXhfcW83Yy1xYmhLdS1VX3pRNEdrZjFR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT1U5cFVIQXBsMEJFU1hFbmFuVlJ5X0V6dERsbUtNWXJYV1Vub0N6QWYxemhHNnBMLXpmR1ZRb3JlUmlza3BXbFhod0dqVC1QXy1heXYzWEUtc1VzRlFCQnVBNHRlX2Q4c2cyUlk0WXVOSEMyT3hBRm1od3F6NkZNUjF3cmE?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,18 +360,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Crypto Briefing",
-    "title": "OpenAI offers $2M in API tokens to every Y Combinator startup for equity",
-    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42aWkwdm91dmZXWUtXb1RkVFpYeG12aTYwZUdsdGhoSlZhUTh2VllLSzZaaFhmY2tBUkRxRnJIY2s5bWdtNlZqa0piZHVKWFpHTTBLS19oank3VEFyZUZtQURaaTdQRUc4SUk5Wg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 19, 03:00 AM ET",
@@ -345,42 +381,6 @@
     "summary": "Adobe is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXQ2MmQ3V25YUGZRVU93V0JjUUl4TXZVUURLNHNJeW9ENVIwLXo2TlBiLUxiTUdkYnpwYUpyU1VxS0VsblBIMFgtbUxyMXFSQWxLRlZYWEJYMnNwMFRlaThTRjVGRmFxY1RWdHJnWGZJNkYtWnBjNnpmanZHMFR5eXZtX0JONl9Bb3FtSnVUSlU5bm9lYXAw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Nov 04, 03:00 AM ET",
-    "publishedAt": "2025-11-04T08:00:00+00:00",
-    "source": "Dark Reading",
-    "title": "SesameOp Backdoor Uses OpenAI API for Covert C2",
-    "summary": "Dark Reading is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHlhN0xzSUt6UGx4a0RrckpzYWItaGZqSlAyVjFrRmU2WGotTzBGSXljbmFwMGhPdXo4bFI4NUU1aVVGZkM2QkZLVFRjTzhmRi1IM2JoU2NlcF9NUXRNQVBtODBYUDloSmV0UGFMQlNNN2k1RlNETVM2eEZleVVLTmZlUHl0czZwZ0dBQkpZRXlDSzVXOFFDdg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Nov 03, 03:00 AM ET",
-    "publishedAt": "2025-11-03T08:00:00+00:00",
-    "source": "Microsoft",
-    "title": "SesameOp: Novel backdoor uses OpenAI Assistants API for command and control",
-    "summary": "Microsoft is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0hiazZ4cUgyRzkwZTdhOVJvVWtvb2lGc2hSQ0p0WDVibTlpWENUVWtFbVJuMm00dmF0SzdfX1NhcTJFLVJNSFdGWWQ2RDE1cGxpM3Z2X2hYdGFIdEVaRzZxLUdFXzVIbEtuYXJfZXRxUGs4UmdmUjJqUG9jWXkxQzE4R05BX0lCal9ONHZjSjVnY3lkZlBFOHpUb1JVdEE4X092eDM5WXMxUUxNTU9vTnVOb1BibVFqdm9KMDVBNjRacDFqc2JNM09STUg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Nov 03, 03:00 AM ET",
-    "publishedAt": "2025-11-03T08:00:00+00:00",
-    "source": "Mashable",
-    "title": "Microsoft warns that an OpenAI API is being abused as a backdoor for 'espionage'",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGZRYlQwT0dTWjlnTm1LY0d0WnFXalFqMWY1Vm42eENXZC03bFBKV3JKRjlRVldJN1ZtaXJVdzF0UWlLZnRvZkw2WHNpTVZ4dVVzSVNBUUVpcDRPT0VXbkdPNTFoaXFybjMyLXV6LTZMeVFiQjc2Wi1JVzFVb3YwQjJzNExLbTU0d1E?oc=5",
     "difficulty": "News"
   }
 ]
