@@ -2,25 +2,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 27, 05:18 AM ET",
-    "publishedAt": "2026-06-27T09:18:32+00:00",
+    "time": "Jun 27, 08:27 AM ET",
+    "publishedAt": "2026-06-27T12:27:26+00:00",
     "source": "blog.google",
     "title": "Interactions API: our primary interface for Gemini models and agents",
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 26, 03:18 PM ET",
-    "publishedAt": "2026-06-26T19:18:58+00:00",
-    "source": "MarkTechPost",
-    "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjd1LUczSlVFZERabEg3VkUwVkRFYzNYSXp1S0E2bDJPTzRvM0hvSGdrU3VZeWVoUUhZWWd1bzNKNXg0OHRRSjlpZndCQU5QaWRkZFdlZnNGTXE2eG1SU05KaEwyLTBpUmVvR01kalBUTzdBUVpqZWRXZncwTnZhUm9sb0Uwbl9rUVpiWEJBWGJaSk1HQklVRWxvTy1ObWNkTU1Yc1FSQTNNVnd5ZThUMHUzdGlEdzlwWWVwVkNiZWtud1lSR1ctM3o4UUVWN3VoNFJB?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,6 +57,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lU1k5bUdCQnBpcWNta2RJd1loX2hwd1pyZ0MtWjdBdFVwRDRRd0tENUFJZzFiMC1uOU96aWRGelJOcXo2YnZEUFRPQXZQUExkWXBRbTJfOUFVZk5HcjlrQ0tMaDVrSW81eHc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 26, 02:09 AM ET",
+    "publishedAt": "2026-06-26T06:09:56+00:00",
+    "source": "The Good Men Project",
+    "title": "I Tested Claude Fable 5 for Two Weeks. Here’s When I’d Use Something Else Instead.",
+    "summary": "The Good Men Project is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3BGNXgwTTVFZ1k4YmJFc1hKUVFFTTBQTDlpSEp6ZG9KcGh4VDJLa09nOWItSVZBMlA2TVRRZGhVYmFpeF9EOG1zaThhTEUxcWI3S0JCS1JrSnR0cFhYVDJRejF0OUxjVUF2cmdkUVVoVzR0cXBpc2d0dkxadHFUMW9mMDhrTFZ5OGo2NzVNSjhfSkNIRGhjOS1LdmVjMGtRRGk5T2ZrQlk4N2FfMGJBdjBWbzlsd3c5?oc=5",
     "difficulty": "News"
   },
   {
@@ -204,18 +204,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 23, 04:01 AM ET",
-    "publishedAt": "2026-06-23T08:01:07+00:00",
-    "source": "Fathom Journal",
-    "title": "How I Vibe Coded A $400K/mo App With Claude Code (Full Tutorial) Volo Pan Am 73 (wYpTXDo3mS)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02SkZrMDNhMHo4RnRheEp6bHlrOVcxck16VjhyWURMWHNidTFSR0Y2U2ZvYVBXRWZpNk1kRUZRTlZtbGhLdHpkYzktOXVpYk8yVXJpWmpjTzNRTDhQcVVaMlFzT2I?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 23, 03:00 AM ET",
@@ -225,6 +213,18 @@
     "summary": "eWeek is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fWTNtdWxjWEs3VUtFbl9XaW1nT1UwZXlET1ZGOFZfVzZtWVo0YnkzZDVyRXpueld5VWFOeW1mWnd1TVhLbEs4QTZQdVRuWVk5a3phUC1KY2RmZGNVZ2x0Y3F6YnR5WTN4Zmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 23, 02:35 AM ET",
+    "publishedAt": "2026-06-23T06:35:05+00:00",
+    "source": "MarkTechPost",
+    "title": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX1ZmRlF3Z2xzdE1wTTZKRFdYcERzcGpvQTBlMnQyMnc1c2lraFpJZVV4bjRZSEQ3VlhWLUhiTXhQc3JCdEdJdDA3bjhaaHZibGpha3ZTTkFtYXNIY2J1eDNtYXRzbnA5U3g2WEstblgzNEk0Q2x3NDdmNmVsVFJ4dVlHLVJha2dVLWl1cG0yU2w0RkVoYmdRb292U244eXhtTm5KOE9pNnZLSmZDY05lQkg1d2Z2emR0bHN0QlR6elJ2ZXBrZU95bnBhTlJIR1pjbmZPYUEteUtWaXJ0OVQ3ay1LTWg1UQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,6 +261,18 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWlGX0RCS2hyVlN2U1llUl9JR1NYQjhzMVhZZmRrSlFNa1dQTGFxRzFVN1lmWHBPUVBwTmpqNGJfTkdWQlh0eGw4VlgtdGZ6VTdrdVFIWW1xc0ROUWwzekxNSG5WNWtabkQwUmdjOFNhUGIxamotcUNveE5FRzB3RmV0dnhfellMNHMw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 16, 03:00 AM ET",
+    "publishedAt": "2026-06-16T07:00:00+00:00",
+    "source": "The New Stack",
+    "title": "Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUV3RjhQdHFtT1NUQjNCbWZLSEJnOGZncFRWQ0p4U0NUTzFRUmpZYmV3WnhCNXdzR3I3UmpuVHIyYlluSEROX3A5RThIbTZPejd3LWtRYVdUWnBMVXluX1BMUjc2Mk1wZVhCOVhoX3h2ZklpZVRBTjFMaFQtX1N0d010cw?oc=5",
     "difficulty": "News"
   },
   {
