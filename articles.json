@@ -2,8 +2,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 27, 05:25 PM ET",
-    "publishedAt": "2026-06-27T21:25:13+00:00",
+    "time": "Jun 27, 11:27 PM ET",
+    "publishedAt": "2026-06-28T03:27:34+00:00",
     "source": "blog.google",
     "title": "Interactions API: our primary interface for Gemini models and agents",
     "summary": "blog.google is reporting this update. Open the article for the full story.",
@@ -86,6 +86,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 26, 02:09 AM ET",
+    "publishedAt": "2026-06-26T06:09:56+00:00",
+    "source": "The Good Men Project",
+    "title": "I Tested Claude Fable 5 for Two Weeks. Here’s When I’d Use Something Else Instead.",
+    "summary": "The Good Men Project is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3BGNXgwTTVFZ1k4YmJFc1hKUVFFTTBQTDlpSEp6ZG9KcGh4VDJLa09nOWItSVZBMlA2TVRRZGhVYmFpeF9EOG1zaThhTEUxcWI3S0JCS1JrSnR0cFhYVDJRejF0OUxjVUF2cmdkUVVoVzR0cXBpc2d0dkxadHFUMW9mMDhrTFZ5OGo2NzVNSjhfSkNIRGhjOS1LdmVjMGtRRGk5T2ZrQlk4N2FfMGJBdjBWbzlsd3c5?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 25, 01:38 PM ET",
     "publishedAt": "2026-06-25T17:38:27+00:00",
     "source": "TechCrunch",
@@ -100,9 +112,9 @@
     "label": "ChatGPT",
     "time": "Jun 25, 01:02 PM ET",
     "publishedAt": "2026-06-25T17:02:00+00:00",
-    "source": "Venturebeat",
+    "source": "VentureBeat",
     "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent — and it's already in the API",
-    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQanMySVQtdjFGRHN5ZnVFQzhGeXBmTGJJSWFZaUIwSTQ4WlBiT3FQaHpBcVM0NHJXUmMtQ1dHX0wyUDJZREN0VG05OFRtWWNNLUxmcmVWQ0VvZDNSbDVKVzJ6eXBaaDVGLTZGN0lSZUhQaHRld2N0VlA2b1hEWFhCSnM0dm1rcXh5b04zOWlnQmdCbGtTazFzWEN4OGtZZlR5TzJEemNWd2hDVzctampzOS1RdDBqeVctQkNZbFB3bktjZnp2d1l4NjJTSDI5ZEZHaW9lY2xab1ZYRWVGQ0prc3FtT1NwQThzVks2S2F4bndibzFPQlJxbA?oc=5",
     "difficulty": "News"
@@ -117,18 +129,6 @@
     "summary": "ZDNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mU2JQVDlfWldQdEJrczJoNGREMkVwclBnR3FMVldjenVmSUk2OFY4eFRCaUhhalkwd0dhQ2ZJTzg4LXJ6X3JKMlRQcDRCdFYtREc0S19tNms4d0FEVWR4b0NwaW9aWllzRjVTUTlPVWhDWW1nMUE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 25, 05:43 AM ET",
-    "publishedAt": "2026-06-25T09:43:36+00:00",
-    "source": "The Cyber Express",
-    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
-    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
     "difficulty": "News"
   },
   {
@@ -153,18 +153,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 24, 04:12 AM ET",
-    "publishedAt": "2026-06-24T08:12:27+00:00",
-    "source": "MarkTechPost",
-    "title": "16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXlURlpYWFBpQkk3dTZrU3JmRWVVNHBDYXFDVFVHQWxRbS1vak1qbWtEcE4xd1R1ckxjVDJ5SWZmWGVjdTI2MVZlak1WQVlLX0ZkSXFUaHhsVmotaF9CVkVnNUx2eDhjay1XOTFybHNIX1RhTVdDX0tLTDQ1Nmx4TlVyUjZwdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -204,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 23, 04:01 AM ET",
-    "publishedAt": "2026-06-23T08:01:07+00:00",
-    "source": "Fathom Journal",
-    "title": "How I Vibe Coded A $400K/mo App With Claude Code (Full Tutorial) Volo Pan Am 73 (wYpTXDo3mS)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02SkZrMDNhMHo4RnRheEp6bHlrOVcxck16VjhyWURMWHNidTFSR0Y2U2ZvYVBXRWZpNk1kRUZRTlZtbGhLdHpkYzktOXVpYk8yVXJpWmpjTzNRTDhQcVVaMlFzT2I?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 22, 03:52 PM ET",
@@ -237,18 +213,6 @@
     "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0ZLRW1MSjhETDZRQ0xxLVJRMTNFa2xvQlBaM0NoaVlTa0l1Vl9lb2RqMlBtWjJOa0pVUHdCTzNtbjl0OUZEc2txRjQyRjJCb3hkMk5kczdHV0puelZ2dGdMU2x4UThZc2wwVW1fV2h1VXExLXlWWTNiblVjOHVpU2VtVDlSZEdZcjk1ZXJrSGpzNFFYYXc4alVjdC1hMmtGVlQ5NE9SRnRUVVVuTUpaUEs1dw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 18, 03:00 AM ET",
-    "publishedAt": "2026-06-18T07:00:00+00:00",
-    "source": "DevOps.com",
-    "title": "Anthropic Hits Pause on Claude Agent SDK Billing Change, For Now",
-    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWlGX0RCS2hyVlN2U1llUl9JR1NYQjhzMVhZZmRrSlFNa1dQTGFxRzFVN1lmWHBPUVBwTmpqNGJfTkdWQlh0eGw4VlgtdGZ6VTdrdVFIWW1xc0ROUWwzekxNSG5WNWtabkQwUmdjOFNhUGIxamotcUNveE5FRzB3RmV0dnhfellMNHMw?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,6 +333,18 @@
     "summary": "Adobe is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXQ2MmQ3V25YUGZRVU93V0JjUUl4TXZVUURLNHNJeW9ENVIwLXo2TlBiLUxiTUdkYnpwYUpyU1VxS0VsblBIMFgtbUxyMXFSQWxLRlZYWEJYMnNwMFRlaThTRjVGRmFxY1RWdHJnWGZJNkYtWnBjNnpmanZHMFR5eXZtX0JONl9Bb3FtSnVUSlU5bm9lYXAw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Apr 24, 03:00 AM ET",
+    "publishedAt": "2026-04-24T07:00:00+00:00",
+    "source": "wiz.io",
+    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
     "difficulty": "News"
   }
 ]
