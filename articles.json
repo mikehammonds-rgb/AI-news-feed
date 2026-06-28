@@ -2,13 +2,25 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 28, 08:33 AM ET",
-    "publishedAt": "2026-06-28T12:33:07+00:00",
+    "time": "Jun 28, 11:33 AM ET",
+    "publishedAt": "2026-06-28T15:33:36+00:00",
     "source": "blog.google",
     "title": "Interactions API: our primary interface for Gemini models and agents",
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 28, 02:15 AM ET",
+    "publishedAt": "2026-06-28T06:15:53+00:00",
+    "source": "Tech Times",
+    "title": "Karpathy CLAUDE.md Grows to Ten Rules: New Self-Check Protocol for AI Coding Loops",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMm5kN3pKVUNrRTRLS3UwRm03S19rY2VFNlhMS1BEcUJRWGhqa0laNmdsZllFeU84ZjQ2c2Uxci0yWUVteGlHUlR0dGVKOGdXZ0w4eWhSYWdDdWpNZXIyb0xQc3dRV2pySVhHcVZvb0VCZUdUVXl0dGdmVnNyX01tbFFqYmJKbEo5NlYzemc1WUlVV0Z3UUVFUUVPakhLUzltbUh5RGVxTzExWTJUWm5pTFRfc2hVMmpZZUZILTBIeGx4RnBMZlc4?oc=5",
     "difficulty": "News"
   },
   {
@@ -165,18 +177,6 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkMFFpNzZOVHNFRktiV2RDWUlVZDBwSVJ0TndnUVVoQ1N2bERWVW9saUJRSUg2c0FpS3VPVzV0S013aDhad1ZwbnlKMkZKdndCZ3BjdnRETlpmYzNuRUZHVG81WEZYQ1dlSTNGaEgxSkNLUVlpSzZLXzNZaVc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 23, 10:37 AM ET",
-    "publishedAt": "2026-06-23T14:37:00+00:00",
-    "source": "Fortune",
-    "title": "Anthropic engineering leader says Claude code made employees' work a 'lonely experience'",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWc2RHNGM21ydVh1emVTZkZJSjQzYVI5ZkpKVWRPRm5wMGpScktOMHRUWDV3Z1lJRVJNbC1yNFNva3dsUjdIdFFPU2VUaHNURWVQTTU2QTFsZHlkX0cxRHdNX2NLREZSX2pva3JSZmc3OE5ZRmxEalZqeUQ0Tm9TaEFDUFNLYjNqXzB4WGJTU2RrbUZJOUdtcldicTRNQmN0cl94aGV1Yw?oc=5",
     "difficulty": "News"
   },
   {
