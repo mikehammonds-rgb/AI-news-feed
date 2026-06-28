@@ -2,8 +2,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 28, 02:39 PM ET",
-    "publishedAt": "2026-06-28T18:39:42+00:00",
+    "time": "Jun 28, 05:37 PM ET",
+    "publishedAt": "2026-06-28T21:37:02+00:00",
     "source": "blog.google",
     "title": "Interactions API: our primary interface for Gemini models and agents",
     "summary": "blog.google is reporting this update. Open the article for the full story.",
@@ -268,6 +268,18 @@
     "label": "Gemini",
     "time": "Jun 09, 03:00 AM ET",
     "publishedAt": "2026-06-09T07:00:00+00:00",
+    "source": "Ars Technica",
+    "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUh5bjBGalp5Q0stWTlpeUZCa1RqQm1MRUxjR1dPcWs3ck5ZMWRveE9NbUxFSlFzTE5wQWlvRU91NFZmVlFLdDAza0RyVHdsdVBrbUFsYXY3TmZoYmoxLXoyWElKTjF6X2VaOGhwaWNkRHEtUzNrZ2tnOHJ4TnBnbXJ1dmE5Z1ZoMWVwQ0Z1YUlmbU1pemN0bTVEQ1VaTkd0NHo1Tmw2dy1OWVhJcEZsRE1fTVZhLTFi?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 09, 03:00 AM ET",
+    "publishedAt": "2026-06-09T07:00:00+00:00",
     "source": "blog.google",
     "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
     "summary": "blog.google is reporting this update. Open the article for the full story.",
@@ -290,13 +302,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 08, 03:00 AM ET",
-    "publishedAt": "2026-06-08T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Bringing the latest Gemini models to Apple developers",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "time": "Jun 03, 03:00 AM ET",
+    "publishedAt": "2026-06-03T07:00:00+00:00",
+    "source": "9to5Mac",
+    "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally",
+    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenZQWUdObUdaaGZCX2NCUFVueGE1QU56em5JOElERTdaeXBpNUxIWk9RYlBubGtvYS16b2ZxbHNlaElvOW1qX1RyRi1NeVlmaTVkT25VRjhmSmVIYlh1b2VfOEJOakVZaTl2NFlNRGVuUE00R2I5Y094TVBiMVhkaDRUT2NwM0ZVMVhrZzBwZVRPQWt1UEtQZ3ZjSC1peXRDWGN3cnhLeFYxTHBVdHc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZJRUxZUTdyTWFTTE51anU1NE9uTFQzZEdMNWQzdzk3anV1eHcyYWo0TkF0bU0zaEpBQ0VNWHRTa1d5M2RrdFBaNkNQWEgxMW5VNk9BSEVvZ2xFVVdLMThXZUJ4a3dUSHYxM3ZTalJFY2VHOEdwSUgwc3FkbWttcWwxdF9uMmZjb0FkVGxPTVk2Q2h2SzRFbWtBZFBTak9NNWRaMnF3X2hOMTFwMzhPTEZyb0pqVVU?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,18 +357,6 @@
     "summary": "wiz.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Apr 15, 03:00 AM ET",
-    "publishedAt": "2026-04-15T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Prepay for the Gemini API to get more control over your spend",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0k5OVA2WHpOY0FDbXBPMk1mRjZRRHMzZllQYm9VVXJMeHVBNk50NGp1dlA0TFdIMWVNMWRBN1dxSmprM3Z4RmJzTVotdGdXb29hSzAwblU4NTVQVFJheGdNRHpvUnJKT3VpRlpNbFdyNkZVYnNLd1RmT0hxYk5sMUd6T2ktOVl2RUZ0Ug?oc=5",
     "difficulty": "News"
   },
   {
