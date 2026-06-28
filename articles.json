@@ -2,8 +2,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 28, 02:30 AM ET",
-    "publishedAt": "2026-06-28T06:30:02+00:00",
+    "time": "Jun 28, 05:43 AM ET",
+    "publishedAt": "2026-06-28T09:43:08+00:00",
     "source": "blog.google",
     "title": "Interactions API: our primary interface for Gemini models and agents",
     "summary": "blog.google is reporting this update. Open the article for the full story.",
@@ -252,18 +252,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 10, 05:35 PM ET",
-    "publishedAt": "2026-06-10T21:35:43+00:00",
-    "source": "JD Supra",
-    "title": "When the worm targets the assistant: Miasma turns AI coding agents into the trigger",
-    "summary": "JD Supra is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT1U5cFVIQXBsMEJFU1hFbmFuVlJ5X0V6dERsbUtNWXJYV1Vub0N6QWYxemhHNnBMLXpmR1ZRb3JlUmlza3BXbFhod0dqVC1QXy1heXYzWEUtc1VzRlFCQnVBNHRlX2Q4c2cyUlk0WXVOSEMyT3hBRm1od3F6NkZNUjF3cmE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 09, 03:00 AM ET",
@@ -369,6 +357,18 @@
     "summary": "wiz.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Apr 15, 03:00 AM ET",
+    "publishedAt": "2026-04-15T07:00:00+00:00",
+    "source": "Microsoft",
+    "title": "Learn to use AI for coding with Copilot",
+    "summary": "Microsoft is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRzBaaERwbDltN1hFWE5IT3hKNUxGRnZObi1SLU9OZHVQTi1VcHRoS0h1eWJ0QUN6WC1SOEpORV9aNEViRWZiMUZ6OFBCeGZPTHdhWUw5Z0ZrLTR3VnFOUXVnYXlNb3dMX1RHYWVlXzVtWHFTUWtGSXhMbmVtd3g2U055eld5OThFVGo1cDFrSkRqakRKaXNTS2pQOU5MNGlMemtwcjRjbTNaQTd5VGRrVENfbnZHNG91S0Nyay00Z29hWlMzR0pUZF9xN0k4aTFwUFhyNUlhajJZUzJkSG5R?oc=5",
     "difficulty": "News"
   }
 ]
