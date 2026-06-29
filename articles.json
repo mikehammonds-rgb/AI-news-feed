@@ -48,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 28, 09:07 PM ET",
-    "publishedAt": "2026-06-29T01:07:33+00:00",
-    "source": "Fathom Journal",
-    "title": "How I Vibe Coded A Full App Using Claude Code (with Database, Payment, Login) Kings Speech (iTVcW9lasu)",
-    "summary": "Fathom Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6YWZYWjR0N3pDLWxTTmVjeWtjSVBsTTFmbE1XcFN2azlVUjF1SzdqamcxU0pCMk01YTU2amRrc01Cc0NYV0J4eTloc01xby0yQzNfakdsTjBoSkk3SXllbmgtME80QkNmTUE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 28, 07:01 PM ET",
@@ -69,18 +57,6 @@
     "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wY29GN3hGSmpTcU5oR1E5UXpNeEVwRzdQNjMwTUhRaU5ObEtYcWs2ZldiYjZkeGJlLUZLQVZpR3ZpLWZaOXpNb3o2ODFzTm01ckNxS2gzY0NRSlhuZ25CTFY4UXp6c19PRVZEc1p1bXUyVUhfTnBBU1NPUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 28, 02:25 PM ET",
-    "publishedAt": "2026-06-28T18:25:56+00:00",
-    "source": "AOL.com",
-    "title": "Response incomplete claude. Is Claude down? Claude api error",
-    "summary": "AOL.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRk5UZi0tZkV0TTg2NjAyZmJuX25TWVRsYmI1cGNMbUFtWEhTM01aY3Z3V1ZYT2NUUExiaGtVNTJKYWhoSFVuc2pKTi13NXNULVNGcTlpeTZJeGVkSkJGdzlJTGVqcjJFYmZDcDJJdnJsRGtNYXRCc0V5dHpQZF9wa254QnQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -168,6 +144,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 26, 02:09 AM ET",
+    "publishedAt": "2026-06-26T06:09:56+00:00",
+    "source": "The Good Men Project",
+    "title": "I Tested Claude Fable 5 for Two Weeks. Here’s When I’d Use Something Else Instead.",
+    "summary": "The Good Men Project is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3BGNXgwTTVFZ1k4YmJFc1hKUVFFTTBQTDlpSEp6ZG9KcGh4VDJLa09nOWItSVZBMlA2TVRRZGhVYmFpeF9EOG1zaThhTEUxcWI3S0JCS1JrSnR0cFhYVDJRejF0OUxjVUF2cmdkUVVoVzR0cXBpc2d0dkxadHFUMW9mMDhrTFZ5OGo2NzVNSjhfSkNIRGhjOS1LdmVjMGtRRGk5T2ZrQlk4N2FfMGJBdjBWbzlsd3c5?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 25, 09:29 PM ET",
@@ -196,11 +184,23 @@
     "label": "ChatGPT",
     "time": "Jun 25, 01:02 PM ET",
     "publishedAt": "2026-06-25T17:02:00+00:00",
-    "source": "Venturebeat",
+    "source": "VentureBeat",
     "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent — and it's already in the API",
-    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQanMySVQtdjFGRHN5ZnVFQzhGeXBmTGJJSWFZaUIwSTQ4WlBiT3FQaHpBcVM0NHJXUmMtQ1dHX0wyUDJZREN0VG05OFRtWWNNLUxmcmVWQ0VvZDNSbDVKVzJ6eXBaaDVGLTZGN0lSZUhQaHRld2N0VlA2b1hEWFhCSnM0dm1rcXh5b04zOWlnQmdCbGtTazFzWEN4OGtZZlR5TzJEemNWd2hDVzctampzOS1RdDBqeVctQkNZbFB3bktjZnp2d1l4NjJTSDI5ZEZHaW9lY2xab1ZYRWVGQ0prc3FtT1NwQThzVks2S2F4bndibzFPQlJxbA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 25, 03:00 AM ET",
+    "publishedAt": "2026-06-25T07:00:00+00:00",
+    "source": "Built In",
+    "title": "What Is Claude AI?",
+    "summary": "Built In is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFREVzRWM5YkZYenlBd0E0aHZtdl8wa2tsODRhdTFUc09rclA2QzdkY3F2VlBQRUtQUUY5R2dXLV9jU1RBWmFaZFhJRHJaX00?oc=5",
     "difficulty": "News"
   },
   {
@@ -254,6 +254,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 21, 08:49 PM ET",
+    "publishedAt": "2026-06-22T00:49:00+00:00",
+    "source": "Asbury Park Press",
+    "title": "Response incomplete claude. Is Claude down? Claude api error",
+    "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0ZLRW1MSjhETDZRQ0xxLVJRMTNFa2xvQlBaM0NoaVlTa0l1Vl9lb2RqMlBtWjJOa0pVUHdCTzNtbjl0OUZEc2txRjQyRjJCb3hkMk5kczdHV0puelZ2dGdMU2x4UThZc2wwVW1fV2h1VXExLXlWWTNiblVjOHVpU2VtVDlSZEdZcjk1ZXJrSGpzNFFYYXc4alVjdC1hMmtGVlQ5NE9SRnRUVVVuTUpaUEs1dw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 16, 03:00 AM ET",
     "publishedAt": "2026-06-16T07:00:00+00:00",
     "source": "The New Stack",
@@ -273,18 +285,6 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 09, 03:00 AM ET",
-    "publishedAt": "2026-06-09T07:00:00+00:00",
-    "source": "Ars Technica",
-    "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUh5bjBGalp5Q0stWTlpeUZCa1RqQm1MRUxjR1dPcWs3ck5ZMWRveE9NbUxFSlFzTE5wQWlvRU91NFZmVlFLdDAza0RyVHdsdVBrbUFsYXY3TmZoYmoxLXoyWElKTjF6X2VaOGhwaWNkRHEtUzNrZ2tnOHJ4TnBnbXJ1dmE5Z1ZoMWVwQ0Z1YUlmbU1pemN0bTVEQ1VaTkd0NHo1Tmw2dy1OWVhJcEZsRE1fTVZhLTFi?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,18 +312,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 03, 03:00 AM ET",
-    "publishedAt": "2026-06-03T07:00:00+00:00",
-    "source": "9to5Mac",
-    "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally",
-    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZJRUxZUTdyTWFTTE51anU1NE9uTFQzZEdMNWQzdzk3anV1eHcyYWo0TkF0bU0zaEpBQ0VNWHRTa1d5M2RrdFBaNkNQWEgxMW5VNk9BSEVvZ2xFVVdLMThXZUJ4a3dUSHYxM3ZTalJFY2VHOEdwSUgwc3FkbWttcWwxdF9uMmZjb0FkVGxPTVk2Q2h2SzRFbWtBZFBTak9NNWRaMnF3X2hOMTFwMzhPTEZyb0pqVVU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 24, 03:00 AM ET",
@@ -348,6 +336,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 19, 03:00 AM ET",
+    "publishedAt": "2026-05-19T07:00:00+00:00",
+    "source": "Adobe",
+    "title": "Adobe for creativity connector is coming soon to Google Gemini",
+    "summary": "Adobe is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXQ2MmQ3V25YUGZRVU93V0JjUUl4TXZVUURLNHNJeW9ENVIwLXo2TlBiLUxiTUdkYnpwYUpyU1VxS0VsblBIMFgtbUxyMXFSQWxLRlZYWEJYMnNwMFRlaThTRjVGRmFxY1RWdHJnWGZJNkYtWnBjNnpmanZHMFR5eXZtX0JONl9Bb3FtSnVUSlU5bm9lYXAw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Apr 24, 03:00 AM ET",
@@ -357,6 +357,18 @@
     "summary": "wiz.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Apr 15, 03:00 AM ET",
+    "publishedAt": "2026-04-15T07:00:00+00:00",
+    "source": "blog.google",
+    "title": "Prepay for the Gemini API to get more control over your spend",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0k5OVA2WHpOY0FDbXBPMk1mRjZRRHMzZllQYm9VVXJMeHVBNk50NGp1dlA0TFdIMWVNMWRBN1dxSmprM3Z4RmJzTVotdGdXb29hSzAwblU4NTVQVFJheGdNRHpvUnJKT3VpRlpNbFdyNkZVYnNLd1RmT0hxYk5sMUd6T2ktOVl2RUZ0Ug?oc=5",
     "difficulty": "News"
   },
   {
