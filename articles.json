@@ -50,6 +50,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 29, 01:52 PM ET",
+    "publishedAt": "2026-06-29T17:52:33+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Pair Nova 2 Lite with Claude for cost-optimized document processing",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0NnbHFNVkJLUXhIa2NySE12cEc3SXdJamg4Rkc5ZUZ4cUlkcGd3SVgyVDd5RDhrajFDSjd5M1lzdEYyeTRRRjVhWEZsaC1DWUpiODlOTFg0RlllQWxKVVZsOURzTG1NU1JEMWNRdk4yQk1qc1NhRUdfOUd5MmFvY0xEa0xlb2Yxb1JkRkZOUHVxUnlpZktqTW41djhaMXExd2ItYzVIaURqbjNBUUJ2TVdfTk4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 29, 01:00 PM ET",
     "publishedAt": "2026-06-29T17:00:00+00:00",
     "source": "Microsoft Azure",
@@ -220,9 +232,9 @@
     "label": "ChatGPT",
     "time": "Jun 25, 01:02 PM ET",
     "publishedAt": "2026-06-25T17:02:00+00:00",
-    "source": "VentureBeat",
+    "source": "Venturebeat",
     "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent — and it's already in the API",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQanMySVQtdjFGRHN5ZnVFQzhGeXBmTGJJSWFZaUIwSTQ4WlBiT3FQaHpBcVM0NHJXUmMtQ1dHX0wyUDJZREN0VG05OFRtWWNNLUxmcmVWQ0VvZDNSbDVKVzJ6eXBaaDVGLTZGN0lSZUhQaHRld2N0VlA2b1hEWFhCSnM0dm1rcXh5b04zOWlnQmdCbGtTazFzWEN4OGtZZlR5TzJEemNWd2hDVzctampzOS1RdDBqeVctQkNZbFB3bktjZnp2d1l4NjJTSDI5ZEZHaW9lY2xab1ZYRWVGQ0prc3FtT1NwQThzVks2S2F4bndibzFPQlJxbA?oc=5",
     "difficulty": "News"
@@ -261,18 +273,6 @@
     "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0ZLRW1MSjhETDZRQ0xxLVJRMTNFa2xvQlBaM0NoaVlTa0l1Vl9lb2RqMlBtWjJOa0pVUHdCTzNtbjl0OUZEc2txRjQyRjJCb3hkMk5kczdHV0puelZ2dGdMU2x4UThZc2wwVW1fV2h1VXExLXlWWTNiblVjOHVpU2VtVDlSZEdZcjk1ZXJrSGpzNFFYYXc4alVjdC1hMmtGVlQ5NE9SRnRUVVVuTUpaUEs1dw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 16, 03:00 AM ET",
-    "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "Ars Technica",
-    "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1dja1FVaUdNTVd0U3ZlV1ZOTGlVRkFGQWI1Q09CZFpzM1BMLS1vQ2VlV3F4dWVSNFRzek5kX3ZkMFBEM19BR1VGbzM3R2w5SE9TR3BjVVV1X3lLZWl3Vk13YUtGcHJpcU1tYnFweWhVUjMxdG9BYk5waG9NTFpOS3RqTVJvdGRDX0preUlpZ01GeXYxYUd3RWpKRjYtZw?oc=5",
     "difficulty": "News"
   },
   {
