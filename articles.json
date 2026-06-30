@@ -1,5 +1,29 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 30, 05:37 PM ET",
+    "publishedAt": "2026-06-30T21:37:40+00:00",
+    "source": "MarkTechPost",
+    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMXZ0THU0S3oyTUtxM25QeFQ1ai05a3d1andFUXRQZkk3RlhFMnlXclNTcUtxR3NpSEtUSVBwdkVWWHN5MnpKS3ZMcll0dGt2VGQ3eWs5TllpTlFvSmNoSVRmQVo1MThPVkRrVXBuSjNpZ1ktSEhxMVRNcEVNYzAyMTk5QUNwcVh1V0c3aXd6aW1nYXFoRE5MaVlJSkdpV1RkTUozTm5oV0ItWTFWYTJ6RmF6X2Z0NXhQRERnYUVuWHdpTEpLUjNNNnlEWC1aZEZkTlEyZUszNExFNjFBUjlYNU1FVENraFB4cERZTGtKTmhqdk93dDJRTFM0VnVUOUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 30, 05:14 PM ET",
+    "publishedAt": "2026-06-30T21:14:49+00:00",
+    "source": "Mashable",
+    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 30, 04:19 PM ET",
@@ -26,18 +50,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 30, 03:39 PM ET",
-    "publishedAt": "2026-06-30T19:39:08+00:00",
-    "source": "Mashable SEA",
-    "title": "Anthropic finally, officially launches Claude Sonnet 5",
-    "summary": "Mashable SEA is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnRXdXFLNzFuOWlKSzRyUGtQNkprWjNHODNVN2Rma1V0V3RTSVlCaTdBdEZSV2RPUmd2cGRuejJsNEJwX2tTSW96endYUkVYdFBaOGhxclpfUkU1bURXSXMtek5tY05pOHZQU3BZaWZrLW40WUNxMzZxZWhsSV9SdG1vanhCZThfOVU0ZlFoeGZuZ0k?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jun 30, 02:40 PM ET",
     "publishedAt": "2026-06-30T18:40:09+00:00",
     "source": "Amazon Web Services (AWS)",
@@ -48,15 +60,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 02:04 PM ET",
-    "publishedAt": "2026-06-30T18:04:07+00:00",
-    "source": "Mashable SEA",
-    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
-    "summary": "Mashable SEA is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 30, 02:03 PM ET",
+    "publishedAt": "2026-06-30T18:03:16+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Sonnet 5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTNwazlpQkoyd3JIOHZLMkRPdVRXa3dPcjdobm5BZHdyUngyUEFZUUswTWd2Q3NBbVduZ0FuMFp3cWRmXzdoV3FHaWNwRkM1RFhaemh2UzFSVmpnR1NXZzFRdWhHbFZIRGFyY0M5RE90QkZLVkh0dk9Td09PMXBXWS1mNjUzdEVqbWo3a29SMTBQZWhIUzBrM3ZRTEJFUGlIR005cDBEZHkwdXZJdWhfOElB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,18 +81,6 @@
     "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNX1A2aGp1cnl6YnNVbjd3OVFjaXd4V1cxdUQtNVpYeE9BYVdVRktqSHBuTmN1TEFGeEtucThUMWZ0cjFLZlJXWWx4T1NyS3JUYktOWVkxQ2g4emFhTjBsVTltTkFOcXY0ZVM2RFhNbHg0YW5hSnF6TU9uMDZ6eGZKS1Z6YU5Lc3NLc05zTmFyaWxVUTljQVJEVEpqM0JYZXNodmZEbmZKUXhFOEEtZC12MDQtUno3ZGVnQmxQeFgwcHNQZk00Sk9sc1NhOVg5VDlYMmtnZFM3c3lMNDVHaTVsekV6SlB2VzQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 01:58 PM ET",
-    "publishedAt": "2026-06-30T17:58:16+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Sonnet 5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -144,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 11:55 AM ET",
-    "publishedAt": "2026-06-30T15:55:19+00:00",
-    "source": "blog.google",
-    "title": "Interactions API: our primary interface for Gemini models and agents",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 30, 10:47 AM ET",
@@ -165,18 +153,6 @@
     "summary": "Memeburn is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZy1JbTVET3paanBhX2M4cFZqUk5kUnlMek9sclFLeVMzTEQ2MTV2RWdMRVI0NzVaZTJnZTM4TlhIUU9ualFNYUs2X2kydml0YWVYMDJVdG5fdkc1Ym1XRFZXMXZ2ZHdWcWFISzZtNGZpRDB3eFlnMGdBLTB4Tnp5VEdB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 10:11 AM ET",
-    "publishedAt": "2026-06-30T14:11:35+00:00",
-    "source": "The National Law Review",
-    "title": "DataArt Joins Anthropic’s Claude Partner Network as a Select Partner in the Services Track",
-    "summary": "The National Law Review is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTNvNTFxS29mWWwyd3gtNVZVcDNhcDNxc2dPNGpiMzh0SlRPUlNKR0s1VDQyblFtM2ZzUVlxb2Frdjl6S203TjJ1ZGZaOFNYNUF0ZG5iODRObUNhNTBJX3BLTVVsbkJHLWFwenRVTWRTX3dQRkdPVGpxTTNIdFNwNG1FN3JVRFlPZzdGVV9odVoxU3VDTnZwUzB2S0cyTmJtb1hvcmR1LTAyZndOZnFjUg?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,10 +276,22 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 22, 01:38 PM ET",
+    "publishedAt": "2026-06-22T17:38:08+00:00",
+    "source": "blog.google",
+    "title": "Interactions API: our primary interface for Gemini models and agents",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 22, 03:52 PM ET",
-    "publishedAt": "2026-06-22T19:52:56+00:00",
+    "time": "Jun 22, 03:00 AM ET",
+    "publishedAt": "2026-06-22T07:00:00+00:00",
     "source": "The New Stack",
     "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
