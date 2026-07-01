@@ -62,18 +62,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 01, 05:56 AM ET",
-    "publishedAt": "2026-07-01T09:56:33+00:00",
-    "source": "The Neuron",
-    "title": "Claude Got a Workhorse Upgrade",
-    "summary": "The Neuron is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfNlRVclY1cG82ZWFQYUdHVUZkRVI0NnNlakVJeWtLTWtlMV9KbGF2WWpqQlRGZlJJNWRvSlJqdFhyTnRPZXNSV0FYR2RRVWtHOExHWTdHd0d2b0xKNm1zR2hKZGREcDBWQWJoM0V1bnRVeUZFTVM5NkNB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jul 01, 04:45 AM ET",
     "publishedAt": "2026-07-01T08:45:33+00:00",
     "source": "Help Net Security",
@@ -93,6 +81,18 @@
     "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObG1xM2VlWXh2WmhzT2ZBRzBFNVlBMU42amcxdktLbmk3b2EtRG1pZzJJV21GLThIR2FDdE9qa1RBQ1pDaTZFY1M3RnhMQzhlR2ZUdXlpWi1fdm5EdkZ0cFFWU3JpZXZtZHhzbFZjeE5QQlFjUHItbFIyYU1kUmJESXhNWC01aEdQcjFzWEZjeF9jc3JNdGYtOG1RWWx4VjFaTmVGUlUwWk9wOWQ5RS0xX2NLaTFDRHZrMzJZUExxeUdGR0pWSHlZZFhCaDRicEdwS0E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 01, 03:23 AM ET",
+    "publishedAt": "2026-07-01T07:23:58+00:00",
+    "source": "Tech Times",
+    "title": "Claude Code Hid Proxy Fingerprints in System Prompts: Anthropic Promises Fix",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPckhUdFFLeWdab21JYldRcWJDbjBvSzV2YjVTMmhfcWRycWVJMG1FZUtWby10bERiX0tmaVBuU0RuZDREeHFva1h4amh2blRYYWx0aGdaMnlQVFNXN0ZzY3pjSU5Vc2hKRjRRNXExdWVadm5WdmJSQ1Fwd1p5dTJ3aUU4c1dXeDVkaXJaVGR6eElhQ1htcjdDLXdTUjNqbHVSR0xkWWlXSW1DRDhWMkVuZEJyZW5yaV9OWElhSHRYOExuamJYc3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -122,13 +122,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 30, 05:37 PM ET",
-    "publishedAt": "2026-06-30T21:37:40+00:00",
-    "source": "MarkTechPost",
-    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "time": "Jun 30, 02:40 PM ET",
+    "publishedAt": "2026-06-30T18:40:09+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMXZ0THU0S3oyTUtxM25QeFQ1ai05a3d1andFUXRQZkk3RlhFMnlXclNTcUtxR3NpSEtUSVBwdkVWWHN5MnpKS3ZMcll0dGt2VGQ3eWs5TllpTlFvSmNoSVRmQVo1MThPVkRrVXBuSjNpZ1ktSEhxMVRNcEVNYzAyMTk5QUNwcVh1V0c3aXd6aW1nYXFoRE5MaVlJSkdpV1RkTUozTm5oV0ItWTFWYTJ6RmF6X2Z0NXhQRERnYUVuWHdpTEpLUjNNNnlEWC1aZEZkTlEyZUszNExFNjFBUjlYNU1FVENraFB4cERZTGtKTmhqdk93dDJRTFM0VnVUOUE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSGNNRmNpZGxqSmhzTkpiRXI2TlZsSjR4eHphc1hjM3VvelF3RkIzRnJyV2ZtblF4V09MMnloa0I1Z284MjFSTnV6Z1BEZzVWQW40S3R1R2tyVVpSV0czMlhIVFNBYnJCZW92Zy1IZ1BadlN2LUVmNUhPVUVEZU9LWXRPd1d6WVZYeEFaQVJCTlVKbFN5ZUxfa01DTGF1VnduTHJxd3F0QjdUMHBvOFNvMlc1WXpIWjZWYVE?oc=5",
     "difficulty": "News"
   },
   {
@@ -230,18 +230,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 29, 04:19 AM ET",
-    "publishedAt": "2026-06-29T08:19:33+00:00",
-    "source": "CCN.com",
-    "title": "GPT-5.6 Is Here: OpenAI Names Its New AI Models Sol, Terra and Luna",
-    "summary": "CCN.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnAyckoya1BQejlTVjFrc3lHU0JxT2NEUW80ZHlYMV85MndLR1VaVjNlYTJpaWdNS3BENnVjbVhmcU5vLTU2bU9OanRUX0J4UVM2S2p1ajNvQ1lMWGhzZzZfYmtBa3VNU2hqNDNERXV1YXBLNGV1OUpsTDVuRnE3NHRsZFE5S3RZNGtkRg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jun 28, 07:01 PM ET",
     "publishedAt": "2026-06-28T23:01:49+00:00",
     "source": "EdTech Innovation Hub",
@@ -249,18 +237,6 @@
     "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wY29GN3hGSmpTcU5oR1E5UXpNeEVwRzdQNjMwTUhRaU5ObEtYcWs2ZldiYjZkeGJlLUZLQVZpR3ZpLWZaOXpNb3o2ODFzTm01ckNxS2gzY0NRSlhuZ25CTFY4UXp6c19PRVZEc1p1bXUyVUhfTnBBU1NPUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 26, 03:18 PM ET",
-    "publishedAt": "2026-06-26T19:18:58+00:00",
-    "source": "MarkTechPost",
-    "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjd1LUczSlVFZERabEg3VkUwVkRFYzNYSXp1S0E2bDJPTzRvM0hvSGdrU3VZeWVoUUhZWWd1bzNKNXg0OHRRSjlpZndCQU5QaWRkZFdlZnNGTXE2eG1SU05KaEwyLTBpUmVvR01kalBUTzdBUVpqZWRXZncwTnZhUm9sb0Uwbl9rUVpiWEJBWGJaSk1HQklVRWxvTy1ObWNkTU1Yc1FSQTNNVnd5ZThUMHUzdGlEdzlwWWVwVkNiZWtud1lSR1ctM3o4UUVWN3VoNFJB?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,15 +252,27 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 26, 08:17 AM ET",
+    "publishedAt": "2026-06-26T12:17:19+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude vs ChatGPT vs Gemini 2026: 88% SWE-Bench, $2 API",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lU1k5bUdCQnBpcWNta2RJd1loX2hwd1pyZ0MtWjdBdFVwRDRRd0tENUFJZzFiMC1uOU96aWRGelJOcXo2YnZEUFRPQXZQUExkWXBRbTJfOUFVZk5HcjlrQ0tMaDVrSW81eHc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 25, 01:02 PM ET",
-    "publishedAt": "2026-06-25T17:02:00+00:00",
-    "source": "VentureBeat",
-    "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent — and it's already in the API",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "time": "Jun 24, 09:05 AM ET",
+    "publishedAt": "2026-06-24T13:05:15+00:00",
+    "source": "OpenAI",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQanMySVQtdjFGRHN5ZnVFQzhGeXBmTGJJSWFZaUIwSTQ4WlBiT3FQaHpBcVM0NHJXUmMtQ1dHX0wyUDJZREN0VG05OFRtWWNNLUxmcmVWQ0VvZDNSbDVKVzJ6eXBaaDVGLTZGN0lSZUhQaHRld2N0VlA2b1hEWFhCSnM0dm1rcXh5b04zOWlnQmdCbGtTazFzWEN4OGtZZlR5TzJEemNWd2hDVzctampzOS1RdDBqeVctQkNZbFB3bktjZnp2d1l4NjJTSDI5ZEZHaW9lY2xab1ZYRWVGQ0prc3FtT1NwQThzVks2S2F4bndibzFPQlJxbA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +369,18 @@
     "summary": "wiz.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
     "difficulty": "News"
   }
 ]
