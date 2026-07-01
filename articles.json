@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jun 30, 07:05 PM ET",
+    "publishedAt": "2026-06-30T23:05:07+00:00",
+    "source": "EdTech Innovation Hub",
+    "title": "Claude launches in Microsoft Foundry on Azure | ETIH EdTech News",
+    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeER1NTdxVWsyQnNYSzQtYXc3REo1M2g3ZVFvMVdPdVIteVQtVjhoOWRHSEhZV0ZWeHhOOV9GcWlkTkNleGJTRzdEd0czYTVlSi1OeHlqcFJLRlUzbDJIMW5UenZpOE5ZYzZSbExnSjE4TUduWElrSVNIcVQxS2pqT25KZHN1T00wbjB5ZnlZeG80eTRxbEszR3VZWUNTc2k2TW9SemFuTHBnSE5Jc3RsTDEteC1jUW9iYm9KYmZSRjBqSi15SmFF?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 30, 05:37 PM ET",
     "publishedAt": "2026-06-30T21:37:40+00:00",
     "source": "MarkTechPost",
@@ -45,18 +57,6 @@
     "summary": "Techzine Global is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWJTaV9WU0ZaX1dsaklLeW80RGZYNXVjOGVpX0UzcFlGYmlkMnRpS3NiaHByd0xBdG8ySnlYMzRRUGx6bm9qZ1ZJV1ZjNDl6QmllazlDT3JPZnlrelBmdzRXaW92ZS1kZDV6TjZwVXFsRkFsU2x6bDh0ZmpmdXpTS05mVk82b3FWSVdMbWFSTk0tN0lSc2FtSjc0eVR3MFV1?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 02:40 PM ET",
-    "publishedAt": "2026-06-30T18:40:09+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSGNNRmNpZGxqSmhzTkpiRXI2TlZsSjR4eHphc1hjM3VvelF3RkIzRnJyV2ZtblF4V09MMnloa0I1Z284MjFSTnV6Z1BEZzVWQW40S3R1R2tyVVpSV0czMlhIVFNBYnJCZW92Zy1IZ1BadlN2LUVmNUhPVUVEZU9LWXRPd1d6WVZYeEFaQVJCTlVKbFN5ZUxfa01DTGF1VnduTHJxd3F0QjdUMHBvOFNvMlc1WXpIWjZWYVE?oc=5",
     "difficulty": "News"
   },
   {
@@ -141,18 +141,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 30, 10:47 AM ET",
-    "publishedAt": "2026-06-30T14:47:54+00:00",
-    "source": "Memeburn",
-    "title": "OpenAI limits GPT-5.6 rollout after US request in 2026",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZy1JbTVET3paanBhX2M4cFZqUk5kUnlMek9sclFLeVMzTEQ2MTV2RWdMRVI0NzVaZTJnZTM4TlhIUU9ualFNYUs2X2kydml0YWVYMDJVdG5fdkc1Ym1XRFZXMXZ2ZHdWcWFISzZtNGZpRDB3eFlnMGdBLTB4Tnp5VEdB?oc=5",
     "difficulty": "News"
   },
   {
@@ -245,10 +233,22 @@
     "time": "Jun 28, 07:01 PM ET",
     "publishedAt": "2026-06-28T23:01:49+00:00",
     "source": "EdTech Innovation Hub",
-    "title": "OpenAI begins limited GPT-5.6 preview with Sol, Terra, and Luna",
+    "title": "OpenAI previews GPT-5.6 models with new pricing | ETIH EdTech News",
     "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wY29GN3hGSmpTcU5oR1E5UXpNeEVwRzdQNjMwTUhRaU5ObEtYcWs2ZldiYjZkeGJlLUZLQVZpR3ZpLWZaOXpNb3o2ODFzTm01ckNxS2gzY0NRSlhuZ25CTFY4UXp6c19PRVZEc1p1bXUyVUhfTnBBU1NPUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 26, 03:18 PM ET",
+    "publishedAt": "2026-06-26T19:18:58+00:00",
+    "source": "MarkTechPost",
+    "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjd1LUczSlVFZERabEg3VkUwVkRFYzNYSXp1S0E2bDJPTzRvM0hvSGdrU3VZeWVoUUhZWWd1bzNKNXg0OHRRSjlpZndCQU5QaWRkZFdlZnNGTXE2eG1SU05KaEwyLTBpUmVvR01kalBUTzdBUVpqZWRXZncwTnZhUm9sb0Uwbl9rUVpiWEJBWGJaSk1HQklVRWxvTy1ObWNkTU1Yc1FSQTNNVnd5ZThUMHUzdGlEdzlwWWVwVkNiZWtud1lSR1ctM3o4UUVWN3VoNFJB?oc=5",
     "difficulty": "News"
   },
   {
@@ -302,25 +302,13 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 16, 03:00 AM ET",
-    "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "CBS News",
-    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "time": "Jun 18, 03:00 AM ET",
+    "publishedAt": "2026-06-18T07:00:00+00:00",
+    "source": "Augment Code",
+    "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
+    "summary": "Augment Code is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 09, 03:00 AM ET",
-    "publishedAt": "2026-06-09T07:00:00+00:00",
-    "source": "Visual Studio Magazine",
-    "title": "Mastering AI Development and Building AI Apps with GitHub Copilot",
-    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHB4Ymc5WWJyOGJndmt5NzBTZTdFME9PcG1jUUkzYmFwVUFiRmJON1U1MVNRQXEyeS1YWWtaeV9CdV9QUzZhbmtxaUtyekFkNVFLUDZPRWVlYU1LWWtOelV6bXF3QklLZmpzeVhMZndNVm1ybWJCUEUwUHYyYnYwRk03aFByZTVpVVB3eFJnOVdfQ0pqV3ZqYTJBUlV0cERyOG9BaWRHZG9fUnlZb1Y4SFg4R0xmcG1MU19SOFg0TFU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,6 +345,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Apr 24, 03:00 AM ET",
+    "publishedAt": "2026-04-24T07:00:00+00:00",
+    "source": "wiz.io",
+    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
     "difficulty": "News"
   },
   {
