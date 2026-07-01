@@ -2,6 +2,30 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 01, 08:09 AM ET",
+    "publishedAt": "2026-07-01T12:09:29+00:00",
+    "source": "DevOps.com",
+    "title": "Anthropic Adds Enterprise Gateway to Simplify Claude Code Access on AWS and Google Cloud",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTVl1dUR0ZEh3d2s1SlJQVzZPWnowQW52T1JOUTUwYURnTVVMVHhQWEF0T285MGJiODQwczNaTGtHVnEwcjJqMWJtT1ZmM2tTaXhlX0s0aUI2M2JzeFRESlRxRDcyZW5DQW8zLVFwb1ZwdWw1bldkc2R2SVVLVVlTeFV0VmJQVC1QS0dwZEJSM3Y3MzVuSjN1QUxfNlpqV0hJX1I3eG9McjhKYmZ6?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 01, 07:57 AM ET",
+    "publishedAt": "2026-07-01T11:57:05+00:00",
+    "source": "nokiapoweruser.com",
+    "title": "Google's Nano Banana 2 Lite and Gemini Omni Flash Make AI Images and Videos Faster Than Ever",
+    "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yZm85UjhYLW93TGdKN1lWLVJHNHBZVHVvc1JudU14WEt4Ym9rOVlueGVRRUd0cGhXYzh4Q0xaMWdZYTE0RkEwTWVJNjZaUXh0Tl9zRmNId1R0ZV9aOGt1Vm1FenpZc01XYWM0eHM5WHREYTFpZTNiOVZqWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 01, 03:23 AM ET",
     "publishedAt": "2026-07-01T07:23:58+00:00",
     "source": "Tech Times",
@@ -26,6 +50,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 01, 01:00 AM ET",
+    "publishedAt": "2026-07-01T05:00:25+00:00",
+    "source": "36Kr",
+    "title": "Confirmed: Claude Code Secretly Accesses User Data - Time Zones and Chinese AI Labs as Key Targets",
+    "summary": "36Kr is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UVGhxcDEyd1AtZU15cnhsV0dUOE1RZDJRWVp6SC1fdWdxU3pYdkQ4LTB4djJmakVudTZkT1poYkVPSVVpeC1NSHF0UnJYYklKenV3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jun 30, 09:21 PM ET",
     "publishedAt": "2026-07-01T01:21:59+00:00",
     "source": "InfoWorld",
@@ -33,6 +69,18 @@
     "summary": "InfoWorld is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOVdkUnNfOURBMGZOOEY1d0dnMl95Z0kyNHZmc3ZIN3ZSLXNBN0JYbERNdW83ZlZwaWUyNDl4TFgwVUI3ekprazU5MnI5WHJ4b3ZabHBzaEJONnZXa1VjbGEyckh0LXh2X085dDRKcV9TQ2lGdDVsOW9hQVhhdWRfSDdPRVhaWEFST29fVVlpOFdhNDVONUhhYWw3RzJzbmZo?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 30, 08:21 PM ET",
+    "publishedAt": "2026-07-01T00:21:29+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Sonnet 5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -50,30 +98,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 30, 04:19 PM ET",
-    "publishedAt": "2026-06-30T20:19:36+00:00",
-    "source": "TradingView",
-    "title": "Alphabet Pushes Deeper Into AI Creation",
-    "summary": "TradingView is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVNEZjhKX2NxMFdvX1JSX3ZCSHFLcU1BbV9HZmhEQi1mMjR3NzlFSGtsUk9BaUs1dVBxb3ZmTy1uYkJ6NDNlNE1UOXVsT2V2a0ZKYW81bWJFTmh1Q3FlU0pyN1M4T2tiMnRVemJXeHZUMGhHMUxTdVhGeFhMWDlicXNVQlk0aUdneEtHMXRpVXVvSHZfRExzbjJ5Y0dxQllw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 03:45 PM ET",
-    "publishedAt": "2026-06-30T19:45:35+00:00",
-    "source": "Techzine Global",
-    "title": "Claude Sonnet 5: not powerful enough to be blocked?",
-    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWJTaV9WU0ZaX1dsaklLeW80RGZYNXVjOGVpX0UzcFlGYmlkMnRpS3NiaHByd0xBdG8ySnlYMzRRUGx6bm9qZ1ZJV1ZjNDl6QmllazlDT3JPZnlrelBmdzRXaW92ZS1kZDV6TjZwVXFsRkFsU2x6bDh0ZmpmdXpTS05mVk82b3FWSVdMbWFSTk0tN0lSc2FtSjc0eVR3MFV1?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Jun 30, 02:12 PM ET",
     "publishedAt": "2026-06-30T18:12:09+00:00",
     "source": "Mashable",
@@ -81,18 +105,6 @@
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 02:03 PM ET",
-    "publishedAt": "2026-06-30T18:03:16+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Sonnet 5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "difficulty": "News"
   },
   {
