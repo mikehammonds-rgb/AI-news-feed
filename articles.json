@@ -2,6 +2,30 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 01, 10:21 AM ET",
+    "publishedAt": "2026-07-01T14:21:00+00:00",
+    "source": "PCWorld",
+    "title": "Claude subscribers are furious over Fable’s new restrictions",
+    "summary": "PCWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOGNpY1pQSHJxX0pEWnZQdWZKWWwwbXhrTzNWTG9hUlFOdzJReWZJTHdiSjJmdS1WMmFfVHlYQnZ3d3EwcUlJYl9Nak9KOV9xYXhTMXl6dFhwUzhobWd6cHVXMm96cUNtYmNVbkZQdDJ6OThIbVp1eUpWNWpZdi1nQm9VMGd1bDQ4Y2hRNUx0U3lqc2J5UEZqaW1uemZCRlhNeEVySk5UWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 01, 09:17 AM ET",
+    "publishedAt": "2026-07-01T13:17:11+00:00",
+    "source": "AI Business",
+    "title": "Google Expands AI Imaging Offerings With Nano Banana Lite 2",
+    "summary": "AI Business is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHozb0FSbHg3NDU3VWxQQ05XYU9YYkNhVFNkZ2tkTGhWTHQ4NlR5REVVc0F4ODZJLUVFVnk1U0NabnZJSUtadXFwaDZCYzBuMDg2YllxZm83R3V5NXB1THhjVmJPdllCZEVpQURqdm02STk4MEdPRWR6X0dQTzhWLWdzemt3ZU5YcUYwN0hmWXlMd0VFOGc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 01, 08:09 AM ET",
     "publishedAt": "2026-07-01T12:09:29+00:00",
     "source": "DevOps.com",
@@ -17,7 +41,7 @@
     "time": "Jul 01, 07:57 AM ET",
     "publishedAt": "2026-07-01T11:57:05+00:00",
     "source": "nokiapoweruser.com",
-    "title": "Google's Nano Banana 2 Lite and Gemini Omni Flash Make AI Images and Videos Faster Than Ever",
+    "title": "Google Launches Nano Banana 2 Lite and Gemini Omni Flash for Faster, More Affordable AI Media Creation",
     "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yZm85UjhYLW93TGdKN1lWLVJHNHBZVHVvc1JudU14WEt4Ym9rOVlueGVRRUd0cGhXYzh4Q0xaMWdZYTE0RkEwTWVJNjZaUXh0Tl9zRmNId1R0ZV9aOGt1Vm1FenpZc01XYWM0eHM5WHREYTFpZTNiOVZqWQ?oc=5",
@@ -26,37 +50,37 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 01, 03:23 AM ET",
-    "publishedAt": "2026-07-01T07:23:58+00:00",
+    "time": "Jul 01, 05:56 AM ET",
+    "publishedAt": "2026-07-01T09:56:33+00:00",
+    "source": "The Neuron",
+    "title": "Claude Got a Workhorse Upgrade",
+    "summary": "The Neuron is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfNlRVclY1cG82ZWFQYUdHVUZkRVI0NnNlakVJeWtLTWtlMV9KbGF2WWpqQlRGZlJJNWRvSlJqdFhyTnRPZXNSV0FYR2RRVWtHOExHWTdHd0d2b0xKNm1zR2hKZGREcDBWQWJoM0V1bnRVeUZFTVM5NkNB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 01, 04:45 AM ET",
+    "publishedAt": "2026-07-01T08:45:33+00:00",
+    "source": "Help Net Security",
+    "title": "Claude Sonnet 5 includes safeguards against dangerous cyber use",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xX012Tzl2Z0V5US1abUNsVk1UR3hSREF5R0NHcy00bERmaU1TbFhwcHdOd3J4eUN2RGZESjZjRzJDVE9pVUszOTN0aVNWOGZLaVFHdHl3aS1oM2FHeWh4TGhQbXJCczhGQlpmQk5kWDBqY0VCekFicA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 01, 03:27 AM ET",
+    "publishedAt": "2026-07-01T07:27:26+00:00",
     "source": "Tech Times",
-    "title": "Claude Code Hid Proxy Fingerprints in System Prompts: Anthropic Promises Fix",
+    "title": "Google Launches AI Image and Video Tools: 4-Second Images, Conversational Video Editing",
     "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPckhUdFFLeWdab21JYldRcWJDbjBvSzV2YjVTMmhfcWRycWVJMG1FZUtWby10bERiX0tmaVBuU0RuZDREeHFva1h4amh2blRYYWx0aGdaMnlQVFNXN0ZzY3pjSU5Vc2hKRjRRNXExdWVadm5WdmJSQ1Fwd1p5dTJ3aUU4c1dXeDVkaXJaVGR6eElhQ1htcjdDLXdTUjNqbHVSR0xkWWlXSW1DRDhWMkVuZEJyZW5yaV9OWElhSHRYOExuamJYc3c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 01, 02:47 AM ET",
-    "publishedAt": "2026-07-01T06:47:15+00:00",
-    "source": "Tech My Money",
-    "title": "Claude Sonnet 5 Narrows the Opus Gap for AI Agents",
-    "summary": "Tech My Money is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOenNEZ3R2MmQ5OE5yVWFkY2NfMl9kSXJ2UHJzQnlOZF9aQ25qTG9sRy1SZVd2REhlbVM2VUpSNFI2TUdKM3dPaFFUZWUybWpVTUpwUk5wV1hXVXZoVldROV8zSHl6cjIzc1FoVmttWUZOclVGUVRtSXRUVXBnZkdZVHRrbVFMLWJJX05NZG51ONIBjwFBVV95cUxOenNEZ3R2MmQ5OE5yVWFkY2NfMl9kSXJ2UHJzQnlOZF9aQ25qTG9sRy1SZVd2REhlbVM2VUpSNFI2TUdKM3dPaFFUZWUybWpVTUpwUk5wV1hXVXZoVldROV8zSHl6cjIzc1FoVmttWUZOclVGUVRtSXRUVXBnZkdZVHRrbVFMLWJJX05NZG51OA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 01, 01:00 AM ET",
-    "publishedAt": "2026-07-01T05:00:25+00:00",
-    "source": "36Kr",
-    "title": "Confirmed: Claude Code Secretly Accesses User Data - Time Zones and Chinese AI Labs as Key Targets",
-    "summary": "36Kr is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UVGhxcDEyd1AtZU15cnhsV0dUOE1RZDJRWVp6SC1fdWdxU3pYdkQ4LTB4djJmakVudTZkT1poYkVPSVVpeC1NSHF0UnJYYklKenV3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObG1xM2VlWXh2WmhzT2ZBRzBFNVlBMU42amcxdktLbmk3b2EtRG1pZzJJV21GLThIR2FDdE9qa1RBQ1pDaTZFY1M3RnhMQzhlR2ZUdXlpWi1fdm5EdkZ0cFFWU3JpZXZtZHhzbFZjeE5QQlFjUHItbFIyYU1kUmJESXhNWC01aEdQcjFzWEZjeF9jc3JNdGYtOG1RWWx4VjFaTmVGUlUwWk9wOWQ5RS0xX2NLaTFDRHZrMzJZUExxeUdGR0pWSHlZZFhCaDRicEdwS0E?oc=5",
     "difficulty": "News"
   },
   {
@@ -122,18 +146,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 30, 12:06 PM ET",
-    "publishedAt": "2026-06-30T16:06:00+00:00",
-    "source": "VentureBeat",
-    "title": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbi01RGxBbkQ4MGhPZlFJQVM2QWJpMWViWk13QTVQU05oUDJCM2RyMFFUcjVHOFNlazk4N0hvejJ0clN0ZExwQnpGa2lXNEJZdmtKUmcxMzd0ek5WT252bVBSTGZMTVYyRzctUDU4RWdKOGJqbWFNaXNfek1ySVBkN2I4bDVKMGczSFY5TU5MY09DWjgyRjlLbDlQWXVTSlNkQmNycC1GMHdJOFB4ampDN3E0cTdlYzZjYmNpVDUteWpaU1IxbVNFRXpmREhxMno2N2dYRVBNOExGYURrQlNkRGFGVWk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Jun 30, 12:02 PM ET",
     "publishedAt": "2026-06-30T16:02:58+00:00",
     "source": "blog.google",
@@ -153,18 +165,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 30, 10:47 AM ET",
-    "publishedAt": "2026-06-30T14:47:54+00:00",
-    "source": "Memeburn",
-    "title": "OpenAI limits GPT-5.6 rollout after US request in 2026",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZy1JbTVET3paanBhX2M4cFZqUk5kUnlMek9sclFLeVMzTEQ2MTV2RWdMRVI0NzVaZTJnZTM4TlhIUU9ualFNYUs2X2kydml0YWVYMDJVdG5fdkc1Ym1XRFZXMXZ2ZHdWcWFISzZtNGZpRDB3eFlnMGdBLTB4Tnp5VEdB?oc=5",
     "difficulty": "News"
   },
   {
@@ -204,18 +204,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 29, 04:12 PM ET",
-    "publishedAt": "2026-06-29T20:12:59+00:00",
-    "source": "TechCrunch",
-    "title": "Gemini’s personalized AI image generation is now free for US users",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWtsQmNQVzYyV3VuZVFFMS1sbGRXTm53RmxKbVRyMEk1QndIZ0dQMGpKd2k5M1U1UXhXT3Z4emVhYUpVeXVUb3FfQjZhU3VXV1NVSjRmQlRNM0s4SmNqdGJGZjh5Vy11ZnItWjVFaGtHWlA2YXNHVkNtb25PaGEwcU16N01kUTVyYkRuSWhNdk02ZG1CSWd4U3Jkc00wRzBDdXpR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 29, 01:00 PM ET",
@@ -249,6 +237,18 @@
     "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wY29GN3hGSmpTcU5oR1E5UXpNeEVwRzdQNjMwTUhRaU5ObEtYcWs2ZldiYjZkeGJlLUZLQVZpR3ZpLWZaOXpNb3o2ODFzTm01ckNxS2gzY0NRSlhuZ25CTFY4UXp6c19PRVZEc1p1bXUyVUhfTnBBU1NPUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 28, 06:04 PM ET",
+    "publishedAt": "2026-06-28T22:04:10+00:00",
+    "source": "SitePoint",
+    "title": "Prompt Compression and Cache Tuning: Cut Your LLM API Costs by 60%",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tU3N4d1JBekRtTlFwTDBPcmRLQTQwTVdEZGd5TGsyaVpJNGFrWVpqTDJnbUozSy1GWFV1eXhiS3h6WUp2dDBFMlZQQ1B6alBTUGVmSldGYzlORzRKR0ludVJsSzlsWEdYWTNldk52amxITWFKQVE2Tk10YjY?oc=5",
     "difficulty": "News"
   },
   {
@@ -326,18 +326,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 16, 03:00 AM ET",
-    "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "Yahoo Finance",
-    "title": "SpaceX locks in $60 billion Cursor deal to close gap with rivals in AI coding race",
-    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUJLS01xZXRRTmNGcHNnMTVLUnpCNFJaMTFVYzhwUGZrU050ajB5VUl6bExfYzNUQkZPbGVKekZkUVZ4V3JTRVI0TWlZWDU0RnhzU0xoWU0xRzRjamoxdzNoRFNpemtwR3RTUzRCWm9iVVE2bzBhdlRaeDZTTVRIRGVKUGNyV0xvSzUwQkh6VjBsQmtxMEE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Jun 09, 03:00 AM ET",
     "publishedAt": "2026-06-09T07:00:00+00:00",
     "source": "Visual Studio Magazine",
@@ -381,6 +369,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Apr 15, 03:00 AM ET",
+    "publishedAt": "2026-04-15T07:00:00+00:00",
+    "source": "Microsoft",
+    "title": "Learn to use AI for coding with Copilot",
+    "summary": "Microsoft is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRzBaaERwbDltN1hFWE5IT3hKNUxGRnZObi1SLU9OZHVQTi1VcHRoS0h1eWJ0QUN6WC1SOEpORV9aNEViRWZiMUZ6OFBCeGZPTHdhWUw5Z0ZrLTR3VnFOUXVnYXlNb3dMX1RHYWVlXzVtWHFTUWtGSXhMbmVtd3g2U055eld5OThFVGo1cDFrSkRqakRKaXNTS2pQOU5MNGlMemtwcjRjbTNaQTd5VGRrVENfbnZHNG91S0Nyay00Z29hWlMzR0pUZF9xN0k4aTFwUFhyNUlhajJZUzJkSG5R?oc=5",
     "difficulty": "News"
   }
 ]
