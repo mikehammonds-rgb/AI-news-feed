@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 01, 10:43 AM ET",
+    "publishedAt": "2026-07-01T14:43:25+00:00",
+    "source": "PCMag UK",
+    "title": "Gemini Spark Is Now Available on macOS: Here's Everything the AI Agent Can Do",
+    "summary": "PCMag UK is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRmlVTXM4Y2U0V2lvVjBaaEhZaDRFYTFFZnh3R2Y0NERTZXRvTkpISDRnTzRXdDM5bkI5SHZYYXFNNXdyeUxreExkYU5QMjhEcDFoWE43aXpjTFlibE42R3RNNERpbHR1T0VqOUJIdGY3UHJjdG93VzBmZHNXeUNDUjFwYUdHQldoa0M2dm9HSEVJc282X19SWlphQnFUMEc4ZTIxQnljdERQdw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 01, 10:21 AM ET",
@@ -108,27 +120,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 03:02 PM ET",
-    "publishedAt": "2026-06-30T19:02:38+00:00",
-    "source": "TechCrunch",
-    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFUzdWJQWmVwSGtGN3g2bDNLWURaSVEtUUZlb1BrWUVEVUUyRXZZOUxNUThjdzdvUHlHQmZsMjZfOFdsX1F1dGVqWGhpWklvTFhNREkxYnU4SkNSNHVlT0x2Si1wc1dxN3VtTkdzXzdvN3kzYl9MaHVsdGVBaFp4OFRjU1FWZXRNZ1l1X1NWWXNQNW1vU1dpV2YzZXphMURuN3VVQWtRUXJXZUx1TGc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jun 30, 02:40 PM ET",
-    "publishedAt": "2026-06-30T18:40:09+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "time": "Jun 30, 05:37 PM ET",
+    "publishedAt": "2026-06-30T21:37:40+00:00",
+    "source": "MarkTechPost",
+    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSGNNRmNpZGxqSmhzTkpiRXI2TlZsSjR4eHphc1hjM3VvelF3RkIzRnJyV2ZtblF4V09MMnloa0I1Z284MjFSTnV6Z1BEZzVWQW40S3R1R2tyVVpSV0czMlhIVFNBYnJCZW92Zy1IZ1BadlN2LUVmNUhPVUVEZU9LWXRPd1d6WVZYeEFaQVJCTlVKbFN5ZUxfa01DTGF1VnduTHJxd3F0QjdUMHBvOFNvMlc1WXpIWjZWYVE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMXZ0THU0S3oyTUtxM25QeFQ1ai05a3d1andFUXRQZkk3RlhFMnlXclNTcUtxR3NpSEtUSVBwdkVWWHN5MnpKS3ZMcll0dGt2VGQ3eWs5TllpTlFvSmNoSVRmQVo1MThPVkRrVXBuSjNpZ1ktSEhxMVRNcEVNYzAyMTk5QUNwcVh1V0c3aXd6aW1nYXFoRE5MaVlJSkdpV1RkTUozTm5oV0ItWTFWYTJ6RmF6X2Z0NXhQRERnYUVuWHdpTEpLUjNNNnlEWC1aZEZkTlEyZUszNExFNjFBUjlYNU1FVENraFB4cERZTGtKTmhqdk93dDJRTFM0VnVUOUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -230,6 +230,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Jun 29, 04:19 AM ET",
+    "publishedAt": "2026-06-29T08:19:33+00:00",
+    "source": "CCN.com",
+    "title": "GPT-5.6 Is Here: OpenAI Names Its New AI Models Sol, Terra and Luna",
+    "summary": "CCN.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnAyckoya1BQejlTVjFrc3lHU0JxT2NEUW80ZHlYMV85MndLR1VaVjNlYTJpaWdNS3BENnVjbVhmcU5vLTU2bU9OanRUX0J4UVM2S2p1ajNvQ1lMWGhzZzZfYmtBa3VNU2hqNDNERXV1YXBLNGV1OUpsTDVuRnE3NHRsZFE5S3RZNGtkRg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Jun 28, 07:01 PM ET",
     "publishedAt": "2026-06-28T23:01:49+00:00",
     "source": "EdTech Innovation Hub",
@@ -237,18 +249,6 @@
     "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wY29GN3hGSmpTcU5oR1E5UXpNeEVwRzdQNjMwTUhRaU5ObEtYcWs2ZldiYjZkeGJlLUZLQVZpR3ZpLWZaOXpNb3o2ODFzTm01ckNxS2gzY0NRSlhuZ25CTFY4UXp6c19PRVZEc1p1bXUyVUhfTnBBU1NPUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 28, 06:04 PM ET",
-    "publishedAt": "2026-06-28T22:04:10+00:00",
-    "source": "SitePoint",
-    "title": "Prompt Compression and Cache Tuning: Cut Your LLM API Costs by 60%",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tU3N4d1JBekRtTlFwTDBPcmRLQTQwTVdEZGd5TGsyaVpJNGFrWVpqTDJnbUozSy1GWFV1eXhiS3h6WUp2dDBFMlZQQ1B6alBTUGVmSldGYzlORzRKR0ludVJsSzlsWEdYWTNldk52amxITWFKQVE2Tk10YjY?oc=5",
     "difficulty": "News"
   },
   {
@@ -374,13 +374,13 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Apr 15, 03:00 AM ET",
-    "publishedAt": "2026-04-15T07:00:00+00:00",
-    "source": "Microsoft",
-    "title": "Learn to use AI for coding with Copilot",
-    "summary": "Microsoft is reporting this update. Open the article for the full story.",
+    "time": "Apr 24, 03:00 AM ET",
+    "publishedAt": "2026-04-24T07:00:00+00:00",
+    "source": "wiz.io",
+    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRzBaaERwbDltN1hFWE5IT3hKNUxGRnZObi1SLU9OZHVQTi1VcHRoS0h1eWJ0QUN6WC1SOEpORV9aNEViRWZiMUZ6OFBCeGZPTHdhWUw5Z0ZrLTR3VnFOUXVnYXlNb3dMX1RHYWVlXzVtWHFTUWtGSXhMbmVtd3g2U055eld5OThFVGo1cDFrSkRqakRKaXNTS2pQOU5MNGlMemtwcjRjbTNaQTd5VGRrVENfbnZHNG91S0Nyay00Z29hWlMzR0pUZF9xN0k4aTFwUFhyNUlhajJZUzJkSG5R?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
     "difficulty": "News"
   }
 ]
