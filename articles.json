@@ -2,13 +2,25 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 01, 01:00 AM ET",
-    "publishedAt": "2026-07-01T05:00:25+00:00",
-    "source": "36Kr",
-    "title": "Confirmed: Claude Code Secretly Accesses User Data - Time Zones and Chinese AI Labs as Key Targets",
-    "summary": "36Kr is reporting this update. Open the article for the full story.",
+    "time": "Jul 01, 03:23 AM ET",
+    "publishedAt": "2026-07-01T07:23:58+00:00",
+    "source": "Tech Times",
+    "title": "Claude Code Hid Proxy Fingerprints in System Prompts: Anthropic Promises Fix",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UVGhxcDEyd1AtZU15cnhsV0dUOE1RZDJRWVp6SC1fdWdxU3pYdkQ4LTB4djJmakVudTZkT1poYkVPSVVpeC1NSHF0UnJYYklKenV3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPckhUdFFLeWdab21JYldRcWJDbjBvSzV2YjVTMmhfcWRycWVJMG1FZUtWby10bERiX0tmaVBuU0RuZDREeHFva1h4amh2blRYYWx0aGdaMnlQVFNXN0ZzY3pjSU5Vc2hKRjRRNXExdWVadm5WdmJSQ1Fwd1p5dTJ3aUU4c1dXeDVkaXJaVGR6eElhQ1htcjdDLXdTUjNqbHVSR0xkWWlXSW1DRDhWMkVuZEJyZW5yaV9OWElhSHRYOExuamJYc3c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 01, 02:47 AM ET",
+    "publishedAt": "2026-07-01T06:47:15+00:00",
+    "source": "Tech My Money",
+    "title": "Claude Sonnet 5 Narrows the Opus Gap for AI Agents",
+    "summary": "Tech My Money is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOenNEZ3R2MmQ5OE5yVWFkY2NfMl9kSXJ2UHJzQnlOZF9aQ25qTG9sRy1SZVd2REhlbVM2VUpSNFI2TUdKM3dPaFFUZWUybWpVTUpwUk5wV1hXVXZoVldROV8zSHl6cjIzc1FoVmttWUZOclVGUVRtSXRUVXBnZkdZVHRrbVFMLWJJX05NZG51ONIBjwFBVV95cUxOenNEZ3R2MmQ5OE5yVWFkY2NfMl9kSXJ2UHJzQnlOZF9aQ25qTG9sRy1SZVd2REhlbVM2VUpSNFI2TUdKM3dPaFFUZWUybWpVTUpwUk5wV1hXVXZoVldROV8zSHl6cjIzc1FoVmttWUZOclVGUVRtSXRUVXBnZkdZVHRrbVFMLWJJX05NZG51OA?oc=5",
     "difficulty": "News"
   },
   {
@@ -21,18 +33,6 @@
     "summary": "InfoWorld is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOVdkUnNfOURBMGZOOEY1d0dnMl95Z0kyNHZmc3ZIN3ZSLXNBN0JYbERNdW83ZlZwaWUyNDl4TFgwVUI3ekprazU5MnI5WHJ4b3ZabHBzaEJONnZXa1VjbGEyckh0LXh2X085dDRKcV9TQ2lGdDVsOW9hQVhhdWRfSDdPRVhaWEFST29fVVlpOFdhNDVONUhhYWw3RzJzbmZo?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 07:01 PM ET",
-    "publishedAt": "2026-06-30T23:01:04+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "Claude launches in Microsoft Foundry on Azure | ETIH EdTech News",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeER1NTdxVWsyQnNYSzQtYXc3REo1M2g3ZVFvMVdPdVIteVQtVjhoOWRHSEhZV0ZWeHhOOV9GcWlkTkNleGJTRzdEd0czYTVlSi1OeHlqcFJLRlUzbDJIMW5UenZpOE5ZYzZSbExnSjE4TUduWElrSVNIcVQxS2pqT25KZHN1T00wbjB5ZnlZeG80eTRxbEszR3VZWUNTc2k2TW9SemFuTHBnSE5Jc3RsTDEteC1jUW9iYm9KYmZSRjBqSi15SmFF?oc=5",
     "difficulty": "News"
   },
   {
@@ -93,18 +93,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 02:00 PM ET",
-    "publishedAt": "2026-06-30T18:00:00+00:00",
-    "source": "VentureBeat",
-    "title": "Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNX1A2aGp1cnl6YnNVbjd3OVFjaXd4V1cxdUQtNVpYeE9BYVdVRktqSHBuTmN1TEFGeEtucThUMWZ0cjFLZlJXWWx4T1NyS3JUYktOWVkxQ2g4emFhTjBsVTltTkFOcXY0ZVM2RFhNbHg0YW5hSnF6TU9uMDZ6eGZKS1Z6YU5Lc3NLc05zTmFyaWxVUTljQVJEVEpqM0JYZXNodmZEbmZKUXhFOEEtZC12MDQtUno3ZGVnQmxQeFgwcHNQZk00Sk9sc1NhOVg5VDlYMmtnZFM3c3lMNDVHaTVsekV6SlB2VzQ?oc=5",
     "difficulty": "News"
   },
   {
