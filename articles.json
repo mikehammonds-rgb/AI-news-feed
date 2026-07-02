@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 02, 05:52 PM ET",
+    "publishedAt": "2026-07-02T21:52:05+00:00",
+    "source": "Redmondmag.com",
+    "title": "Anthropic Claude Goes GA in Microsoft Foundry",
+    "summary": "Redmondmag.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVE1LWjhRQ29OT1dwVjdnZFRRQ29zOGFSeXYtaVM4NG9QdTRBLWVYTTlNQ3JzQWtoQ0dVZkoyWDFUTzRaLV90ZWNxVERwSFNvWDFabFdnR0toY0pIV0Z5MXpJMVZfZURuR0NWcE5zMmJBX25oQUtraUdFeWludjdmMU5lbnN6RFNKRWxmYndTd2xGQ3NkU1hZaQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 02, 03:30 PM ET",
@@ -33,18 +45,6 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1RaY1BoY3JYWERNc1FrZjRrMENyaTEwcWRIV09BOXh3QldBa3ZHb0pGdXFaYjExZWVEYmVtMVUxZUdYdjFicmgwMzJfTGNFTWhvXzMyT0xZREF3Q25pcTBYZFQ3WlByc1loalh0Tm1vY1M5LXV0d0g5LWFhcXJiSDQ3cHN3UmthV1o1bk84b1dlNE0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 02, 12:02 PM ET",
-    "publishedAt": "2026-07-02T16:02:05+00:00",
-    "source": "Redmondmag.com",
-    "title": "Anthropic Claude Goes GA in Microsoft Foundry",
-    "summary": "Redmondmag.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVE1LWjhRQ29OT1dwVjdnZFRRQ29zOGFSeXYtaVM4NG9QdTRBLWVYTTlNQ3JzQWtoQ0dVZkoyWDFUTzRaLV90ZWNxVERwSFNvWDFabFdnR0toY0pIV0Z5MXpJMVZfZURuR0NWcE5zMmJBX25oQUtraUdFeWludjdmMU5lbnN6RFNKRWxmYndTd2xGQ3NkU1hZaQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -93,18 +93,6 @@
     "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aODRoRWZrWG93bTh4YlZIcUJCNUc0YUtOb2N4bGNIZDNPR0hNQzczOWJSUDM4QmhDR1NMcllOQkxka2l2c3V0a1pZYnZlNGdnTlBKMjlGV0ZVVmlJcXFhckZmLWTSAWpBVV95cUxPVUVGbE00N09jUlgtQ2NUcThpbW16eHFhZFdGSkVnUUJPM0tEOXNfSXBKR3BnMEk1MjdlRkVrMzdmQWVQVTBSb3dXWExaS0J5NmRYX093cGNRRXpzVHQxZVFQcnNfdm5Dckxn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 02, 06:53 AM ET",
-    "publishedAt": "2026-07-02T10:53:39+00:00",
-    "source": "The Malaysian Reserve",
-    "title": "Altudo Becomes an OpenAI Services Partner to Help Enterprises Build AI Workflows Using OpenAI Models",
-    "summary": "The Malaysian Reserve is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbXY2TmpncXA5dDZfNDZfaHFTOWY5SHVTVksxc1RNcnAzSmQ5b3IxZTItWXZkVDVPeGl3eDJVVW9aS0FxWnhHRHBFeS1FYlVGVGdVd29ZbzlMZ1p5bVY4RWphNkxOLVVuaUVjMVFmVmMwZm5nWXVhY0Z6MXppSktGbTdmZkY2R1BQcm5GS2ltVXhwbGdmTGota2NxOUtDWlJ6LTRTUm9QWEN1bG1aSi03SnZYcHk0ZUJua3dSMlpyUi1pUDZUX1E4V2xsU0d1by1FOGFZaHdJdXU3akd6?oc=5",
     "difficulty": "News"
   },
   {
@@ -165,6 +153,30 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzd3MzdVRnNFOGFHZUMzVXlwZEZiaEZBczROU05neVdNOVpCMEVfa0dFOTlTM1JmajRob3hWMmE3XzlIRUxwV1pkcTlEWEd5ekNpcVdhNERmRG8yLUwwN2RDV3pOcHkycDEzUHZCNFJsbzlQUklEaE5valVkd0J5ajhiSmFUbExCSXJ6a041U3FCSG1KNE1uUHNQWTRyNTFPTzdFTVM2RWItaHdxY19jZ0VvZ3BtVG11Tm56eTF6WWhQN2pRRjJNVQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 01, 10:21 AM ET",
+    "publishedAt": "2026-07-01T14:21:00+00:00",
+    "source": "PCWorld",
+    "title": "Claude subscribers are furious over Fable’s new restrictions",
+    "summary": "PCWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOGNpY1pQSHJxX0pEWnZQdWZKWWwwbXhrTzNWTG9hUlFOdzJReWZJTHdiSjJmdS1WMmFfVHlYQnZ3d3EwcUlJYl9Nak9KOV9xYXhTMXl6dFhwUzhobWd6cHVXMm96cUNtYmNVbkZQdDJ6OThIbVp1eUpWNWpZdi1nQm9VMGd1bDQ4Y2hRNUx0U3lqc2J5UEZqaW1uemZCRlhNeEVySk5UWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 01, 09:17 AM ET",
+    "publishedAt": "2026-07-01T13:17:11+00:00",
+    "source": "AI Business",
+    "title": "Google Expands AI Imaging Offerings With Nano Banana Lite 2",
+    "summary": "AI Business is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHozb0FSbHg3NDU3VWxQQ05XYU9YYkNhVFNkZ2tkTGhWTHQ4NlR5REVVc0F4ODZJLUVFVnk1U0NabnZJSUtadXFwaDZCYzBuMDg2YllxZm83R3V5NXB1THhjVmJPdllCZEVpQURqdm02STk4MEdPRWR6X0dQTzhWLWdzemt3ZU5YcUYwN0hmWXlMd0VFOGc?oc=5",
     "difficulty": "News"
   },
   {
@@ -324,6 +336,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 23, 02:35 AM ET",
+    "publishedAt": "2026-06-23T06:35:05+00:00",
+    "source": "MarkTechPost",
+    "title": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX1ZmRlF3Z2xzdE1wTTZKRFdYcERzcGpvQTBlMnQyMnc1c2lraFpJZVV4bjRZSEQ3VlhWLUhiTXhQc3JCdEdJdDA3bjhaaHZibGpha3ZTTkFtYXNIY2J1eDNtYXRzbnA5U3g2WEstblgzNEk0Q2x3NDdmNmVsVFJ4dVlHLVJha2dVLWl1cG0yU2w0RkVoYmdRb292U244eXhtTm5KOE9pNnZLSmZDY05lQkg1d2Z2emR0bHN0QlR6elJ2ZXBrZU95bnBhTlJIR1pjbmZPYUEteUtWaXJ0OVQ3ay1LTWg1UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 22, 03:00 AM ET",
@@ -357,18 +381,6 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 19, 03:00 AM ET",
-    "publishedAt": "2026-05-19T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Building the agentic future: Developer highlights from I/O 2026",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
     "difficulty": "News"
   }
 ]
