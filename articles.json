@@ -1,5 +1,53 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 02, 09:00 AM ET",
+    "publishedAt": "2026-07-02T13:00:02+00:00",
+    "source": "CNBC",
+    "title": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
+    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjQ1T2tsSDBKMzdJNTZMdGlVWkMtM3FvTVY0V0F3STl0OHY1SWc5Mi1na3RBU2hWdXZvUk1MLWNjQWdNVHFlcVpJaFNOQ3A0TXhYUGdjN3RnZ3IwNTB6WFNqaTh6LVBjaWNKLWhPT3puRktUM253cFR5eXE1UmI2OHhjX3F0aWF3a25ZMFlRcHRJLXcyT0JTMFdvRW5UWWJ2TE1ueWJjTS1HT3E00gGyAUFVX3lxTE1FZWVxdlpzOUdQeWhZYm11UEJoRUZHaUxQR0F6b3pqMElQX3pQcUhLcEIyMnRqTDljeTR4dS1icExSZlZFQ1lNbkxmekV0OTBjaW9PTmZ2TGVvbEoydG4wa1ZNcHA1bW1OZUhobDNPX3FMdGNvQTJ1dzNlTmpxMkJhTWNUU0NFQjZ6NWxWYzVIMFVPaUlyWlpkRjlSMTNfUl9Vay1SbjNDcjNTRVdjWFk4UGc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 02, 08:51 AM ET",
+    "publishedAt": "2026-07-02T12:51:00+00:00",
+    "source": "ZDNET",
+    "title": "How I set OpenAI API usage limits to stop agent overspending and other AI billing nightmares",
+    "summary": "ZDNET is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yeGl0bVY0d1dBM3lBRGdvNnI0aHI0UkpkX1k5MUF6clJMZGNoY3ltWU84RU9lTHl6WmdOQ0k1SUoxVGNOZXh6TE1FRVpmQ3JVRXRWMFR1V1NEV05kT3otVjV2M3RPWFVCRC11c21JYVZfS1FLQ1prZUhxbw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 02, 08:35 AM ET",
+    "publishedAt": "2026-07-02T12:35:20+00:00",
+    "source": "Pulse 2.0",
+    "title": "Anthropic Launches Claude Sonnet 5",
+    "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aODRoRWZrWG93bTh4YlZIcUJCNUc0YUtOb2N4bGNIZDNPR0hNQzczOWJSUDM4QmhDR1NMcllOQkxka2l2c3V0a1pZYnZlNGdnTlBKMjlGV0ZVVmlJcXFhckZmLWTSAWpBVV95cUxPVUVGbE00N09jUlgtQ2NUcThpbW16eHFhZFdGSkVnUUJPM0tEOXNfSXBKR3BnMEk1MjdlRkVrMzdmQWVQVTBSb3dXWExaS0J5NmRYX093cGNRRXpzVHQxZVFQcnNfdm5Dckxn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 02, 08:04 AM ET",
+    "publishedAt": "2026-07-02T12:04:29+00:00",
+    "source": "Techzine Global",
+    "title": "From pilot to production: what it really takes to run AI for real",
+    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkszckpnN3AzR3NIX255a2tsYnJCQldmMmwwTjlybndsRU1KSmpSa0tiRXdqa3NYT0M1cEtMM2dBRlhaaEIxdjd3bG5BS09tNWhxNHJTdkg5MFJLdjB0cU5JczVqd3VFT2ctS1E3NHI0dUpVMDZZaFZzal9GWEZBaGFXS2Q4WFJCcWIxOEtkRmg3cjVIWGpQOXhzWURIRnRmQk9CWnRINjY3cVhoOFE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 02, 06:53 AM ET",
@@ -57,18 +105,6 @@
     "summary": "PCWorld is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOGNpY1pQSHJxX0pEWnZQdWZKWWwwbXhrTzNWTG9hUlFOdzJReWZJTHdiSjJmdS1WMmFfVHlYQnZ3d3EwcUlJYl9Nak9KOV9xYXhTMXl6dFhwUzhobWd6cHVXMm96cUNtYmNVbkZQdDJ6OThIbVp1eUpWNWpZdi1nQm9VMGd1bDQ4Y2hRNUx0U3lqc2J5UEZqaW1uemZCRlhNeEVySk5UWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 01, 09:17 AM ET",
-    "publishedAt": "2026-07-01T13:17:11+00:00",
-    "source": "AI Business",
-    "title": "Google Expands AI Imaging Offerings With Nano Banana Lite 2",
-    "summary": "AI Business is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHozb0FSbHg3NDU3VWxQQ05XYU9YYkNhVFNkZ2tkTGhWTHQ4NlR5REVVc0F4ODZJLUVFVnk1U0NabnZJSUtadXFwaDZCYzBuMDg2YllxZm83R3V5NXB1THhjVmJPdllCZEVpQURqdm02STk4MEdPRWR6X0dQTzhWLWdzemt3ZU5YcUYwN0hmWXlMd0VFOGc?oc=5",
     "difficulty": "News"
   },
   {
@@ -264,18 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 26, 08:17 AM ET",
-    "publishedAt": "2026-06-26T12:17:19+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude vs ChatGPT vs Gemini 2026: 88% SWE-Bench, $2 API",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lU1k5bUdCQnBpcWNta2RJd1loX2hwd1pyZ0MtWjdBdFVwRDRRd0tENUFJZzFiMC1uOU96aWRGelJOcXo2YnZEUFRPQXZQUExkWXBRbTJfOUFVZk5HcjlrQ0tMaDVrSW81eHc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 23, 02:35 AM ET",
@@ -297,18 +321,6 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 21, 03:00 AM ET",
-    "publishedAt": "2026-06-21T07:00:00+00:00",
-    "source": "Asbury Park Press",
-    "title": "Response incomplete claude. Is Claude down? Claude api error",
-    "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0ZLRW1MSjhETDZRQ0xxLVJRMTNFa2xvQlBaM0NoaVlTa0l1Vl9lb2RqMlBtWjJOa0pVUHdCTzNtbjl0OUZEc2txRjQyRjJCb3hkMk5kczdHV0puelZ2dGdMU2x4UThZc2wwVW1fV2h1VXExLXlWWTNiblVjOHVpU2VtVDlSZEdZcjk1ZXJrSGpzNFFYYXc4alVjdC1hMmtGVlQ5NE9SRnRUVVVuTUpaUEs1dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,18 +357,6 @@
     "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHB4Ymc5WWJyOGJndmt5NzBTZTdFME9PcG1jUUkzYmFwVUFiRmJON1U1MVNRQXEyeS1YWWtaeV9CdV9QUzZhbmtxaUtyekFkNVFLUDZPRWVlYU1LWWtOelV6bXF3QklLZmpzeVhMZndNVm1ybWJCUEUwUHYyYnYwRk03aFByZTVpVVB3eFJnOVdfQ0pqV3ZqYTJBUlV0cERyOG9BaWRHZG9fUnlZb1Y4SFg4R0xmcG1MU19SOFg0TFU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 29, 03:00 AM ET",
-    "publishedAt": "2026-05-29T07:00:00+00:00",
-    "source": "Fortune",
-    "title": "Exclusive: Microsoft is building a super app that combines coding, chat, and other Copilot AI tools",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
     "difficulty": "News"
   },
   {
