@@ -132,6 +132,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 02, 01:47 AM ET",
+    "publishedAt": "2026-07-02T05:47:35+00:00",
+    "source": "The Cyber Express",
+    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
+    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 01, 04:56 PM ET",
@@ -213,6 +225,18 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV1dlaFBhS2lvd09hU2RpV21kZG03c1BxdG9HRkNxUjFXYW5nTkVoTkk3SnMwNE5ZQzNwcDF1bzc1MmZ2RXNJWXQtdnJfN05zN05mR3hlWlFhbk10ejhPV0VVNG5KMHY1UXNBTDVxcDRpaHJpWk9KTDRYV2M0Z1k4a0NpQnlOMWhjMGZnZ1ZtbnB2cVhuSEVydTRfSWR4ekhDclR4X2VHRDhRWTJBWjVFWTZ1SkhoOGowdFE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 30, 12:06 PM ET",
+    "publishedAt": "2026-06-30T16:06:00+00:00",
+    "source": "VentureBeat",
+    "title": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbi01RGxBbkQ4MGhPZlFJQVM2QWJpMWViWk13QTVQU05oUDJCM2RyMFFUcjVHOFNlazk4N0hvejJ0clN0ZExwQnpGa2lXNEJZdmtKUmcxMzd0ek5WT252bVBSTGZMTVYyRzctUDU4RWdKOGJqbWFNaXNfek1ySVBkN2I4bDVKMGczSFY5TU5MY09DWjgyRjlLbDlQWXVTSlNkQmNycC1GMHdJOFB4ampDN3E0cTdlYzZjYmNpVDUteWpaU1IxbVNFRXpmREhxMno2N2dYRVBNOExGYURrQlNkRGFGVWk?oc=5",
     "difficulty": "News"
   },
   {
@@ -314,18 +338,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 28, 06:04 PM ET",
-    "publishedAt": "2026-06-28T22:04:10+00:00",
-    "source": "SitePoint",
-    "title": "Prompt Compression and Cache Tuning: Cut Your LLM API Costs by 60%",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tU3N4d1JBekRtTlFwTDBPcmRLQTQwTVdEZGd5TGsyaVpJNGFrWVpqTDJnbUozSy1GWFV1eXhiS3h6WUp2dDBFMlZQQ1B6alBTUGVmSldGYzlORzRKR0ludVJsSzlsWEdYWTNldk52amxITWFKQVE2Tk10YjY?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jun 26, 01:02 PM ET",
     "publishedAt": "2026-06-26T17:02:16+00:00",
     "source": "OpenAI",
@@ -357,18 +369,6 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 19, 03:00 AM ET",
-    "publishedAt": "2026-05-19T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Building the agentic future: Developer highlights from I/O 2026",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
     "difficulty": "News"
   }
 ]
