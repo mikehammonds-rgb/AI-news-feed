@@ -48,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 04, 04:07 AM ET",
-    "publishedAt": "2026-07-04T08:07:17+00:00",
-    "source": "The Indian Express",
-    "title": "OpenAI may cut AI subscription prices as Anthropic rivalry intensifies: Report",
-    "summary": "The Indian Express is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMEprVlRxdDRLSExad3M3UmQ0VUhvdzhpdDQ0dGtYYlJDbFBXdV92RHVhWlFCTFhNd2N0eXA2b2R4M0NYRDEyN21SNWt0X1VCM1Fjc2wzMEppMlZodHI1bkVLNV9ENHExZjNjZkFTaEpRTHQ4Y185QS1RbUtqbUFrd3NSdmF2M1A4Tm1UWGY1TzB2VDN0SnhBYjM4a1JUQ0Rpd242RzlicnFXYXdZVWdsVnVmVjRwWWxWWEVtSmtkVWFwRHZvTFFsZVlhQUdHdkRwcjE2clRfWkZJZjhUMHloMElWdFpzVjFk0gHvAUFVX3lxTE1YYUhMU3ZZN0dra05BYVIyNjNpNU14QmFXSDVtUlAwUnZ0RUw5VlVPVTJLcXFOcW5pVnN3Q0VwSmJNdTBkbThDcEFLOC1UNG5VOVJRREdSTXdqbXgxUVFEc21mMDVMWUhxei1VRXQzRHRJM3AwWWhjdlltcmRVSVRiYnNiZ1pCNG5OMExsampGY2hHZndZZlZKb2Z2TmVNc05XVm9zUkQzSlpjQjNkd0dfUXJDeFFZdkFMTU1UVlB4ZFIxSFh5R1JYX0cwcmVTUEV5elNlNVhzOFE0WVltaENQbXYzSGg5U1FWYnVKamR3?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 03, 09:36 PM ET",
@@ -108,6 +96,30 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 03, 08:07 AM ET",
+    "publishedAt": "2026-07-03T12:07:42+00:00",
+    "source": "KDnuggets",
+    "title": "Getting Started with the Claude API in Python",
+    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MSnphcklERHRZdmFkSWJRUWhNY0ZYZjFIaGVUVnJmYzQ3WmkzWnpCTFozckNaTEFuWVFNTE5rQUVXZnJTNjdiT1dPTndXdXN2NHRQem5DbWtBd180MUNnVXJwajlzT1ZNTkFmb3Awd0VwU2YxcUM3R1gydw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 02, 09:37 PM ET",
+    "publishedAt": "2026-07-03T01:37:09+00:00",
+    "source": "BleepingComputer",
+    "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
+    "summary": "BleepingComputer is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeXF0V2lTUTR3Vmx5bUpBakdDYmY0Zy1fbHRkSVZkbkMxN0U4OUQ3V3BMcS1iVDBMVVdzbG1QNVplc2VsVHlHQ05MaHl0VXQ1a0FueVRWTmZHTDFRdENXOWppUURUVzhCVUhhNnpEdXgtY3prS19pN29EcjEtZW9iREFfeDlzYnVzdXpvakRnaTU5UklCVm03SzVYZlVxSVdCZGVicnZ1cGlxQnRtcExKd0Q0R05XZmx3ZDJsV1dKdEdTMG9Gbkp0cWhjSdIB0AFBVV95cUxOcWxFWjNvOXA5YXlmcHd3cXp1aTR3UjBpV2VkOWUwTzRQMEhiR04wR1RURHA3S0RZVXNUUC15N0xLNVFXdDRjQ2Z6NUg5dGtINHQtYjVPU2xBVkpGaDZUTXFFMHRBVXZ6b2lFX1p1TVJ6bkIzYVYyVlAyUlB4LW0xN3B0Um13N1I4YnVvOV9zTXpRNTlseU1hQ0pOMkdxMXVFQWVObjUtcGlJaWhkQlp3WkliRV9ONXQxWFpRcDliQzBvTXFWb0ZMZEpoNGh2bURm?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 02, 03:30 PM ET",
@@ -129,18 +141,6 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1RaY1BoY3JYWERNc1FrZjRrMENyaTEwcWRIV09BOXh3QldBa3ZHb0pGdXFaYjExZWVEYmVtMVUxZUdYdjFicmgwMzJfTGNFTWhvXzMyT0xZREF3Q25pcTBYZFQ3WlByc1loalh0Tm1vY1M5LXV0d0g5LWFhcXJiSDQ3cHN3UmthV1o1bk84b1dlNE0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 02, 09:50 AM ET",
-    "publishedAt": "2026-07-02T13:50:00+00:00",
-    "source": "The Tech Buzz",
-    "title": "OpenAI API Spending Caps Now Essential as AI Agents Drain Budgets",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWgydzl1Vm1Tb3NnZWxGa09PZnZ3b09GemFfUXhNaWpKVmlmNVBJa1U4MDZkV0FORVRSb1RpUXJRbVZ0d3NnaFphckZyRUtKLWxWUzdYWUdyYVdJR1IybnVhekJQbi14NmdzTHhxQ29QZ0p6Vm9JTFVhb2RCSXVENnF0NE83MzM0VFRsaTU1Vk5IUU9ZTU1Ub3BGOWF1UWc?oc=5",
     "difficulty": "News"
   },
   {
@@ -168,30 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 01, 02:14 PM ET",
-    "publishedAt": "2026-07-01T18:14:34+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US) | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzd3MzdVRnNFOGFHZUMzVXlwZEZiaEZBczROU05neVdNOVpCMEVfa0dFOTlTM1JmajRob3hWMmE3XzlIRUxwV1pkcTlEWEd5ekNpcVdhNERmRG8yLUwwN2RDV3pOcHkycDEzUHZCNFJsbzlQUklEaE5valVkd0J5ajhiSmFUbExCSXJ6a041U3FCSG1KNE1uUHNQWTRyNTFPTzdFTVM2RWItaHdxY19jZ0VvZ3BtVG11Tm56eTF6WWhQN2pRRjJNVQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 01, 08:09 AM ET",
-    "publishedAt": "2026-07-01T12:09:29+00:00",
-    "source": "DevOps.com",
-    "title": "Anthropic Adds Enterprise Gateway to Simplify Claude Code Access on AWS and Google Cloud",
-    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTVl1dUR0ZEh3d2s1SlJQVzZPWnowQW52T1JOUTUwYURnTVVMVHhQWEF0T285MGJiODQwczNaTGtHVnEwcjJqMWJtT1ZmM2tTaXhlX0s0aUI2M2JzeFRESlRxRDcyZW5DQW8zLVFwb1ZwdWw1bldkc2R2SVVLVVlTeFV0VmJQVC1QS0dwZEJSM3Y3MzVuSjN1QUxfNlpqV0hJX1I3eG9McjhKYmZ6?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 30, 08:21 PM ET",
@@ -206,6 +182,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jun 30, 03:02 PM ET",
+    "publishedAt": "2026-06-30T19:02:38+00:00",
+    "source": "TechCrunch",
+    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFUzdWJQWmVwSGtGN3g2bDNLWURaSVEtUUZlb1BrWUVEVUUyRXZZOUxNUThjdzdvUHlHQmZsMjZfOFdsX1F1dGVqWGhpWklvTFhNREkxYnU4SkNSNHVlT0x2Si1wc1dxN3VtTkdzXzdvN3kzYl9MaHVsdGVBaFp4OFRjU1FWZXRNZ1l1X1NWWXNQNW1vU1dpV2YzZXphMURuN3VVQWtRUXJXZUx1TGc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jun 30, 02:12 PM ET",
     "publishedAt": "2026-06-30T18:12:09+00:00",
     "source": "Mashable",
@@ -213,18 +201,6 @@
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 01:24 PM ET",
-    "publishedAt": "2026-06-30T17:24:28+00:00",
-    "source": "the-decoder.com",
-    "title": "Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV1dlaFBhS2lvd09hU2RpV21kZG03c1BxdG9HRkNxUjFXYW5nTkVoTkk3SnMwNE5ZQzNwcDF1bzc1MmZ2RXNJWXQtdnJfN05zN05mR3hlWlFhbk10ejhPV0VVNG5KMHY1UXNBTDVxcDRpaHJpWk9KTDRYV2M0Z1k4a0NpQnlOMWhjMGZnZ1ZtbnB2cVhuSEVydTRfSWR4ekhDclR4X2VHRDhRWTJBWjVFWTZ1SkhoOGowdFE?oc=5",
     "difficulty": "News"
   },
   {
@@ -264,42 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 30, 09:49 AM ET",
-    "publishedAt": "2026-06-30T13:49:00+00:00",
-    "source": "The Hacker News",
-    "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVE9NbWVPY3o5VDI0empPM0daa1lfbkctSHU2SHZhVmFJMU8waUFvZzVnc2UwQTFmVWRTbW1pZFFiSTVqUDNka0lVb0lpLUZ1QnlDTklSOHpjbENpZjRsa01iMk5sT1Y3TzVnX3QtQWF5Z0VVWWJOT0xiMjZlUGN0M25VQ3I?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 29, 01:00 PM ET",
-    "publishedAt": "2026-06-29T17:00:00+00:00",
-    "source": "Microsoft Azure",
-    "title": "Claude in Microsoft Foundry is now generally available",
-    "summary": "Microsoft Azure is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPek1uUEdRZ21YNnBJUkFpYXpaVkJ0Q0dfOXVIaWZaSVRsQWRGMnVUZEpROEZ6cmwtZTUyOVE0RG01UnNXYWtRNWFOZ0xGSEswejR6UzdIWDRpNUhuYzhFVzNIWnI3NHNDMHpubE53dGxFSm5wVXYyV0hjM1oyU05QekhyMV9Bd0pyMUZXOWRYaU5keEV4NkxEWDhR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 29, 11:00 AM ET",
-    "publishedAt": "2026-06-29T15:00:00+00:00",
-    "source": "Infosecurity Magazine",
-    "title": "OpenAI Reveals GPT-5.6 Sol Cybersecurity Model, Restricts Early Access",
-    "summary": "Infosecurity Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDIyZFFyQjU2eGYzeFp5THQ5MnRrU3pEWGN3cXE2dWpEblNPdHFKVWhncmtNN0ZMUU10VTNUVUxQNFBGa21kcTZjNk5nc3RoNmoxWk9QaTRCdmphTk9MNjBYdERxVHF5aW5GdDdGb3FKYjc4UVlXM08xbFVURTZJZGEwV3I?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 29, 03:00 AM ET",
@@ -324,6 +264,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 26, 03:00 AM ET",
+    "publishedAt": "2026-06-26T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUmlDZ29pZlZFNHNfSzBVbXkxRkZXNTZ0cjVpOG5DWHMtTGpNOV82dG5WeVZpbVktQjViSHRRZ0lEVWx3N0ZIZGo0UllDV3A4Z1R1R29HbzU?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 22, 03:00 AM ET",
@@ -333,6 +285,18 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 18, 03:00 AM ET",
+    "publishedAt": "2026-06-18T07:00:00+00:00",
+    "source": "DevOps.com",
+    "title": "Anthropic Hits Pause on Claude Agent SDK Billing Change, For Now",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWlGX0RCS2hyVlN2U1llUl9JR1NYQjhzMVhZZmRrSlFNa1dQTGFxRzFVN1lmWHBPUVBwTmpqNGJfTkdWQlh0eGw4VlgtdGZ6VTdrdVFIWW1xc0ROUWwzekxNSG5WNWtabkQwUmdjOFNhUGIxamotcUNveE5FRzB3RmV0dnhfellMNHMw?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,6 +321,54 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Apr 22, 03:00 AM ET",
+    "publishedAt": "2026-04-22T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RS1QX21mYm9qa0plY1BHV0xGZktSa2RBWjhtdHpuMHE5eTE1WWJmcmo4SDB3RGZEaWd4WElTNkVhSDlRM0dyWjVISU45eDIzUmVuMWZUSERmbVJTbWdSSzh1cVE3OGcya1ZjeU9pMjFQbHRhOG9HTEdobw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 13, 03:00 AM ET",
+    "publishedAt": "2026-03-13T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "How your data is used to improve model performance",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcEE2OHFVVC1CTkNXdzNFd2huWUtwcW9TRlhNRWd4ZVdWQldtMXl6SUd6MnNXS29BNm5xQmFsUG5waU42OHFfUkpDSUFBOTZPOWh0dkdoRzZGM0RtU2xyZVhVNXExLVE5SWJHQ3RhMW95RlhGTmwxai1QRVpRNnVid2x4YzltUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 11, 03:00 AM ET",
+    "publishedAt": "2026-03-11T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sMkxnSDBNRXBuYUowR2J1YXRZSzdpQW1ac1pEczlZNktGNWZRMmdqbmFCR0VfdnpGR295Mlo5Sjg3Uk0ySTAzeWZhSHBFN3BfSFR3cW9DM2tqd1VnTjNGdDZsRHVyRnNIMTBDY2dPTXdzQnBp?oc=5",
     "difficulty": "News"
   }
 ]
