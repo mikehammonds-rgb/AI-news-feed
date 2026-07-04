@@ -12,6 +12,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 03, 09:36 PM ET",
+    "publishedAt": "2026-07-04T01:36:08+00:00",
+    "source": "tech-insider.org",
+    "title": "OpenAI Codex Hits 5M Weekly Users, Up 6x [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKVmRhUXRkQzZibEtKTFduOXNVWTVPcEo4RVE3Rlc0aDNIaDFiN2lHRTZLbU5IaVZYYzB1NFNIcnRPNnVLMVJoWGY2SWZkLUJzY3hMb2NDQ1B3N09wTE9lcXhic3ZsTXZ2Zl82RVJYRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 03, 08:03 PM ET",
@@ -96,6 +108,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 02, 09:50 AM ET",
+    "publishedAt": "2026-07-02T13:50:00+00:00",
+    "source": "The Tech Buzz",
+    "title": "OpenAI API Spending Caps Now Essential as AI Agents Drain Budgets",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWgydzl1Vm1Tb3NnZWxGa09PZnZ3b09GemFfUXhNaWpKVmlmNVBJa1U4MDZkV0FORVRSb1RpUXJRbVZ0d3NnaFphckZyRUtKLWxWUzdYWUdyYVdJR1IybnVhekJQbi14NmdzTHhxQ29QZ0p6Vm9JTFVhb2RCSXVENnF0NE83MzM0VFRsaTU1Vk5IUU9ZTU1Ub3BGOWF1UWc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 02, 09:00 AM ET",
@@ -124,11 +148,23 @@
     "label": "Claude Code",
     "time": "Jul 02, 06:00 AM ET",
     "publishedAt": "2026-07-02T10:00:00+00:00",
-    "source": "VentureBeat",
+    "source": "Venturebeat",
     "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGJkdWhUUHVBNm94Njl4NXpzQ0FfMnFsUWlGWnhwTWxZWGpHMU1DS1JnN0dtWWE0TEFacWdha3JKd2NEcDlUQXVlWHMtRG1veWJuVUl3Q1BUay1oTzhUSWFpV3k1dE45cjJBZlFnYmdtbEdqTGdoV0FkbGFXTDF4aW91M3dhNzNSd1ptTVAyZTZjcGtiR1lteFUxUzNRaC16MDVVWlNuNEQ1SjVEcXljYktiLWg4eTRHNXc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 02, 01:47 AM ET",
+    "publishedAt": "2026-07-02T05:47:35+00:00",
+    "source": "The Cyber Express",
+    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
+    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
     "difficulty": "News"
   },
   {
@@ -141,6 +177,30 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjMtb3RaUjV3UzRJWjBRTmNEOWlORl9zWUktSDhPa2JnNTRCb0ZNZkdVbGg5NnpvQlVfOGUxQUtTLVJLdkVLWXFLUVYxNnFzZk5VSzdZOUQ2bnRxSkQtTDd2TDFsWDFSaDJ2T3Z3MWdKU0NjcW5iMzZTRzExeDF6UVB0eklnWHpEV1I0b3ZpUEs0aV8teWhTTVpOTFhVQUk0eGo0a3ZLTzZoTFZmOXNXMVpQSE9XbnVDb29SR0kxOGlYamhHb0E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 01, 02:14 PM ET",
+    "publishedAt": "2026-07-01T18:14:34+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US) | Artificial Intelligence",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzd3MzdVRnNFOGFHZUMzVXlwZEZiaEZBczROU05neVdNOVpCMEVfa0dFOTlTM1JmajRob3hWMmE3XzlIRUxwV1pkcTlEWEd5ekNpcVdhNERmRG8yLUwwN2RDV3pOcHkycDEzUHZCNFJsbzlQUklEaE5valVkd0J5ajhiSmFUbExCSXJ6a041U3FCSG1KNE1uUHNQWTRyNTFPTzdFTVM2RWItaHdxY19jZ0VvZ3BtVG11Tm56eTF6WWhQN2pRRjJNVQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 01, 10:21 AM ET",
+    "publishedAt": "2026-07-01T14:21:00+00:00",
+    "source": "PCWorld",
+    "title": "Claude subscribers are furious over Fable’s new restrictions",
+    "summary": "PCWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOGNpY1pQSHJxX0pEWnZQdWZKWWwwbXhrTzNWTG9hUlFOdzJReWZJTHdiSjJmdS1WMmFfVHlYQnZ3d3EwcUlJYl9Nak9KOV9xYXhTMXl6dFhwUzhobWd6cHVXMm96cUNtYmNVbkZQdDJ6OThIbVp1eUpWNWpZdi1nQm9VMGd1bDQ4Y2hRNUx0U3lqc2J5UEZqaW1uemZCRlhNeEVySk5UWQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -208,9 +268,9 @@
     "label": "Gemini",
     "time": "Jun 30, 12:06 PM ET",
     "publishedAt": "2026-06-30T16:06:00+00:00",
-    "source": "VentureBeat",
+    "source": "Venturebeat",
     "title": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbi01RGxBbkQ4MGhPZlFJQVM2QWJpMWViWk13QTVQU05oUDJCM2RyMFFUcjVHOFNlazk4N0hvejJ0clN0ZExwQnpGa2lXNEJZdmtKUmcxMzd0ek5WT252bVBSTGZMTVYyRzctUDU4RWdKOGJqbWFNaXNfek1ySVBkN2I4bDVKMGczSFY5TU5MY09DWjgyRjlLbDlQWXVTSlNkQmNycC1GMHdJOFB4ampDN3E0cTdlYzZjYmNpVDUteWpaU1IxbVNFRXpmREhxMno2N2dYRVBNOExGYURrQlNkRGFGVWk?oc=5",
     "difficulty": "News"
@@ -252,30 +312,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 29, 09:33 PM ET",
-    "publishedAt": "2026-06-30T01:33:24+00:00",
-    "source": "tech-insider.org",
-    "title": "AI Coding Assistants: Claude Code Ties Cursor at 18% [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqZDBMMU05Y09EQ1JxY2M2Y2t3Z0ZLa0ZucHlfZmdjcDhUZ0lBZC1GWWk1cVIwX0Z6MVlab29hQTN5MzRORDhhTzlUY01XNnByMUxJVFpTZ1BNWHhoV2tqcHhSQ3o?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 29, 01:00 PM ET",
-    "publishedAt": "2026-06-29T17:00:00+00:00",
-    "source": "Microsoft Azure",
-    "title": "Claude in Microsoft Foundry is now generally available",
-    "summary": "Microsoft Azure is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPek1uUEdRZ21YNnBJUkFpYXpaVkJ0Q0dfOXVIaWZaSVRsQWRGMnVUZEpROEZ6cmwtZTUyOVE0RG01UnNXYWtRNWFOZ0xGSEswejR6UzdIWDRpNUhuYzhFVzNIWnI3NHNDMHpubE53dGxFSm5wVXYyV0hjM1oyU05QekhyMV9Bd0pyMUZXOWRYaU5keEV4NkxEWDhR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 29, 11:00 AM ET",
@@ -288,18 +324,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 29, 04:19 AM ET",
-    "publishedAt": "2026-06-29T08:19:33+00:00",
-    "source": "CCN.com",
-    "title": "GPT-5.6 Is Here: OpenAI Names Its New AI Models Sol, Terra and Luna",
-    "summary": "CCN.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnAyckoya1BQejlTVjFrc3lHU0JxT2NEUW80ZHlYMV85MndLR1VaVjNlYTJpaWdNS3BENnVjbVhmcU5vLTU2bU9OanRUX0J4UVM2S2p1ajNvQ1lMWGhzZzZfYmtBa3VNU2hqNDNERXV1YXBLNGV1OUpsTDVuRnE3NHRsZFE5S3RZNGtkRg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 29, 03:00 AM ET",
@@ -309,30 +333,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 28, 07:01 PM ET",
-    "publishedAt": "2026-06-28T23:01:49+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "OpenAI begins limited GPT-5.6 preview with Sol, Terra, and Luna",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wY29GN3hGSmpTcU5oR1E5UXpNeEVwRzdQNjMwTUhRaU5ObEtYcWs2ZldiYjZkeGJlLUZLQVZpR3ZpLWZaOXpNb3o2ODFzTm01ckNxS2gzY0NRSlhuZ25CTFY4UXp6c19PRVZEc1p1bXUyVUhfTnBBU1NPUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 28, 06:04 PM ET",
-    "publishedAt": "2026-06-28T22:04:10+00:00",
-    "source": "SitePoint",
-    "title": "Prompt Compression and Cache Tuning: Cut Your LLM API Costs by 60%",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tU3N4d1JBekRtTlFwTDBPcmRLQTQwTVdEZGd5TGsyaVpJNGFrWVpqTDJnbUozSy1GWFV1eXhiS3h6WUp2dDBFMlZQQ1B6alBTUGVmSldGYzlORzRKR0ludVJsSzlsWEdYWTNldk52amxITWFKQVE2Tk10YjY?oc=5",
     "difficulty": "News"
   },
   {
