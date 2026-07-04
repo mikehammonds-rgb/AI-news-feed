@@ -24,18 +24,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 04, 11:48 AM ET",
-    "publishedAt": "2026-07-04T15:48:43+00:00",
-    "source": "TestingCatalog AI News",
-    "title": "Google tests new Gemini Inbox section for Workspace triage",
-    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZm1TaXdHN1dJSnNhTDdvSGxlQmxXSm9kaE0zb3dOcnZBQ1JCVGdROHR6THhHVHFQX19ZaUt1RDZETXJ5VGw1REJYNXk1V3JlYnRQNVNTUnhqdWV0Zzg3Y2JOVjloMUptd3BEcDhQdlFnN1JNMXBfMHpwRXdlckVGNVIzd1M3d3J0eWVnWG9rMENnbERw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 04, 10:45 AM ET",
@@ -84,6 +72,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 03, 03:37 PM ET",
+    "publishedAt": "2026-07-03T19:37:16+00:00",
+    "source": "Tech Times",
+    "title": "OpenAI Halves Inference Costs With Software Alone: GPUs Drop to Hundreds",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObG1lLTZIdDBzanFOMnNpNHZONlY2TzUzSXB4dTVFTGJBSXlZMUYwTjYtUDBJWERVTEFEb0pCc2hDRXc3OUptZkRXclYtZlBCQXJEblJ0TGFvS1BaZTh2WHlISDZhUzN5c0o2Tmsxbk53RHduNGxVRDBRZklaR19yVDhBcXFWd0R6QnR6cGtHMTV4RlRxQXlrNjd0ck1hcWllZDl2RjNxUHR2cEdjQUNwTXpOUzBtdzdubXc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 03, 09:18 AM ET",
@@ -93,6 +93,18 @@
     "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkpqZlpyeHJPdU94akhtdlNoemFXTVB0RFY2c1BQUGw3U25WSDBPdkdzU0tFZ052R25oNDR6SmtsOG15NE1PaGdSdWdCTzlmZnQySFhXZkNEOTNrLVU3NkgwVnd6UlpTUnJQS1Nmdkw5UHh1UE5DVm5HcnVKQTJYUmFDbjZKbHV0ejI4MjkyMVpaakJ4M0YtdkNnWVZlWWl3d3JGNg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 02, 09:37 PM ET",
+    "publishedAt": "2026-07-03T01:37:09+00:00",
+    "source": "BleepingComputer",
+    "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
+    "summary": "BleepingComputer is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeXF0V2lTUTR3Vmx5bUpBakdDYmY0Zy1fbHRkSVZkbkMxN0U4OUQ3V3BMcS1iVDBMVVdzbG1QNVplc2VsVHlHQ05MaHl0VXQ1a0FueVRWTmZHTDFRdENXOWppUURUVzhCVUhhNnpEdXgtY3prS19pN29EcjEtZW9iREFfeDlzYnVzdXpvakRnaTU5UklCVm03SzVYZlVxSVdCZGVicnZ1cGlxQnRtcExKd0Q0R05XZmx3ZDJsV1dKdEdTMG9Gbkp0cWhjSdIB0AFBVV95cUxOcWxFWjNvOXA5YXlmcHd3cXp1aTR3UjBpV2VkOWUwTzRQMEhiR04wR1RURHA3S0RZVXNUUC15N0xLNVFXdDRjQ2Z6NUg5dGtINHQtYjVPU2xBVkpGaDZUTXFFMHRBVXZ6b2lFX1p1TVJ6bkIzYVYyVlAyUlB4LW0xN3B0Um13N1I4YnVvOV9zTXpRNTlseU1hQ0pOMkdxMXVFQWVObjUtcGlJaWhkQlp3WkliRV9ONXQxWFpRcDliQzBvTXFWb0ZMZEpoNGh2bURm?oc=5",
     "difficulty": "News"
   },
   {
@@ -158,18 +170,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 02, 01:47 AM ET",
-    "publishedAt": "2026-07-02T05:47:35+00:00",
-    "source": "The Cyber Express",
-    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
-    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jul 01, 02:14 PM ET",
     "publishedAt": "2026-07-01T18:14:34+00:00",
     "source": "Amazon Web Services (AWS)",
@@ -201,6 +201,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 30, 03:02 PM ET",
+    "publishedAt": "2026-06-30T19:02:38+00:00",
+    "source": "TechCrunch",
+    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFUzdWJQWmVwSGtGN3g2bDNLWURaSVEtUUZlb1BrWUVEVUUyRXZZOUxNUThjdzdvUHlHQmZsMjZfOFdsX1F1dGVqWGhpWklvTFhNREkxYnU4SkNSNHVlT0x2Si1wc1dxN3VtTkdzXzdvN3kzYl9MaHVsdGVBaFp4OFRjU1FWZXRNZ1l1X1NWWXNQNW1vU1dpV2YzZXphMURuN3VVQWtRUXJXZUx1TGc?oc=5",
     "difficulty": "News"
   },
   {
