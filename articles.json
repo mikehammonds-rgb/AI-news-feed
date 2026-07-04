@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 03, 08:03 PM ET",
+    "publishedAt": "2026-07-04T00:03:00+00:00",
+    "source": "Asbury Park Press",
+    "title": "Response incomplete Claude. Is Claude down? Claude api error",
+    "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONF83OC1rSC1tOUV4Z0tTVU9vSWRSSDROTEZZcnp3QU91Y3ZJbHhEamVBaGFEZHRMZHNQdGNQTUsydWlERlFfbGszN2Zob21aZUVCSUcyWWFIM2NMTm9hc1ZfcTZoTkQ2cEJxMXNDVl94b3FFOWRFQ0VRX0Q0ekJCemdEcFFYU19Rc0RXWmYzcHA2c216MzdCZFRlT0c4eDZKbnB5Ump3cW1OX3ItQ0loX2twWTc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 03, 09:30 AM ET",
@@ -36,6 +48,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 02, 11:40 PM ET",
+    "publishedAt": "2026-07-03T03:40:35+00:00",
+    "source": "OpenAI",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6YWZoNnhTTDR6N3QwSWJyR3UxbmhhZnZYc2kwcmpWQUYyclJINWcyXzdCckxoV0xCUGd5ZVdGLXFEQnp5WUMyaTBjemF4d2N2NGJIZmV5aklOamFqSnNwQl9ULWxnZXdyNUdwYWpIMTFIOUQwZkk5RW13?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 02, 09:37 PM ET",
@@ -57,18 +81,6 @@
     "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMnktc0dxRm1NamxsWmxHQ2R0MkdZUnFZYjdlYTF5YTVCbXdmeGYyMEtMNlFEY1Rkdk8xeUZyaUoyM3ZkTE5jWHA5VjZmY0x2QVBaby1vSW50VldFREhyWkU4T1BzNmozaFo1dXhYS0ZWblh3dzlFZ0UyYkdaQXduQnRJTXh0dFkxdTFIZnZzQUFNQ0kybXVUWEdJeEZManJoZDBkYjNNVlVNWGt5OE5hSGhjVkpXWmZyelpBYUttb1FXUkRxd3VYQnk3NjludjFl?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 02, 05:52 PM ET",
-    "publishedAt": "2026-07-02T21:52:05+00:00",
-    "source": "Redmondmag.com",
-    "title": "Anthropic Claude Goes GA in Microsoft Foundry",
-    "summary": "Redmondmag.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVE1LWjhRQ29OT1dwVjdnZFRRQ29zOGFSeXYtaVM4NG9QdTRBLWVYTTlNQ3JzQWtoQ0dVZkoyWDFUTzRaLV90ZWNxVERwSFNvWDFabFdnR0toY0pIV0Z5MXpJMVZfZURuR0NWcE5zMmJBX25oQUtraUdFeWludjdmMU5lbnN6RFNKRWxmYndTd2xGQ3NkU1hZaQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -98,13 +110,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 02, 09:50 AM ET",
-    "publishedAt": "2026-07-02T13:50:00+00:00",
-    "source": "The Tech Buzz",
-    "title": "OpenAI API Spending Caps Now Essential as AI Agents Drain Budgets",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "time": "Jul 02, 09:28 AM ET",
+    "publishedAt": "2026-07-02T13:28:31+00:00",
+    "source": "Press Trust of India",
+    "title": "Altudo Becomes an OpenAI Services Partner to Help Enterprises Build AI Workflows Using OpenAI Models",
+    "summary": "Press Trust of India is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWgydzl1Vm1Tb3NnZWxGa09PZnZ3b09GemFfUXhNaWpKVmlmNVBJa1U4MDZkV0FORVRSb1RpUXJRbVZ0d3NnaFphckZyRUtKLWxWUzdYWUdyYVdJR1IybnVhekJQbi14NmdzTHhxQ29QZ0p6Vm9JTFVhb2RCSXVENnF0NE83MzM0VFRsaTU1Vk5IUU9ZTU1Ub3BGOWF1UWc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPREx3MFRLV2ZadjZUU0xsd1p1RFRsT2JGWFVHWnJyUV85TzdYNTlTQ0JVU1VfTmtZM3RLalhGYUs5UVFpdVNXNzZZN2l1T0FicXNKa1QtM2Rwd2Y5RV9YZTBLMUZ2SXBpYUR5UVlaNGY3TjRGQmxyOVRPN1lYcVRLa3dkdi1aMTdEbTM0VHJWVjJXRFl6c2hGeUdHVUs1cDVIYjZlZDYweWs3S0kzYzM0UnVlZk50ZmpzTnJaa0RNcHdCLVpSTTRjSXJWdVl6MDhSc1ZxYnlxaXZWRnlaOTRZ?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,18 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 02, 08:51 AM ET",
-    "publishedAt": "2026-07-02T12:51:00+00:00",
-    "source": "ZDNET",
-    "title": "How I set OpenAI API usage limits to stop agent overspending and other AI billing nightmares",
-    "summary": "ZDNET is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yeGl0bVY0d1dBM3lBRGdvNnI0aHI0UkpkX1k5MUF6clJMZGNoY3ltWU84RU9lTHl6WmdOQ0k1SUoxVGNOZXh6TE1FRVpmQ3JVRXRWMFR1V1NEV05kT3otVjV2M3RPWFVCRC11c21JYVZfS1FLQ1prZUhxbw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 02, 06:00 AM ET",
@@ -144,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 02, 01:47 AM ET",
-    "publishedAt": "2026-07-02T05:47:35+00:00",
-    "source": "The Cyber Express",
-    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
-    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 01, 04:56 PM ET",
@@ -165,18 +153,6 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjMtb3RaUjV3UzRJWjBRTmNEOWlORl9zWUktSDhPa2JnNTRCb0ZNZkdVbGg5NnpvQlVfOGUxQUtTLVJLdkVLWXFLUVYxNnFzZk5VSzdZOUQ2bnRxSkQtTDd2TDFsWDFSaDJ2T3Z3MWdKU0NjcW5iMzZTRzExeDF6UVB0eklnWHpEV1I0b3ZpUEs0aV8teWhTTVpOTFhVQUk0eGo0a3ZLTzZoTFZmOXNXMVpQSE9XbnVDb29SR0kxOGlYamhHb0E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 01, 02:14 PM ET",
-    "publishedAt": "2026-07-01T18:14:34+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US) | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzd3MzdVRnNFOGFHZUMzVXlwZEZiaEZBczROU05neVdNOVpCMEVfa0dFOTlTM1JmajRob3hWMmE3XzlIRUxwV1pkcTlEWEd5ekNpcVdhNERmRG8yLUwwN2RDV3pOcHkycDEzUHZCNFJsbzlQUklEaE5valVkd0J5ajhiSmFUbExCSXJ6a041U3FCSG1KNE1uUHNQWTRyNTFPTzdFTVM2RWItaHdxY19jZ0VvZ3BtVG11Tm56eTF6WWhQN2pRRjJNVQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -264,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 30, 09:49 AM ET",
-    "publishedAt": "2026-06-30T13:49:00+00:00",
-    "source": "The Hacker News",
-    "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVE9NbWVPY3o5VDI0empPM0daa1lfbkctSHU2SHZhVmFJMU8waUFvZzVnc2UwQTFmVWRTbW1pZFFiSTVqUDNka0lVb0lpLUZ1QnlDTklSOHpjbENpZjRsa01iMk5sT1Y3TzVnX3QtQWF5Z0VVWWJOT0xiMjZlUGN0M25VQ3I?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 29, 09:33 PM ET",
@@ -300,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 29, 11:00 AM ET",
-    "publishedAt": "2026-06-29T15:00:00+00:00",
-    "source": "Infosecurity Magazine",
-    "title": "OpenAI Reveals GPT-5.6 Sol Cybersecurity Model, Restricts Early Access",
-    "summary": "Infosecurity Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDIyZFFyQjU2eGYzeFp5THQ5MnRrU3pEWGN3cXE2dWpEblNPdHFKVWhncmtNN0ZMUU10VTNUVUxQNFBGa21kcTZjNk5nc3RoNmoxWk9QaTRCdmphTk9MNjBYdERxVHF5aW5GdDdGb3FKYjc4UVlXM08xbFVURTZJZGEwV3I?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 29, 03:00 AM ET",
@@ -326,25 +278,37 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 28, 07:01 PM ET",
-    "publishedAt": "2026-06-28T23:01:49+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "OpenAI begins limited GPT-5.6 preview with Sol, Terra, and Luna",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "time": "Jun 29, 01:42 AM ET",
+    "publishedAt": "2026-06-29T05:42:22+00:00",
+    "source": "Mshale",
+    "title": "Why Did ChatGPT Go Down Tody? Reasons And Fixes Solution To The Problem Of StoppingGPT Chat Today Royals Vs White Sox (2tJcNo9wOJ)",
+    "summary": "Mshale is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wY29GN3hGSmpTcU5oR1E5UXpNeEVwRzdQNjMwTUhRaU5ObEtYcWs2ZldiYjZkeGJlLUZLQVZpR3ZpLWZaOXpNb3o2ODFzTm01ckNxS2gzY0NRSlhuZ25CTFY4UXp6c19PRVZEc1p1bXUyVUhfTnBBU1NPUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qUjNVWEhDNFFFYlZSU0hVX2ZiOW9zand0S3AzUkZUTWJxYUFBNVhYcWJBQS1BbjZRNWtCek5qNHNpdDg4Mk90WFNLVzBCOWRCY2phWTExaDZnYUU?oc=5",
     "difficulty": "News"
   },
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 26, 01:02 PM ET",
-    "publishedAt": "2026-06-26T17:02:16+00:00",
-    "source": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "time": "Jun 24, 01:06 PM ET",
+    "publishedAt": "2026-06-24T17:06:15+00:00",
+    "source": "TechPowerUp",
+    "title": "OpenAI Unveils Jalapeno LLM Inferencing Accelerator Built in Collaboration with Broadcom",
+    "summary": "TechPowerUp is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWU5MenRTazJwOWlLdV9GYWE3MUdIS01qamtVMFMzbWZhUGdZMTdUOHNPY3F5YWNNdUQ3TW5xSlRheFlNNzM4ei1JYTZYXzhTejBvSUx1dGhqY3dobkVhcnozUlBsblh4bG5MbHA1VlFrZlRwc3dOTERlMFZZUnVmaXRDSlNyVDUtekQya3Vxbmh0WERZbm1pNXBsbDE1X2t5YmRpU0hkRUxLT09DU2Q1d25DaXBSZXZjTHNsdWRNdULSAcYBQVVfeXFMT01FcjREeHdxVDIwUmt2SFdjbnFHSGxsVldydTdiNXVSaHFIRHNSTDFMQzA2QWxValAxQ2lHdDAyVEZOS1ZzTGU5WW5sRU5wM0JsRFV2eXZ4cHY1aktCWVZLaG1qSXQ4OEI3Tks0Z05BY2tRUkViRzBRTDZCZDM1MUhUNS1QdW1PWjRORkVMLXVaZWNvdUtuODRjV3RsV3RZMHZqWGFkWnYyaUEtUE10ekZZc1pEOXRraGlZa2JvU0I0Tm0xdGhn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 23, 03:00 AM ET",
+    "publishedAt": "2026-06-23T07:00:00+00:00",
+    "source": "Crypto Briefing",
+    "title": "OpenAI ships over 30 new models and tools for API in six months",
+    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TekxQb2l2SDFDTmJpRlRZSzVRejk4M2VhYmYtRktjbWM0VkRySGtpMEt2WjdxYnVnbVFScW83cDI2VDVPcngwY0lqVUJaTGN0WXV5eGkyWTNVTS1Od2p4bEdrOTlJeE9mOEVCT3kwbF9RQmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -360,6 +324,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 10, 03:00 AM ET",
+    "publishedAt": "2026-06-10T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Sida Preply AI iyo macallimiin ugu gaaryeelayso barashada",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUZi1lRmVZZjM4U0VmTEtjV0syb1VSVU5GdTY3ZXZjYkl5VlFqVl9Hd09pUmZka3MzZDhLY0dEbkJDemZkaWMzX204cG1FM0E?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 19, 03:00 AM ET",
@@ -369,6 +345,30 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 17, 03:00 AM ET",
+    "publishedAt": "2026-05-17T07:00:00+00:00",
+    "source": "tech-insider.org",
+    "title": "Gemini vs ChatGPT 2026: $2 vs $5 API Gap, 1M Tokens [Tested]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55cjdRUmUtWFpHak1nby1ITU9oSjVMc1dKMEczSWMtYTBPTTc1bzl0WER6RkhqTnBReHNVY29xZEtJNDJJd0FfNFFyZk1xVndRZU9acWxaRUpXX3Zm?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jan 08, 03:00 AM ET",
+    "publishedAt": "2026-01-08T08:00:00+00:00",
+    "source": "Health API Guy",
+    "title": "The End of the Standalone PHR",
+    "summary": "Health API Guy is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUdkQtdnlYNTRNS3kyTnJvdXM1V2lHQ0ZZNG9iWDY5a0t3eDUwVVR3MWVfdGd2d1R0VVI0OEo0VERTR3dtbXN1b1BMa2JxY1JONlo0elFQU1N6eXdBZXQtelRXU2lESlB3V0hCeGd0SUtvbk0?oc=5",
     "difficulty": "News"
   }
 ]
