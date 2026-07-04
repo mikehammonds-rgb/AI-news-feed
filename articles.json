@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 04, 04:07 AM ET",
+    "publishedAt": "2026-07-04T08:07:17+00:00",
+    "source": "The Indian Express",
+    "title": "OpenAI may cut AI subscription prices as Anthropic rivalry intensifies: Report",
+    "summary": "The Indian Express is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMEprVlRxdDRLSExad3M3UmQ0VUhvdzhpdDQ0dGtYYlJDbFBXdV92RHVhWlFCTFhNd2N0eXA2b2R4M0NYRDEyN21SNWt0X1VCM1Fjc2wzMEppMlZodHI1bkVLNV9ENHExZjNjZkFTaEpRTHQ4Y185QS1RbUtqbUFrd3NSdmF2M1A4Tm1UWGY1TzB2VDN0SnhBYjM4a1JUQ0Rpd242RzlicnFXYXdZVWdsVnVmVjRwWWxWWEVtSmtkVWFwRHZvTFFsZVlhQUdHdkRwcjE2clRfWkZJZjhUMHloMElWdFpzVjFk0gHvAUFVX3lxTE1YYUhMU3ZZN0dra05BYVIyNjNpNU14QmFXSDVtUlAwUnZ0RUw5VlVPVTJLcXFOcW5pVnN3Q0VwSmJNdTBkbThDcEFLOC1UNG5VOVJRREdSTXdqbXgxUVFEc21mMDVMWUhxei1VRXQzRHRJM3AwWWhjdlltcmRVSVRiYnNiZ1pCNG5OMExsampGY2hHZndZZlZKb2Z2TmVNc05XVm9zUkQzSlpjQjNkd0dfUXJDeFFZdkFMTU1UVlB4ZFIxSFh5R1JYX0cwcmVTUEV5elNlNVhzOFE0WVltaENQbXYzSGg5U1FWYnVKamR3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 03, 08:03 PM ET",
     "publishedAt": "2026-07-04T00:03:00+00:00",
     "source": "Asbury Park Press",
@@ -96,6 +108,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 02, 09:50 AM ET",
+    "publishedAt": "2026-07-02T13:50:00+00:00",
+    "source": "The Tech Buzz",
+    "title": "OpenAI API Spending Caps Now Essential as AI Agents Drain Budgets",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWgydzl1Vm1Tb3NnZWxGa09PZnZ3b09GemFfUXhNaWpKVmlmNVBJa1U4MDZkV0FORVRSb1RpUXJRbVZ0d3NnaFphckZyRUtKLWxWUzdYWUdyYVdJR1IybnVhekJQbi14NmdzTHhxQ29QZ0p6Vm9JTFVhb2RCSXVENnF0NE83MzM0VFRsaTU1Vk5IUU9ZTU1Ub3BGOWF1UWc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 02, 09:00 AM ET",
@@ -129,6 +153,18 @@
     "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGJkdWhUUHVBNm94Njl4NXpzQ0FfMnFsUWlGWnhwTWxZWGpHMU1DS1JnN0dtWWE0TEFacWdha3JKd2NEcDlUQXVlWHMtRG1veWJuVUl3Q1BUay1oTzhUSWFpV3k1dE45cjJBZlFnYmdtbEdqTGdoV0FkbGFXTDF4aW91M3dhNzNSd1ptTVAyZTZjcGtiR1lteFUxUzNRaC16MDVVWlNuNEQ1SjVEcXljYktiLWg4eTRHNXc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 02, 01:47 AM ET",
+    "publishedAt": "2026-07-02T05:47:35+00:00",
+    "source": "The Cyber Express",
+    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
+    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,18 +324,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 29, 04:19 AM ET",
-    "publishedAt": "2026-06-29T08:19:33+00:00",
-    "source": "CCN.com",
-    "title": "GPT-5.6 Is Here: OpenAI Names Its New AI Models Sol, Terra and Luna",
-    "summary": "CCN.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnAyckoya1BQejlTVjFrc3lHU0JxT2NEUW80ZHlYMV85MndLR1VaVjNlYTJpaWdNS3BENnVjbVhmcU5vLTU2bU9OanRUX0J4UVM2S2p1ajNvQ1lMWGhzZzZfYmtBa3VNU2hqNDNERXV1YXBLNGV1OUpsTDVuRnE3NHRsZFE5S3RZNGtkRg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 29, 03:00 AM ET",
@@ -314,32 +338,8 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jun 28, 07:01 PM ET",
-    "publishedAt": "2026-06-28T23:01:49+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "OpenAI begins limited GPT-5.6 preview with Sol, Terra, and Luna",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wY29GN3hGSmpTcU5oR1E5UXpNeEVwRzdQNjMwTUhRaU5ObEtYcWs2ZldiYjZkeGJlLUZLQVZpR3ZpLWZaOXpNb3o2ODFzTm01ckNxS2gzY0NRSlhuZ25CTFY4UXp6c19PRVZEc1p1bXUyVUhfTnBBU1NPUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 28, 06:04 PM ET",
-    "publishedAt": "2026-06-28T22:04:10+00:00",
-    "source": "SitePoint",
-    "title": "Prompt Compression and Cache Tuning: Cut Your LLM API Costs by 60%",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tU3N4d1JBekRtTlFwTDBPcmRLQTQwTVdEZGd5TGsyaVpJNGFrWVpqTDJnbUozSy1GWFV1eXhiS3h6WUp2dDBFMlZQQ1B6alBTUGVmSldGYzlORzRKR0ludVJsSzlsWEdYWTNldk52amxITWFKQVE2Tk10YjY?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 26, 01:02 PM ET",
-    "publishedAt": "2026-06-26T17:02:16+00:00",
+    "time": "Jun 26, 03:00 AM ET",
+    "publishedAt": "2026-06-26T07:00:00+00:00",
     "source": "OpenAI",
     "title": "Previewing GPT-5.6 Sol: a next-generation model",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
