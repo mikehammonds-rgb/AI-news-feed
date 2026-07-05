@@ -36,18 +36,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 04, 04:55 PM ET",
-    "publishedAt": "2026-07-04T20:55:25+00:00",
-    "source": "TechCrunch",
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVczVTlkS3dxMGZLMldFSHlLcUliZ1hEQnRQTEtzQUlfWmdHRjFPR1pSYzFQM0V3dTY0MGNud25rS2hEdnpnOGo4OU51YUdLcGo2NUQ2WVpickFPTjd0N2JOVnc3VUFSNHdmVGZZb05rbVhLYXFkdmVfMG9TeWVnVGl0MDJwSnR6NE4zcEpRdXd5V0VVWjJQeUN4X05NNTI1X1FDUHctQkxEN2xJUEtSemt1Znc4ZG8waEVFMk9B?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 03, 09:36 PM ET",
@@ -184,9 +172,9 @@
     "label": "Claude Code",
     "time": "Jul 02, 06:00 AM ET",
     "publishedAt": "2026-07-02T10:00:00+00:00",
-    "source": "VentureBeat",
+    "source": "Venturebeat",
     "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGJkdWhUUHVBNm94Njl4NXpzQ0FfMnFsUWlGWnhwTWxZWGpHMU1DS1JnN0dtWWE0TEFacWdha3JKd2NEcDlUQXVlWHMtRG1veWJuVUl3Q1BUay1oTzhUSWFpV3k1dE45cjJBZlFnYmdtbEdqTGdoV0FkbGFXTDF4aW91M3dhNzNSd1ptTVAyZTZjcGtiR1lteFUxUzNRaC16MDVVWlNuNEQ1SjVEcXljYktiLWg4eTRHNXc?oc=5",
     "difficulty": "News"
@@ -249,6 +237,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 30, 03:02 PM ET",
+    "publishedAt": "2026-06-30T19:02:38+00:00",
+    "source": "TechCrunch",
+    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFUzdWJQWmVwSGtGN3g2bDNLWURaSVEtUUZlb1BrWUVEVUUyRXZZOUxNUThjdzdvUHlHQmZsMjZfOFdsX1F1dGVqWGhpWklvTFhNREkxYnU4SkNSNHVlT0x2Si1wc1dxN3VtTkdzXzdvN3kzYl9MaHVsdGVBaFp4OFRjU1FWZXRNZ1l1X1NWWXNQNW1vU1dpV2YzZXphMURuN3VVQWtRUXJXZUx1TGc?oc=5",
     "difficulty": "News"
   },
   {
