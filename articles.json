@@ -24,18 +24,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 04, 05:33 PM ET",
-    "publishedAt": "2026-07-04T21:33:44+00:00",
-    "source": "Startup Fortune",
-    "title": "Anthropic Says Claude Fable 5 Will Return to Subscriptions Once Capacity Allows",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnZRV3NFaU1XU08zY2JhUTJ5YW95NDJLak5ZNVN0T0JzX3VJZnBrazlxbExxMWdPZjIyby1VSXdMNkViNEpqTlFlcHg2MWVQVXhPMXo4TnZBV2FZUTNZOVlRdEVJRlR6S2lfSE1jeVBXbDF0eEdJYkpMUFhxOTNrelA5Q0ZyaElwRXFlWHBNeDIwZWszTFFmZzZjVkFVQ0dGcEdKSHU4Z1hOVkU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 03, 09:36 PM ET",
@@ -57,6 +45,18 @@
     "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONF83OC1rSC1tOUV4Z0tTVU9vSWRSSDROTEZZcnp3QU91Y3ZJbHhEamVBaGFEZHRMZHNQdGNQTUsydWlERlFfbGszN2Zob21aZUVCSUcyWWFIM2NMTm9hc1ZfcTZoTkQ2cEJxMXNDVl94b3FFOWRFQ0VRX0Q0ekJCemdEcFFYU19Rc0RXWmYzcHA2c216MzdCZFRlT0c4eDZKbnB5Ump3cW1OX3ItQ0loX2twWTc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 03, 04:54 PM ET",
+    "publishedAt": "2026-07-03T20:54:14+00:00",
+    "source": "OpenAI",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxTlZjSWJHdl8tNlFadkQ5WTd4VTRPUFVzaGN2M3g0SDNEVlpZRVBaUDVQMTRVUkEzVE1HU1hvRlAtUkFRRjBOYW80SVNuUlpzNkZJV1pSZTVRZjFyVW5FbkR5UXZNVjVJQ1hLcUVxdFRwN1pnOGNhZnVGOA?oc=5",
     "difficulty": "News"
   },
   {
@@ -132,18 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 02, 09:50 AM ET",
-    "publishedAt": "2026-07-02T13:50:00+00:00",
-    "source": "The Tech Buzz",
-    "title": "OpenAI API Spending Caps Now Essential as AI Agents Drain Budgets",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWgydzl1Vm1Tb3NnZWxGa09PZnZ3b09GemFfUXhNaWpKVmlmNVBJa1U4MDZkV0FORVRSb1RpUXJRbVZ0d3NnaFphckZyRUtKLWxWUzdYWUdyYVdJR1IybnVhekJQbi14NmdzTHhxQ29QZ0p6Vm9JTFVhb2RCSXVENnF0NE83MzM0VFRsaTU1Vk5IUU9ZTU1Ub3BGOWF1UWc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 02, 09:00 AM ET",
@@ -180,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 02, 01:47 AM ET",
-    "publishedAt": "2026-07-02T05:47:35+00:00",
-    "source": "The Cyber Express",
-    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
-    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 01, 04:56 PM ET",
@@ -201,18 +177,6 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjMtb3RaUjV3UzRJWjBRTmNEOWlORl9zWUktSDhPa2JnNTRCb0ZNZkdVbGg5NnpvQlVfOGUxQUtTLVJLdkVLWXFLUVYxNnFzZk5VSzdZOUQ2bnRxSkQtTDd2TDFsWDFSaDJ2T3Z3MWdKU0NjcW5iMzZTRzExeDF6UVB0eklnWHpEV1I0b3ZpUEs0aV8teWhTTVpOTFhVQUk0eGo0a3ZLTzZoTFZmOXNXMVpQSE9XbnVDb29SR0kxOGlYamhHb0E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 01, 02:14 PM ET",
-    "publishedAt": "2026-07-01T18:14:34+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US) | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzd3MzdVRnNFOGFHZUMzVXlwZEZiaEZBczROU05neVdNOVpCMEVfa0dFOTlTM1JmajRob3hWMmE3XzlIRUxwV1pkcTlEWEd5ekNpcVdhNERmRG8yLUwwN2RDV3pOcHkycDEzUHZCNFJsbzlQUklEaE5valVkd0J5ajhiSmFUbExCSXJ6a041U3FCSG1KNE1uUHNQWTRyNTFPTzdFTVM2RWItaHdxY19jZ0VvZ3BtVG11Tm56eTF6WWhQN2pRRjJNVQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -348,15 +312,39 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 18, 03:00 AM ET",
+    "publishedAt": "2026-06-18T07:00:00+00:00",
+    "source": "DevOps.com",
+    "title": "Anthropic Hits Pause on Claude Agent SDK Billing Change, For Now",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWlGX0RCS2hyVlN2U1llUl9JR1NYQjhzMVhZZmRrSlFNa1dQTGFxRzFVN1lmWHBPUVBwTmpqNGJfTkdWQlh0eGw4VlgtdGZ6VTdrdVFIWW1xc0ROUWwzekxNSG5WNWtabkQwUmdjOFNhUGIxamotcUNveE5FRzB3RmV0dnhfellMNHMw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 16, 03:00 AM ET",
-    "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "CBS News",
-    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "time": "May 24, 03:00 AM ET",
+    "publishedAt": "2026-05-24T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "May 20, 03:00 AM ET",
+    "publishedAt": "2026-05-20T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,6 +357,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
     "difficulty": "News"
   }
 ]
