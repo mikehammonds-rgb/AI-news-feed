@@ -48,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 04, 10:45 AM ET",
-    "publishedAt": "2026-07-04T14:45:03+00:00",
-    "source": "Tech Times",
-    "title": "AI Coding Assistant ZCode Launches Free: China Data Law Applies to Every GLM-5.2 API Call",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZm5lMDdZYTM0SFpUbHBPM2Z4NTJjRlFHQ2ZaRHZzWGRWaHVsdWRIWXdObXBYdDJTRDZCNjkxeTlfWUNmcU1RMDVFMzdpWGZCcUpLOFN5Q1Z6Qm1zSjNiMUI2TXhGNE1lU3N6VDhJWjNUbXZ2NUJYYUxZZFBnRU50MGpBMnVfZDU1LXZKZ0lZaWhRemkwbHUwTTQ2bzFUZHNSVkZhYlVaM01NMDRXcGc5WmJzSGkySkhsRU9MX0hLNjNtS3F5UUM0dzBkangtUDVfZGlLejZ3?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 03, 09:36 PM ET",
@@ -357,6 +345,18 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 03:00 AM ET",
+    "publishedAt": "2026-06-16T07:00:00+00:00",
+    "source": "CBS News",
+    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   },
   {
