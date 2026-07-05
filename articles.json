@@ -2,6 +2,42 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 04, 08:14 PM ET",
+    "publishedAt": "2026-07-05T00:14:00+00:00",
+    "source": "Yahoo Finance",
+    "title": "MixRoute Confirms Claude Fable 5 Support, Giving Developers One-Key Access to Both Fable 5 and GPT-5.6",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTU5sYnIwVHRVcERGNXFZOUZvZTBzU1dHb2hTUmFNZTZpWkV2N0JBU2NJQUNXSnNDa1VkNkhHV0swTHdQMlpCTnhSU3FKVGVKYy1GUzRQWEJraWtVcjlLREpaaVpRcFktNlZyX0U2MkYtUzdZX1Jwb2VBLVkwR284THBvR2kxLXd0dGY5OFhvX2Z2aDJhYjVYMzdRaUU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 04, 05:33 PM ET",
+    "publishedAt": "2026-07-04T21:33:44+00:00",
+    "source": "Startup Fortune",
+    "title": "Anthropic Says Claude Fable 5 Will Return to Subscriptions Once Capacity Allows",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnZRV3NFaU1XU08zY2JhUTJ5YW95NDJLak5ZNVN0T0JzX3VJZnBrazlxbExxMWdPZjIyby1VSXdMNkViNEpqTlFlcHg2MWVQVXhPMXo4TnZBV2FZUTNZOVlRdEVJRlR6S2lfSE1jeVBXbDF0eEdJYkpMUFhxOTNrelA5Q0ZyaElwRXFlWHBNeDIwZWszTFFmZzZjVkFVQ0dGcEdKSHU4Z1hOVkU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 04, 04:55 PM ET",
+    "publishedAt": "2026-07-04T20:55:25+00:00",
+    "source": "TechCrunch",
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVczVTlkS3dxMGZLMldFSHlLcUliZ1hEQnRQTEtzQUlfWmdHRjFPR1pSYzFQM0V3dTY0MGNud25rS2hEdnpnOGo4OU51YUdLcGo2NUQ2WVpickFPTjd0N2JOVnc3VUFSNHdmVGZZb05rbVhLYXFkdmVfMG9TeWVnVGl0MDJwSnR6NE4zcEpRdXd5V0VVWjJQeUN4X05NNTI1X1FDUHctQkxEN2xJUEtSemt1Znc4ZG8waEVFMk9B?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jul 04, 04:26 PM ET",
     "publishedAt": "2026-07-04T20:26:24+00:00",
     "source": "Substack",
@@ -9,18 +45,6 @@
     "summary": "Substack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OSmVpcFBPR2U5VlFsREwtcU11OERaejZOVEVwWDNialJ3NXJ2VmZCLTIwRHZsY21JV25KZVliSUN6aVlxXzVVTHI1Slc0eDVVWWhDSTBFWV80MzktbDBnVzFycW00T1ZmcmlUcTh3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 04, 12:21 PM ET",
-    "publishedAt": "2026-07-04T16:21:21+00:00",
-    "source": "MarkTechPost",
-    "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjJabGZzM01VQTY3MndSdTZSZEF0d0poLXFXUGwtZlF5NnB1dTY0SEhjTGZBTGNKWUQ4SEI5alZiaDFHczNpdVg2NDdRNlFZcFJZcjh1dTJlT0VaVlpvdDVJajRsekFsaVdGcG5oRDZkR25mNmZkd012amRVamZnNHI3MmNTQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -45,18 +69,6 @@
     "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZm5lMDdZYTM0SFpUbHBPM2Z4NTJjRlFHQ2ZaRHZzWGRWaHVsdWRIWXdObXBYdDJTRDZCNjkxeTlfWUNmcU1RMDVFMzdpWGZCcUpLOFN5Q1Z6Qm1zSjNiMUI2TXhGNE1lU3N6VDhJWjNUbXZ2NUJYYUxZZFBnRU50MGpBMnVfZDU1LXZKZ0lZaWhRemkwbHUwTTQ2bzFUZHNSVkZhYlVaM01NMDRXcGc5WmJzSGkySkhsRU9MX0hLNjNtS3F5UUM0dzBkangtUDVfZGlLejZ3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 04, 04:07 AM ET",
-    "publishedAt": "2026-07-04T08:07:17+00:00",
-    "source": "The Indian Express",
-    "title": "OpenAI may cut AI subscription prices as Anthropic rivalry intensifies: Report",
-    "summary": "The Indian Express is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMEprVlRxdDRLSExad3M3UmQ0VUhvdzhpdDQ0dGtYYlJDbFBXdV92RHVhWlFCTFhNd2N0eXA2b2R4M0NYRDEyN21SNWt0X1VCM1Fjc2wzMEppMlZodHI1bkVLNV9ENHExZjNjZkFTaEpRTHQ4Y185QS1RbUtqbUFrd3NSdmF2M1A4Tm1UWGY1TzB2VDN0SnhBYjM4a1JUQ0Rpd242RzlicnFXYXdZVWdsVnVmVjRwWWxWWEVtSmtkVWFwRHZvTFFsZVlhQUdHdkRwcjE2clRfWkZJZjhUMHloMElWdFpzVjFk0gHvAUFVX3lxTE1YYUhMU3ZZN0dra05BYVIyNjNpNU14QmFXSDVtUlAwUnZ0RUw5VlVPVTJLcXFOcW5pVnN3Q0VwSmJNdTBkbThDcEFLOC1UNG5VOVJRREdSTXdqbXgxUVFEc21mMDVMWUhxei1VRXQzRHRJM3AwWWhjdlltcmRVSVRiYnNiZ1pCNG5OMExsampGY2hHZndZZlZKb2Z2TmVNc05XVm9zUkQzSlpjQjNkd0dfUXJDeFFZdkFMTU1UVlB4ZFIxSFh5R1JYX0cwcmVTUEV5elNlNVhzOFE0WVltaENQbXYzSGg5U1FWYnVKamR3?oc=5",
     "difficulty": "News"
   },
   {
@@ -110,18 +122,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 03, 08:07 AM ET",
-    "publishedAt": "2026-07-03T12:07:42+00:00",
-    "source": "KDnuggets",
-    "title": "Getting Started with the Claude API in Python",
-    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MSnphcklERHRZdmFkSWJRUWhNY0ZYZjFIaGVUVnJmYzQ3WmkzWnpCTFozckNaTEFuWVFNTE5rQUVXZnJTNjdiT1dPTndXdXN2NHRQem5DbWtBd180MUNnVXJwajlzT1ZNTkFmb3Awd0VwU2YxcUM3R1gydw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jul 02, 09:37 PM ET",
     "publishedAt": "2026-07-03T01:37:09+00:00",
     "source": "BleepingComputer",
@@ -156,6 +156,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 02, 09:50 AM ET",
+    "publishedAt": "2026-07-02T13:50:00+00:00",
+    "source": "The Tech Buzz",
+    "title": "OpenAI API Spending Caps Now Essential as AI Agents Drain Budgets",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWgydzl1Vm1Tb3NnZWxGa09PZnZ3b09GemFfUXhNaWpKVmlmNVBJa1U4MDZkV0FORVRSb1RpUXJRbVZ0d3NnaFphckZyRUtKLWxWUzdYWUdyYVdJR1IybnVhekJQbi14NmdzTHhxQ29QZ0p6Vm9JTFVhb2RCSXVENnF0NE83MzM0VFRsaTU1Vk5IUU9ZTU1Ub3BGOWF1UWc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 02, 09:00 AM ET",
@@ -180,6 +192,30 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 02, 01:47 AM ET",
+    "publishedAt": "2026-07-02T05:47:35+00:00",
+    "source": "The Cyber Express",
+    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
+    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 01, 02:14 PM ET",
+    "publishedAt": "2026-07-01T18:14:34+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US) | Artificial Intelligence",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzd3MzdVRnNFOGFHZUMzVXlwZEZiaEZBczROU05neVdNOVpCMEVfa0dFOTlTM1JmajRob3hWMmE3XzlIRUxwV1pkcTlEWEd5ekNpcVdhNERmRG8yLUwwN2RDV3pOcHkycDEzUHZCNFJsbzlQUklEaE5valVkd0J5ajhiSmFUbExCSXJ6a041U3FCSG1KNE1uUHNQWTRyNTFPTzdFTVM2RWItaHdxY19jZ0VvZ3BtVG11Tm56eTF6WWhQN2pRRjJNVQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 30, 08:21 PM ET",
@@ -189,18 +225,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 03:02 PM ET",
-    "publishedAt": "2026-06-30T19:02:38+00:00",
-    "source": "TechCrunch",
-    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFUzdWJQWmVwSGtGN3g2bDNLWURaSVEtUUZlb1BrWUVEVUUyRXZZOUxNUThjdzdvUHlHQmZsMjZfOFdsX1F1dGVqWGhpWklvTFhNREkxYnU4SkNSNHVlT0x2Si1wc1dxN3VtTkdzXzdvN3kzYl9MaHVsdGVBaFp4OFRjU1FWZXRNZ1l1X1NWWXNQNW1vU1dpV2YzZXphMURuN3VVQWtRUXJXZUx1TGc?oc=5",
     "difficulty": "News"
   },
   {
@@ -218,13 +242,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 30, 12:06 PM ET",
-    "publishedAt": "2026-06-30T16:06:00+00:00",
-    "source": "Venturebeat",
-    "title": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
-    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
+    "time": "Jun 30, 01:24 PM ET",
+    "publishedAt": "2026-06-30T17:24:28+00:00",
+    "source": "the-decoder.com",
+    "title": "Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbi01RGxBbkQ4MGhPZlFJQVM2QWJpMWViWk13QTVQU05oUDJCM2RyMFFUcjVHOFNlazk4N0hvejJ0clN0ZExwQnpGa2lXNEJZdmtKUmcxMzd0ek5WT252bVBSTGZMTVYyRzctUDU4RWdKOGJqbWFNaXNfek1ySVBkN2I4bDVKMGczSFY5TU5MY09DWjgyRjlLbDlQWXVTSlNkQmNycC1GMHdJOFB4ampDN3E0cTdlYzZjYmNpVDUteWpaU1IxbVNFRXpmREhxMno2N2dYRVBNOExGYURrQlNkRGFGVWk?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV1dlaFBhS2lvd09hU2RpV21kZG03c1BxdG9HRkNxUjFXYW5nTkVoTkk3SnMwNE5ZQzNwcDF1bzc1MmZ2RXNJWXQtdnJfN05zN05mR3hlWlFhbk10ejhPV0VVNG5KMHY1UXNBTDVxcDRpaHJpWk9KTDRYV2M0Z1k4a0NpQnlOMWhjMGZnZ1ZtbnB2cVhuSEVydTRfSWR4ekhDclR4X2VHRDhRWTJBWjVFWTZ1SkhoOGowdFE?oc=5",
     "difficulty": "News"
   },
   {
@@ -254,6 +278,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Jun 30, 09:49 AM ET",
+    "publishedAt": "2026-06-30T13:49:00+00:00",
+    "source": "The Hacker News",
+    "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVE9NbWVPY3o5VDI0empPM0daa1lfbkctSHU2SHZhVmFJMU8waUFvZzVnc2UwQTFmVWRTbW1pZFFiSTVqUDNka0lVb0lpLUZ1QnlDTklSOHpjbENpZjRsa01iMk5sT1Y3TzVnX3QtQWF5Z0VVWWJOT0xiMjZlUGN0M25VQ3I?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Jun 29, 11:00 AM ET",
     "publishedAt": "2026-06-29T15:00:00+00:00",
     "source": "Infosecurity Magazine",
@@ -273,18 +309,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 28, 07:01 PM ET",
-    "publishedAt": "2026-06-28T23:01:49+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "OpenAI begins limited GPT-5.6 preview with Sol, Terra, and Luna",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wY29GN3hGSmpTcU5oR1E5UXpNeEVwRzdQNjMwTUhRaU5ObEtYcWs2ZldiYjZkeGJlLUZLQVZpR3ZpLWZaOXpNb3o2ODFzTm01ckNxS2gzY0NRSlhuZ25CTFY4UXp6c19PRVZEc1p1bXUyVUhfTnBBU1NPUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,18 +336,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 18, 03:00 AM ET",
-    "publishedAt": "2026-06-18T07:00:00+00:00",
-    "source": "DevOps.com",
-    "title": "Anthropic Hits Pause on Claude Agent SDK Billing Change, For Now",
-    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWlGX0RCS2hyVlN2U1llUl9JR1NYQjhzMVhZZmRrSlFNa1dQTGFxRzFVN1lmWHBPUVBwTmpqNGJfTkdWQlh0eGw4VlgtdGZ6VTdrdVFIWW1xc0ROUWwzekxNSG5WNWtabkQwUmdjOFNhUGIxamotcUNveE5FRzB3RmV0dnhfellMNHMw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 16, 03:00 AM ET",
@@ -336,18 +348,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 19, 03:00 AM ET",
@@ -357,18 +357,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Apr 23, 03:00 AM ET",
-    "publishedAt": "2026-04-23T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Introducing GPT-5.5",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
     "difficulty": "News"
   }
 ]
