@@ -48,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 04, 12:07 PM ET",
-    "publishedAt": "2026-07-04T16:07:20+00:00",
-    "source": "Tech Times",
-    "title": "Claude Enterprise Spend Controls Arrive as Agentic AI Bills Blow Past Budgets",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFN1ZGdtbHBRMzI5MDUwUzRTR19KUEVqZTJVY2taMElJSDJMb0U2eDdpSXA5VVhfaUFpdEY1dFlTM0c3azdFWHlhRE51d1FkMmxraGNDMlFvQ3JkdmtMa0s2MkFpc29DUXBsaFJLMkdlY1hrY0hmdWpjdXIwSFFGb0E1M2tLekRXUXlWWXVCSEVnOUNOVVhBU0FMeDR4bUJyZDNHTUtmNjYxcTZweVo0UGduNmcwN0F2eXkyYmc0QU8wUmNxZ012dA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 03, 09:36 PM ET",
@@ -216,10 +204,22 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 01, 02:14 PM ET",
+    "publishedAt": "2026-07-01T18:14:34+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US) | Artificial Intelligence",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzd3MzdVRnNFOGFHZUMzVXlwZEZiaEZBczROU05neVdNOVpCMEVfa0dFOTlTM1JmajRob3hWMmE3XzlIRUxwV1pkcTlEWEd5ekNpcVdhNERmRG8yLUwwN2RDV3pOcHkycDEzUHZCNFJsbzlQUklEaE5valVkd0J5ajhiSmFUbExCSXJ6a041U3FCSG1KNE1uUHNQWTRyNTFPTzdFTVM2RWItaHdxY19jZ0VvZ3BtVG11Tm56eTF6WWhQN2pRRjJNVQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 01, 09:17 AM ET",
-    "publishedAt": "2026-07-01T13:17:11+00:00",
+    "time": "Jul 01, 07:04 AM ET",
+    "publishedAt": "2026-07-01T11:04:34+00:00",
     "source": "AI Business",
     "title": "Google Expands AI Imaging Offerings With Nano Banana Lite 2",
     "summary": "AI Business is reporting this update. Open the article for the full story.",
@@ -300,18 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 29, 11:00 AM ET",
-    "publishedAt": "2026-06-29T15:00:00+00:00",
-    "source": "Infosecurity Magazine",
-    "title": "OpenAI Reveals GPT-5.6 Sol Cybersecurity Model, Restricts Early Access",
-    "summary": "Infosecurity Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDIyZFFyQjU2eGYzeFp5THQ5MnRrU3pEWGN3cXE2dWpEblNPdHFKVWhncmtNN0ZMUU10VTNUVUxQNFBGa21kcTZjNk5nc3RoNmoxWk9QaTRCdmphTk9MNjBYdERxVHF5aW5GdDdGb3FKYjc4UVlXM08xbFVURTZJZGEwV3I?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 29, 03:00 AM ET",
@@ -345,6 +333,18 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 18, 03:00 AM ET",
+    "publishedAt": "2026-06-18T07:00:00+00:00",
+    "source": "DevOps.com",
+    "title": "Anthropic Hits Pause on Claude Agent SDK Billing Change, For Now",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWlGX0RCS2hyVlN2U1llUl9JR1NYQjhzMVhZZmRrSlFNa1dQTGFxRzFVN1lmWHBPUVBwTmpqNGJfTkdWQlh0eGw4VlgtdGZ6VTdrdVFIWW1xc0ROUWwzekxNSG5WNWtabkQwUmdjOFNhUGIxamotcUNveE5FRzB3RmV0dnhfellMNHMw?oc=5",
     "difficulty": "News"
   },
   {
