@@ -17,7 +17,7 @@
     "time": "Jul 06, 05:08 AM ET",
     "publishedAt": "2026-07-06T09:08:32+00:00",
     "source": "MacRumors",
-    "title": "Claude Outage Currently Affecting Multiple Models",
+    "title": "Claude Outage Currently Affecting Multiple Models [Update: Fixed]",
     "summary": "MacRumors is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlNuT0hodGVaN0IzMFUydGNpei1QMjMydUxMVVlFNHp0UmRfelJpRDRBUHRhV2JOd3k0RUJyaGxjaGlOaDdCSDdPRldLVkFXaktnM1owYUM3Wm51aTZWMFNsUVZNVk9OMnZlY2RvZGhWMHJmaVcyZjhsTEtrRWM2YW9YZTlBandwX3ZTbGRGa1c?oc=5",
@@ -27,7 +27,7 @@
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 06, 04:29 AM ET",
-    "publishedAt": "2026-07-06T08:29:09+00:00",
+    "publishedAt": "2026-07-06T08:29:34+00:00",
     "source": "CyberSecurityNews",
     "title": "Hackers Abuse OpenAI Org Invites to Harvest Sensitive Prompts and API Activity",
     "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
@@ -81,6 +81,18 @@
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 05, 05:30 PM ET",
+    "publishedAt": "2026-07-05T21:30:28+00:00",
+    "source": "MIXED Reality News",
+    "title": "GPT-5.6 public launch may be days away, but OpenAI is still holding back",
+    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3NYRzRhMW1YbHlwU0g2N28tQzJONFozLVZfMTVzZ1U5RnJvenRqWEZVZV9DeE1UZXFaM000aTFUTVY0bmE1SzZHQTM5Zk1jYWtQMGNYTXlnMFlkd3puWW16WHFDSHh1b0Q2dkp4U3NOcWFRd1BZay1GejJUdFpLa3p6QWNFTlhBOUFCYUlGYy1Yamp0S0wtY2R2VXU0dGs?oc=5",
     "difficulty": "News"
   },
   {
@@ -208,23 +220,11 @@
     "label": "Claude Code",
     "time": "Jul 02, 06:00 AM ET",
     "publishedAt": "2026-07-02T10:00:00+00:00",
-    "source": "VentureBeat",
+    "source": "Venturebeat",
     "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGJkdWhUUHVBNm94Njl4NXpzQ0FfMnFsUWlGWnhwTWxZWGpHMU1DS1JnN0dtWWE0TEFacWdha3JKd2NEcDlUQXVlWHMtRG1veWJuVUl3Q1BUay1oTzhUSWFpV3k1dE45cjJBZlFnYmdtbEdqTGdoV0FkbGFXTDF4aW91M3dhNzNSd1ptTVAyZTZjcGtiR1lteFUxUzNRaC16MDVVWlNuNEQ1SjVEcXljYktiLWg4eTRHNXc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 02, 01:47 AM ET",
-    "publishedAt": "2026-07-02T05:47:35+00:00",
-    "source": "The Cyber Express",
-    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
-    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
     "difficulty": "News"
   },
   {
