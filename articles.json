@@ -1,5 +1,41 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 06, 04:29 AM ET",
+    "publishedAt": "2026-07-06T08:29:09+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Hackers Abuse OpenAI Org Invites to Harvest Sensitive Prompts and API Activity",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WMGhVdGdEUlFVLVZOcEs4bkJuX0hBZzZaVmxfczRLU3EtcUdEdkZic3ZHSVNqQ2Y0X3ZIVHUxaFFfemZrMnVfWmpVeDhCLWp4b2ZVVGM5RGxGUU5DRURYTmlpemNwMW5EN3llU2FR0gFzQVVfeXFMUDlKZUZlRTZxRUVtcklRSlNPVkY5LU8yTi1ic2ZrQXY1UC1abXV3TUtJUU5FVkdCeXdmbG5pQ0hXSEdKb3Y5UUNEYUV4UEM2NlhNcE05eXEzMVJuejlxdllVdVFTZkt3VldqckdjRVVuMHh6Yw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 06, 01:30 AM ET",
+    "publishedAt": "2026-07-06T05:30:53+00:00",
+    "source": "Help Net Security",
+    "title": "Omnigent: Open-source AI agent framework and meta-harness",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPejU2eXJtejZlNkpVczBYTHJ4bTlBS25MekJzU2NQclN2cTZMMWViRDlqc2hIQ0VsVUtjTDNuMTJBZkdSRWV1Q3l1cmtPc3hhQlN5eHJkZU43WndYbmo5QTJMQkFZMW1DTjlBM2FnMDBhMGVtenBuYUpTdmN0Nm9GakNYaEJkWVNQQkNV?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 05, 06:24 PM ET",
+    "publishedAt": "2026-07-05T22:24:56+00:00",
+    "source": "AOL.com",
+    "title": "Response incomplete Claude. Is Claude down? Claude api error",
+    "summary": "AOL.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTzhqQzJjblByZUw2QmNMQ2picVpwd0R3OVV2Q1ItdU16b2theW9LcDRvNmZzT3BJdGE2TjNLUFNhZFlLMUNTZ2VWSUtPc0ZLQllpZHdpYlp4UURGeXhwRGh3djdpU0pyeHl2VXYtdkZMS1JCdGdZUG5WazFPNDVGQXhLUnh3Vy1kNHc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 05, 05:30 PM ET",
@@ -16,23 +52,11 @@
     "label": "Gemini",
     "time": "Jul 05, 10:30 AM ET",
     "publishedAt": "2026-07-05T14:30:02+00:00",
-    "source": "Barchart",
+    "source": "Barchart.com",
     "title": "Google Just Launched 2 New AI Models. What That Means for GOOGL Stock.",
-    "summary": "Barchart is reporting this update. Open the article for the full story.",
+    "summary": "Barchart.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGF5MlBRYU0tbjUwWE56LVpMODB3U1ZEbDVfR1ZGbnc3MkZ1QzFPQzdJRUhFbFBBR0pLV3ZTMkRJUE9ZdDhzNzlkN204YmVyZmZGNmpBa2g1VFdfQUtQR2k4Zm1uRjNsaE9pNkgxMGpwaElZTnU4RXFTSG91N0F3TUsyQzlXOEhCM2Utc1Zpa0F5Y0MxNzRqUlpGZGI5QkpCaFpwWEppSUtha1NNSTAzeDJn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 04, 12:07 PM ET",
-    "publishedAt": "2026-07-04T16:07:20+00:00",
-    "source": "Tech Times",
-    "title": "Claude Enterprise Spend Controls Arrive as Agentic AI Bills Blow Past Budgets",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFN1ZGdtbHBRMzI5MDUwUzRTR19KUEVqZTJVY2taMElJSDJMb0U2eDdpSXA5VVhfaUFpdEY1dFlTM0c3azdFWHlhRE51d1FkMmxraGNDMlFvQ3JkdmtMa0s2MkFpc29DUXBsaFJLMkdlY1hrY0hmdWpjdXIwSFFGb0E1M2tLekRXUXlWWXVCSEVnOUNOVVhBU0FMeDR4bUJyZDNHTUtmNjYxcTZweVo0UGduNmcwN0F2eXkyYmc0QU8wUmNxZ012dA?oc=5",
     "difficulty": "News"
   },
   {
@@ -45,18 +69,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKVmRhUXRkQzZibEtKTFduOXNVWTVPcEo4RVE3Rlc0aDNIaDFiN2lHRTZLbU5IaVZYYzB1NFNIcnRPNnVLMVJoWGY2SWZkLUJzY3hMb2NDQ1B3N09wTE9lcXhic3ZsTXZ2Zl82RVJYRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 03, 08:03 PM ET",
-    "publishedAt": "2026-07-04T00:03:00+00:00",
-    "source": "Asbury Park Press",
-    "title": "Response incomplete Claude. Is Claude down? Claude api error",
-    "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONF83OC1rSC1tOUV4Z0tTVU9vSWRSSDROTEZZcnp3QU91Y3ZJbHhEamVBaGFEZHRMZHNQdGNQTUsydWlERlFfbGszN2Zob21aZUVCSUcyWWFIM2NMTm9hc1ZfcTZoTkQ2cEJxMXNDVl94b3FFOWRFQ0VRX0Q0ekJCemdEcFFYU19Rc0RXWmYzcHA2c216MzdCZFRlT0c4eDZKbnB5Ump3cW1OX3ItQ0loX2twWTc?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,15 +204,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 01, 04:56 PM ET",
-    "publishedAt": "2026-07-01T20:56:31+00:00",
-    "source": "The Register",
-    "title": "Anthropic is removing its covert code for catching Chinese competitors",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 01, 02:23 PM ET",
+    "publishedAt": "2026-07-01T18:23:52+00:00",
+    "source": "blog.google",
+    "title": "The latest AI news we announced in June 2026",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjMtb3RaUjV3UzRJWjBRTmNEOWlORl9zWUktSDhPa2JnNTRCb0ZNZkdVbGg5NnpvQlVfOGUxQUtTLVJLdkVLWXFLUVYxNnFzZk5VSzdZOUQ2bnRxSkQtTDd2TDFsWDFSaDJ2T3Z3MWdKU0NjcW5iMzZTRzExeDF6UVB0eklnWHpEV1I0b3ZpUEs0aV8teWhTTVpOTFhVQUk0eGo0a3ZLTzZoTFZmOXNXMVpQSE9XbnVDb29SR0kxOGlYamhHb0E?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSklUX3E0LWlteG0tQ3UycXBxQkdraXBVdDdEbVd4RzBtWXFuZTVkYWxXMUMzMm9vbHA0Q0Roa3JWd19ob1NCQUtIUUdBTlNoU0hMRmhSdU1pQU5yWU1zQmlVS2U5ay0zNkFxaGJjQUpwUGE0S1BCWVZHaFc3VjdQZmp6YjYyeUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,18 +225,6 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTVl1dUR0ZEh3d2s1SlJQVzZPWnowQW52T1JOUTUwYURnTVVMVHhQWEF0T285MGJiODQwczNaTGtHVnEwcjJqMWJtT1ZmM2tTaXhlX0s0aUI2M2JzeFRESlRxRDcyZW5DQW8zLVFwb1ZwdWw1bldkc2R2SVVLVVlTeFV0VmJQVC1QS0dwZEJSM3Y3MzVuSjN1QUxfNlpqV0hJX1I3eG9McjhKYmZ6?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 01, 07:04 AM ET",
-    "publishedAt": "2026-07-01T11:04:34+00:00",
-    "source": "AI Business",
-    "title": "Google Expands AI Imaging Offerings With Nano Banana Lite 2",
-    "summary": "AI Business is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHozb0FSbHg3NDU3VWxQQ05XYU9YYkNhVFNkZ2tkTGhWTHQ4NlR5REVVc0F4ODZJLUVFVnk1U0NabnZJSUtadXFwaDZCYzBuMDg2YllxZm83R3V5NXB1THhjVmJPdllCZEVpQURqdm02STk4MEdPRWR6X0dQTzhWLWdzemt3ZU5YcUYwN0hmWXlMd0VFOGc?oc=5",
     "difficulty": "News"
   },
   {
@@ -242,13 +242,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jun 30, 01:24 PM ET",
-    "publishedAt": "2026-06-30T17:24:28+00:00",
-    "source": "the-decoder.com",
-    "title": "Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "time": "Jun 30, 03:02 PM ET",
+    "publishedAt": "2026-06-30T19:02:38+00:00",
+    "source": "TechCrunch",
+    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV1dlaFBhS2lvd09hU2RpV21kZG03c1BxdG9HRkNxUjFXYW5nTkVoTkk3SnMwNE5ZQzNwcDF1bzc1MmZ2RXNJWXQtdnJfN05zN05mR3hlWlFhbk10ejhPV0VVNG5KMHY1UXNBTDVxcDRpaHJpWk9KTDRYV2M0Z1k4a0NpQnlOMWhjMGZnZ1ZtbnB2cVhuSEVydTRfSWR4ekhDclR4X2VHRDhRWTJBWjVFWTZ1SkhoOGowdFE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFUzdWJQWmVwSGtGN3g2bDNLWURaSVEtUUZlb1BrWUVEVUUyRXZZOUxNUThjdzdvUHlHQmZsMjZfOFdsX1F1dGVqWGhpWklvTFhNREkxYnU4SkNSNHVlT0x2Si1wc1dxN3VtTkdzXzdvN3kzYl9MaHVsdGVBaFp4OFRjU1FWZXRNZ1l1X1NWWXNQNW1vU1dpV2YzZXphMURuN3VVQWtRUXJXZUx1TGc?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,18 +357,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Mar 12, 03:00 AM ET",
-    "publishedAt": "2026-03-12T07:00:00+00:00",
-    "source": "Towards Data Science",
-    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
