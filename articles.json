@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 07, 01:12 PM ET",
+    "publishedAt": "2026-07-07T17:12:57+00:00",
+    "source": "Tech Times",
+    "title": "OpenAI Realtime API Cuts Voice Agent Latency 25%, Adds Reasoning Mini Model",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSFZoLU14cFljSUpiYjRoYy1Qblp1a0Z5TF96NW1YNlNVQTJnMGJTdGJNQ3JLQ3NEMFlvU2p1SzAwX3NwR1NRMlhjeXBCQTVpcFZwZjVYSmJ6RC15TGtxdkMwdG05VTh5MWxkcXhOUkZKQlk0M01EWFM5US11MGxqWnMzaGhVaXR5VXYyamNjQWEtckt2dkpYSFdOaXJYZ1lwcnJVblNCUWtxangxMjdKN0lPcE5OcHk1N3I5dDFRanJjaHlsQVdv?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 07, 10:05 AM ET",
@@ -26,8 +38,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 07, 09:27 AM ET",
-    "publishedAt": "2026-07-07T13:27:54+00:00",
+    "time": "Jul 07, 09:55 AM ET",
+    "publishedAt": "2026-07-07T13:55:19+00:00",
     "source": "Android Authority",
     "title": "Fable 5's second act on Claude ends today, unless you're willing to pay more",
     "summary": "Android Authority is reporting this update. Open the article for the full story.",
@@ -108,18 +120,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 05, 05:30 PM ET",
-    "publishedAt": "2026-07-05T21:30:28+00:00",
-    "source": "MIXED Reality News",
-    "title": "GPT-5.6 public launch may be days away, but OpenAI is still holding back",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3NYRzRhMW1YbHlwU0g2N28tQzJONFozLVZfMTVzZ1U5RnJvenRqWEZVZV9DeE1UZXFaM000aTFUTVY0bmE1SzZHQTM5Zk1jYWtQMGNYTXlnMFlkd3puWW16WHFDSHh1b0Q2dkp4U3NOcWFRd1BZay1GejJUdFpLa3p6QWNFTlhBOUFCYUlGYy1Yamp0S0wtY2R2VXU0dGs?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 05, 10:30 AM ET",
@@ -153,18 +153,6 @@
     "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONF83OC1rSC1tOUV4Z0tTVU9vSWRSSDROTEZZcnp3QU91Y3ZJbHhEamVBaGFEZHRMZHNQdGNQTUsydWlERlFfbGszN2Zob21aZUVCSUcyWWFIM2NMTm9hc1ZfcTZoTkQ2cEJxMXNDVl94b3FFOWRFQ0VRX0Q0ekJCemdEcFFYU19Rc0RXWmYzcHA2c216MzdCZFRlT0c4eDZKbnB5Ump3cW1OX3ItQ0loX2twWTc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 03, 03:37 PM ET",
-    "publishedAt": "2026-07-03T19:37:16+00:00",
-    "source": "Tech Times",
-    "title": "OpenAI Halves Inference Costs With Software Alone: GPUs Drop to Hundreds",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObG1lLTZIdDBzanFOMnNpNHZONlY2TzUzSXB4dTVFTGJBSXlZMUYwTjYtUDBJWERVTEFEb0pCc2hDRXc3OUptZkRXclYtZlBCQXJEblJ0TGFvS1BaZTh2WHlISDZhUzN5c0o2Tmsxbk53RHduNGxVRDBRZklaR19yVDhBcXFWd0R6QnR6cGtHMTV4RlRxQXlrNjd0ck1hcWllZDl2RjNxUHR2cEdjQUNwTXpOUzBtdzdubXc?oc=5",
     "difficulty": "News"
   },
   {
@@ -242,13 +230,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 01, 07:04 AM ET",
-    "publishedAt": "2026-07-01T11:04:34+00:00",
-    "source": "AI Business",
-    "title": "Google Expands AI Imaging Offerings With Nano Banana Lite 2",
-    "summary": "AI Business is reporting this update. Open the article for the full story.",
+    "time": "Jul 02, 03:44 AM ET",
+    "publishedAt": "2026-07-02T07:44:42+00:00",
+    "source": "Basic Tutorials",
+    "title": "Nano Banana 2 Lite and Gemini Omni Flash: Google’s New AI Models for Images and Video",
+    "summary": "Basic Tutorials is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHozb0FSbHg3NDU3VWxQQ05XYU9YYkNhVFNkZ2tkTGhWTHQ4NlR5REVVc0F4ODZJLUVFVnk1U0NabnZJSUtadXFwaDZCYzBuMDg2YllxZm83R3V5NXB1THhjVmJPdllCZEVpQURqdm02STk4MEdPRWR6X0dQTzhWLWdzemt3ZU5YcUYwN0hmWXlMd0VFOGc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnFWaE9zUGpyTzcyWVlsU21FV2pDc2RxSGowekd1ZzJ0ajJoOERacUswcEFTQ3pkSDRNRHdqZTNHcVJ5QmF3Y3R5ajdoM1NnZzJSTmt2a2U5VEpsOUNfSXJNSTFwaWxXZm91UWlKTy14TmkyWmN1LU5rWElnSUtOUWVwamNGTENZT01hMW9hTmV2N1NzUDU0WTFnUkVueXp2WmlyNXdxTWdGMHYyemkweXB6MjBVb0xz?oc=5",
     "difficulty": "News"
   },
   {
@@ -297,18 +285,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 26, 01:02 PM ET",
-    "publishedAt": "2026-06-26T17:02:35+00:00",
-    "source": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +357,30 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
