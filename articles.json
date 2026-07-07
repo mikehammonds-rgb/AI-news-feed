@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 07, 04:27 AM ET",
+    "publishedAt": "2026-07-07T08:27:00+00:00",
+    "source": "The Times of India",
+    "title": "Anthropic just made an admission on Claude that may scare many of companies; says: We can see Claude sile",
+    "summary": "The Times of India is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQVkRUNUpsVTQ5WjByUHZBaDdzcnJoRmZUWWVzSzBTMEMzYk9fSzlIbmFtWl8tRkpwcmh3bW13QXkxYzRjTmtjRFdlOWszY0JHbXBDcmdWZ2RsdnpGRzhWRVMxUVZ2aUdZRVV3T3ZycGNaQU5ZbXhDY01EZzNqWkh1TlRCUkhuRXN4STcybUI4SnJoYThsQzEtZlA0NmkwSWRTbWs1WDIweWI4SGVxWkt0a0tZZFpXUXBtb2VrR1ZnVkxvbDlUazB3TlVPLTZZUGJhRnNMbHh1LXNBOERHbWFfNE5yRHVkWXhvY24yZkxsRUtiSnFCRU5ocDk4NW9ITnRseGttYnlvRnE0cGxGX1RPQ09JLWs4d0pPMDlxMy10LUMzcW94NHfSAasCQVVfeXFMTlNRZXhzLTl4U3QycXJuWmRmdmpuLVlTMHg3VW1hOEYxRUZGX0pTMjNrNXRiSF9qTmh5VGhzWXNGZlJCRTBYeEUzSHZDYUJTaWs1MWdIRUVicmlaUnowZDhRMUZ5VGVZanIxSXBONm9kdGRMcEdIem45dFpmNURERllnUjU5SWhKQXVtblc1WHkyT2EwZWtkOWFUSjcyVExBUWdudm54akJzcFFBUzA4Y1Qtb24tWnNkM3BkdDNrQ0FWbHFEb3E4amlsdFp4R2p1Y1psWDJNbThSYlQyZklST2JYRjBmREZ3VWo4N29IaVRJTG1IQTFQZG9VSFNZLWYyUWhhSVdGUGxaaHE1N2U0MVFHT2ZmLWQ5QXNmNnZaODJZMHlEVDNqZmtoR2M?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 07, 12:35 AM ET",
@@ -45,18 +57,6 @@
     "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BZGtTazBvMkJTZFFaRE9KUDVHVm81aVFIZFZkVjhhUkliN0dsTUdKM2VYNWtNbFBMYVhTQU9ObzJpR1hnTFlPdm5oZFYtek0zSUZDbFJOeTZXWVVzNWh2OF85S2FYU3dUbUk4aUdVazdPLTg2SGc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 06, 05:58 AM ET",
-    "publishedAt": "2026-07-06T09:58:49+00:00",
-    "source": "Tech Times",
-    "title": "Fable 5 Subscription Ends Tomorrow: Per-Token Costs and Who Gets Hit Hardest",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeVdHNVVkbDBBSERVb3AxWWNzRU83WllNbTkwR291MlpvbFd4REZ1bnluUmY3bVZ1WkV5QzRfUmxiRE5KdkFEbVlSd1JmMDh5ajl6b1ZTSlA1NE9RVlZCRVFKYzhMMDhrWWU5U0FTYk9oMWFCcHFuTkJCbUN4UkhPRjBwcHlXOUpxVUIxT2ZZMmZQdDRWZHFzN2JEWmIzWkljb2VJTzBvdEZ4WGhCb3Via2ljcmRiWGFHRURxMzBZQlY0NjYz?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,18 +276,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 29, 03:00 AM ET",
-    "publishedAt": "2026-06-29T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Interactions API: our primary interface for Gemini models and agents",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 26, 01:02 PM ET",
@@ -297,6 +285,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 22, 01:38 PM ET",
+    "publishedAt": "2026-06-22T17:38:08+00:00",
+    "source": "blog.google",
+    "title": "Interactions API: our primary interface for Gemini models and agents",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
     "difficulty": "News"
   },
   {
