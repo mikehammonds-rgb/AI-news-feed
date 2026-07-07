@@ -1,14 +1,14 @@
 [
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 07, 01:12 PM ET",
-    "publishedAt": "2026-07-07T17:12:57+00:00",
-    "source": "Tech Times",
-    "title": "OpenAI Realtime API Cuts Voice Agent Latency 25%, Adds Reasoning Mini Model",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 07, 02:55 PM ET",
+    "publishedAt": "2026-07-07T18:55:02+00:00",
+    "source": "Mashable",
+    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSFZoLU14cFljSUpiYjRoYy1Qblp1a0Z5TF96NW1YNlNVQTJnMGJTdGJNQ3JLQ3NEMFlvU2p1SzAwX3NwR1NRMlhjeXBCQTVpcFZwZjVYSmJ6RC15TGtxdkMwdG05VTh5MWxkcXhOUkZKQlk0M01EWFM5US11MGxqWnMzaGhVaXR5VXYyamNjQWEtckt2dkpYSFdOaXJYZ1lwcnJVblNCUWtxangxMjdKN0lPcE5OcHk1N3I5dDFRanJjaHlsQVdv?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
     "difficulty": "News"
   },
   {
@@ -50,8 +50,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 07, 08:57 AM ET",
-    "publishedAt": "2026-07-07T12:57:47+00:00",
+    "time": "Jul 07, 08:58 AM ET",
+    "publishedAt": "2026-07-07T12:58:15+00:00",
     "source": "Android Authority",
     "title": "Fable 5's second act on Claude ends today, unless you're willing to pay more",
     "summary": "Android Authority is reporting this update. Open the article for the full story.",
@@ -156,6 +156,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 03, 03:37 PM ET",
+    "publishedAt": "2026-07-03T19:37:16+00:00",
+    "source": "Tech Times",
+    "title": "OpenAI Halves Inference Costs With Software Alone: GPUs Drop to Hundreds",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObG1lLTZIdDBzanFOMnNpNHZONlY2TzUzSXB4dTVFTGJBSXlZMUYwTjYtUDBJWERVTEFEb0pCc2hDRXc3OUptZkRXclYtZlBCQXJEblJ0TGFvS1BaZTh2WHlISDZhUzN5c0o2Tmsxbk53RHduNGxVRDBRZklaR19yVDhBcXFWd0R6QnR6cGtHMTV4RlRxQXlrNjd0ck1hcWllZDl2RjNxUHR2cEdjQUNwTXpOUzBtdzdubXc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 03, 09:30 AM ET",
@@ -220,9 +232,9 @@
     "label": "Claude Code",
     "time": "Jul 02, 06:00 AM ET",
     "publishedAt": "2026-07-02T10:00:00+00:00",
-    "source": "Venturebeat",
+    "source": "VentureBeat",
     "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
-    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGJkdWhUUHVBNm94Njl4NXpzQ0FfMnFsUWlGWnhwTWxZWGpHMU1DS1JnN0dtWWE0TEFacWdha3JKd2NEcDlUQXVlWHMtRG1veWJuVUl3Q1BUay1oTzhUSWFpV3k1dE45cjJBZlFnYmdtbEdqTGdoV0FkbGFXTDF4aW91M3dhNzNSd1ptTVAyZTZjcGtiR1lteFUxUzNRaC16MDVVWlNuNEQ1SjVEcXljYktiLWg4eTRHNXc?oc=5",
     "difficulty": "News"
@@ -249,18 +261,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 02:12 PM ET",
-    "publishedAt": "2026-06-30T18:12:09+00:00",
-    "source": "Mashable",
-    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
     "difficulty": "News"
   },
   {
