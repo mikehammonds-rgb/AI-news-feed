@@ -2,6 +2,42 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 07, 09:26 AM ET",
+    "publishedAt": "2026-07-07T13:26:44+00:00",
+    "source": "Android Authority",
+    "title": "Fable 5's second act on Claude ends today, unless you're willing to pay more",
+    "summary": "Android Authority is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVy1KWWpOSkxhYzEtazl5RUwyUzVGR3VCSzhPUnBSMXF3Ukd5c0VMQUkzaEpFcmY3SUdvQ0lMaUNvUEk1U05PX2VuUmFsbV90YlNrZV9WVElJdXlGRFA4cDdBSFJZVVptNDBfVklPakZlX1luUVBGWU1FajhnQVF4LVlzNGJTTkhFU2VCMS1R?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 07, 08:07 AM ET",
+    "publishedAt": "2026-07-07T12:07:00+00:00",
+    "source": "Let's Data Science",
+    "title": "AI Prompt Improves Junior Developers' API Code Quality",
+    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbENZTjU3NTNjcV9HS2JxeGRELUJ4ZnB2VHZkbjktSkVJOWxqRlJaQTQ4UUotcUNVcHhtVmxldF81VHh2UzRodXpKWmRBb0dBeTlYTFU3Yk1NeDUxUXdkZFZHZ0lNVkYwMDFWWnNIS1lBOEhtc21YNU5WNjhqSlQ3YllweFBFVTFCRDc2S3JOMzdCUUFuYXBXcEI2Yw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 07, 07:27 AM ET",
+    "publishedAt": "2026-07-07T11:27:45+00:00",
+    "source": "Malwarebytes",
+    "title": "Claude Code’s hidden tracker was an “experiment,” says Anthropic",
+    "summary": "Malwarebytes is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODBudnBldGVnY3pFRUhvS09kbC1oQ2FXUzhwT3VJZ2x2YmJSRXcwdjFhVlVsNHh0R3VVWTJUakNaUWpyc29BS1IwWTltR2VobUJtZVdWYnJFTGlDTEh6OHNEcHVCWnNfR1dhLTl2Qk1FNXVISGZhbk9pQUx2NXM5amFQQU9Fd0xxLWZzV0dIaHFzcEd0MS1mdGIzLWNnSGtyaDRIRWxTVDB4OTg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 07, 04:27 AM ET",
     "publishedAt": "2026-07-07T08:27:00+00:00",
     "source": "The Times of India",
@@ -88,9 +124,9 @@
     "label": "Gemini",
     "time": "Jul 05, 10:30 AM ET",
     "publishedAt": "2026-07-05T14:30:02+00:00",
-    "source": "Barchart.com",
+    "source": "Barchart",
     "title": "Google Just Launched 2 New AI Models. What That Means for GOOGL Stock.",
-    "summary": "Barchart.com is reporting this update. Open the article for the full story.",
+    "summary": "Barchart is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGF5MlBRYU0tbjUwWE56LVpMODB3U1ZEbDVfR1ZGbnc3MkZ1QzFPQzdJRUhFbFBBR0pLV3ZTMkRJUE9ZdDhzNzlkN204YmVyZmZGNmpBa2g1VFdfQUtQR2k4Zm1uRjNsaE9pNkgxMGpwaElZTnU4RXFTSG91N0F3TUsyQzlXOEhCM2Utc1Zpa0F5Y0MxNzRqUlpGZGI5QkpCaFpwWEppSUtha1NNSTAzeDJn?oc=5",
     "difficulty": "News"
@@ -129,30 +165,6 @@
     "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObG1lLTZIdDBzanFOMnNpNHZONlY2TzUzSXB4dTVFTGJBSXlZMUYwTjYtUDBJWERVTEFEb0pCc2hDRXc3OUptZkRXclYtZlBCQXJEblJ0TGFvS1BaZTh2WHlISDZhUzN5c0o2Tmsxbk53RHduNGxVRDBRZklaR19yVDhBcXFWd0R6QnR6cGtHMTV4RlRxQXlrNjd0ck1hcWllZDl2RjNxUHR2cEdjQUNwTXpOUzBtdzdubXc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 03, 09:18 AM ET",
-    "publishedAt": "2026-07-03T13:18:22+00:00",
-    "source": "Let's Data Science",
-    "title": "GitHub Copilot Browser Tools Reach General Availability In VS Code",
-    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkpqZlpyeHJPdU94akhtdlNoemFXTVB0RFY2c1BQUGw3U25WSDBPdkdzU0tFZ052R25oNDR6SmtsOG15NE1PaGdSdWdCTzlmZnQySFhXZkNEOTNrLVU3NkgwVnd6UlpTUnJQS1Nmdkw5UHh1UE5DVm5HcnVKQTJYUmFDbjZKbHV0ejI4MjkyMVpaakJ4M0YtdkNnWVZlWWl3d3JGNg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 03, 08:07 AM ET",
-    "publishedAt": "2026-07-03T12:07:42+00:00",
-    "source": "KDnuggets",
-    "title": "Getting Started with the Claude API in Python",
-    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MSnphcklERHRZdmFkSWJRUWhNY0ZYZjFIaGVUVnJmYzQ3WmkzWnpCTFozckNaTEFuWVFNTE5rQUVXZnJTNjdiT1dPTndXdXN2NHRQem5DbWtBd180MUNnVXJwajlzT1ZNTkFmb3Awd0VwU2YxcUM3R1gydw?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,6 +228,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 01, 07:04 AM ET",
+    "publishedAt": "2026-07-01T11:04:34+00:00",
+    "source": "AI Business",
+    "title": "Google Expands AI Imaging Offerings With Nano Banana Lite 2",
+    "summary": "AI Business is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHozb0FSbHg3NDU3VWxQQ05XYU9YYkNhVFNkZ2tkTGhWTHQ4NlR5REVVc0F4ODZJLUVFVnk1U0NabnZJSUtadXFwaDZCYzBuMDg2YllxZm83R3V5NXB1THhjVmJPdllCZEVpQURqdm02STk4MEdPRWR6X0dQTzhWLWdzemt3ZU5YcUYwN0hmWXlMd0VFOGc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 30, 08:21 PM ET",
@@ -225,18 +249,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 03:02 PM ET",
-    "publishedAt": "2026-06-30T19:02:38+00:00",
-    "source": "TechCrunch",
-    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFUzdWJQWmVwSGtGN3g2bDNLWURaSVEtUUZlb1BrWUVEVUUyRXZZOUxNUThjdzdvUHlHQmZsMjZfOFdsX1F1dGVqWGhpWklvTFhNREkxYnU4SkNSNHVlT0x2Si1wc1dxN3VtTkdzXzdvN3kzYl9MaHVsdGVBaFp4OFRjU1FWZXRNZ1l1X1NWWXNQNW1vU1dpV2YzZXphMURuN3VVQWtRUXJXZUx1TGc?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,6 +288,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 29, 03:00 AM ET",
+    "publishedAt": "2026-06-29T07:00:00+00:00",
+    "source": "blog.google",
+    "title": "Interactions API: our primary interface for Gemini models and agents",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 26, 01:02 PM ET",
@@ -285,18 +309,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 22, 01:38 PM ET",
-    "publishedAt": "2026-06-22T17:38:08+00:00",
-    "source": "blog.google",
-    "title": "Interactions API: our primary interface for Gemini models and agents",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
     "difficulty": "News"
   },
   {
