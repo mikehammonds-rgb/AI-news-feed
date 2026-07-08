@@ -1,5 +1,29 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 08, 02:19 AM ET",
+    "publishedAt": "2026-07-08T06:19:00+00:00",
+    "source": "The Times of India",
+    "title": "Anthropic extends Claude Fable 5 free offer till July 12: Eligibility and other details explained",
+    "summary": "The Times of India is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTUFvcGZ1Qk1xUmJLNGZ4MmxTZFZPSU1uZjVCTFFtNGRBc0tYRF9jVEFySjZMckk3U2FzV3dvdmljQnMyN0FvS3Vhb1F3VmVIM1lrS1hjcXNjMkJ0Q0NYdHpUUVAxZHk0a2w2RUxnMm9wZGFGaks4UjZyaExXckdmc01TYnNRTjFzTDZrNXgzTFB2VjdvUFBjbTNnT3N5cEZQYTA0WkhSQ0lJUmxKcExQd0NKQlAzQWlzRm1qeU5UTzZfSlI2aWxGbnpRbGxUeTlvVGJtSXdpbGZEaWFTNU4yNzVtbmdZaHJ2bnprUFNKLXFycnJHQ2djQ0huT1dVU212eVgxc1A1RGRIbXPSAZACQVVfeXFMUDh2OGg4NHBjNjI1Z1pqcXJOeDR6cUc2b0wzOFItd3V1OGdWZ3EzdUh5SUdsWGJYSmstbDRsV1I1NjBUMEVGbnRqRkV5amZkY0lpYUJjSEFkR2Z0OXRBUDRRS0tLeFRqX0NqVE45MnVfdjJESFpzUFVabEZ1RHNBbTFucHE2ZHF5MDZoaVhSWUI5MmFzUFU4eUFZWXJZdm5zVDRGc0dDU2N1T095MDltQTR0V3ZzNWZiakp0RzNBRjM0QjdrUmpsY0k0Um1KdlZNTmJoeGdMQXdPMXFFYnp2RFFmS3JyenB2aHR1YmNxV1g0N1pIS0xwbDc5VXBsbFZ3M0N5UzZHaFE4ajZZVzE4ZVc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 08, 01:30 AM ET",
+    "publishedAt": "2026-07-08T05:30:08+00:00",
+    "source": "Android Authority",
+    "title": "Fable 5's second act on Claude ends today, unless you're willing to pay more (Updated: Not yet)",
+    "summary": "Android Authority is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVy1KWWpOSkxhYzEtazl5RUwyUzVGR3VCSzhPUnBSMXF3Ukd5c0VMQUkzaEpFcmY3SUdvQ0lMaUNvUEk1U05PX2VuUmFsbV90YlNrZV9WVElJdXlGRFA4cDdBSFJZVVptNDBfVklPakZlX1luUVBGWU1FajhnQVF4LVlzNGJTTkhFU2VCMS1R?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 07, 02:55 PM ET",
@@ -33,18 +57,6 @@
     "summary": "Lawfare is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzExOTd0ODVQRF8zZzBkcnFJZFBta1dUQXhSTThDQlFrUVJnYk0zeEdwUTE0cjk3UTdQcndBc2w3M3FpbGZVY25oQlNaSFo3UUxRbHEwU044aUF2TGl6WmFtRzdEYlBoZzJDZ0R0cFNva1kxWmxQbFhEMUlfSlJTcWhuTDNxNkFMM0lqSENYVU5sOEdRUFh4YVlCRk9KZWRMNGNz?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 07, 09:20 AM ET",
-    "publishedAt": "2026-07-07T13:20:26+00:00",
-    "source": "Android Authority",
-    "title": "Fable 5's second act on Claude ends today, unless you're willing to pay more",
-    "summary": "Android Authority is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVy1KWWpOSkxhYzEtazl5RUwyUzVGR3VCSzhPUnBSMXF3Ukd5c0VMQUkzaEpFcmY3SUdvQ0lMaUNvUEk1U05PX2VuUmFsbV90YlNrZV9WVElJdXlGRFA4cDdBSFJZVVptNDBfVklPakZlX1luUVBGWU1FajhnQVF4LVlzNGJTTkhFU2VCMS1R?oc=5",
     "difficulty": "News"
   },
   {
@@ -264,18 +276,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 12:02 PM ET",
-    "publishedAt": "2026-06-30T16:02:58+00:00",
-    "source": "blog.google",
-    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekN6bWs1SGhfZTg5MEhSMzZRdmROT0tCRUdvVm9QYU9wR3NpeURFRmRiY2JCYUdoR1cybHVic0h2MnFIb2ZGSE5DM3JONEtwekFzcUJ2QnhsMjV3YjZYWmlxQ0dnYXN5NWZMdDExZm9RVnl6MDNEV25qLVQyaVN3S245WXN6WlFHR1NYYm14bS1JYUhmZFJaN244QWEyN1JIVHo1bUdNNG1OWEI3d2c?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 30, 12:00 PM ET",
@@ -285,6 +285,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "blog.google",
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekN6bWs1SGhfZTg5MEhSMzZRdmROT0tCRUdvVm9QYU9wR3NpeURFRmRiY2JCYUdoR1cybHVic0h2MnFIb2ZGSE5DM3JONEtwekFzcUJ2QnhsMjV3YjZYWmlxQ0dnYXN5NWZMdDExZm9RVnl6MDNEV25qLVQyaVN3S245WXN6WlFHR1NYYm14bS1JYUhmZFJaN244QWEyN1JIVHo1bUdNNG1OWEI3d2c?oc=5",
     "difficulty": "News"
   },
   {
