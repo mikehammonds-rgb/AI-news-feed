@@ -1,5 +1,29 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 08, 02:41 PM ET",
+    "publishedAt": "2026-07-08T18:41:57+00:00",
+    "source": "MarkTechPost",
+    "title": "Google AI Studio Adds 'Import from GitHub' to Build Mode, Turning an Existing Repo Into an Editable, Deployable App",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3RzSkZFUmhzV21CWTZMNDNzM2Z3ckZyYlpBU0g5TjJUeUtPZXNYUXZDR2tyUFdFZ2pMMkptTkUyS0M1UUlsTHd4UWFDZDRNblk0RUN6SmtRMmNsRjRxN2J3ZnJtX2d5S2EwemFFTGNpQ0hCaUpHaElSODJsOXBOUkg3TnUtMHN4NXFvTTZXcW55YnFiYkFQdUZxaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 08, 02:08 PM ET",
+    "publishedAt": "2026-07-08T18:08:21+00:00",
+    "source": "MarkTechPost",
+    "title": "OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcXFIMS1EVnVOTkEtdGtHY2t0NTJ5NTMxUXpJaFBfYlB6U2lUSHpGS0RlSlR4VnNUeFFfTXRQLU9LdkVmZi1pVW1ad1ViTVJISU5ZZ3RFaTB1cWU5VnNFWGVoeUhueG9sS29iekNxTHl6X2NvbHE4QV9yeS1BOEFmWks1NEF5ZmxUenAxWkFuaHlKdE41ZVdCbFBsS05NMlp4ejhVSnZleWd5cXk0UXQyRXpZVGREYVpuMUpyWUY4TmNXMWVZTjB4b0hzQlhObVVZNUZWbHIwLU95ZHB6cHFuaml1cThaSm8?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 08, 11:54 AM ET",
@@ -45,18 +69,6 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTF6WU5aTDJPMzlPZGUwYjVvUEQ5TkQzdGc5cC1JNlRxN1R0ajFfeEthN3lBSGJnbzdRT2ZjTUI1ZDdlaUhzQXAyT3B0NUZqTmljR1BIZkktRkNuOXY0ZFJadGZKcVJlcU9fdXZoUEZZVWRQSzc0TlFGY3pNdEZITlRQRlg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 08, 02:19 AM ET",
-    "publishedAt": "2026-07-08T06:19:00+00:00",
-    "source": "The Times of India",
-    "title": "Anthropic extends Claude Fable 5 free offer till July 12: Eligibility and other details explained",
-    "summary": "The Times of India is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTUFvcGZ1Qk1xUmJLNGZ4MmxTZFZPSU1uZjVCTFFtNGRBc0tYRF9jVEFySjZMckk3U2FzV3dvdmljQnMyN0FvS3Vhb1F3VmVIM1lrS1hjcXNjMkJ0Q0NYdHpUUVAxZHk0a2w2RUxnMm9wZGFGaks4UjZyaExXckdmc01TYnNRTjFzTDZrNXgzTFB2VjdvUFBjbTNnT3N5cEZQYTA0WkhSQ0lJUmxKcExQd0NKQlAzQWlzRm1qeU5UTzZfSlI2aWxGbnpRbGxUeTlvVGJtSXdpbGZEaWFTNU4yNzVtbmdZaHJ2bnprUFNKLXFycnJHQ2djQ0huT1dVU212eVgxc1A1RGRIbXPSAZACQVVfeXFMUDh2OGg4NHBjNjI1Z1pqcXJOeDR6cUc2b0wzOFItd3V1OGdWZ3EzdUh5SUdsWGJYSmstbDRsV1I1NjBUMEVGbnRqRkV5amZkY0lpYUJjSEFkR2Z0OXRBUDRRS0tLeFRqX0NqVE45MnVfdjJESFpzUFVabEZ1RHNBbTFucHE2ZHF5MDZoaVhSWUI5MmFzUFU4eUFZWXJZdm5zVDRGc0dDU2N1T095MDltQTR0V3ZzNWZiakp0RzNBRjM0QjdrUmpsY0k0Um1KdlZNTmJoeGdMQXdPMXFFYnp2RFFmS3JyenB2aHR1YmNxV1g0N1pIS0xwbDc5VXBsbFZ3M0N5UzZHaFE4ajZZVzE4ZVc?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,15 +132,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 07, 12:35 AM ET",
-    "publishedAt": "2026-07-07T04:35:09+00:00",
-    "source": "MarkTechPost",
-    "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 06, 09:32 PM ET",
+    "publishedAt": "2026-07-07T01:32:59+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Fable 5 Back After 19-Day US Export Ban [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjV2dTg5UUl2NUtTV3cza3dJVS1TX3kzU3cwVWhjTTAxeUFoZTlpSkwzX0t4TGdocVozenN3Z1ZUTGR1bC1zazBTaGlmUUhrdFJNeWFjRTFiM0htUDNtdERnd24xUnpaWlR5dXcya3ZkZ1VrX0lpWjc4WnpCenRUZkRLOWhrc2hnOTI0VmkwemZlY24yWEtz?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtR1BnZ1dyd1J5c3VNczJCSjBkZDQwQkxqdVVWT3VlT3p3dmkxYUwyOHZaQjF6YncwRGtCeEQ4akpxOW1vRTA1UjZxRGc5MkIyS3ZqWnQxODdzOWlsQzVkdlJGMFV0cUtUWmJvYVFFQWlxUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -153,18 +165,6 @@
     "summary": "Barchart.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGF5MlBRYU0tbjUwWE56LVpMODB3U1ZEbDVfR1ZGbnc3MkZ1QzFPQzdJRUhFbFBBR0pLV3ZTMkRJUE9ZdDhzNzlkN204YmVyZmZGNmpBa2g1VFdfQUtQR2k4Zm1uRjNsaE9pNkgxMGpwaElZTnU4RXFTSG91N0F3TUsyQzlXOEhCM2Utc1Zpa0F5Y0MxNzRqUlpGZGI5QkpCaFpwWEppSUtha1NNSTAzeDJn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 03, 09:36 PM ET",
-    "publishedAt": "2026-07-04T01:36:08+00:00",
-    "source": "tech-insider.org",
-    "title": "OpenAI Codex Hits 5M Weekly Users, Up 6x [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKVmRhUXRkQzZibEtKTFduOXNVWTVPcEo4RVE3Rlc0aDNIaDFiN2lHRTZLbU5IaVZYYzB1NFNIcnRPNnVLMVJoWGY2SWZkLUJzY3hMb2NDQ1B3N09wTE9lcXhic3ZsTXZ2Zl82RVJYRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,18 +213,6 @@
     "summary": "ZDNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yeGl0bVY0d1dBM3lBRGdvNnI0aHI0UkpkX1k5MUF6clJMZGNoY3ltWU84RU9lTHl6WmdOQ0k1SUoxVGNOZXh6TE1FRVpmQ3JVRXRWMFR1V1NEV05kT3otVjV2M3RPWFVCRC11c21JYVZfS1FLQ1prZUhxbw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 01, 02:23 PM ET",
-    "publishedAt": "2026-07-01T18:23:52+00:00",
-    "source": "blog.google",
-    "title": "The latest AI news we announced in June 2026",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSklUX3E0LWlteG0tQ3UycXBxQkdraXBVdDdEbVd4RzBtWXFuZTVkYWxXMUMzMm9vbHA0Q0Roa3JWd19ob1NCQUtIUUdBTlNoU0hMRmhSdU1pQU5yWU1zQmlVS2U5ay0zNkFxaGJjQUpwUGE0S1BCWVZHaFc3VjdQZmp6YjYyeUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -321,6 +309,18 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 24, 03:00 AM ET",
+    "publishedAt": "2026-05-24T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   },
   {
