@@ -1,5 +1,41 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 08, 11:44 PM ET",
+    "publishedAt": "2026-07-09T03:44:52+00:00",
+    "source": "Crypto Briefing",
+    "title": "Anthropic’s Claude Opus 4.8 hit by recurring outages as enterprise users grow restless",
+    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BTE95RWpYZkQ1MXRUeXJmSnlrY2RRSDVvel9panhkdElFVWhuNmFYODlRTF9CUUlLcHdQajRQenBWTS1qOUgzMzh5Rk5TNmtfcFgzSzlKdVhEZ1BrNlUybUl1dGFOXzBodEp3c1dwbVA1UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 08, 07:11 PM ET",
+    "publishedAt": "2026-07-08T23:11:35+00:00",
+    "source": "THE Journal: Technological Horizons in Education",
+    "title": "Anthropic Intros Lower-Cost Claude Sonnet 5",
+    "summary": "THE Journal: Technological Horizons in Education is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2NkTlptUDVjeDdzblpJb1FLdWdsM1BlNktVYldYMS1maHdmdVV0MXZjQjZ3RHBXMC03bHhJQlduWnJIVXhqbFR6T1RJRk10a3lZbElTdWtoUkZ5WUUteWZfZi1QVGpxUmRaZjRKcXFaTjA5TTdCZEI2VllkZ1k3R1FpXzd3dmo4MEJaaVV6TFpzZldSV0E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 08, 03:49 PM ET",
+    "publishedAt": "2026-07-08T19:49:22+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Introducing Claude apps gateway for AWS",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 08, 02:45 PM ET",
@@ -36,15 +72,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 08, 01:07 PM ET",
-    "publishedAt": "2026-07-08T17:07:38+00:00",
-    "source": "RSU by PriceLabs",
-    "title": "We've Been Explaining MCP in Theory. PriceLabs' New AI Connector Lets Us Show You in Practice.",
-    "summary": "RSU by PriceLabs is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 08, 12:55 PM ET",
+    "publishedAt": "2026-07-08T16:55:00+00:00",
+    "source": "9to5Mac",
+    "title": "OpenAI just upgraded ChatGPT voice mode in a major way, including CarPlay",
+    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnpDOUxGUDdFUzMzMWpCNlhiYUtSdDh1aE80QXY4dzNKYjFMMkpwVmNzanJoRWZMYlh1dEZ6eFN2aWlnN3ZWTVN6eW13MHVUZmFpaXEzMXhESDNGN016QTU4UVI1WEFzV25JTjZUOWRHSDZQQ00wVWlYWDNRVnpzbjRxZ1U3SmRXcUtiNm1jbkxOZmZpcURTSEZHUkotZVpScEJjMFRENE1ncFgzQUhnQ2lMeDduWnJMQWR6SWln?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVR5b0pzWWl4eDAyd1dWZExteHEzYlJRNzJWZHVhWDg1SkQ4SU9OMmhlZ1B2REtTd000bG45ZEdOS0t5VEh2TWN6U1FTZnpSVEo5dXRQckhlTXo2bk5HeWtFd2VlNExJdXZjLV90RHg1M3V5bkJlNWkzMm80d2QzQzVJQ1YyNWg0MGc0aEhKaHh6NDhac0ZCakk0RU5kN0ZvVHg4Qw?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 06, 05:08 AM ET",
-    "publishedAt": "2026-07-06T09:08:32+00:00",
-    "source": "MacRumors",
-    "title": "Claude Outage Currently Affecting Multiple Models [Update: Fixed]",
-    "summary": "MacRumors is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlNuT0hodGVaN0IzMFUydGNpei1QMjMydUxMVVlFNHp0UmRfelJpRDRBUHRhV2JOd3k0RUJyaGxjaGlOaDdCSDdPRldLVkFXaktnM1owYUM3Wm51aTZWMFNsUVZNVk9OMnZlY2RvZGhWMHJmaVcyZjhsTEtrRWM2YW9YZTlBandwX3ZTbGRGa1c?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 06, 03:00 AM ET",
@@ -189,6 +213,18 @@
     "summary": "Barchart.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGF5MlBRYU0tbjUwWE56LVpMODB3U1ZEbDVfR1ZGbnc3MkZ1QzFPQzdJRUhFbFBBR0pLV3ZTMkRJUE9ZdDhzNzlkN204YmVyZmZGNmpBa2g1VFdfQUtQR2k4Zm1uRjNsaE9pNkgxMGpwaElZTnU4RXFTSG91N0F3TUsyQzlXOEhCM2Utc1Zpa0F5Y0MxNzRqUlpGZGI5QkpCaFpwWEppSUtha1NNSTAzeDJn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 03, 09:36 PM ET",
+    "publishedAt": "2026-07-04T01:36:08+00:00",
+    "source": "tech-insider.org",
+    "title": "OpenAI Codex Hits 5M Weekly Users, Up 6x [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKVmRhUXRkQzZibEtKTFduOXNVWTVPcEo4RVE3Rlc0aDNIaDFiN2lHRTZLbU5IaVZYYzB1NFNIcnRPNnVLMVJoWGY2SWZkLUJzY3hMb2NDQ1B3N09wTE9lcXhic3ZsTXZ2Zl82RVJYRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -321,30 +357,6 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 24, 03:00 AM ET",
-    "publishedAt": "2026-05-24T07:00:00+00:00",
-    "source": "AI: Reset to Zero",
-    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
     "difficulty": "News"
   },
   {
