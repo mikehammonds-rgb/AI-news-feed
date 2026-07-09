@@ -1,5 +1,29 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 09, 01:31 AM ET",
+    "publishedAt": "2026-07-09T05:31:25+00:00",
+    "source": "cyberpress.org",
+    "title": "Agentic Botnets Attack Uses HalluSquatting to Hijack AI Coding Assistants",
+    "summary": "cyberpress.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qOEl5bHBwbmVFaU82Smsxbk5UbGt5TzNQZDlmWG9Cdlk1eGVuazRpUmhsZG5BWTQ4R00xX2UwWlJiWlpSMUg4X09CRkhPSkNXQ3QwSXNscnhSdlR4QldIeWhaQWdINGJ4MXdJZENZTU1OZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 09, 12:27 AM ET",
+    "publishedAt": "2026-07-09T04:27:00+00:00",
+    "source": "The Hacker News",
+    "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0RYaHZsSHIwam5CTUVCbFo5SEV6TWVyZmJXWjNVeTNOcjBMX0xJSS1tcUJnUUpXSFlqSUxMU21GbnY4bHJkOEM5OFBTWkxxTzJ4ZkktSXZJYzlEZnhEd01ZRFF6bTRSUFBLeEkwaTB3ZFNFYlhORGZhMkd5c0RZSTFn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 08, 11:44 PM ET",
@@ -14,13 +38,37 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 08, 07:11 PM ET",
-    "publishedAt": "2026-07-08T23:11:35+00:00",
+    "time": "Jul 08, 11:33 PM ET",
+    "publishedAt": "2026-07-09T03:33:21+00:00",
     "source": "THE Journal: Technological Horizons in Education",
     "title": "Anthropic Intros Lower-Cost Claude Sonnet 5",
     "summary": "THE Journal: Technological Horizons in Education is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2NkTlptUDVjeDdzblpJb1FLdWdsM1BlNktVYldYMS1maHdmdVV0MXZjQjZ3RHBXMC03bHhJQlduWnJIVXhqbFR6T1RJRk10a3lZbElTdWtoUkZ5WUUteWZfZi1QVGpxUmRaZjRKcXFaTjA5TTdCZEI2VllkZ1k3R1FpXzd3dmo4MEJaaVV6TFpzZldSV0E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 08, 10:34 PM ET",
+    "publishedAt": "2026-07-09T02:34:25+00:00",
+    "source": "aol.com",
+    "title": "Response incomplete Claude. Is Claude down? Claude api error",
+    "summary": "aol.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHNrY01RUjJTc0RtUVhOTWdRSzJiLXpQaFlURV9jeks1QzV1OU5DU0Y4b3pGMmxRbFBrQVJ3TEp0WDVrVkFOWEtud0E5RjFiX3JoZVNwdXYzTTZXeWlJdktFaG5iZHFvUXN2Ry01ZXFfX2xDQTF1d2hfcWtNdE04R2hXV1V0Nmg4MEE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 08, 07:15 PM ET",
+    "publishedAt": "2026-07-08T23:15:24+00:00",
+    "source": "EdTech Innovation Hub",
+    "title": "Duke's Fuqua School of Business to roll out OpenAI-powered classroom analysis tool this fall",
+    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPREdMc2dXTjB3cEFuVVhIMS1UV0pRU1l1OXhfM3JiS0VIaVJyQXV6Y2tXVC16SDFlMWJDczVfR3gtS0JTV0ZnZkd4T243WHgxQUlvclRYUmNzTmxRcWc0R1FqMlJobm9VTTBuOVFrSVJjQ0k5NzBRMW44bUl4eGhVN2VVV1l4cVpvVG50aUxYUjlSX3YzcXpfVk9BMmhwNjJFcHdEYXpDeW9WMFZDSWx6QXBtUWVNLWdSblhGQkJMclgxVFdxTmkwM0RtTDE?oc=5",
     "difficulty": "News"
   },
   {
@@ -62,18 +110,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 08, 02:08 PM ET",
-    "publishedAt": "2026-07-08T18:08:21+00:00",
-    "source": "MarkTechPost",
-    "title": "OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcXFIMS1EVnVOTkEtdGtHY2t0NTJ5NTMxUXpJaFBfYlB6U2lUSHpGS0RlSlR4VnNUeFFfTXRQLU9LdkVmZi1pVW1ad1ViTVJISU5ZZ3RFaTB1cWU5VnNFWGVoeUhueG9sS29iekNxTHl6X2NvbHE4QV9yeS1BOEFmWks1NEF5ZmxUenAxWkFuaHlKdE41ZVdCbFBsS05NMlp4ejhVSnZleWd5cXk0UXQyRXpZVGREYVpuMUpyWUY4TmNXMWVZTjB4b0hzQlhObVVZNUZWbHIwLU95ZHB6cHFuaml1cThaSm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jul 08, 12:55 PM ET",
     "publishedAt": "2026-07-08T16:55:00+00:00",
     "source": "9to5Mac",
@@ -108,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 08, 10:00 AM ET",
-    "publishedAt": "2026-07-08T14:00:00+00:00",
-    "source": "Let's Data Science",
-    "title": "AI coding agents expose GhostApproval sandbox bypass",
-    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWS1ydEdVSnhwMjVLRzJyU0laS3R3eU1yWm9VMm5CQmJMbmlWRS1WUGNHN1VDMlJPdXZGeFNKeU12OVQ3XzlnRDhza1JyV2NXUzlBWlp1REpJanhNWVhhVjVzVnpRYUVQNFA5WjZnOUpUU2p3enZsenFmZmY4aFR6cms5bXZqQ3IxNDFveGRZSm9HQUJsSzdmcURn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 08, 09:59 AM ET",
@@ -146,42 +170,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 08, 01:30 AM ET",
-    "publishedAt": "2026-07-08T05:30:08+00:00",
-    "source": "Android Authority",
-    "title": "Fable 5's second act on Claude ends today, unless you're willing to pay more (Updated: Not yet)",
-    "summary": "Android Authority is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVy1KWWpOSkxhYzEtazl5RUwyUzVGR3VCSzhPUnBSMXF3Ukd5c0VMQUkzaEpFcmY3SUdvQ0lMaUNvUEk1U05PX2VuUmFsbV90YlNrZV9WVElJdXlGRFA4cDdBSFJZVVptNDBfVklPakZlX1luUVBGWU1FajhnQVF4LVlzNGJTTkhFU2VCMS1R?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 07, 08:05 PM ET",
-    "publishedAt": "2026-07-08T00:05:22+00:00",
-    "source": "AOL.com",
-    "title": "Response incomplete Claude. Is Claude down? Claude api error",
-    "summary": "AOL.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTzhqQzJjblByZUw2QmNMQ2picVpwd0R3OVV2Q1ItdU16b2theW9LcDRvNmZzT3BJdGE2TjNLUFNhZFlLMUNTZ2VWSUtPc0ZLQllpZHdpYlp4UURGeXhwRGh3djdpU0pyeHl2VXYtdkZMS1JCdGdZUG5WazFPNDVGQXhLUnh3Vy1kNHc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 07, 09:17 AM ET",
-    "publishedAt": "2026-07-07T13:17:00+00:00",
-    "source": "Let's Data Science",
-    "title": "OpenAI Releases GPT-Realtime-2.1 Voice Models With Lower Latency",
-    "summary": "Let's Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjFycFU4UHB2cEhvQUMxNzI1TzFtcWY1aE1tWnVqUjBHaVRjVEpyZDBPTzF5WkVnSC0yb3Jzb0gzMW5ld1hXdWk1ZjRWemYtbmk2cWVkTmNPcDkzT2hrbnZnODhWQmIwT2huZU5KOUtseUcwbFF0VFFKTnlJZEk1TkJGb0g2QS1HbUpXTkdvYklvb3NwNXVfQjFValpYLXRFWXlGWA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jul 07, 07:27 AM ET",
     "publishedAt": "2026-07-07T11:27:45+00:00",
     "source": "Malwarebytes",
@@ -194,13 +182,25 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 06, 03:00 AM ET",
-    "publishedAt": "2026-07-06T07:00:00+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "Duke Fuqua to roll out OpenAI-powered classroom analysis tool this fall | ETIH EdTech News",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "time": "Jul 07, 12:35 AM ET",
+    "publishedAt": "2026-07-07T04:35:09+00:00",
+    "source": "MarkTechPost",
+    "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPREdMc2dXTjB3cEFuVVhIMS1UV0pRU1l1OXhfM3JiS0VIaVJyQXV6Y2tXVC16SDFlMWJDczVfR3gtS0JTV0ZnZkd4T243WHgxQUlvclRYUmNzTmxRcWc0R1FqMlJobm9VTTBuOVFrSVJjQ0k5NzBRMW44bUl4eGhVN2VVV1l4cVpvVG50aUxYUjlSX3YzcXpfVk9BMmhwNjJFcHdEYXpDeW9WMFZDSWx6QXBtUWVNLWdSblhGQkJMclgxVFdxTmkwM0RtTDE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjV2dTg5UUl2NUtTV3cza3dJVS1TX3kzU3cwVWhjTTAxeUFoZTlpSkwzX0t4TGdocVozenN3Z1ZUTGR1bC1zazBTaGlmUUhrdFJNeWFjRTFiM0htUDNtdERnd24xUnpaWlR5dXcya3ZkZ1VrX0lpWjc4WnpCenRUZkRLOWhrc2hnOTI0VmkwemZlY24yWEtz?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 06, 05:08 AM ET",
+    "publishedAt": "2026-07-06T09:08:32+00:00",
+    "source": "MacRumors",
+    "title": "Claude Outage Currently Affecting Multiple Models [Update: Fixed]",
+    "summary": "MacRumors is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlNuT0hodGVaN0IzMFUydGNpei1QMjMydUxMVVlFNHp0UmRfelJpRDRBUHRhV2JOd3k0RUJyaGxjaGlOaDdCSDdPRldLVkFXaktnM1owYUM3Wm51aTZWMFNsUVZNVk9OMnZlY2RvZGhWMHJmaVcyZjhsTEtrRWM2YW9YZTlBandwX3ZTbGRGa1c?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 03, 09:36 PM ET",
-    "publishedAt": "2026-07-04T01:36:08+00:00",
-    "source": "tech-insider.org",
-    "title": "OpenAI Codex Hits 5M Weekly Users, Up 6x [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKVmRhUXRkQzZibEtKTFduOXNVWTVPcEo4RVE3Rlc0aDNIaDFiN2lHRTZLbU5IaVZYYzB1NFNIcnRPNnVLMVJoWGY2SWZkLUJzY3hMb2NDQ1B3N09wTE9lcXhic3ZsTXZ2Zl82RVJYRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 03, 09:30 AM ET",
@@ -237,18 +225,6 @@
     "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRV9rS0FZSE5ZZ3pfSGlfWHpNRXhsbkZYbllPQ2xzbS1aVzFjTTNyWnJUblBGX3ppYnMwT09Wa1U4d0ZJREhHZ1UzWjJMWEkycmh2WVR6VjZIOWVYRks3YlpwVzBQdjhsSTNwaHkyQVhxSXB0N05qRzRHS1NBY3JTTQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 02, 12:43 PM ET",
-    "publishedAt": "2026-07-02T16:43:40+00:00",
-    "source": "DevOps.com",
-    "title": "Z.ai Debuts ZCode to Compete With GitHub Copilot, Cursor and Anthropic",
-    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1RaY1BoY3JYWERNc1FrZjRrMENyaTEwcWRIV09BOXh3QldBa3ZHb0pGdXFaYjExZWVEYmVtMVUxZUdYdjFicmgwMzJfTGNFTWhvXzMyT0xZREF3Q25pcTBYZFQ3WlByc1loalh0Tm1vY1M5LXV0d0g5LWFhcXJiSDQ3cHN3UmthV1o1bk84b1dlNE0?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,6 +333,30 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 24, 03:00 AM ET",
+    "publishedAt": "2026-05-24T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "May 20, 03:00 AM ET",
+    "publishedAt": "2026-05-20T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
     "difficulty": "News"
   },
   {
