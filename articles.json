@@ -1,5 +1,41 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 02:30 PM ET",
+    "publishedAt": "2026-07-09T18:30:00+00:00",
+    "source": "WIRED",
+    "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+    "summary": "WIRED is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWFPUzFGbjVnQXpCQmh0d3BybFlmSnR1R0E0WUpLdXBVVTN6eENPajNoS25udGFHSmpITnptUWRScGlXb1o5NnNWMHNFY2pSRHpIS21hZGdpNi1PbHZ0NzJrVThQcDFNaVRSbGRJLVBSa21XX0RmTDBFOXNWRnhhWmdOVU1SV1Nsd1Z4N1BhRDFSSFVhWEdMM2ZaaVFDZlhGVkl6emp3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 01:48 PM ET",
+    "publishedAt": "2026-07-09T17:48:45+00:00",
+    "source": "OpenAI",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 01:01 PM ET",
+    "publishedAt": "2026-07-09T17:01:17+00:00",
+    "source": "the-decoder.com",
+    "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVC1fZnVoOHMxQlZLMXJ6VDRJeFhlQ2k0MzBsR2lQWmE0aFBQNlM4T2lRT1h3dFl3TTA3TkhPeXZ1R1JHb2swWmItdXJLMy04MDR1blMyRy1FTFBxYzR6T1IwOVJzZGFabHd1bk5taXRTcEJVSC1tR05XMWJfQWJJTG8zSUlfWURwS1VVdzBTUy1Sc2JGSVBvQ3V1UkU3b2VvOEdpSmliSmgwcE0xTkJYTDVkc0JEYWc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 09, 12:48 PM ET",
@@ -48,18 +84,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 09, 06:33 AM ET",
-    "publishedAt": "2026-07-09T10:33:01+00:00",
-    "source": "CyberSecurityNews",
-    "title": "New HalluSquatting Attack Allows Hackers to Poison AI Coding Assistants Into Installing Botnet Malware",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkNaSnUtVGxaVkx0WFZmZ0tYdXJFMjdDUnJPYmlWclp1MElEQVFaTkM2X3E5cnNGbUlDWmR4aHJobGR6ZTlYakVFbTgtQU9iY3NCeEZtWThZNU1ycGR2U0wtN0lSNnFyZ0RrNlV4RDdPQXVqSU1WYVFGQkRra2IwQUZ5aEdEOVnSAYwBQVVfeXFMTUpJWFFwWU9HNEd0NlZ6UmJQWTV5N282ZmhyOUhIOWdRalJQRVR3bmgwUlJrMFdsc1J6UEZBUVczdDQzeDljQ0E0RlpoLTNRWFlmaDdhV3RkdFdETjU3bUktNTY5TE5yX2NsbHI4WlVWdVg2dWthSFFfRE1yTnVRbms4LWRaUklTbU1MV3M?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 09, 03:35 AM ET",
@@ -72,15 +96,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 09, 01:31 AM ET",
-    "publishedAt": "2026-07-09T05:31:25+00:00",
-    "source": "cyberpress.org",
-    "title": "Agentic Botnets Attack Uses HalluSquatting to Hijack AI Coding Assistants",
-    "summary": "cyberpress.org is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 02:37 AM ET",
+    "publishedAt": "2026-07-09T06:37:51+00:00",
+    "source": "CyberSecurityNews",
+    "title": "New GhostApproval Vulnerability Affects Amazon Q, Claude Code, Cursor, and Other AI Agents",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qOEl5bHBwbmVFaU82Smsxbk5UbGt5TzNQZDlmWG9Cdlk1eGVuazRpUmhsZG5BWTQ4R00xX2UwWlJiWlpSMUg4X09CRkhPSkNXQ3QwSXNscnhSdlR4QldIeWhaQWdINGJ4MXdJZENZTU1OZw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OTTViZ1dKQTFqRXpOMXdjOE01MzJYVDByY0V4NmNWbTVBODBhQ3BVTUNNZ243ejZtM1A3cFRGWkl3NTlXd3ZkRmNVQl9DR2VwU2dmUVM2RENmMnVhS1BhMVk1dFJHbmMxS3fSAW9BVV95cUxOUGtWcnAxTkhfdGdGempMSHRKQzJ3UDNBdVp6TUxWbG1KRy1UU09TLTFzY21TWUtzNzNhWGJHTmNYeDF2YW1OR2RzQ1d3bXdzZC03OW5tU3VCV2djS1gtVnFhTmhNc1BienBlck41alU?oc=5",
     "difficulty": "News"
   },
   {
@@ -93,18 +117,6 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0RYaHZsSHIwam5CTUVCbFo5SEV6TWVyZmJXWjNVeTNOcjBMX0xJSS1tcUJnUUpXSFlqSUxMU21GbnY4bHJkOEM5OFBTWkxxTzJ4ZkktSXZJYzlEZnhEd01ZRFF6bTRSUFBLeEkwaTB3ZFNFYlhORGZhMkd5c0RZSTFn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 08, 11:44 PM ET",
-    "publishedAt": "2026-07-09T03:44:52+00:00",
-    "source": "Crypto Briefing",
-    "title": "Anthropic’s Claude Opus 4.8 hit by recurring outages as enterprise users grow restless",
-    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BTE95RWpYZkQ1MXRUeXJmSnlrY2RRSDVvel9panhkdElFVWhuNmFYODlRTF9CUUlLcHdQajRQenBWTS1qOUgzMzh5Rk5TNmtfcFgzSzlKdVhEZ1BrNlUybUl1dGFOXzBodEp3c1dwbVA1UQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,6 +192,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 08, 07:21 AM ET",
+    "publishedAt": "2026-07-08T11:21:00+00:00",
+    "source": "The Hacker News",
+    "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTF6WU5aTDJPMzlPZGUwYjVvUEQ5TkQzdGc5cC1JNlRxN1R0ajFfeEthN3lBSGJnbzdRT2ZjTUI1ZDdlaUhzQXAyT3B0NUZqTmljR1BIZkktRkNuOXY0ZFJadGZKcVJlcU9fdXZoUEZZVWRQSzc0TlFGY3pNdEZITlRQRlg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 08, 01:30 AM ET",
@@ -240,15 +264,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 03, 09:36 PM ET",
-    "publishedAt": "2026-07-04T01:36:08+00:00",
-    "source": "tech-insider.org",
-    "title": "OpenAI Codex Hits 5M Weekly Users, Up 6x [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 02, 12:43 PM ET",
+    "publishedAt": "2026-07-02T16:43:40+00:00",
+    "source": "DevOps.com",
+    "title": "Z.ai Debuts ZCode to Compete With GitHub Copilot, Cursor and Anthropic",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKVmRhUXRkQzZibEtKTFduOXNVWTVPcEo4RVE3Rlc0aDNIaDFiN2lHRTZLbU5IaVZYYzB1NFNIcnRPNnVLMVJoWGY2SWZkLUJzY3hMb2NDQ1B3N09wTE9lcXhic3ZsTXZ2Zl82RVJYRQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1RaY1BoY3JYWERNc1FrZjRrMENyaTEwcWRIV09BOXh3QldBa3ZHb0pGdXFaYjExZWVEYmVtMVUxZUdYdjFicmgwMzJfTGNFTWhvXzMyT0xZREF3Q25pcTBYZFQ3WlByc1loalh0Tm1vY1M5LXV0d0g5LWFhcXJiSDQ3cHN3UmthV1o1bk84b1dlNE0?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,15 +324,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 26, 01:02 PM ET",
-    "publishedAt": "2026-06-26T17:02:35+00:00",
-    "source": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 29, 09:33 PM ET",
+    "publishedAt": "2026-06-30T01:33:24+00:00",
+    "source": "tech-insider.org",
+    "title": "AI Coding Assistants: Claude Code Ties Cursor at 18% [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqZDBMMU05Y09EQ1JxY2M2Y2t3Z0ZLa0ZucHlfZmdjcDhUZ0lBZC1GWWk1cVIwX0Z6MVlab29hQTN5MzRORDhhTzlUY01XNnByMUxJVFpTZ1BNWHhoV2tqcHhSQ3o?oc=5",
     "difficulty": "News"
   },
   {
@@ -333,30 +357,6 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 16, 03:00 AM ET",
-    "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "CBS News",
-    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "CBS News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
     "difficulty": "News"
   },
   {
