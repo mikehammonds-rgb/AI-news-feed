@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 09, 07:58 AM ET",
+    "publishedAt": "2026-07-09T11:58:21+00:00",
+    "source": "bestmediainfo.com",
+    "title": "Google brings Gemini-powered ad tools to India, with focus on agentic marketing",
+    "summary": "bestmediainfo.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOTc5TTBaMllXVnJZejRoXzRkSWJ0WC1wRmdVM3FoaXY2andES0hXcnVKV1BVWUlPTkpSYWFsaFhIRDRweTBKTTNQWm8tZHh2dFJmTFB5SzN1cU5ITnJiV0dLdTg3WEZqLVVYVDFJMGpLT3FjX1VCbWNibkF2NmNDMU05MjBMZVBnNUNLaTNxS2QzUmI1OVNadDJGdEZueVQ0T1V3RmJwNVl2VG4xMHQ0TkRZdi13ZWpTSUNtN284U3FuejhZWVpIcjZIN0k1WHNzWks2VG8wLV_SAdgBQVVfeXFMTjk3OU0wWjJZV1ZyWXo0aF80ZElidFgtcEZnVTNxaGl2Nmp3REtIV3J1SldQVVlJT05KUmFhbGhYSEQ0cHkwSk0zUFpvLWR4dnRSZkxQeUszdXFOSE5yYldHS3U4N1hGai1VWFQxSTBqS09xY19VQm1jYm5BdjZjQzFNOTIwTGVQZzVDS2kzcUtkM1JiNTlTWnQyRnRGbnlUNE9Vd0ZicDVZdlRuMTB0NE5EWXYtd2VqU0lDbTdvOFNxbno4WVlaSHI2SDdJNVhzc1pLNlRvMC1f?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 09, 03:35 AM ET",
@@ -89,7 +101,7 @@
     "time": "Jul 08, 03:49 PM ET",
     "publishedAt": "2026-07-08T19:49:22+00:00",
     "source": "Amazon Web Services (AWS)",
-    "title": "Introducing Claude apps gateway for AWS",
+    "title": "Introducing Claude apps gateway for AWS | Amazon Web Services",
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
@@ -144,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 08, 11:54 AM ET",
-    "publishedAt": "2026-07-08T15:54:14+00:00",
-    "source": "Tom's Hardware",
-    "title": "China alleges that Claude Code contains backdoors, calls mechanism 'a serious threat' — Gov't claims Claude sends sensitive information to remote servers without consent",
-    "summary": "Tom's Hardware is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQdE9mQ3lreHY4Q1NURGV2b2EzYXdqQkdBVjZ3dWc1MHZTdUlQdGVTa0VFZnFJUDFkV3B5VzczZVVaelpKc2JTUkNyQmViQVM2Yi1NT1BWVWNhMVZ6WkhiRDJDWWVOa0dpS2UzYXJKc05Ha21FbFJ4RE9NY3ZkcW5TMXdoT1RqOC1SRkRhOEZ3aTNLVHNEUF9FMlQyVndaYUdJM2ZzX0hiSXBqdkpWX3pBcTVnR2RyNGZmQ1NiRU9EamQ4UnJoWkRpLUdKaEx0LXdma3VoVmZ5T0swWi1BWmc1TzVJVlVtdmZwRXR2bWFESUNBU0xBaEJWdkg3TjJQS2EwMkJwczI4RzRwVlFWU1ExUElsbGo5SUIyODk3bjlHVE5wbTEyM0lnVlFLZDM2S0VZV1A5TWVhZzBaeVpUSHJWSlpQcGNQaEpra1ZsZ3pPOA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 08, 10:00 AM ET",
@@ -182,13 +182,13 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jul 08, 07:21 AM ET",
-    "publishedAt": "2026-07-08T11:21:00+00:00",
-    "source": "The Hacker News",
-    "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "time": "Jul 08, 03:00 AM ET",
+    "publishedAt": "2026-07-08T07:00:51+00:00",
+    "source": "Ars Technica",
+    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTF6WU5aTDJPMzlPZGUwYjVvUEQ5TkQzdGc5cC1JNlRxN1R0ajFfeEthN3lBSGJnbzdRT2ZjTUI1ZDdlaUhzQXAyT3B0NUZqTmljR1BIZkktRkNuOXY0ZFJadGZKcVJlcU9fdXZoUEZZVWRQSzc0TlFGY3pNdEZITlRQRlg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ3BNYXBDNy1QTWFQbk9OM1lxR1JJQTdjUU1VdWw5ZWVGM2VCNnJ6RjM0U0hqSndyZ19na1ZkNFk1eXRBWjVlSXJ4OXhZQWVrWUdEVFo1LVFQMjlzTjlFRThjZWRTSHNmSWlES3ZUbGszdF9wSHNzT1k1M2FCc3pES2xJRWFMRGxzZjduSGN6d0Q3WTktcWhtRldhM1owM1pTMTBhVnY3UVdrYXNTN3FDdEl3RktjMzA?oc=5",
     "difficulty": "News"
   },
   {
@@ -240,15 +240,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 03, 09:30 AM ET",
-    "publishedAt": "2026-07-03T13:30:19+00:00",
-    "source": "MakeUseOf",
-    "title": "I stopped waiting for Android Studio and built my first app in Google AI Studio instead",
-    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 03, 08:03 PM ET",
+    "publishedAt": "2026-07-04T00:03:00+00:00",
+    "source": "Asbury Park Press",
+    "title": "Response incomplete Claude. Is Claude down? Claude api error",
+    "summary": "Asbury Park Press is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRV9rS0FZSE5ZZ3pfSGlfWHpNRXhsbkZYbllPQ2xzbS1aVzFjTTNyWnJUblBGX3ppYnMwT09Wa1U4d0ZJREhHZ1UzWjJMWEkycmh2WVR6VjZIOWVYRks3YlpwVzBQdjhsSTNwaHkyQVhxSXB0N05qRzRHS1NBY3JTTQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONF83OC1rSC1tOUV4Z0tTVU9vSWRSSDROTEZZcnp3QU91Y3ZJbHhEamVBaGFEZHRMZHNQdGNQTUsydWlERlFfbGszN2Zob21aZUVCSUcyWWFIM2NMTm9hc1ZfcTZoTkQ2cEJxMXNDVl94b3FFOWRFQ0VRX0Q0ekJCemdEcFFYU19Rc0RXWmYzcHA2c216MzdCZFRlT0c4eDZKbnB5Ump3cW1OX3ItQ0loX2twWTc?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,6 +312,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 29, 09:33 PM ET",
+    "publishedAt": "2026-06-30T01:33:24+00:00",
+    "source": "tech-insider.org",
+    "title": "AI Coding Assistants: Claude Code Ties Cursor at 18% [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqZDBMMU05Y09EQ1JxY2M2Y2t3Z0ZLa0ZucHlfZmdjcDhUZ0lBZC1GWWk1cVIwX0Z6MVlab29hQTN5MzRORDhhTzlUY01XNnByMUxJVFpTZ1BNWHhoV2tqcHhSQ3o?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 22, 01:38 PM ET",
@@ -333,18 +345,6 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 16, 03:00 AM ET",
-    "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "CBS News",
-    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "CBS News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   },
   {
