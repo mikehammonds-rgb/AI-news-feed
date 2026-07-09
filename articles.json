@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 03:35 AM ET",
+    "publishedAt": "2026-07-09T07:35:19+00:00",
+    "source": "EdTech Innovation Hub",
+    "title": "OpenAI rolls out GPT-Live voice models for more natural ChatGPT conversations",
+    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVVCQkM1ZTdEQ3ZXREZzNlVnQ0JpMXZyRVNXclNnajBOWi1MTlRSRWw1alJETVpoVGdPbmkzZ3Z1WE1PRE5ZRF9VSXVxLXI0TF8tVUJBN0V3REVpeWt1RkZBdmZxbElyTnM4aVdwaFJTTjJNZDZ3aFQ4QmltSDNScHNEcEpQMUh3REhnRW9hOV83b3FJY25jVjZKUWMyTUxDdnhpMmlFaXRTRk05SGx4LUl0UTJJZm4tcnc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 09, 01:31 AM ET",
@@ -9,6 +21,18 @@
     "summary": "cyberpress.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qOEl5bHBwbmVFaU82Smsxbk5UbGt5TzNQZDlmWG9Cdlk1eGVuazRpUmhsZG5BWTQ4R00xX2UwWlJiWlpSMUg4X09CRkhPSkNXQ3QwSXNscnhSdlR4QldIeWhaQWdINGJ4MXdJZENZTU1OZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 01:16 AM ET",
+    "publishedAt": "2026-07-09T05:16:54+00:00",
+    "source": "TechGig",
+    "title": "OpenAI Releases Realtime API Models: Lower Latency, AI Reasoning for Developers",
+    "summary": "TechGig is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSXloeXVjZWFEXzVvQ0V1X25VZTFhSlpNdzFJZ0pyeThGcnZ2aU1fY0VVU0pHaVFWdU5HWGg0NUlDbFBtY2RTZGpqQzFLRVVUazNQZW8tNjkxVXNSTmlqTk9sRm5VcmplbDQzOTFiUlJBWUw2eVNWU2NmUEk1U0tGdWVRTXBVSG1tMFRFQkRYUVJYWm1TSkx3V25YY2ZWN3psaDlQUGY1RzAtWGhUMjB2aTY2dHRRUdIBuwFBVV95cUxQZVMtWUxxQjhPbXh5d1ZMdjdudmpneDZHQS13cXkzeHBCRkw1TG1uOUd1V3VzMDdWMVh0X01fNW9zSHpBZDBMMmp3WmFBYXpCRm80aFhDaEs0cVRDbGxsR01VN3lEeFdtT2FwcWZxcnRMaWk2VjJBNi03SU9PSjl0aGdTNktwMW02c09YNzE4dHh0eER0ZE1YVHdzN2ZuWENVMjNZNGlqRkVrUlVqbTdMaDJEUWhlT1UxUTVr?oc=5",
     "difficulty": "News"
   },
   {
@@ -45,18 +69,6 @@
     "summary": "THE Journal: Technological Horizons in Education is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2NkTlptUDVjeDdzblpJb1FLdWdsM1BlNktVYldYMS1maHdmdVV0MXZjQjZ3RHBXMC03bHhJQlduWnJIVXhqbFR6T1RJRk10a3lZbElTdWtoUkZ5WUUteWZfZi1QVGpxUmRaZjRKcXFaTjA5TTdCZEI2VllkZ1k3R1FpXzd3dmo4MEJaaVV6TFpzZldSV0E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 08, 10:34 PM ET",
-    "publishedAt": "2026-07-09T02:34:25+00:00",
-    "source": "aol.com",
-    "title": "Response incomplete Claude. Is Claude down? Claude api error",
-    "summary": "aol.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHNrY01RUjJTc0RtUVhOTWdRSzJiLXpQaFlURV9jeks1QzV1OU5DU0Y4b3pGMmxRbFBrQVJ3TEp0WDVrVkFOWEtud0E5RjFiX3JoZVNwdXYzTTZXeWlJdktFaG5iZHFvUXN2Ry01ZXFfX2xDQTF1d2hfcWtNdE04R2hXV1V0Nmg4MEE?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,6 +117,18 @@
     "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3RzSkZFUmhzV21CWTZMNDNzM2Z3ckZyYlpBU0g5TjJUeUtPZXNYUXZDR2tyUFdFZ2pMMkptTkUyS0M1UUlsTHd4UWFDZDRNblk0RUN6SmtRMmNsRjRxN2J3ZnJtX2d5S2EwemFFTGNpQ0hCaUpHaElSODJsOXBOUkg3TnUtMHN4NXFvTTZXcW55YnFiYkFQdUZxaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 08, 02:08 PM ET",
+    "publishedAt": "2026-07-08T18:08:21+00:00",
+    "source": "MarkTechPost",
+    "title": "OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcXFIMS1EVnVOTkEtdGtHY2t0NTJ5NTMxUXpJaFBfYlB6U2lUSHpGS0RlSlR4VnNUeFFfTXRQLU9LdkVmZi1pVW1ad1ViTVJISU5ZZ3RFaTB1cWU5VnNFWGVoeUhueG9sS29iekNxTHl6X2NvbHE4QV9yeS1BOEFmWks1NEF5ZmxUenAxWkFuaHlKdE41ZVdCbFBsS05NMlp4ejhVSnZleWd5cXk0UXQyRXpZVGREYVpuMUpyWUY4TmNXMWVZTjB4b0hzQlhObVVZNUZWbHIwLU95ZHB6cHFuaml1cThaSm8?oc=5",
     "difficulty": "News"
   },
   {
@@ -170,6 +194,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 08, 01:30 AM ET",
+    "publishedAt": "2026-07-08T05:30:08+00:00",
+    "source": "Android Authority",
+    "title": "Fable 5's second act on Claude ends today, unless you're willing to pay more (Updated: Not yet)",
+    "summary": "Android Authority is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVy1KWWpOSkxhYzEtazl5RUwyUzVGR3VCSzhPUnBSMXF3Ukd5c0VMQUkzaEpFcmY3SUdvQ0lMaUNvUEk1U05PX2VuUmFsbV90YlNrZV9WVElJdXlGRFA4cDdBSFJZVVptNDBfVklPakZlX1luUVBGWU1FajhnQVF4LVlzNGJTTkhFU2VCMS1R?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 07, 07:27 AM ET",
     "publishedAt": "2026-07-07T11:27:45+00:00",
     "source": "Malwarebytes",
@@ -177,18 +213,6 @@
     "summary": "Malwarebytes is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODBudnBldGVnY3pFRUhvS09kbC1oQ2FXUzhwT3VJZ2x2YmJSRXcwdjFhVlVsNHh0R3VVWTJUakNaUWpyc29BS1IwWTltR2VobUJtZVdWYnJFTGlDTEh6OHNEcHVCWnNfR1dhLTl2Qk1FNXVISGZhbk9pQUx2NXM5amFQQU9Fd0xxLWZzV0dIaHFzcEd0MS1mdGIzLWNnSGtyaDRIRWxTVDB4OTg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 07, 12:35 AM ET",
-    "publishedAt": "2026-07-07T04:35:09+00:00",
-    "source": "MarkTechPost",
-    "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjV2dTg5UUl2NUtTV3cza3dJVS1TX3kzU3cwVWhjTTAxeUFoZTlpSkwzX0t4TGdocVozenN3Z1ZUTGR1bC1zazBTaGlmUUhrdFJNeWFjRTFiM0htUDNtdERnd24xUnpaWlR5dXcya3ZkZ1VrX0lpWjc4WnpCenRUZkRLOWhrc2hnOTI0VmkwemZlY24yWEtz?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,15 +252,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 02, 08:51 AM ET",
-    "publishedAt": "2026-07-02T12:51:00+00:00",
-    "source": "ZDNET",
-    "title": "How I set OpenAI API usage limits to stop agent overspending and other AI billing nightmares",
-    "summary": "ZDNET is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 02, 12:43 PM ET",
+    "publishedAt": "2026-07-02T16:43:40+00:00",
+    "source": "DevOps.com",
+    "title": "Z.ai Debuts ZCode to Compete With GitHub Copilot, Cursor and Anthropic",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yeGl0bVY0d1dBM3lBRGdvNnI0aHI0UkpkX1k5MUF6clJMZGNoY3ltWU84RU9lTHl6WmdOQ0k1SUoxVGNOZXh6TE1FRVpmQ3JVRXRWMFR1V1NEV05kT3otVjV2M3RPWFVCRC11c21JYVZfS1FLQ1prZUhxbw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1RaY1BoY3JYWERNc1FrZjRrMENyaTEwcWRIV09BOXh3QldBa3ZHb0pGdXFaYjExZWVEYmVtMVUxZUdYdjFicmgwMzJfTGNFTWhvXzMyT0xZREF3Q25pcTBYZFQ3WlByc1loalh0Tm1vY1M5LXV0d0g5LWFhcXJiSDQ3cHN3UmthV1o1bk84b1dlNE0?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,18 +312,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 26, 01:02 PM ET",
-    "publishedAt": "2026-06-26T17:02:35+00:00",
-    "source": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 22, 01:38 PM ET",
@@ -338,30 +350,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "May 24, 03:00 AM ET",
-    "publishedAt": "2026-05-24T07:00:00+00:00",
-    "source": "AI: Reset to Zero",
-    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "May 19, 03:00 AM ET",
     "publishedAt": "2026-05-19T07:00:00+00:00",
     "source": "blog.google",
@@ -381,6 +369,18 @@
     "summary": "Adobe is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXQ2MmQ3V25YUGZRVU93V0JjUUl4TXZVUURLNHNJeW9ENVIwLXo2TlBiLUxiTUdkYnpwYUpyU1VxS0VsblBIMFgtbUxyMXFSQWxLRlZYWEJYMnNwMFRlaThTRjVGRmFxY1RWdHJnWGZJNkYtWnBjNnpmanZHMFR5eXZtX0JONl9Bb3FtSnVUSlU5bm9lYXAw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
     "difficulty": "News"
   }
 ]
