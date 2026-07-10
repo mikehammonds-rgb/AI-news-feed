@@ -2,25 +2,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 09, 08:01 PM ET",
-    "publishedAt": "2026-07-10T00:01:11+00:00",
-    "source": "qz.com",
-    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "time": "Jul 09, 09:01 PM ET",
+    "publishedAt": "2026-07-10T01:01:19+00:00",
+    "source": "Startup Fortune",
+    "title": "Anthropic Resets Claude Code Usage Limits Again After a Rough Week of Outages",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 09, 07:19 PM ET",
-    "publishedAt": "2026-07-09T23:19:03+00:00",
-    "source": "Mashable",
-    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2h1NmxkaEpnNlpkemhuNl9BMkQ1eThoekRBdnhGendRRkRjRTRrcTUxSmF5M3RkRlhnNzI5WmttRE9HVlp3clhHWmV0alpxX0NVaHRNcHVjcFVsWU53NTZCLVRDT0w2dzQwYm1UU3o1OFQyNWpxUGQ3Wkc0anRhR081eTZBQ3V6a19BTnJTT254S1luRjhQZ3pjLWtGMS1aSGRlTlpmajg?oc=5",
     "difficulty": "News"
   },
   {
@@ -33,6 +21,18 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 05:55 PM ET",
+    "publishedAt": "2026-07-09T21:55:11+00:00",
+    "source": "qz.com",
+    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,6 +69,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 03:57 PM ET",
+    "publishedAt": "2026-07-09T19:57:00+00:00",
+    "source": "The Information",
+    "title": "Cursor Is Developing an AI Agent to Compete With Claude Cowork",
+    "summary": "The Information is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2tEWU1XQmk4OEdCcHhKSmF1VkFwMUxLcUJsQTVRY2N3NEhkMXduSUo3bVBBUk1zYUp6Q2p2QWozRHZ5NnJwM2VLSG0yUkJSOV9JMGpoZjl6R3Jsa0UxZnozeGQ1NjI1Z3NobzZMQlpLNjJBVTZSR3plRTJ6T2pCalhKUHVubnBlOENtVTBSN0dOUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,6 +192,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 08, 04:15 PM ET",
+    "publishedAt": "2026-07-08T20:15:33+00:00",
+    "source": "Medium",
+    "title": "Accelerate Geospatial Coding with AI in Google Earth Engine",
+    "summary": "Medium is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzFlNnR0VVhCUExIbFNkd0lKZnBpT09maHJPRTN6cXNISFh2ZmwtMzNsVnl4dDk0S2kyRFdOcHpPbkkteDJWMjJ5c0NQMXAxenVFMnlhS3lTWHV4MVNqR2VZQ2QtQWM5LVE3ZkEzR1JhUU5janhqbk1QamRmQXdBblBFbGxjbnVyRVRWYVJ5WjNHYWhyMG80UUl5cW43U0pHcUdZandhYw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 08, 03:49 PM ET",
@@ -216,6 +240,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 08, 03:00 AM ET",
+    "publishedAt": "2026-07-08T07:00:51+00:00",
+    "source": "Ars Technica",
+    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ3BNYXBDNy1QTWFQbk9OM1lxR1JJQTdjUU1VdWw5ZWVGM2VCNnJ6RjM0U0hqSndyZ19na1ZkNFk1eXRBWjVlSXJ4OXhZQWVrWUdEVFo1LVFQMjlzTjlFRThjZWRTSHNmSWlES3ZUbGszdF9wSHNzT1k1M2FCc3pES2xJRWFMRGxzZjduSGN6d0Q3WTktcWhtRldhM1owM1pTMTBhVnY3UVdrYXNTN3FDdEl3RktjMzA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 07, 07:27 AM ET",
@@ -228,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 06, 05:08 AM ET",
-    "publishedAt": "2026-07-06T09:08:32+00:00",
-    "source": "MacRumors",
-    "title": "Claude Outage Currently Affecting Multiple Models [Update: Fixed]",
-    "summary": "MacRumors is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlNuT0hodGVaN0IzMFUydGNpei1QMjMydUxMVVlFNHp0UmRfelJpRDRBUHRhV2JOd3k0RUJyaGxjaGlOaDdCSDdPRldLVkFXaktnM1owYUM3Wm51aTZWMFNsUVZNVk9OMnZlY2RvZGhWMHJmaVcyZjhsTEtrRWM2YW9YZTlBandwX3ZTbGRGa1c?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 05, 10:30 AM ET",
@@ -249,18 +273,6 @@
     "summary": "Barchart.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGF5MlBRYU0tbjUwWE56LVpMODB3U1ZEbDVfR1ZGbnc3MkZ1QzFPQzdJRUhFbFBBR0pLV3ZTMkRJUE9ZdDhzNzlkN204YmVyZmZGNmpBa2g1VFdfQUtQR2k4Zm1uRjNsaE9pNkgxMGpwaElZTnU4RXFTSG91N0F3TUsyQzlXOEhCM2Utc1Zpa0F5Y0MxNzRqUlpGZGI5QkpCaFpwWEppSUtha1NNSTAzeDJn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 02, 12:43 PM ET",
-    "publishedAt": "2026-07-02T16:43:40+00:00",
-    "source": "DevOps.com",
-    "title": "Z.ai Debuts ZCode to Compete With GitHub Copilot, Cursor and Anthropic",
-    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1RaY1BoY3JYWERNc1FrZjRrMENyaTEwcWRIV09BOXh3QldBa3ZHb0pGdXFaYjExZWVEYmVtMVUxZUdYdjFicmgwMzJfTGNFTWhvXzMyT0xZREF3Q25pcTBYZFQ3WlByc1loalh0Tm1vY1M5LXV0d0g5LWFhcXJiSDQ3cHN3UmthV1o1bk84b1dlNE0?oc=5",
     "difficulty": "News"
   },
   {
@@ -297,18 +309,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekN6bWs1SGhfZTg5MEhSMzZRdmROT0tCRUdvVm9QYU9wR3NpeURFRmRiY2JCYUdoR1cybHVic0h2MnFIb2ZGSE5DM3JONEtwekFzcUJ2QnhsMjV3YjZYWmlxQ0dnYXN5NWZMdDExZm9RVnl6MDNEV25qLVQyaVN3S245WXN6WlFHR1NYYm14bS1JYUhmZFJaN244QWEyN1JIVHo1bUdNNG1OWEI3d2c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 29, 09:33 PM ET",
-    "publishedAt": "2026-06-30T01:33:24+00:00",
-    "source": "tech-insider.org",
-    "title": "AI Coding Assistants: Claude Code Ties Cursor at 18% [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqZDBMMU05Y09EQ1JxY2M2Y2t3Z0ZLa0ZucHlfZmdjcDhUZ0lBZC1GWWk1cVIwX0Z6MVlab29hQTN5MzRORDhhTzlUY01XNnByMUxJVFpTZ1BNWHhoV2tqcHhSQ3o?oc=5",
     "difficulty": "News"
   },
   {
