@@ -1,5 +1,41 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 08:01 PM ET",
+    "publishedAt": "2026-07-10T00:01:11+00:00",
+    "source": "qz.com",
+    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 09, 07:19 PM ET",
+    "publishedAt": "2026-07-09T23:19:03+00:00",
+    "source": "Mashable",
+    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 06:24 PM ET",
+    "publishedAt": "2026-07-09T22:24:24+00:00",
+    "source": "TechCrunch",
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 09, 05:06 PM ET",
@@ -9,30 +45,6 @@
     "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMVhYUFljQ1ItMjFHNnVLNmhrQk1FUnVvQmlFeC1YUUNwY1ZpTlF5bVBKM0UzeVV2QmYzVUNjVnFKV2FnWEEyVjNfZndRZ0pGcHY0c05aWWZrNVFIcExEYmQ3cVNpRDBtZENhX0JQazRXb3lvUW93UG5PVVNkQVVrMDgyQWdxTVJ6UWFaVUdid3VwSnMt?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 04:58 PM ET",
-    "publishedAt": "2026-07-09T20:58:23+00:00",
-    "source": "qz.com",
-    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 04:45 PM ET",
-    "publishedAt": "2026-07-09T20:45:42+00:00",
-    "source": "MarkTechPost",
-    "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmlGbGEyckI3SndtdUhRVHpXQlIwV3IwNlhxbHpHLWdEa0MzdGRIUHdNYldKVVV4MjFBZUFMS3AwWENMZDlQSGNUVm8yWG16OUU3aDIwTlBHRDExWFdvaktlUVVSMnNGWjdrNks3TTZQby1yZEZFTkVsaFF1TGotbUstSENNLWJtTkNGakJROGozejcwdGFjNFNNcGRFSm4wUFdNTTBqRlFvM2ZnVlBycjBNZ1F2dmlzeElaV0FR?oc=5",
     "difficulty": "News"
   },
   {
@@ -108,6 +120,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 12:45 PM ET",
+    "publishedAt": "2026-07-09T16:45:00+00:00",
+    "source": "9to5Mac",
+    "title": "OpenAI unveils ChatGPT Work agent, GPT-5.6 models now available",
+    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV285bnM3dGNiLVJUNFQ1N3Q5UXFpeDJkMjlfNUNDQ0xkNjJvZTl6dWtTTGM1aWhuQzlMaWdiakFVTXpsVHgyRll4Rm1MRkpYeUhXV01wb0x3RDBRdlIwZzRVTUdIVEl3VDBKb1lKNzdoaENtM2FXWG1qOFRUeEJ2SXVuaUZ3UTFGbnNmaHZ2aUVHQVR0ZTNpYjk3Yw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 09, 10:00 AM ET",
@@ -134,37 +158,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 09, 07:58 AM ET",
-    "publishedAt": "2026-07-09T11:58:21+00:00",
-    "source": "bestmediainfo.com",
-    "title": "Google brings Gemini-powered ad tools to India, with focus on agentic marketing",
-    "summary": "bestmediainfo.com is reporting this update. Open the article for the full story.",
+    "time": "Jul 09, 03:58 AM ET",
+    "publishedAt": "2026-07-09T07:58:06+00:00",
+    "source": "MarkTechPost",
+    "title": "Google AI Studio Adds Import from GitHub to Build a Deployable App",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOTc5TTBaMllXVnJZejRoXzRkSWJ0WC1wRmdVM3FoaXY2andES0hXcnVKV1BVWUlPTkpSYWFsaFhIRDRweTBKTTNQWm8tZHh2dFJmTFB5SzN1cU5ITnJiV0dLdTg3WEZqLVVYVDFJMGpLT3FjX1VCbWNibkF2NmNDMU05MjBMZVBnNUNLaTNxS2QzUmI1OVNadDJGdEZueVQ0T1V3RmJwNVl2VG4xMHQ0TkRZdi13ZWpTSUNtN284U3FuejhZWVpIcjZIN0k1WHNzWks2VG8wLV_SAdgBQVVfeXFMTjk3OU0wWjJZV1ZyWXo0aF80ZElidFgtcEZnVTNxaGl2Nmp3REtIV3J1SldQVVlJT05KUmFhbGhYSEQ0cHkwSk0zUFpvLWR4dnRSZkxQeUszdXFOSE5yYldHS3U4N1hGai1VWFQxSTBqS09xY19VQm1jYm5BdjZjQzFNOTIwTGVQZzVDS2kzcUtkM1JiNTlTWnQyRnRGbnlUNE9Vd0ZicDVZdlRuMTB0NE5EWXYtd2VqU0lDbTdvOFNxbno4WVlaSHI2SDdJNVhzc1pLNlRvMC1f?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 03:35 AM ET",
-    "publishedAt": "2026-07-09T07:35:19+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "OpenAI rolls out GPT-Live voice models for more natural ChatGPT conversations",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVVCQkM1ZTdEQ3ZXREZzNlVnQ0JpMXZyRVNXclNnajBOWi1MTlRSRWw1alJETVpoVGdPbmkzZ3Z1WE1PRE5ZRF9VSXVxLXI0TF8tVUJBN0V3REVpeWt1RkZBdmZxbElyTnM4aVdwaFJTTjJNZDZ3aFQ4QmltSDNScHNEcEpQMUh3REhnRW9hOV83b3FJY25jVjZKUWMyTUxDdnhpMmlFaXRTRk05SGx4LUl0UTJJZm4tcnc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 09, 12:27 AM ET",
-    "publishedAt": "2026-07-09T04:27:00+00:00",
-    "source": "The Hacker News",
-    "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0RYaHZsSHIwam5CTUVCbFo5SEV6TWVyZmJXWjNVeTNOcjBMX0xJSS1tcUJnUUpXSFlqSUxMU21GbnY4bHJkOEM5OFBTWkxxTzJ4ZkktSXZJYzlEZnhEd01ZRFF6bTRSUFBLeEkwaTB3ZFNFYlhORGZhMkd5c0RZSTFn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTdHVzgxYzAyb1k3cUMtLUtIQ0FFS3cydFVTM2VYOXBGemZUa21XV1h3Y0x1NGpDaXEzdmtiY2pIVUllVWtTWjg5VjZtdVU2bXh3aE9XTXduemI5TDE3YXFBY2wzM0RURmJOZmtJRDR2WS1nQ3hfeEU3cF83RHl5Y0lNR1h4enda?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 08, 02:41 PM ET",
-    "publishedAt": "2026-07-08T18:41:57+00:00",
-    "source": "MarkTechPost",
-    "title": "Google AI Studio Adds 'Import from GitHub' to Build Mode, Turning an Existing Repo Into an Editable, Deployable App",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3RzSkZFUmhzV21CWTZMNDNzM2Z3ckZyYlpBU0g5TjJUeUtPZXNYUXZDR2tyUFdFZ2pMMkptTkUyS0M1UUlsTHd4UWFDZDRNblk0RUN6SmtRMmNsRjRxN2J3ZnJtX2d5S2EwemFFTGNpQ0hCaUpHaElSODJsOXBOUkg3TnUtMHN4NXFvTTZXcW55YnFiYkFQdUZxaw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 08, 10:00 AM ET",
@@ -213,6 +201,18 @@
     "summary": "wiz.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlNtRGVxSU9oRFVoUnBpQzZQVW1fbnBESVdydENXMjd1TEttT0I3cW92ZEZ3c1dwbUJvRFJnOUE1UWd6TVRVUTM5QzFoZVJzY09Da1MzOE82c0laRHBuWUttLWI4UDBoR19SeUJUNEYxYVZrTVFnZDNoNlFZV3pMR2I4SHIyVGZwS2c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 08, 07:21 AM ET",
+    "publishedAt": "2026-07-08T11:21:00+00:00",
+    "source": "The Hacker News",
+    "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTF6WU5aTDJPMzlPZGUwYjVvUEQ5TkQzdGc5cC1JNlRxN1R0ajFfeEthN3lBSGJnbzdRT2ZjTUI1ZDdlaUhzQXAyT3B0NUZqTmljR1BIZkktRkNuOXY0ZFJadGZKcVJlcU9fdXZoUEZZVWRQSzc0TlFGY3pNdEZITlRQRlg?oc=5",
     "difficulty": "News"
   },
   {
