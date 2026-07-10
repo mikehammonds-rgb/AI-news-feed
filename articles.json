@@ -12,6 +12,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 09, 07:19 PM ET",
+    "publishedAt": "2026-07-09T23:19:03+00:00",
+    "source": "Mashable",
+    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 09, 06:24 PM ET",
@@ -26,8 +38,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 09, 05:55 PM ET",
-    "publishedAt": "2026-07-09T21:55:11+00:00",
+    "time": "Jul 09, 05:37 PM ET",
+    "publishedAt": "2026-07-09T21:37:17+00:00",
     "source": "qz.com",
     "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
     "summary": "qz.com is reporting this update. Open the article for the full story.",
@@ -57,18 +69,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 04:02 PM ET",
-    "publishedAt": "2026-07-09T20:02:38+00:00",
-    "source": "OpenAI",
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
     "difficulty": "News"
   },
   {
@@ -264,6 +264,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 07, 12:35 AM ET",
+    "publishedAt": "2026-07-07T04:35:09+00:00",
+    "source": "MarkTechPost",
+    "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjV2dTg5UUl2NUtTV3cza3dJVS1TX3kzU3cwVWhjTTAxeUFoZTlpSkwzX0t4TGdocVozenN3Z1ZUTGR1bC1zazBTaGlmUUhrdFJNeWFjRTFiM0htUDNtdERnd24xUnpaWlR5dXcya3ZkZ1VrX0lpWjc4WnpCenRUZkRLOWhrc2hnOTI0VmkwemZlY24yWEtz?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 05, 10:30 AM ET",
@@ -345,18 +357,6 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 19, 01:42 PM ET",
-    "publishedAt": "2026-05-19T17:42:03+00:00",
-    "source": "Mashable",
-    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
     "difficulty": "News"
   },
   {
