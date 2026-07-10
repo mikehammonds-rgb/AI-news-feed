@@ -12,6 +12,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 10, 01:42 PM ET",
+    "publishedAt": "2026-07-10T17:42:59+00:00",
+    "source": "Wccftech",
+    "title": "Anthropic’s Terrifying Billing Glitch Charged A Software Developer $16.6 Million For Using Claude API, Despite The Dashboard Showing A $0.00 Amount",
+    "summary": "Wccftech is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGhyX09LLVJyU2oxeklZZlNoUkNtR1hYb0FYNnNuMHFPeVI4TTR3LVVZNHJyaVZwdENHNUhIV0tlaVl1NXBOUUQ1SUpGZlRYa0VueHQyckJhVGhYUUllQ0NIbXM4WlZzMzc3NktnMXRlczdZYm9OVHpJQjB1QTFDSjVWY0ozRWsxY2dPRFJRTdIBlAFBVV95cUxPek9xOXU0ajFsckl5bEFRTFRqV2RURlNSQUhUMWVFSVU1RDVjVGJrLUF4Nnh5dVd4QWxXaHhrTEIwSkdNdHRITGdRVE5wb1JSRFYyQkxoLXRpbEk5SzlhLTRta2JyQVlwTGJpdkhnZDRkS1F1cWZCOGJSajBLRGt2LTZka1NpcUxueHhTWmNsb3dkQml5?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 10, 12:03 PM ET",
@@ -45,6 +57,18 @@
     "summary": "qz.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOQmRnOGdsd2xsMkdXS1A3VzdpUUF6eV80c2l0bU9mUEtzZ0xpM3c0cGdOWVF2ZHVpZTFvS2l5dlQzZ0U2b3F5a3hMVl9nUHUyN0pNeWZfb3gwRXotMU4zcHlSak5MZTVnMmpLb2tkWkxQclVCVHRJblh6RkJOdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 10, 04:51 AM ET",
+    "publishedAt": "2026-07-10T08:51:59+00:00",
+    "source": "SQ Magazine",
+    "title": "Meta Launches Muse Spark 1.1 to Challenge Anthropic, OpenAI",
+    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxYnVCS0k0R2xoUkwzNGRqeUlDVHV2bEpwZWh2SEk4bXBPS21IQVFtdDdPcVpCR2tROGExT0hCcnhmaUpvRXhEUm9TY21td0I3bVFoTFhrTFFkMldYYndiUA?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 08, 01:01 PM ET",
-    "publishedAt": "2026-07-08T17:01:27+00:00",
-    "source": "OpenAI",
-    "title": "Introducing GPT-Live",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DVXI2NXkzejZWS2piS0F6aTh4YWlHMVRCT3lkTWdsb2NjYkpnOFpSR0hlNWxBd2swaklLak5JanFpY3dSU3lyUnlyalMwbUVJQXE2MHVSZmQ2dw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 08, 10:00 AM ET",
@@ -252,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 08, 03:00 AM ET",
-    "publishedAt": "2026-07-08T07:00:51+00:00",
-    "source": "Ars Technica",
-    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ3BNYXBDNy1QTWFQbk9OM1lxR1JJQTdjUU1VdWw5ZWVGM2VCNnJ6RjM0U0hqSndyZ19na1ZkNFk1eXRBWjVlSXJ4OXhZQWVrWUdEVFo1LVFQMjlzTjlFRThjZWRTSHNmSWlES3ZUbGszdF9wSHNzT1k1M2FCc3pES2xJRWFMRGxzZjduSGN6d0Q3WTktcWhtRldhM1owM1pTMTBhVnY3UVdrYXNTN3FDdEl3RktjMzA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 07, 07:27 AM ET",
@@ -285,18 +285,6 @@
     "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjV2dTg5UUl2NUtTV3cza3dJVS1TX3kzU3cwVWhjTTAxeUFoZTlpSkwzX0t4TGdocVozenN3Z1ZUTGR1bC1zazBTaGlmUUhrdFJNeWFjRTFiM0htUDNtdERnd24xUnpaWlR5dXcya3ZkZ1VrX0lpWjc4WnpCenRUZkRLOWhrc2hnOTI0VmkwemZlY24yWEtz?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 06, 05:08 AM ET",
-    "publishedAt": "2026-07-06T09:08:32+00:00",
-    "source": "MacRumors",
-    "title": "Claude Outage Currently Affecting Multiple Models [Update: Fixed]",
-    "summary": "MacRumors is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlNuT0hodGVaN0IzMFUydGNpei1QMjMydUxMVVlFNHp0UmRfelJpRDRBUHRhV2JOd3k0RUJyaGxjaGlOaDdCSDdPRldLVkFXaktnM1owYUM3Wm51aTZWMFNsUVZNVk9OMnZlY2RvZGhWMHJmaVcyZjhsTEtrRWM2YW9YZTlBandwX3ZTbGRGa1c?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,6 +333,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 03:00 AM ET",
+    "publishedAt": "2026-06-16T07:00:00+00:00",
+    "source": "CBS News",
+    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   },
   {
