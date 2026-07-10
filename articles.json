@@ -14,8 +14,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 09, 05:01 PM ET",
-    "publishedAt": "2026-07-09T21:01:58+00:00",
+    "time": "Jul 09, 04:58 PM ET",
+    "publishedAt": "2026-07-09T20:58:23+00:00",
     "source": "qz.com",
     "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
     "summary": "qz.com is reporting this update. Open the article for the full story.",
@@ -45,6 +45,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 04:02 PM ET",
+    "publishedAt": "2026-07-09T20:02:38+00:00",
+    "source": "OpenAI",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
     "difficulty": "News"
   },
   {
@@ -84,18 +96,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 12:48 PM ET",
-    "publishedAt": "2026-07-09T16:48:55+00:00",
-    "source": "Hindustan Times",
-    "title": "Meta challenges OpenAI with its first-ever paid AI API, debuting Muse Spark 1.1 | Hindustan Times",
-    "summary": "Hindustan Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZ0ZWU3JTcjBOc09keVhwT1cwblV1eXpSYTVWTUMxVzc3TEFHLXpwNkVuVnZJLWNkdnBBcnprbEFjNk9SM0h1Ri1fME5ZTzFPWDc0UDQzZmU1Nlo1TzA3SDFtU1Z1MEJEZXVSd2Rqek8tZGNqUWJmb3dneUkzRU5HR1JRRWNra1Bra1lNN3pFVDZLejVFcDJETlplZUhpV1ZLdnJZTUx0WTlmdmQxVlRYNUdDa1FobEMzT2plZkNFSFJVNERkeWlQMS1GUjFTU0s3ZGVHbDFZQmQ1YlFjWDl0TGFMX1JqdjlFaktHMTlKVTNxazDSAfgBQVVfeXFMTzAxY1JkdFgyMmhlUWQtV0FQOVk5R2ZvZGxzc1ZVLXpEdE1FM3VIY25WczVYN2dFV2tSMTRlTVlaSnd4dUVROWtIVi1xR3lYcmpuZ1l6M3ZSTkxMVWpXZVNFZ1p5Uk1GZ1FqcGlsQ2FFZkdiTFQ1VHM1UkhPel9nTzR2bUEyRFJHTEZqY2QtQTI4NnV0ZHU2QTRySVBvX2drbklLSkFHa2NWS3Z6RE5mLVVWMXVMbGM4ZjBfWl9zNnZkS1dBSXQxWmNFRmplWlpVWlZEY2lPNEhwOXhJaEJZUTR5WW9XOWxPWHNBUnp1Z0dEamxOMkZ4clc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 09, 12:45 PM ET",
@@ -129,6 +129,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b0MzaEdJa0lmUE12Qi1fQ2VXQS1WQW5TSV9OQnNFX1Y4dzY0RWNkN2ZncWlXS1p4eHdIV21sQkpFSnAxcGRqZXg1VnNNWFc1OUgyamgzcW5tcWI4UWEzQ2JTZlQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 09, 07:58 AM ET",
+    "publishedAt": "2026-07-09T11:58:21+00:00",
+    "source": "bestmediainfo.com",
+    "title": "Google brings Gemini-powered ad tools to India, with focus on agentic marketing",
+    "summary": "bestmediainfo.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOTc5TTBaMllXVnJZejRoXzRkSWJ0WC1wRmdVM3FoaXY2andES0hXcnVKV1BVWUlPTkpSYWFsaFhIRDRweTBKTTNQWm8tZHh2dFJmTFB5SzN1cU5ITnJiV0dLdTg3WEZqLVVYVDFJMGpLT3FjX1VCbWNibkF2NmNDMU05MjBMZVBnNUNLaTNxS2QzUmI1OVNadDJGdEZueVQ0T1V3RmJwNVl2VG4xMHQ0TkRZdi13ZWpTSUNtN284U3FuejhZWVpIcjZIN0k1WHNzWks2VG8wLV_SAdgBQVVfeXFMTjk3OU0wWjJZV1ZyWXo0aF80ZElidFgtcEZnVTNxaGl2Nmp3REtIV3J1SldQVVlJT05KUmFhbGhYSEQ0cHkwSk0zUFpvLWR4dnRSZkxQeUszdXFOSE5yYldHS3U4N1hGai1VWFQxSTBqS09xY19VQm1jYm5BdjZjQzFNOTIwTGVQZzVDS2kzcUtkM1JiNTlTWnQyRnRGbnlUNE9Vd0ZicDVZdlRuMTB0NE5EWXYtd2VqU0lDbTdvOFNxbno4WVlaSHI2SDdJNVhzc1pLNlRvMC1f?oc=5",
     "difficulty": "News"
   },
   {
@@ -204,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 08, 07:21 AM ET",
-    "publishedAt": "2026-07-08T11:21:00+00:00",
-    "source": "The Hacker News",
-    "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTF6WU5aTDJPMzlPZGUwYjVvUEQ5TkQzdGc5cC1JNlRxN1R0ajFfeEthN3lBSGJnbzdRT2ZjTUI1ZDdlaUhzQXAyT3B0NUZqTmljR1BIZkktRkNuOXY0ZFJadGZKcVJlcU9fdXZoUEZZVWRQSzc0TlFGY3pNdEZITlRQRlg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 07, 07:27 AM ET",
@@ -261,18 +261,6 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1RaY1BoY3JYWERNc1FrZjRrMENyaTEwcWRIV09BOXh3QldBa3ZHb0pGdXFaYjExZWVEYmVtMVUxZUdYdjFicmgwMzJfTGNFTWhvXzMyT0xZREF3Q25pcTBYZFQ3WlByc1loalh0Tm1vY1M5LXV0d0g5LWFhcXJiSDQ3cHN3UmthV1o1bk84b1dlNE0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 01, 03:00 AM ET",
-    "publishedAt": "2026-07-01T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "The latest AI news we announced in June 2026",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSklUX3E0LWlteG0tQ3UycXBxQkdraXBVdDdEbVd4RzBtWXFuZTVkYWxXMUMzMm9vbHA0Q0Roa3JWd19ob1NCQUtIUUdBTlNoU0hMRmhSdU1pQU5yWU1zQmlVS2U5ay0zNkFxaGJjQUpwUGE0S1BCWVZHaFc3VjdQZmp6YjYyeUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,6 +333,18 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 03:00 AM ET",
+    "publishedAt": "2026-06-16T07:00:00+00:00",
+    "source": "CBS News",
+    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   },
   {
