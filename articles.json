@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 10, 11:41 PM ET",
+    "publishedAt": "2026-07-11T03:41:42+00:00",
+    "source": "OMG! Ubuntu",
+    "title": "Claude desktop app for Linux enters beta – here’s how to try it",
+    "summary": "OMG! Ubuntu is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FNXVhTTZpV19ZOU15SmdpWlh3cVVRODJuM01jUUFRNEx4ZW1rWnpLdHRuaW5NWXVXMl9wRmY4Q2JseTEtUHpYeVF6WWxfWEs2ODh4MzBUMk9peVV1WWhuN2lYZW96VVFNQ3lNVnVn0gFzQVVfeXFMTlhVQU9kT1N4QnE2bWZ5ZTVOeUo5cVQ5U3pXXzl6TXROQXhjSXVyZ25CdURGZFVaU3AzWGxpQmVOSHRoNWxLT2RfODBrSEx0N04zdVdqR0gzR051T2FMMlhFQXhOVHROVUZnWERvUWpTbXQ1Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 10, 08:08 PM ET",
@@ -204,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 09:10 AM ET",
-    "publishedAt": "2026-07-09T13:10:16+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Sonnet 5 Debuts: 57 Score, Half the API Cost [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b0MzaEdJa0lmUE12Qi1fQ2VXQS1WQW5TSV9OQnNFX1Y4dzY0RWNkN2ZncWlXS1p4eHdIV21sQkpFSnAxcGRqZXg1VnNNWFc1OUgyamgzcW5tcWI4UWEzQ2JTZlQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 09, 03:58 AM ET",
@@ -350,13 +350,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "May 21, 03:00 AM ET",
-    "publishedAt": "2026-05-21T07:00:00+00:00",
-    "source": "The Verge",
-    "title": "I can’t believe how fast Google vibe coded my first Android app",
-    "summary": "The Verge is reporting this update. Open the article for the full story.",
+    "time": "May 19, 01:42 PM ET",
+    "publishedAt": "2026-05-19T17:42:03+00:00",
+    "source": "Mashable",
+    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVBIN1d1a2ZPSDVHNmhPXy1QeXIxcTZVS2lFXy1zQmdJcVFOaWg0QmM0eW1HQlFOYlV6Z3doS1lwSXBlMFBqYlFRXzRVanNLVUFOTWpzSjV3SXVTX0NqdTdwdjhyd0J0UzRpRVVzSXBva05ILWV6cXR4UFZrS3pqcHFtSjZXcmNtRDJqYlU4cXdqUVVvRXpHSWExMHltQnk2YTZtNkxLMlVrQXFhYi1BRFNB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
     "difficulty": "News"
   },
   {
