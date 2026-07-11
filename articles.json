@@ -2,13 +2,25 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 10, 11:41 PM ET",
-    "publishedAt": "2026-07-11T03:41:42+00:00",
+    "time": "Jul 11, 02:42 AM ET",
+    "publishedAt": "2026-07-11T06:42:25+00:00",
     "source": "OMG! Ubuntu",
     "title": "Claude desktop app for Linux enters beta – here’s how to try it",
     "summary": "OMG! Ubuntu is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FNXVhTTZpV19ZOU15SmdpWlh3cVVRODJuM01jUUFRNEx4ZW1rWnpLdHRuaW5NWXVXMl9wRmY4Q2JseTEtUHpYeVF6WWxfWEs2ODh4MzBUMk9peVV1WWhuN2lYZW96VVFNQ3lNVnVn0gFzQVVfeXFMTlhVQU9kT1N4QnE2bWZ5ZTVOeUo5cVQ5U3pXXzl6TXROQXhjSXVyZ25CdURGZFVaU3AzWGxpQmVOSHRoNWxLT2RfODBrSEx0N04zdVdqR0gzR051T2FMMlhFQXhOVHROVUZnWERvUWpTbXQ1Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 10, 09:09 PM ET",
+    "publishedAt": "2026-07-11T01:09:22+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Fable 5: 18 Days Offline on Export Rules [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ya0Z0Z25ZbjEtbk8wanpIUmRCRGRwNWxkZFpRbUREakV5dE5oUkgxN3RkQi1JWC1iVnVpd296OTJKNkd4SXc3VlVtOFlYMDZPTE1OZlBCb3VlcnZ2cDl3NkRueGw2LXZqUkZOZTNXOGZrQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -60,18 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 10, 12:40 PM ET",
-    "publishedAt": "2026-07-10T16:40:28+00:00",
-    "source": "Tech Times",
-    "title": "Meta’s Muse Spark 1.1 Opens Paid API at One-Quarter of Anthropic, OpenAI Rates",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk9wdHFNS3lhZmRESzVpbDZBSEg2c3RseHRNR0ZtVXNNRHdxNENEdG9OZ0NRRklGT2lYTEdhNzRVazhpZ2RCOTlsSDFrQ2JQY2hPLWh6QUtNc3NoaVY1dDh1bHp5ZncyRDVFUGJ2aXBSNmJMcDNXRTVleDFHTHQ1Wk5VdzF3YWFZT2lUWF9qUFpCajRjM3p4b0RjTWxyOGZwZlZCcFFOaENuaGYwZ3o0Yy1nSGhaS0E1UGFiMUI3TmxsQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 10, 11:58 AM ET",
@@ -117,18 +117,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZZG1LMTlVZkt2bmF1d0ExWUJmSWxWOWs5eWFUblRkTkgxaWVhWDhLWnI0N0xfVldZM250SU5yb2stUG1uQ1ZJWHNqeU5yZ1pIUHNZVm8xQjR3VkctR3dsV3pTVnlQeGc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 09:01 PM ET",
-    "publishedAt": "2026-07-10T01:01:19+00:00",
-    "source": "Startup Fortune",
-    "title": "Anthropic Resets Claude Code Usage Limits Again After a Rough Week of Outages",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2h1NmxkaEpnNlpkemhuNl9BMkQ1eThoekRBdnhGendRRkRjRTRrcTUxSmF5M3RkRlhnNzI5WmttRE9HVlp3clhHWmV0alpxX0NVaHRNcHVjcFVsWU53NTZCLVRDT0w2dzQwYm1UU3o1OFQyNWpxUGQ3Wkc0anRhR081eTZBQ3V6a19BTnJTT254S1luRjhQZ3pjLWtGMS1aSGRlTlpmajg?oc=5",
     "difficulty": "News"
   },
   {
@@ -196,9 +184,9 @@
     "label": "Claude Code",
     "time": "Jul 09, 01:01 PM ET",
     "publishedAt": "2026-07-09T17:01:17+00:00",
-    "source": "the-decoder.com",
+    "source": "The Decoder",
     "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVC1fZnVoOHMxQlZLMXJ6VDRJeFhlQ2k0MzBsR2lQWmE0aFBQNlM4T2lRT1h3dFl3TTA3TkhPeXZ1R1JHb2swWmItdXJLMy04MDR1blMyRy1FTFBxYzR6T1IwOVJzZGFabHd1bk5taXRTcEJVSC1tR05XMWJfQWJJTG8zSUlfWURwS1VVdzBTUy1Sc2JGSVBvQ3V1UkU3b2VvOEdpSmliSmgwcE0xTkJYTDVkc0JEYWc?oc=5",
     "difficulty": "News"
@@ -237,6 +225,18 @@
     "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVVCQkM1ZTdEQ3ZXREZzNlVnQ0JpMXZyRVNXclNnajBOWi1MTlRSRWw1alJETVpoVGdPbmkzZ3Z1WE1PRE5ZRF9VSXVxLXI0TF8tVUJBN0V3REVpeWt1RkZBdmZxbElyTnM4aVdwaFJTTjJNZDZ3aFQ4QmltSDNScHNEcEpQMUh3REhnRW9hOV83b3FJY25jVjZKUWMyTUxDdnhpMmlFaXRTRk05SGx4LUl0UTJJZm4tcnc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 03:00 AM ET",
+    "publishedAt": "2026-07-09T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
     "difficulty": "News"
   },
   {
@@ -350,13 +350,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "May 19, 01:42 PM ET",
-    "publishedAt": "2026-05-19T17:42:03+00:00",
-    "source": "Mashable",
-    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "time": "May 21, 03:00 AM ET",
+    "publishedAt": "2026-05-21T07:00:00+00:00",
+    "source": "The Verge",
+    "title": "I can’t believe how fast Google vibe coded my first Android app",
+    "summary": "The Verge is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVBIN1d1a2ZPSDVHNmhPXy1QeXIxcTZVS2lFXy1zQmdJcVFOaWg0QmM0eW1HQlFOYlV6Z3doS1lwSXBlMFBqYlFRXzRVanNLVUFOTWpzSjV3SXVTX0NqdTdwdjhyd0J0UzRpRVVzSXBva05ILWV6cXR4UFZrS3pqcHFtSjZXcmNtRDJqYlU4cXdqUVVvRXpHSWExMHltQnk2YTZtNkxLMlVrQXFhYi1BRFNB?oc=5",
     "difficulty": "News"
   },
   {
