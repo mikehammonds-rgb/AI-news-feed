@@ -2,8 +2,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 11, 11:45 AM ET",
-    "publishedAt": "2026-07-11T15:45:20+00:00",
+    "time": "Jul 11, 02:47 PM ET",
+    "publishedAt": "2026-07-11T18:47:49+00:00",
     "source": "OMG! Ubuntu",
     "title": "Claude desktop app for Linux enters beta – here’s how to try it",
     "summary": "OMG! Ubuntu is reporting this update. Open the article for the full story.",
@@ -240,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 09, 02:59 AM ET",
-    "publishedAt": "2026-07-09T06:59:59+00:00",
-    "source": "wiz.io",
-    "title": "GhostApproval: A Trust Boundary Gap in AI Coding Assistants",
-    "summary": "wiz.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlNtRGVxSU9oRFVoUnBpQzZQVW1fbnBESVdydENXMjd1TEttT0I3cW92ZEZ3c1dwbUJvRFJnOUE1UWd6TVRVUTM5QzFoZVJzY09Da1MzOE82c0laRHBuWUttLWI4UDBoR19SeUJUNEYxYVZrTVFnZDNoNlFZV3pMR2I4SHIyVGZwS2c?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 08, 03:49 PM ET",
@@ -261,6 +249,18 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 08, 11:01 AM ET",
+    "publishedAt": "2026-07-08T15:01:49+00:00",
+    "source": "wiz.io",
+    "title": "GhostApproval: A Trust Boundary Gap in AI Coding Assistants",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlNtRGVxSU9oRFVoUnBpQzZQVW1fbnBESVdydENXMjd1TEttT0I3cW92ZEZ3c1dwbUJvRFJnOUE1UWd6TVRVUTM5QzFoZVJzY09Da1MzOE82c0laRHBuWUttLWI4UDBoR19SeUJUNEYxYVZrTVFnZDNoNlFZV3pMR2I4SHIyVGZwS2c?oc=5",
     "difficulty": "News"
   },
   {
