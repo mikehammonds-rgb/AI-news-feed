@@ -2,8 +2,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 11, 05:43 AM ET",
-    "publishedAt": "2026-07-11T09:43:03+00:00",
+    "time": "Jul 11, 08:44 AM ET",
+    "publishedAt": "2026-07-11T12:44:13+00:00",
     "source": "OMG! Ubuntu",
     "title": "Claude desktop app for Linux enters beta – here’s how to try it",
     "summary": "OMG! Ubuntu is reporting this update. Open the article for the full story.",
@@ -74,6 +74,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Jul 10, 12:52 PM ET",
+    "publishedAt": "2026-07-10T16:52:34+00:00",
+    "source": "EIN News",
+    "title": "The Rise of AI Website Builders: Where Bezier AI Fits Among Cursor, Lovable, Bolt.new, v0, Replit, and GitHub",
+    "summary": "EIN News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNczFyVkRxVXY2ekRrSk0yc1d6akp5QU83QVdkNV9heUNTZklVSWJReGN0aG5LNkRwZ1M5SV8tdXhmWlBlZUdBT2dScWJJRmZWY3JaUExvcXR0YjY1MTFNZ0E4SXVmWUlVS1N0ejBmMVdKcjdaeUhpTlRldnFzS01oejNMUzRuZFR0WEJkZm5WVmNLNUZMSWlzUjd5MEw3R0VUb3dGV0hfWlhxVW40dEo2VWhBTnl3b1pFSnM0LXRTVTNETkROcThOVVhkQ0VTSmNCZ3ZpWnpMcHpzTENnc2RoR1ZjSUd5RjVzWHFERXh30gHuAUFVX3lxTE1zMXJWRHFVdjZ6RGtKTTJzV3pqSnlBTzdBV2Q1X2F5Q1NmSVVJYlF4Y3Robks2RHBnUzlJXy11eGZaUGVlR0FPZ1JxYklGZlZjclpQTG9xdHRiNjUxMU1nQThJdWZZSVVLU3R6MGYxV0pyN1p5SGlOVGV2cXNLTWh6M0xTNG5kVHRYQmRmblZWY0s1RkxJaXNSN3kwTDdHRVRvd0ZXSF9aWHFVbjR0SjZVaEFOeXdvWkVKczQtdFNVM0RORE5xOE5VWGRDRVNKY0JndmlaekxwenNMQ2dzZGhHVmNJR3lGNXNYcURFeHc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Jul 10, 11:58 AM ET",
     "publishedAt": "2026-07-10T15:58:08+00:00",
     "source": "The GitHub Blog",
@@ -81,30 +93,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVBxbnNGdDgwZE1Ucmd0WFpOVDJGall6UDZMUjBBWXc0dUNsQ0pfOTZDelBVM1lNcFE3ZmNVc3l3bkJxRmNhVXpYd2VvV2NnUXlDTnVTckd6Z2stcS1HOVBmUjBpem5UVWo1UkFVc1NSUGZ6bldLOHplMlIwYVZvWmMydW1DaW5pbTdJUlZ1M0NBT0ZZQ2IwcWotb3c5eV9rYzBDZDlKbVNyYTE4aXZvQmpNVlRaR2RlUlRScVlSR0g?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 10, 10:19 AM ET",
-    "publishedAt": "2026-07-10T14:19:00+00:00",
-    "source": "EIN Presswire",
-    "title": "The Rise of AI Website Builders: Where Bezier AI Fits Among Cursor, Lovable, Bolt.new, v0, Replit, and GitHub Copilot",
-    "summary": "EIN Presswire is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcjFhUllDR3lZdk5BSUNLb2RaR3haSndkTl9BNGF1RWE0UFdVbC1XM1NBUUY5MERzeHlYVkIyTUxyVDBScDVoOXlTZ1BQMkw3OEpQSktiRG1mQ0pLQnhPa0NmbHozV0JPQWxKWGtLb0d0UUI1dlYyRzlwcVM5MGhfS2ZwbGRnR3ViQkNXemlsMFdXaWJEbFJCakhTVjRLLUFuUDJOYy1weGVYSmdQMkZOWGdKcGItaFF1YjhZejlONXhSLWRPZzAtZUJlY2VNV3lqWm1DOU1vZkxqb1lmUWd5TG9sWjU0VzNNa3NMM0ZTaw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 10, 09:58 AM ET",
-    "publishedAt": "2026-07-10T13:58:34+00:00",
-    "source": "qz.com",
-    "title": "OpenAI's newest AI model is becoming the preferred engine for Microsoft 365 Copilot",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOQmRnOGdsd2xsMkdXS1A3VzdpUUF6eV80c2l0bU9mUEtzZ0xpM3c0cGdOWVF2ZHVpZTFvS2l5dlQzZ0U2b3F5a3hMVl9nUHUyN0pNeWZfb3gwRXotMU4zcHlSak5MZTVnMmpLb2tkWkxQclVCVHRJblh6RkJOdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -141,6 +129,18 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 05:02 PM ET",
+    "publishedAt": "2026-07-09T21:02:58+00:00",
+    "source": "qz.com",
+    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
     "difficulty": "News"
   },
   {
@@ -350,13 +350,13 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 16, 03:00 AM ET",
-    "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "CBS News",
-    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "time": "Jun 22, 03:00 AM ET",
+    "publishedAt": "2026-06-22T07:00:00+00:00",
+    "source": "The New Stack",
+    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
     "difficulty": "News"
   },
   {
