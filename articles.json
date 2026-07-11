@@ -36,6 +36,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 10, 12:40 PM ET",
+    "publishedAt": "2026-07-10T16:40:28+00:00",
+    "source": "Tech Times",
+    "title": "Meta’s Muse Spark 1.1 Opens Paid API at One-Quarter of Anthropic, OpenAI Rates",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk9wdHFNS3lhZmRESzVpbDZBSEg2c3RseHRNR0ZtVXNNRHdxNENEdG9OZ0NRRklGT2lYTEdhNzRVazhpZ2RCOTlsSDFrQ2JQY2hPLWh6QUtNc3NoaVY1dDh1bHp5ZncyRDVFUGJ2aXBSNmJMcDNXRTVleDFHTHQ1Wk5VdzF3YWFZT2lUWF9qUFpCajRjM3p4b0RjTWxyOGZwZlZCcFFOaENuaGYwZ3o0Yy1nSGhaS0E1UGFiMUI3TmxsQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 10, 11:58 AM ET",
@@ -45,6 +57,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVBxbnNGdDgwZE1Ucmd0WFpOVDJGall6UDZMUjBBWXc0dUNsQ0pfOTZDelBVM1lNcFE3ZmNVc3l3bkJxRmNhVXpYd2VvV2NnUXlDTnVTckd6Z2stcS1HOVBmUjBpem5UVWo1UkFVc1NSUGZ6bldLOHplMlIwYVZvWmMydW1DaW5pbTdJUlZ1M0NBT0ZZQ2IwcWotb3c5eV9rYzBDZDlKbVNyYTE4aXZvQmpNVlRaR2RlUlRScVlSR0g?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 10, 11:03 AM ET",
+    "publishedAt": "2026-07-10T15:03:47+00:00",
+    "source": "Hostinger",
+    "title": "How to send an email with Claude",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xOUdnME5ndmxhRzFHdjliQ052dklvc00xV2NaQmxnTUpvdmtRa2RvYVJBR1diaWFMVE44NlFVZng1MUJIbmh6clJodElrX3lYRlFrVU4wV3FXczdCMWR4OHNiNnlXMlZLOXY3UFJLVjV5aEg3TXc?oc=5",
     "difficulty": "News"
   },
   {
@@ -158,6 +182,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 09, 02:30 PM ET",
+    "publishedAt": "2026-07-09T18:30:00+00:00",
+    "source": "WIRED",
+    "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+    "summary": "WIRED is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWFPUzFGbjVnQXpCQmh0d3BybFlmSnR1R0E0WUpLdXBVVTN6eENPajNoS25udGFHSmpITnptUWRScGlXb1o5NnNWMHNFY2pSRHpIS21hZGdpNi1PbHZ0NzJrVThQcDFNaVRSbGRJLVBSa21XX0RmTDBFOXNWRnhhWmdOVU1SV1Nsd1Z4N1BhRDFSSFVhWEdMM2ZaaVFDZlhGVkl6emp3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 09, 01:01 PM ET",
     "publishedAt": "2026-07-09T17:01:17+00:00",
     "source": "the-decoder.com",
@@ -180,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 09:10 AM ET",
-    "publishedAt": "2026-07-09T13:10:16+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Sonnet 5 Debuts: 57 Score, Half the API Cost [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b0MzaEdJa0lmUE12Qi1fQ2VXQS1WQW5TSV9OQnNFX1Y4dzY0RWNkN2ZncWlXS1p4eHdIV21sQkpFSnAxcGRqZXg1VnNNWFc1OUgyamgzcW5tcWI4UWEzQ2JTZlQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 09, 03:58 AM ET",
@@ -201,42 +225,6 @@
     "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTdHVzgxYzAyb1k3cUMtLUtIQ0FFS3cydFVTM2VYOXBGemZUa21XV1h3Y0x1NGpDaXEzdmtiY2pIVUllVWtTWjg5VjZtdVU2bXh3aE9XTXduemI5TDE3YXFBY2wzM0RURmJOZmtJRDR2WS1nQ3hfeEU3cF83RHl5Y0lNR1h4enda?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 03:35 AM ET",
-    "publishedAt": "2026-07-09T07:35:19+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "OpenAI rolls out GPT-Live voice models for more natural ChatGPT conversations",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVVCQkM1ZTdEQ3ZXREZzNlVnQ0JpMXZyRVNXclNnajBOWi1MTlRSRWw1alJETVpoVGdPbmkzZ3Z1WE1PRE5ZRF9VSXVxLXI0TF8tVUJBN0V3REVpeWt1RkZBdmZxbElyTnM4aVdwaFJTTjJNZDZ3aFQ4QmltSDNScHNEcEpQMUh3REhnRW9hOV83b3FJY25jVjZKUWMyTUxDdnhpMmlFaXRTRk05SGx4LUl0UTJJZm4tcnc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 08, 10:13 PM ET",
-    "publishedAt": "2026-07-09T02:13:16+00:00",
-    "source": "THE Journal: Technological Horizons in Education",
-    "title": "Anthropic Intros Lower-Cost Claude Sonnet 5",
-    "summary": "THE Journal: Technological Horizons in Education is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdC0yX0F2em5FRUFVTHByXzJwUUxjNFc0UnJidElvZ18tZU1NSUQ3bUNjeGMtMEozell3alRpdnV5cl8xU2paLUdlS1JtZ1pMRTNRS0doN3RRMkJPSVRwOWZTR1F6Rmt6V3pfY1JibnpMcXoyNTZBemM3NVFLUzlsbE1wRW80aTlCSWNHcHVoZ0p1RjVQNzBrSVNOMEdmX2ZET2M0QWM3cDhTdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 08, 04:15 PM ET",
-    "publishedAt": "2026-07-08T20:15:33+00:00",
-    "source": "Medium",
-    "title": "Accelerate Geospatial Coding with AI in Google Earth Engine",
-    "summary": "Medium is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzFlNnR0VVhCUExIbFNkd0lKZnBpT09maHJPRTN6cXNISFh2ZmwtMzNsVnl4dDk0S2kyRFdOcHpPbkkteDJWMjJ5c0NQMXAxenVFMnlhS3lTWHV4MVNqR2VZQ2QtQWM5LVE3ZkEzR1JhUU5janhqbk1QamRmQXdBblBFbGxjbnVyRVRWYVJ5WjNHYWhyMG80UUl5cW43U0pHcUdZandhYw?oc=5",
     "difficulty": "News"
   },
   {
@@ -362,13 +350,25 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "May 19, 03:00 AM ET",
-    "publishedAt": "2026-05-19T07:00:00+00:00",
+    "time": "May 19, 01:42 PM ET",
+    "publishedAt": "2026-05-19T17:42:03+00:00",
     "source": "Mashable",
     "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 19, 03:00 AM ET",
+    "publishedAt": "2026-05-19T07:00:00+00:00",
+    "source": "blog.google",
+    "title": "Building the agentic future: Developer highlights from I/O 2026",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
     "difficulty": "News"
   }
 ]
