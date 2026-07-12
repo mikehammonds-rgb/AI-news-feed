@@ -1,17 +1,5 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 12, 03:42 AM ET",
-    "publishedAt": "2026-07-12T07:42:04+00:00",
-    "source": "OMG! Ubuntu",
-    "title": "Claude desktop app for Linux enters beta – here’s how to try it",
-    "summary": "OMG! Ubuntu is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FNXVhTTZpV19ZOU15SmdpWlh3cVVRODJuM01jUUFRNEx4ZW1rWnpLdHRuaW5NWXVXMl9wRmY4Q2JseTEtUHpYeVF6WWxfWEs2ODh4MzBUMk9peVV1WWhuN2lYZW96VVFNQ3lNVnVn0gFzQVVfeXFMTlhVQU9kT1N4QnE2bWZ5ZTVOeUo5cVQ5U3pXXzl6TXROQXhjSXVyZ25CdURGZFVaU3AzWGxpQmVOSHRoNWxLT2RfODBrSEx0N04zdVdqR0gzR051T2FMMlhFQXhOVHROVUZnWERvUWpTbXQ1Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 11, 02:52 PM ET",
@@ -177,6 +165,18 @@
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 09:10 AM ET",
+    "publishedAt": "2026-07-09T13:10:16+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Sonnet 5 Debuts: 57 Score, Half the API Cost [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b0MzaEdJa0lmUE12Qi1fQ2VXQS1WQW5TSV9OQnNFX1Y4dzY0RWNkN2ZncWlXS1p4eHdIV21sQkpFSnAxcGRqZXg1VnNNWFc1OUgyamgzcW5tcWI4UWEzQ2JTZlQ?oc=5",
     "difficulty": "News"
   },
   {
