@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 12, 08:26 AM ET",
+    "publishedAt": "2026-07-12T12:26:41+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude vs Gemini: Fable 5 Beats Opus 4.8 by 11 Points",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81Zno3cU1POTJkZWxTVW92MGprNWF3WTM0a3RRaC1FRXR5NXpfcXlUUTJkZGhDanEweXRQY1dpczEtb0dzTXg1blFZYWNDU1FoanI0b2NSdGFiZU4zTk8yeEV5ak1vSXBf?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 11, 09:37 PM ET",
@@ -9,18 +21,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12LTVORFpCeHhXdEJPS0YtZWg1RHpWa040RkFjaERBS0dJS1pZbzVDLUJMUEVnRXJiUDI5WGpScXNiUVF5QVQ0TlF4NXpockoyR0tSMlZPWEg2eFVhNFVVaEd6ZlZwS1JsSW5hU05FLTZuaHFTdEE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 11, 02:52 PM ET",
-    "publishedAt": "2026-07-11T18:52:58+00:00",
-    "source": "StartupHub.ai",
-    "title": "Copilot Eliminates GitHub Pages DNS Hassle",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUJuZ2lnVU5MWUVCSGx2cGl1LWZtREhvdlJTRXNIWWlIc1F5T212X1FabXBnNk1nMUdpQkhlQzdsUXJhaGxMR1JsdzFVaW9sMUU2c0wxd0tfQ0MzWGlkd19MUGVQb3IyVlV1Z3k5Q3ozcWd0UVRuY2ZydFFMb0dmNXZ3czRnSVJNTnBRWmUwY0JwUjl1LXdJ?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,18 +180,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 09:10 AM ET",
-    "publishedAt": "2026-07-09T13:10:16+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Sonnet 5 Debuts: 57 Score, Half the API Cost [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b0MzaEdJa0lmUE12Qi1fQ2VXQS1WQW5TSV9OQnNFX1Y4dzY0RWNkN2ZncWlXS1p4eHdIV21sQkpFSnAxcGRqZXg1VnNNWFc1OUgyamgzcW5tcWI4UWEzQ2JTZlQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 09, 03:35 AM ET",
@@ -333,6 +321,18 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 03:00 AM ET",
+    "publishedAt": "2026-06-16T07:00:00+00:00",
+    "source": "CBS News",
+    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   },
   {
