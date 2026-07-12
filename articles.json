@@ -2,6 +2,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Jul 11, 09:37 PM ET",
+    "publishedAt": "2026-07-12T01:37:43+00:00",
+    "source": "tech-insider.org",
+    "title": "GitHub Copilot Ends Flat-Rate Billing: $0.01/Credit [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12LTVORFpCeHhXdEJPS0YtZWg1RHpWa040RkFjaERBS0dJS1pZbzVDLUJMUEVnRXJiUDI5WGpScXNiUVF5QVQ0TlF4NXpockoyR0tSMlZPWEg2eFVhNFVVaEd6ZlZwS1JsSW5hU05FLTZuaHFTdEE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Jul 11, 02:52 PM ET",
     "publishedAt": "2026-07-11T18:52:58+00:00",
     "source": "StartupHub.ai",
@@ -72,15 +84,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 09, 09:38 PM ET",
-    "publishedAt": "2026-07-10T01:38:59+00:00",
-    "source": "tech-insider.org",
-    "title": "AI Code Has 70% More Bugs, Trust Falls to 33% [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 10, 03:00 AM ET",
+    "publishedAt": "2026-07-10T07:00:00+00:00",
+    "source": "TechRepublic",
+    "title": "With Google’s Gemini, Create Podcast-Style Discussions From Your Docs",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZZG1LMTlVZkt2bmF1d0ExWUJmSWxWOWs5eWFUblRkTkgxaWVhWDhLWnI0N0xfVldZM250SU5yb2stUG1uQ1ZJWHNqeU5yZ1pIUHNZVm8xQjR3VkctR3dsV3pTVnlQeGc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZS13bkZ4Njh5MGVVQVpiS3FKNG9KT1hnSDNZSW1jUnRYQ1BzbGI1eVloenZlVEVsVVZPdDZRQmg3ZXJwRDhKTWJ2VDd2Q3pTcEdleTV0NjZTUllIWmhUaWZ4YmEtS2VnNFJxUFlKRWhkRG1yclM2N2UzMGpoUFJLOUg0ZlZ5R19F?oc=5",
     "difficulty": "News"
   },
   {
@@ -177,18 +189,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2b0MzaEdJa0lmUE12Qi1fQ2VXQS1WQW5TSV9OQnNFX1Y4dzY0RWNkN2ZncWlXS1p4eHdIV21sQkpFSnAxcGRqZXg1VnNNWFc1OUgyamgzcW5tcWI4UWEzQ2JTZlQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 09, 03:58 AM ET",
-    "publishedAt": "2026-07-09T07:58:06+00:00",
-    "source": "MarkTechPost",
-    "title": "Google AI Studio Adds Import from GitHub to Build a Deployable App",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTdHVzgxYzAyb1k3cUMtLUtIQ0FFS3cydFVTM2VYOXBGemZUa21XV1h3Y0x1NGpDaXEzdmtiY2pIVUllVWtTWjg5VjZtdVU2bXh3aE9XTXduemI5TDE3YXFBY2wzM0RURmJOZmtJRDR2WS1nQ3hfeEU3cF83RHl5Y0lNR1h4enda?oc=5",
     "difficulty": "News"
   },
   {
