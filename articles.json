@@ -302,6 +302,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "Mashable",
+    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jun 22, 01:38 PM ET",
     "publishedAt": "2026-06-22T17:38:08+00:00",
     "source": "blog.google",
@@ -357,18 +369,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Apr 15, 03:00 AM ET",
-    "publishedAt": "2026-04-15T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Prepay for the Gemini API to get more control over your spend",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0k5OVA2WHpOY0FDbXBPMk1mRjZRRHMzZllQYm9VVXJMeHVBNk50NGp1dlA0TFdIMWVNMWRBN1dxSmprM3Z4RmJzTVotdGdXb29hSzAwblU4NTVQVFJheGdNRHpvUnJKT3VpRlpNbFdyNkZVYnNLd1RmT0hxYk5sMUd6T2ktOVl2RUZ0Ug?oc=5",
     "difficulty": "News"
   }
 ]
