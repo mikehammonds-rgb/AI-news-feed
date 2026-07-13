@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 13, 07:21 PM ET",
+    "publishedAt": "2026-07-13T23:21:17+00:00",
+    "source": "The Register",
+    "title": "Zig creator calls Bun’s Claude Rust rewrite ‘unreviewed slop’",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmozMXpDdkRqZE1lV3hsSHBobFNrSXEtN0wzV2FlZFVzSzFkUTFJdFhJZVBxb2h2UjRaUHZnU0JqdFN0SlVHX19MZnA5MnZiSkpFdTJWd1VXMjJDRnVxVmFSam8weDdQenRkcFdoSmtFUjkySGRPZFNRSVppanhjUVNSVjNXYXE1Q2ZGcU1yNGE1UXRHZGtCNHBmLUs0X3lLTWF1ekdHRF8wV2lBLUtucER3?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 13, 03:13 PM ET",
@@ -132,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 10, 03:00 AM ET",
-    "publishedAt": "2026-07-10T07:00:00+00:00",
-    "source": "TechRepublic",
-    "title": "ChatGPT vs Google Gemini: What Are the Main Differences?",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51aFY1cTJDMFFVNG5VMlZxcUhHMEJ5WEFZUzN1Mm9CaDdoX19rN0tDd1NXNUZWQTY1MUttejFUbnJZVEMxR2pkWWJPX28tc2Mwcl9sSGtYLUZhbUZKVGEzejEySUZFVTNWS0JiaDB1RQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 09, 06:24 PM ET",
@@ -240,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 08, 03:49 PM ET",
@@ -261,6 +249,18 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 08, 01:01 PM ET",
+    "publishedAt": "2026-07-08T17:01:27+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-Live",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DVXI2NXkzejZWS2piS0F6aTh4YWlHMVRCT3lkTWdsb2NjYkpnOFpSR0hlNWxBd2swaklLak5JanFpY3dSU3lyUnlyalMwbUVJQXE2MHVSZmQ2dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,15 +288,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 07, 07:27 AM ET",
-    "publishedAt": "2026-07-07T11:27:45+00:00",
-    "source": "Malwarebytes",
-    "title": "Claude Code’s hidden tracker was an “experiment,” says Anthropic",
-    "summary": "Malwarebytes is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 30, 02:12 PM ET",
+    "publishedAt": "2026-06-30T18:12:09+00:00",
+    "source": "Mashable",
+    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODBudnBldGVnY3pFRUhvS09kbC1oQ2FXUzhwT3VJZ2x2YmJSRXcwdjFhVlVsNHh0R3VVWTJUakNaUWpyc29BS1IwWTltR2VobUJtZVdWYnJFTGlDTEh6OHNEcHVCWnNfR1dhLTl2Qk1FNXVISGZhbk9pQUx2NXM5amFQQU9Fd0xxLWZzV0dIaHFzcEd0MS1mdGIzLWNnSGtyaDRIRWxTVDB4OTg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
     "difficulty": "News"
   },
   {
@@ -362,13 +362,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "May 19, 03:00 AM ET",
-    "publishedAt": "2026-05-19T07:00:00+00:00",
-    "source": "Mashable",
-    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "time": "May 25, 03:00 AM ET",
+    "publishedAt": "2026-05-25T07:00:00+00:00",
+    "source": "9to5Google",
+    "title": "What Gemini features you get with Google AI Plus, Pro, & Ultra [May 2026]",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMERrMmhzSy1vOFdvSS1XaTAxeVZrSUNmYVgzbV92cE1Jal9fY2ljQmVqMXlRQXVZcm1jSWZNQTV6Qkw1M1BYTVN0YzhCejk3QzFKOHZQZEZPQzBuMml2elBKZkpYal9MLUMyR29xZEdsNHp0dHFhVnRHSl9QXzIyRw?oc=5",
     "difficulty": "News"
   }
 ]
