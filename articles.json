@@ -24,6 +24,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 12, 10:01 PM ET",
+    "publishedAt": "2026-07-13T02:01:07+00:00",
+    "source": "디지털투데이",
+    "title": "Google launches 'Nano Banana2 Lite' at half the price, 2.7 times faster",
+    "summary": "디지털투데이 is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYUR0TThsMDUzY0x0bkNDSUpPM2xzRmJleWJ1WVFlc0tBOXVrUnZNX18ycTVkNlVJR3V2WUh5TlNNWjY0YmlZWm40bTlpWnZKQjI2UHRiYmtZcE1OSXFpenA4ckcyRUJnZTZZNGIxWmdZUW9saTdmMTdEcF9BUkJFcWV6VTZaQzl6enBZMW1wNzJtN0Z5d1duY2pndnNwZ3QtRzlPa2dHb3ItWkNhOWpv?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 12, 09:53 PM ET",
@@ -108,15 +120,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 10, 03:00 AM ET",
     "publishedAt": "2026-07-10T07:00:00+00:00",
-    "source": "TechRepublic",
-    "title": "With Google’s Gemini, Create Podcast-Style Discussions From Your Docs",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "source": "Built In",
+    "title": "What Is Claude AI?",
+    "summary": "Built In is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZS13bkZ4Njh5MGVVQVpiS3FKNG9KT1hnSDNZSW1jUnRYQ1BzbGI1eVloenZlVEVsVVZPdDZRQmg3ZXJwRDhKTWJ2VDd2Q3pTcEdleTV0NjZTUllIWmhUaWZ4YmEtS2VnNFJxUFlKRWhkRG1yclM2N2UzMGpoUFJLOUg0ZlZ5R19F?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFREVzRWM5YkZYenlBd0E0aHZtdl8wa2tsODRhdTFUc09rclA2QzdkY3F2VlBQRUtQUUY5R2dXLV9jU1RBWmFaZFhJRHJaX00?oc=5",
     "difficulty": "News"
   },
   {
@@ -158,18 +170,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 09, 02:30 PM ET",
-    "publishedAt": "2026-07-09T18:30:00+00:00",
-    "source": "WIRED",
-    "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-    "summary": "WIRED is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWFPUzFGbjVnQXpCQmh0d3BybFlmSnR1R0E0WUpLdXBVVTN6eENPajNoS25udGFHSmpITnptUWRScGlXb1o5NnNWMHNFY2pSRHpIS21hZGdpNi1PbHZ0NzJrVThQcDFNaVRSbGRJLVBSa21XX0RmTDBFOXNWRnhhWmdOVU1SV1Nsd1Z4N1BhRDFSSFVhWEdMM2ZaaVFDZlhGVkl6emp3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jul 09, 01:01 PM ET",
     "publishedAt": "2026-07-09T17:01:17+00:00",
     "source": "the-decoder.com",
@@ -177,6 +177,18 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVC1fZnVoOHMxQlZLMXJ6VDRJeFhlQ2k0MzBsR2lQWmE0aFBQNlM4T2lRT1h3dFl3TTA3TkhPeXZ1R1JHb2swWmItdXJLMy04MDR1blMyRy1FTFBxYzR6T1IwOVJzZGFabHd1bk5taXRTcEJVSC1tR05XMWJfQWJJTG8zSUlfWURwS1VVdzBTUy1Sc2JGSVBvQ3V1UkU3b2VvOEdpSmliSmgwcE0xTkJYTDVkc0JEYWc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 12:45 PM ET",
+    "publishedAt": "2026-07-09T16:45:00+00:00",
+    "source": "9to5Mac",
+    "title": "OpenAI unveils ChatGPT Work agent, GPT-5.6 models now available",
+    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV285bnM3dGNiLVJUNFQ1N3Q5UXFpeDJkMjlfNUNDQ0xkNjJvZTl6dWtTTGM1aWhuQzlMaWdiakFVTXpsVHgyRll4Rm1MRkpYeUhXV01wb0x3RDBRdlIwZzRVTUdIVEl3VDBKb1lKNzdoaENtM2FXWG1qOFRUeEJ2SXVuaUZ3UTFGbnNmaHZ2aUVHQVR0ZTNpYjk3Yw?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,15 +204,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 03:35 AM ET",
-    "publishedAt": "2026-07-09T07:35:19+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "OpenAI rolls out GPT-Live voice models for more natural ChatGPT conversations",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 09, 06:24 AM ET",
+    "publishedAt": "2026-07-09T10:24:28+00:00",
+    "source": "The Indian Express",
+    "title": "Google launches AI agent within Search ads in India, expands Gemini-powered ad tools",
+    "summary": "The Indian Express is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVVCQkM1ZTdEQ3ZXREZzNlVnQ0JpMXZyRVNXclNnajBOWi1MTlRSRWw1alJETVpoVGdPbmkzZ3Z1WE1PRE5ZRF9VSXVxLXI0TF8tVUJBN0V3REVpeWt1RkZBdmZxbElyTnM4aVdwaFJTTjJNZDZ3aFQ4QmltSDNScHNEcEpQMUh3REhnRW9hOV83b3FJY25jVjZKUWMyTUxDdnhpMmlFaXRTRk05SGx4LUl0UTJJZm4tcnc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeXZwOWstd2ZrVFhweWg4bmJKM3lDOWZiMkZ6YmNRYmI0eDlmcUtOSHk4TTRMd2wyUXJ6RThjZFlYUV9HcXBweUFTLXlSWU5kaDUzM2M4TU5oMFhadjM5N1dlbF9SRjNlM0FZSktDQnAyQU5WMW9PbTVyY0ZjT2VGX0NjTVdzSTE0eHpZU3VIdENHWDVfM2NMa0ZZRnZVaGJJZ0FZVUlWNmZuVzBBanZSTVh5ZzJBdkxHcGVUZmlRMWtCQdIByAFBVV95cUxQZi1vVjdVNWs2dFdoV0VnSjUxVVdMS0pmSm1MT1JMWmtfZ1pDUWxFaWgzUFZIaUc0cVJQZkdBNllLS3lrZlhWaGRaaEpkbHVETTYwWVNUdTkxdVVvbUllTGVxU3owV0prVXBkbkNXR3JQcWp0Z3VPVEY0THFtbmdOUGJ4emZxbzBJbUt3bEVIYjhwVVNjZTQyanlROFFsdHNMSEZJUHE0REZUcXhORDF6SlBSa2FxR0lCVUk3U1FRLWFDenVQenpFMg?oc=5",
     "difficulty": "News"
   },
   {
@@ -302,6 +314,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "VentureBeat",
+    "title": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbi01RGxBbkQ4MGhPZlFJQVM2QWJpMWViWk13QTVQU05oUDJCM2RyMFFUcjVHOFNlazk4N0hvejJ0clN0ZExwQnpGa2lXNEJZdmtKUmcxMzd0ek5WT252bVBSTGZMTVYyRzctUDU4RWdKOGJqbWFNaXNfek1ySVBkN2I4bDVKMGczSFY5TU5MY09DWjgyRjlLbDlQWXVTSlNkQmNycC1GMHdJOFB4ampDN3E0cTdlYzZjYmNpVDUteWpaU1IxbVNFRXpmREhxMno2N2dYRVBNOExGYURrQlNkRGFGVWk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jun 22, 01:38 PM ET",
     "publishedAt": "2026-06-22T17:38:08+00:00",
     "source": "blog.google",
@@ -333,30 +357,6 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 25, 03:00 AM ET",
-    "publishedAt": "2026-05-25T07:00:00+00:00",
-    "source": "9to5Google",
-    "title": "What Gemini features you get with Google AI Plus, Pro, & Ultra [May 2026]",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMERrMmhzSy1vOFdvSS1XaTAxeVZrSUNmYVgzbV92cE1Jal9fY2ljQmVqMXlRQXVZcm1jSWZNQTV6Qkw1M1BYTVN0YzhCejk3QzFKOHZQZEZPQzBuMml2elBKZkpYal9MLUMyR29xZEdsNHp0dHFhVnRHSl9QXzIyRw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 21, 03:00 AM ET",
-    "publishedAt": "2026-05-21T07:00:00+00:00",
-    "source": "The Verge",
-    "title": "I can’t believe how fast Google vibe coded my first Android app",
-    "summary": "The Verge is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVBIN1d1a2ZPSDVHNmhPXy1QeXIxcTZVS2lFXy1zQmdJcVFOaWg0QmM0eW1HQlFOYlV6Z3doS1lwSXBlMFBqYlFRXzRVanNLVUFOTWpzSjV3SXVTX0NqdTdwdjhyd0J0UzRpRVVzSXBva05ILWV6cXR4UFZrS3pqcHFtSjZXcmNtRDJqYlU4cXdqUVVvRXpHSWExMHltQnk2YTZtNkxLMlVrQXFhYi1BRFNB?oc=5",
     "difficulty": "News"
   },
   {
