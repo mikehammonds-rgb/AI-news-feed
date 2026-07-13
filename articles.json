@@ -1,14 +1,26 @@
 [
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 12, 09:17 PM ET",
-    "publishedAt": "2026-07-13T01:17:00+00:00",
-    "source": "IT Brief Australia",
-    "title": "Microsoft 365 Copilot to get GPT-5.6 default model",
-    "summary": "IT Brief Australia is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 13, 12:06 AM ET",
+    "publishedAt": "2026-07-13T04:06:01+00:00",
+    "source": "Tech Times",
+    "title": "Agent Harness ECC Tops 228K Stars: Free Tool Turns Claude Code Into a Full Dev Team",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNUxPMW1pclJ3VEh6MF92akw5d0VkYWh3dGc0UGVZT1FacUJVU0hLUE9fTDFONjBvMGN6enFzS0JiTy1sSC1uOHF3NlktLVpsLWt5Y0FSMVNRMFp2YlZvb3gtUTlTUGpORHl4amRaandpSmlEV2kzQUQ1MnFkbkM5dDlvc3RIUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVRnTU9DaTdZRjNRMC1IVml4eTNkbUN1Y0diZXAxMjJZRDFEN1BJdGNpQ0xQSXI3T2pKZmRNRVAwdjJmU2t1c0hRaHZtSlVaMWp2SEdyeFlzV041dFQ1MUgxWmlVYXdMUXBfNElVOGhVaElPTVNJaDBWSGp1VVRpSjVsNVRaWWw5a0xGQWJKTjhfZ21fSklhVDFaYkpIV0RTRW9YV0Ffdk1CTXdtRHYzTFNTcHVvaEQwMEJwWE5CSktpNkJUVTZadG53?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 12, 11:40 PM ET",
+    "publishedAt": "2026-07-13T03:40:47+00:00",
+    "source": "NDTV Profit",
+    "title": "Anthropic Extends Free Claude Fable 5 Access By Another Week",
+    "summary": "NDTV Profit is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3RLQURZNmdtUTVmcUNCNjM4aEhpS2laaEhwQ05kY0J1NHNvYjFzY3QyU2RRQm5reWo2dW1XNlFxLTdSTTczWGMyZl9oV3ZNeWxjdU5oZkxoZGpiWXdpNC1wSG4xeEpnSVJHbmtBTWx0VzhJM0lqNlh4MXh4cU1oLW13RmZxNUNXd2dZY3BVR1FFd3NlclhRZ25DVVUxN29LblHSAaoBQVVfeXFMTVppYWlfVVk5VnhGTXJEbmE3OVVVbjRRUWplY0lqQ25XSHByRlNuTUZBNDllekMydWs5bHhhQVhGbWZZZjY4WHBrYmFDUVMzdzg1akpOX2t0UjNaWk9UN2dtSlgxSDBzcGVZWmxKTklmWTlxZl80ejNZMFdpT21HR19WVVd2Smo0QUtkNkxzVV92bGtSaUtCZG5ZZ19CbTFwb1FkR0xyUGg5aWc?oc=5",
     "difficulty": "News"
   },
   {
@@ -50,18 +62,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 10, 03:52 PM ET",
-    "publishedAt": "2026-07-10T19:52:17+00:00",
-    "source": "qz.com",
-    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jul 10, 01:42 PM ET",
     "publishedAt": "2026-07-10T17:42:59+00:00",
     "source": "Wccftech",
@@ -74,18 +74,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jul 10, 12:52 PM ET",
-    "publishedAt": "2026-07-10T16:52:34+00:00",
-    "source": "EIN News",
-    "title": "The Rise of AI Website Builders: Where Bezier AI Fits Among Cursor, Lovable, Bolt.new, v0, Replit, and GitHub",
-    "summary": "EIN News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNczFyVkRxVXY2ekRrSk0yc1d6akp5QU83QVdkNV9heUNTZklVSWJReGN0aG5LNkRwZ1M5SV8tdXhmWlBlZUdBT2dScWJJRmZWY3JaUExvcXR0YjY1MTFNZ0E4SXVmWUlVS1N0ejBmMVdKcjdaeUhpTlRldnFzS01oejNMUzRuZFR0WEJkZm5WVmNLNUZMSWlzUjd5MEw3R0VUb3dGV0hfWlhxVW40dEo2VWhBTnl3b1pFSnM0LXRTVTNETkROcThOVVhkQ0VTSmNCZ3ZpWnpMcHpzTENnc2RoR1ZjSUd5RjVzWHFERXh30gHuAUFVX3lxTE1zMXJWRHFVdjZ6RGtKTTJzV3pqSnlBTzdBV2Q1X2F5Q1NmSVVJYlF4Y3Robks2RHBnUzlJXy11eGZaUGVlR0FPZ1JxYklGZlZjclpQTG9xdHRiNjUxMU1nQThJdWZZSVVLU3R6MGYxV0pyN1p5SGlOVGV2cXNLTWh6M0xTNG5kVHRYQmRmblZWY0s1RkxJaXNSN3kwTDdHRVRvd0ZXSF9aWHFVbjR0SjZVaEFOeXdvWkVKczQtdFNVM0RORE5xOE5VWGRDRVNKY0JndmlaekxwenNMQ2dzZGhHVmNJR3lGNXNYcURFeHc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Jul 10, 11:58 AM ET",
     "publishedAt": "2026-07-10T15:58:08+00:00",
     "source": "The GitHub Blog",
@@ -93,6 +81,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVBxbnNGdDgwZE1Ucmd0WFpOVDJGall6UDZMUjBBWXc0dUNsQ0pfOTZDelBVM1lNcFE3ZmNVc3l3bkJxRmNhVXpYd2VvV2NnUXlDTnVTckd6Z2stcS1HOVBmUjBpem5UVWo1UkFVc1NSUGZ6bldLOHplMlIwYVZvWmMydW1DaW5pbTdJUlZ1M0NBT0ZZQ2IwcWotb3c5eV9rYzBDZDlKbVNyYTE4aXZvQmpNVlRaR2RlUlRScVlSR0g?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 10, 10:19 AM ET",
+    "publishedAt": "2026-07-10T14:19:00+00:00",
+    "source": "EIN Presswire",
+    "title": "The Rise of AI Website Builders: Where Bezier AI Fits Among Cursor, Lovable, Bolt.new, v0, Replit, and GitHub Copilot",
+    "summary": "EIN Presswire is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcjFhUllDR3lZdk5BSUNLb2RaR3haSndkTl9BNGF1RWE0UFdVbC1XM1NBUUY5MERzeHlYVkIyTUxyVDBScDVoOXlTZ1BQMkw3OEpQSktiRG1mQ0pLQnhPa0NmbHozV0JPQWxKWGtLb0d0UUI1dlYyRzlwcVM5MGhfS2ZwbGRnR3ViQkNXemlsMFdXaWJEbFJCakhTVjRLLUFuUDJOYy1weGVYSmdQMkZOWGdKcGItaFF1YjhZejlONXhSLWRPZzAtZUJlY2VNV3lqWm1DOU1vZkxqb1lmUWd5TG9sWjU0VzNNa3NMM0ZTaw?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,18 +120,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 09:01 PM ET",
-    "publishedAt": "2026-07-10T01:01:19+00:00",
-    "source": "Startup Fortune",
-    "title": "Anthropic Resets Claude Code Usage Limits Again After a Rough Week of Outages",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2h1NmxkaEpnNlpkemhuNl9BMkQ1eThoekRBdnhGendRRkRjRTRrcTUxSmF5M3RkRlhnNzI5WmttRE9HVlp3clhHWmV0alpxX0NVaHRNcHVjcFVsWU53NTZCLVRDT0w2dzQwYm1UU3o1OFQyNWpxUGQ3Wkc0anRhR081eTZBQ3V6a19BTnJTT254S1luRjhQZ3pjLWtGMS1aSGRlTlpmajg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 09, 06:24 PM ET",
@@ -146,6 +134,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 09, 04:58 PM ET",
+    "publishedAt": "2026-07-09T20:58:23+00:00",
+    "source": "qz.com",
+    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 09, 03:57 PM ET",
     "publishedAt": "2026-07-09T19:57:00+00:00",
     "source": "The Information",
@@ -153,18 +153,6 @@
     "summary": "The Information is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2tEWU1XQmk4OEdCcHhKSmF1VkFwMUxLcUJsQTVRY2N3NEhkMXduSUo3bVBBUk1zYUp6Q2p2QWozRHZ5NnJwM2VLSG0yUkJSOV9JMGpoZjl6R3Jsa0UxZnozeGQ1NjI1Z3NobzZMQlpLNjJBVTZSR3plRTJ6T2pCalhKUHVubnBlOENtVTBSN0dOUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 02:30 PM ET",
-    "publishedAt": "2026-07-09T18:30:00+00:00",
-    "source": "WIRED",
-    "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-    "summary": "WIRED is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWFPUzFGbjVnQXpCQmh0d3BybFlmSnR1R0E0WUpLdXBVVTN6eENPajNoS25udGFHSmpITnptUWRScGlXb1o5NnNWMHNFY2pSRHpIS21hZGdpNi1PbHZ0NzJrVThQcDFNaVRSbGRJLVBSa21XX0RmTDBFOXNWRnhhWmdOVU1SV1Nsd1Z4N1BhRDFSSFVhWEdMM2ZaaVFDZlhGVkl6emp3?oc=5",
     "difficulty": "News"
   },
   {
@@ -204,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 08, 03:49 PM ET",
@@ -225,6 +201,18 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 08, 01:25 PM ET",
+    "publishedAt": "2026-07-08T17:25:23+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-Live",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DVXI2NXkzejZWS2piS0F6aTh4YWlHMVRCT3lkTWdsb2NjYkpnOFpSR0hlNWxBd2swaklLak5JanFpY3dSU3lyUnlyalMwbUVJQXE2MHVSZmQ2dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -264,6 +252,30 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 07, 12:35 AM ET",
+    "publishedAt": "2026-07-07T04:35:09+00:00",
+    "source": "MarkTechPost",
+    "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjV2dTg5UUl2NUtTV3cza3dJVS1TX3kzU3cwVWhjTTAxeUFoZTlpSkwzX0t4TGdocVozenN3Z1ZUTGR1bC1zazBTaGlmUUhrdFJNeWFjRTFiM0htUDNtdERnd24xUnpaWlR5dXcya3ZkZ1VrX0lpWjc4WnpCenRUZkRLOWhrc2hnOTI0VmkwemZlY24yWEtz?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 30, 02:12 PM ET",
+    "publishedAt": "2026-06-30T18:12:09+00:00",
+    "source": "Mashable",
+    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 30, 03:00 AM ET",
@@ -285,18 +297,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekN6bWs1SGhfZTg5MEhSMzZRdmROT0tCRUdvVm9QYU9wR3NpeURFRmRiY2JCYUdoR1cybHVic0h2MnFIb2ZGSE5DM3JONEtwekFzcUJ2QnhsMjV3YjZYWmlxQ0dnYXN5NWZMdDExZm9RVnl6MDNEV25qLVQyaVN3S245WXN6WlFHR1NYYm14bS1JYUhmZFJaN244QWEyN1JIVHo1bUdNNG1OWEI3d2c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 03:00 AM ET",
-    "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "Mashable",
-    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
     "difficulty": "News"
   },
   {
