@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 13, 12:21 AM ET",
+    "publishedAt": "2026-07-13T04:21:18+00:00",
+    "source": "Forbes",
+    "title": "Claude Fable 5 Extends To July 19. 7 Days, 7 Power Moves",
+    "summary": "Forbes is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnlHZk5GTWlVYVNBTWJGZUdqbnE1bllJc29UNUFVandHdUhvcEhpNnRKdFdDSVNqOThFS2NTN2gwcFFodG12VTNJNHlJcndZU1EydDhSWmVMSWFXVkc1NGRMWWNnSGdKS2JUaDBDT3pnQzg1SzVOMUx2ay1OODlodU10Yk9zdEFacWFUVTVmak5HYjRKVHRtN21vNXN1T0ItZUpNZzhLYmcxeE0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 13, 12:06 AM ET",
     "publishedAt": "2026-07-13T04:06:01+00:00",
     "source": "Tech Times",
@@ -12,27 +24,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 12, 11:40 PM ET",
-    "publishedAt": "2026-07-13T03:40:47+00:00",
-    "source": "NDTV Profit",
-    "title": "Anthropic Extends Free Claude Fable 5 Access By Another Week",
-    "summary": "NDTV Profit is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 12, 09:53 PM ET",
+    "publishedAt": "2026-07-13T01:53:29+00:00",
+    "source": "Intelligent Living",
+    "title": "LLM API Pricing Comparison: Every Major Model Compared by Cost",
+    "summary": "Intelligent Living is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3RLQURZNmdtUTVmcUNCNjM4aEhpS2laaEhwQ05kY0J1NHNvYjFzY3QyU2RRQm5reWo2dW1XNlFxLTdSTTczWGMyZl9oV3ZNeWxjdU5oZkxoZGpiWXdpNC1wSG4xeEpnSVJHbmtBTWx0VzhJM0lqNlh4MXh4cU1oLW13RmZxNUNXd2dZY3BVR1FFd3NlclhRZ25DVVUxN29LblHSAaoBQVVfeXFMTVppYWlfVVk5VnhGTXJEbmE3OVVVbjRRUWplY0lqQ25XSHByRlNuTUZBNDllekMydWs5bHhhQVhGbWZZZjY4WHBrYmFDUVMzdzg1akpOX2t0UjNaWk9UN2dtSlgxSDBzcGVZWmxKTklmWTlxZl80ejNZMFdpT21HR19WVVd2Smo0QUtkNkxzVV92bGtSaUtCZG5ZZ19CbTFwb1FkR0xyUGg5aWc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 12, 08:26 AM ET",
-    "publishedAt": "2026-07-12T12:26:41+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude vs Gemini: Fable 5 Beats Opus 4.8 by 11 Points",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81Zno3cU1POTJkZWxTVW92MGprNWF3WTM0a3RRaC1FRXR5NXpfcXlUUTJkZGhDanEweXRQY1dpczEtb0dzTXg1blFZYWNDU1FoanI0b2NSdGFiZU4zTk8yeEV5ak1vSXBf?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50LWVFVVdWak15V3BnNV8xcmJzb2MwVTZ5dmdfcHhmYjFyU1NySXpoZW9adXFOeUwtTnZIalc4N2RkcGVtVXFCZkhfR3lLaGxpdF9SUERCaUo2LWtDUDlVRUZhdFkwVzFvTFNtLQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -74,6 +74,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Jul 10, 12:52 PM ET",
+    "publishedAt": "2026-07-10T16:52:34+00:00",
+    "source": "EIN News",
+    "title": "The Rise of AI Website Builders: Where Bezier AI Fits Among Cursor, Lovable, Bolt.new, v0, Replit, and GitHub",
+    "summary": "EIN News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNczFyVkRxVXY2ekRrSk0yc1d6akp5QU83QVdkNV9heUNTZklVSWJReGN0aG5LNkRwZ1M5SV8tdXhmWlBlZUdBT2dScWJJRmZWY3JaUExvcXR0YjY1MTFNZ0E4SXVmWUlVS1N0ejBmMVdKcjdaeUhpTlRldnFzS01oejNMUzRuZFR0WEJkZm5WVmNLNUZMSWlzUjd5MEw3R0VUb3dGV0hfWlhxVW40dEo2VWhBTnl3b1pFSnM0LXRTVTNETkROcThOVVhkQ0VTSmNCZ3ZpWnpMcHpzTENnc2RoR1ZjSUd5RjVzWHFERXh30gHuAUFVX3lxTE1zMXJWRHFVdjZ6RGtKTTJzV3pqSnlBTzdBV2Q1X2F5Q1NmSVVJYlF4Y3Robks2RHBnUzlJXy11eGZaUGVlR0FPZ1JxYklGZlZjclpQTG9xdHRiNjUxMU1nQThJdWZZSVVLU3R6MGYxV0pyN1p5SGlOVGV2cXNLTWh6M0xTNG5kVHRYQmRmblZWY0s1RkxJaXNSN3kwTDdHRVRvd0ZXSF9aWHFVbjR0SjZVaEFOeXdvWkVKczQtdFNVM0RORE5xOE5VWGRDRVNKY0JndmlaekxwenNMQ2dzZGhHVmNJR3lGNXNYcURFeHc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Jul 10, 11:58 AM ET",
     "publishedAt": "2026-07-10T15:58:08+00:00",
     "source": "The GitHub Blog",
@@ -81,18 +93,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVBxbnNGdDgwZE1Ucmd0WFpOVDJGall6UDZMUjBBWXc0dUNsQ0pfOTZDelBVM1lNcFE3ZmNVc3l3bkJxRmNhVXpYd2VvV2NnUXlDTnVTckd6Z2stcS1HOVBmUjBpem5UVWo1UkFVc1NSUGZ6bldLOHplMlIwYVZvWmMydW1DaW5pbTdJUlZ1M0NBT0ZZQ2IwcWotb3c5eV9rYzBDZDlKbVNyYTE4aXZvQmpNVlRaR2RlUlRScVlSR0g?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 10, 10:19 AM ET",
-    "publishedAt": "2026-07-10T14:19:00+00:00",
-    "source": "EIN Presswire",
-    "title": "The Rise of AI Website Builders: Where Bezier AI Fits Among Cursor, Lovable, Bolt.new, v0, Replit, and GitHub Copilot",
-    "summary": "EIN Presswire is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcjFhUllDR3lZdk5BSUNLb2RaR3haSndkTl9BNGF1RWE0UFdVbC1XM1NBUUY5MERzeHlYVkIyTUxyVDBScDVoOXlTZ1BQMkw3OEpQSktiRG1mQ0pLQnhPa0NmbHozV0JPQWxKWGtLb0d0UUI1dlYyRzlwcVM5MGhfS2ZwbGRnR3ViQkNXemlsMFdXaWJEbFJCakhTVjRLLUFuUDJOYy1weGVYSmdQMkZOWGdKcGItaFF1YjhZejlONXhSLWRPZzAtZUJlY2VNV3lqWm1DOU1vZkxqb1lmUWd5TG9sWjU0VzNNa3NMM0ZTaw?oc=5",
     "difficulty": "News"
   },
   {
@@ -158,6 +158,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 09, 02:30 PM ET",
+    "publishedAt": "2026-07-09T18:30:00+00:00",
+    "source": "WIRED",
+    "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+    "summary": "WIRED is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWFPUzFGbjVnQXpCQmh0d3BybFlmSnR1R0E0WUpLdXBVVTN6eENPajNoS25udGFHSmpITnptUWRScGlXb1o5NnNWMHNFY2pSRHpIS21hZGdpNi1PbHZ0NzJrVThQcDFNaVRSbGRJLVBSa21XX0RmTDBFOXNWRnhhWmdOVU1SV1Nsd1Z4N1BhRDFSSFVhWEdMM2ZaaVFDZlhGVkl6emp3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 09, 01:01 PM ET",
     "publishedAt": "2026-07-09T17:01:17+00:00",
     "source": "the-decoder.com",
@@ -192,6 +204,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 03:00 AM ET",
+    "publishedAt": "2026-07-09T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 08, 03:49 PM ET",
@@ -201,18 +225,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 08, 01:25 PM ET",
-    "publishedAt": "2026-07-08T17:25:23+00:00",
-    "source": "OpenAI",
-    "title": "Introducing GPT-Live",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DVXI2NXkzejZWS2piS0F6aTh4YWlHMVRCT3lkTWdsb2NjYkpnOFpSR0hlNWxBd2swaklLak5JanFpY3dSU3lyUnlyalMwbUVJQXE2MHVSZmQ2dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -249,18 +261,6 @@
     "summary": "Malwarebytes is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODBudnBldGVnY3pFRUhvS09kbC1oQ2FXUzhwT3VJZ2x2YmJSRXcwdjFhVlVsNHh0R3VVWTJUakNaUWpyc29BS1IwWTltR2VobUJtZVdWYnJFTGlDTEh6OHNEcHVCWnNfR1dhLTl2Qk1FNXVISGZhbk9pQUx2NXM5amFQQU9Fd0xxLWZzV0dIaHFzcEd0MS1mdGIzLWNnSGtyaDRIRWxTVDB4OTg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 07, 12:35 AM ET",
-    "publishedAt": "2026-07-07T04:35:09+00:00",
-    "source": "MarkTechPost",
-    "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjV2dTg5UUl2NUtTV3cza3dJVS1TX3kzU3cwVWhjTTAxeUFoZTlpSkwzX0t4TGdocVozenN3Z1ZUTGR1bC1zazBTaGlmUUhrdFJNeWFjRTFiM0htUDNtdERnd24xUnpaWlR5dXcya3ZkZ1VrX0lpWjc4WnpCenRUZkRLOWhrc2hnOTI0VmkwemZlY24yWEtz?oc=5",
     "difficulty": "News"
   },
   {
