@@ -146,18 +146,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 10, 09:00 AM ET",
-    "publishedAt": "2026-07-10T13:00:36+00:00",
-    "source": "qz.com",
-    "title": "OpenAI's newest AI model is becoming the preferred engine for Microsoft 365 Copilot",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOQmRnOGdsd2xsMkdXS1A3VzdpUUF6eV80c2l0bU9mUEtzZ0xpM3c0cGdOWVF2ZHVpZTFvS2l5dlQzZ0U2b3F5a3hMVl9nUHUyN0pNeWZfb3gwRXotMU4zcHlSak5MZTVnMmpLb2tkWkxQclVCVHRJblh6RkJOdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jul 10, 05:15 AM ET",
     "publishedAt": "2026-07-10T09:15:24+00:00",
     "source": "OpenAI",
@@ -189,6 +177,18 @@
     "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMVhYUFljQ1ItMjFHNnVLNmhrQk1FUnVvQmlFeC1YUUNwY1ZpTlF5bVBKM0UzeVV2QmYzVUNjVnFKV2FnWEEyVjNfZndRZ0pGcHY0c05aWWZrNVFIcExEYmQ3cVNpRDBtZENhX0JQazRXb3lvUW93UG5PVVNkQVVrMDgyQWdxTVJ6UWFaVUdid3VwSnMt?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 04:58 PM ET",
+    "publishedAt": "2026-07-09T20:58:23+00:00",
+    "source": "qz.com",
+    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
     "difficulty": "News"
   },
   {
@@ -290,6 +290,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jul 01, 03:00 AM ET",
+    "publishedAt": "2026-07-01T07:00:00+00:00",
+    "source": "blog.google",
+    "title": "The latest AI news we announced in June 2026",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSklUX3E0LWlteG0tQ3UycXBxQkdraXBVdDdEbVd4RzBtWXFuZTVkYWxXMUMzMm9vbHA0Q0Roa3JWd19ob1NCQUtIUUdBTlNoU0hMRmhSdU1pQU5yWU1zQmlVS2U5ay0zNkFxaGJjQUpwUGE0S1BCWVZHaFc3VjdQZmp6YjYyeUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jun 30, 02:12 PM ET",
     "publishedAt": "2026-06-30T18:12:09+00:00",
     "source": "Mashable",
@@ -321,18 +333,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekN6bWs1SGhfZTg5MEhSMzZRdmROT0tCRUdvVm9QYU9wR3NpeURFRmRiY2JCYUdoR1cybHVic0h2MnFIb2ZGSE5DM3JONEtwekFzcUJ2QnhsMjV3YjZYWmlxQ0dnYXN5NWZMdDExZm9RVnl6MDNEV25qLVQyaVN3S245WXN6WlFHR1NYYm14bS1JYUhmZFJaN244QWEyN1JIVHo1bUdNNG1OWEI3d2c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 03:00 AM ET",
-    "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "VentureBeat",
-    "title": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbi01RGxBbkQ4MGhPZlFJQVM2QWJpMWViWk13QTVQU05oUDJCM2RyMFFUcjVHOFNlazk4N0hvejJ0clN0ZExwQnpGa2lXNEJZdmtKUmcxMzd0ek5WT252bVBSTGZMTVYyRzctUDU4RWdKOGJqbWFNaXNfek1ySVBkN2I4bDVKMGczSFY5TU5MY09DWjgyRjlLbDlQWXVTSlNkQmNycC1GMHdJOFB4ampDN3E0cTdlYzZjYmNpVDUteWpaU1IxbVNFRXpmREhxMno2N2dYRVBNOExGYURrQlNkRGFGVWk?oc=5",
     "difficulty": "News"
   },
   {
