@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 13, 11:26 PM ET",
+    "publishedAt": "2026-07-14T03:26:08+00:00",
+    "source": "The Economic Times",
+    "title": "Anthropic rolls out rupee pricing for Claude AI in India",
+    "summary": "The Economic Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWZ5UVhnTk9GS3cyZ1I3NUJSdFpUMEZOUzJ4Ylo2S042d1BPUEhLUVNGWHhsNnZwcWNOZ0dzYldRZ29yd2xHRjhLR0N3OUZlSWxoQjQ4N1VTRGZmeFB4a29jOXplOE50bUVscVFob0NJcUR1MmhpWm1XRGFGdUUwZUVPaFgxUlQtRDg1c2VIS3VZaXpSalRrUFQ1SXMxYm5Ja1NTeElmUk10S3cycEJQcU9PWG5yMFo2aDRvcndWTHZzckVkN2Y3VmI4bEdpeTkyV195NUtn0gHbAUFVX3lxTE5seDRuZi1XdGxuRFJKT01XbkpoSmFlemJpV2FyeGlUd2ZCbW1nWDVheVotaFlVQl9BUmxXSkZRZ2dxVXpIemhJTHQ5MzVQUF81MFpUOFljcm9BQUJ2NUJ0QVhZLWgwdmh1ZmVLcHZGVlFad0pRRTVMWjRaTS1RdTRjdnZ0WGN3VXlpRjlpLU44UDRrT1FxVXBjTzNBQW1OZHVCVUl0alpBUExYRGdjZ0JqNFY0bUFPN3JlWUxOazBLQVlHcUw0d2xKanhPNGJ5VG9EbTRHOTRyWE5Tcw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 13, 08:58 PM ET",
     "publishedAt": "2026-07-14T00:58:47+00:00",
     "source": "MarkTechPost",
@@ -69,18 +81,6 @@
     "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1JGSzRrUmV3VVFxVklmcHhpWDVXUTZYaVpnVVp3Y0Q4WVFpR2pjdVRKdWFUVHJDcjFLZ0tZU2NrUTAyY0w0U0dJdzJXekZXOGxNSTZ0TXJVdEZDTENzWTl0X01Mb3FBVWtvdUQzMEhSbDB0dUEtQllaczZNNklzdTAwYVJYVlpXUndSeVVJMXFuWE1wVTA0a05paTZrVUYweTZ3bmdsbXlYWFhWV2REamFaYllYNk8zOEZhZGM1MDFoOHRiQThFUWl3QQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 13, 03:01 AM ET",
-    "publishedAt": "2026-07-13T07:01:02+00:00",
-    "source": "Medium",
-    "title": "GPT-5.6 Took Thirteen Days to Move From Restricted Preview to General Availability | by The Ai Consultancy | Jul, 2026",
-    "summary": "Medium is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeWdkX2FTM0twQmhTMWxDZk00SGwzNnJaTi1rYTlhb1JYeDFWLThpMzg4T2ZXLURCbmt6VkgwSWY0ZUJzbWVTdjRmN29taUwxMUw0eTE0S0N4b2RCbkJmaWZkZGRIMkVmd2pxZFN2UDFyUHJ5NEdqS1VQVDhBLU9KTllGRFpKZWE5U3BreFhtdmVzbE9ueVVaZmFZVkNsZmVaTmhWajRBQ254X09QTU1jcjQwUzh6Q01NeGhnXzM2dkVmZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,6 +216,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 04:45 PM ET",
+    "publishedAt": "2026-07-09T20:45:42+00:00",
+    "source": "MarkTechPost",
+    "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmlGbGEyckI3SndtdUhRVHpXQlIwV3IwNlhxbHpHLWdEa0MzdGRIUHdNYldKVVV4MjFBZUFMS3AwWENMZDlQSGNUVm8yWG16OUU3aDIwTlBHRDExWFdvaktlUVVSMnNGWjdrNks3TTZQby1yZEZFTkVsaFF1TGotbUstSENNLWJtTkNGakJROGozejcwdGFjNFNNcGRFSm4wUFdNTTBqRlFvM2ZnVlBycjBNZ1F2dmlzeElaV0FR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 09, 03:57 PM ET",
@@ -338,6 +350,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "VentureBeat",
+    "title": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbi01RGxBbkQ4MGhPZlFJQVM2QWJpMWViWk13QTVQU05oUDJCM2RyMFFUcjVHOFNlazk4N0hvejJ0clN0ZExwQnpGa2lXNEJZdmtKUmcxMzd0ek5WT252bVBSTGZMTVYyRzctUDU4RWdKOGJqbWFNaXNfek1ySVBkN2I4bDVKMGczSFY5TU5MY09DWjgyRjlLbDlQWXVTSlNkQmNycC1GMHdJOFB4ampDN3E0cTdlYzZjYmNpVDUteWpaU1IxbVNFRXpmREhxMno2N2dYRVBNOExGYURrQlNkRGFGVWk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jun 22, 01:38 PM ET",
     "publishedAt": "2026-06-22T17:38:08+00:00",
     "source": "blog.google",
@@ -357,18 +381,6 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "May 25, 03:00 AM ET",
-    "publishedAt": "2026-05-25T07:00:00+00:00",
-    "source": "9to5Google",
-    "title": "What Gemini features you get with Google AI Plus, Pro, & Ultra [May 2026]",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMERrMmhzSy1vOFdvSS1XaTAxeVZrSUNmYVgzbV92cE1Jal9fY2ljQmVqMXlRQXVZcm1jSWZNQTV6Qkw1M1BYTVN0YzhCejk3QzFKOHZQZEZPQzBuMml2elBKZkpYal9MLUMyR29xZEdsNHp0dHFhVnRHSl9QXzIyRw?oc=5",
     "difficulty": "News"
   }
 ]
