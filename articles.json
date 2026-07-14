@@ -72,6 +72,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 13, 03:01 AM ET",
+    "publishedAt": "2026-07-13T07:01:02+00:00",
+    "source": "Medium",
+    "title": "GPT-5.6 Took Thirteen Days to Move From Restricted Preview to General Availability | by The Ai Consultancy | Jul, 2026",
+    "summary": "Medium is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeWdkX2FTM0twQmhTMWxDZk00SGwzNnJaTi1rYTlhb1JYeDFWLThpMzg4T2ZXLURCbmt6VkgwSWY0ZUJzbWVTdjRmN29taUwxMUw0eTE0S0N4b2RCbkJmaWZkZGRIMkVmd2pxZFN2UDFyUHJ5NEdqS1VQVDhBLU9KTllGRFpKZWE5U3BreFhtdmVzbE9ueVVaZmFZVkNsZmVaTmhWajRBQ254X09QTU1jcjQwUzh6Q01NeGhnXzM2dkVmZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 13, 12:21 AM ET",
@@ -165,18 +177,6 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 05:06 PM ET",
-    "publishedAt": "2026-07-09T21:06:13+00:00",
-    "source": "TestingCatalog AI News",
-    "title": "OpenAI launches GPT-5.6 Sol, Terra, and Luna on apps and API",
-    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMVhYUFljQ1ItMjFHNnVLNmhrQk1FUnVvQmlFeC1YUUNwY1ZpTlF5bVBKM0UzeVV2QmYzVUNjVnFKV2FnWEEyVjNfZndRZ0pGcHY0c05aWWZrNVFIcExEYmQ3cVNpRDBtZENhX0JQazRXb3lvUW93UG5PVVNkQVVrMDgyQWdxTVJ6UWFaVUdid3VwSnMt?oc=5",
     "difficulty": "News"
   },
   {
