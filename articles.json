@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 14, 04:55 PM ET",
+    "publishedAt": "2026-07-14T20:55:01+00:00",
+    "source": "Hardware Secrets",
+    "title": "AI API Providers How to Compare Them — and Reach Them All at Once",
+    "summary": "Hardware Secrets is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHQtUjZfM3pMSTBxMlR5VU15Ymk1d3FHV1ZQOVd2SVNKVGpPWTF6dkpBeUt3b3VxR29Najgwdkt2SzlWYjBHM1Jzcko2alFGRlZkUlp3UUw3c1l5RXBROGUyU1VKWDZVQ3d2WXdSY1EwZ3Z0Vk9tbEZOajVrN3ZHOUplYnlkdnRaajROWmRFWk9HSnRTLV9v?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 14, 04:30 PM ET",
@@ -144,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 11, 02:52 PM ET",
-    "publishedAt": "2026-07-11T18:52:58+00:00",
-    "source": "StartupHub.ai",
-    "title": "Copilot Eliminates GitHub Pages DNS Hassle",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUJuZ2lnVU5MWUVCSGx2cGl1LWZtREhvdlJTRXNIWWlIc1F5T212X1FabXBnNk1nMUdpQkhlQzdsUXJhaGxMR1JsdzFVaW9sMUU2c0wxd0tfQ0MzWGlkd19MUGVQb3IyVlV1Z3k5Q3ozcWd0UVRuY2ZydFFMb0dmNXZ3czRnSVJNTnBRWmUwY0JwUjl1LXdJ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 10, 05:50 PM ET",
@@ -213,18 +213,6 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 05:06 PM ET",
-    "publishedAt": "2026-07-09T21:06:13+00:00",
-    "source": "TestingCatalog AI News",
-    "title": "OpenAI launches GPT-5.6 Sol, Terra, and Luna on apps and API",
-    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMVhYUFljQ1ItMjFHNnVLNmhrQk1FUnVvQmlFeC1YUUNwY1ZpTlF5bVBKM0UzeVV2QmYzVUNjVnFKV2FnWEEyVjNfZndRZ0pGcHY0c05aWWZrNVFIcExEYmQ3cVNpRDBtZENhX0JQazRXb3lvUW93UG5PVVNkQVVrMDgyQWdxTVJ6UWFaVUdid3VwSnMt?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,6 +345,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 22, 03:00 AM ET",
+    "publishedAt": "2026-06-22T07:00:00+00:00",
+    "source": "The New Stack",
+    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
     "difficulty": "News"
   },
   {
