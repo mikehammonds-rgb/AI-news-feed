@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 14, 10:00 PM ET",
+    "publishedAt": "2026-07-15T02:00:00+00:00",
+    "source": "IT Brief Australia",
+    "title": "Google named IDC MarketScape Leader in AI software",
+    "summary": "IT Brief Australia is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON0pVLTE5STBvT1c3eENWaU80cVp0NlhLTlBCbzVmRE9KNFFNUHkyOE9VYXowMFBsVTd3TEZCYzJUMmYycF9pSFp3M1pSc01HRi1hWjNsS1pYUUFKNWdYakozY0k2QzNGQ0dudWNfZjdjVXpyVmtmQjV1LUtNYU5VSGoxQzc5dw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 14, 07:00 PM ET",
@@ -36,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 14, 09:00 AM ET",
-    "publishedAt": "2026-07-14T13:00:00+00:00",
-    "source": "Stock Titan",
-    "title": "Varonis Brings Runtime Security to Claude Code and Cowork",
-    "summary": "Stock Titan is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0ZSSFM5N3pJZ3NsTk10eG9zZ2lTbENTZlg5V2hqeUREYW5CVnlNY2dDN1ljcy1RZm9vVVpleHY0MHdVLU54cVZReTI0NFlXT1VIRTlEN2tpOTNYS1dSYmNXWmRYVE81UVE3dEhvT0Z5M0ZXYzlRd1ZuN3pERXJBZHlsWHJxb2E2NXlkX1Z6SVR2VGVaTW9peEE5ZnBVU1YyalBGSjJGeWx1ay1mRTdUQTRNZnFLVUhD?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 14, 08:00 AM ET",
@@ -57,30 +57,6 @@
     "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazBCTE1hWl8yaUVPZHpGZEd3ZXBfbDdMTmQxcDNNdmxDV1BGNkVIOEk1aUwzRmtYR2xWWkxvS08xTm9SOTMxN0JpNFZUeGhWVW9PYWNuUXJGQ3NMUmJDaHoxSmhaRXhqMkp5S1J6bkxJR05ya1U5ai1jVHhsMEo2S28tek1iVTdVOHJjaHpxa3JEaEphck5kMUlubGJwR2l6Snc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 14, 02:58 AM ET",
-    "publishedAt": "2026-07-14T06:58:50+00:00",
-    "source": "YourStory.com",
-    "title": "How Google Cloud’s Gemini Enterprise is helping MSMEs build AI agents without writing code",
-    "summary": "YourStory.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM056MFFSUlJ4SF9pTUo2MzdnMEhoWlBMOGdlcHJCU2ttNll5VjVEMVQtU21vNVdJNTdXTm1qdzVYZ2tPSTdORkxzcV90c0dyaFhjajZsNXluc2dRS0VEVFlVa3Jpbkhna0t0TEFJTzRvMXVZS2RFSkhxSTFWV2xSeGQ3X2dMa1B1cGhIbjZ4TzNhRFh5X1BYeHBJVmt4VTlrSW9wekdSTUp1djF3QnhOQWltTFlNTmdhV0h3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 13, 08:58 PM ET",
-    "publishedAt": "2026-07-14T00:58:47+00:00",
-    "source": "MarkTechPost",
-    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUzFseXVOVVdlSnNtcFhVbnNhOGtSVHFDdDFkb25iZEw1Z2FTTWFzY3JXTXNVVWZVNHJDSjJHcUc4Nk1BYnFzVzhOSjhJeGMtNmp6R2dkMlpwTFJ0Z3ZjY1MyX0hHQ2s1TnRoZjBHbml6LXpTTUZlU1RCc3RxOERtYTJDZmFsczJJOWotelZGSHhGVnF1UlctU09hSHFIVG1uaVRpNG1aT0FKSFlWX0pMM25YSlh1M1ZXY3hMbjY1VVNfbkluYmxtQ3hFWC1mV21aQmJEWVFteXg1MDJDSEdfT1NtLUkzUEdpMU10ZzFGbm9QYTJ2OEZhQS1BYTl0MUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,6 +132,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 12, 08:26 AM ET",
+    "publishedAt": "2026-07-12T12:26:41+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude vs Gemini: Fable 5 Beats Opus 4.8 by 11 Points",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81Zno3cU1POTJkZWxTVW92MGprNWF3WTM0a3RRaC1FRXR5NXpfcXlUUTJkZGhDanEweXRQY1dpczEtb0dzTXg1blFZYWNDU1FoanI0b2NSdGFiZU4zTk8yeEV5ak1vSXBf?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 11, 09:37 PM ET",
@@ -216,6 +204,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 09:01 PM ET",
+    "publishedAt": "2026-07-10T01:01:19+00:00",
+    "source": "Startup Fortune",
+    "title": "Anthropic Resets Claude Code Usage Limits Again After a Rough Week of Outages",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2h1NmxkaEpnNlpkemhuNl9BMkQ1eThoekRBdnhGendRRkRjRTRrcTUxSmF5M3RkRlhnNzI5WmttRE9HVlp3clhHWmV0alpxX0NVaHRNcHVjcFVsWU53NTZCLVRDT0w2dzQwYm1UU3o1OFQyNWpxUGQ3Wkc0anRhR081eTZBQ3V6a19BTnJTT254S1luRjhQZ3pjLWtGMS1aSGRlTlpmajg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 09, 06:24 PM ET",
@@ -240,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 04:02 PM ET",
-    "publishedAt": "2026-07-09T20:02:38+00:00",
-    "source": "OpenAI",
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 09, 03:57 PM ET",
@@ -273,6 +261,18 @@
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 03:00 AM ET",
+    "publishedAt": "2026-07-09T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
     "difficulty": "News"
   },
   {
