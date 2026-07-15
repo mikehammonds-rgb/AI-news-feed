@@ -2,6 +2,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jul 14, 10:47 PM ET",
+    "publishedAt": "2026-07-15T02:47:16+00:00",
+    "source": "SQ Magazine",
+    "title": "ChatGPT vs Claude vs Gemini vs Perplexity Statistics 2026: Users, Revenue & Market Share",
+    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1abjBXbmZzMmZLYlh1ZzluT1dZaWNMYkFiRHE2Q19yS2theXJtWHVsQ3NTTUJ6eG52aWlZSTVCaXN0TVpXYS1FMWhVN1d0ODVCMDdWUDVFWlFSUkdoN2ZmM21LdVV5NUZ1UGJ2OVp5NmxfaGhzYkg1dw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jul 14, 10:00 PM ET",
     "publishedAt": "2026-07-15T02:00:00+00:00",
     "source": "IT Brief Australia",
@@ -38,13 +50,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 14, 03:20 PM ET",
-    "publishedAt": "2026-07-14T19:20:35+00:00",
-    "source": "University of Toronto",
-    "title": "U of T Data Sciences Institute to lead initiative awarding $1M in Claude credits for AI-powered research",
-    "summary": "University of Toronto is reporting this update. Open the article for the full story.",
+    "time": "Jul 14, 09:00 AM ET",
+    "publishedAt": "2026-07-14T13:00:00+00:00",
+    "source": "Stock Titan",
+    "title": "Varonis Brings Runtime Security to Claude Code and Cowork",
+    "summary": "Stock Titan is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWNwTWlkRl9NWTZ4Um55dllUUXpKR0ozNGdQTVlfN2FpUTcyUDZwcWhxQk5FbkxCdF9tTzZ1aXQyQXJyRE1vY1pIUnVCVXhQZ1FyYkMxSzlmdmlkWmJERndibEFfNjAzYmh2ZGpvLWtxQ3o5YXBSNk15X0JKbGx3RThzT05LcmV3ZS1FRUNnMnhKUnpYQ1YxZk93Rm5MNnNaYzBhSkw3SG94bUxGMmxyVjN4Q1NCeHVheVhV?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0ZSSFM5N3pJZ3NsTk10eG9zZ2lTbENTZlg5V2hqeUREYW5CVnlNY2dDN1ljcy1RZm9vVVpleHY0MHdVLU54cVZReTI0NFlXT1VIRTlEN2tpOTNYS1dSYmNXWmRYVE81UVE3dEhvT0Z5M0ZXYzlRd1ZuN3pERXJBZHlsWHJxb2E2NXlkX1Z6SVR2VGVaTW9peEE5ZnBVU1YyalBGSjJGeWx1ay1mRTdUQTRNZnFLVUhD?oc=5",
     "difficulty": "News"
   },
   {
@@ -62,6 +74,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 13, 08:58 PM ET",
+    "publishedAt": "2026-07-14T00:58:47+00:00",
+    "source": "MarkTechPost",
+    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUzFseXVOVVdlSnNtcFhVbnNhOGtSVHFDdDFkb25iZEw1Z2FTTWFzY3JXTXNVVWZVNHJDSjJHcUc4Nk1BYnFzVzhOSjhJeGMtNmp6R2dkMlpwTFJ0Z3ZjY1MyX0hHQ2s1TnRoZjBHbml6LXpTTUZlU1RCc3RxOERtYTJDZmFsczJJOWotelZGSHhGVnF1UlctU09hSHFIVG1uaVRpNG1aT0FKSFlWX0pMM25YSlh1M1ZXY3hMbjY1VVNfbkluYmxtQ3hFWC1mV21aQmJEWVFteXg1MDJDSEdfT1NtLUkzUEdpMU10ZzFGbm9QYTJ2OEZhQS1BYTl0MUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 13, 07:21 PM ET",
     "publishedAt": "2026-07-13T23:21:17+00:00",
     "source": "The Register",
@@ -69,18 +93,6 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmozMXpDdkRqZE1lV3hsSHBobFNrSXEtN0wzV2FlZFVzSzFkUTFJdFhJZVBxb2h2UjRaUHZnU0JqdFN0SlVHX19MZnA5MnZiSkpFdTJWd1VXMjJDRnVxVmFSam8weDdQenRkcFdoSmtFUjkySGRPZFNRSVppanhjUVNSVjNXYXE1Q2ZGcU1yNGE1UXRHZGtCNHBmLUs0X3lLTWF1ekdHRF8wV2lBLUtucER3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 13, 03:13 PM ET",
-    "publishedAt": "2026-07-13T19:13:11+00:00",
-    "source": "Yahoo Tech",
-    "title": "Your Google AI Studio apps can finally have polished, presentable web links",
-    "summary": "Yahoo Tech is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlQxZzNzR2pQSW0tdW50S25qdGd0dzFnZ01VOTJERTFKZFFnYUxsMlYweE50eTBDNXJBLUgyVzhYSUZVZHdQR3BlMjNzWkswVXlSQWtFMDFPZE1wLWloU2E4N010TS03eFhvMTJtQTdlNEMtV3Q3Ymh5R3cxeUliS2ludXMzdUtzZXdHYnlyRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -132,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 12, 08:26 AM ET",
-    "publishedAt": "2026-07-12T12:26:41+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude vs Gemini: Fable 5 Beats Opus 4.8 by 11 Points",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81Zno3cU1POTJkZWxTVW92MGprNWF3WTM0a3RRaC1FRXR5NXpfcXlUUTJkZGhDanEweXRQY1dpczEtb0dzTXg1blFZYWNDU1FoanI0b2NSdGFiZU4zTk8yeEV5ak1vSXBf?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 11, 09:37 PM ET",
@@ -153,6 +153,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12LTVORFpCeHhXdEJPS0YtZWg1RHpWa040RkFjaERBS0dJS1pZbzVDLUJMUEVnRXJiUDI5WGpScXNiUVF5QVQ0TlF4NXpockoyR0tSMlZPWEg2eFVhNFVVaEd6ZlZwS1JsSW5hU05FLTZuaHFTdEE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 11, 03:00 AM ET",
+    "publishedAt": "2026-07-11T07:00:07+00:00",
+    "source": "South China Morning Post",
+    "title": "Beyond Claude Code: the Chinese AI tools poised to benefit after back-door alert",
+    "summary": "South China Morning Post is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNk9hT19FbmVCNTRUdk9GeXpCTndibVBNVEMwOHhaM19lS2FZZnM2eklYNDhvbng3bDNnTlF0WDlHQjF4XzRaRGhHRzM2RXNJQW1zZS1yaXNqY0hISzhGRWZJUFY1U1h0bG91OEFKZnhUbnNUOWl4MkNVZDZvTW1mbXhhTV9VVlBsM0dUdmVrOFFvYlVOd2FpbllUQk9WU2tkUTA0c2FMcVpmYzZIeHFHRjZ5TjZvUkZiTzNZdjZlZEhtMmRa0gHEAUFVX3lxTE9Zd2I2bFVyVnExUWU4TkVZajl3UHpwcC1YVnR1U3BIRkFlNHBHS0NTckhKaVZYdUFQY0drRlBfc3NqVVQ4azRfOUNuSVZJbUdEaE9aZjBGa0p6VHJvekYzSEdjR0ljcURzNnUxYm0tenAtNVZIcTU3TmpjS3hjU09nM2hGZlhHQloxY0NNdFJzNGl0bHVTTGpwQW9vYTlQQldieTJscFI5ZjFsSHNzNDZzdTJ4Xzgzb2xxVEhFUXJnanhPa2E?oc=5",
     "difficulty": "News"
   },
   {
@@ -204,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 09:01 PM ET",
-    "publishedAt": "2026-07-10T01:01:19+00:00",
-    "source": "Startup Fortune",
-    "title": "Anthropic Resets Claude Code Usage Limits Again After a Rough Week of Outages",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2h1NmxkaEpnNlpkemhuNl9BMkQ1eThoekRBdnhGendRRkRjRTRrcTUxSmF5M3RkRlhnNzI5WmttRE9HVlp3clhHWmV0alpxX0NVaHRNcHVjcFVsWU53NTZCLVRDT0w2dzQwYm1UU3o1OFQyNWpxUGQ3Wkc0anRhR081eTZBQ3V6a19BTnJTT254S1luRjhQZ3pjLWtGMS1aSGRlTlpmajg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 09, 06:24 PM ET",
@@ -225,18 +225,6 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 04:58 PM ET",
-    "publishedAt": "2026-07-09T20:58:23+00:00",
-    "source": "qz.com",
-    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,6 +357,18 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "May 25, 03:00 AM ET",
+    "publishedAt": "2026-05-25T07:00:00+00:00",
+    "source": "9to5Google",
+    "title": "What Gemini features you get with Google AI Plus, Pro, & Ultra [May 2026]",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMERrMmhzSy1vOFdvSS1XaTAxeVZrSUNmYVgzbV92cE1Jal9fY2ljQmVqMXlRQXVZcm1jSWZNQTV6Qkw1M1BYTVN0YzhCejk3QzFKOHZQZEZPQzBuMml2elBKZkpYal9MLUMyR29xZEdsNHp0dHFhVnRHSl9QXzIyRw?oc=5",
     "difficulty": "News"
   }
 ]
