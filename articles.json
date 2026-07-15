@@ -230,18 +230,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 10, 05:15 AM ET",
-    "publishedAt": "2026-07-10T09:15:24+00:00",
-    "source": "OpenAI",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jul 09, 06:24 PM ET",
     "publishedAt": "2026-07-09T22:24:24+00:00",
     "source": "TechCrunch",
@@ -285,6 +273,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 08, 08:56 PM ET",
+    "publishedAt": "2026-07-09T00:56:17+00:00",
+    "source": "OpenAI",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
     "difficulty": "News"
   },
   {
