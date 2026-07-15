@@ -252,6 +252,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 04:02 PM ET",
+    "publishedAt": "2026-07-09T20:02:38+00:00",
+    "source": "OpenAI",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 09, 10:00 AM ET",
@@ -261,18 +273,6 @@
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
     "difficulty": "News"
   },
   {
