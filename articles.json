@@ -86,18 +86,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 14, 05:40 PM ET",
-    "publishedAt": "2026-07-14T21:40:57+00:00",
-    "source": "Hardware Secrets",
-    "title": "AI API Providers How to Compare Them — and Reach Them All at Once",
-    "summary": "Hardware Secrets is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHQtUjZfM3pMSTBxMlR5VU15Ymk1d3FHV1ZQOVd2SVNKVGpPWTF6dkpBeUt3b3VxR29Najgwdkt2SzlWYjBHM1Jzcko2alFGRlZkUlp3UUw3c1l5RXBROGUyU1VKWDZVQ3d2WXdSY1EwZ3Z0Vk9tbEZOajVrN3ZHOUplYnlkdnRaajROWmRFWk9HSnRTLV9v?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jul 14, 08:00 AM ET",
     "publishedAt": "2026-07-14T12:00:00+00:00",
     "source": "Towards Data Science",
@@ -105,18 +93,6 @@
     "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazBCTE1hWl8yaUVPZHpGZEd3ZXBfbDdMTmQxcDNNdmxDV1BGNkVIOEk1aUwzRmtYR2xWWkxvS08xTm9SOTMxN0JpNFZUeGhWVW9PYWNuUXJGQ3NMUmJDaHoxSmhaRXhqMkp5S1J6bkxJR05ya1U5ai1jVHhsMEo2S28tek1iVTdVOHJjaHpxa3JEaEphck5kMUlubGJwR2l6Snc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 13, 08:58 PM ET",
-    "publishedAt": "2026-07-14T00:58:47+00:00",
-    "source": "MarkTechPost",
-    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUzFseXVOVVdlSnNtcFhVbnNhOGtSVHFDdDFkb25iZEw1Z2FTTWFzY3JXTXNVVWZVNHJDSjJHcUc4Nk1BYnFzVzhOSjhJeGMtNmp6R2dkMlpwTFJ0Z3ZjY1MyX0hHQ2s1TnRoZjBHbml6LXpTTUZlU1RCc3RxOERtYTJDZmFsczJJOWotelZGSHhGVnF1UlctU09hSHFIVG1uaVRpNG1aT0FKSFlWX0pMM25YSlh1M1ZXY3hMbjY1VVNfbkluYmxtQ3hFWC1mV21aQmJEWVFteXg1MDJDSEdfT1NtLUkzUEdpMU10ZzFGbm9QYTJ2OEZhQS1BYTl0MUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -153,6 +129,18 @@
     "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1JGSzRrUmV3VVFxVklmcHhpWDVXUTZYaVpnVVp3Y0Q4WVFpR2pjdVRKdWFUVHJDcjFLZ0tZU2NrUTAyY0w0U0dJdzJXekZXOGxNSTZ0TXJVdEZDTENzWTl0X01Mb3FBVWtvdUQzMEhSbDB0dUEtQllaczZNNklzdTAwYVJYVlpXUndSeVVJMXFuWE1wVTA0a05paTZrVUYweTZ3bmdsbXlYWFhWV2REamFaYllYNk8zOEZhZGM1MDFoOHRiQThFUWl3QQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 13, 12:21 AM ET",
+    "publishedAt": "2026-07-13T04:21:18+00:00",
+    "source": "Forbes",
+    "title": "Claude Fable 5 Extends To July 19. 7 Days, 7 Power Moves",
+    "summary": "Forbes is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnlHZk5GTWlVYVNBTWJGZUdqbnE1bllJc29UNUFVandHdUhvcEhpNnRKdFdDSVNqOThFS2NTN2gwcFFodG12VTNJNHlJcndZU1EydDhSWmVMSWFXVkc1NGRMWWNnSGdKS2JUaDBDT3pnQzg1SzVOMUx2ay1OODlodU10Yk9zdEFacWFUVTVmak5HYjRKVHRtN21vNXN1T0ItZUpNZzhLYmcxeE0?oc=5",
     "difficulty": "News"
   },
   {
@@ -249,6 +237,18 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 04:58 PM ET",
+    "publishedAt": "2026-07-09T20:58:23+00:00",
+    "source": "qz.com",
+    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
     "difficulty": "News"
   },
   {
