@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 15, 04:41 AM ET",
+    "publishedAt": "2026-07-15T08:41:10+00:00",
+    "source": "EdTech Innovation Hub",
+    "title": "Anthropic commits $10 million CAD to Canadian AI research",
+    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSFd5bjlQTjU0Rk9yZDNEZGtURjdlSkUyTk1jYUpEMVlnSWd6YllpM0w3OEVtWXNpUHdyRUlXdVhucmREQ0txVENpTVpJOWgwQ1E5M1FKampKSFczTHBNZXNfOVpyQU03M3Y2ZWd4UzdKZ0RPN0N0Zy1naWdTeDNscVBtRmZ3LVEyczB1akk0ZTRDNThRVlhyQTdWMmJ6Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 14, 10:47 PM ET",
@@ -36,6 +48,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 14, 06:22 PM ET",
+    "publishedAt": "2026-07-14T22:22:38+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Code vs Cursor vs GitHub Copilot 2026",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jOXhnbUZ3dEM5aFBEcW02cmpWX3ZqdmV3S1oyWGtYVkF2S091ZHpfV3Z0S2NQUVNyV3JnQTNlMjA3QUJWZV95WXhyeHM5eDdjZzN4ZkFTX05ScDFwbEZZemJEckE0Vm5Rb0hjQ1RqX1BYdWR0QU1MTjN5MVYzZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 14, 04:55 PM ET",
@@ -69,18 +93,6 @@
     "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazBCTE1hWl8yaUVPZHpGZEd3ZXBfbDdMTmQxcDNNdmxDV1BGNkVIOEk1aUwzRmtYR2xWWkxvS08xTm9SOTMxN0JpNFZUeGhWVW9PYWNuUXJGQ3NMUmJDaHoxSmhaRXhqMkp5S1J6bkxJR05ya1U5ai1jVHhsMEo2S28tek1iVTdVOHJjaHpxa3JEaEphck5kMUlubGJwR2l6Snc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 13, 08:58 PM ET",
-    "publishedAt": "2026-07-14T00:58:47+00:00",
-    "source": "MarkTechPost",
-    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUzFseXVOVVdlSnNtcFhVbnNhOGtSVHFDdDFkb25iZEw1Z2FTTWFzY3JXTXNVVWZVNHJDSjJHcUc4Nk1BYnFzVzhOSjhJeGMtNmp6R2dkMlpwTFJ0Z3ZjY1MyX0hHQ2s1TnRoZjBHbml6LXpTTUZlU1RCc3RxOERtYTJDZmFsczJJOWotelZGSHhGVnF1UlctU09hSHFIVG1uaVRpNG1aT0FKSFlWX0pMM25YSlh1M1ZXY3hMbjY1VVNfbkluYmxtQ3hFWC1mV21aQmJEWVFteXg1MDJDSEdfT1NtLUkzUEdpMU10ZzFGbm9QYTJ2OEZhQS1BYTl0MUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -153,18 +165,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12LTVORFpCeHhXdEJPS0YtZWg1RHpWa040RkFjaERBS0dJS1pZbzVDLUJMUEVnRXJiUDI5WGpScXNiUVF5QVQ0TlF4NXpockoyR0tSMlZPWEg2eFVhNFVVaEd6ZlZwS1JsSW5hU05FLTZuaHFTdEE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 11, 03:00 AM ET",
-    "publishedAt": "2026-07-11T07:00:07+00:00",
-    "source": "South China Morning Post",
-    "title": "Beyond Claude Code: the Chinese AI tools poised to benefit after back-door alert",
-    "summary": "South China Morning Post is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNk9hT19FbmVCNTRUdk9GeXpCTndibVBNVEMwOHhaM19lS2FZZnM2eklYNDhvbng3bDNnTlF0WDlHQjF4XzRaRGhHRzM2RXNJQW1zZS1yaXNqY0hISzhGRWZJUFY1U1h0bG91OEFKZnhUbnNUOWl4MkNVZDZvTW1mbXhhTV9VVlBsM0dUdmVrOFFvYlVOd2FpbllUQk9WU2tkUTA0c2FMcVpmYzZIeHFHRjZ5TjZvUkZiTzNZdjZlZEhtMmRa0gHEAUFVX3lxTE9Zd2I2bFVyVnExUWU4TkVZajl3UHpwcC1YVnR1U3BIRkFlNHBHS0NTckhKaVZYdUFQY0drRlBfc3NqVVQ4azRfOUNuSVZJbUdEaE9aZjBGa0p6VHJvekYzSEdjR0ljcURzNnUxYm0tenAtNVZIcTU3TmpjS3hjU09nM2hGZlhHQloxY0NNdFJzNGl0bHVTTGpwQW9vYTlQQldieTJscFI5ZjFsSHNzNDZzdTJ4Xzgzb2xxVEhFUXJnanhPa2E?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,6 +288,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 07, 07:27 AM ET",
+    "publishedAt": "2026-07-07T11:27:45+00:00",
+    "source": "Malwarebytes",
+    "title": "Claude Code’s hidden tracker was an “experiment,” says Anthropic",
+    "summary": "Malwarebytes is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODBudnBldGVnY3pFRUhvS09kbC1oQ2FXUzhwT3VJZ2x2YmJSRXcwdjFhVlVsNHh0R3VVWTJUakNaUWpyc29BS1IwWTltR2VobUJtZVdWYnJFTGlDTEh6OHNEcHVCWnNfR1dhLTl2Qk1FNXVISGZhbk9pQUx2NXM5amFQQU9Fd0xxLWZzV0dIaHFzcEd0MS1mdGIzLWNnSGtyaDRIRWxTVDB4OTg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jun 30, 02:12 PM ET",
@@ -345,18 +357,6 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 16, 03:00 AM ET",
-    "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "CBS News",
-    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "CBS News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   },
   {
