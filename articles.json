@@ -4,11 +4,11 @@
     "label": "Gemini",
     "time": "Jul 16, 12:45 PM ET",
     "publishedAt": "2026-07-16T16:45:34+00:00",
-    "source": "Forbes",
+    "source": "Yahoo Tech",
     "title": "Google Confirms Its New AI Cursor Sends Your Screen To Gemini",
-    "summary": "Forbes is reporting this update. Open the article for the full story.",
+    "summary": "Yahoo Tech is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekYtVXZJNjRiV1htcWw5ZWFFa0dZanlpQ2hTLTVIOEQxaTFiWlotWHd6akN6UnlzUFZ3OEtwNnVyWVhCMXNxTDRFTThIX01FX1VRbmxpVVRka0s4SDM5LUJ0Q2VZVDJGWHFUOHh2eFRiN0RKUUUxTTFkcnBwOURtcXBZcHUyNzduMVNMeHc5MmNfZw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVlvVFZjUThmWHg0VlRiQzRiSWxzc1VvU1hTNmRRT3RMZV82V3hQUWMySzVTOVdnRUxwMFN1UzVlSnFNanlJZE1LQmp3dVJ6R3MwS3B1N29Kc1U2QndYdDFKUjlwUUEwbktGemlOTHlVZF9JUE43a3UxWktqenZBZzBxTGxwU0NHUW5qRkN2Q2lWQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -204,6 +204,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 14, 03:00 AM ET",
+    "publishedAt": "2026-07-14T07:00:00+00:00",
+    "source": "AIMultiple",
+    "title": "LLM Pricing: Top 15+ Providers Compared",
+    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4dVE0RldwT1lSTFpaYUh5eWhacWtnc3ZnTjdBam5KRXRsdk9qSmpxU0pEVWNpWFlENV8xM2djUnJxR2FTSjdvYkVn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 13, 07:21 PM ET",
@@ -297,18 +309,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 04:58 PM ET",
-    "publishedAt": "2026-07-09T20:58:23+00:00",
-    "source": "qz.com",
-    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
     "difficulty": "News"
   },
   {
