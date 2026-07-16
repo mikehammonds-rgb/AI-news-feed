@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 16, 05:18 AM ET",
+    "publishedAt": "2026-07-16T09:18:04+00:00",
+    "source": "blog.google",
+    "title": "Expanding Choice in Gemini Enterprise Agent Platform: Introducing Grounding with Parallel Web Search",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTXNmR3FtT3ppZjhieHF3UkdHMF9hRUdDX0p6bDZTekFSYk1mWTRmNU0zOWlPNjVsUXE5eTVOY0stQXVPOUdPd1lFeU9ydFd6NkFKbzhDSmdaS01yZXhGSXVWRnlZampWcnNqUHV4dG95NDlxQ2RmN0l4VmJLY0ZldTllWXZhQU5aNVBrbmYxV1dLeWtCc1piSHNZdmZfZHlYYzJLdXBPem1hbGxqclJkNWNKcXpCZ3lDT0FYckN1aFBGdkRUdkZjQ05oMTEzSDQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 16, 04:34 AM ET",
@@ -192,18 +204,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 12, 10:34 PM ET",
-    "publishedAt": "2026-07-13T02:34:57+00:00",
-    "source": "Startup Fortune",
-    "title": "Google Delays Gemini 3.5 Pro Launch to July 17 After Scrapping Its Base Model",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUGlRYWdTekgyWFJpZnlfS2djWk1xZUlZUmR2eXJ0TWJJRnZDSmE4QTZBV05LQndZU2o3X1RLbGcxV2JmdmdycUp6SFpIekNDcDFnRi1CRGN2Z3pXbDBVNm1HMmF2bmhueTY2NVFnQnQ2TlVhQ3pkSW1WbU9zWG9HUVZmd3BmZTloRnJHZy1MVjFaNWdjRXZjMmtPTnpWZU1iSGs3bVpTaw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 12, 03:00 AM ET",
@@ -237,18 +237,6 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FWlpxSldPWGRVNXFnMFVOdVFtdnJqeWRobVVvbEdtZEdoTjNySW5rMWZaZ1FxSWtqQ3dYRHdIaVpLRXlHbkhYNzFCT1Naa181UjgyNDZPMkNUY205cW9ZTFNSdUc4ZGJOMjBnVm5pODc1OHBCa0R0YQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 10, 12:03 PM ET",
-    "publishedAt": "2026-07-10T16:03:51+00:00",
-    "source": "The National Law Review",
-    "title": "The Rise of AI Website Builders: Where Bezier AI Fits Among Cursor, Lovable, Bolt.new, v0, Replit, and GitHub Copilot",
-    "summary": "The National Law Review is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUc5V056WklqSFkzdEwwLUtwdnNvd0ZFdVlTMlZJc2RsaVh5S3g3TWI4Q2FGcFdFUmpCSmticnpIV2FVLUFPdGpvMS1LMXhnWkZHWHRJRVBCbEhmQlA1MXRHWjM1SWhSelNFaFFBVVgzdTBTc29BaEgzMlhGbWtPNHlZdUE1UElJM1MzXzB3QXhTNEtBUm9wVzRCNE90WGIzcVFYSVVoVjZBbjdTQTllWjFtMkI?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,6 +345,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 22, 03:00 AM ET",
+    "publishedAt": "2026-06-22T07:00:00+00:00",
+    "source": "The New Stack",
+    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
     "difficulty": "News"
   },
   {
