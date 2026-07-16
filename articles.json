@@ -1,5 +1,41 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 16, 12:45 PM ET",
+    "publishedAt": "2026-07-16T16:45:34+00:00",
+    "source": "Forbes",
+    "title": "Google Confirms Its New AI Cursor Sends Your Screen To Gemini",
+    "summary": "Forbes is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekYtVXZJNjRiV1htcWw5ZWFFa0dZanlpQ2hTLTVIOEQxaTFiWlotWHd6akN6UnlzUFZ3OEtwNnVyWVhCMXNxTDRFTThIX01FX1VRbmxpVVRka0s4SDM5LUJ0Q2VZVDJGWHFUOHh2eFRiN0RKUUUxTTFkcnBwOURtcXBZcHUyNzduMVNMeHc5MmNfZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 16, 12:35 PM ET",
+    "publishedAt": "2026-07-16T16:35:00+00:00",
+    "source": "The Tech Buzz",
+    "title": "Google Vids Adds Gemini Omni AI and Personal Avatars",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGE0R1FjMmQ1ekNzVXI4Z2NrdHFwOG5ZbEFmZjN0SmpxR2tWN0xPVG1LamlsUTdTVzJVTG9SQTNlMlU0X0pkSV9GV3NaV2VVaXdDUUxraUxONVRnb3hFbW52SzZzN1FQd0pBMkkxYXE1Z2FoRGxMT0QwejlpeGZWTGwtXzZTMEJoRnA3Yml3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 16, 12:06 PM ET",
+    "publishedAt": "2026-07-16T16:06:27+00:00",
+    "source": "blog.google",
+    "title": "NotebookLM is now Gemini Notebook",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenFHZ2t3dWNhTXZra1NQdFNEajg2VmtiY1hzdE1HOEFsV24xanBXLTVqU1lhR1JBRFdRNEp5UHd2Z1ZDUXZIRktyUktTam9LYXdoZF9CMFlKOHQxYlI2bDBzMDBLUkJDQWV6SnMzVVdfZGw2ckZWamVCc0RNR2tVcThDR05TSGpUdWdrUlh3TmtJTG44?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 16, 09:49 AM ET",
@@ -60,18 +96,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 16, 02:13 AM ET",
-    "publishedAt": "2026-07-16T06:13:22+00:00",
-    "source": "SQ Magazine",
-    "title": "ChatGPT vs DeepSeek Statistics 2026: Users, Benchmarks & Pricing",
-    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FLUFSWUFUaGgtZkpXSTZsdXg2dExBNGFaSWNmdXdhaGJodE5HYm0wb0F5OTh1b0NfSjIwLUtvVkV4NWdIb1FmMm9hS0Z1ZURHRlBvcXJ4Nm5fejBGaHRCaU9nSDZ3V0U?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 15, 11:36 PM ET",
@@ -120,6 +144,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 14, 10:47 PM ET",
+    "publishedAt": "2026-07-15T02:47:16+00:00",
+    "source": "SQ Magazine",
+    "title": "ChatGPT vs Claude vs Gemini vs Perplexity Statistics 2026: Users, Revenue & Market Share",
+    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1abjBXbmZzMmZLYlh1ZzluT1dZaWNMYkFiRHE2Q19yS2theXJtWHVsQ3NTTUJ6eG52aWlZSTVCaXN0TVpXYS1FMWhVN1d0ODVCMDdWUDVFWlFSUkdoN2ZmM21LdVV5NUZ1UGJ2OVp5NmxfaGhzYkg1dw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 14, 07:00 PM ET",
@@ -129,6 +165,18 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVWhJanBKRWI3ejZ2OFBzdnNaOUxuLTFlREpwMVhZcGFncnhHWjlrT0RIRE5FQlRqN0Y4TmVxRThqQlIySU5zdDhXbWY4NE56TEl3cHoxcVJwSkhKdGRvbExrcGZDUDN2ZzlzX3ZFTFZSLUZlZXdTdkZxSW1CenZnN1lmTVFaRmtkU1phRU0xRE1kUVZKLTV2cC1ObFQwYjVGcW54LWpFR3dQV3pLTHo5T3lTTXV3eFl3ZHhRNDBxZDVUa1RWZ1B1Wlh4d3pjNzRITWp1VkJYSkU3R0E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 14, 06:22 PM ET",
+    "publishedAt": "2026-07-14T22:22:38+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Code vs Cursor vs GitHub Copilot 2026",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jOXhnbUZ3dEM5aFBEcW02cmpWX3ZqdmV3S1oyWGtYVkF2S091ZHpfV3Z0S2NQUVNyV3JnQTNlMjA3QUJWZV95WXhyeHM5eDdjZzN4ZkFTX05ScDFwbEZZemJEckE0Vm5Rb0hjQ1RqX1BYdWR0QU1MTjN5MVYzZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -158,18 +206,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 13, 08:58 PM ET",
-    "publishedAt": "2026-07-14T00:58:47+00:00",
-    "source": "MarkTechPost",
-    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUzFseXVOVVdlSnNtcFhVbnNhOGtSVHFDdDFkb25iZEw1Z2FTTWFzY3JXTXNVVWZVNHJDSjJHcUc4Nk1BYnFzVzhOSjhJeGMtNmp6R2dkMlpwTFJ0Z3ZjY1MyX0hHQ2s1TnRoZjBHbml6LXpTTUZlU1RCc3RxOERtYTJDZmFsczJJOWotelZGSHhGVnF1UlctU09hSHFIVG1uaVRpNG1aT0FKSFlWX0pMM25YSlh1M1ZXY3hMbjY1VVNfbkluYmxtQ3hFWC1mV21aQmJEWVFteXg1MDJDSEdfT1NtLUkzUEdpMU10ZzFGbm9QYTJ2OEZhQS1BYTl0MUE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jul 13, 07:21 PM ET",
     "publishedAt": "2026-07-13T23:21:17+00:00",
     "source": "The Register",
@@ -177,18 +213,6 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmozMXpDdkRqZE1lV3hsSHBobFNrSXEtN0wzV2FlZFVzSzFkUTFJdFhJZVBxb2h2UjRaUHZnU0JqdFN0SlVHX19MZnA5MnZiSkpFdTJWd1VXMjJDRnVxVmFSam8weDdQenRkcFdoSmtFUjkySGRPZFNRSVppanhjUVNSVjNXYXE1Q2ZGcU1yNGE1UXRHZGtCNHBmLUs0X3lLTWF1ekdHRF8wV2lBLUtucER3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 13, 03:13 PM ET",
-    "publishedAt": "2026-07-13T19:13:11+00:00",
-    "source": "Yahoo Tech",
-    "title": "Your Google AI Studio apps can finally have polished, presentable web links",
-    "summary": "Yahoo Tech is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlQxZzNzR2pQSW0tdW50S25qdGd0dzFnZ01VOTJERTFKZFFnYUxsMlYweE50eTBDNXJBLUgyVzhYSUZVZHdQR3BlMjNzWkswVXlSQWtFMDFPZE1wLWloU2E4N010TS03eFhvMTJtQTdlNEMtV3Q3Ymh5R3cxeUliS2ludXMzdUtzZXdHYnlyRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -225,18 +249,6 @@
     "summary": "Forbes is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnlHZk5GTWlVYVNBTWJGZUdqbnE1bllJc29UNUFVandHdUhvcEhpNnRKdFdDSVNqOThFS2NTN2gwcFFodG12VTNJNHlJcndZU1EydDhSWmVMSWFXVkc1NGRMWWNnSGdKS2JUaDBDT3pnQzg1SzVOMUx2ay1OODlodU10Yk9zdEFacWFUVTVmak5HYjRKVHRtN21vNXN1T0ItZUpNZzhLYmcxeE0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 12, 03:00 AM ET",
-    "publishedAt": "2026-07-12T07:00:00+00:00",
-    "source": "Augment Code",
-    "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-    "summary": "Augment Code is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
     "difficulty": "News"
   },
   {
@@ -336,18 +348,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 02:12 PM ET",
-    "publishedAt": "2026-06-30T18:12:09+00:00",
-    "source": "Mashable",
-    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 30, 03:00 AM ET",
@@ -360,15 +360,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 22, 01:38 PM ET",
-    "publishedAt": "2026-06-22T17:38:08+00:00",
-    "source": "blog.google",
-    "title": "Interactions API: our primary interface for Gemini models and agents",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 22, 03:00 AM ET",
+    "publishedAt": "2026-06-22T07:00:00+00:00",
+    "source": "The New Stack",
+    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
     "difficulty": "News"
   },
   {
