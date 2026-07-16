@@ -2,13 +2,25 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 16, 12:45 PM ET",
-    "publishedAt": "2026-07-16T16:45:34+00:00",
-    "source": "Yahoo Tech",
-    "title": "Google Confirms Its New AI Cursor Sends Your Screen To Gemini",
-    "summary": "Yahoo Tech is reporting this update. Open the article for the full story.",
+    "time": "Jul 16, 03:37 PM ET",
+    "publishedAt": "2026-07-16T19:37:00+00:00",
+    "source": "9to5Google",
+    "title": "Gemini 3.5 Pro delays due to coding performance, upgraded Flash model in testing",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVlvVFZjUThmWHg0VlRiQzRiSWxzc1VvU1hTNmRRT3RMZV82V3hQUWMySzVTOVdnRUxwMFN1UzVlSnFNanlJZE1LQmp3dVJ6R3MwS3B1N29Kc1U2QndYdDFKUjlwUUEwbktGemlOTHlVZF9JUE43a3UxWktqenZBZzBxTGxwU0NHUW5qRkN2Q2lWQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aSGJZNU50a2UwMEIySUU3N1pIZHd6SEhTLUM0U2dubi1wUDhOYm12VjB6ZEpSTGJRT0w0LUozeEtZN3VfOUoxVGFxcl9nVHNrNGFFaEhOeFItVF9reVFhYmpEZC1HazQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 16, 02:42 PM ET",
+    "publishedAt": "2026-07-16T18:42:44+00:00",
+    "source": "Forbes",
+    "title": "Google's New Magic Pointer Sends Screen Content To Gemini, Code Reveals",
+    "summary": "Forbes is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbENtQjZ0N1M1TDdYbVpwM3p6ZUQ1VElCN0NOaVkyeFZ4Q0ZJaXBWQ0NKQ1ozWVg2UjQ4TW5pdVBzaFlfbGdwWUNteXlSZWNlRDZuSWJqNzYzNnRpOHNCLWtJN3NXWWhDSGsxMDlVVXE1N295LTNjWXZiNXAxSC1idy1CZm9MT2pVZmFpaXNnd0lxN1pJbS05VXJNeEIyU0p2XzNyWVhBejZab2Flanc?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,30 +273,6 @@
     "summary": "Forbes is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnlHZk5GTWlVYVNBTWJGZUdqbnE1bllJc29UNUFVandHdUhvcEhpNnRKdFdDSVNqOThFS2NTN2gwcFFodG12VTNJNHlJcndZU1EydDhSWmVMSWFXVkc1NGRMWWNnSGdKS2JUaDBDT3pnQzg1SzVOMUx2ay1OODlodU10Yk9zdEFacWFUVTVmak5HYjRKVHRtN21vNXN1T0ItZUpNZzhLYmcxeE0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 11, 09:37 PM ET",
-    "publishedAt": "2026-07-12T01:37:43+00:00",
-    "source": "tech-insider.org",
-    "title": "GitHub Copilot Ends Flat-Rate Billing: $0.01/Credit [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12LTVORFpCeHhXdEJPS0YtZWg1RHpWa040RkFjaERBS0dJS1pZbzVDLUJMUEVnRXJiUDI5WGpScXNiUVF5QVQ0TlF4NXpockoyR0tSMlZPWEg2eFVhNFVVaEd6ZlZwS1JsSW5hU05FLTZuaHFTdEE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 10, 05:50 PM ET",
-    "publishedAt": "2026-07-10T21:50:08+00:00",
-    "source": "TechRepublic",
-    "title": "Google AI Models Explained: Gemini, Veo, Nano Banana & More",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FWlpxSldPWGRVNXFnMFVOdVFtdnJqeWRobVVvbEdtZEdoTjNySW5rMWZaZ1FxSWtqQ3dYRHdIaVpLRXlHbkhYNzFCT1Naa181UjgyNDZPMkNUY205cW9ZTFNSdUc4ZGJOMjBnVm5pODc1OHBCa0R0YQ?oc=5",
     "difficulty": "News"
   },
   {
