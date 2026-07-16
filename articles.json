@@ -14,13 +14,25 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 16, 02:42 PM ET",
-    "publishedAt": "2026-07-16T18:42:44+00:00",
+    "time": "Jul 16, 12:45 PM ET",
+    "publishedAt": "2026-07-16T16:45:34+00:00",
     "source": "Forbes",
     "title": "Google's New Magic Pointer Sends Screen Content To Gemini, Code Reveals",
     "summary": "Forbes is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbENtQjZ0N1M1TDdYbVpwM3p6ZUQ1VElCN0NOaVkyeFZ4Q0ZJaXBWQ0NKQ1ozWVg2UjQ4TW5pdVBzaFlfbGdwWUNteXlSZWNlRDZuSWJqNzYzNnRpOHNCLWtJN3NXWWhDSGsxMDlVVXE1N295LTNjWXZiNXAxSC1idy1CZm9MT2pVZmFpaXNnd0lxN1pJbS05VXJNeEIyU0p2XzNyWVhBejZab2Flanc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 16, 12:37 PM ET",
+    "publishedAt": "2026-07-16T16:37:56+00:00",
+    "source": "OpenAI",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MU3NINEgzemctRjhic18xaXd1blBpOVlzVVdmMTh3Zms0Sm5WWFR1ZC1ja25NSFZkUnY3enpyREM1aHF1U0Zn?oc=5",
     "difficulty": "News"
   },
   {
@@ -33,6 +45,18 @@
     "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGE0R1FjMmQ1ekNzVXI4Z2NrdHFwOG5ZbEFmZjN0SmpxR2tWN0xPVG1LamlsUTdTVzJVTG9SQTNlMlU0X0pkSV9GV3NaV2VVaXdDUUxraUxONVRnb3hFbW52SzZzN1FQd0pBMkkxYXE1Z2FoRGxMT0QwejlpeGZWTGwtXzZTMEJoRnA3Yml3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 16, 12:07 PM ET",
+    "publishedAt": "2026-07-16T16:07:00+00:00",
+    "source": "quasa.io",
+    "title": "Google Marketing Live 2026: Ask Advisor and Asset Studio Updates",
+    "summary": "quasa.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlB5Q2gtVVdIN1Vfa1Zrb1Y3M01TekJpcjVma1pBdldQQkJ6R0tUUjFoT0lTdXlJZzlLeElNeUxLbkN5elVrZ0l0bi1WY3lsWmtnbXVYVGQxUXktd0Y3bjNzWXJBWjJtTV9XMFdNeDZrM09Yb1kwMHFVenkxUWEwYmpkOGlMbU9GUEtaZ2ZLMA?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,30 +93,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTXNmR3FtT3ppZjhieHF3UkdHMF9hRUdDX0p6bDZTekFSYk1mWTRmNU0zOWlPNjVsUXE5eTVOY0stQXVPOUdPd1lFeU9ydFd6NkFKbzhDSmdaS01yZXhGSXVWRnlZampWcnNqUHV4dG95NDlxQ2RmN0l4VmJLY0ZldTllWXZhQU5aNVBrbmYxV1dLeWtCc1piSHNZdmZfZHlYYzJLdXBPem1hbGxqclJkNWNKcXpCZ3lDT0FYckN1aFBGdkRUdkZjQ05oMTEzSDQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 16, 04:34 AM ET",
-    "publishedAt": "2026-07-16T08:34:00+00:00",
-    "source": "Wccftech",
-    "title": "Claude User Claims Using The AI Chatbot Made His “Internet 100x Faster,” But Just A Simple 5-Minute Diagnostics Could Have Resolved The Issue Too",
-    "summary": "Wccftech is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZVBOU3AxQjRLWTh2VER0VXJHX3lyNTBfQTVtZWE3SnZYNVh4cjZmM3JmN3VpSDFnbnNPdFlUUlhiVTRNV01RcS04MHFTUWhTMzd2NDNTeDcyZjExejh3N0k4Sng3X0pWWm5tSXo5RDlOUWs2b3RqZjhUZ0hqZi0xQnFjT3FBUdIBiwFBVV95cUxNVU5sa2k5a1lkNmd6aUlfZEhYODdiYXBaTHRkYTQxa2lrV3ExTkltOUJ2T25DXzZFZFpXbWd0eDRKZlFVX1R1YlFVRGtJNGNtMThBNGw1S3Y3dlVHc2hnQ2JsbE8yOEpSOFZleUdEbUV3dkxEbGhlUDhybjlCalhGdnJKQjkzM2RNTGJ3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 16, 03:36 AM ET",
-    "publishedAt": "2026-07-16T07:36:35+00:00",
-    "source": "analyticsindiamag.com",
-    "title": "Google’s AI Product Sprawl Is Confusing Developers",
-    "summary": "analyticsindiamag.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUTd6elM2dWp5WVVJMUxVTnlWSnRmOTFTdWc4dmp2dXdYcUs1TjFrc3o5Ynh4VmxwbXNJVUxrRnZUMVhTTmVNWVdnTndBWXNVTXBfbF9YZngwd21hS1U3ckhvdkRmNC1VRVIybHdtVXRtR1NCd2FYTWxudklfMzdrLW5PeTFrREs0bjZNeWJ0TXU2aHlQUmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,6 +276,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 10, 01:42 PM ET",
+    "publishedAt": "2026-07-10T17:42:59+00:00",
+    "source": "Wccftech",
+    "title": "Anthropic’s Terrifying Billing Glitch Charged A Software Developer $16.6 Million For Using Claude API, Despite The Dashboard Showing A $0.00 Amount",
+    "summary": "Wccftech is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGhyX09LLVJyU2oxeklZZlNoUkNtR1hYb0FYNnNuMHFPeVI4TTR3LVVZNHJyaVZwdENHNUhIV0tlaVl1NXBOUUQ1SUpGZlRYa0VueHQyckJhVGhYUUllQ0NIbXM4WlZzMzc3NktnMXRlczdZYm9OVHpJQjB1QTFDSjVWY0ozRWsxY2dPRFJRTdIBlAFBVV95cUxPek9xOXU0ajFsckl5bEFRTFRqV2RURlNSQUhUMWVFSVU1RDVjVGJrLUF4Nnh5dVd4QWxXaHhrTEIwSkdNdHRITGdRVE5wb1JSRFYyQkxoLXRpbEk5SzlhLTRta2JyQVlwTGJpdkhnZDRkS1F1cWZCOGJSajBLRGt2LTZka1NpcUxueHhTWmNsb3dkQml5?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 10, 11:58 AM ET",
@@ -297,18 +309,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 10:00 AM ET",
-    "publishedAt": "2026-07-09T14:00:01+00:00",
-    "source": "CNBC",
-    "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
     "difficulty": "News"
   },
   {
