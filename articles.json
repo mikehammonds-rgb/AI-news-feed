@@ -1,5 +1,29 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 16, 04:34 AM ET",
+    "publishedAt": "2026-07-16T08:34:00+00:00",
+    "source": "Wccftech",
+    "title": "Claude User Claims Using The AI Chatbot Made His “Internet 100x Faster,” But Just A Simple 5-Minute Diagnostics Could Have Resolved The Issue Too",
+    "summary": "Wccftech is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZVBOU3AxQjRLWTh2VER0VXJHX3lyNTBfQTVtZWE3SnZYNVh4cjZmM3JmN3VpSDFnbnNPdFlUUlhiVTRNV01RcS04MHFTUWhTMzd2NDNTeDcyZjExejh3N0k4Sng3X0pWWm5tSXo5RDlOUWs2b3RqZjhUZ0hqZi0xQnFjT3FBUdIBiwFBVV95cUxNVU5sa2k5a1lkNmd6aUlfZEhYODdiYXBaTHRkYTQxa2lrV3ExTkltOUJ2T25DXzZFZFpXbWd0eDRKZlFVX1R1YlFVRGtJNGNtMThBNGw1S3Y3dlVHc2hnQ2JsbE8yOEpSOFZleUdEbUV3dkxEbGhlUDhybjlCalhGdnJKQjkzM2RNTGJ3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 16, 03:36 AM ET",
+    "publishedAt": "2026-07-16T07:36:35+00:00",
+    "source": "analyticsindiamag.com",
+    "title": "Google’s AI Product Sprawl Is Confusing Developers",
+    "summary": "analyticsindiamag.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUTd6elM2dWp5WVVJMUxVTnlWSnRmOTFTdWc4dmp2dXdYcUs1TjFrc3o5Ynh4VmxwbXNJVUxrRnZUMVhTTmVNWVdnTndBWXNVTXBfbF9YZngwd21hS1U3ckhvdkRmNC1VRVIybHdtVXRtR1NCd2FYTWxudklfMzdrLW5PeTFrREs0bjZNeWJ0TXU2aHlQUmc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 16, 02:47 AM ET",
@@ -33,18 +57,6 @@
     "summary": "HackerNoon is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcm1OMVByQjUwVURibmJYbG9VWVU0WkdiSUhVZFJGQ21iT3BmazYwNGg2cWVCVmJ6b1pINHcyVjMtcE9jSVJFQVZUS191amM3aXhBYTZiTlBFY1VyWTNyX0hmUlo4ZnFaMmNva0NlMEtya3FoUUNKNDBUSzFPMUpNaS1keU1xb2JkVWhmX2lNV3o0NDZYUENEZjB6QXVjbnR3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 15, 05:06 AM ET",
-    "publishedAt": "2026-07-15T09:06:32+00:00",
-    "source": "BW Marketing World",
-    "title": "Google Faces Fresh Copyright Lawsuit Over Gemini AI Training",
-    "summary": "BW Marketing World is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM3BIeVpudkhNOHM0eWp3T3lBb0k5Yl9ORW9famFvdFFaLVc5X0VXNmhCcGFyT0xacmZFR3Y0ZU83eTRnNjJOZ0dWTktkc0ZFY29YbEN4b05YRXR2V2NBd201Tkg2bWdhVlF2N3J1QmR4TVkyeVM2SjFSaXl1LTU3TFdMbzAwVkoyczN0X2h6eldnZlVISHlTVUtCTjdxTEJKcUJxcFd6YnVZbFdL?oc=5",
     "difficulty": "News"
   },
   {
@@ -100,9 +112,9 @@
     "label": "ChatGPT",
     "time": "Jul 14, 08:00 AM ET",
     "publishedAt": "2026-07-14T12:00:00+00:00",
-    "source": "Towards Data Science",
+    "source": "towardsdatascience.com",
     "title": "Pydantic + OpenAI: The Cleanest Way to Get Structured Outputs from LLMs",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "summary": "towardsdatascience.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazBCTE1hWl8yaUVPZHpGZEd3ZXBfbDdMTmQxcDNNdmxDV1BGNkVIOEk1aUwzRmtYR2xWWkxvS08xTm9SOTMxN0JpNFZUeGhWVW9PYWNuUXJGQ3NMUmJDaHoxSmhaRXhqMkp5S1J6bkxJR05ya1U5ai1jVHhsMEo2S28tek1iVTdVOHJjaHpxa3JEaEphck5kMUlubGJwR2l6Snc?oc=5",
     "difficulty": "News"
@@ -228,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 10, 01:42 PM ET",
-    "publishedAt": "2026-07-10T17:42:59+00:00",
-    "source": "Wccftech",
-    "title": "Anthropic’s Terrifying Billing Glitch Charged A Software Developer $16.6 Million For Using Claude API, Despite The Dashboard Showing A $0.00 Amount",
-    "summary": "Wccftech is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGhyX09LLVJyU2oxeklZZlNoUkNtR1hYb0FYNnNuMHFPeVI4TTR3LVVZNHJyaVZwdENHNUhIV0tlaVl1NXBOUUQ1SUpGZlRYa0VueHQyckJhVGhYUUllQ0NIbXM4WlZzMzc3NktnMXRlczdZYm9OVHpJQjB1QTFDSjVWY0ozRWsxY2dPRFJRTdIBlAFBVV95cUxPek9xOXU0ajFsckl5bEFRTFRqV2RURlNSQUhUMWVFSVU1RDVjVGJrLUF4Nnh5dVd4QWxXaHhrTEIwSkdNdHRITGdRVE5wb1JSRFYyQkxoLXRpbEk5SzlhLTRta2JyQVlwTGJpdkhnZDRkS1F1cWZCOGJSajBLRGt2LTZka1NpcUxueHhTWmNsb3dkQml5?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 10, 12:03 PM ET",
@@ -266,18 +266,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 10, 09:00 AM ET",
-    "publishedAt": "2026-07-10T13:00:36+00:00",
-    "source": "qz.com",
-    "title": "OpenAI's newest AI model is becoming the preferred engine for Microsoft 365 Copilot",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOQmRnOGdsd2xsMkdXS1A3VzdpUUF6eV80c2l0bU9mUEtzZ0xpM3c0cGdOWVF2ZHVpZTFvS2l5dlQzZ0U2b3F5a3hMVl9nUHUyN0pNeWZfb3gwRXotMU4zcHlSak5MZTVnMmpLb2tkWkxQclVCVHRJblh6RkJOdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jul 10, 05:15 AM ET",
     "publishedAt": "2026-07-10T09:15:24+00:00",
     "source": "OpenAI",
@@ -285,6 +273,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 04:58 PM ET",
+    "publishedAt": "2026-07-09T20:58:23+00:00",
+    "source": "qz.com",
+    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
     "difficulty": "News"
   },
   {
