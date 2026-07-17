@@ -12,6 +12,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 16, 05:59 PM ET",
+    "publishedAt": "2026-07-16T21:59:15+00:00",
+    "source": "MLQ.ai",
+    "title": "Getting Started with the Claude API",
+    "summary": "MLQ.ai is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rTm8tYUE0cW51Qkw4emRJNUNQc1lrNjdncmx4anV6LWJxRFJ1N3c4eVRZR3RuVjVMdnRmVXlQVV9iSjR3cE8wbG02SkJhR0pBeE1zdGV1dnZqWnMwcHc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 16, 05:08 PM ET",
@@ -40,20 +52,8 @@
     "label": "Gemini",
     "time": "Jul 16, 12:45 PM ET",
     "publishedAt": "2026-07-16T16:45:34+00:00",
-    "source": "Forbes",
-    "title": "Withdrawn App Code Hides Google's Gemini Prompting Techniques",
-    "summary": "Forbes is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbENtQjZ0N1M1TDdYbVpwM3p6ZUQ1VElCN0NOaVkyeFZ4Q0ZJaXBWQ0NKQ1ozWVg2UjQ4TW5pdVBzaFlfbGdwWUNteXlSZWNlRDZuSWJqNzYzNnRpOHNCLWtJN3NXWWhDSGsxMDlVVXE1N295LTNjWXZiNXAxSC1idy1CZm9MT2pVZmFpaXNnd0lxN1pJbS05VXJNeEIyU0p2XzNyWVhBejZab2Flanc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 16, 12:45 PM ET",
-    "publishedAt": "2026-07-16T16:45:34+00:00",
     "source": "Yahoo Tech",
-    "title": "Google's New Magic Pointer Sends Screen Content To Gemini, Code Reveals",
+    "title": "Withdrawn App Code Hides Google's Gemini Prompting Techniques",
     "summary": "Yahoo Tech is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVlvVFZjUThmWHg0VlRiQzRiSWxzc1VvU1hTNmRRT3RMZV82V3hQUWMySzVTOVdnRUxwMFN1UzVlSnFNanlJZE1LQmp3dVJ6R3MwS3B1N29Kc1U2QndYdDFKUjlwUUEwbktGemlOTHlVZF9JUE43a3UxWktqenZBZzBxTGxwU0NHUW5qRkN2Q2lWQQ?oc=5",
@@ -105,18 +105,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenFHZ2t3dWNhTXZra1NQdFNEajg2VmtiY1hzdE1HOEFsV24xanBXLTVqU1lhR1JBRFdRNEp5UHd2Z1ZDUXZIRktyUktTam9LYXdoZF9CMFlKOHQxYlI2bDBzMDBLUkJDQWV6SnMzVVdfZGw2ckZWamVCc0RNR2tVcThDR05TSGpUdWdrUlh3TmtJTG44?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 16, 09:49 AM ET",
-    "publishedAt": "2026-07-16T13:49:00+00:00",
-    "source": "The Tech Buzz",
-    "title": "1Password Lets Claude AI Log Into Apps Without Seeing Passwords",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNckNYZ0J2RUZ4bUxUMDlwdWxXZ2w4cV93dTVEM0h2QlVvZjRjVU9SNnhLbUFOZ2xFa0tLV1FOVFJFekpUYnBhZkZGWWk0djJWNEpqUjhvRWRqNEkzNHEwdUdlLWxXTnQwREdCRlhLRWhwZElFTzcwQUpMdXlBU0t3MDJKcFNsa293WFVXdEhSTWNtYXZVQ0FrTU0ybUU?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,18 +180,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 14, 09:00 AM ET",
-    "publishedAt": "2026-07-14T13:00:00+00:00",
-    "source": "Stock Titan",
-    "title": "Varonis Brings Runtime Security to Claude Code and Cowork",
-    "summary": "Stock Titan is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0ZSSFM5N3pJZ3NsTk10eG9zZ2lTbENTZlg5V2hqeUREYW5CVnlNY2dDN1ljcy1RZm9vVVpleHY0MHdVLU54cVZReTI0NFlXT1VIRTlEN2tpOTNYS1dSYmNXWmRYVE81UVE3dEhvT0Z5M0ZXYzlRd1ZuN3pERXJBZHlsWHJxb2E2NXlkX1Z6SVR2VGVaTW9peEE5ZnBVU1YyalBGSjJGeWx1ay1mRTdUQTRNZnFLVUhD?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 14, 08:00 AM ET",
@@ -216,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 14, 03:00 AM ET",
-    "publishedAt": "2026-07-14T07:00:00+00:00",
-    "source": "AIMultiple",
-    "title": "LLM Pricing: Top 15+ Providers Compared",
-    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4dVE0RldwT1lSTFpaYUh5eWhacWtnc3ZnTjdBam5KRXRsdk9qSmpxU0pEVWNpWFlENV8xM2djUnJxR2FTSjdvYkVn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 13, 07:21 PM ET",
@@ -237,6 +201,18 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmozMXpDdkRqZE1lV3hsSHBobFNrSXEtN0wzV2FlZFVzSzFkUTFJdFhJZVBxb2h2UjRaUHZnU0JqdFN0SlVHX19MZnA5MnZiSkpFdTJWd1VXMjJDRnVxVmFSam8weDdQenRkcFdoSmtFUjkySGRPZFNRSVppanhjUVNSVjNXYXE1Q2ZGcU1yNGE1UXRHZGtCNHBmLUs0X3lLTWF1ekdHRF8wV2lBLUtucER3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 13, 10:14 AM ET",
+    "publishedAt": "2026-07-13T14:14:31+00:00",
+    "source": "Tech Times",
+    "title": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUWlWdnRnVnA0OWZYUVp5SFFUNERtbVg4OGY4MTc3ZXNVTEJKMjhDNlpxMzFoNTZEd2dTUnVrR01ucjRYbWVqd1g2aGh4V09LTENqQktIczFiR0FCbm11MUhVMmQxbnhNNHJ0TVk1SVJ5XzJzUk9kREtxTHN4cGp0RHJDVzBjay1iWEhvcWZZNDE2SEtfcE9VU3JhaDF1S1E4dXZiNTZIdFBDRTBHUTJYTHlwbXF2RG90MHJINzlUNnYxZzJkYVFDYk9mME9JenM?oc=5",
     "difficulty": "News"
   },
   {
@@ -314,8 +290,8 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jul 08, 07:21 AM ET",
-    "publishedAt": "2026-07-08T11:21:00+00:00",
+    "time": "Jul 08, 03:00 AM ET",
+    "publishedAt": "2026-07-08T07:00:00+00:00",
     "source": "The Hacker News",
     "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
@@ -360,6 +336,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 06, 03:00 AM ET",
+    "publishedAt": "2026-06-06T07:00:00+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Anthropic's Claude Services Down — claude.ai, Claude Code, and Cowork Affected [Updated]",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MkF3RG52UFhmUUF1MDg1RUk5bGYtZFVlcDBDMm9IWjlmelpjWE9pN2lCMUZLWXQzd2l3V3p2T09VT2NNcm9MQmNrNEh5Y2FuUXBhTEM4TFlYR0tsYmhCSHQwRVN2VXVuTmRVNXBPWdIBdEFVX3lxTE9fbVhOOHdGVkZQbHRkSF9leHZtQU9PcDZBcFl4Um1zd2NCWjc0TWU3bWtmdUhPa081cVNuYmVFUi1QWGNTdkVBcjlFZmJ2RXdKR1VZVEZydGFrcmNVc2J4LTJGVjBjbksySy1NZTlWOGRKeGN1?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 24, 03:00 AM ET",
@@ -369,6 +357,18 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "May 20, 03:00 AM ET",
+    "publishedAt": "2026-05-20T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
     "difficulty": "News"
   }
 ]
