@@ -16,11 +16,11 @@
     "label": "Gemini",
     "time": "Jul 16, 12:45 PM ET",
     "publishedAt": "2026-07-16T16:45:34+00:00",
-    "source": "Forbes",
+    "source": "Yahoo Tech",
     "title": "Google's New Magic Pointer Sends Screen Content To Gemini, Code Reveals",
-    "summary": "Forbes is reporting this update. Open the article for the full story.",
+    "summary": "Yahoo Tech is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbENtQjZ0N1M1TDdYbVpwM3p6ZUQ1VElCN0NOaVkyeFZ4Q0ZJaXBWQ0NKQ1ozWVg2UjQ4TW5pdVBzaFlfbGdwWUNteXlSZWNlRDZuSWJqNzYzNnRpOHNCLWtJN3NXWWhDSGsxMDlVVXE1N295LTNjWXZiNXAxSC1idy1CZm9MT2pVZmFpaXNnd0lxN1pJbS05VXJNeEIyU0p2XzNyWVhBejZab2Flanc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVlvVFZjUThmWHg0VlRiQzRiSWxzc1VvU1hTNmRRT3RMZV82V3hQUWMySzVTOVdnRUxwMFN1UzVlSnFNanlJZE1LQmp3dVJ6R3MwS3B1N29Kc1U2QndYdDFKUjlwUUEwbktGemlOTHlVZF9JUE43a3UxWktqenZBZzBxTGxwU0NHUW5qRkN2Q2lWQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 14, 09:00 AM ET",
-    "publishedAt": "2026-07-14T13:00:00+00:00",
-    "source": "Stock Titan",
-    "title": "Varonis Brings Runtime Security to Claude Code and Cowork",
-    "summary": "Stock Titan is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0ZSSFM5N3pJZ3NsTk10eG9zZ2lTbENTZlg5V2hqeUREYW5CVnlNY2dDN1ljcy1RZm9vVVpleHY0MHdVLU54cVZReTI0NFlXT1VIRTlEN2tpOTNYS1dSYmNXWmRYVE81UVE3dEhvT0Z5M0ZXYzlRd1ZuN3pERXJBZHlsWHJxb2E2NXlkX1Z6SVR2VGVaTW9peEE5ZnBVU1YyalBGSjJGeWx1ay1mRTdUQTRNZnFLVUhD?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 14, 08:00 AM ET",
@@ -357,6 +345,18 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 06, 03:00 AM ET",
+    "publishedAt": "2026-06-06T07:00:00+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Anthropic's Claude Services Down — claude.ai, Claude Code, and Cowork Affected [Updated]",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MkF3RG52UFhmUUF1MDg1RUk5bGYtZFVlcDBDMm9IWjlmelpjWE9pN2lCMUZLWXQzd2l3V3p2T09VT2NNcm9MQmNrNEh5Y2FuUXBhTEM4TFlYR0tsYmhCSHQwRVN2VXVuTmRVNXBPWdIBdEFVX3lxTE9fbVhOOHdGVkZQbHRkSF9leHZtQU9PcDZBcFl4Um1zd2NCWjc0TWU3bWtmdUhPa081cVNuYmVFUi1QWGNTdkVBcjlFZmJ2RXdKR1VZVEZydGFrcmNVc2J4LTJGVjBjbksySy1NZTlWOGRKeGN1?oc=5",
     "difficulty": "News"
   },
   {
