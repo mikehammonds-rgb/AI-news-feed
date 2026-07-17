@@ -132,6 +132,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 16, 02:13 AM ET",
+    "publishedAt": "2026-07-16T06:13:22+00:00",
+    "source": "SQ Magazine",
+    "title": "ChatGPT vs DeepSeek Statistics 2026: Users, Benchmarks & Pricing",
+    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FLUFSWUFUaGgtZkpXSTZsdXg2dExBNGFaSWNmdXdhaGJodE5HYm0wb0F5OTh1b0NfSjIwLUtvVkV4NWdIb1FmMm9hS0Z1ZURHRlBvcXJ4Nm5fejBGaHRCaU9nSDZ3V0U?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 15, 07:59 PM ET",
@@ -194,13 +206,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 13, 07:21 PM ET",
-    "publishedAt": "2026-07-13T23:21:17+00:00",
-    "source": "The Register",
-    "title": "Zig creator calls Bun’s Claude Rust rewrite ‘unreviewed slop’",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "time": "Jul 13, 08:58 PM ET",
+    "publishedAt": "2026-07-14T00:58:47+00:00",
+    "source": "MarkTechPost",
+    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmozMXpDdkRqZE1lV3hsSHBobFNrSXEtN0wzV2FlZFVzSzFkUTFJdFhJZVBxb2h2UjRaUHZnU0JqdFN0SlVHX19MZnA5MnZiSkpFdTJWd1VXMjJDRnVxVmFSam8weDdQenRkcFdoSmtFUjkySGRPZFNRSVppanhjUVNSVjNXYXE1Q2ZGcU1yNGE1UXRHZGtCNHBmLUs0X3lLTWF1ekdHRF8wV2lBLUtucER3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUzFseXVOVVdlSnNtcFhVbnNhOGtSVHFDdDFkb25iZEw1Z2FTTWFzY3JXTXNVVWZVNHJDSjJHcUc4Nk1BYnFzVzhOSjhJeGMtNmp6R2dkMlpwTFJ0Z3ZjY1MyX0hHQ2s1TnRoZjBHbml6LXpTTUZlU1RCc3RxOERtYTJDZmFsczJJOWotelZGSHhGVnF1UlctU09hSHFIVG1uaVRpNG1aT0FKSFlWX0pMM25YSlh1M1ZXY3hMbjY1VVNfbkluYmxtQ3hFWC1mV21aQmJEWVFteXg1MDJDSEdfT1NtLUkzUEdpMU10ZzFGbm9QYTJ2OEZhQS1BYTl0MUHSAYQCQVVfeXFMUFVoN3pfM0ZIS09GSlBjdUQyZllNOURjWW5CcHUwZ1J4SG1zOHVXak5nMmdDUkFzMTlkU3pkQV9yZlN5czI1LUNyU3VnUDFodmpHSkZJMTNGdWQxNGd3U2JJSU00N2RDVVdjS1gzdUQxY05SQVpBMnp1S3BmSUVSc2VBc3N2S0FMRUZ5YlVLQkcxXzB1XzZpeGhQNmU4YUo0dHNLWGhWdkNZelJ1U2N6OXRwUGk1ZnBrQ0JCRnlVd1JTd0V5blM0cWdzQm4tMGZKTnh2TlpmTk50VjFTQkV0ZXpMbklyODBub2x3Y3MtNnhoejJpNk5QcUl4akppWkhBWEh4YW0?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,18 +273,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVBxbnNGdDgwZE1Ucmd0WFpOVDJGall6UDZMUjBBWXc0dUNsQ0pfOTZDelBVM1lNcFE3ZmNVc3l3bkJxRmNhVXpYd2VvV2NnUXlDTnVTckd6Z2stcS1HOVBmUjBpem5UVWo1UkFVc1NSUGZ6bldLOHplMlIwYVZvWmMydW1DaW5pbTdJUlZ1M0NBT0ZZQ2IwcWotb3c5eV9rYzBDZDlKbVNyYTE4aXZvQmpNVlRaR2RlUlRScVlSR0g?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 10, 05:15 AM ET",
-    "publishedAt": "2026-07-10T09:15:24+00:00",
-    "source": "OpenAI",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
     "difficulty": "News"
   },
   {
