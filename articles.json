@@ -192,6 +192,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 14, 09:00 AM ET",
+    "publishedAt": "2026-07-14T13:00:00+00:00",
+    "source": "Stock Titan",
+    "title": "Varonis Brings Runtime Security to Claude Code and Cowork",
+    "summary": "Stock Titan is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0ZSSFM5N3pJZ3NsTk10eG9zZ2lTbENTZlg5V2hqeUREYW5CVnlNY2dDN1ljcy1RZm9vVVpleHY0MHdVLU54cVZReTI0NFlXT1VIRTlEN2tpOTNYS1dSYmNXWmRYVE81UVE3dEhvT0Z5M0ZXYzlRd1ZuN3pERXJBZHlsWHJxb2E2NXlkX1Z6SVR2VGVaTW9peEE5ZnBVU1YyalBGSjJGeWx1ay1mRTdUQTRNZnFLVUhD?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 14, 08:00 AM ET",
@@ -206,13 +218,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 13, 08:58 PM ET",
-    "publishedAt": "2026-07-14T00:58:47+00:00",
-    "source": "MarkTechPost",
-    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "time": "Jul 13, 07:21 PM ET",
+    "publishedAt": "2026-07-13T23:21:17+00:00",
+    "source": "The Register",
+    "title": "Zig creator calls Bun’s Claude Rust rewrite ‘unreviewed slop’",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUzFseXVOVVdlSnNtcFhVbnNhOGtSVHFDdDFkb25iZEw1Z2FTTWFzY3JXTXNVVWZVNHJDSjJHcUc4Nk1BYnFzVzhOSjhJeGMtNmp6R2dkMlpwTFJ0Z3ZjY1MyX0hHQ2s1TnRoZjBHbml6LXpTTUZlU1RCc3RxOERtYTJDZmFsczJJOWotelZGSHhGVnF1UlctU09hSHFIVG1uaVRpNG1aT0FKSFlWX0pMM25YSlh1M1ZXY3hMbjY1VVNfbkluYmxtQ3hFWC1mV21aQmJEWVFteXg1MDJDSEdfT1NtLUkzUEdpMU10ZzFGbm9QYTJ2OEZhQS1BYTl0MUHSAYQCQVVfeXFMUFVoN3pfM0ZIS09GSlBjdUQyZllNOURjWW5CcHUwZ1J4SG1zOHVXak5nMmdDUkFzMTlkU3pkQV9yZlN5czI1LUNyU3VnUDFodmpHSkZJMTNGdWQxNGd3U2JJSU00N2RDVVdjS1gzdUQxY05SQVpBMnp1S3BmSUVSc2VBc3N2S0FMRUZ5YlVLQkcxXzB1XzZpeGhQNmU4YUo0dHNLWGhWdkNZelJ1U2N6OXRwUGk1ZnBrQ0JCRnlVd1JTd0V5blM0cWdzQm4tMGZKTnh2TlpmTk50VjFTQkV0ZXpMbklyODBub2x3Y3MtNnhoejJpNk5QcUl4akppWkhBWEh4YW0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmozMXpDdkRqZE1lV3hsSHBobFNrSXEtN0wzV2FlZFVzSzFkUTFJdFhJZVBxb2h2UjRaUHZnU0JqdFN0SlVHX19MZnA5MnZiSkpFdTJWd1VXMjJDRnVxVmFSam8weDdQenRkcFdoSmtFUjkySGRPZFNRSVppanhjUVNSVjNXYXE1Q2ZGcU1yNGE1UXRHZGtCNHBmLUs0X3lLTWF1ekdHRF8wV2lBLUtucER3?oc=5",
     "difficulty": "News"
   },
   {
