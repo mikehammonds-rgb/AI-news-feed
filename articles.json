@@ -36,6 +36,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 16, 04:33 PM ET",
+    "publishedAt": "2026-07-16T20:33:32+00:00",
+    "source": "The American Bazaar",
+    "title": "Microsoft trains sales staff to steer customers away from OpenAI, Anthropic",
+    "summary": "The American Bazaar is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1ZLM0J4YXpMdWxkaUVSYno5clJ6V09KZHJwV2tqZnVDcVlHa29uRDRrY2REb19kOEltMTZ3STF5V0FWOHkxaVpMYUxlNDNyc1VFQUgyd2Q4WTZ1YVl4Mm0xcE94VFd1dWVjVDhZRW1NNjUzb2tBcHRBZWxOUDIwcnEwVU92VUdqUUhLTE1kcnY5enpxaXBCRzNWRnlyc2tzQVRZQXhFd3B0d29xRlpKeVRzT2hOampJcUFjYTZJbnJ4bTh2?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 16, 03:37 PM ET",
@@ -132,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 16, 02:13 AM ET",
-    "publishedAt": "2026-07-16T06:13:22+00:00",
-    "source": "SQ Magazine",
-    "title": "ChatGPT vs DeepSeek Statistics 2026: Users, Benchmarks & Pricing",
-    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FLUFSWUFUaGgtZkpXSTZsdXg2dExBNGFaSWNmdXdhaGJodE5HYm0wb0F5OTh1b0NfSjIwLUtvVkV4NWdIb1FmMm9hS0Z1ZURHRlBvcXJ4Nm5fejBGaHRCaU9nSDZ3V0U?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 15, 07:59 PM ET",
@@ -216,6 +216,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 13, 07:21 PM ET",
+    "publishedAt": "2026-07-13T23:21:17+00:00",
+    "source": "The Register",
+    "title": "Zig creator calls Bun’s Claude Rust rewrite ‘unreviewed slop’",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmozMXpDdkRqZE1lV3hsSHBobFNrSXEtN0wzV2FlZFVzSzFkUTFJdFhJZVBxb2h2UjRaUHZnU0JqdFN0SlVHX19MZnA5MnZiSkpFdTJWd1VXMjJDRnVxVmFSam8weDdQenRkcFdoSmtFUjkySGRPZFNRSVppanhjUVNSVjNXYXE1Q2ZGcU1yNGE1UXRHZGtCNHBmLUs0X3lLTWF1ekdHRF8wV2lBLUtucER3?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 13, 10:14 AM ET",
@@ -237,18 +249,6 @@
     "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1JGSzRrUmV3VVFxVklmcHhpWDVXUTZYaVpnVVp3Y0Q4WVFpR2pjdVRKdWFUVHJDcjFLZ0tZU2NrUTAyY0w0U0dJdzJXekZXOGxNSTZ0TXJVdEZDTENzWTl0X01Mb3FBVWtvdUQzMEhSbDB0dUEtQllaczZNNklzdTAwYVJYVlpXUndSeVVJMXFuWE1wVTA0a05paTZrVUYweTZ3bmdsbXlYWFhWV2REamFaYllYNk8zOEZhZGM1MDFoOHRiQThFUWl3QQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 13, 12:21 AM ET",
-    "publishedAt": "2026-07-13T04:21:18+00:00",
-    "source": "Forbes",
-    "title": "Claude Fable 5 Extends To July 19. 7 Days, 7 Power Moves",
-    "summary": "Forbes is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnlHZk5GTWlVYVNBTWJGZUdqbnE1bllJc29UNUFVandHdUhvcEhpNnRKdFdDSVNqOThFS2NTN2gwcFFodG12VTNJNHlJcndZU1EydDhSWmVMSWFXVkc1NGRMWWNnSGdKS2JUaDBDT3pnQzg1SzVOMUx2ay1OODlodU10Yk9zdEFacWFUVTVmak5HYjRKVHRtN21vNXN1T0ItZUpNZzhLYmcxeE0?oc=5",
     "difficulty": "News"
   },
   {
