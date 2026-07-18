@@ -24,18 +24,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 16, 05:59 PM ET",
-    "publishedAt": "2026-07-16T21:59:15+00:00",
-    "source": "MLQ.ai",
-    "title": "Getting Started with the Claude API",
-    "summary": "MLQ.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rTm8tYUE0cW51Qkw4emRJNUNQc1lrNjdncmx4anV6LWJxRFJ1N3c4eVRZR3RuVjVMdnRmVXlQVV9iSjR3cE8wbG02SkJhR0pBeE1zdGV1dnZqWnMwcHc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 16, 05:08 PM ET",
@@ -98,18 +86,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 16, 12:35 PM ET",
-    "publishedAt": "2026-07-16T16:35:00+00:00",
-    "source": "The Tech Buzz",
-    "title": "Google Vids Adds Gemini Omni AI and Personal Avatars",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGE0R1FjMmQ1ekNzVXI4Z2NrdHFwOG5ZbEFmZjN0SmpxR2tWN0xPVG1LamlsUTdTVzJVTG9SQTNlMlU0X0pkSV9GV3NaV2VVaXdDUUxraUxONVRnb3hFbW52SzZzN1FQd0pBMkkxYXE1Z2FoRGxMT0QwejlpeGZWTGwtXzZTMEJoRnA3Yml3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Jul 16, 12:06 PM ET",
     "publishedAt": "2026-07-16T16:06:27+00:00",
     "source": "blog.google",
@@ -141,18 +117,6 @@
     "summary": "Hypebeast is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPME4tMkcydmxZVDBUX0dmcHBEM2tXVG9OclpCMFJJNlY4UUhfWTM2S3RLRXI3ZnJud0puMkdnOThDY091aGcxUkhrWWl2UmJyWlpQeEtJMHp3TXZqejlWOURaQnJTWWRVdkpKVTFRUTZGX1ZjN0l0akJRRjNqUnNHcVhPUDNYZ0E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 16, 02:13 AM ET",
-    "publishedAt": "2026-07-16T06:13:22+00:00",
-    "source": "SQ Magazine",
-    "title": "ChatGPT vs DeepSeek Statistics 2026: Users, Benchmarks & Pricing",
-    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FLUFSWUFUaGgtZkpXSTZsdXg2dExBNGFaSWNmdXdhaGJodE5HYm0wb0F5OTh1b0NfSjIwLUtvVkV4NWdIb1FmMm9hS0Z1ZURHRlBvcXJ4Nm5fejBGaHRCaU9nSDZ3V0U?oc=5",
     "difficulty": "News"
   },
   {
@@ -230,18 +194,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 13, 08:58 PM ET",
-    "publishedAt": "2026-07-14T00:58:47+00:00",
-    "source": "MarkTechPost",
-    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUzFseXVOVVdlSnNtcFhVbnNhOGtSVHFDdDFkb25iZEw1Z2FTTWFzY3JXTXNVVWZVNHJDSjJHcUc4Nk1BYnFzVzhOSjhJeGMtNmp6R2dkMlpwTFJ0Z3ZjY1MyX0hHQ2s1TnRoZjBHbml6LXpTTUZlU1RCc3RxOERtYTJDZmFsczJJOWotelZGSHhGVnF1UlctU09hSHFIVG1uaVRpNG1aT0FKSFlWX0pMM25YSlh1M1ZXY3hMbjY1VVNfbkluYmxtQ3hFWC1mV21aQmJEWVFteXg1MDJDSEdfT1NtLUkzUEdpMU10ZzFGbm9QYTJ2OEZhQS1BYTl0MUHSAYQCQVVfeXFMUFVoN3pfM0ZIS09GSlBjdUQyZllNOURjWW5CcHUwZ1J4SG1zOHVXak5nMmdDUkFzMTlkU3pkQV9yZlN5czI1LUNyU3VnUDFodmpHSkZJMTNGdWQxNGd3U2JJSU00N2RDVVdjS1gzdUQxY05SQVpBMnp1S3BmSUVSc2VBc3N2S0FMRUZ5YlVLQkcxXzB1XzZpeGhQNmU4YUo0dHNLWGhWdkNZelJ1U2N6OXRwUGk1ZnBrQ0JCRnlVd1JTd0V5blM0cWdzQm4tMGZKTnh2TlpmTk50VjFTQkV0ZXpMbklyODBub2x3Y3MtNnhoejJpNk5QcUl4akppWkhBWEh4YW0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jul 13, 07:21 PM ET",
     "publishedAt": "2026-07-13T23:21:17+00:00",
     "source": "The Register",
@@ -276,6 +228,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 10, 05:50 PM ET",
+    "publishedAt": "2026-07-10T21:50:08+00:00",
+    "source": "TechRepublic",
+    "title": "Google AI Models Explained: Gemini, Veo, Nano Banana & More",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FWlpxSldPWGRVNXFnMFVOdVFtdnJqeWRobVVvbEdtZEdoTjNySW5rMWZaZ1FxSWtqQ3dYRHdIaVpLRXlHbkhYNzFCT1Naa181UjgyNDZPMkNUY205cW9ZTFNSdUc4ZGJOMjBnVm5pODc1OHBCa0R0YQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 10, 11:58 AM ET",
@@ -285,6 +249,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVBxbnNGdDgwZE1Ucmd0WFpOVDJGall6UDZMUjBBWXc0dUNsQ0pfOTZDelBVM1lNcFE3ZmNVc3l3bkJxRmNhVXpYd2VvV2NnUXlDTnVTckd6Z2stcS1HOVBmUjBpem5UVWo1UkFVc1NSUGZ6bldLOHplMlIwYVZvWmMydW1DaW5pbTdJUlZ1M0NBT0ZZQ2IwcWotb3c5eV9rYzBDZDlKbVNyYTE4aXZvQmpNVlRaR2RlUlRScVlSR0g?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 03:00 AM ET",
+    "publishedAt": "2026-07-09T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,6 +285,18 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Pd2pJX2lDR2NpUUZIRTBoR3IwcVpKQ05Wb0g1NVdTdnA5enZkcUljV0IwR3g2UGlnaERkMGpIRjRieDVjTEJvUGQyQUZEQ0RlZmktVF9pOHIxT1VZaGNXVE5DZmphTktjcU8wRUlIRGNEaDlvazNFMEQtV2o?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 07, 03:00 AM ET",
+    "publishedAt": "2026-07-07T07:00:00+00:00",
+    "source": "Malwarebytes",
+    "title": "Claude Code’s hidden tracker was an “experiment,” says Anthropic",
+    "summary": "Malwarebytes is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODBudnBldGVnY3pFRUhvS09kbC1oQ2FXUzhwT3VJZ2x2YmJSRXcwdjFhVlVsNHh0R3VVWTJUakNaUWpyc29BS1IwWTltR2VobUJtZVdWYnJFTGlDTEh6OHNEcHVCWnNfR1dhLTl2Qk1FNXVISGZhbk9pQUx2NXM5amFQQU9Fd0xxLWZzV0dIaHFzcEd0MS1mdGIzLWNnSGtyaDRIRWxTVDB4OTg?oc=5",
     "difficulty": "News"
   },
   {
