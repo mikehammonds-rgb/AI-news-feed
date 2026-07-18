@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 17, 07:02 PM ET",
+    "publishedAt": "2026-07-17T23:02:10+00:00",
+    "source": "StartupHub.ai",
+    "title": "Anthropic's Claude Tackles Long-Horizon AI Tasks",
+    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYjd1QWJrT3Fob1RNNVJwT21nVWRQMjBGczNQWDVHSW16SUdFQ041TEIxbER3Z01RS2Z4ckd1YTNjR2FKMTN2NDFzRTNDbVJOVTJTNlZDVG5EOGdzY2ZYNXhidEloR1pjSk1NWjhhXzU2c1EyZHFRTkpBSWVIN0h0c0s2Y2NFN3l4UVB4TDI1YmxrMnNieTFYczc4MkhpQWlk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 17, 10:49 AM ET",
     "publishedAt": "2026-07-17T14:49:46+00:00",
     "source": "Wccftech",
@@ -252,15 +264,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 09, 03:00 AM ET",
     "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "source": "CNBC",
+    "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI",
+    "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
     "difficulty": "News"
   },
   {
@@ -285,18 +297,6 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Pd2pJX2lDR2NpUUZIRTBoR3IwcVpKQ05Wb0g1NVdTdnA5enZkcUljV0IwR3g2UGlnaERkMGpIRjRieDVjTEJvUGQyQUZEQ0RlZmktVF9pOHIxT1VZaGNXVE5DZmphTktjcU8wRUlIRGNEaDlvazNFMEQtV2o?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 07, 03:00 AM ET",
-    "publishedAt": "2026-07-07T07:00:00+00:00",
-    "source": "Malwarebytes",
-    "title": "Claude Code’s hidden tracker was an “experiment,” says Anthropic",
-    "summary": "Malwarebytes is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODBudnBldGVnY3pFRUhvS09kbC1oQ2FXUzhwT3VJZ2x2YmJSRXcwdjFhVlVsNHh0R3VVWTJUakNaUWpyc29BS1IwWTltR2VobUJtZVdWYnJFTGlDTEh6OHNEcHVCWnNfR1dhLTl2Qk1FNXVISGZhbk9pQUx2NXM5amFQQU9Fd0xxLWZzV0dIaHFzcEd0MS1mdGIzLWNnSGtyaDRIRWxTVDB4OTg?oc=5",
     "difficulty": "News"
   },
   {
