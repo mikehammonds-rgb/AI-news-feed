@@ -14,18 +14,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 18, 10:10 AM ET",
-    "publishedAt": "2026-07-18T14:10:00+00:00",
-    "source": "The Cryptonomist",
-    "title": "Claude Platform Orchestration: New AI Model Coordination",
-    "summary": "The Cryptonomist is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4ZzMtQW03eWdhaUNIR1ViY2tFY2J5ZjcxbVlaeUJCenhFSTZDeHBmUGU0UC1ONTJVTDh2R0F1TWZNLVlzaDVBaVhKV1NqRGZiWmlhZkZ5WXlsbkkzYWxKSFpqTlBVYlVqbVF0dENpMWQ4SC1pQWhz?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jul 18, 08:56 AM ET",
     "publishedAt": "2026-07-18T12:56:04+00:00",
     "source": "Tech Times",
@@ -57,6 +45,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PTmpVZUFFUUxWYTdqYkJNZ0NUUlJsTllCUjJoRzJ2dkdhOHVyZTg4dkFSWHhMUXVLNjYwOFljNDNMellzem9uRlZOUTFnRThDSDJ1eFlXYUl1emdScURfSnU0VndEdXJYOU5VZDBR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 17, 10:30 AM ET",
+    "publishedAt": "2026-07-17T14:30:12+00:00",
+    "source": "MakeUseOf",
+    "title": "Claude's cheapest API mode costs pennies per task — and most people don't know it exists",
+    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOGNZZGhJNUpncFhxSm16UDctcENDeGhkZDFEWGExdTJLeC03RUl1S3l2Z0JMdEcwcTFTNHFMaDFaMHAwaEdwNzUyLUI4cmVKREwtMmlNVHlWckt1WEpUaFF3MnZWd3g3OG5pQlZ2U2Y3QUVDMDVXeEhObGpTUFVYUWRfTlB1X3p1eGV2YkVtcmhrYjFicVBXVUZKQWhnUlQx?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,6 +105,18 @@
     "summary": "Forbes is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbENtQjZ0N1M1TDdYbVpwM3p6ZUQ1VElCN0NOaVkyeFZ4Q0ZJaXBWQ0NKQ1ozWVg2UjQ4TW5pdVBzaFlfbGdwWUNteXlSZWNlRDZuSWJqNzYzNnRpOHNCLWtJN3NXWWhDSGsxMDlVVXE1N295LTNjWXZiNXAxSC1idy1CZm9MT2pVZmFpaXNnd0lxN1pJbS05VXJNeEIyU0p2XzNyWVhBejZab2Flanc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 16, 12:37 PM ET",
+    "publishedAt": "2026-07-16T16:37:56+00:00",
+    "source": "OpenAI",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MU3NINEgzemctRjhic18xaXd1blBpOVlzVVdmMTh3Zms0Sm5WWFR1ZC1ja25NSFZkUnY3enpyREM1aHF1U0Zn?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,18 +273,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVBxbnNGdDgwZE1Ucmd0WFpOVDJGall6UDZMUjBBWXc0dUNsQ0pfOTZDelBVM1lNcFE3ZmNVc3l3bkJxRmNhVXpYd2VvV2NnUXlDTnVTckd6Z2stcS1HOVBmUjBpem5UVWo1UkFVc1NSUGZ6bldLOHplMlIwYVZvWmMydW1DaW5pbTdJUlZ1M0NBT0ZZQ2IwcWotb3c5eV9rYzBDZDlKbVNyYTE4aXZvQmpNVlRaR2RlUlRScVlSR0g?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
     "difficulty": "News"
   },
   {
