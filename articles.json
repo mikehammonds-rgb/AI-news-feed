@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 18, 03:19 AM ET",
+    "publishedAt": "2026-07-18T07:19:52+00:00",
+    "source": "the-decoder.com",
+    "title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmU0X0dGUjFxLXhmdkdfWk83WnMzQlYxcDdPODRvWUVyNzRtWU1lc2pJRFR5RjJYSFpKVlM3Rm9zOG4xelFYeGVkam1raGZacHQxT2VSMFNFRGRNZzZOYmdMTl9ST2Jna0JTbnRKTWhScW1yMWhyd3pNcXpfTmVrT2hJcUR2THgtOHpQMGVhZWhmc3FXSG5BQUpTR01mZVNCZ3JEU2RrSGloQmNaanN1ZUZmc2Z3ek9aM1M5UXdFb3lUYUppbUc0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 17, 07:02 PM ET",
     "publishedAt": "2026-07-17T23:02:10+00:00",
     "source": "StartupHub.ai",
@@ -180,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 14, 09:00 AM ET",
-    "publishedAt": "2026-07-14T13:00:00+00:00",
-    "source": "Stock Titan",
-    "title": "Varonis Brings Runtime Security to Claude Code and Cowork",
-    "summary": "Stock Titan is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0ZSSFM5N3pJZ3NsTk10eG9zZ2lTbENTZlg5V2hqeUREYW5CVnlNY2dDN1ljcy1RZm9vVVpleHY0MHdVLU54cVZReTI0NFlXT1VIRTlEN2tpOTNYS1dSYmNXWmRYVE81UVE3dEhvT0Z5M0ZXYzlRd1ZuN3pERXJBZHlsWHJxb2E2NXlkX1Z6SVR2VGVaTW9peEE5ZnBVU1YyalBGSjJGeWx1ay1mRTdUQTRNZnFLVUhD?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 14, 08:00 AM ET",
@@ -264,15 +264,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Jul 09, 03:00 AM ET",
     "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "CNBC",
-    "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "source": "OpenAI",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
     "difficulty": "News"
   },
   {
