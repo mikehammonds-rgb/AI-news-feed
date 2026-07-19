@@ -252,22 +252,10 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 10, 01:42 PM ET",
-    "publishedAt": "2026-07-10T17:42:59+00:00",
-    "source": "Wccftech",
-    "title": "Anthropic’s Terrifying Billing Glitch Charged A Software Developer $16.6 Million For Using Claude API, Despite The Dashboard Showing A $0.00 Amount",
-    "summary": "Wccftech is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGhyX09LLVJyU2oxeklZZlNoUkNtR1hYb0FYNnNuMHFPeVI4TTR3LVVZNHJyaVZwdENHNUhIV0tlaVl1NXBOUUQ1SUpGZlRYa0VueHQyckJhVGhYUUllQ0NIbXM4WlZzMzc3NktnMXRlczdZYm9OVHpJQjB1QTFDSjVWY0ozRWsxY2dPRFJRTdIBlAFBVV95cUxPek9xOXU0ajFsckl5bEFRTFRqV2RURlNSQUhUMWVFSVU1RDVjVGJrLUF4Nnh5dVd4QWxXaHhrTEIwSkdNdHRITGdRVE5wb1JSRFYyQkxoLXRpbEk5SzlhLTRta2JyQVlwTGJpdkhnZDRkS1F1cWZCOGJSajBLRGt2LTZka1NpcUxueHhTWmNsb3dkQml5?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jul 10, 11:58 AM ET",
-    "publishedAt": "2026-07-10T15:58:08+00:00",
+    "time": "Jul 10, 03:00 AM ET",
+    "publishedAt": "2026-07-10T07:00:00+00:00",
     "source": "The GitHub Blog",
     "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
@@ -293,10 +281,10 @@
     "time": "Jul 08, 03:00 AM ET",
     "publishedAt": "2026-07-08T07:00:00+00:00",
     "source": "The Hacker News",
-    "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+    "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Pd2pJX2lDR2NpUUZIRTBoR3IwcVpKQ05Wb0g1NVdTdnA5enZkcUljV0IwR3g2UGlnaERkMGpIRjRieDVjTEJvUGQyQUZEQ0RlZmktVF9pOHIxT1VZaGNXVE5DZmphTktjcU8wRUlIRGNEaDlvazNFMEQtV2o?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTF6WU5aTDJPMzlPZGUwYjVvUEQ5TkQzdGc5cC1JNlRxN1R0ajFfeEthN3lBSGJnbzdRT2ZjTUI1ZDdlaUhzQXAyT3B0NUZqTmljR1BIZkktRkNuOXY0ZFJadGZKcVJlcU9fdXZoUEZZVWRQSzc0TlFGY3pNdEZITlRQRlg?oc=5",
     "difficulty": "News"
   },
   {
