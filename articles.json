@@ -60,18 +60,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 16, 04:33 PM ET",
-    "publishedAt": "2026-07-16T20:33:32+00:00",
-    "source": "The American Bazaar",
-    "title": "Microsoft trains sales staff to steer customers away from OpenAI, Anthropic",
-    "summary": "The American Bazaar is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1ZLM0J4YXpMdWxkaUVSYno5clJ6V09KZHJwV2tqZnVDcVlHa29uRDRrY2REb19kOEltMTZ3STF5V0FWOHkxaVpMYUxlNDNyc1VFQUgyd2Q4WTZ1YVl4Mm0xcE94VFd1dWVjVDhZRW1NNjUzb2tBcHRBZWxOUDIwcnEwVU92VUdqUUhLTE1kcnY5enpxaXBCRzNWRnlyc2tzQVRZQXhFd3B0d29xRlpKeVRzT2hOampJcUFjYTZJbnJ4bTh2?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 16, 03:37 PM ET",
@@ -153,18 +141,6 @@
     "summary": "Business of Apps is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Yb2t6c2s4eFBkMWxrbm1hc0pBRHBvZkxuZ3p2Si1BYVVQZkJuVTBmRVZyWVNvR3BEWFZYd2szNlJVa3lNZUVlMS0yMnZ3MDQzZUhJQ1cxTVJGY3N5VFNNNGh2UGc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 16, 02:47 AM ET",
-    "publishedAt": "2026-07-16T06:47:56+00:00",
-    "source": "Hypebeast",
-    "title": "Publishers Sue Google Over Gemini AI Training Data",
-    "summary": "Hypebeast is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPME4tMkcydmxZVDBUX0dmcHBEM2tXVG9OclpCMFJJNlY4UUhfWTM2S3RLRXI3ZnJud0puMkdnOThDY091aGcxUkhrWWl2UmJyWlpQeEtJMHp3TXZqejlWOURaQnJTWWRVdkpKVTFRUTZGX1ZjN0l0akJRRjNqUnNHcVhPUDNYZ0E?oc=5",
     "difficulty": "News"
   },
   {
@@ -252,6 +228,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 10, 03:00 AM ET",
+    "publishedAt": "2026-07-10T07:00:00+00:00",
+    "source": "TechRepublic",
+    "title": "Google AI Models Explained: Gemini, Veo, Nano Banana & More",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FWlpxSldPWGRVNXFnMFVOdVFtdnJqeWRobVVvbEdtZEdoTjNySW5rMWZaZ1FxSWtqQ3dYRHdIaVpLRXlHbkhYNzFCT1Naa181UjgyNDZPMkNUY205cW9ZTFNSdUc4ZGJOMjBnVm5pODc1OHBCa0R0YQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 10, 03:00 AM ET",
@@ -261,6 +249,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVBxbnNGdDgwZE1Ucmd0WFpOVDJGall6UDZMUjBBWXc0dUNsQ0pfOTZDelBVM1lNcFE3ZmNVc3l3bkJxRmNhVXpYd2VvV2NnUXlDTnVTckd6Z2stcS1HOVBmUjBpem5UVWo1UkFVc1NSUGZ6bldLOHplMlIwYVZvWmMydW1DaW5pbTdJUlZ1M0NBT0ZZQ2IwcWotb3c5eV9rYzBDZDlKbVNyYTE4aXZvQmpNVlRaR2RlUlRScVlSR0g?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 03:00 AM ET",
+    "publishedAt": "2026-07-09T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
     "difficulty": "News"
   },
   {
