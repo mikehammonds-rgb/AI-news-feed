@@ -36,18 +36,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 17, 10:30 AM ET",
-    "publishedAt": "2026-07-17T14:30:12+00:00",
-    "source": "MakeUseOf",
-    "title": "Claude's cheapest API mode costs pennies per task — and most people don't know it exists",
-    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOGNZZGhJNUpncFhxSm16UDctcENDeGhkZDFEWGExdTJLeC03RUl1S3l2Z0JMdEcwcTFTNHFMaDFaMHAwaEdwNzUyLUI4cmVKREwtMmlNVHlWckt1WEpUaFF3MnZWd3g3OG5pQlZ2U2Y3QUVDMDVXeEhObGpTUFVYUWRfTlB1X3p1eGV2YkVtcmhrYjFicVBXVUZKQWhnUlQx?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 16, 05:08 PM ET",
@@ -122,6 +110,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jul 16, 06:48 AM ET",
+    "publishedAt": "2026-07-16T10:48:25+00:00",
+    "source": "Mashable",
+    "title": "Want to keep Gemini AI out of your Gmail? Here’s how.",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6WkxBT1huNXRpREZpcm5SUTFSZGM4dERyQVdlQUtiQWRIVnF5N2ZjR0pvVE45czdQUGhQUWF2WXJLWjZIbFVfenBVcDBlcDVfQmlnTWtFZTJkeXpjbWstcG0xUFdJN2Via1FSSlF3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jul 16, 05:18 AM ET",
     "publishedAt": "2026-07-16T09:18:04+00:00",
     "source": "blog.google",
@@ -141,6 +141,18 @@
     "summary": "Business of Apps is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Yb2t6c2s4eFBkMWxrbm1hc0pBRHBvZkxuZ3p2Si1BYVVQZkJuVTBmRVZyWVNvR3BEWFZYd2szNlJVa3lNZUVlMS0yMnZ3MDQzZUhJQ1cxTVJGY3N5VFNNNGh2UGc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 16, 03:00 AM ET",
+    "publishedAt": "2026-07-16T07:00:00+00:00",
+    "source": "X.ai",
+    "title": "Introducing Grok 4.5",
+    "summary": "X.ai is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 10, 03:00 AM ET",
-    "publishedAt": "2026-07-10T07:00:00+00:00",
-    "source": "TechRepublic",
-    "title": "Google AI Models Explained: Gemini, Veo, Nano Banana & More",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FWlpxSldPWGRVNXFnMFVOdVFtdnJqeWRobVVvbEdtZEdoTjNySW5rMWZaZ1FxSWtqQ3dYRHdIaVpLRXlHbkhYNzFCT1Naa181UjgyNDZPMkNUY205cW9ZTFNSdUc4ZGJOMjBnVm5pODc1OHBCa0R0YQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 10, 03:00 AM ET",
@@ -252,15 +252,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 09, 03:00 AM ET",
     "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "source": "CNBC",
+    "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI",
+    "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,18 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 02:12 PM ET",
-    "publishedAt": "2026-06-30T18:12:09+00:00",
-    "source": "Mashable",
-    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 30, 03:00 AM ET",
@@ -321,6 +309,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 22, 01:38 PM ET",
+    "publishedAt": "2026-06-22T17:38:08+00:00",
+    "source": "blog.google",
+    "title": "Interactions API: our primary interface for Gemini models and agents",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5",
     "difficulty": "News"
   },
   {
