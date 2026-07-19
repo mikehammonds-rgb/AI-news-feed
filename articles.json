@@ -240,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 13, 10:14 AM ET",
-    "publishedAt": "2026-07-13T14:14:31+00:00",
-    "source": "Tech Times",
-    "title": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUWlWdnRnVnA0OWZYUVp5SFFUNERtbVg4OGY4MTc3ZXNVTEJKMjhDNlpxMzFoNTZEd2dTUnVrR01ucjRYbWVqd1g2aGh4V09LTENqQktIczFiR0FCbm11MUhVMmQxbnhNNHJ0TVk1SVJ5XzJzUk9kREtxTHN4cGp0RHJDVzBjay1iWEhvcWZZNDE2SEtfcE9VU3JhaDF1S1E4dXZiNTZIdFBDRTBHUTJYTHlwbXF2RG90MHJINzlUNnYxZzJkYVFDYk9mME9JenM?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 13, 10:10 AM ET",
@@ -261,6 +249,18 @@
     "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1JGSzRrUmV3VVFxVklmcHhpWDVXUTZYaVpnVVp3Y0Q4WVFpR2pjdVRKdWFUVHJDcjFLZ0tZU2NrUTAyY0w0U0dJdzJXekZXOGxNSTZ0TXJVdEZDTENzWTl0X01Mb3FBVWtvdUQzMEhSbDB0dUEtQllaczZNNklzdTAwYVJYVlpXUndSeVVJMXFuWE1wVTA0a05paTZrVUYweTZ3bmdsbXlYWFhWV2REamFaYllYNk8zOEZhZGM1MDFoOHRiQThFUWl3QQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 10, 03:00 AM ET",
+    "publishedAt": "2026-07-10T07:00:00+00:00",
+    "source": "TechRepublic",
+    "title": "Google AI Models Explained: Gemini, Veo, Nano Banana & More",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FWlpxSldPWGRVNXFnMFVOdVFtdnJqeWRobVVvbEdtZEdoTjNySW5rMWZaZ1FxSWtqQ3dYRHdIaVpLRXlHbkhYNzFCT1Naa181UjgyNDZPMkNUY205cW9ZTFNSdUc4ZGJOMjBnVm5pODc1OHBCa0R0YQ?oc=5",
     "difficulty": "News"
   },
   {
