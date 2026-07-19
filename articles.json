@@ -36,18 +36,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 17, 09:38 PM ET",
-    "publishedAt": "2026-07-18T01:38:21+00:00",
-    "source": "tech-insider.org",
-    "title": "Google Kills 3 Free Gemini Coding Tools [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PTmpVZUFFUUxWYTdqYkJNZ0NUUlJsTllCUjJoRzJ2dkdhOHVyZTg4dkFSWHhMUXVLNjYwOFljNDNMellzem9uRlZOUTFnRThDSDJ1eFlXYUl1emdScURfSnU0VndEdXJYOU5VZDBR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 17, 10:30 AM ET",
