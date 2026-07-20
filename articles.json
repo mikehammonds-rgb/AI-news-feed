@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 19, 11:33 PM ET",
+    "publishedAt": "2026-07-20T03:33:43+00:00",
+    "source": "Firstpost",
+    "title": "Anthropic revamps Claude subscriptions: Here's what's changing for users starting today",
+    "summary": "Firstpost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSS02TVRUZkF6NzloM0J6WENueHZ2M28xQXNlVVNicnpsV2lTSHM0S2RkV21qdFh5Q056UWMwVTU1NXZaODRIbTFSZnY4NTJiSzNGbUhRYlJYSlQ3allqMkE1NVYxZDRhcVkyS1Jhb1hpNEVlR0tBWjV6Sy1QOEE5UkhRdzE1WHdZSTBmcWRwV2lqU1hTdlNkdm8xaHVIbmlkcHc0ZVpUV1lsVWFMQXNFand4Q1RsRHUtRVI3WFk3M1R6bDZnOVNRRNIBzgFBVV95cUxQMVktQkpYV01OVGlOSVB3MWE0N2pJdUhMNkVpVXRmTS1CaVd1SU84UGJKaFRUNFNfYVAxT3Izd3JfY1Y3a0JILTN6MzRYTTNkOXpVeTRXbFdBWTZUQVE1MGRlLXFfRnpHUGlCQ3pNY0w5ZUxwR3hHN0ozeTF3a01Dd2hxSGNfMXMtdUJlaUcxQWV5dnM4NHhRLTZPU3JjZVBiTWxiZDBYTHY0M3Y1eldIRHo5dlBSelRJSVRSRHdfTFpVWmxJM3AteXJoQXprUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 19, 07:48 PM ET",
@@ -69,18 +81,6 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmU0X0dGUjFxLXhmdkdfWk83WnMzQlYxcDdPODRvWUVyNzRtWU1lc2pJRFR5RjJYSFpKVlM3Rm9zOG4xelFYeGVkam1raGZacHQxT2VSMFNFRGRNZzZOYmdMTl9ST2Jna0JTbnRKTWhScW1yMWhyd3pNcXpfTmVrT2hJcUR2THgtOHpQMGVhZWhmc3FXSG5BQUpTR01mZVNCZ3JEU2RrSGloQmNaanN1ZUZmc2Z3ek9aM1M5UXdFb3lUYUppbUc0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 17, 10:30 AM ET",
-    "publishedAt": "2026-07-17T14:30:12+00:00",
-    "source": "MakeUseOf",
-    "title": "Claude's cheapest API mode costs pennies per task — and most people don't know it exists",
-    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOGNZZGhJNUpncFhxSm16UDctcENDeGhkZDFEWGExdTJLeC03RUl1S3l2Z0JMdEcwcTFTNHFMaDFaMHAwaEdwNzUyLUI4cmVKREwtMmlNVHlWckt1WEpUaFF3MnZWd3g3OG5pQlZ2U2Y3QUVDMDVXeEhObGpTUFVYUWRfTlB1X3p1eGV2YkVtcmhrYjFicVBXVUZKQWhnUlQx?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,6 +192,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 15, 09:36 PM ET",
+    "publishedAt": "2026-07-16T01:36:49+00:00",
+    "source": "tech-insider.org",
+    "title": "GhostApproval Hits 6 AI Coding Tools, 2 Unpatched [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBubG1HNlVDU2tsWVE3WmhRRjRYcEdNWFo2SldCQU1WZmtUenBiMjBLTUZKck4yZ0N2QnpUS09CX2dKaXFPYVhickd0TDNWZ1k5c0RyUnlhdS0tVzE2ckhpaGNqa3dTbGFwc05HS1ZOM0FLbVU2cUM2Qw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 15, 07:59 PM ET",
@@ -225,30 +237,6 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVWhJanBKRWI3ejZ2OFBzdnNaOUxuLTFlREpwMVhZcGFncnhHWjlrT0RIRE5FQlRqN0Y4TmVxRThqQlIySU5zdDhXbWY4NE56TEl3cHoxcVJwSkhKdGRvbExrcGZDUDN2ZzlzX3ZFTFZSLUZlZXdTdkZxSW1CenZnN1lmTVFaRmtkU1phRU0xRE1kUVZKLTV2cC1ObFQwYjVGcW54LWpFR3dQV3pLTHo5T3lTTXV3eFl3ZHhRNDBxZDVUa1RWZ1B1Wlh4d3pjNzRITWp1VkJYSkU3R0E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 14, 06:22 PM ET",
-    "publishedAt": "2026-07-14T22:22:38+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Code vs Cursor vs GitHub Copilot 2026",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jOXhnbUZ3dEM5aFBEcW02cmpWX3ZqdmV3S1oyWGtYVkF2S091ZHpfV3Z0S2NQUVNyV3JnQTNlMjA3QUJWZV95WXhyeHM5eDdjZzN4ZkFTX05ScDFwbEZZemJEckE0Vm5Rb0hjQ1RqX1BYdWR0QU1MTjN5MVYzZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 13, 10:10 AM ET",
-    "publishedAt": "2026-07-13T14:10:14+00:00",
-    "source": "Tech Times",
-    "title": "GitHub Copilot Jailbreak Exploits Coding Workflow to Bypass All Safety Refusals",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1JGSzRrUmV3VVFxVklmcHhpWDVXUTZYaVpnVVp3Y0Q4WVFpR2pjdVRKdWFUVHJDcjFLZ0tZU2NrUTAyY0w0U0dJdzJXekZXOGxNSTZ0TXJVdEZDTENzWTl0X01Mb3FBVWtvdUQzMEhSbDB0dUEtQllaczZNNklzdTAwYVJYVlpXUndSeVVJMXFuWE1wVTA0a05paTZrVUYweTZ3bmdsbXlYWFhWV2REamFaYllYNk8zOEZhZGM1MDFoOHRiQThFUWl3QQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -333,6 +321,18 @@
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 22, 03:00 AM ET",
+    "publishedAt": "2026-06-22T07:00:00+00:00",
+    "source": "The New Stack",
+    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
     "difficulty": "News"
   },
   {
