@@ -12,6 +12,30 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 20, 06:20 AM ET",
+    "publishedAt": "2026-07-20T10:20:59+00:00",
+    "source": "Tech Times",
+    "title": "Claude Fable 5 Billing Splits Today: Max Gets It Free, Pro Pays Per Token",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVzdwUGctYUQ0VWQtTEY3NGg2Tlc0ZW9MR1VkYUJxMkFJczY2dWhhWUhReERYSVZrVHMtRGdnWWZrMVljVS1iYWdkUG9hQWVRaEN2cFdzeXh4YTMtdDBSYmRDQVdiS3IwSWdsOEZiQk01V1B0VGU3bDlQQXpLRDdEZjl6S1pibFE0ZU1JeDcyQjhCcnVEMXNKd1lsSWhpZGtrVGdvbkFVLU9LNTFENnRMVG5JbjVVRVNfMVJZQ0VCbWwxY0Fw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 19, 11:33 PM ET",
+    "publishedAt": "2026-07-20T03:33:43+00:00",
+    "source": "Firstpost",
+    "title": "Anthropic revamps Claude subscriptions: Here's what's changing for users starting today",
+    "summary": "Firstpost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSS02TVRUZkF6NzloM0J6WENueHZ2M28xQXNlVVNicnpsV2lTSHM0S2RkV21qdFh5Q056UWMwVTU1NXZaODRIbTFSZnY4NTJiSzNGbUhRYlJYSlQ3allqMkE1NVYxZDRhcVkyS1Jhb1hpNEVlR0tBWjV6Sy1QOEE5UkhRdzE1WHdZSTBmcWRwV2lqU1hTdlNkdm8xaHVIbmlkcHc0ZVpUV1lsVWFMQXNFand4Q1RsRHUtRVI3WFk3M1R6bDZnOVNRRNIBzgFBVV95cUxQMVktQkpYV01OVGlOSVB3MWE0N2pJdUhMNkVpVXRmTS1CaVd1SU84UGJKaFRUNFNfYVAxT3Izd3JfY1Y3a0JILTN6MzRYTTNkOXpVeTRXbFdBWTZUQVE1MGRlLXFfRnpHUGlCQ3pNY0w5ZUxwR3hHN0ozeTF3a01Dd2hxSGNfMXMtdUJlaUcxQWV5dnM4NHhRLTZPU3JjZVBiTWxiZDBYTHY0M3Y1eldIRHo5dlBSelRJSVRSRHdfTFpVWmxJM3AteXJoQXprUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 19, 09:36 PM ET",
@@ -48,15 +72,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 18, 06:21 PM ET",
-    "publishedAt": "2026-07-18T22:21:18+00:00",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 18, 09:39 PM ET",
+    "publishedAt": "2026-07-19T01:39:40+00:00",
     "source": "tech-insider.org",
-    "title": "Claude Code Pricing vs Cursor, Copilot: 20x Gap [2026]",
+    "title": "OpenCode Hits 160K GitHub Stars, Tops Coding Tools [2026]",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGak9CRGJha3pDel9UWXdIdkFNLUplV2tEZmc4d0t0T2ctaTBwUENJTDQ2d2Q3TkhrYXo0ckh0X2FNMWtpRXpnbHRNMzBlMms4WUhoT2NmMGQ0Z2tPbU44S3pWT0lLRlFYRVJ0QV9oUVhRN2twajlVaExHQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vb29kNzZpbUctR0o2QzhlRXBTdjM4M005Z2I1a3dGUjk0N3pGNElhaG9WRzRBdE9FTndZR3BJRTJmQVlyYkYyZThJR19VUHdyYWJmaWx6S0dZaGxENGJIOWphRGRCLTBubTRvTA?oc=5",
     "difficulty": "News"
   },
   {
@@ -74,18 +98,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 18, 08:56 AM ET",
-    "publishedAt": "2026-07-18T12:56:04+00:00",
-    "source": "Tech Times",
-    "title": "Claude Fable 5 Ends Subscription Limbo: Permanent for Max, Credits-Only for Pro",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0pnQUJvcE51TUxiU2JEWXBQeFdSYllaMVd5bkoxOTRYWEM4MUJHRG5NZ29GMUV5bDZVVVpzLVA1ckJlZzdPVW9kMWplRjE2WVdFeWJfNzJUOFFsVkJlbGxVQWx2c1BFZS13azBEU0hfaTdFc00zcFlhVEx0bEdwRjRwUEh3QW9Ta1NNUUJpRUZidlVOSEUxU3hVM2lua0VjMWJLUldLNXdVY09pT3IyN3N2d0V0Tkp6SG5RNTk4OUJBUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jul 18, 03:19 AM ET",
     "publishedAt": "2026-07-18T07:19:52+00:00",
     "source": "the-decoder.com",
@@ -93,18 +105,6 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmU0X0dGUjFxLXhmdkdfWk83WnMzQlYxcDdPODRvWUVyNzRtWU1lc2pJRFR5RjJYSFpKVlM3Rm9zOG4xelFYeGVkam1raGZacHQxT2VSMFNFRGRNZzZOYmdMTl9ST2Jna0JTbnRKTWhScW1yMWhyd3pNcXpfTmVrT2hJcUR2THgtOHpQMGVhZWhmc3FXSG5BQUpTR01mZVNCZ3JEU2RrSGloQmNaanN1ZUZmc2Z3ek9aM1M5UXdFb3lUYUppbUc0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 16, 07:56 PM ET",
-    "publishedAt": "2026-07-16T23:56:52+00:00",
-    "source": "Tech Times",
-    "title": "OpenAI Codex Encrypts Agent Instructions, Stripping Developers of Audit Access",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkhaX25kLWpJT2VGXzl6T0xGUW9BeDJZbS1mM3RieVdNRThsZmhQWDlDUUdIS1lTMEhHdHRPOWUxanAzMjRvRVFDcTlFNUFWcDU2UUhjQWRmUlNxaTNLemxxQUdBeEJoRnpRejlSSEdxMFdpVVQ5S3FlT2RJdXF1cjFOYVBiZ19jM0xnMHd1WEV0clY5TTg1cGRXRnowd0k1ejFNTXg0QXlsal9fajBsdmdMei1yaGZuUWNld1p5aElWZWdJWkNwTA?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,6 +228,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 14, 07:00 PM ET",
+    "publishedAt": "2026-07-14T23:00:33+00:00",
+    "source": "The Register",
+    "title": "OpenAI hides Codex agent instructions behind encryption, leaving developers in the dark",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVWhJanBKRWI3ejZ2OFBzdnNaOUxuLTFlREpwMVhZcGFncnhHWjlrT0RIRE5FQlRqN0Y4TmVxRThqQlIySU5zdDhXbWY4NE56TEl3cHoxcVJwSkhKdGRvbExrcGZDUDN2ZzlzX3ZFTFZSLUZlZXdTdkZxSW1CenZnN1lmTVFaRmtkU1phRU0xRE1kUVZKLTV2cC1ObFQwYjVGcW54LWpFR3dQV3pLTHo5T3lTTXV3eFl3ZHhRNDBxZDVUa1RWZ1B1Wlh4d3pjNzRITWp1VkJYSkU3R0E?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 10, 03:00 AM ET",
@@ -321,18 +333,6 @@
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 22, 03:00 AM ET",
-    "publishedAt": "2026-06-22T07:00:00+00:00",
-    "source": "The New Stack",
-    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
     "difficulty": "News"
   },
   {
