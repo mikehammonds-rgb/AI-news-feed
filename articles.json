@@ -1,14 +1,14 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 20, 06:20 AM ET",
-    "publishedAt": "2026-07-20T10:20:59+00:00",
-    "source": "Tech Times",
-    "title": "Claude Fable 5 Billing Splits Today: Max Gets It Free, Pro Pays Per Token",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 20, 11:38 AM ET",
+    "publishedAt": "2026-07-20T15:38:37+00:00",
+    "source": "MSN",
+    "title": "OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month",
+    "summary": "MSN is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVzdwUGctYUQ0VWQtTEY3NGg2Tlc0ZW9MR1VkYUJxMkFJczY2dWhhWUhReERYSVZrVHMtRGdnWWZrMVljVS1iYWdkUG9hQWVRaEN2cFdzeXh4YTMtdDBSYmRDQVdiS3IwSWdsOEZiQk01V1B0VGU3bDlQQXpLRDdEZjl6S1pibFE0ZU1JeDcyQjhCcnVEMXNKd1lsSWhpZGtrVGdvbkFVLU9LNTFENnRMVG5JbjVVRVNfMVJZQ0VCbWwxY0Fw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPa3pFeFhSNzlxZ0VXbmxSNUkwWERTLTRudWt0OU93SmpuZHdIOUtkQ05FbXFvazBvc3NlTUdURGU2RzRfcWQycFA3NGQ0Y3R4aXJ5S0NmRExOeWhCSDVuY01sU1BnNHc3QWxuR0RUSnhaeVFrdXB5bm1sMUJzaWlTdldTMVRiRklmelJqakkwbDFwNVh4amRVdU5VTGs3ZkJIcmNLeXVmWFo5M1BpOTY4RzVGVWNVNXl3elI3ZmF4NENMZkgtVEFxTzMwS0VNVXpTckg5SmhDeUo5RjUzUEVBYUlKbnZVWVJoa2dpWW1qaHN4RjVXSzYwTEZSVWdmVTVpeXh2cVprNk4waEk5UFZHRVhyVm90dmlqMGgzU29fbXU1Z3JfOUxqUW5fSFhMZllWLXNnSzd1XzlYOGpCUjFpZEViT2tTdFZsTFJ4U0tUa1A5cFJhcjlHWGdXNnZoSHZTZW83RlN3bGQyeWkxX0NkcmZQdDFyb2c?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,6 +105,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGak9CRGJha3pDel9UWXdIdkFNLUplV2tEZmc4d0t0T2ctaTBwUENJTDQ2d2Q3TkhrYXo0ckh0X2FNMWtpRXpnbHRNMzBlMms4WUhoT2NmMGQ0Z2tPbU44S3pWT0lLRlFYRVJ0QV9oUVhRN2twajlVaExHQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 18, 08:56 AM ET",
+    "publishedAt": "2026-07-18T12:56:04+00:00",
+    "source": "Tech Times",
+    "title": "Claude Fable 5 Ends Subscription Limbo: Permanent for Max, Credits-Only for Pro",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0pnQUJvcE51TUxiU2JEWXBQeFdSYllaMVd5bkoxOTRYWEM4MUJHRG5NZ29GMUV5bDZVVVpzLVA1ckJlZzdPVW9kMWplRjE2WVdFeWJfNzJUOFFsVkJlbGxVQWx2c1BFZS13azBEU0hfaTdFc00zcFlhVEx0bEdwRjRwUEh3QW9Ta1NNUUJpRUZidlVOSEUxU3hVM2lua0VjMWJLUldLNXdVY09pT3IyN3N2d0V0Tkp6SG5RNTk4OUJBUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,18 +381,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Mar 12, 03:00 AM ET",
-    "publishedAt": "2026-03-12T07:00:00+00:00",
-    "source": "towardsdatascience.com",
-    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-    "summary": "towardsdatascience.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
