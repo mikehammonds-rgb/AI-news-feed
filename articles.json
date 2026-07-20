@@ -1,5 +1,29 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 19, 07:48 PM ET",
+    "publishedAt": "2026-07-19T23:48:04+00:00",
+    "source": "EdTech Innovation Hub",
+    "title": "Google renames NotebookLM and adds code execution | ETIH EdTech News",
+    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWl8wakNTdzRhWEktNjhMdkhrckZFWDloVWh6eFdUbmdFbTFfNl9kcmxRcjFTdm5EWDI3ZmROYnM2bC1vMXhIbnBSb05MLXc1ZWpycHlrbnNzVTNBZXJ5M2FPUW53bW43ZnduNmYtMDBWXzBuNTRsSE0zdEp2MDZ6MmttOHI4OFpONEhvRERsVW1jWjFqaUYtdG45THBMd2Fna3dlY04zemZzWXhVUTVHVTc5Q3dZVlk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 19, 07:05 PM ET",
+    "publishedAt": "2026-07-19T23:05:04+00:00",
+    "source": "Memeburn",
+    "title": "Gemini AI Review 2026: Features, Pricing & Verdict",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YWmZqQnVNZml1bHBWQVI5WFdwNlFlWXF4eW55MkR3bDlZNWNLUzhDcHFaZkI1WkxJYlFpeEdkYU90Y2FHaXM3UnhMOW03VGM?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 18, 06:21 PM ET",
@@ -168,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 16, 02:47 AM ET",
-    "publishedAt": "2026-07-16T06:47:56+00:00",
-    "source": "Hypebeast",
-    "title": "Publishers Sue Google Over Gemini AI Training Data",
-    "summary": "Hypebeast is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPME4tMkcydmxZVDBUX0dmcHBEM2tXVG9OclpCMFJJNlY4UUhfWTM2S3RLRXI3ZnJud0puMkdnOThDY091aGcxUkhrWWl2UmJyWlpQeEtJMHp3TXZqejlWOURaQnJTWWRVdkpKVTFRUTZGX1ZjN0l0akJRRjNqUnNHcVhPUDNYZ0E?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 15, 07:59 PM ET",
@@ -237,18 +249,6 @@
     "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1JGSzRrUmV3VVFxVklmcHhpWDVXUTZYaVpnVVp3Y0Q4WVFpR2pjdVRKdWFUVHJDcjFLZ0tZU2NrUTAyY0w0U0dJdzJXekZXOGxNSTZ0TXJVdEZDTENzWTl0X01Mb3FBVWtvdUQzMEhSbDB0dUEtQllaczZNNklzdTAwYVJYVlpXUndSeVVJMXFuWE1wVTA0a05paTZrVUYweTZ3bmdsbXlYWFhWV2REamFaYllYNk8zOEZhZGM1MDFoOHRiQThFUWl3QQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 10, 03:00 AM ET",
-    "publishedAt": "2026-07-10T07:00:00+00:00",
-    "source": "TechRepublic",
-    "title": "Google AI Models Explained: Gemini, Veo, Nano Banana & More",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FWlpxSldPWGRVNXFnMFVOdVFtdnJqeWRobVVvbEdtZEdoTjNySW5rMWZaZ1FxSWtqQ3dYRHdIaVpLRXlHbkhYNzFCT1Naa181UjgyNDZPMkNUY205cW9ZTFNSdUc4ZGJOMjBnVm5pODc1OHBCa0R0YQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,18 +312,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 02:12 PM ET",
-    "publishedAt": "2026-06-30T18:12:09+00:00",
-    "source": "Mashable",
-    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 30, 03:00 AM ET",
@@ -333,6 +321,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "Mashable",
+    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
     "difficulty": "News"
   },
   {
