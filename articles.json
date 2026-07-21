@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 21, 05:43 AM ET",
+    "publishedAt": "2026-07-21T09:43:00+00:00",
+    "source": "Techgenyz",
+    "title": "OpenAI Build Week Expands Globally As Codex Ambassadors Bring AI Development Events Worldwide",
+    "summary": "Techgenyz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05S0lER3J5Z3R6NjJSNVNDVXZxVnBhNFJWc2w5X01vMFByRTBJTlZTS1A0NEJmajV3bFpybjZpUktoTENIWXVXOFlNcFI4M0FrcDk3QzA0eVJwcnFvcGlOOUFGcG1JT0JhUEJDaDBnd0pRTzVRbVRFSU1R?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 20, 09:52 PM ET",
@@ -93,18 +105,6 @@
     "summary": "Memeburn is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YWmZqQnVNZml1bHBWQVI5WFdwNlFlWXF4eW55MkR3bDlZNWNLUzhDcHFaZkI1WkxJYlFpeEdkYU90Y2FHaXM3UnhMOW03VGM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 18, 09:39 PM ET",
-    "publishedAt": "2026-07-19T01:39:40+00:00",
-    "source": "tech-insider.org",
-    "title": "OpenCode Hits 160K GitHub Stars, Tops Coding Tools [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vb29kNzZpbUctR0o2QzhlRXBTdjM4M005Z2I1a3dGUjk0N3pGNElhaG9WRzRBdE9FTndZR3BJRTJmQVlyYkYyZThJR19VUHdyYWJmaWx6S0dZaGxENGJIOWphRGRCLTBubTRvTA?oc=5",
     "difficulty": "News"
   },
   {
@@ -350,6 +350,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "May 29, 03:00 AM ET",
+    "publishedAt": "2026-05-29T07:00:00+00:00",
+    "source": "Fortune",
+    "title": "Exclusive: Microsoft is building a super app that combines coding, chat, and other Copilot AI tools",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "May 24, 03:00 AM ET",
     "publishedAt": "2026-05-24T07:00:00+00:00",
     "source": "AI: Reset to Zero",
@@ -369,18 +381,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Mar 12, 03:00 AM ET",
-    "publishedAt": "2026-03-12T07:00:00+00:00",
-    "source": "towardsdatascience.com",
-    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-    "summary": "towardsdatascience.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
