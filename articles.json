@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 20, 09:52 PM ET",
+    "publishedAt": "2026-07-21T01:52:10+00:00",
+    "source": "Security Boulevard",
+    "title": "How to embrace Claude without losing control of your data",
+    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYXVmUWNHV1dGN3J2TTRCVkhtYzQ0anZWeEVOVHA4TTVvUWQxR09FalhlNnJvVnVLbXRlTXFMek9TTlBjUTJ2RW9SSEp2R0V1cXFYazVfM0pBWUV0cUl0ekE0amlSb0ExLW4wOEdSRUNuT0dSS2owMzlybU16LVVyWTk5UU9IZzI5d3d0RnFtNFFCVVpGcFZXWTlPcHI?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 20, 01:11 PM ET",
     "publishedAt": "2026-07-20T17:11:25+00:00",
     "source": "Anthropic",
@@ -24,15 +36,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 20, 11:38 AM ET",
-    "publishedAt": "2026-07-20T15:38:37+00:00",
-    "source": "MSN",
-    "title": "OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month",
-    "summary": "MSN is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 20, 05:08 AM ET",
+    "publishedAt": "2026-07-20T09:08:00+00:00",
+    "source": "StartupHub.ai",
+    "title": "Anthropic's Claude Code Creator on AI's Future",
+    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPa3pFeFhSNzlxZ0VXbmxSNUkwWERTLTRudWt0OU93SmpuZHdIOUtkQ05FbXFvazBvc3NlTUdURGU2RzRfcWQycFA3NGQ0Y3R4aXJ5S0NmRExOeWhCSDVuY01sU1BnNHc3QWxuR0RUSnhaeVFrdXB5bm1sMUJzaWlTdldTMVRiRklmelJqakkwbDFwNVh4amRVdU5VTGs3ZkJIcmNLeXVmWFo5M1BpOTY4RzVGVWNVNXl3elI3ZmF4NENMZkgtVEFxTzMwS0VNVXpTckg5SmhDeUo5RjUzUEVBYUlKbnZVWVJoa2dpWW1qaHN4RjVXSzYwTEZSVWdmVTVpeXh2cVprNk4waEk5UFZHRVhyVm90dmlqMGgzU29fbXU1Z3JfOUxqUW5fSFhMZllWLXNnSzd1XzlYOGpCUjFpZEViT2tTdFZsTFJ4U0tUa1A5cFJhcjlHWGdXNnZoSHZTZW83RlN3bGQyeWkxX0NkcmZQdDFyb2c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHhjd3Vwakx3X1hPckVySVJTLUtIcHJOZllLNnF4YXZraUd0VG03Y1pUWWVWV19PRFo0MllnLWxNSDFycUVIWUVlM3VtTzBwVEtySkFFUEJDVWd4bDlhdXJSR29OeEZYQTlQV3BURE5WbWNCQmxaQlJOajVFM295M001eGszWW5UeVV6Q1ZoWklmRE9ha2dVcjZDb3Y1NENianhMSklCNUN1T3hKZmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -45,18 +57,6 @@
     "summary": "DataDrivenInvestor is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbG9aMThHcUFucDZlejVDMVg3ejl6dkQ0TkFQakR4N3FLUGV5OGtPY3U0NmVfZ1Z6Tm15THR4MGJkWURKRERIcHRXNXgtNmU1RXM0UEtuR0xpbklPVjg3QndXOURHVHRaQU9ZUl95dTRXNDc4cXZlWDB3MjRuZG5wWGdyYzVrbTd3aVpNdFlhN3JBelBIZ3N5ZHhpSjZBYXVOcm9rZA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 19, 10:33 PM ET",
-    "publishedAt": "2026-07-20T02:33:08+00:00",
-    "source": "SQ Magazine",
-    "title": "Gemini vs Copilot: How Google and Microsoft's AI Assistants Actually Differ in 2026",
-    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YUWk1QXVRNmlNQ2FHUXlBeUREYnNzellMUUlmcWFsMWtQZkR3UTlXY05jWWV6eUpFUlhBMjZtTjlCQ1psSmRGYktzU25hVmJ0bGtmS3JR?oc=5",
     "difficulty": "News"
   },
   {
@@ -108,27 +108,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 18, 06:21 PM ET",
-    "publishedAt": "2026-07-18T22:21:18+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Code Pricing vs Cursor, Copilot: 20x Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 18, 11:53 AM ET",
+    "publishedAt": "2026-07-18T15:53:56+00:00",
+    "source": "PPC Land",
+    "title": "Google kills NotebookLM name, moving 30 million users to Gemini Notebook",
+    "summary": "PPC Land is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGak9CRGJha3pDel9UWXdIdkFNLUplV2tEZmc4d0t0T2ctaTBwUENJTDQ2d2Q3TkhrYXo0ckh0X2FNMWtpRXpnbHRNMzBlMms4WUhoT2NmMGQ0Z2tPbU44S3pWT0lLRlFYRVJ0QV9oUVhRN2twajlVaExHQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 18, 08:56 AM ET",
-    "publishedAt": "2026-07-18T12:56:04+00:00",
-    "source": "Tech Times",
-    "title": "Claude Fable 5 Ends Subscription Limbo: Permanent for Max, Credits-Only for Pro",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0pnQUJvcE51TUxiU2JEWXBQeFdSYllaMVd5bkoxOTRYWEM4MUJHRG5NZ29GMUV5bDZVVVpzLVA1ckJlZzdPVW9kMWplRjE2WVdFeWJfNzJUOFFsVkJlbGxVQWx2c1BFZS13azBEU0hfaTdFc00zcFlhVEx0bEdwRjRwUEh3QW9Ta1NNUUJpRUZidlVOSEUxU3hVM2lua0VjMWJLUldLNXdVY09pT3IyN3N2d0V0Tkp6SG5RNTk4OUJBUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWVEzRmZlb1c5V1JIVFBmbXEtWGdnR3FUaHhEZGNIbmJ6bW4xUEt3M1g5OGI1eEgwY2pQcnc1c2FtS1FxdTI0V05hWk5ac1M3dUlBV0JZaTRYbmlMVkpkOHZpZjlyWmgzTWUwTHljODZFeEd2Q1dNN3hGYWRORTFpNEYtN3QtOTBycE0zX3gxbFlsUlk?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "qz.com",
-    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 08, 03:00 AM ET",
@@ -381,6 +357,30 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "May 20, 03:00 AM ET",
+    "publishedAt": "2026-05-20T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "towardsdatascience.com",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "towardsdatascience.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
