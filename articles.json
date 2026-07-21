@@ -1,5 +1,53 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 21, 11:00 AM ET",
+    "publishedAt": "2026-07-21T15:00:25+00:00",
+    "source": "SiliconANGLE",
+    "title": "Google expands Gemini with cheaper models and a bug-hunter it keeps on a leash",
+    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRW1taFlkQzFJN2J5WWdFOGdKYWxnazlEUGhFUmw3c196Sm9mSmw4STRjVHZGaE1sQjVjMGRqRHJMa3NLeFdNQjJIVVRFWUx0bXlEa1JLbUpxS3d2Mzk1RnpQTl82bGlWcXdQVmNMV0plUU8tVXhiM3hGdzgzVDZpSFFfandXeU8taDJvUmQwcVE3X2NVamhORmIxOUg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 21, 10:55 AM ET",
+    "publishedAt": "2026-07-21T14:55:23+00:00",
+    "source": "Crypto Briefing",
+    "title": "Google quietly registers Gemini 3.6 Flash and 3.5 Flash Lite models as AI race heats up",
+    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlZkx1VkFYTkYwT3dNUGEwcWpxdjNvTzBqcUY1OUlIMnNvV0R3WVlpQ3dUeHhaMjFxSUhwZVgxdmlQVHdYNkxaRlVHUW12WHFhdDJ2TUxFVzJ6c0gzTFpYUWE4WTdZcUFfN1RTNzZPYWt2S216VVFpOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 21, 10:00 AM ET",
+    "publishedAt": "2026-07-21T14:00:00+00:00",
+    "source": "Infosecurity Magazine",
+    "title": "Russian Hacker Turns Jailbroken Claude Into Pentest Platform",
+    "summary": "Infosecurity Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSWx6SHBIOHl5b3I3b1RjdjBSUFR2Yk5oTDJKMTZZMlNfREhUX1JBbklUX0lBX2xsWHN0Zy1Xc2dPLWM0X0V4VzlkRjFMVXJ6V2otLV84M0xyVXhDN2NOMjZIdVcyQUFBT3Q0QVBsRFoxUThyZDFQYXFEalMtRGRkRTNDaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 21, 09:47 AM ET",
+    "publishedAt": "2026-07-21T13:47:22+00:00",
+    "source": "Crypto Briefing",
+    "title": "Arkham integrates with Claude for automated memecoin analysis",
+    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rZVZtRDJDRXh0Z0lyUkFnSk9ubzFBX3VRTk1weTAxS0diQnYwbS1WRVdPaVVvd3JoWXRYU1l2b3BjUjI5Unh4WVhTOEp1ZW1BNU5zTmpNdkhtY21iNlAzdTM2Y1dYUFdtLUZ4Y19NU085UXJKRzg3ekZpRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 21, 08:08 AM ET",
@@ -21,6 +69,18 @@
     "summary": "Techgenyz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05S0lER3J5Z3R6NjJSNVNDVXZxVnBhNFJWc2w5X01vMFByRTBJTlZTS1A0NEJmajV3bFpybjZpUktoTENIWXVXOFlNcFI4M0FrcDk3QzA0eVJwcnFvcGlOOUFGcG1JT0JhUEJDaDBnd0pRTzVRbVRFSU1R?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 21, 05:00 AM ET",
+    "publishedAt": "2026-07-21T09:00:00+00:00",
+    "source": "Mashable",
+    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
     "difficulty": "News"
   },
   {
@@ -60,18 +120,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 20, 12:24 PM ET",
-    "publishedAt": "2026-07-20T16:24:25+00:00",
-    "source": "KDnuggets",
-    "title": "A Beginner’s Guide to Setting Up Claude Code for High Performance Agentic Programming",
-    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcndfd1B2RGhoV0hzOW1sM1F0RTFNeU5iNDlySHd2bUc3bWVPNkFMX056S0VDMmEwZFlvY0pPZDVyR1VPdXI5LU5jd1F5YlFQeWRXbkVya1ZUWXRNNThvLTU0ZWdWX3h4WUFtRHhsZWNRU0gwQ1ZEbm9ObGo4aERYVGdKdWp4OWgxRmRRaFhxYXJHLUZ2NXNoS3pSNUZpRGc2VHdPanVzcDIxUERHb3BB?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 20, 11:38 AM ET",
@@ -105,30 +153,6 @@
     "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWl8wakNTdzRhWEktNjhMdkhrckZFWDloVWh6eFdUbmdFbTFfNl9kcmxRcjFTdm5EWDI3ZmROYnM2bC1vMXhIbnBSb05MLXc1ZWpycHlrbnNzVTNBZXJ5M2FPUW53bW43ZnduNmYtMDBWXzBuNTRsSE0zdEp2MDZ6MmttOHI4OFpONEhvRERsVW1jWjFqaUYtdG45THBMd2Fna3dlY04zemZzWXhVUTVHVTc5Q3dZVlk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 19, 07:05 PM ET",
-    "publishedAt": "2026-07-19T23:05:04+00:00",
-    "source": "Memeburn",
-    "title": "Gemini AI Review 2026: Features, Pricing & Verdict",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YWmZqQnVNZml1bHBWQVI5WFdwNlFlWXF4eW55MkR3bDlZNWNLUzhDcHFaZkI1WkxJYlFpeEdkYU90Y2FHaXM3UnhMOW03VGM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 18, 11:53 AM ET",
-    "publishedAt": "2026-07-18T15:53:56+00:00",
-    "source": "PPC Land",
-    "title": "Google kills NotebookLM name, moving 30 million users to Gemini Notebook",
-    "summary": "PPC Land is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWVEzRmZlb1c5V1JIVFBmbXEtWGdnR3FUaHhEZGNIbmJ6bW4xUEt3M1g5OGI1eEgwY2pQcnc1c2FtS1FxdTI0V05hWk5ac1M3dUlBV0JZaTRYbmlMVkpkOHZpZjlyWmgzTWUwTHljODZFeEd2Q1dNN3hGYWRORTFpNEYtN3QtOTBycE0zX3gxbFlsUlk?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,18 +237,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTXNmR3FtT3ppZjhieHF3UkdHMF9hRUdDX0p6bDZTekFSYk1mWTRmNU0zOWlPNjVsUXE5eTVOY0stQXVPOUdPd1lFeU9ydFd6NkFKbzhDSmdaS01yZXhGSXVWRnlZampWcnNqUHV4dG95NDlxQ2RmN0l4VmJLY0ZldTllWXZhQU5aNVBrbmYxV1dLeWtCc1piSHNZdmZfZHlYYzJLdXBPem1hbGxqclJkNWNKcXpCZ3lDT0FYckN1aFBGdkRUdkZjQ05oMTEzSDQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 16, 03:00 AM ET",
-    "publishedAt": "2026-07-16T07:00:00+00:00",
-    "source": "Business of Apps",
-    "title": "Claude Revenue and Usage Statistics (2026)",
-    "summary": "Business of Apps is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Yb2t6c2s4eFBkMWxrbm1hc0pBRHBvZkxuZ3p2Si1BYVVQZkJuVTBmRVZyWVNvR3BEWFZYd2szNlJVa3lNZUVlMS0yMnZ3MDQzZUhJQ1cxTVJGY3N5VFNNNGh2UGc?oc=5",
     "difficulty": "News"
   },
   {
@@ -333,18 +345,6 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1RaY1BoY3JYWERNc1FrZjRrMENyaTEwcWRIV09BOXh3QldBa3ZHb0pGdXFaYjExZWVEYmVtMVUxZUdYdjFicmgwMzJfTGNFTWhvXzMyT0xZREF3Q25pcTBYZFQ3WlByc1loalh0Tm1vY1M5LXV0d0g5LWFhcXJiSDQ3cHN3UmthV1o1bk84b1dlNE0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jun 30, 02:12 PM ET",
-    "publishedAt": "2026-06-30T18:12:09+00:00",
-    "source": "Mashable",
-    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
     "difficulty": "News"
   },
   {
