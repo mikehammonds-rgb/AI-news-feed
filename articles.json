@@ -36,15 +36,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 20, 06:20 AM ET",
-    "publishedAt": "2026-07-20T10:20:59+00:00",
-    "source": "Tech Times",
-    "title": "Claude Fable 5 Billing Splits Today: Max Gets It Free, Pro Pays Per Token",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 20, 11:38 AM ET",
+    "publishedAt": "2026-07-20T15:38:37+00:00",
+    "source": "MSN",
+    "title": "OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month",
+    "summary": "MSN is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVzdwUGctYUQ0VWQtTEY3NGg2Tlc0ZW9MR1VkYUJxMkFJczY2dWhhWUhReERYSVZrVHMtRGdnWWZrMVljVS1iYWdkUG9hQWVRaEN2cFdzeXh4YTMtdDBSYmRDQVdiS3IwSWdsOEZiQk01V1B0VGU3bDlQQXpLRDdEZjl6S1pibFE0ZU1JeDcyQjhCcnVEMXNKd1lsSWhpZGtrVGdvbkFVLU9LNTFENnRMVG5JbjVVRVNfMVJZQ0VCbWwxY0Fw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPa3pFeFhSNzlxZ0VXbmxSNUkwWERTLTRudWt0OU93SmpuZHdIOUtkQ05FbXFvazBvc3NlTUdURGU2RzRfcWQycFA3NGQ0Y3R4aXJ5S0NmRExOeWhCSDVuY01sU1BnNHc3QWxuR0RUSnhaeVFrdXB5bm1sMUJzaWlTdldTMVRiRklmelJqakkwbDFwNVh4amRVdU5VTGs3ZkJIcmNLeXVmWFo5M1BpOTY4RzVGVWNVNXl3elI3ZmF4NENMZkgtVEFxTzMwS0VNVXpTckg5SmhDeUo5RjUzUEVBYUlKbnZVWVJoa2dpWW1qaHN4RjVXSzYwTEZSVWdmVTVpeXh2cVprNk4waEk5UFZHRVhyVm90dmlqMGgzU29fbXU1Z3JfOUxqUW5fSFhMZllWLXNnSzd1XzlYOGpCUjFpZEViT2tTdFZsTFJ4U0tUa1A5cFJhcjlHWGdXNnZoSHZTZW83RlN3bGQyeWkxX0NkcmZQdDFyb2c?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,6 +105,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vb29kNzZpbUctR0o2QzhlRXBTdjM4M005Z2I1a3dGUjk0N3pGNElhaG9WRzRBdE9FTndZR3BJRTJmQVlyYkYyZThJR19VUHdyYWJmaWx6S0dZaGxENGJIOWphRGRCLTBubTRvTA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 18, 06:21 PM ET",
+    "publishedAt": "2026-07-18T22:21:18+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Code Pricing vs Cursor, Copilot: 20x Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGak9CRGJha3pDel9UWXdIdkFNLUplV2tEZmc4d0t0T2ctaTBwUENJTDQ2d2Q3TkhrYXo0ckh0X2FNMWtpRXpnbHRNMzBlMms4WUhoT2NmMGQ0Z2tPbU44S3pWT0lLRlFYRVJ0QV9oUVhRN2twajlVaExHQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -189,18 +201,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenFHZ2t3dWNhTXZra1NQdFNEajg2VmtiY1hzdE1HOEFsV24xanBXLTVqU1lhR1JBRFdRNEp5UHd2Z1ZDUXZIRktyUktTam9LYXdoZF9CMFlKOHQxYlI2bDBzMDBLUkJDQWV6SnMzVVdfZGw2ckZWamVCc0RNR2tVcThDR05TSGpUdWdrUlh3TmtJTG44?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 16, 07:00 AM ET",
-    "publishedAt": "2026-07-16T11:00:00+00:00",
-    "source": "Tom's Hardware",
-    "title": "OpenAI's first hardware device is an RGB macropod — 'Codex Micro' features 13 low-profile keys and a joystick for controlling AI coding agents",
-    "summary": "Tom's Hardware is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQT0tMYU9jZXB6c2Y1SWpTSUhKc2EzaWxHMHRnZDZqbEdpemNqSkVCMEdUT0FJM3RBZEVQNTF4MWFhQkszQ3ZSNHd4TnUtcTBJbkFEdlJWRERRYXdsOG1qWlhNNUpIakFPUTVhV1lidEc2S0Z4UlJ3Sm5acHIwU0RWbzRDc1lWSXZrakNOcUtzNlVHTENqdVVXcjNyN081cjhBRXplWk5fTHhUTFBtTllKcmhRZnVVNUFWb1pESWZibVZyYjc0VllWWXVrWDNtU2p2VnNEMmEwRkJid3NqS2M2Q2NRLTFYaHBXZUJOSGRoZVdlWDdWQTF2ejFWTUEtcHBUeWc0eXhaZ3N3QTVnbEdMM005V3dVNVE?oc=5",
     "difficulty": "News"
   },
   {
