@@ -72,18 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 12:10 PM ET",
-    "publishedAt": "2026-07-21T16:10:01+00:00",
-    "source": "AI News",
-    "title": "Google’s Gemini 3.6 Flash targets enterprise agent token costs",
-    "summary": "AI News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmJnUWFUTlZYTDJDb3NfWWc2c1BlUHgtazdjZVFzS2J6NnhEcDBFUzY3eXdEYUQ2dmhsR284WXA5UG9QcjR1ME1Td29sd2ppS04wc2dOcDNjOFNGRl9HZ3FBUTdwVXhlcXFTVUlRbTMtazZsNVhjWXprZncyazhUN2MxS1pFbWYzOHpxR2xfNmlEMFJNeEZOMkRSSjB6Q3RBNmRnSDMxQnZqa0VzbzNSOQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 21, 11:45 AM ET",
@@ -117,6 +105,18 @@
     "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRW1taFlkQzFJN2J5WWdFOGdKYWxnazlEUGhFUmw3c196Sm9mSmw4STRjVHZGaE1sQjVjMGRqRHJMa3NLeFdNQjJIVVRFWUx0bXlEa1JLbUpxS3d2Mzk1RnpQTl82bGlWcXdQVmNMV0plUU8tVXhiM3hGdzgzVDZpSFFfandXeU8taDJvUmQwcVE3X2NVamhORmIxOUg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 21, 11:00 AM ET",
+    "publishedAt": "2026-07-21T15:00:00+00:00",
+    "source": "9to5Google",
+    "title": "Google launches Gemini 3.6 Flash and 3.5 Flash-Lite, teases Gemini 4",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BdVhlRlZlanJaRmpFX0sxNFlaVEJEVDRZVlZ1eGwwYzAteEJCX0d0b2MwNHIxbXhUQk1WdWtHaE05dEUwNWcxMmptSlpBYzg2T3ByLVdiM3dreE9jcXh2T1hhVDJ4cW1CYXc?oc=5",
     "difficulty": "News"
   },
   {
