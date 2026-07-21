@@ -2,6 +2,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jul 21, 05:07 PM ET",
+    "publishedAt": "2026-07-21T21:07:28+00:00",
+    "source": "Droid Life",
+    "title": "Google Just Teased Its Huge Gemini 4 Release",
+    "summary": "Droid Life is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHBUNzdDNzY0Ukh1U1VOUnZmNzN4azNZOTBldi1xSGZRNEVWZnZtbElaS3R3Nkh3YkhrZ045eXdtbUY3X0lJM2VvQW5IcC0yTURGMVVaRTlTUV9KSTJzbXMyRTdtRENVa1h2Qkw3MVJlVkZSbEpZYVU3N2hxd1JsbzAyTTBMSHJKMXhWT1Nad19vVEZP?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jul 21, 03:04 PM ET",
     "publishedAt": "2026-07-21T19:04:42+00:00",
     "source": "TradingKey",
@@ -48,6 +60,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 21, 01:26 PM ET",
+    "publishedAt": "2026-07-21T17:26:20+00:00",
+    "source": "Yahoo Tech",
+    "title": "Google launches 3 new Gemini AI models including cybersecurity tool",
+    "summary": "Yahoo Tech is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWVSM3V0OUlNVDlIcDBTUjMzY3hrQ0M5SlE2MFg0Wm1fdzk0OVhhdTRiN19zV0VxTkJmcWxEZkRISFc2Y1JERWdKQ2hYVy1jUklTN3J6ZkJzel9HZEtuNkRYY25SSkNsM09jY2FSUnk0OFp1ZzJ1YXUwel9odEhIWWZhNVZ4RkNoUEhBZA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 21, 01:00 PM ET",
@@ -74,8 +98,8 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jul 21, 11:45 AM ET",
-    "publishedAt": "2026-07-21T15:45:00+00:00",
+    "time": "Jul 21, 11:48 AM ET",
+    "publishedAt": "2026-07-21T15:48:38+00:00",
     "source": "Security Boulevard",
     "title": "Your AI agent’s config is now the payload: How attackers are targeting the developer agent harness",
     "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
@@ -108,18 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 11:00 AM ET",
-    "publishedAt": "2026-07-21T15:00:00+00:00",
-    "source": "9to5Google",
-    "title": "Google launches Gemini 3.6 Flash and 3.5 Flash-Lite, teases Gemini 4",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BdVhlRlZlanJaRmpFX0sxNFlaVEJEVDRZVlZ1eGwwYzAteEJCX0d0b2MwNHIxbXhUQk1WdWtHaE05dEUwNWcxMmptSlpBYzg2T3ByLVdiM3dreE9jcXh2T1hhVDJ4cW1CYXc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 21, 10:00 AM ET",
@@ -141,30 +153,6 @@
     "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rZVZtRDJDRXh0Z0lyUkFnSk9ubzFBX3VRTk1weTAxS0diQnYwbS1WRVdPaVVvd3JoWXRYU1l2b3BjUjI5Unh4WVhTOEp1ZW1BNU5zTmpNdkhtY21iNlAzdTM2Y1dYUFdtLUZ4Y19NU085UXJKRzg3ekZpRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 05:00 AM ET",
-    "publishedAt": "2026-07-21T09:00:00+00:00",
-    "source": "Mashable",
-    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 20, 09:52 PM ET",
-    "publishedAt": "2026-07-21T01:52:10+00:00",
-    "source": "Security Boulevard",
-    "title": "How to embrace Claude without losing control of your data",
-    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYXVmUWNHV1dGN3J2TTRCVkhtYzQ0anZWeEVOVHA4TTVvUWQxR09FalhlNnJvVnVLbXRlTXFMek9TTlBjUTJ2RW9SSEp2R0V1cXFYazVfM0pBWUV0cUl0ekE0amlSb0ExLW4wOEdSRUNuT0dSS2owMzlybU16LVVyWTk5UU9IZzI5d3d0RnFtNFFCVVpGcFZXWTlPcHI?oc=5",
     "difficulty": "News"
   },
   {
@@ -237,6 +225,18 @@
     "summary": "The American Bazaar is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1ZLM0J4YXpMdWxkaUVSYno5clJ6V09KZHJwV2tqZnVDcVlHa29uRDRrY2REb19kOEltMTZ3STF5V0FWOHkxaVpMYUxlNDNyc1VFQUgyd2Q4WTZ1YVl4Mm0xcE94VFd1dWVjVDhZRW1NNjUzb2tBcHRBZWxOUDIwcnEwVU92VUdqUUhLTE1kcnY5enpxaXBCRzNWRnlyc2tzQVRZQXhFd3B0d29xRlpKeVRzT2hOampJcUFjYTZJbnJ4bTh2?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 16, 03:00 AM ET",
+    "publishedAt": "2026-07-16T07:00:00+00:00",
+    "source": "Business of Apps",
+    "title": "Claude Revenue and Usage Statistics (2026)",
+    "summary": "Business of Apps is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Yb2t6c2s4eFBkMWxrbm1hc0pBRHBvZkxuZ3p2Si1BYVVQZkJuVTBmRVZyWVNvR3BEWFZYd2szNlJVa3lNZUVlMS0yMnZ3MDQzZUhJQ1cxTVJGY3N5VFNNNGh2UGc?oc=5",
     "difficulty": "News"
   },
   {
