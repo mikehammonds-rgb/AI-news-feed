@@ -1,5 +1,41 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 21, 03:04 PM ET",
+    "publishedAt": "2026-07-21T19:04:42+00:00",
+    "source": "TradingKey",
+    "title": "Google Strikes Before Q2 Earnings: Releases Gemini 3.6 Flash and Three New Models Focused on Extreme Cost-Performance",
+    "summary": "TradingKey is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMjJrNk9lUlZOX1ZpZG0tZ2kzcEZGN0IyTU54U2s3bnBoSEN1dklFWFc5RktjMTFEQmEwY2htZkhvcTdZbzJaQUdkZThmQ0lSU0UxMXhncWZNdUJ6dUNNQVFSLV9xRmd6QjQ0YmZWSEtLdkpMelp2cm9rS2tHdWhXQ3ZrTTBnVU5kMHVqUXlkaWZYMGtraVUzbFNOaW1xaHBjc0hsS0dqMGtQTXlkT01IOTJtVU5YbVpDenlJem51dkZmOEpBVmQyS04wbklwVkVHVk9PVGZpR2dwQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 21, 02:56 PM ET",
+    "publishedAt": "2026-07-21T18:56:27+00:00",
+    "source": "CNET",
+    "title": "Google Releases 3 New Gemini Models, 3.5 Pro Still Not Available",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEpGeVFVOHhpWDFJWURPckg3VzR6Z0hMeWo1UURDQ1dJenFsRmxCLW1Jbnlsa2E1NklQS1BUSTlISG1ucnVIWUpPMFJjbVEzdVhRQ0szdE51MlEweF9yWnhSNWJDWWZuOTNWd0QxVncyMnNxbXctUTlNVkc0S0Z1YVQ5Z1Y2cVQzSjBReXVON0RacU9FU09ndGs5Qlc1MGExemlDSG1uSDBOSjhOX3ExRXFpMTVzaW8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 21, 02:55 PM ET",
+    "publishedAt": "2026-07-21T18:55:45+00:00",
+    "source": "Decrypt",
+    "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
+    "summary": "Decrypt is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVekt0aTBURE1JWDVXSUkwMmxiWEVjVGNkVGgyYUIzMFF1NEx3QTEzdE9jNXYxRTcyMVlhNFpuMWhiTmxJZkZiOU1BRzhJVEw1UzdsSGxRRG8wWHZiOU1KLUlwTXBHXzVtOFl6SVJoMmRiT3hiMTF6MUx0UmRnMlk?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 21, 01:48 PM ET",
@@ -21,18 +57,6 @@
     "summary": "Business Wire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZmxlc210djluNzFyaVR6bkZwYnBaai1ialBIdEhJZ2hHbl9HbXNSaWVzOHF5emhOZFNzYnRVcG12M0c1bFNzZktmV3liS2hJQjNlTWNhOFEyWDVQa1M4czhMMDV0ZTRpVllkT2VBQzBrQ0h3d2NOSm9NcmczbXJKbGZObjd2WXFZdEZ2eHN2WURnOFEwMGdqOFhsNU1vQmhWQmFaRjdkbVVNSmp0UWowajZiUEJRUGc1anJlWlVxUWttY3RoRzl6aXN1eG9sejExVDRBN1FUMmhHZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 12:14 PM ET",
-    "publishedAt": "2026-07-21T16:14:50+00:00",
-    "source": "Droid Life",
-    "title": "Google Teases Gemini 4 Release",
-    "summary": "Droid Life is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHBUNzdDNzY0Ukh1U1VOUnZmNzN4azNZOTBldi1xSGZRNEVWZnZtbElaS3R3Nkh3YkhrZ045eXdtbUY3X0lJM2VvQW5IcC0yTURGMVVaRTlTUV9KSTJzbXMyRTdtRENVa1h2Qkw3MVJlVkZSbEpZYVU3N2hxd1JsbzAyTTBMSHJKMXhWT1Nad19vVEZP?oc=5",
     "difficulty": "News"
   },
   {
@@ -93,30 +117,6 @@
     "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRW1taFlkQzFJN2J5WWdFOGdKYWxnazlEUGhFUmw3c196Sm9mSmw4STRjVHZGaE1sQjVjMGRqRHJMa3NLeFdNQjJIVVRFWUx0bXlEa1JLbUpxS3d2Mzk1RnpQTl82bGlWcXdQVmNMV0plUU8tVXhiM3hGdzgzVDZpSFFfandXeU8taDJvUmQwcVE3X2NVamhORmIxOUg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 11:00 AM ET",
-    "publishedAt": "2026-07-21T15:00:00+00:00",
-    "source": "9to5Google",
-    "title": "Google launches Gemini 3.6 Flash and 3.5 Flash-Lite, teases Gemini 4",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BdVhlRlZlanJaRmpFX0sxNFlaVEJEVDRZVlZ1eGwwYzAteEJCX0d0b2MwNHIxbXhUQk1WdWtHaE05dEUwNWcxMmptSlpBYzg2T3ByLVdiM3dreE9jcXh2T1hhVDJ4cW1CYXc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 10:55 AM ET",
-    "publishedAt": "2026-07-21T14:55:23+00:00",
-    "source": "Crypto Briefing",
-    "title": "Google quietly registers Gemini 3.6 Flash and 3.5 Flash Lite models as AI race heats up",
-    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlZkx1VkFYTkYwT3dNUGEwcWpxdjNvTzBqcUY1OUlIMnNvV0R3WVlpQ3dUeHhaMjFxSUhwZVgxdmlQVHdYNkxaRlVHUW12WHFhdDJ2TUxFVzJ6c0gzTFpYUWE4WTdZcUFfN1RTNzZPYWt2S216VVFpOA?oc=5",
     "difficulty": "News"
   },
   {
@@ -376,9 +376,9 @@
     "label": "ChatGPT",
     "time": "Mar 12, 03:00 AM ET",
     "publishedAt": "2026-03-12T07:00:00+00:00",
-    "source": "towardsdatascience.com",
+    "source": "Towards Data Science",
     "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-    "summary": "towardsdatascience.com is reporting this update. Open the article for the full story.",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
