@@ -98,6 +98,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Jul 21, 12:04 PM ET",
+    "publishedAt": "2026-07-21T16:04:23+00:00",
+    "source": "StartupHub.ai",
+    "title": "GitHub Copilot Canvas: Interactive AI Workspaces",
+    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFgtcUlvaEJuanZOQVNZUlBodWVEU2FWWnZtalBMYkwzd1E0S1I5TU5JQTJ4dUxOUjBLbkx3UlEzZl9xTkk0ZEwtOEh5OV9fUnhqZG9iR1NHUU1YWTUxclJzTVJWazlDQ0NWWWRjRGpZdVhWbXp4eDFXeGdFOTZYZUgzbjFDcmt3NDRiaEMwLWQ2dFdVQzJTZkxNVXBBQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Jul 21, 11:48 AM ET",
     "publishedAt": "2026-07-21T15:48:38+00:00",
     "source": "Security Boulevard",
@@ -230,6 +242,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 16, 03:00 AM ET",
+    "publishedAt": "2026-07-16T07:00:00+00:00",
+    "source": "Business of Apps",
+    "title": "Claude Revenue and Usage Statistics (2026)",
+    "summary": "Business of Apps is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Yb2t6c2s4eFBkMWxrbm1hc0pBRHBvZkxuZ3p2Si1BYVVQZkJuVTBmRVZyWVNvR3BEWFZYd2szNlJVa3lNZUVlMS0yMnZ3MDQzZUhJQ1cxTVJGY3N5VFNNNGh2UGc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 15, 07:59 PM ET",
     "publishedAt": "2026-07-15T23:59:44+00:00",
     "source": "TechCrunch",
@@ -288,6 +312,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 08, 03:00 AM ET",
+    "publishedAt": "2026-07-08T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Introducing Claude apps gateway for AWS | Amazon Web Services",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 08, 03:00 AM ET",
@@ -321,42 +357,6 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1RaY1BoY3JYWERNc1FrZjRrMENyaTEwcWRIV09BOXh3QldBa3ZHb0pGdXFaYjExZWVEYmVtMVUxZUdYdjFicmgwMzJfTGNFTWhvXzMyT0xZREF3Q25pcTBYZFQ3WlByc1loalh0Tm1vY1M5LXV0d0g5LWFhcXJiSDQ3cHN3UmthV1o1bk84b1dlNE0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 03:00 AM ET",
-    "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Sonnet 5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 06, 03:00 AM ET",
-    "publishedAt": "2026-06-06T07:00:00+00:00",
-    "source": "CyberSecurityNews",
-    "title": "Anthropic's Claude Services Down — claude.ai, Claude Code, and Cowork Affected [Updated]",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MkF3RG52UFhmUUF1MDg1RUk5bGYtZFVlcDBDMm9IWjlmelpjWE9pN2lCMUZLWXQzd2l3V3p2T09VT2NNcm9MQmNrNEh5Y2FuUXBhTEM4TFlYR0tsYmhCSHQwRVN2VXVuTmRVNXBPWdIBdEFVX3lxTE9fbVhOOHdGVkZQbHRkSF9leHZtQU9PcDZBcFl4Um1zd2NCWjc0TWU3bWtmdUhPa081cVNuYmVFUi1QWGNTdkVBcjlFZmJ2RXdKR1VZVEZydGFrcmNVc2J4LTJGVjBjbksySy1NZTlWOGRKeGN1?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 24, 03:00 AM ET",
-    "publishedAt": "2026-05-24T07:00:00+00:00",
-    "source": "AI: Reset to Zero",
-    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   },
   {
