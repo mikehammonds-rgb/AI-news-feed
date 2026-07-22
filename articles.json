@@ -1,5 +1,29 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 22, 08:11 AM ET",
+    "publishedAt": "2026-07-22T12:11:09+00:00",
+    "source": "tech-insider.org",
+    "title": "Best AI Coding Assistants 2026: 7 Tools Ranked by Speed, Price & IDE Support",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcHVDWlhTUnQxUFZyXzdETmJwNldybmcxT0ZURjhUS2UzS1kxclZYZ3JlTXRiZy1OTnFWbUJONnUwdDhXZzVQa1hicWxXdTYtZXZFSXhpQ3RYNDlKRGdtaW1zMHBOaGM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 22, 07:37 AM ET",
+    "publishedAt": "2026-07-22T11:37:30+00:00",
+    "source": "HackerNoon",
+    "title": "I Added Four Lines of Code and Cut My Claude Agent’s Cost by 57%",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0xQRER5b0dUMGdsamRKLVhhRF9SVUZnYUZZZTI5N01nQVVMRW9CMlJpdnVLS0JlT1k5RFppQ2ZZRDJxanpyOWROcVZ2QUZGNkZUa0ZmcEJsYnFmMXB2LVZ3Y2JHaWJXUlF0VkFpaDdrVzJray1ueVF0MHMxb0lpSXZTVXRUUXRqNUUtOVFpQlJSdTJqRFo4?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 22, 03:35 AM ET",
@@ -9,6 +33,18 @@
     "summary": "Techzine Global is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1VlT19Kelh3bzZHX0JzRldwR0tDZUpyWE1tN2tGdU4zODlZYmlyeGV6VXJXZThlTzRHaFlYOTh3SEp2TFFCcWM2NGYyVWRuaXQwSjBqbldfeDNUN1RmRWRLY2R1c2JHUVVfYzJMaXJ0YVJ5N19nRmR1akc4NFNwb1ZDZmxXVUNGRTJWaVJwX0ctWlFTM0tFQ3RHQmdfRWVpWm4zWG1fV1hPcTdaTFE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 21, 06:25 PM ET",
+    "publishedAt": "2026-07-21T22:25:13+00:00",
+    "source": "tech-insider.org",
+    "title": "What Model Context Protocol Actually Does",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXckVkMlUtWTl6LTJzN1JvbHNiMzBPbEZRTktZdkJZR09tX2tvM3ltNkloLVp2SHk1WnJuN1FkMlJ6RnpVZi1YTGdIdUdEWEJkZVJWbUo1ZFFEa2t1YmNyWHpScnBsX3VjNndEZ3p6WjRhVDZOQUkyYkVn?oc=5",
     "difficulty": "News"
   },
   {
@@ -146,18 +182,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 21, 09:47 AM ET",
-    "publishedAt": "2026-07-21T13:47:22+00:00",
-    "source": "Crypto Briefing",
-    "title": "Arkham integrates with Claude for automated memecoin analysis",
-    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rZVZtRDJDRXh0Z0lyUkFnSk9ubzFBX3VRTk1weTAxS0diQnYwbS1WRVdPaVVvd3JoWXRYU1l2b3BjUjI5Unh4WVhTOEp1ZW1BNU5zTmpNdkhtY21iNlAzdTM2Y1dYUFdtLUZ4Y19NU085UXJKRzg3ekZpRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jul 20, 02:10 PM ET",
     "publishedAt": "2026-07-20T18:10:05+00:00",
     "source": "The New Stack",
@@ -192,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 19, 09:36 PM ET",
-    "publishedAt": "2026-07-20T01:36:17+00:00",
-    "source": "tech-insider.org",
-    "title": "GitHub Copilot’s Kimi K2.7: First Open Model $0.95/M [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zSHNVUlpnd2dZM1o3b2NiSVh1T1g3MVlHY1ZVQlk5b201R2JwYzA1WlAzUHRVSk5RU3hoQnFybVpYSDFJSWhSU2liTThrV0k1TFdPRE9KOWJONjlRS1ZmTGZ4LXpOZ2l6blE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 18, 03:19 AM ET",
@@ -213,18 +225,6 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmU0X0dGUjFxLXhmdkdfWk83WnMzQlYxcDdPODRvWUVyNzRtWU1lc2pJRFR5RjJYSFpKVlM3Rm9zOG4xelFYeGVkam1raGZacHQxT2VSMFNFRGRNZzZOYmdMTl9ST2Jna0JTbnRKTWhScW1yMWhyd3pNcXpfTmVrT2hJcUR2THgtOHpQMGVhZWhmc3FXSG5BQUpTR01mZVNCZ3JEU2RrSGloQmNaanN1ZUZmc2Z3ek9aM1M5UXdFb3lUYUppbUc0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 16, 05:08 PM ET",
-    "publishedAt": "2026-07-16T21:08:38+00:00",
-    "source": "SitePoint",
-    "title": "GPT-5.6 Sol: What OpenAI's New Flagship Model Means for Developer Workflows",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mSnZkcThRU293VFdWdHVuQnNlYWFjQ1N0eHNVX29INXZ4SmJqOWJMVThOa0RHRDg1SF85bnZ2VmRwbkl4UGp3dm8zWC1VTVdIMzRMMlpQVTB5M0tvdzBwSktGZ3VIS3dYdDl6bk4tY2YtOEk?oc=5",
     "difficulty": "News"
   },
   {
@@ -324,18 +324,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 02, 12:44 PM ET",
-    "publishedAt": "2026-07-02T16:44:59+00:00",
-    "source": "DevOps.com",
-    "title": "Z.ai Debuts ZCode to Compete With GitHub Copilot, Cursor and Anthropic",
-    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1RaY1BoY3JYWERNc1FrZjRrMENyaTEwcWRIV09BOXh3QldBa3ZHb0pGdXFaYjExZWVEYmVtMVUxZUdYdjFicmgwMzJfTGNFTWhvXzMyT0xZREF3Q25pcTBYZFQ3WlByc1loalh0Tm1vY1M5LXV0d0g5LWFhcXJiSDQ3cHN3UmthV1o1bk84b1dlNE0?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jun 26, 01:02 PM ET",
@@ -345,6 +333,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
     "difficulty": "News"
   },
   {
