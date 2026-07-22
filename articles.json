@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 22, 02:03 PM ET",
+    "publishedAt": "2026-07-22T18:03:18+00:00",
+    "source": "PPC Land",
+    "title": "Google cuts Gemini Flash prices as 3.6 uses 17% fewer output tokens",
+    "summary": "PPC Land is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0c1b0hMbXBhaW9qY2prempNZElnN1hraEYxQ3JEVGVlQlNHSEVKb1A3d0FHMGdNQmpnbjFwZkN6eEwzUUdlRV9SVzYxTkdBZk1rWWpsMTUyb0pYWTBvSjFEMWNGYTFxTUlkVVloLVljcDVjdERMRlBGRldpWFloalRTOWVMSDZiNzQyQw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 22, 10:50 AM ET",
@@ -21,6 +33,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcHVDWlhTUnQxUFZyXzdETmJwNldybmcxT0ZURjhUS2UzS1kxclZYZ3JlTXRiZy1OTnFWbUJONnUwdDhXZzVQa1hicWxXdTYtZXZFSXhpQ3RYNDlKRGdtaW1zMHBOaGM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 22, 07:43 AM ET",
+    "publishedAt": "2026-07-22T11:43:34+00:00",
+    "source": "Yellow.com",
+    "title": "Yellow Launches SDK MCP, Bringing Non-Custodial Settlement Primitives Into AI Coding Tools",
+    "summary": "Yellow.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcWpjdk8xdllpdm1ONk1TOV9LclN6SnpZTXQ3eFFsOEtsZ21GR1VZc1ZvUUMxTlVJeTFJQm8yRnlNQVhjRkx5YmVrRWlCQW9LSWFDVFEzenFvcWF6bVozSnNZblNzSVh5WjN5R3k0bEk5MzBUdmRBdWd4Q1FpMWJqSnZtNUVTd2hpd0dxaTFVOFlSR2M3Q1BPSEw2elpzMEpFdWdFblR6THVBa2RBSHZyUjVZWllzWkQ4MUV3VUNscjY?oc=5",
     "difficulty": "News"
   },
   {
@@ -93,18 +117,6 @@
     "summary": "Droid Life is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHBUNzdDNzY0Ukh1U1VOUnZmNzN4azNZOTBldi1xSGZRNEVWZnZtbElaS3R3Nkh3YkhrZ045eXdtbUY3X0lJM2VvQW5IcC0yTURGMVVaRTlTUV9KSTJzbXMyRTdtRENVa1h2Qkw3MVJlVkZSbEpZYVU3N2hxd1JsbzAyTTBMSHJKMXhWT1Nad19vVEZP?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 03:04 PM ET",
-    "publishedAt": "2026-07-21T19:04:42+00:00",
-    "source": "TradingKey",
-    "title": "Google Strikes Before Q2 Earnings: Releases Gemini 3.6 Flash and Three New Models Focused on Extreme Cost-Performance",
-    "summary": "TradingKey is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMjJrNk9lUlZOX1ZpZG0tZ2kzcEZGN0IyTU54U2s3bnBoSEN1dklFWFc5RktjMTFEQmEwY2htZkhvcTdZbzJaQUdkZThmQ0lSU0UxMXhncWZNdUJ6dUNNQVFSLV9xRmd6QjQ0YmZWSEtLdkpMelp2cm9rS2tHdWhXQ3ZrTTBnVU5kMHVqUXlkaWZYMGtraVUzbFNOaW1xaHBjc0hsS0dqMGtQTXlkT01IOTJtVU5YbVpDenlJem51dkZmOEpBVmQyS04wbklwVkVHVk9PVGZpR2dwQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,18 +357,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 24, 03:00 AM ET",
-    "publishedAt": "2026-05-24T07:00:00+00:00",
-    "source": "AI: Reset to Zero",
-    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   },
   {
