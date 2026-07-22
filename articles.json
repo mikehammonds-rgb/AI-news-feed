@@ -2,6 +2,30 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jul 22, 02:51 PM ET",
+    "publishedAt": "2026-07-22T18:51:52+00:00",
+    "source": "Pulse 2.0",
+    "title": "Google Launches Gemini 3.6 Flash And 3.5 Flash-Lite For Scalable AI Agents",
+    "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEx5RmRWSE5GUkdMUms2M05wRUROZHlKdC1sa3JEYjIzMGhGLUtEQkdWeGtIcmw3TTFsd3d0VjdXSXk1cG5MREQydXR3eFJCUWIzYU5rMlg2UURjaEs0MVZKbXRienpYcHRDNWtvZjFVSnYtbVRCS3gwOHZmMXdYY1lGYmlJeDQ3RmRnSWgwQ2RwSGxRSFdPZnF30gGfAUFVX3lxTE84RDNPS1BnYWs3bjVwRWlVdG9SaVF5anZrQk9SVlBOWHFJa2JnbTY0LWtZQjN4TndqWkZpU0hINEw5YlBFcXhncVF2VGtXbUlZMWRGc3pNYnVNcElXZVJGVjAydWVsMmlyejAzeTFwUzJobXA4RkJ5TTRJQXZPakZlTWZuM0VjMWFCbDFsaVp2cW5od2VXMnlKbXlDRXFEOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 22, 02:09 PM ET",
+    "publishedAt": "2026-07-22T18:09:42+00:00",
+    "source": "Tech Times",
+    "title": "Gemini 3.6 Flash Cuts Token Costs and Scores Higher on Every Benchmark",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT05tWWVVUzctOUE5RWlaRElZX0hCYTJZODVtMEJfSUNnNW1OVlNaelJWT3hIeElwZWt4SDhUWF8yVmFDbXhReHRpbFRwSVRnU0ViTDgxMmZqaGdJdzJIY1FjM0pTdS12eVVmUUl2WUs0bjlnR1Y2dXlZVEZ2akc1bl9saUNYemhLbU9pMlBPd3RwNkFmNGZVZVRHbUtDYXJqMU1OUzlES3lkcGlmLXpzWnp1ZzVBZUh2?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jul 22, 02:03 PM ET",
     "publishedAt": "2026-07-22T18:03:18+00:00",
     "source": "PPC Land",
@@ -29,7 +53,7 @@
     "time": "Jul 22, 08:11 AM ET",
     "publishedAt": "2026-07-22T12:11:09+00:00",
     "source": "tech-insider.org",
-    "title": "Best AI Coding Assistants 2026: 7 Tools Ranked by Speed, Price & IDE Support",
+    "title": "Best AI Coding Assistants 2026: 7 Tools Ranked + Priced",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcHVDWlhTUnQxUFZyXzdETmJwNldybmcxT0ZURjhUS2UzS1kxclZYZ3JlTXRiZy1OTnFWbUJONnUwdDhXZzVQa1hicWxXdTYtZXZFSXhpQ3RYNDlKRGdtaW1zMHBOaGM?oc=5",
@@ -84,18 +108,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 08:34 PM ET",
-    "publishedAt": "2026-07-22T00:34:26+00:00",
-    "source": "Startup Fortune",
-    "title": "Google released three Gemini models in one day while its flagship is still stuck in testing",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRl93WHZ5NXU4Zkk5ZXVVcVZjX2RpNHdsdDBGclBwT2pNSE4wdGhKZnJHRWluaEoxOXlYQ1ZHa1hjOGJuRGNNNGdQcXU3dHFHMzZSR2duUlBXVmZxb2dvTnd4Umh5N1N6eWRyTkV4SW45TGZTNVhFRmt3MjFycnBhZ0ZGSFNfdExndk9lWUtUVWYzVTk1ZVZGRVlZNHVEQ2E4cTYtOXo4RnUzMktJaHVfZTZtdHI2TXZKVC1j?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 21, 06:25 PM ET",
@@ -117,18 +129,6 @@
     "summary": "Droid Life is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHBUNzdDNzY0Ukh1U1VOUnZmNzN4azNZOTBldi1xSGZRNEVWZnZtbElaS3R3Nkh3YkhrZ045eXdtbUY3X0lJM2VvQW5IcC0yTURGMVVaRTlTUV9KSTJzbXMyRTdtRENVa1h2Qkw3MVJlVkZSbEpZYVU3N2hxd1JsbzAyTTBMSHJKMXhWT1Nad19vVEZP?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 02:56 PM ET",
-    "publishedAt": "2026-07-21T18:56:27+00:00",
-    "source": "CNET",
-    "title": "Google Releases 3 New Gemini Models, 3.5 Pro Still Not Available",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEpGeVFVOHhpWDFJWURPckg3VzR6Z0hMeWo1UURDQ1dJenFsRmxCLW1Jbnlsa2E1NklQS1BUSTlISG1ucnVIWUpPMFJjbVEzdVhRQ0szdE51MlEweF9yWnhSNWJDWWZuOTNWd0QxVncyMnNxbXctUTlNVkc0S0Z1YVQ5Z1Y2cVQzSjBReXVON0RacU9FU09ndGs5Qlc1MGExemlDSG1uSDBOSjhOX3ExRXFpMTVzaW8?oc=5",
     "difficulty": "News"
   },
   {
