@@ -2,6 +2,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jul 22, 03:35 AM ET",
+    "publishedAt": "2026-07-22T07:35:26+00:00",
+    "source": "Techzine Global",
+    "title": "New Gemini 3.6 and 3.5 models improve development and security",
+    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1VlT19Kelh3bzZHX0JzRldwR0tDZUpyWE1tN2tGdU4zODlZYmlyeGV6VXJXZThlTzRHaFlYOTh3SEp2TFFCcWM2NGYyVWRuaXQwSjBqbldfeDNUN1RmRWRLY2R1c2JHUVVfYzJMaXJ0YVJ5N19nRmR1akc4NFNwb1ZDZmxXVUNGRTJWaVJwX0ctWlFTM0tFQ3RHQmdfRWVpWm4zWG1fV1hPcTdaTFE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jul 21, 05:07 PM ET",
     "publishedAt": "2026-07-21T21:07:28+00:00",
     "source": "Droid Life",
@@ -60,18 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 01:26 PM ET",
-    "publishedAt": "2026-07-21T17:26:20+00:00",
-    "source": "Yahoo Tech",
-    "title": "Google launches 3 new Gemini AI models including cybersecurity tool",
-    "summary": "Yahoo Tech is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWVSM3V0OUlNVDlIcDBTUjMzY3hrQ0M5SlE2MFg0Wm1fdzk0OVhhdTRiN19zV0VxTkJmcWxEZkRISFc2Y1JERWdKQ2hYVy1jUklTN3J6ZkJzel9HZEtuNkRYY25SSkNsM09jY2FSUnk0OFp1ZzJ1YXUwel9odEhIWWZhNVZ4RkNoUEhBZA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 21, 01:00 PM ET",
@@ -105,18 +105,6 @@
     "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFgtcUlvaEJuanZOQVNZUlBodWVEU2FWWnZtalBMYkwzd1E0S1I5TU5JQTJ4dUxOUjBLbkx3UlEzZl9xTkk0ZEwtOEh5OV9fUnhqZG9iR1NHUU1YWTUxclJzTVJWazlDQ0NWWWRjRGpZdVhWbXp4eDFXeGdFOTZYZUgzbjFDcmt3NDRiaEMwLWQ2dFdVQzJTZkxNVXBBQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 21, 11:48 AM ET",
-    "publishedAt": "2026-07-21T15:48:38+00:00",
-    "source": "Security Boulevard",
-    "title": "Your AI agent’s config is now the payload: How attackers are targeting the developer agent harness",
-    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNREJONXIxc1pELUNYR09wa0pCVU1wR2RIUmpoTG1YeXMtNTFMOVpLQjhwREJEMGFreFYwTVBPNXdldDMzQmZDM1dPRXZoVlJyaFdvR2trQ2tZT2t4TktPSVJVaXIwSThHN082d0tkMDdJS200UEJVU3pPR25XU2NKdGZ5ZnlKUEM0UVBTQ1NRdFlnT1ZBN0VBSXVMQlNrX0U2V0lsSDB0WlJZeHV3Um42NXBGVFllWVloQzFxRi1Fc1JlMUloQmZSc2J1d3RXYnVJ?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,6 +180,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 20, 05:08 AM ET",
+    "publishedAt": "2026-07-20T09:08:00+00:00",
+    "source": "StartupHub.ai",
+    "title": "Anthropic's Claude Code Creator on AI's Future",
+    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHhjd3Vwakx3X1hPckVySVJTLUtIcHJOZllLNnF4YXZraUd0VG03Y1pUWWVWV19PRFo0MllnLWxNSDFycUVIWUVlM3VtTzBwVEtySkFFUEJDVWd4bDlhdXJSR29OeEZYQTlQV3BURE5WbWNCQmxaQlJOajVFM295M001eGszWW5UeVV6Q1ZoWklmRE9ha2dVcjZDb3Y1NENianhMSklCNUN1T3hKZmc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 19, 09:36 PM ET",
@@ -225,18 +225,6 @@
     "summary": "SitePoint is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mSnZkcThRU293VFdWdHVuQnNlYWFjQ1N0eHNVX29INXZ4SmJqOWJMVThOa0RHRDg1SF85bnZ2VmRwbkl4UGp3dm8zWC1VTVdIMzRMMlpQVTB5M0tvdzBwSktGZ3VIS3dYdDl6bk4tY2YtOEk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 16, 03:00 AM ET",
-    "publishedAt": "2026-07-16T07:00:00+00:00",
-    "source": "Business of Apps",
-    "title": "Claude Revenue and Usage Statistics (2026)",
-    "summary": "Business of Apps is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Yb2t6c2s4eFBkMWxrbm1hc0pBRHBvZkxuZ3p2Si1BYVVQZkJuVTBmRVZyWVNvR3BEWFZYd2szNlJVa3lNZUVlMS0yMnZ3MDQzZUhJQ1cxTVJGY3N5VFNNNGh2UGc?oc=5",
     "difficulty": "News"
   },
   {
@@ -333,6 +321,18 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTF6WU5aTDJPMzlPZGUwYjVvUEQ5TkQzdGc5cC1JNlRxN1R0ajFfeEthN3lBSGJnbzdRT2ZjTUI1ZDdlaUhzQXAyT3B0NUZqTmljR1BIZkktRkNuOXY0ZFJadGZKcVJlcU9fdXZoUEZZVWRQSzc0TlFGY3pNdEZITlRQRlg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 02, 12:44 PM ET",
+    "publishedAt": "2026-07-02T16:44:59+00:00",
+    "source": "DevOps.com",
+    "title": "Z.ai Debuts ZCode to Compete With GitHub Copilot, Cursor and Anthropic",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1RaY1BoY3JYWERNc1FrZjRrMENyaTEwcWRIV09BOXh3QldBa3ZHb0pGdXFaYjExZWVEYmVtMVUxZUdYdjFicmgwMzJfTGNFTWhvXzMyT0xZREF3Q25pcTBYZFQ3WlByc1loalh0Tm1vY1M5LXV0d0g5LWFhcXJiSDQ3cHN3UmthV1o1bk84b1dlNE0?oc=5",
     "difficulty": "News"
   },
   {
