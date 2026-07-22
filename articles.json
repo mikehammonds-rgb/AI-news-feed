@@ -2,6 +2,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jul 22, 05:00 PM ET",
+    "publishedAt": "2026-07-22T21:00:00+00:00",
+    "source": "Northeast Times",
+    "title": "Google ships three new Gemini AI models, but its flagship is missing",
+    "summary": "Northeast Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHlhUlVxX3ViUm1wWk1tNHplYUR5UWRKTmpYTThHTk1XMlRHNWNVV2FvNFBJMTJTbXM0T0QteDduQ0RoUlBSajJQX3VrdlBrZGpOSmhHQXFqd1ZiS3o4Y0NjREtsOGdBOTY4cFdBcndveHZtcU1mQnFfYl9xOVZSdlRxWG9NZ3pTZjYzbVM5UWpiU3A5WG9tMUJldE1SQk5LUlhrbTlJX2xkUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jul 22, 02:51 PM ET",
     "publishedAt": "2026-07-22T18:51:52+00:00",
     "source": "Pulse 2.0",
@@ -36,6 +48,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 22, 10:54 AM ET",
+    "publishedAt": "2026-07-22T14:54:32+00:00",
+    "source": "tech-insider.org",
+    "title": "Cline vs Claude Code vs Copilot: Free vs $20 vs $10 [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oZXkzRlNZQndHdldtcHV3NVdxbjVkdDkzejNUT2V0TXhKam1lUGRzNzFaQ2d2bzhEcW1uSDJIX2dldFJRNE92RkMtWFA1ZHZvZTRTM3Z6S0J5SzVIU2lfRA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 22, 10:50 AM ET",
@@ -45,6 +69,18 @@
     "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 22, 10:46 AM ET",
+    "publishedAt": "2026-07-22T14:46:12+00:00",
+    "source": "OX Security",
+    "title": "CVE-2026-63764: SSRF in LMDeploy’s OpenAI-Compatible API Server",
+    "summary": "OX Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzBZNTJXZHZadzl3OXp2N0hydDM2WnZCalVqai1jR3R6Mm5KOUF6X2FKaG5vZGdiQTFoUXdjX3ZLRlhwTnBQS01GYWpmdW1kbVBaejhjeW9Vb05OaTZyTTQtNWI0TlJiellRcHVSOGJuRmM3dzRhSUJIbUlxM2dCYmppanVlcUlTYVE3T0lsWkVOUGRwa0E?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,30 +141,6 @@
     "summary": "Techzine Global is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1VlT19Kelh3bzZHX0JzRldwR0tDZUpyWE1tN2tGdU4zODlZYmlyeGV6VXJXZThlTzRHaFlYOTh3SEp2TFFCcWM2NGYyVWRuaXQwSjBqbldfeDNUN1RmRWRLY2R1c2JHUVVfYzJMaXJ0YVJ5N19nRmR1akc4NFNwb1ZDZmxXVUNGRTJWaVJwX0ctWlFTM0tFQ3RHQmdfRWVpWm4zWG1fV1hPcTdaTFE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 21, 06:25 PM ET",
-    "publishedAt": "2026-07-21T22:25:13+00:00",
-    "source": "tech-insider.org",
-    "title": "What Model Context Protocol Actually Does",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXckVkMlUtWTl6LTJzN1JvbHNiMzBPbEZRTktZdkJZR09tX2tvM3ltNkloLVp2SHk1WnJuN1FkMlJ6RnpVZi1YTGdIdUdEWEJkZVJWbUo1ZFFEa2t1YmNyWHpScnBsX3VjNndEZ3p6WjRhVDZOQUkyYkVn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 05:07 PM ET",
-    "publishedAt": "2026-07-21T21:07:28+00:00",
-    "source": "Droid Life",
-    "title": "Google Just Teased Its Huge Gemini 4 Release",
-    "summary": "Droid Life is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHBUNzdDNzY0Ukh1U1VOUnZmNzN4azNZOTBldi1xSGZRNEVWZnZtbElaS3R3Nkh3YkhrZ045eXdtbUY3X0lJM2VvQW5IcC0yTURGMVVaRTlTUV9KSTJzbXMyRTdtRENVa1h2Qkw3MVJlVkZSbEpZYVU3N2hxd1JsbzAyTTBMSHJKMXhWT1Nad19vVEZP?oc=5",
     "difficulty": "News"
   },
   {
@@ -201,18 +213,6 @@
     "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRW1taFlkQzFJN2J5WWdFOGdKYWxnazlEUGhFUmw3c196Sm9mSmw4STRjVHZGaE1sQjVjMGRqRHJMa3NLeFdNQjJIVVRFWUx0bXlEa1JLbUpxS3d2Mzk1RnpQTl82bGlWcXdQVmNMV0plUU8tVXhiM3hGdzgzVDZpSFFfandXeU8taDJvUmQwcVE3X2NVamhORmIxOUg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 21, 10:00 AM ET",
-    "publishedAt": "2026-07-21T14:00:00+00:00",
-    "source": "Infosecurity Magazine",
-    "title": "Russian Hacker Turns Jailbroken Claude Into Pentest Platform",
-    "summary": "Infosecurity Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSWx6SHBIOHl5b3I3b1RjdjBSUFR2Yk5oTDJKMTZZMlNfREhUX1JBbklUX0lBX2xsWHN0Zy1Xc2dPLWM0X0V4VzlkRjFMVXJ6V2otLV84M0xyVXhDN2NOMjZIdVcyQUFBT3Q0QVBsRFoxUThyZDFQYXFEalMtRGRkRTNDaw?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,18 +345,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 01, 03:00 AM ET",
-    "publishedAt": "2026-06-01T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
     "difficulty": "News"
   },
   {
