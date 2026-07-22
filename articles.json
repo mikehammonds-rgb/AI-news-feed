@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 22, 10:50 AM ET",
+    "publishedAt": "2026-07-22T14:50:00+00:00",
+    "source": "VentureBeat",
+    "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 22, 08:11 AM ET",
@@ -14,13 +26,25 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 22, 07:37 AM ET",
-    "publishedAt": "2026-07-22T11:37:30+00:00",
+    "time": "Jul 22, 07:42 AM ET",
+    "publishedAt": "2026-07-22T11:42:57+00:00",
     "source": "HackerNoon",
     "title": "I Added Four Lines of Code and Cut My Claude Agent’s Cost by 57%",
     "summary": "HackerNoon is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0xQRER5b0dUMGdsamRKLVhhRF9SVUZnYUZZZTI5N01nQVVMRW9CMlJpdnVLS0JlT1k5RFppQ2ZZRDJxanpyOWROcVZ2QUZGNkZUa0ZmcEJsYnFmMXB2LVZ3Y2JHaWJXUlF0VkFpaDdrVzJray1ueVF0MHMxb0lpSXZTVXRUUXRqNUUtOVFpQlJSdTJqRFo4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 22, 04:55 AM ET",
+    "publishedAt": "2026-07-22T08:55:21+00:00",
+    "source": "tech-insider.org",
+    "title": "What Is Claude Code, and Why Install It in 2026?",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktqU3dzR0Q5aWlZako5NFhJVHZNOWkzU2d6eVdaa1dQaGFSZ3JXSzNYczg1MEJpMGVzbEx1MHdrODROVnJaNU9VMmdxZ1BtMkMwajRqazc4QVBwS3JaSW14X0NpSjVFRm50WmxqRGtTVXlTY0wxanl5WnphdlRodQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -33,6 +57,18 @@
     "summary": "Techzine Global is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1VlT19Kelh3bzZHX0JzRldwR0tDZUpyWE1tN2tGdU4zODlZYmlyeGV6VXJXZThlTzRHaFlYOTh3SEp2TFFCcWM2NGYyVWRuaXQwSjBqbldfeDNUN1RmRWRLY2R1c2JHUVVfYzJMaXJ0YVJ5N19nRmR1akc4NFNwb1ZDZmxXVUNGRTJWaVJwX0ctWlFTM0tFQ3RHQmdfRWVpWm4zWG1fV1hPcTdaTFE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 21, 08:34 PM ET",
+    "publishedAt": "2026-07-22T00:34:26+00:00",
+    "source": "Startup Fortune",
+    "title": "Google released three Gemini models in one day while its flagship is still stuck in testing",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRl93WHZ5NXU4Zkk5ZXVVcVZjX2RpNHdsdDBGclBwT2pNSE4wdGhKZnJHRWluaEoxOXlYQ1ZHa1hjOGJuRGNNNGdQcXU3dHFHMzZSR2duUlBXVmZxb2dvTnd4Umh5N1N6eWRyTkV4SW45TGZTNVhFRmt3MjFycnBhZ0ZGSFNfdExndk9lWUtUVWYzVTk1ZVZGRVlZNHVEQ2E4cTYtOXo4RnUzMktJaHVfZTZtdHI2TXZKVC1j?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 12:11 PM ET",
-    "publishedAt": "2026-07-21T16:11:53+00:00",
-    "source": "Thurrott.com",
-    "title": "Google Releases New Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber Models",
-    "summary": "Thurrott.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1BuNFdad05ENVZoWFk2bWs3U2hncWZkc0FXUS1Dald3eDFWR1JJcDFBeDBfMGtXd3lzWHJ6bkF4WjRUWG1KMmkwcmd0U3NnT0tnSmtFZy15OWw1SkgyeUQ1c2RDYm5jYi1kNWtscWhIbEhjWHNTVTNpSW16MnhtWFFrUmpVNm1RUUQzVXRaQWVORnZuOEkzN0hMeFB0OTVOakpWRzlIa2ZldFBObkdKS0tSQmg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 21, 12:04 PM ET",
@@ -201,18 +225,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STEpkV0VLajlBMFFERkROS2RUVTBjUXJseDctQWhpdFZ2dXRyd0paRTRneTRKMU5XdzBaSjVZeUpiOGQxM3liVzVDNGNUT1NRc1ViMjJqX3ZWYTJBejNPUUZNZXhZa0dkaGk0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 20, 05:08 AM ET",
-    "publishedAt": "2026-07-20T09:08:00+00:00",
-    "source": "StartupHub.ai",
-    "title": "Anthropic's Claude Code Creator on AI's Future",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHhjd3Vwakx3X1hPckVySVJTLUtIcHJOZllLNnF4YXZraUd0VG03Y1pUWWVWV19PRFo0MllnLWxNSDFycUVIWUVlM3VtTzBwVEtySkFFUEJDVWd4bDlhdXJSR29OeEZYQTlQV3BURE5WbWNCQmxaQlJOajVFM295M001eGszWW5UeVV6Q1ZoWklmRE9ha2dVcjZDb3Y1NENianhMSklCNUN1T3hKZmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -333,18 +345,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 01, 03:00 AM ET",
-    "publishedAt": "2026-06-01T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
     "difficulty": "News"
   },
   {
