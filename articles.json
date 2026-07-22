@@ -230,18 +230,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 16, 04:33 PM ET",
-    "publishedAt": "2026-07-16T20:33:32+00:00",
-    "source": "The American Bazaar",
-    "title": "Microsoft trains sales staff to steer customers away from OpenAI, Anthropic",
-    "summary": "The American Bazaar is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1ZLM0J4YXpMdWxkaUVSYno5clJ6V09KZHJwV2tqZnVDcVlHa29uRDRrY2REb19kOEltMTZ3STF5V0FWOHkxaVpMYUxlNDNyc1VFQUgyd2Q4WTZ1YVl4Mm0xcE94VFd1dWVjVDhZRW1NNjUzb2tBcHRBZWxOUDIwcnEwVU92VUdqUUhLTE1kcnY5enpxaXBCRzNWRnlyc2tzQVRZQXhFd3B0d29xRlpKeVRzT2hOampJcUFjYTZJbnJ4bTh2?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Jul 16, 03:00 AM ET",
     "publishedAt": "2026-07-16T07:00:00+00:00",
     "source": "Business of Apps",
@@ -348,15 +336,27 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 02, 03:00 AM ET",
-    "publishedAt": "2026-07-02T07:00:00+00:00",
-    "source": "DevOps.com",
-    "title": "Z.ai Debuts ZCode to Compete With GitHub Copilot, Cursor and Anthropic",
-    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 26, 01:02 PM ET",
+    "publishedAt": "2026-06-26T17:02:35+00:00",
+    "source": "OpenAI",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1RaY1BoY3JYWERNc1FrZjRrMENyaTEwcWRIV09BOXh3QldBa3ZHb0pGdXFaYjExZWVEYmVtMVUxZUdYdjFicmgwMzJfTGNFTWhvXzMyT0xZREF3Q25pcTBYZFQ3WlByc1loalh0Tm1vY1M5LXV0d0g5LWFhcXJiSDQ3cHN3UmthV1o1bk84b1dlNE0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 24, 03:00 AM ET",
+    "publishedAt": "2026-05-24T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   },
   {
