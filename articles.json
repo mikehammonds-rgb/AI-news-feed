@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 23, 03:26 PM ET",
+    "publishedAt": "2026-07-23T19:26:37+00:00",
+    "source": "techi.com",
+    "title": "Google shipped three Geminis. The one you can't buy is the story",
+    "summary": "techi.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wUk9rc3RYalFWVjZadGVhN3R3eTZMZ2xvU0FGaktrYzA3RGdiRVRKLUQxSHVCTi02ck1yemI3VEZXa1JXNlBWaWhEWF9abjJxUTh4WVMyTWg5SWNmNmE2T24xU2VHdHFsR2pWUUlPUDIyZ293?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 23, 10:11 AM ET",
@@ -81,30 +93,6 @@
     "summary": "The Neuron is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tUzFpckRkaWlIVE9lNDJ3YU83RksyMUcwdFFGc1dtcFNhYmhLWURxRmZvQ21CRGJHZzF4cXN5S2RMeTUxUDh2dllSeFZXc0ZjRjdoeDQzQWMwbHVzQ3RJSTRWRWU0UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 23, 02:32 AM ET",
-    "publishedAt": "2026-07-23T06:32:36+00:00",
-    "source": "Memeburn",
-    "title": "Kimi Code vs Claude Code 2026: Which AI Coding Agent Wins?",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzTXYtS0ZIX3M4V0RaR2FCUFpNQkt5eUMtNGNlT1NKTFN3UnlqU1NZODFfRUFvTGtBZ2lBU2RfNjVVUUgzM29BdWMwSXJlYW5oZ1RPOERieUJrV21GdmpKUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 22, 05:53 PM ET",
-    "publishedAt": "2026-07-22T21:53:15+00:00",
-    "source": "Droid Life",
-    "title": "Google Just Teased Its Huge Gemini 4 Release",
-    "summary": "Droid Life is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHBUNzdDNzY0Ukh1U1VOUnZmNzN4azNZOTBldi1xSGZRNEVWZnZtbElaS3R3Nkh3YkhrZ045eXdtbUY3X0lJM2VvQW5IcC0yTURGMVVaRTlTUV9KSTJzbXMyRTdtRENVa1h2Qkw3MVJlVkZSbEpZYVU3N2hxd1JsbzAyTTBMSHJKMXhWT1Nad19vVEZP?oc=5",
     "difficulty": "News"
   },
   {
@@ -285,6 +273,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 08, 03:00 AM ET",
+    "publishedAt": "2026-07-08T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Introducing Claude apps gateway for AWS | Amazon Web Services",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
     "difficulty": "News"
   },
   {
