@@ -1,5 +1,29 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 23, 10:11 AM ET",
+    "publishedAt": "2026-07-23T14:11:25+00:00",
+    "source": "Security Info Watch",
+    "title": "Orca Security Integrates With Claude Compliance API to Expand AI Governance for Enterprise Users",
+    "summary": "Security Info Watch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSUV1SHlrQjRSV2hKMWFrV1RLTFVKNVRCeFhfTEt6UmlrWXpxaENoenNmM3lDcml5cWMxMVJCd1dFZDRmeXJNR29LODZOcDR6ckh4ZTMxME5CT25aQTJySUxObk9Xa1RUd1NyT01DT0dQNUYyc20zT216dFpQSFdmaFpReVh6a0xvMUpHNWJ2ZlMtN3RmX09HYmVxbzU0WUNRdzhsTUgzUkQzV0JISU5TeXRzUlFTX0tiUGMzandYQzNKRUk2X1hSQkVCbXhwaVNLSFNBVl9CSU9HMVpyMnJmMEdKUVJ6b0RKRTFSM2RUcmx3UG1lNzk0YS13Q1JWNkVjRmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 23, 09:12 AM ET",
+    "publishedAt": "2026-07-23T13:12:21+00:00",
+    "source": "Help Net Security",
+    "title": "How attackers hosted a fake Claude download page on the claude.ai domain",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1V6cEUtbTB0NlpJcmhTRnl0bDJlR05QdGdPOWMwNEZURHBQYUZhUGhLZWZNOUdrRmhFdUF5ME1IRVVkTi1kZnVpVkpxeWd3Qjlna3djdzRrcWFEYWhzcHhkSlZ5WUluQjBNd2lSZnlFZlZlcjdTTlRYTWNkajAyaThKVXVxTTVkbWRFaWZMaXo?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 23, 06:55 AM ET",
@@ -26,8 +50,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 23, 05:34 AM ET",
-    "publishedAt": "2026-07-23T09:34:26+00:00",
+    "time": "Jul 23, 05:37 AM ET",
+    "publishedAt": "2026-07-23T09:37:46+00:00",
     "source": "The Neuron",
     "title": "😺 Why You Need 3 Geminis Now",
     "summary": "The Neuron is reporting this update. Open the article for the full story.",
@@ -120,6 +144,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 22, 04:55 AM ET",
+    "publishedAt": "2026-07-22T08:55:21+00:00",
+    "source": "tech-insider.org",
+    "title": "What Is Claude Code, and Why Install It in 2026?",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktqU3dzR0Q5aWlZako5NFhJVHZNOWkzU2d6eVdaa1dQaGFSZ3JXSzNYczg1MEJpMGVzbEx1MHdrODROVnJaNU9VMmdxZ1BtMkMwajRqazc4QVBwS3JaSW14X0NpSjVFRm50WmxqRGtTVXlTY0wxanl5WnphdlRodQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 21, 02:56 PM ET",
@@ -141,18 +177,6 @@
     "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT05DQWVWbzhkN1RNbkg1ZTBwbnNRU0ZaeFQ1cG8ybFB6alpKbWlZTHJ0UTFFRk1nSzRLS0ZyRzJQeXVxYmNnS2NWaF9wNE1TUjZMRER6MjBFV2JialJXU0xaNXpsZUxXMVF2eE1YSWpUUml5ZVBjbDRhbFhxZFpaZmliRDNxd05sUVB5SG1VeXVCYXFEYVNTdUNyZHhZSEYtZG96UGtSNnA2VkRaQXdaOU5icGlXNWNiU1BjWnd5dlN0WVhlM1FiQWtSc2plckdKblN2S2x1Wnk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 21, 01:00 PM ET",
-    "publishedAt": "2026-07-21T17:00:00+00:00",
-    "source": "Business Wire",
-    "title": "Orca Security Extends AI Security Platform with Integration to Claude's Compliance API",
-    "summary": "Business Wire is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZmxlc210djluNzFyaVR6bkZwYnBaai1ialBIdEhJZ2hHbl9HbXNSaWVzOHF5emhOZFNzYnRVcG12M0c1bFNzZktmV3liS2hJQjNlTWNhOFEyWDVQa1M4czhMMDV0ZTRpVllkT2VBQzBrQ0h3d2NOSm9NcmczbXJKbGZObjd2WXFZdEZ2eHN2WURnOFEwMGdqOFhsNU1vQmhWQmFaRjdkbVVNSmp0UWowajZiUEJRUGc1anJlWlVxUWttY3RoRzl6aXN1eG9sejExVDRBN1FUMmhHZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -194,6 +218,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 21, 10:00 AM ET",
+    "publishedAt": "2026-07-21T14:00:00+00:00",
+    "source": "Infosecurity Magazine",
+    "title": "Russian Hacker Turns Jailbroken Claude Into Pentest Platform",
+    "summary": "Infosecurity Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSWx6SHBIOHl5b3I3b1RjdjBSUFR2Yk5oTDJKMTZZMlNfREhUX1JBbklUX0lBX2xsWHN0Zy1Xc2dPLWM0X0V4VzlkRjFMVXJ6V2otLV84M0xyVXhDN2NOMjZIdVcyQUFBT3Q0QVBsRFoxUThyZDFQYXFEalMtRGRkRTNDaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 20, 02:10 PM ET",
     "publishedAt": "2026-07-20T18:10:05+00:00",
     "source": "The New Stack",
@@ -213,18 +249,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STEpkV0VLajlBMFFERkROS2RUVTBjUXJseDctQWhpdFZ2dXRyd0paRTRneTRKMU5XdzBaSjVZeUpiOGQxM3liVzVDNGNUT1NRc1ViMjJqX3ZWYTJBejNPUUZNZXhZa0dkaGk0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 15, 06:17 AM ET",
-    "publishedAt": "2026-07-15T10:17:31+00:00",
-    "source": "HackerNoon",
-    "title": "Claude Code vs Codex vs OpenCode: The Honest Verdict for Full-Stack Engineers",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcm1OMVByQjUwVURibmJYbG9VWVU0WkdiSUhVZFJGQ21iT3BmazYwNGg2cWVCVmJ6b1pINHcyVjMtcE9jSVJFQVZUS191amM3aXhBYTZiTlBFY1VyWTNyX0hmUlo4ZnFaMmNva0NlMEtya3FoUUNKNDBUSzFPMUpNaS1keU1xb2JkVWhmX2lNV3o0NDZYUENEZjB6QXVjbnR3?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,42 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "TechCrunch",
-    "title": "OpenAI launches its new family of models with GPT-5.6",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "qz.com",
-    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 08, 03:00 AM ET",
-    "publishedAt": "2026-07-08T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Introducing Claude apps gateway for AWS | Amazon Web Services",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 08, 03:00 AM ET",
@@ -348,6 +336,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 24, 03:00 AM ET",
@@ -369,6 +369,18 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
