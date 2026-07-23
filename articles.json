@@ -62,6 +62,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jul 23, 07:55 AM ET",
+    "publishedAt": "2026-07-23T11:55:16+00:00",
+    "source": "Security Affairs",
+    "title": "Google Released Gemini 3.5 Flash Cyber AI, a Specialized AI Model for Vulnerability Hunting",
+    "summary": "Security Affairs is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdnktM1hTMFV1WGNEWm9fUDBZR3VKVHQtQ2huU0hYRVBIMFRidlNkUU1WSmpUeEd3UG5kR0VqdWlxT210VkdkOGxNVjdLSmRiNDN5U2I5REZZTFo3NElrejI0Q05LbVdhOGJ2QTlqREZSeEhhVVJLWUZ3OGlqOHMzNGpnZjJMS0xDajQwellUTnBNYnlHYjYwWkNzaDZVcDdMMmt1SlBBclVhamVIeHJ0cmVDWGVaN0s3MERVZ3hzMm9XQVNya28ta1RnalQ3VmFTOFFKUWtn0gHbAUFVX3lxTE1PMXlFcjFoYWRqQ081R0ViQ3pvTEZLRExOV3hzY0w1RE1fdE93aThsdVlJR1ZTYnpxRWxjdDVFbXc5RkZuTFJXVWZ6d0RmZkVCYURPUmdSc3hMeFRNUGh5M3puUlNXV05IZWVzbFRkYmNRdklsRkZiSmY1aURIRjBYZUFHb2l3dXNJRkptcEZrZDd1ZHRhOGdFcVV3Y2F0MDV5OE1YeEhzRVlrcDljNTdWQ1FpZGhETTV5YkhtQS1jLUJPX2l5cFFWZlB5X1U0OVVFTHV4YTNBVXJHaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jul 23, 06:55 AM ET",
     "publishedAt": "2026-07-23T10:55:08+00:00",
     "source": "AI Magazine",
@@ -132,6 +144,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 22, 03:00 AM ET",
+    "publishedAt": "2026-07-22T07:00:00+00:00",
+    "source": "AIMultiple",
+    "title": "Compare 50+ AI Agent Tools in 2026",
+    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Id21adEZYcW8tRkkwWDhVcXpLWWVWejFoWTQxX2ZaVHJveVhfNFpIQ3FuMHpuLTZxLXdlM2szS1pOeW1RSGt3emk5aVpDQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 21, 02:56 PM ET",
@@ -141,18 +165,6 @@
     "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEpGeVFVOHhpWDFJWURPckg3VzR6Z0hMeWo1UURDQ1dJenFsRmxCLW1Jbnlsa2E1NklQS1BUSTlISG1ucnVIWUpPMFJjbVEzdVhRQ0szdE51MlEweF9yWnhSNWJDWWZuOTNWd0QxVncyMnNxbXctUTlNVkc0S0Z1YVQ5Z1Y2cVQzSjBReXVON0RacU9FU09ndGs5Qlc1MGExemlDSG1uSDBOSjhOX3ExRXFpMTVzaW8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 02:55 PM ET",
-    "publishedAt": "2026-07-21T18:55:45+00:00",
-    "source": "Decrypt",
-    "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
-    "summary": "Decrypt is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVekt0aTBURE1JWDVXSUkwMmxiWEVjVGNkVGgyYUIzMFF1NEx3QTEzdE9jNXYxRTcyMVlhNFpuMWhiTmxJZkZiOU1BRzhJVEw1UzdsSGxRRG8wWHZiOU1KLUlwTXBHXzVtOFl6SVJoMmRiT3hiMTF6MUx0UmRnMlk?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,27 +324,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 07, 03:00 AM ET",
-    "publishedAt": "2026-07-07T07:00:00+00:00",
-    "source": "Visual Studio Magazine",
-    "title": "Full-Stack with a Side of Copilot: Building and Deploying an App the AI-Accelerated Way",
-    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFZVRmVXaDBnM1U4Q3pwbVRXdE0tMmh0cGRsT2lubk13R1RwbG9rRGU4QzNjTFptZEpXcEttRFJLUTBaZ3JBdThrRHNGQVhhY3h0ay1DeUFBUU14NkxyaTJwTnRTTlNLb1VRY19xdUpJcXR4dlhNbGRGWGlRNDV0Q1JKeW1tWXNSQ1ZjSGZFejVZVzNYVG9NdDNkenRaNTkzQnBIRG9CTmhWSnpBQklJN2xkY3RBZ09ZS0pDU0NNUDdqZ0NkQXU0NkpOYlMtN3NzVWlQUGo2QjhJZVQ0?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 02, 03:00 AM ET",
-    "publishedAt": "2026-07-02T07:00:00+00:00",
-    "source": "ZDNET",
-    "title": "How I set OpenAI API usage limits to stop agent overspending and other AI billing nightmares",
-    "summary": "ZDNET is reporting this update. Open the article for the full story.",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yeGl0bVY0d1dBM3lBRGdvNnI0aHI0UkpkX1k5MUF6clJMZGNoY3ltWU84RU9lTHl6WmdOQ0k1SUoxVGNOZXh6TE1FRVpmQ3JVRXRWMFR1V1NEV05kT3otVjV2M3RPWFVCRC11c21JYVZfS1FLQ1prZUhxbw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
     "difficulty": "News"
   },
   {
