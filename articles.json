@@ -24,6 +24,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 23, 08:24 AM ET",
+    "publishedAt": "2026-07-23T12:24:48+00:00",
+    "source": "tech-insider.org",
+    "title": "Grok 4.3 vs Claude Opus 4.8: 10x Output Price Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SVVhoYWszMHVtOGNaS1lGdTFHNmt5UFlNS0VsazlNek1FV2l2OTM1Z2Y0NklPa2ZfVk5CZGxtRHgwN0JhbkhELS1veXhrLUlmSDY1SXZlVUlsaDVCM3JTMEtmbnJteUtBRkE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 23, 06:55 AM ET",
@@ -108,30 +120,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 22, 02:51 PM ET",
-    "publishedAt": "2026-07-22T18:51:52+00:00",
-    "source": "Pulse 2.0",
-    "title": "Google Launches Gemini 3.6 Flash And 3.5 Flash-Lite For Scalable AI Agents",
-    "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEx5RmRWSE5GUkdMUms2M05wRUROZHlKdC1sa3JEYjIzMGhGLUtEQkdWeGtIcmw3TTFsd3d0VjdXSXk1cG5MREQydXR3eFJCUWIzYU5rMlg2UURjaEs0MVZKbXRienpYcHRDNWtvZjFVSnYtbVRCS3gwOHZmMXdYY1lGYmlJeDQ3RmRnSWgwQ2RwSGxRSFdPZnF30gGfAUFVX3lxTE84RDNPS1BnYWs3bjVwRWlVdG9SaVF5anZrQk9SVlBOWHFJa2JnbTY0LWtZQjN4TndqWkZpU0hINEw5YlBFcXhncVF2VGtXbUlZMWRGc3pNYnVNcElXZVJGVjAydWVsMmlyejAzeTFwUzJobXA4RkJ5TTRJQXZPakZlTWZuM0VjMWFCbDFsaVp2cW5od2VXMnlKbXlDRXFEOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 22, 10:54 AM ET",
-    "publishedAt": "2026-07-22T14:54:32+00:00",
-    "source": "tech-insider.org",
-    "title": "Cline vs Claude Code vs Copilot: Free vs $20 vs $10 [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oZXkzRlNZQndHdldtcHV3NVdxbjVkdDkzejNUT2V0TXhKam1lUGRzNzFaQ2d2bzhEcW1uSDJIX2dldFJRNE92RkMtWFA1ZHZvZTRTM3Z6S0J5SzVIU2lfRA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 22, 10:46 AM ET",
@@ -156,15 +144,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 22, 04:55 AM ET",
-    "publishedAt": "2026-07-22T08:55:21+00:00",
-    "source": "tech-insider.org",
-    "title": "What Is Claude Code, and Why Install It in 2026?",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 21, 02:56 PM ET",
+    "publishedAt": "2026-07-21T18:56:27+00:00",
+    "source": "CNET",
+    "title": "Google Releases 3 New Gemini Models, 3.5 Pro Still Not Available",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktqU3dzR0Q5aWlZako5NFhJVHZNOWkzU2d6eVdaa1dQaGFSZ3JXSzNYczg1MEJpMGVzbEx1MHdrODROVnJaNU9VMmdxZ1BtMkMwajRqazc4QVBwS3JaSW14X0NpSjVFRm50WmxqRGtTVXlTY0wxanl5WnphdlRodQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEpGeVFVOHhpWDFJWURPckg3VzR6Z0hMeWo1UURDQ1dJenFsRmxCLW1Jbnlsa2E1NklQS1BUSTlISG1ucnVIWUpPMFJjbVEzdVhRQ0szdE51MlEweF9yWnhSNWJDWWZuOTNWd0QxVncyMnNxbXctUTlNVkc0S0Z1YVQ5Z1Y2cVQzSjBReXVON0RacU9FU09ndGs5Qlc1MGExemlDSG1uSDBOSjhOX3ExRXFpMTVzaW8?oc=5",
     "difficulty": "News"
   },
   {
@@ -321,6 +309,18 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTF6WU5aTDJPMzlPZGUwYjVvUEQ5TkQzdGc5cC1JNlRxN1R0ajFfeEthN3lBSGJnbzdRT2ZjTUI1ZDdlaUhzQXAyT3B0NUZqTmljR1BIZkktRkNuOXY0ZFJadGZKcVJlcU9fdXZoUEZZVWRQSzc0TlFGY3pNdEZITlRQRlg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 07, 03:00 AM ET",
+    "publishedAt": "2026-07-07T07:00:00+00:00",
+    "source": "Visual Studio Magazine",
+    "title": "Full-Stack with a Side of Copilot: Building and Deploying an App the AI-Accelerated Way",
+    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFZVRmVXaDBnM1U4Q3pwbVRXdE0tMmh0cGRsT2lubk13R1RwbG9rRGU4QzNjTFptZEpXcEttRFJLUTBaZ3JBdThrRHNGQVhhY3h0ay1DeUFBUU14NkxyaTJwTnRTTlNLb1VRY19xdUpJcXR4dlhNbGRGWGlRNDV0Q1JKeW1tWXNSQ1ZjSGZFejVZVzNYVG9NdDNkenRaNTkzQnBIRG9CTmhWSnpBQklJN2xkY3RBZ09ZS0pDU0NNUDdqZ0NkQXU0NkpOYlMtN3NzVWlQUGo2QjhJZVQ0?oc=5",
     "difficulty": "News"
   },
   {
