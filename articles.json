@@ -74,18 +74,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 22, 10:50 AM ET",
-    "publishedAt": "2026-07-22T14:50:00+00:00",
-    "source": "VentureBeat",
-    "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jul 22, 10:46 AM ET",
     "publishedAt": "2026-07-22T14:46:12+00:00",
     "source": "OX Security",
@@ -117,30 +105,6 @@
     "summary": "Yellow.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcWpjdk8xdllpdm1ONk1TOV9LclN6SnpZTXQ3eFFsOEtsZ21GR1VZc1ZvUUMxTlVJeTFJQm8yRnlNQVhjRkx5YmVrRWlCQW9LSWFDVFEzenFvcWF6bVozSnNZblNzSVh5WjN5R3k0bEk5MzBUdmRBdWd4Q1FpMWJqSnZtNUVTd2hpd0dxaTFVOFlSR2M3Q1BPSEw2elpzMEpFdWdFblR6THVBa2RBSHZyUjVZWllzWkQ4MUV3VUNscjY?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 22, 07:42 AM ET",
-    "publishedAt": "2026-07-22T11:42:57+00:00",
-    "source": "HackerNoon",
-    "title": "I Added Four Lines of Code and Cut My Claude Agent’s Cost by 57%",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0xQRER5b0dUMGdsamRKLVhhRF9SVUZnYUZZZTI5N01nQVVMRW9CMlJpdnVLS0JlT1k5RFppQ2ZZRDJxanpyOWROcVZ2QUZGNkZUa0ZmcEJsYnFmMXB2LVZ3Y2JHaWJXUlF0VkFpaDdrVzJray1ueVF0MHMxb0lpSXZTVXRUUXRqNUUtOVFpQlJSdTJqRFo4?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 22, 04:55 AM ET",
-    "publishedAt": "2026-07-22T08:55:21+00:00",
-    "source": "tech-insider.org",
-    "title": "What Is Claude Code, and Why Install It in 2026?",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktqU3dzR0Q5aWlZako5NFhJVHZNOWkzU2d6eVdaa1dQaGFSZ3JXSzNYczg1MEJpMGVzbEx1MHdrODROVnJaNU9VMmdxZ1BtMkMwajRqazc4QVBwS3JaSW14X0NpSjVFRm50WmxqRGtTVXlTY0wxanl5WnphdlRodQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 21, 12:04 PM ET",
-    "publishedAt": "2026-07-21T16:04:23+00:00",
-    "source": "StartupHub.ai",
-    "title": "GitHub Copilot Canvas: Interactive AI Workspaces",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFgtcUlvaEJuanZOQVNZUlBodWVEU2FWWnZtalBMYkwzd1E0S1I5TU5JQTJ4dUxOUjBLbkx3UlEzZl9xTkk0ZEwtOEh5OV9fUnhqZG9iR1NHUU1YWTUxclJzTVJWazlDQ0NWWWRjRGpZdVhWbXp4eDFXeGdFOTZYZUgzbjFDcmt3NDRiaEMwLWQ2dFdVQzJTZkxNVXBBQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 21, 11:29 AM ET",
@@ -213,6 +165,18 @@
     "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRW1taFlkQzFJN2J5WWdFOGdKYWxnazlEUGhFUmw3c196Sm9mSmw4STRjVHZGaE1sQjVjMGRqRHJMa3NLeFdNQjJIVVRFWUx0bXlEa1JLbUpxS3d2Mzk1RnpQTl82bGlWcXdQVmNMV0plUU8tVXhiM3hGdzgzVDZpSFFfandXeU8taDJvUmQwcVE3X2NVamhORmIxOUg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 21, 10:00 AM ET",
+    "publishedAt": "2026-07-21T14:00:00+00:00",
+    "source": "Infosecurity Magazine",
+    "title": "Russian Hacker Turns Jailbroken Claude Into Pentest Platform",
+    "summary": "Infosecurity Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSWx6SHBIOHl5b3I3b1RjdjBSUFR2Yk5oTDJKMTZZMlNfREhUX1JBbklUX0lBX2xsWHN0Zy1Xc2dPLWM0X0V4VzlkRjFMVXJ6V2otLV84M0xyVXhDN2NOMjZIdVcyQUFBT3Q0QVBsRFoxUThyZDFQYXFEalMtRGRkRTNDaw?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,18 +252,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "qz.com",
-    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 09, 03:00 AM ET",
@@ -309,18 +261,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 08, 03:00 AM ET",
-    "publishedAt": "2026-07-08T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Introducing Claude apps gateway for AWS | Amazon Web Services",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczdaTVpjWHhOblAyTDdtOTlsdnZpcmt1aG1Vc0hSOW56VkFUdzR5ZFFWaldJenVsMHhUSWE4djRmUlNpNkNId0pfbzQxNDlkX3V4dGFpTzRMSEdMLU1HVmt6a2ZOTko3c3diTHdRSXJxRm9YYWhZeUsyQzE3Q29NSHZ3X2J1RXl0TW14MXNjRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,6 +285,66 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTF6WU5aTDJPMzlPZGUwYjVvUEQ5TkQzdGc5cC1JNlRxN1R0ajFfeEthN3lBSGJnbzdRT2ZjTUI1ZDdlaUhzQXAyT3B0NUZqTmljR1BIZkktRkNuOXY0ZFJadGZKcVJlcU9fdXZoUEZZVWRQSzc0TlFGY3pNdEZITlRQRlg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 02, 03:00 AM ET",
+    "publishedAt": "2026-07-02T07:00:00+00:00",
+    "source": "ZDNET",
+    "title": "How I set OpenAI API usage limits to stop agent overspending and other AI billing nightmares",
+    "summary": "ZDNET is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yeGl0bVY0d1dBM3lBRGdvNnI0aHI0UkpkX1k5MUF6clJMZGNoY3ltWU84RU9lTHl6WmdOQ0k1SUoxVGNOZXh6TE1FRVpmQ3JVRXRWMFR1V1NEV05kT3otVjV2M3RPWFVCRC11c21JYVZfS1FLQ1prZUhxbw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Sonnet 5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 06, 03:00 AM ET",
+    "publishedAt": "2026-06-06T07:00:00+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Anthropic's Claude Services Down — claude.ai, Claude Code, and Cowork Affected [Updated]",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MkF3RG52UFhmUUF1MDg1RUk5bGYtZFVlcDBDMm9IWjlmelpjWE9pN2lCMUZLWXQzd2l3V3p2T09VT2NNcm9MQmNrNEh5Y2FuUXBhTEM4TFlYR0tsYmhCSHQwRVN2VXVuTmRVNXBPWdIBdEFVX3lxTE9fbVhOOHdGVkZQbHRkSF9leHZtQU9PcDZBcFl4Um1zd2NCWjc0TWU3bWtmdUhPa081cVNuYmVFUi1QWGNTdkVBcjlFZmJ2RXdKR1VZVEZydGFrcmNVc2J4LTJGVjBjbksySy1NZTlWOGRKeGN1?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jun 01, 03:00 AM ET",
+    "publishedAt": "2026-06-01T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 24, 03:00 AM ET",
+    "publishedAt": "2026-05-24T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   },
   {
