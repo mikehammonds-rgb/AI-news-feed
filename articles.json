@@ -2,6 +2,42 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jul 23, 06:55 AM ET",
+    "publishedAt": "2026-07-23T10:55:08+00:00",
+    "source": "AI Magazine",
+    "title": "How Google’s New Gemini Flash Models Compare to its Rivals",
+    "summary": "AI Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1pMWW9kR3EyeGVydUZadWNscXNzcjMwU2hlRm80WmNGRUU0THEzeDEyTzl4MEphT2pEQTdrclRycWVQUXlUSVdnSEhCaFNkTUwwWmxST0NCbmJla2JNeXRFNF9oTGpBYzZGaWJvcjJ2U2RtSnhJNUNYYTlYOEw0am1JX1hneTZaZFlXRWNB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 23, 05:58 AM ET",
+    "publishedAt": "2026-07-23T09:58:41+00:00",
+    "source": "Tech Times",
+    "title": "Claude Code Update Kills Quadratic Slowdown That Compounded in Auto Mode's Longest Sessions",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc1VhTmRVMC1abkQ0ZTJqNDFoVkpJR0lXaV9KWGhxQzlTS2RXakpLc0lMNWpWWVBPdGdrM1E0NzNwUkJNQnhoMXdTT1pjS2U4VldkS3dULTZmaU5EQmJMc2ZueHVwdG10cFhoNlNwR01BVzhZSHFWc0lhMEJKS25maVJDNEpJQmhPY1didkxNX3FPUjFMMS1jcmpKUmxmZ0pna1hyV25jS3RMZmhBMk1md2dIeER5S1pLaFlkS01hbW5pcXBZaE1DSGk5dHFxNnN2aFdyZGhPWTRpUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 23, 05:34 AM ET",
+    "publishedAt": "2026-07-23T09:34:26+00:00",
+    "source": "The Neuron",
+    "title": "😺 Why You Need 3 Geminis Now",
+    "summary": "The Neuron is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tUzFpckRkaWlIVE9lNDJ3YU83RksyMUcwdFFGc1dtcFNhYmhLWURxRmZvQ21CRGJHZzF4cXN5S2RMeTUxUDh2dllSeFZXc0ZjRjdoeDQzQWMwbHVzQ3RJSTRWRWU0UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jul 23, 03:30 AM ET",
     "publishedAt": "2026-07-23T07:30:00+00:00",
     "source": "Digital Watch Observatory",
@@ -60,18 +96,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 22, 02:51 PM ET",
-    "publishedAt": "2026-07-22T18:51:52+00:00",
-    "source": "Pulse 2.0",
-    "title": "Google Launches Gemini 3.6 Flash And 3.5 Flash-Lite For Scalable AI Agents",
-    "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEx5RmRWSE5GUkdMUms2M05wRUROZHlKdC1sa3JEYjIzMGhGLUtEQkdWeGtIcmw3TTFsd3d0VjdXSXk1cG5MREQydXR3eFJCUWIzYU5rMlg2UURjaEs0MVZKbXRienpYcHRDNWtvZjFVSnYtbVRCS3gwOHZmMXdYY1lGYmlJeDQ3RmRnSWgwQ2RwSGxRSFdPZnF30gGfAUFVX3lxTE84RDNPS1BnYWs3bjVwRWlVdG9SaVF5anZrQk9SVlBOWHFJa2JnbTY0LWtZQjN4TndqWkZpU0hINEw5YlBFcXhncVF2VGtXbUlZMWRGc3pNYnVNcElXZVJGVjAydWVsMmlyejAzeTFwUzJobXA4RkJ5TTRJQXZPakZlTWZuM0VjMWFCbDFsaVp2cW5od2VXMnlKbXlDRXFEOA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 22, 10:54 AM ET",
@@ -108,18 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 22, 07:44 AM ET",
-    "publishedAt": "2026-07-22T11:44:56+00:00",
-    "source": "Yellow.com",
-    "title": "Yellow Launches SDK MCP, Bringing Non-Custodial Settlement Primitives Into AI Coding Tools",
-    "summary": "Yellow.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcWpjdk8xdllpdm1ONk1TOV9LclN6SnpZTXQ3eFFsOEtsZ21GR1VZc1ZvUUMxTlVJeTFJQm8yRnlNQVhjRkx5YmVrRWlCQW9LSWFDVFEzenFvcWF6bVozSnNZblNzSVh5WjN5R3k0bEk5MzBUdmRBdWd4Q1FpMWJqSnZtNUVTd2hpd0dxaTFVOFlSR2M3Q1BPSEw2elpzMEpFdWdFblR6THVBa2RBSHZyUjVZWllzWkQ4MUV3VUNscjY?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 21, 02:56 PM ET",
@@ -144,6 +156,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 21, 01:00 PM ET",
+    "publishedAt": "2026-07-21T17:00:00+00:00",
+    "source": "Business Wire",
+    "title": "Orca Security Extends AI Security Platform with Integration to Claude's Compliance API",
+    "summary": "Business Wire is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZmxlc210djluNzFyaVR6bkZwYnBaai1ialBIdEhJZ2hHbl9HbXNSaWVzOHF5emhOZFNzYnRVcG12M0c1bFNzZktmV3liS2hJQjNlTWNhOFEyWDVQa1M4czhMMDV0ZTRpVllkT2VBQzBrQ0h3d2NOSm9NcmczbXJKbGZObjd2WXFZdEZ2eHN2WURnOFEwMGdqOFhsNU1vQmhWQmFaRjdkbVVNSmp0UWowajZiUEJRUGc1anJlWlVxUWttY3RoRzl6aXN1eG9sejExVDRBN1FUMmhHZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 21, 11:29 AM ET",
@@ -153,30 +177,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 11:00 AM ET",
-    "publishedAt": "2026-07-21T15:00:25+00:00",
-    "source": "SiliconANGLE",
-    "title": "Google expands Gemini with cheaper models and a bug-hunter it keeps on a leash",
-    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRW1taFlkQzFJN2J5WWdFOGdKYWxnazlEUGhFUmw3c196Sm9mSmw4STRjVHZGaE1sQjVjMGRqRHJMa3NLeFdNQjJIVVRFWUx0bXlEa1JLbUpxS3d2Mzk1RnpQTl82bGlWcXdQVmNMV0plUU8tVXhiM3hGdzgzVDZpSFFfandXeU8taDJvUmQwcVE3X2NVamhORmIxOUg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 21, 10:00 AM ET",
-    "publishedAt": "2026-07-21T14:00:00+00:00",
-    "source": "Infosecurity Magazine",
-    "title": "Russian Hacker Turns Jailbroken Claude Into Pentest Platform",
-    "summary": "Infosecurity Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSWx6SHBIOHl5b3I3b1RjdjBSUFR2Yk5oTDJKMTZZMlNfREhUX1JBbklUX0lBX2xsWHN0Zy1Xc2dPLWM0X0V4VzlkRjFMVXJ6V2otLV84M0xyVXhDN2NOMjZIdVcyQUFBT3Q0QVBsRFoxUThyZDFQYXFEalMtRGRkRTNDaw?oc=5",
     "difficulty": "News"
   },
   {
@@ -201,18 +201,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1STEpkV0VLajlBMFFERkROS2RUVTBjUXJseDctQWhpdFZ2dXRyd0paRTRneTRKMU5XdzBaSjVZeUpiOGQxM3liVzVDNGNUT1NRc1ViMjJqX3ZWYTJBejNPUUZNZXhZa0dkaGk0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 18, 03:19 AM ET",
-    "publishedAt": "2026-07-18T07:19:52+00:00",
-    "source": "the-decoder.com",
-    "title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmU0X0dGUjFxLXhmdkdfWk83WnMzQlYxcDdPODRvWUVyNzRtWU1lc2pJRFR5RjJYSFpKVlM3Rm9zOG4xelFYeGVkam1raGZacHQxT2VSMFNFRGRNZzZOYmdMTl9ST2Jna0JTbnRKTWhScW1yMWhyd3pNcXpfTmVrT2hJcUR2THgtOHpQMGVhZWhmc3FXSG5BQUpTR01mZVNCZ3JEU2RrSGloQmNaanN1ZUZmc2Z3ek9aM1M5UXdFb3lUYUppbUc0?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,6 +333,18 @@
     "summary": "ZDNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yeGl0bVY0d1dBM3lBRGdvNnI0aHI0UkpkX1k5MUF6clJMZGNoY3ltWU84RU9lTHl6WmdOQ0k1SUoxVGNOZXh6TE1FRVpmQ3JVRXRWMFR1V1NEV05kT3otVjV2M3RPWFVCRC11c21JYVZfS1FLQ1prZUhxbw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 03:00 AM ET",
+    "publishedAt": "2026-06-16T07:00:00+00:00",
+    "source": "CBS News",
+    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   },
   {
