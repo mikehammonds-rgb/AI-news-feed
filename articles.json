@@ -36,6 +36,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 23, 06:19 AM ET",
+    "publishedAt": "2026-07-23T10:19:38+00:00",
+    "source": "tech-insider.org",
+    "title": "Gemini 3.6 Flash Debuts: 17% Cheaper, 12-Point Gain [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xZS15VE1ONkF3Y1A0QTRYRVZhOWVLWTdnLXFqNmVrc0xiWjVhbHM2RGFGZG9MNXpEZklqQ2VqSUFaeXZVaDU1OGJDcWlEMUQxQjI4S21hd0NBQlJvdFBnOFZMVUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 23, 05:58 AM ET",
@@ -153,18 +165,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktqU3dzR0Q5aWlZako5NFhJVHZNOWkzU2d6eVdaa1dQaGFSZ3JXSzNYczg1MEJpMGVzbEx1MHdrODROVnJaNU9VMmdxZ1BtMkMwajRqazc4QVBwS3JaSW14X0NpSjVFRm50WmxqRGtTVXlTY0wxanl5WnphdlRodQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 02:56 PM ET",
-    "publishedAt": "2026-07-21T18:56:27+00:00",
-    "source": "CNET",
-    "title": "Google Releases 3 New Gemini Models, 3.5 Pro Still Not Available",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEpGeVFVOHhpWDFJWURPckg3VzR6Z0hMeWo1UURDQ1dJenFsRmxCLW1Jbnlsa2E1NklQS1BUSTlISG1ucnVIWUpPMFJjbVEzdVhRQ0szdE51MlEweF9yWnhSNWJDWWZuOTNWd0QxVncyMnNxbXctUTlNVkc0S0Z1YVQ5Z1Y2cVQzSjBReXVON0RacU9FU09ndGs5Qlc1MGExemlDSG1uSDBOSjhOX3ExRXFpMTVzaW8?oc=5",
     "difficulty": "News"
   },
   {
