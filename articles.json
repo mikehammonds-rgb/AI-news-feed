@@ -1,5 +1,29 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 24, 09:24 AM ET",
+    "publishedAt": "2026-07-24T13:24:00+00:00",
+    "source": "Android Authority",
+    "title": "Google might soon let you skip the Gemini watermark on your Nano Banana images",
+    "summary": "Android Authority is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzJraG55TTA5anplU0tqTGRFZkdUUzBYLTZLY3o4Um50bmt6aXFvRGg1elcxQTBoa2ZfRnhTVzUwNGtwZGpmZkV3UUJmWC01ZG16QVRFYlZMTDNBbEZHdVRKYllIVG95SUdnVTlpS1lCUUFuQ1A4LVNtdzAtQ3lEN0NzVjdJT1RFTWw4V0M3UzlhQVkw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 24, 08:54 AM ET",
+    "publishedAt": "2026-07-24T12:54:13+00:00",
+    "source": "Pulse 2.0",
+    "title": "Anthropic Launches 4 Role-Based Certifications And Partners With Pearson On Verified Assessment",
+    "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUxVdmQtYVE4RVhoVGFPZk9SM2RJNG1Xd1R3OHhpMjF6TDFhNV9yUldVWWFqOVl4Y21HZ1FkQzhIZm5NTWFDVFA0NXcwZ1NacnhIZFUwTWk3RkxISl9Ob1dHR3V0MjZQZ25DUmxsR2loVk1RWml4ajhhS2tfZXZfeDlBWm9waG5PZm5JclJqWVBiZkdwXzFDSmwzMl9McTdYdXdFN05Ccl9JLVplcjNFZVFDVGdfQdIBuwFBVV95cUxOeU5UMURwT19WSGVaR0pXOFRvSUdaSm5VeG4zb2JmVkZ3bWoyR0ZIeW5OWlpoVW1QY2xPcHpuTG96R3VmZUprNmJCbTB5WGxlcFgzTnBxZTBQVU5KZDlvaThmWEVDdFM3S3ZKOXZvMkJGR2JTS1cyMV9Ld2F5UXFUSWt2SWlRTVgxUkFZWFRmelVDUVJKSU1XQ0xEVkdiTnUtd010ME8ybmpaLWNldzZlSnFNRkk3aGdDcWVn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 24, 03:01 AM ET",
@@ -45,30 +69,6 @@
     "summary": "PR Newswire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdWtCT3BmTUNnTHVkMDNMNWNFb25yekRMS3NlUVFFZjRfZEFRRTdnTXI3SUFRZHBwVjREUmtORVdBWVZTek8taGFPZno1cVAwOHdza0tWX0NrZEtSaUtqODRyWWVrVjJTa2FuVzNqd05GMGpNcXJ1RUtGSDdDMTNXWDVMMllEek1xenBwWHlxRzh4Y3VYbjhDR245UzItaURndEpsQ0Jpb1AydzR4NzN6THJqRGU0NnJmS0FHNTFQcUZjTGVvZ3h3UWpIN29WbkR1Q0tIUVBhRVZPYjFGV21IZVBSOXdDWUVMRk1hNV8wcUlYN2pDTmYxTzdFVWIySlhMSjktcFhQd3BrX3M?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 23, 10:52 AM ET",
-    "publishedAt": "2026-07-23T14:52:01+00:00",
-    "source": "tech-insider.org",
-    "title": "Antigravity vs Cursor vs Claude Code: Free vs $200 [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Wd0JTUktyVXFWQ0lFNXZBSFlGa1k2bUtIUGRMTTN0OE9UUkNRWkgzN3J4eGFlLXVNOGxwN3RabWZvdUJDMXdaaVRlOXNpeFpnUEd0UlBIbGNWb1VaN19jbVIwTG56cldLVno5YXczX2JhejVqOUE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 23, 10:11 AM ET",
-    "publishedAt": "2026-07-23T14:11:25+00:00",
-    "source": "Security Info Watch",
-    "title": "Orca Security Integrates With Claude Compliance API to Expand AI Governance for Enterprise Users",
-    "summary": "Security Info Watch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSUV1SHlrQjRSV2hKMWFrV1RLTFVKNVRCeFhfTEt6UmlrWXpxaENoenNmM3lDcml5cWMxMVJCd1dFZDRmeXJNR29LODZOcDR6ckh4ZTMxME5CT25aQTJySUxObk9Xa1RUd1NyT01DT0dQNUYyc20zT216dFpQSFdmaFpReVh6a0xvMUpHNWJ2ZlMtN3RmX09HYmVxbzU0WUNRdzhsTUgzUkQzV0JISU5TeXRzUlFTX0tiUGMzandYQzNKRUk2X1hSQkVCbXhwaVNLSFNBVl9CSU9HMVpyMnJmMEdKUVJ6b0RKRTFSM2RUcmx3UG1lNzk0YS13Q1JWNkVjRmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,15 +120,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 22, 03:35 AM ET",
-    "publishedAt": "2026-07-22T07:35:26+00:00",
-    "source": "Techzine Global",
-    "title": "New Gemini 3.6 and 3.5 models improve development and security",
-    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 22, 04:55 AM ET",
+    "publishedAt": "2026-07-22T08:55:21+00:00",
+    "source": "tech-insider.org",
+    "title": "What Is Claude Code, and Why Install It in 2026?",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1VlT19Kelh3bzZHX0JzRldwR0tDZUpyWE1tN2tGdU4zODlZYmlyeGV6VXJXZThlTzRHaFlYOTh3SEp2TFFCcWM2NGYyVWRuaXQwSjBqbldfeDNUN1RmRWRLY2R1c2JHUVVfYzJMaXJ0YVJ5N19nRmR1akc4NFNwb1ZDZmxXVUNGRTJWaVJwX0ctWlFTM0tFQ3RHQmdfRWVpWm4zWG1fV1hPcTdaTFE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktqU3dzR0Q5aWlZako5NFhJVHZNOWkzU2d6eVdaa1dQaGFSZ3JXSzNYczg1MEJpMGVzbEx1MHdrODROVnJaNU9VMmdxZ1BtMkMwajRqazc4QVBwS3JaSW14X0NpSjVFRm50WmxqRGtTVXlTY0wxanl5WnphdlRodQ?oc=5",
     "difficulty": "News"
   },
   {
