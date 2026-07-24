@@ -24,6 +24,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 23, 12:22 PM ET",
+    "publishedAt": "2026-07-23T16:22:25+00:00",
+    "source": "InfoWorld",
+    "title": "Gemini 3.5 Pro is late but Gemini 4 will be great, says Google CEO",
+    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSy1tMDdyU1VhSnB3elVPeWxxUi0tTURaNko2VlZCYkxLeGx6WHdLVG5vekUxRXNXR1JRaWI0Wjk4Q2s2MjZWUG9hMzhERXY3X053a1cxUXl4NndxekJTUWRhMHNIMHhrNWwwRGd2SS1hQkRvZnJlRzBwVUJ4TkVGeWlDWWw5VUFvSWFwZ2ZBR2NBMkFSYW1aSTRnT0F4UktqSnRyWEE4Ty1iVU9jUGNQYXo5RWl4NXc2djZYdXVXSVFVd0VEWWtUV0htQlFrLWZFc3c?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 23, 10:52 AM ET",
@@ -81,18 +93,6 @@
     "summary": "AI Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1pMWW9kR3EyeGVydUZadWNscXNzcjMwU2hlRm80WmNGRUU0THEzeDEyTzl4MEphT2pEQTdrclRycWVQUXlUSVdnSEhCaFNkTUwwWmxST0NCbmJla2JNeXRFNF9oTGpBYzZGaWJvcjJ2U2RtSnhJNUNYYTlYOEw0am1JX1hneTZaZFlXRWNB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 23, 06:19 AM ET",
-    "publishedAt": "2026-07-23T10:19:38+00:00",
-    "source": "tech-insider.org",
-    "title": "Gemini 3.6 Flash Debuts: 17% Cheaper, 12-Point Gain [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xZS15VE1ONkF3Y1A0QTRYRVZhOWVLWTdnLXFqNmVrc0xiWjVhbHM2RGFGZG9MNXpEZklqQ2VqSUFaeXZVaDU1OGJDcWlEMUQxQjI4S21hd0NBQlJvdFBnOFZMVUQ?oc=5",
     "difficulty": "News"
   },
   {
