@@ -5,7 +5,7 @@
     "time": "Jul 24, 01:25 PM ET",
     "publishedAt": "2026-07-24T17:25:16+00:00",
     "source": "qz.com",
-    "title": "Anthropic launches Claude Opus 5 at half the price of Fable 5",
+    "title": "Anthropic launched Claude Opus 5 at half the price of its most powerful AI model",
     "summary": "qz.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPTktncXZXM0d4X20ybTYxNElVeUx6bTMzNkN4OEhrRTZSZ005Z1dCWjUxb21mQnJpZmRsU0pycXZqWUl1QVNfRHFLNUlCLTZoa3BQejBxVEtWdEZELWJNQ2tCd09ZMVlrdDNz?oc=5",
@@ -40,9 +40,9 @@
     "label": "Claude Code",
     "time": "Jul 24, 01:00 PM ET",
     "publishedAt": "2026-07-24T17:00:00+00:00",
-    "source": "Venturebeat",
+    "source": "VentureBeat",
     "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
-    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVjSTNCT2dCd2dyTkFLUEFTdDNzTzJnUUdfbkFwNWlwcHp0aVpUcEthUFRKNXhkczBuSUhqdkEzLTlKaVRiWkFlRG9PdkVvenNUWUxvOG8wZlNOLTh2VHJpZ0NxN2ZHTDg4MkJWY1RvNVJ5R2MxWmNrY1F6UEdqOXNUVnhBNjI4N1p0OVdKcjR3dzFzemFlYk12bW5TOFNxMTRkRDdfXzFkWlFiWTl2ZDhELV9oWnBDaTNYODVxODRnQU9XcjFMSlhZNTk?oc=5",
     "difficulty": "News"
@@ -96,18 +96,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 24, 09:24 AM ET",
-    "publishedAt": "2026-07-24T13:24:00+00:00",
-    "source": "Android Authority",
-    "title": "Google might soon let you skip the Gemini watermark on your Nano Banana images",
-    "summary": "Android Authority is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzJraG55TTA5anplU0tqTGRFZkdUUzBYLTZLY3o4Um50bmt6aXFvRGg1elcxQTBoa2ZfRnhTVzUwNGtwZGpmZkV3UUJmWC01ZG16QVRFYlZMTDNBbEZHdVRKYllIVG95SUdnVTlpS1lCUUFuQ1A4LVNtdzAtQ3lEN0NzVjdJT1RFTWw4V0M3UzlhQVkw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 23, 04:30 PM ET",
@@ -148,9 +136,9 @@
     "label": "ChatGPT",
     "time": "Jul 22, 10:50 AM ET",
     "publishedAt": "2026-07-22T14:50:00+00:00",
-    "source": "Venturebeat",
+    "source": "VentureBeat",
     "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
-    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5",
     "difficulty": "News"
@@ -201,6 +189,18 @@
     "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEpGeVFVOHhpWDFJWURPckg3VzR6Z0hMeWo1UURDQ1dJenFsRmxCLW1Jbnlsa2E1NklQS1BUSTlISG1ucnVIWUpPMFJjbVEzdVhRQ0szdE51MlEweF9yWnhSNWJDWWZuOTNWd0QxVncyMnNxbXctUTlNVkc0S0Z1YVQ5Z1Y2cVQzSjBReXVON0RacU9FU09ndGs5Qlc1MGExemlDSG1uSDBOSjhOX3ExRXFpMTVzaW8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 21, 02:55 PM ET",
+    "publishedAt": "2026-07-21T18:55:45+00:00",
+    "source": "Decrypt",
+    "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
+    "summary": "Decrypt is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVekt0aTBURE1JWDVXSUkwMmxiWEVjVGNkVGgyYUIzMFF1NEx3QTEzdE9jNXYxRTcyMVlhNFpuMWhiTmxJZkZiOU1BRzhJVEw1UzdsSGxRRG8wWHZiOU1KLUlwTXBHXzVtOFl6SVJoMmRiT3hiMTF6MUx0UmRnMlk?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,30 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "qz.com",
-    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "TechCrunch",
-    "title": "OpenAI launches its new family of models with GPT-5.6",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 08, 03:00 AM ET",
@@ -381,6 +357,30 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "May 20, 03:00 AM ET",
+    "publishedAt": "2026-05-20T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
