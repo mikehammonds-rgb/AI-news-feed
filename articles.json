@@ -2,6 +2,42 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 24, 05:43 PM ET",
+    "publishedAt": "2026-07-24T21:43:42+00:00",
+    "source": "SitePoint",
+    "title": "Codex 5.3 Production Workflow: When to Use It Over Claude for Complex Refactoring",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbEVhNE1ybnNkNmUtR3Vzb0ZxN1VPcFJEcjBrRE1RTUtlZF80bHRwel9IcEFMS2hDQl95QThCYTU5Z0NGbk41N3M1NktMNGVhZDNUSGhvMVhOOW1zNWo0MjVMaDFvT3JNWklVSG5BODhsR2Q3a091Wm1jQjZrVGwxbDNkQnpZRkhMUjU1eHhn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 24, 05:41 PM ET",
+    "publishedAt": "2026-07-24T21:41:33+00:00",
+    "source": "SitePoint",
+    "title": "Rubberduck: Emulating OpenAI Locally for Reliable AI Development",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QRmMzOHljVW5PM0FsTW1RWDJ5ZjhKT29MejRKTFA2U0QzMFBudVRpUHM2d2pwUUZNY3Z2Y1MtT3lNbGFFTTl0cm1lQ1d2Z2MzOElDQ2t6cjFRY2hPSGZfZUt2dVNZZmM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 24, 05:16 PM ET",
+    "publishedAt": "2026-07-24T21:16:48+00:00",
+    "source": "Tech My Money",
+    "title": "Claude Opus 5 Nears Fable 5 At Half The Cost",
+    "summary": "Tech My Money is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0VvVzV0cDlOZHdrcFlPU2Z1am42bFZYd3g2RXNpNnNITnZzdW82YnB3enBfM1Q3aUpBOTBoUVBGVUk5eEJaaEJPTm9KMW4zazN2aU1HMmFTNHFNMmNFU0doZ1Y5MkdJMUFyLWlnNjFhLVQ2MGRxUnA3dTFldjFseVdsdlhVWHPSAYcBQVVfeXFMTjdFb1c1dHA5TmR3a3BZT1NmdWpuNmxWWHd4NkVzaTZzSE52c3VvNmJwd3pwXzNUN2lKQTkwaFFQRlVJOXhCWmhCT05vSjFuM2szdmlNRzJhUzRxTTJjRVNHaGdWOTJHSTFBci1pZzYxYS1UNjBkcVJwN3UxZXYxbHlXbHZYVVhz?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 24, 01:25 PM ET",
     "publishedAt": "2026-07-24T17:25:16+00:00",
     "source": "qz.com",
@@ -9,18 +45,6 @@
     "summary": "qz.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPTktncXZXM0d4X20ybTYxNElVeUx6bTMzNkN4OEhrRTZSZ005Z1dCWjUxb21mQnJpZmRsU0pycXZqWUl1QVNfRHFLNUlCLTZoa3BQejBxVEtWdEZELWJNQ2tCd09ZMVlrdDNz?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 24, 01:16 PM ET",
-    "publishedAt": "2026-07-24T17:16:00+00:00",
-    "source": "9to5Mac",
-    "title": "Anthropic upgrades Claude with new Opus 5 model, details here",
-    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeS1xc0pYVDJNdWF5ZE5qaUJ1QlpOVERNa2JGV053dHZPcWI3YzRDMEREODQ5NVlBaGs1WThZX3VYR0VZa0lCbnREakxuYnBiSDR2ZW02WU1yeHE4SEx1N0RzcTR2aDN3bkNWRUloSXltVHRYTFE2aVhLa3FTNjFMMEJhbUJCMkgxWXhwdDFackNfRU52bkkw?oc=5",
     "difficulty": "News"
   },
   {
@@ -45,18 +69,6 @@
     "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVjSTNCT2dCd2dyTkFLUEFTdDNzTzJnUUdfbkFwNWlwcHp0aVpUcEthUFRKNXhkczBuSUhqdkEzLTlKaVRiWkFlRG9PdkVvenNUWUxvOG8wZlNOLTh2VHJpZ0NxN2ZHTDg4MkJWY1RvNVJ5R2MxWmNrY1F6UEdqOXNUVnhBNjI4N1p0OVdKcjR3dzFzemFlYk12bW5TOFNxMTRkRDdfXzFkWlFiWTl2ZDhELV9oWnBDaTNYODVxODRnQU9XcjFMSlhZNTk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 24, 01:00 PM ET",
-    "publishedAt": "2026-07-24T17:00:00+00:00",
-    "source": "ZDNET",
-    "title": "Claude Opus 5 arrives with near Fable performance at half the price",
-    "summary": "ZDNET is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnlkVk1YY3JnZUNiVjh6MzcwaHRzeWR5ZDktb2JFMEVpc1NxUGJVaUNDTTFOSnZjVlZNb0FzYTFURUZQLVNXUFE0d3VDU3lYOGg1SWxwSTF1SmIyZzBmdGVRdmc3STBJNE9PQTBuR0R0dXZpbElSU1lRaHVRUzQxaDBObm4zNUFSOFNGU3JB?oc=5",
     "difficulty": "News"
   },
   {
@@ -285,18 +297,6 @@
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
     "difficulty": "News"
   },
   {
