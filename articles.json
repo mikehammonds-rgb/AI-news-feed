@@ -12,6 +12,30 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 24, 12:19 AM ET",
+    "publishedAt": "2026-07-24T04:19:17+00:00",
+    "source": "Memeburn",
+    "title": "Gemini AI Review 2026: Features, Pricing & Verdict",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YWmZqQnVNZml1bHBWQVI5WFdwNlFlWXF4eW55MkR3bDlZNWNLUzhDcHFaZkI1WkxJYlFpeEdkYU90Y2FHaXM3UnhMOW03VGM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 23, 04:30 PM ET",
+    "publishedAt": "2026-07-23T20:30:14+00:00",
+    "source": "Yahoo Tech",
+    "title": "I automated my Windows clipboard with Claude to process copied text automatically",
+    "summary": "Yahoo Tech is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVEcydG1nQThRRFpIWHQ5Yk11OE9UM3k0bzVMTFZtcTlEemRRa3dRRGJBNTRBcGRGdE5MWlprVTE1cmt1VFExU1QtVDA0dVd4b3RxUnR5S1lVYXR3c21mNXJaZjRXcVN6UWlndkVBUDZXNmpydzhpVkFmdnZlcHMyX2RLc2JFcFoxOWhwZzh3VzF4ZExwYTVfd0NNR0duM2ds?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 23, 04:30 PM ET",
@@ -21,30 +45,6 @@
     "summary": "PR Newswire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdWtCT3BmTUNnTHVkMDNMNWNFb25yekRMS3NlUVFFZjRfZEFRRTdnTXI3SUFRZHBwVjREUmtORVdBWVZTek8taGFPZno1cVAwOHdza0tWX0NrZEtSaUtqODRyWWVrVjJTa2FuVzNqd05GMGpNcXJ1RUtGSDdDMTNXWDVMMllEek1xenBwWHlxRzh4Y3VYbjhDR245UzItaURndEpsQ0Jpb1AydzR4NzN6THJqRGU0NnJmS0FHNTFQcUZjTGVvZ3h3UWpIN29WbkR1Q0tIUVBhRVZPYjFGV21IZVBSOXdDWUVMRk1hNV8wcUlYN2pDTmYxTzdFVWIySlhMSjktcFhQd3BrX3M?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 23, 03:26 PM ET",
-    "publishedAt": "2026-07-23T19:26:37+00:00",
-    "source": "techi.com",
-    "title": "Google shipped three Geminis. The one you can't buy is the story",
-    "summary": "techi.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wUk9rc3RYalFWVjZadGVhN3R3eTZMZ2xvU0FGaktrYzA3RGdiRVRKLUQxSHVCTi02ck1yemI3VEZXa1JXNlBWaWhEWF9abjJxUTh4WVMyTWg5SWNmNmE2T24xU2VHdHFsR2pWUUlPUDIyZ293?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 23, 12:22 PM ET",
-    "publishedAt": "2026-07-23T16:22:25+00:00",
-    "source": "InfoWorld",
-    "title": "Gemini 3.5 Pro is late but Gemini 4 will be great, says Google CEO",
-    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSy1tMDdyU1VhSnB3elVPeWxxUi0tTURaNko2VlZCYkxLeGx6WHdLVG5vekUxRXNXR1JRaWI0Wjk4Q2s2MjZWUG9hMzhERXY3X053a1cxUXl4NndxekJTUWRhMHNIMHhrNWwwRGd2SS1hQkRvZnJlRzBwVUJ4TkVGeWlDWWw5VUFvSWFwZ2ZBR2NBMkFSYW1aSTRnT0F4UktqSnRyWEE4Ty1iVU9jUGNQYXo5RWl4NXc2djZYdXVXSVFVd0VEWWtUV0htQlFrLWZFc3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,18 +69,6 @@
     "summary": "Security Info Watch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSUV1SHlrQjRSV2hKMWFrV1RLTFVKNVRCeFhfTEt6UmlrWXpxaENoenNmM3lDcml5cWMxMVJCd1dFZDRmeXJNR29LODZOcDR6ckh4ZTMxME5CT25aQTJySUxObk9Xa1RUd1NyT01DT0dQNUYyc20zT216dFpQSFdmaFpReVh6a0xvMUpHNWJ2ZlMtN3RmX09HYmVxbzU0WUNRdzhsTUgzUkQzV0JISU5TeXRzUlFTX0tiUGMzandYQzNKRUk2X1hSQkVCbXhwaVNLSFNBVl9CSU9HMVpyMnJmMEdKUVJ6b0RKRTFSM2RUcmx3UG1lNzk0YS13Q1JWNkVjRmc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 23, 09:12 AM ET",
-    "publishedAt": "2026-07-23T13:12:21+00:00",
-    "source": "Help Net Security",
-    "title": "How attackers hosted a fake Claude download page on the claude.ai domain",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1V6cEUtbTB0NlpJcmhTRnl0bDJlR05QdGdPOWMwNEZURHBQYUZhUGhLZWZNOUdrRmhFdUF5ME1IRVVkTi1kZnVpVkpxeWd3Qjlna3djdzRrcWFEYWhzcHhkSlZ5WUluQjBNd2lSZnlFZlZlcjdTTlRYTWNkajAyaThKVXVxTTVkbWRFaWZMaXo?oc=5",
     "difficulty": "News"
   },
   {
@@ -129,6 +117,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcHVDWlhTUnQxUFZyXzdETmJwNldybmcxT0ZURjhUS2UzS1kxclZYZ3JlTXRiZy1OTnFWbUJONnUwdDhXZzVQa1hicWxXdTYtZXZFSXhpQ3RYNDlKRGdtaW1zMHBOaGM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 22, 03:35 AM ET",
+    "publishedAt": "2026-07-22T07:35:26+00:00",
+    "source": "Techzine Global",
+    "title": "New Gemini 3.6 and 3.5 models improve development and security",
+    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1VlT19Kelh3bzZHX0JzRldwR0tDZUpyWE1tN2tGdU4zODlZYmlyeGV6VXJXZThlTzRHaFlYOTh3SEp2TFFCcWM2NGYyVWRuaXQwSjBqbldfeDNUN1RmRWRLY2R1c2JHUVVfYzJMaXJ0YVJ5N19nRmR1akc4NFNwb1ZDZmxXVUNGRTJWaVJwX0ctWlFTM0tFQ3RHQmdfRWVpWm4zWG1fV1hPcTdaTFE?oc=5",
     "difficulty": "News"
   },
   {
