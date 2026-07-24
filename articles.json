@@ -2,6 +2,30 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 24, 01:25 PM ET",
+    "publishedAt": "2026-07-24T17:25:16+00:00",
+    "source": "qz.com",
+    "title": "Anthropic launches Claude Opus 5 at half the price of Fable 5",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPTktncXZXM0d4X20ybTYxNElVeUx6bTMzNkN4OEhrRTZSZ005Z1dCWjUxb21mQnJpZmRsU0pycXZqWUl1QVNfRHFLNUlCLTZoa3BQejBxVEtWdEZELWJNQ2tCd09ZMVlrdDNz?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 24, 01:16 PM ET",
+    "publishedAt": "2026-07-24T17:16:00+00:00",
+    "source": "9to5Mac",
+    "title": "Anthropic upgrades Claude with new Opus 5 model, details here",
+    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeS1xc0pYVDJNdWF5ZE5qaUJ1QlpOVERNa2JGV053dHZPcWI3YzRDMEREODQ5NVlBaGs1WThZX3VYR0VZa0lCbnREakxuYnBiSDR2ZW02WU1yeHE4SEx1N0RzcTR2aDN3bkNWRUloSXltVHRYTFE2aVhLa3FTNjFMMEJhbUJCMkgxWXhwdDFackNfRU52bkkw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 24, 01:00 PM ET",
     "publishedAt": "2026-07-24T17:00:57+00:00",
     "source": "Anthropic",
@@ -16,11 +40,35 @@
     "label": "Claude Code",
     "time": "Jul 24, 01:00 PM ET",
     "publishedAt": "2026-07-24T17:00:00+00:00",
-    "source": "VentureBeat",
+    "source": "Venturebeat",
     "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVjSTNCT2dCd2dyTkFLUEFTdDNzTzJnUUdfbkFwNWlwcHp0aVpUcEthUFRKNXhkczBuSUhqdkEzLTlKaVRiWkFlRG9PdkVvenNUWUxvOG8wZlNOLTh2VHJpZ0NxN2ZHTDg4MkJWY1RvNVJ5R2MxWmNrY1F6UEdqOXNUVnhBNjI4N1p0OVdKcjR3dzFzemFlYk12bW5TOFNxMTRkRDdfXzFkWlFiWTl2ZDhELV9oWnBDaTNYODVxODRnQU9XcjFMSlhZNTk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 24, 01:00 PM ET",
+    "publishedAt": "2026-07-24T17:00:00+00:00",
+    "source": "ZDNET",
+    "title": "Claude Opus 5 arrives with near Fable performance at half the price",
+    "summary": "ZDNET is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnlkVk1YY3JnZUNiVjh6MzcwaHRzeWR5ZDktb2JFMEVpc1NxUGJVaUNDTTFOSnZjVlZNb0FzYTFURUZQLVNXUFE0d3VDU3lYOGg1SWxwSTF1SmIyZzBmdGVRdmc3STBJNE9PQTBuR0R0dXZpbElSU1lRaHVRUzQxaDBObm4zNUFSOFNGU3JB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 24, 12:40 PM ET",
+    "publishedAt": "2026-07-24T16:40:04+00:00",
+    "source": "The GitHub Blog",
+    "title": "Claude Opus 5 is now available in GitHub Copilot",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcC1KclhhSTJLLVVhUG83cGJIaWZzbmc3UnFueERxWFZpMmJzV2pwNm9ab2J5bklGbk53bTJaQ3hmZ3kxV3FjMFJNdkpuNGZDWVY4dkdiblI3NGE3V0tvUEVXMEU3eDh4eF82clZzQVBFN0J3Q1AyT1FxRVZjNWxmeFZocGU0SmczbHRCMGt2eklmckIz?oc=5",
     "difficulty": "News"
   },
   {
@@ -57,30 +105,6 @@
     "summary": "Android Authority is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzJraG55TTA5anplU0tqTGRFZkdUUzBYLTZLY3o4Um50bmt6aXFvRGg1elcxQTBoa2ZfRnhTVzUwNGtwZGpmZkV3UUJmWC01ZG16QVRFYlZMTDNBbEZHdVRKYllIVG95SUdnVTlpS1lCUUFuQ1A4LVNtdzAtQ3lEN0NzVjdJT1RFTWw4V0M3UzlhQVkw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 24, 08:54 AM ET",
-    "publishedAt": "2026-07-24T12:54:13+00:00",
-    "source": "Pulse 2.0",
-    "title": "Anthropic Launches 4 Role-Based Certifications And Partners With Pearson On Verified Assessment",
-    "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUxVdmQtYVE4RVhoVGFPZk9SM2RJNG1Xd1R3OHhpMjF6TDFhNV9yUldVWWFqOVl4Y21HZ1FkQzhIZm5NTWFDVFA0NXcwZ1NacnhIZFUwTWk3RkxISl9Ob1dHR3V0MjZQZ25DUmxsR2loVk1RWml4ajhhS2tfZXZfeDlBWm9waG5PZm5JclJqWVBiZkdwXzFDSmwzMl9McTdYdXdFN05Ccl9JLVplcjNFZVFDVGdfQdIBuwFBVV95cUxOeU5UMURwT19WSGVaR0pXOFRvSUdaSm5VeG4zb2JmVkZ3bWoyR0ZIeW5OWlpoVW1QY2xPcHpuTG96R3VmZUprNmJCbTB5WGxlcFgzTnBxZTBQVU5KZDlvaThmWEVDdFM3S3ZKOXZvMkJGR2JTS1cyMV9Ld2F5UXFUSWt2SWlRTVgxUkFZWFRmelVDUVJKSU1XQ0xEVkdiTnUtd010ME8ybmpaLWNldzZlSnFNRkk3aGdDcWVn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 24, 03:01 AM ET",
-    "publishedAt": "2026-07-24T07:01:08+00:00",
-    "source": "HackerNoon",
-    "title": "The Claude Opus 5 Rumor Passed the Screenshot Test, Not the API Contract Test",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRF9EUHUybk1zS3N5T0lNdUYyVHJ1ZVl3bktrUjZZSWVQUUU3c0t0Tzh1UFdXYTdITHpRYUJJVmJ2SVhrNko1eHdUdDNHNzRtRk1xdUd0Qk81ZkRiQUNpeVVVUHhnTDZXelFhcnNOYzhsVUxGWFUwYjZJUnk3cXRpUEExalhmVi01X0w4LTVTRmZHUmMtRkJzc0ZOelJnVkVk?oc=5",
     "difficulty": "News"
   },
   {
@@ -124,9 +148,9 @@
     "label": "ChatGPT",
     "time": "Jul 22, 10:50 AM ET",
     "publishedAt": "2026-07-22T14:50:00+00:00",
-    "source": "VentureBeat",
+    "source": "Venturebeat",
     "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5",
     "difficulty": "News"
@@ -153,18 +177,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcHVDWlhTUnQxUFZyXzdETmJwNldybmcxT0ZURjhUS2UzS1kxclZYZ3JlTXRiZy1OTnFWbUJONnUwdDhXZzVQa1hicWxXdTYtZXZFSXhpQ3RYNDlKRGdtaW1zMHBOaGM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 22, 04:55 AM ET",
-    "publishedAt": "2026-07-22T08:55:21+00:00",
-    "source": "tech-insider.org",
-    "title": "What Is Claude Code, and Why Install It in 2026?",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktqU3dzR0Q5aWlZako5NFhJVHZNOWkzU2d6eVdaa1dQaGFSZ3JXSzNYczg1MEJpMGVzbEx1MHdrODROVnJaNU9VMmdxZ1BtMkMwajRqazc4QVBwS3JaSW14X0NpSjVFRm50WmxqRGtTVXlTY0wxanl5WnphdlRodQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,6 +300,30 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 03:00 AM ET",
+    "publishedAt": "2026-07-09T07:00:00+00:00",
+    "source": "qz.com",
+    "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 09, 03:00 AM ET",
+    "publishedAt": "2026-07-09T07:00:00+00:00",
+    "source": "TechCrunch",
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 08, 03:00 AM ET",
@@ -345,30 +381,6 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Mar 12, 03:00 AM ET",
-    "publishedAt": "2026-03-12T07:00:00+00:00",
-    "source": "Towards Data Science",
-    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
