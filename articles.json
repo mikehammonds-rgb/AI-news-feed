@@ -84,30 +84,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 24, 12:17 PM ET",
-    "publishedAt": "2026-07-24T16:17:43+00:00",
-    "source": "Memeburn",
-    "title": "Gemini AI Review 2026: Features, Pricing & Verdict",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YWmZqQnVNZml1bHBWQVI5WFdwNlFlWXF4eW55MkR3bDlZNWNLUzhDcHFaZkI1WkxJYlFpeEdkYU90Y2FHaXM3UnhMOW03VGM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 24, 04:50 AM ET",
-    "publishedAt": "2026-07-24T08:50:21+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Set Up GitHub Copilot: 13 Steps, 60 Min [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XWE5ySGdHU2tlcHJCeFgxUTR6Z3hlaDhJRW1kMXlDcElPUWV4TTJ0ZWgxQ0RkZm9qenVDNjh5S09ZWWtRVkU1ZWpjem11N094YVQ2eHNEaDY5a1dlLTZGdXhlNDA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 23, 04:30 PM ET",
@@ -146,6 +122,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Jul 22, 10:50 AM ET",
+    "publishedAt": "2026-07-22T14:50:00+00:00",
+    "source": "VentureBeat",
+    "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Jul 22, 10:46 AM ET",
     "publishedAt": "2026-07-22T14:46:12+00:00",
     "source": "OX Security",
@@ -153,6 +141,18 @@
     "summary": "OX Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzBZNTJXZHZadzl3OXp2N0hydDM2WnZCalVqai1jR3R6Mm5KOUF6X2FKaG5vZGdiQTFoUXdjX3ZLRlhwTnBQS01GYWpmdW1kbVBaejhjeW9Vb05OaTZyTTQtNWI0TlJiellRcHVSOGJuRmM3dzRhSUJIbUlxM2dCYmppanVlcUlTYVE3T0lsWkVOUGRwa0E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 22, 08:11 AM ET",
+    "publishedAt": "2026-07-22T12:11:09+00:00",
+    "source": "tech-insider.org",
+    "title": "Best AI Coding Assistants 2026: 7 Tools Ranked + Priced",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcHVDWlhTUnQxUFZyXzdETmJwNldybmcxT0ZURjhUS2UzS1kxclZYZ3JlTXRiZy1OTnFWbUJONnUwdDhXZzVQa1hicWxXdTYtZXZFSXhpQ3RYNDlKRGdtaW1zMHBOaGM?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,6 +213,18 @@
     "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT05DQWVWbzhkN1RNbkg1ZTBwbnNRU0ZaeFQ1cG8ybFB6alpKbWlZTHJ0UTFFRk1nSzRLS0ZyRzJQeXVxYmNnS2NWaF9wNE1TUjZMRER6MjBFV2JialJXU0xaNXpsZUxXMVF2eE1YSWpUUml5ZVBjbDRhbFhxZFpaZmliRDNxd05sUVB5SG1VeXVCYXFEYVNTdUNyZHhZSEYtZG96UGtSNnA2VkRaQXdaOU5icGlXNWNiU1BjWnd5dlN0WVhlM1FiQWtSc2plckdKblN2S2x1Wnk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 21, 01:36 PM ET",
+    "publishedAt": "2026-07-21T17:36:15+00:00",
+    "source": "qz.com",
+    "title": "Google is launching three new AI models, including a security tool to rival Anthropic",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fZEViS0gweDdHcFlwdFByeGg0NGlGejkxZlJjckhvTWRELW5hSnB1T3BScnFxVFlud0hFRURKY1JGbDl4QURsYXBLMmZoVE9PR3VLTFBIT014dFBnekFMQXJfbTRkRjRrUUtGOWw5LTBCQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -278,13 +290,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 08, 03:00 AM ET",
-    "publishedAt": "2026-07-08T07:00:00+00:00",
+    "time": "Jul 09, 03:00 AM ET",
+    "publishedAt": "2026-07-09T07:00:00+00:00",
     "source": "OpenAI",
-    "title": "Introducing GPT-Live",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DVXI2NXkzejZWS2piS0F6aTh4YWlHMVRCT3lkTWdsb2NjYkpnOFpSR0hlNWxBd2swaklLak5JanFpY3dSU3lyUnlyalMwbUVJQXE2MHVSZmQ2dw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5",
     "difficulty": "News"
   },
   {
@@ -333,18 +345,6 @@
     "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MkF3RG52UFhmUUF1MDg1RUk5bGYtZFVlcDBDMm9IWjlmelpjWE9pN2lCMUZLWXQzd2l3V3p2T09VT2NNcm9MQmNrNEh5Y2FuUXBhTEM4TFlYR0tsYmhCSHQwRVN2VXVuTmRVNXBPWdIBdEFVX3lxTE9fbVhOOHdGVkZQbHRkSF9leHZtQU9PcDZBcFl4Um1zd2NCWjc0TWU3bWtmdUhPa081cVNuYmVFUi1QWGNTdkVBcjlFZmJ2RXdKR1VZVEZydGFrcmNVc2J4LTJGVjBjbksySy1NZTlWOGRKeGN1?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jun 01, 03:00 AM ET",
-    "publishedAt": "2026-06-01T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFlUTGtXQUVXQ1BtUXFWNWFwN2RtUDRqMUpXUWRONGQ4Qm1ycGlvRTVfY3RpZXYtSGVvdEwxckdTeUhvRktUelliRTRvNC13akVJczh5WDN0WC0zVmhaM3ctNUV5cjNlYURnZVpKUklNUk5FRzRPcFl0Qm8yckFBNjBZVXA2SWRzXzlLTVg1R29hZjRGN19fQ0V1SXpnSFkyTEMzdlBOVVJXM2pa?oc=5",
     "difficulty": "News"
   },
   {
