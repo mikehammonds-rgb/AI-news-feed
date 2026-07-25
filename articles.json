@@ -1,5 +1,29 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 25, 02:54 PM ET",
+    "publishedAt": "2026-07-25T18:54:34+00:00",
+    "source": "Memeburn",
+    "title": "Google Gemini 4 Training Starts With No 2026 Release Date",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFUFZ0eE1TOXFmVmVFVDgxcUFscmRObGRwXzhTWEZXTVJYWFUyeEZodEp2aXNTRnVBT0c2aG9ZMER3QXl6dmNLdlh0MEYyZkNLTEI4NGdBWjdSdXJOQ0R3ajlkVQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 25, 09:59 AM ET",
+    "publishedAt": "2026-07-25T13:59:50+00:00",
+    "source": "Yellow.com",
+    "title": "OpenAI Lost ChatGPT, Codex And Its APIs For 50 Minutes On Saturday",
+    "summary": "Yellow.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnNFBJRS1uZVZURGdOQ1l1Qk4xaGxhQWlpZWlsUTV1bEpscW9uTkVYb09EWEZ3eEpSOUhtR3Z4YVJlMjRnZ0J6S1FucllvYmNvSzdRdTdNWEp2SzdxZkZEM3hudWZiYVNu?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 25, 07:07 AM ET",
@@ -21,18 +45,6 @@
     "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TY2p5R1U3bUx0a0Q4VTNwaFc1aWlockgtb0N6M2NnbV9DUXFvN2pZMmJ1X1V2VWtFclJ4dFIyNm9VR1JjRVpNTlphNmhra0tLRlBHNzN0ZXdta3hLbjhuR1lJdFkwRW1lQm00REJiUXVMSHN3NTlOS2FR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 25, 05:51 AM ET",
-    "publishedAt": "2026-07-25T09:51:39+00:00",
-    "source": "Gulf News",
-    "title": "ChatGPT down in UAE: OpenAI confirms global outage",
-    "summary": "Gulf News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzFPRTl2dHVFcmtHN2E3UFllZ0Y1QkFoNlpjZFlSZ0cwd2xZOG5IQmVKcGR6SXRHdVMwTU5ja1k3U1JfbWZWS05kMDRidEpYTU9RMWNFM0oxek9wUDN3LVAwOUZRZ0p0WlA3bVpELW9jSi1heEswNFcyZkphbW0xTUdiZlRPNWtLaHpmcEZudXZjeE9pZ1gwZ9IBqAFBVV95cUxQVGdWak5VTWRiNkRhSXN0ZnU3eXJCamh3NlpRd0haQ1RfTlBuQzJPM2VBd2h3ZnpWazZaMkVzdXRhTFhhVUQ4SUdlN0pjM2V4ejZ0RmZ3dTM1cWhFWUNjRk55eUEwNmJ6NmxNem83VWlyVl9IbWFzWU1GNmtDamo3RUc1Mk1nVjk3YjJiQWs3UWhvNWQwd1RkTzJpaFA4Q2FDRmlmcHdpLXg?oc=5",
     "difficulty": "News"
   },
   {
@@ -172,9 +184,9 @@
     "label": "ChatGPT",
     "time": "Jul 22, 10:50 AM ET",
     "publishedAt": "2026-07-22T14:50:00+00:00",
-    "source": "VentureBeat",
+    "source": "Venturebeat",
     "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5",
     "difficulty": "News"
@@ -261,18 +273,6 @@
     "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT05DQWVWbzhkN1RNbkg1ZTBwbnNRU0ZaeFQ1cG8ybFB6alpKbWlZTHJ0UTFFRk1nSzRLS0ZyRzJQeXVxYmNnS2NWaF9wNE1TUjZMRER6MjBFV2JialJXU0xaNXpsZUxXMVF2eE1YSWpUUml5ZVBjbDRhbFhxZFpaZmliRDNxd05sUVB5SG1VeXVCYXFEYVNTdUNyZHhZSEYtZG96UGtSNnA2VkRaQXdaOU5icGlXNWNiU1BjWnd5dlN0WVhlM1FiQWtSc2plckdKblN2S2x1Wnk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 21, 01:36 PM ET",
-    "publishedAt": "2026-07-21T17:36:15+00:00",
-    "source": "qz.com",
-    "title": "Google is launching three new AI models, including a security tool to rival Anthropic",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fZEViS0gweDdHcFlwdFByeGg0NGlGejkxZlJjckhvTWRELW5hSnB1T3BScnFxVFlud0hFRURKY1JGbDl4QURsYXBLMmZoVE9PR3VLTFBIT014dFBnekFMQXJfbTRkRjRrUUtGOWw5LTBCQQ?oc=5",
     "difficulty": "News"
   },
   {
