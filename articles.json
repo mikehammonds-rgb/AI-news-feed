@@ -1,17 +1,5 @@
 [
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 25, 02:54 PM ET",
-    "publishedAt": "2026-07-25T18:54:34+00:00",
-    "source": "Memeburn",
-    "title": "Google Gemini 4 Training Starts With No 2026 Release Date",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFUFZ0eE1TOXFmVmVFVDgxcUFscmRObGRwXzhTWEZXTVJYWFUyeEZodEp2aXNTRnVBT0c2aG9ZMER3QXl6dmNLdlh0MEYyZkNLTEI4NGdBWjdSdXJOQ0R3ajlkVQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 25, 09:59 AM ET",
@@ -45,6 +33,18 @@
     "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TY2p5R1U3bUx0a0Q4VTNwaFc1aWlockgtb0N6M2NnbV9DUXFvN2pZMmJ1X1V2VWtFclJ4dFIyNm9VR1JjRVpNTlphNmhra0tLRlBHNzN0ZXdta3hLbjhuR1lJdFkwRW1lQm00REJiUXVMSHN3NTlOS2FR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 25, 05:56 AM ET",
+    "publishedAt": "2026-07-25T09:56:00+00:00",
+    "source": "The Times of India",
+    "title": "ChatGPT is down for thousands globally: Here's what issues users are facing",
+    "summary": "The Times of India is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGZpSkpEd0RKRkU5Q0wtNFZ5LUtpWEtfT183MkdwZ1RJbXVuQVRnaTZJR3AtRXdMaG9uTmRoU0haNThKWVhuMkt1ejdqZjZzR3VpWXgtdmlZY2l5Y2pYTkp0dHIwM2M3QXZSWHpEeG5TLWU4Z3BVX0MtZHdFaVRrSGFnUmkxMVp3N1JLXzVvS25pOEloX0J6aEhqUDFhdF96M29yeW10ZlVNUHNQVHczYi1yQ3BwSDAxM2ZlMjVCRnRLdDNadjYwYkJrYURSV1VTR2IwVmhGTjdmR0d6SW5qUjJmWF9WdnAyZU9OeNIB8gFBVV95cUxPczFVanBRdi1MaHNzVWt3YVFlaUp0TDJZdXV1N3lwMVFXdmZhOURYcHYtUDZLeGlDendueF9NSGE0RHEwVFZuaXZyTWtxczZuWC12dVltTUVwR0FqZHhNTUFINkZHTlNVMzUxM0xzdVh5WkFwdm1iOEhDN0tUOTRUdjY2cVRicmRFcm43b2hHRGRmNWJNOVVLNmZPYjJJb0piNXg5bHRJUEdfQy01Q3RFOVZiYmsxZ193UzRSS0p5WXR2VzU4NGxCVFhyWVh2VHFLWmZid0paUjd1Yk9HcElVZWtvLVgycDEtR1Ffc3pMLUp1QQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -184,9 +184,9 @@
     "label": "ChatGPT",
     "time": "Jul 22, 10:50 AM ET",
     "publishedAt": "2026-07-22T14:50:00+00:00",
-    "source": "Venturebeat",
+    "source": "VentureBeat",
     "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
-    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5",
     "difficulty": "News"
@@ -273,6 +273,18 @@
     "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT05DQWVWbzhkN1RNbkg1ZTBwbnNRU0ZaeFQ1cG8ybFB6alpKbWlZTHJ0UTFFRk1nSzRLS0ZyRzJQeXVxYmNnS2NWaF9wNE1TUjZMRER6MjBFV2JialJXU0xaNXpsZUxXMVF2eE1YSWpUUml5ZVBjbDRhbFhxZFpaZmliRDNxd05sUVB5SG1VeXVCYXFEYVNTdUNyZHhZSEYtZG96UGtSNnA2VkRaQXdaOU5icGlXNWNiU1BjWnd5dlN0WVhlM1FiQWtSc2plckdKblN2S2x1Wnk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 21, 01:36 PM ET",
+    "publishedAt": "2026-07-21T17:36:15+00:00",
+    "source": "qz.com",
+    "title": "Google is launching three new AI models, including a security tool to rival Anthropic",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fZEViS0gweDdHcFlwdFByeGg0NGlGejkxZlJjckhvTWRELW5hSnB1T3BScnFxVFlud0hFRURKY1JGbDl4QURsYXBLMmZoVE9PR3VLTFBIT014dFBnekFMQXJfbTRkRjRrUUtGOWw5LTBCQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,18 +381,6 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
     "difficulty": "News"
   }
 ]
