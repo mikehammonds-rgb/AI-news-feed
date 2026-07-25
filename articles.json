@@ -48,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 25, 05:45 AM ET",
-    "publishedAt": "2026-07-25T09:45:43+00:00",
-    "source": "Moneycontrol.com",
-    "title": "ChatGPT down: Users are facing issues with login, chats and more across web and app",
-    "summary": "Moneycontrol.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR0djdTczbFdMU0tuNm15WjVqY3h2Q3d6UUF1RUF3TGV2TVJrampEZGVsUklDX3hqVEo3UVZZVkhiUVFHa1pqeGxPaDRvT3NYSjVaYkJjY3dSX2pESWIxQ3JkRmFLZVg1YVd1MGozaFBZeDZXbzZZZTliaHZLRGVNMjByMGxRWXgtVkJnR2FKTF9wNFFueGVrdzdNR3pJcVVDd2VxeXEtNVozMUs2Uy1xbG8zYjdQLVNVaHR6LW41T25SSGJfZ3VTX0FtakR3RTcxWWVHX09XYlFzMXPSAeABQVVfeXFMTWZZTzRzcEV4YXlYNy1GMHpNQXV2a0M3WGJFYTY5OElsRGxBYVBpQnlUYVF0RFJNQWZRcG5MN25hcmRNVWx1dC1mYzJJbEFSamhjZWRsVWRkOFBuR19zRk4yclgtY0hSNF9vLWdrVVR2QVd5Rmd5bC0xenN0Y2lBc0NQWm5NV21DZGZJZktLX1llQ09NcEp4OHdGdnFGend5YTNTN21XMk9YdnlnY2N3dW42cXF1RWo4U1AwalhIT1kxeUVFZ2lUZXdIdV9aOTBJWWw1VVJFSlNBdVlhZ1VQbnA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 25, 05:37 AM ET",
@@ -216,6 +204,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 22, 04:55 AM ET",
+    "publishedAt": "2026-07-22T08:55:21+00:00",
+    "source": "tech-insider.org",
+    "title": "What Is Claude Code, and Why Install It in 2026?",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktqU3dzR0Q5aWlZako5NFhJVHZNOWkzU2d6eVdaa1dQaGFSZ3JXSzNYczg1MEJpMGVzbEx1MHdrODROVnJaNU9VMmdxZ1BtMkMwajRqazc4QVBwS3JaSW14X0NpSjVFRm50WmxqRGtTVXlTY0wxanl5WnphdlRodQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 22, 03:35 AM ET",
@@ -360,18 +360,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 06, 03:00 AM ET",
-    "publishedAt": "2026-06-06T07:00:00+00:00",
-    "source": "CyberSecurityNews",
-    "title": "Anthropic's Claude Services Down — claude.ai, Claude Code, and Cowork Affected [Updated]",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MkF3RG52UFhmUUF1MDg1RUk5bGYtZFVlcDBDMm9IWjlmelpjWE9pN2lCMUZLWXQzd2l3V3p2T09VT2NNcm9MQmNrNEh5Y2FuUXBhTEM4TFlYR0tsYmhCSHQwRVN2VXVuTmRVNXBPWdIBdEFVX3lxTE9fbVhOOHdGVkZQbHRkSF9leHZtQU9PcDZBcFl4Um1zd2NCWjc0TWU3bWtmdUhPa081cVNuYmVFUi1QWGNTdkVBcjlFZmJ2RXdKR1VZVEZydGFrcmNVc2J4LTJGVjBjbksySy1NZTlWOGRKeGN1?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 24, 03:00 AM ET",
@@ -381,6 +369,18 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "May 20, 03:00 AM ET",
+    "publishedAt": "2026-05-20T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
     "difficulty": "News"
   }
 ]
