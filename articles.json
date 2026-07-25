@@ -48,6 +48,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 25, 03:21 AM ET",
+    "publishedAt": "2026-07-25T07:21:15+00:00",
+    "source": "WeRSM",
+    "title": "Claude Opus 5 Makes The AI Race More Practical",
+    "summary": "WeRSM is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oN2poT0hWUWE2ZjhueFUyN21uaUlGS005WXdDcGZBcTV2ZENoaGt0aE5laEFna0ZiWlBvSE1iUk50QXFWRWw0U0FWZXNvWTRuMThlYnFBWGpfQlZMYWNXQ2RRQ3ljUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 24, 09:43 PM ET",
@@ -69,18 +81,6 @@
     "summary": "SitePoint is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbEVhNE1ybnNkNmUtR3Vzb0ZxN1VPcFJEcjBrRE1RTUtlZF80bHRwel9IcEFMS2hDQl95QThCYTU5Z0NGbk41N3M1NktMNGVhZDNUSGhvMVhOOW1zNWo0MjVMaDFvT3JNWklVSG5BODhsR2Q3a091Wm1jQjZrVGwxbDNkQnpZRkhMUjU1eHhn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 24, 05:14 PM ET",
-    "publishedAt": "2026-07-24T21:14:54+00:00",
-    "source": "Tech My Money",
-    "title": "Claude Opus 5 Nears Fable 5 At Half The Cost",
-    "summary": "Tech My Money is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0VvVzV0cDlOZHdrcFlPU2Z1am42bFZYd3g2RXNpNnNITnZzdW82YnB3enBfM1Q3aUpBOTBoUVBGVUk5eEJaaEJPTm9KMW4zazN2aU1HMmFTNHFNMmNFU0doZ1Y5MkdJMUFyLWlnNjFhLVQ2MGRxUnA3dTFldjFseVdsdlhVWHPSAYcBQVVfeXFMTjdFb1c1dHA5TmR3a3BZT1NmdWpuNmxWWHd4NkVzaTZzSE52c3VvNmJwd3pwXzNUN2lKQTkwaFFQRlVJOXhCWmhCT05vSjFuM2szdmlNRzJhUzRxTTJjRVNHaGdWOTJHSTFBci1pZzYxYS1UNjBkcVJwN3UxZXYxbHlXbHZYVVhz?oc=5",
     "difficulty": "News"
   },
   {
