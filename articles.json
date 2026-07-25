@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 25, 07:07 AM ET",
+    "publishedAt": "2026-07-25T11:07:48+00:00",
+    "source": "Tech Times",
+    "title": "Claude Opus 5 Hacked Enterprise Networks in 8 of 10 Government Tests, Safety Card Shows",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUmg1czdTRFVJYXNpdDAzU1prVHdjN0lHbGVwdGd5QkRTTUJjN3pnV19SR0RLVURWUnFkeFc5azJTVXQ0WFlPZ3psM3Jkckw2MUUyNkFQSnk1RmMxbGEtZjYyMmVMeXBuTGl6S0dOTkdSa19hUG9VM1FQZTFmdmhBUi1oX05pR2hXQTBjUUEwMkl5WlBOemxDdGFOSjBBN2NFS1l1SnRLVkpSbWNoa1B1eXFHd1hubVJscmVhY21fOWdVVkdDaDlzLTFlUTBqNHNI?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 25, 06:01 AM ET",
@@ -38,25 +50,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 25, 03:47 AM ET",
-    "publishedAt": "2026-07-25T07:47:00+00:00",
-    "source": "Notebookcheck",
-    "title": "Claude Opus 5: more power for the same price, but not for free",
-    "summary": "Notebookcheck is reporting this update. Open the article for the full story.",
+    "time": "Jul 25, 05:37 AM ET",
+    "publishedAt": "2026-07-25T09:37:36+00:00",
+    "source": "the-decoder.com",
+    "title": "Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmpVblFhaDNQcXd1dkkyT0lqR0RqQTJLbW5uLUwwTTgxd2xiaDhNdGgwbTdOa0ZzNExMZC1SXzNPb3d6U2NXUU5EOC1wcWprVEdiRnNqNTdIVEd0akw1RU5FTUtNYVFEc05ndmZCa3hnamR6a2MyNDFMLTZ5d1RCYTVjd2ppd1NrZlEydS11MVZ4TzAyaWdlc0tMbDBkRVZZQnpxZEVBc1E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 25, 03:21 AM ET",
-    "publishedAt": "2026-07-25T07:21:15+00:00",
-    "source": "WeRSM",
-    "title": "Claude Opus 5 Makes The AI Race More Practical",
-    "summary": "WeRSM is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oN2poT0hWUWE2ZjhueFUyN21uaUlGS005WXdDcGZBcTV2ZENoaGt0aE5laEFna0ZiWlBvSE1iUk50QXFWRWw0U0FWZXNvWTRuMThlYnFBWGpfQlZMYWNXQ2RRQ3ljUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd3dndnBYZjY0MVBWTjAtNGFYMmFkVUFEUHZmMkZpWVBscjh2VGlRNlJSREdfV3ZmNURtcWVWeTNhYnRudEU3eUhMMkt6bTBRNGRkS2I3WTMwWU5IcmxLdGFXcm56cGJMcmZoWjlpeWdwSjZlRVpRelhFcTkza01tdkZjcGNOQjBKa0JlOFV1bGtRSGJwVkRDb2h3STRKRVN5NEJmM1Q3aVZtUzBRQURlaXpxUENyWHFQZVk0LVBrdUM2QlZm?oc=5",
     "difficulty": "News"
   },
   {
