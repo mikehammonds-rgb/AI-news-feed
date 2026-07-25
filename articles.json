@@ -60,6 +60,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 25, 05:51 AM ET",
+    "publishedAt": "2026-07-25T09:51:39+00:00",
+    "source": "Gulf News",
+    "title": "ChatGPT down in UAE: OpenAI confirms global outage",
+    "summary": "Gulf News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzFPRTl2dHVFcmtHN2E3UFllZ0Y1QkFoNlpjZFlSZ0cwd2xZOG5IQmVKcGR6SXRHdVMwTU5ja1k3U1JfbWZWS05kMDRidEpYTU9RMWNFM0oxek9wUDN3LVAwOUZRZ0p0WlA3bVpELW9jSi1heEswNFcyZkphbW0xTUdiZlRPNWtLaHpmcEZudXZjeE9pZ1gwZ9IBqAFBVV95cUxQVGdWak5VTWRiNkRhSXN0ZnU3eXJCamh3NlpRd0haQ1RfTlBuQzJPM2VBd2h3ZnpWazZaMkVzdXRhTFhhVUQ4SUdlN0pjM2V4ejZ0RmZ3dTM1cWhFWUNjRk55eUEwNmJ6NmxNem83VWlyVl9IbWFzWU1GNmtDamo3RUc1Mk1nVjk3YjJiQWs3UWhvNWQwd1RkTzJpaFA4Q2FDRmlmcHdpLXg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 25, 05:37 AM ET",
@@ -72,6 +84,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 25, 03:47 AM ET",
+    "publishedAt": "2026-07-25T07:47:00+00:00",
+    "source": "Notebookcheck",
+    "title": "Claude Opus 5: more power for the same price, but not for free",
+    "summary": "Notebookcheck is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmpVblFhaDNQcXd1dkkyT0lqR0RqQTJLbW5uLUwwTTgxd2xiaDhNdGgwbTdOa0ZzNExMZC1SXzNPb3d6U2NXUU5EOC1wcWprVEdiRnNqNTdIVEd0akw1RU5FTUtNYVFEc05ndmZCa3hnamR6a2MyNDFMLTZ5d1RCYTVjd2ppd1NrZlEydS11MVZ4TzAyaWdlc0tMbDBkRVZZQnpxZEVBc1E?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 24, 09:43 PM ET",
@@ -81,18 +105,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuNGt3bzFWWmFLMU5rTW5UdDhmbDhMYXBQeWladmFFbHYwaERJb0RrVnRyMXVCcWY0Wk9vazNGUUJHb2d3MFRVZWEyZGQ0MzZ3NWE4aDJBQ282UXF4NDk1TFYxWUxnM19aQU9PMEs3OA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 24, 05:43 PM ET",
-    "publishedAt": "2026-07-24T21:43:42+00:00",
-    "source": "SitePoint",
-    "title": "Codex 5.3 Production Workflow: When to Use It Over Claude for Complex Refactoring",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbEVhNE1ybnNkNmUtR3Vzb0ZxN1VPcFJEcjBrRE1RTUtlZF80bHRwel9IcEFMS2hDQl95QThCYTU5Z0NGbk41N3M1NktMNGVhZDNUSGhvMVhOOW1zNWo0MjVMaDFvT3JNWklVSG5BODhsR2Q3a091Wm1jQjZrVGwxbDNkQnpZRkhMUjU1eHhn?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,18 +225,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcHVDWlhTUnQxUFZyXzdETmJwNldybmcxT0ZURjhUS2UzS1kxclZYZ3JlTXRiZy1OTnFWbUJONnUwdDhXZzVQa1hicWxXdTYtZXZFSXhpQ3RYNDlKRGdtaW1zMHBOaGM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 22, 04:55 AM ET",
-    "publishedAt": "2026-07-22T08:55:21+00:00",
-    "source": "tech-insider.org",
-    "title": "What Is Claude Code, and Why Install It in 2026?",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktqU3dzR0Q5aWlZako5NFhJVHZNOWkzU2d6eVdaa1dQaGFSZ3JXSzNYczg1MEJpMGVzbEx1MHdrODROVnJaNU9VMmdxZ1BtMkMwajRqazc4QVBwS3JaSW14X0NpSjVFRm50WmxqRGtTVXlTY0wxanl5WnphdlRodQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -360,6 +360,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 06, 03:00 AM ET",
+    "publishedAt": "2026-06-06T07:00:00+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Anthropic's Claude Services Down — claude.ai, Claude Code, and Cowork Affected [Updated]",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MkF3RG52UFhmUUF1MDg1RUk5bGYtZFVlcDBDMm9IWjlmelpjWE9pN2lCMUZLWXQzd2l3V3p2T09VT2NNcm9MQmNrNEh5Y2FuUXBhTEM4TFlYR0tsYmhCSHQwRVN2VXVuTmRVNXBPWdIBdEFVX3lxTE9fbVhOOHdGVkZQbHRkSF9leHZtQU9PcDZBcFl4Um1zd2NCWjc0TWU3bWtmdUhPa081cVNuYmVFUi1QWGNTdkVBcjlFZmJ2RXdKR1VZVEZydGFrcmNVc2J4LTJGVjBjbksySy1NZTlWOGRKeGN1?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 24, 03:00 AM ET",
@@ -369,18 +381,6 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
     "difficulty": "News"
   }
 ]
