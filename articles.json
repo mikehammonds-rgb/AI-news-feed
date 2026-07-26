@@ -288,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 08, 11:01 AM ET",
@@ -381,6 +369,18 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
