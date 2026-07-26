@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 26, 03:58 AM ET",
+    "publishedAt": "2026-07-26T07:58:40+00:00",
+    "source": "TestingCatalog AI News",
+    "title": "Anthropic launched Claude Opus 5 across all platforms",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV1ZTV3gyUWxZRGJJa2U5MmozQy1mMVUta2t2UTFGcnd3TC1wNzhRTDUtTll2ZGkwdjRnQ2pXY2pmMVNkQlZvQXc2a2hPa0Z2akwwaFJoam5EWFl2WEt3ZGZIajJaSUdMNUJIMW9rVXFBRlExYWN5MjdObWVBemJYTUFWNTZ5d1kwd2pKQV93?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 26, 12:18 AM ET",
@@ -36,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 25, 07:07 AM ET",
-    "publishedAt": "2026-07-25T11:07:48+00:00",
-    "source": "Tech Times",
-    "title": "Claude Opus 5 Hacked Enterprise Networks in 8 of 10 Government Tests, Safety Card Shows",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUmg1czdTRFVJYXNpdDAzU1prVHdjN0lHbGVwdGd5QkRTTUJjN3pnV19SR0RLVURWUnFkeFc5azJTVXQ0WFlPZ3psM3Jkckw2MUUyNkFQSnk1RmMxbGEtZjYyMmVMeXBuTGl6S0dOTkdSa19hUG9VM1FQZTFmdmhBUi1oX05pR2hXQTBjUUEwMkl5WlBOemxDdGFOSjBBN2NFS1l1SnRLVkpSbWNoa1B1eXFHd1hubVJscmVhY21fOWdVVkdDaDlzLTFlUTBqNHNI?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 25, 06:01 AM ET",
@@ -60,30 +60,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 25, 05:56 AM ET",
-    "publishedAt": "2026-07-25T09:56:00+00:00",
-    "source": "The Times of India",
-    "title": "ChatGPT is down for thousands globally: Here's what issues users are facing",
-    "summary": "The Times of India is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGZpSkpEd0RKRkU5Q0wtNFZ5LUtpWEtfT183MkdwZ1RJbXVuQVRnaTZJR3AtRXdMaG9uTmRoU0haNThKWVhuMkt1ejdqZjZzR3VpWXgtdmlZY2l5Y2pYTkp0dHIwM2M3QXZSWHpEeG5TLWU4Z3BVX0MtZHdFaVRrSGFnUmkxMVp3N1JLXzVvS25pOEloX0J6aEhqUDFhdF96M29yeW10ZlVNUHNQVHczYi1yQ3BwSDAxM2ZlMjVCRnRLdDNadjYwYkJrYURSV1VTR2IwVmhGTjdmR0d6SW5qUjJmWF9WdnAyZU9OeNIB8gFBVV95cUxPczFVanBRdi1MaHNzVWt3YVFlaUp0TDJZdXV1N3lwMVFXdmZhOURYcHYtUDZLeGlDendueF9NSGE0RHEwVFZuaXZyTWtxczZuWC12dVltTUVwR0FqZHhNTUFINkZHTlNVMzUxM0xzdVh5WkFwdm1iOEhDN0tUOTRUdjY2cVRicmRFcm43b2hHRGRmNWJNOVVLNmZPYjJJb0piNXg5bHRJUEdfQy01Q3RFOVZiYmsxZ193UzRSS0p5WXR2VzU4NGxCVFhyWVh2VHFLWmZid0paUjd1Yk9HcElVZWtvLVgycDEtR1Ffc3pMLUp1QQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 25, 05:37 AM ET",
-    "publishedAt": "2026-07-25T09:37:36+00:00",
-    "source": "the-decoder.com",
-    "title": "Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd3dndnBYZjY0MVBWTjAtNGFYMmFkVUFEUHZmMkZpWVBscjh2VGlRNlJSREdfV3ZmNURtcWVWeTNhYnRudEU3eUhMMkt6bTBRNGRkS2I3WTMwWU5IcmxLdGFXcm56cGJMcmZoWjlpeWdwSjZlRVpRelhFcTkza01tdkZjcGNOQjBKa0JlOFV1bGtRSGJwVkRDb2h3STRKRVN5NEJmM1Q3aVZtUzBRQURlaXpxUENyWHFQZVk0LVBrdUM2QlZm?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 24, 09:43 PM ET",
@@ -93,6 +69,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuNGt3bzFWWmFLMU5rTW5UdDhmbDhMYXBQeWladmFFbHYwaERJb0RrVnRyMXVCcWY0Wk9vazNGUUJHb2d3MFRVZWEyZGQ0MzZ3NWE4aDJBQ282UXF4NDk1TFYxWUxnM19aQU9PMEs3OA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 24, 05:50 PM ET",
+    "publishedAt": "2026-07-24T21:50:46+00:00",
+    "source": "MarkTechPost",
+    "title": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS0JSUzdUZmhBMVJ3bkFpcXFINFdKalE4NU1YZ1lxSnpBazVRWkl4SUx1RTlEYmI3azJKUFJTbXJGYUxzQTM2UkNjektPMGJxVGdRSTNoSE93SkJZTmFrekFiTjEwdEhxMjZkenBDMGx6cDU0OS1zTzhwWWhpX3RqYWY3TUlCaVg5ZmFJZW5meU04Y09kNDdnTXhjTG1mYXlHTG1hY1lTd3NuUlhwZGJ3VFI0M2VjWUQ2eDF0WVBuYXFuOUVfTTVtRWl6N1A3ZG1DMENraWtCNA?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +369,18 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 12, 03:00 AM ET",
+    "publishedAt": "2026-03-12T07:00:00+00:00",
+    "source": "Towards Data Science",
+    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
