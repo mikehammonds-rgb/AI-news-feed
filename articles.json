@@ -14,13 +14,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 26, 08:36 AM ET",
-    "publishedAt": "2026-07-26T12:36:03+00:00",
-    "source": "Global South Opportunities",
-    "title": "Learn With Anthropic in 2026: Free Courses on Claude, AI Fluency, and MCP With Certificates",
-    "summary": "Global South Opportunities is reporting this update. Open the article for the full story.",
+    "time": "Jul 26, 01:31 PM ET",
+    "publishedAt": "2026-07-26T17:31:54+00:00",
+    "source": "trendingtopics.eu",
+    "title": "Anthropic Ships Opus 5: Half The Price of Fable 5 — And Even Better",
+    "summary": "trendingtopics.eu is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yNlVUYXpfVTFZWXlDYzhsc3VhelNfeFZHRUlzeWRNNzBmbGtkN0cyTXRMb0xMYmdGM2tITXJUOHZrRU5Jc0NmbE1vamZXLWxRLUlYZFpwSFZLS3Q3bWFZMWwtaE5qa1YwRzQxTi1Ndw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbjdlS29nWjhCZmVZQjY2T1dtejNrekJBbnJoS052RDRkWU1nbzNnOXFaTV9GRnQ1Zkw4bk1Jb09QdFVOaWNNalBwc1F2Smx6OWN0SHFvRG5IbHVkOWF2TkZsaWE2TVZCOGFOQmt0VXFvR0JIZkxLZEoxN19jRkJyX3NSSWh6aG9IRXRyYWFHbWVCTHVNbDN3MDY4RQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -172,9 +172,9 @@
     "label": "ChatGPT",
     "time": "Jul 22, 10:50 AM ET",
     "publishedAt": "2026-07-22T14:50:00+00:00",
-    "source": "VentureBeat",
+    "source": "Venturebeat",
     "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5",
     "difficulty": "News"
@@ -252,6 +252,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 21, 11:48 AM ET",
+    "publishedAt": "2026-07-21T15:48:38+00:00",
+    "source": "Security Boulevard",
+    "title": "Your AI agent’s config is now the payload: How attackers are targeting the developer agent harness",
+    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNREJONXIxc1pELUNYR09wa0pCVU1wR2RIUmpoTG1YeXMtNTFMOVpLQjhwREJEMGFreFYwTVBPNXdldDMzQmZDM1dPRXZoVlJyaFdvR2trQ2tZT2t4TktPSVJVaXIwSThHN082d0tkMDdJS200UEJVU3pPR25XU2NKdGZ5ZnlKUEM0UVBTQ1NRdFlnT1ZBN0VBSXVMQlNrX0U2V0lsSDB0WlJZeHV3Um42NXBGVFllWVloQzFxRi1Fc1JlMUloQmZSc2J1d3RXYnVJ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 21, 11:29 AM ET",
@@ -290,8 +302,8 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jul 08, 11:01 AM ET",
-    "publishedAt": "2026-07-08T15:01:49+00:00",
+    "time": "Jul 08, 03:00 AM ET",
+    "publishedAt": "2026-07-08T07:00:00+00:00",
     "source": "wiz.io",
     "title": "GhostApproval: A Trust Boundary Gap in AI Coding Assistants",
     "summary": "wiz.io is reporting this update. Open the article for the full story.",
@@ -333,18 +345,6 @@
     "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MkF3RG52UFhmUUF1MDg1RUk5bGYtZFVlcDBDMm9IWjlmelpjWE9pN2lCMUZLWXQzd2l3V3p2T09VT2NNcm9MQmNrNEh5Y2FuUXBhTEM4TFlYR0tsYmhCSHQwRVN2VXVuTmRVNXBPWdIBdEFVX3lxTE9fbVhOOHdGVkZQbHRkSF9leHZtQU9PcDZBcFl4Um1zd2NCWjc0TWU3bWtmdUhPa081cVNuYmVFUi1QWGNTdkVBcjlFZmJ2RXdKR1VZVEZydGFrcmNVc2J4LTJGVjBjbksySy1NZTlWOGRKeGN1?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 29, 03:00 AM ET",
-    "publishedAt": "2026-05-29T07:00:00+00:00",
-    "source": "Fortune",
-    "title": "Exclusive: Microsoft is building a super app that combines coding, chat, and other Copilot AI tools",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
     "difficulty": "News"
   },
   {
