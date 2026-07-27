@@ -1,5 +1,29 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 27, 12:02 PM ET",
+    "publishedAt": "2026-07-27T16:02:02+00:00",
+    "source": "StartupHub.ai",
+    "title": "GitHub Copilot App for Newbies",
+    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlZaSmRxdzh3RktHMlAtYU1VVnY4WFBWM0s1ZUJ1NmVBT0lJcE5HUHBwN1VEOVB4dG1sSndxLVBvYTFmaDhUS0xQeHJGS1FoTnpiZUF0SVJzUFZPcjlxblM1YnpKWlFtRUF6d0xPaG1zSjdJLXFMMGpySVRDQkpBMFJ4X0tfeDg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 27, 12:00 PM ET",
+    "publishedAt": "2026-07-27T16:00:17+00:00",
+    "source": "Built In",
+    "title": "Google Tools: Best Apps for Work, AI, Business and More",
+    "summary": "Built In is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QMzVxTHJwcGZuRkJocFp1M2JWeE9fVnRCdWVIcFQ4R20tQkMyTDA0bFlxek1Yd0lJM0g4dU5wVjA4d21Tc18tYWVUeWVoQ0hSYmZN?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 27, 10:51 AM ET",
@@ -194,18 +218,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 22, 05:53 PM ET",
-    "publishedAt": "2026-07-22T21:53:15+00:00",
-    "source": "Droid Life",
-    "title": "Google Just Teased Its Huge Gemini 4 Release",
-    "summary": "Droid Life is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHBUNzdDNzY0Ukh1U1VOUnZmNzN4azNZOTBldi1xSGZRNEVWZnZtbElaS3R3Nkh3YkhrZ045eXdtbUY3X0lJM2VvQW5IcC0yTURGMVVaRTlTUV9KSTJzbXMyRTdtRENVa1h2Qkw3MVJlVkZSbEpZYVU3N2hxd1JsbzAyTTBMSHJKMXhWT1Nad19vVEZP?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Jul 22, 05:00 PM ET",
     "publishedAt": "2026-07-22T21:00:00+00:00",
     "source": "Northeast Times",
@@ -220,9 +232,9 @@
     "label": "ChatGPT",
     "time": "Jul 22, 10:50 AM ET",
     "publishedAt": "2026-07-22T14:50:00+00:00",
-    "source": "Venturebeat",
+    "source": "VentureBeat",
     "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
-    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5",
     "difficulty": "News"
@@ -237,18 +249,6 @@
     "summary": "OX Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzBZNTJXZHZadzl3OXp2N0hydDM2WnZCalVqai1jR3R6Mm5KOUF6X2FKaG5vZGdiQTFoUXdjX3ZLRlhwTnBQS01GYWpmdW1kbVBaejhjeW9Vb05OaTZyTTQtNWI0TlJiellRcHVSOGJuRmM3dzRhSUJIbUlxM2dCYmppanVlcUlTYVE3T0lsWkVOUGRwa0E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 22, 03:00 AM ET",
-    "publishedAt": "2026-07-22T07:00:00+00:00",
-    "source": "AIMultiple",
-    "title": "Compare 50+ AI Agent Tools in 2026",
-    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Id21adEZYcW8tRkkwWDhVcXpLWWVWejFoWTQxX2ZaVHJveVhfNFpIQ3FuMHpuLTZxLXdlM2szS1pOeW1RSGt3emk5aVpDQQ?oc=5",
     "difficulty": "News"
   },
   {
