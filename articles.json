@@ -24,6 +24,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 27, 02:34 AM ET",
+    "publishedAt": "2026-07-27T06:34:00+00:00",
+    "source": "The Hacker News",
+    "title": "Claude Runs Across Six Surfaces in Your Company. Your Security Team Sees One.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUZoM3pDeGRSay1KYllqd2JDV204ZTlVYWhLcmtKaUxQNUZ0U0pkUXJfWGVBejl4Y2FKNmZrb2lmd1ZDamp3U05UeTFaV201QjlsWnBBWG8tWTZqcjNKNW52SkJzaVk1NWpsa0h3T0ZxUjRma0h4Z3FETmJ6dDNMLVkwSmE3RGpNS2p5MzVFU3NLVldLYzNJU2dR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 27, 12:17 AM ET",
@@ -36,8 +48,8 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 26, 09:38 PM ET",
     "publishedAt": "2026-07-27T01:38:13+00:00",
     "source": "tech-insider.org",
@@ -278,13 +290,13 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jul 21, 11:48 AM ET",
-    "publishedAt": "2026-07-21T15:48:38+00:00",
+    "time": "Jul 21, 01:55 PM ET",
+    "publishedAt": "2026-07-21T17:55:31+00:00",
     "source": "Security Boulevard",
-    "title": "Your AI agent’s config is now the payload: How attackers are targeting the developer agent harness",
+    "title": "Context Engineering for AI Coding Assistants: The Missing Discipline Behind High-Volume Search Interest",
     "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNREJONXIxc1pELUNYR09wa0pCVU1wR2RIUmpoTG1YeXMtNTFMOVpLQjhwREJEMGFreFYwTVBPNXdldDMzQmZDM1dPRXZoVlJyaFdvR2trQ2tZT2t4TktPSVJVaXIwSThHN082d0tkMDdJS200UEJVU3pPR25XU2NKdGZ5ZnlKUEM0UVBTQ1NRdFlnT1ZBN0VBSXVMQlNrX0U2V0lsSDB0WlJZeHV3Um42NXBGVFllWVloQzFxRi1Fc1JlMUloQmZSc2J1d3RXYnVJ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT05DQWVWbzhkN1RNbkg1ZTBwbnNRU0ZaeFQ1cG8ybFB6alpKbWlZTHJ0UTFFRk1nSzRLS0ZyRzJQeXVxYmNnS2NWaF9wNE1TUjZMRER6MjBFV2JialJXU0xaNXpsZUxXMVF2eE1YSWpUUml5ZVBjbDRhbFhxZFpaZmliRDNxd05sUVB5SG1VeXVCYXFEYVNTdUNyZHhZSEYtZG96UGtSNnA2VkRaQXdaOU5icGlXNWNiU1BjWnd5dlN0WVhlM1FiQWtSc2plckdKblN2S2x1Wnk?oc=5",
     "difficulty": "News"
   },
   {
@@ -336,18 +348,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 03:00 AM ET",
-    "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Sonnet 5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 16, 03:00 AM ET",
@@ -357,18 +357,6 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 06, 03:00 AM ET",
-    "publishedAt": "2026-06-06T07:00:00+00:00",
-    "source": "CyberSecurityNews",
-    "title": "Anthropic's Claude Services Down — claude.ai, Claude Code, and Cowork Affected [Updated]",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MkF3RG52UFhmUUF1MDg1RUk5bGYtZFVlcDBDMm9IWjlmelpjWE9pN2lCMUZLWXQzd2l3V3p2T09VT2NNcm9MQmNrNEh5Y2FuUXBhTEM4TFlYR0tsYmhCSHQwRVN2VXVuTmRVNXBPWdIBdEFVX3lxTE9fbVhOOHdGVkZQbHRkSF9leHZtQU9PcDZBcFl4Um1zd2NCWjc0TWU3bWtmdUhPa081cVNuYmVFUi1QWGNTdkVBcjlFZmJ2RXdKR1VZVEZydGFrcmNVc2J4LTJGVjBjbksySy1NZTlWOGRKeGN1?oc=5",
     "difficulty": "News"
   },
   {
