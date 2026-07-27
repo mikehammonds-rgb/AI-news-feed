@@ -1,19 +1,19 @@
 [
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 26, 10:05 PM ET",
-    "publishedAt": "2026-07-27T02:05:12+00:00",
-    "source": "Brave New Coin",
-    "title": "What AI Model Should I Use? The 2026 Guide to ChatGPT, Claude, Gemini, and Grok",
-    "summary": "Brave New Coin is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 27, 02:34 AM ET",
+    "publishedAt": "2026-07-27T06:34:00+00:00",
+    "source": "The Hacker News",
+    "title": "Claude Runs Across Six Surfaces in Your Company. Your Security Team Sees One.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVZ6VXhKTXlwRjlhaUJSU3Y5QV9HVWd5c2FuRTdFRy1aMkdmclI5b0pKVTZVM002dS1sR0N6aG1QTDk0SDdfV21MMUFYU0dQYUVGLWkwSkxDR3pleUZENF94bDg5U1c5cnhsV2NJak9iMlJ4TmVEUGlWcjdjbWU0M1FZUDkxUDV5YXhhUEJuc2NPLWxkSWI1bVcxcXd1MGF2bXlrTlRjZjNQNUFITTlWeg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUZoM3pDeGRSay1KYllqd2JDV204ZTlVYWhLcmtKaUxQNUZ0U0pkUXJfWGVBejl4Y2FKNmZrb2lmd1ZDamp3U05UeTFaV201QjlsWnBBWG8tWTZqcjNKNW52SkJzaVk1NWpsa0h3T0ZxUjRma0h4Z3FETmJ6dDNMLVkwSmE3RGpNS2p5MzVFU3NLVldLYzNJU2dR?oc=5",
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Jul 26, 09:38 PM ET",
     "publishedAt": "2026-07-27T01:38:13+00:00",
     "source": "tech-insider.org",
@@ -60,30 +60,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 26, 02:00 PM ET",
-    "publishedAt": "2026-07-26T18:00:17+00:00",
-    "source": "International Business Times",
-    "title": "Claude Shared Chats Surface in Search Results Containing API Keys and Personal Data",
-    "summary": "International Business Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSnM0amMwNUwzZlloZUxNUll3QTBWYmNUeXY5UktSLVZXaDlzeGh3YTlOV1lmYTlIM0V2UVN2MTdZMVpydi1aMTRudkdZaldadmZrRVA5Qk9mdWVveWFybDNoODE2WmVmeXFBZHpJUWNoNWMxLVdGVzhDaGdJNHViMmVSNXZidHFCbUd6bGY0RWJoeHBVN0c1ejBVUWU5cm43OXp6Mzc4M2ZyajFD?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 25, 09:59 AM ET",
-    "publishedAt": "2026-07-25T13:59:50+00:00",
-    "source": "Yellow.com",
-    "title": "OpenAI Lost ChatGPT, Codex And Its APIs For 50 Minutes On Saturday",
-    "summary": "Yellow.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnNFBJRS1uZVZURGdOQ1l1Qk4xaGxhQWlpZWlsUTV1bEpscW9uTkVYb09EWEZ3eEpSOUhtR3Z4YVJlMjRnZ0J6S1FucllvYmNvSzdRdTdNWEp2SzdxZkZEM3hudWZiYVNu?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 25, 06:01 AM ET",
@@ -93,6 +69,18 @@
     "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TY2p5R1U3bUx0a0Q4VTNwaFc1aWlockgtb0N6M2NnbV9DUXFvN2pZMmJ1X1V2VWtFclJ4dFIyNm9VR1JjRVpNTlphNmhra0tLRlBHNzN0ZXdta3hLbjhuR1lJdFkwRW1lQm00REJiUXVMSHN3NTlOS2FR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 25, 05:31 AM ET",
+    "publishedAt": "2026-07-25T09:31:09+00:00",
+    "source": "BleepingComputer",
+    "title": "OpenAI confirms ChatGPT is down worldwide",
+    "summary": "BleepingComputer is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2ZKLVFHN1diNXBfT2VGVjg1Zld1UUpNSlJqbG5EVkZhcUlLTjVXa3ZOaEw3ZTI1TjN4UmNXUE1MTWM1Wmh5cXFMb0RLRWlGck12b1QtU0E1bkZnWExubVVvUHM3Q3dNdnVwSGx5OGVHUUxZUmxoek53MXAwM2NpdUhQWTBZbkNlcnE4NjZBRzM4bnE2Y1VKTV9jUkZqeGMta0dFc3dFVdIBrAFBVV95cUxQLTdfU0pYV0VwQ3JZY2lMZHRjX3ZmNkp4V1BuR3NhczFKZW5RZjZrajVpaEg5TzJlYlZLYlZ5dld6bkhHYzlxbm0yUTlpYzR3QWNtUFE0eWNTZ3RZUTYwNEplQ1JVeVZVdE1kSEhkNlpXWElTaExJTC1feUNFX1dBa1FkWC14QXpiZnkxZlA0bVBSRTgzbThKNlFVNjY1OFhVRmk0R2JMTm9NYldI?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,15 +108,27 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 24, 11:40 AM ET",
+    "publishedAt": "2026-07-24T15:40:08+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 24, 12:40 PM ET",
-    "publishedAt": "2026-07-24T16:40:04+00:00",
-    "source": "The GitHub Blog",
-    "title": "Claude Opus 5 is now available in GitHub Copilot",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "time": "Jul 23, 04:30 PM ET",
+    "publishedAt": "2026-07-23T20:30:00+00:00",
+    "source": "PR Newswire",
+    "title": "Cyberhaven Extends Data and AI Security Platform with Support for ChatGPT Enterprise and Claude Compliance API Integrations",
+    "summary": "PR Newswire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcC1KclhhSTJLLVVhUG83cGJIaWZzbmc3UnFueERxWFZpMmJzV2pwNm9ab2J5bklGbk53bTJaQ3hmZ3kxV3FjMFJNdkpuNGZDWVY4dkdiblI3NGE3V0tvUEVXMEU3eDh4eF82clZzQVBFN0J3Q1AyT1FxRVZjNWxmeFZocGU0SmczbHRCMGt2eklmckIz?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdWtCT3BmTUNnTHVkMDNMNWNFb25yekRMS3NlUVFFZjRfZEFRRTdnTXI3SUFRZHBwVjREUmtORVdBWVZTek8taGFPZno1cVAwOHdza0tWX0NrZEtSaUtqODRyWWVrVjJTa2FuVzNqd05GMGpNcXJ1RUtGSDdDMTNXWDVMMllEek1xenBwWHlxRzh4Y3VYbjhDR245UzItaURndEpsQ0Jpb1AydzR4NzN6THJqRGU0NnJmS0FHNTFQcUZjTGVvZ3h3UWpIN29WbkR1Q0tIUVBhRVZPYjFGV21IZVBSOXdDWUVMRk1hNV8wcUlYN2pDTmYxTzdFVWIySlhMSjktcFhQd3BrX3M?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,18 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "CNBC",
-    "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 08, 03:00 AM ET",
@@ -348,6 +336,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 06, 03:00 AM ET",
+    "publishedAt": "2026-06-06T07:00:00+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Anthropic's Claude Services Down — claude.ai, Claude Code, and Cowork Affected [Updated]",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MkF3RG52UFhmUUF1MDg1RUk5bGYtZFVlcDBDMm9IWjlmelpjWE9pN2lCMUZLWXQzd2l3V3p2T09VT2NNcm9MQmNrNEh5Y2FuUXBhTEM4TFlYR0tsYmhCSHQwRVN2VXVuTmRVNXBPWdIBdEFVX3lxTE9fbVhOOHdGVkZQbHRkSF9leHZtQU9PcDZBcFl4Um1zd2NCWjc0TWU3bWtmdUhPa081cVNuYmVFUi1QWGNTdkVBcjlFZmJ2RXdKR1VZVEZydGFrcmNVc2J4LTJGVjBjbksySy1NZTlWOGRKeGN1?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "May 24, 03:00 AM ET",
@@ -357,18 +357,6 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "May 20, 03:00 AM ET",
-    "publishedAt": "2026-05-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZkRGhITjNTMXNXYmgyOXZxYm0zMUoyNG9hXzlzQjN2RUx6UTQyVjR1dUxjd3NPdFQwRU81YWJQMm1NczlwRXFkeEhLMzJSMmtVMTM2blVLenc5OWRtYktidmMzSHN1SUJDQ1JlZmxpVno3dzhHNVl5NTBOMVVsZFlZSGIzaVpvOHlib21IeWFZemNLRy1nZnRlVnNIRXYyd0FSOUs5R0J1MHQ0dWtwaWhzSWxxU2NoQ29Ra3hR?oc=5",
     "difficulty": "News"
   },
   {
