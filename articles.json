@@ -1,19 +1,43 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 27, 02:34 AM ET",
-    "publishedAt": "2026-07-27T06:34:00+00:00",
-    "source": "The Hacker News",
-    "title": "Claude Runs Across Six Surfaces in Your Company. Your Security Team Sees One.",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 27, 07:11 AM ET",
+    "publishedAt": "2026-07-27T11:11:00+00:00",
+    "source": "Search Engine Roundtable",
+    "title": "OpenAI ChatGPT Ads Daily Budget Changes, New Features, API & Ad Formats",
+    "summary": "Search Engine Roundtable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUZoM3pDeGRSay1KYllqd2JDV204ZTlVYWhLcmtKaUxQNUZ0U0pkUXJfWGVBejl4Y2FKNmZrb2lmd1ZDamp3U05UeTFaV201QjlsWnBBWG8tWTZqcjNKNW52SkJzaVk1NWpsa0h3T0ZxUjRma0h4Z3FETmJ6dDNMLVkwSmE3RGpNS2p5MzVFU3NLVldLYzNJU2dR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeV9CRVNFZ0h4TWtWenQ2dnRHb18tRnc1c3JfOFBHS29VTFM3X0J6MDBHcmJTalR0cGQzTHpKeDdBTjRvWlpBMm5qYS03RDM2WnAwLWhnUXJZWjdGOWVpUVVxVmowYTROVFljSzNhdG92bjlTQUFXYUQ0UXpWUHoxZWtjNHM?oc=5",
     "difficulty": "News"
   },
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Jul 27, 05:33 AM ET",
+    "publishedAt": "2026-07-27T09:33:17+00:00",
+    "source": "Technology Org",
+    "title": "Anthropic Launches Claude Opus 5 at Half the Price of Fable 5",
+    "summary": "Technology Org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmZDNkxocFpqby10RzFjOEZyWmxCcVpDU3V2cC0xZ0RsUkMzMEIwc1Vzd01pNnRBN3dLbGVzeFhvTWM2OGxxOUdtY2pfWTJRbXJuZ216aEVETWVoczBkdE9Zb2R2UmhtRTZMeEhMVGVzUXBoQVVOV1BTdkpkR09zOWcxdi0xZ1k?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 27, 12:17 AM ET",
+    "publishedAt": "2026-07-27T04:17:37+00:00",
+    "source": "Memeburn",
+    "title": "Gemini AI Review 2026: Features, Pricing & Verdict",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YWmZqQnVNZml1bHBWQVI5WFdwNlFlWXF4eW55MkR3bDlZNWNLUzhDcHFaZkI1WkxJYlFpeEdkYU90Y2FHaXM3UnhMOW03VGM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Jul 26, 09:38 PM ET",
     "publishedAt": "2026-07-27T01:38:13+00:00",
     "source": "tech-insider.org",
@@ -108,6 +132,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 24, 12:40 PM ET",
+    "publishedAt": "2026-07-24T16:40:04+00:00",
+    "source": "The GitHub Blog",
+    "title": "Claude Opus 5 is now available in GitHub Copilot - GitHub Changelog",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcC1KclhhSTJLLVVhUG83cGJIaWZzbmc3UnFueERxWFZpMmJzV2pwNm9ab2J5bklGbk53bTJaQ3hmZ3kxV3FjMFJNdkpuNGZDWVY4dkdiblI3NGE3V0tvUEVXMEU3eDh4eF82clZzQVBFN0J3Q1AyT1FxRVZjNWxmeFZocGU0SmczbHRCMGt2eklmckIz?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 24, 11:40 AM ET",
@@ -153,6 +189,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 22, 05:53 PM ET",
+    "publishedAt": "2026-07-22T21:53:15+00:00",
+    "source": "Droid Life",
+    "title": "Google Just Teased Its Huge Gemini 4 Release",
+    "summary": "Droid Life is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHBUNzdDNzY0Ukh1U1VOUnZmNzN4azNZOTBldi1xSGZRNEVWZnZtbElaS3R3Nkh3YkhrZ045eXdtbUY3X0lJM2VvQW5IcC0yTURGMVVaRTlTUV9KSTJzbXMyRTdtRENVa1h2Qkw3MVJlVkZSbEpZYVU3N2hxd1JsbzAyTTBMSHJKMXhWT1Nad19vVEZP?oc=5",
     "difficulty": "News"
   },
   {
@@ -225,30 +273,6 @@
     "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEpGeVFVOHhpWDFJWURPckg3VzR6Z0hMeWo1UURDQ1dJenFsRmxCLW1Jbnlsa2E1NklQS1BUSTlISG1ucnVIWUpPMFJjbVEzdVhRQ0szdE51MlEweF9yWnhSNWJDWWZuOTNWd0QxVncyMnNxbXctUTlNVkc0S0Z1YVQ5Z1Y2cVQzSjBReXVON0RacU9FU09ndGs5Qlc1MGExemlDSG1uSDBOSjhOX3ExRXFpMTVzaW8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 02:55 PM ET",
-    "publishedAt": "2026-07-21T18:55:45+00:00",
-    "source": "Decrypt",
-    "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
-    "summary": "Decrypt is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVekt0aTBURE1JWDVXSUkwMmxiWEVjVGNkVGgyYUIzMFF1NEx3QTEzdE9jNXYxRTcyMVlhNFpuMWhiTmxJZkZiOU1BRzhJVEw1UzdsSGxRRG8wWHZiOU1KLUlwTXBHXzVtOFl6SVJoMmRiT3hiMTF6MUx0UmRnMlk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 21, 01:36 PM ET",
-    "publishedAt": "2026-07-21T17:36:15+00:00",
-    "source": "qz.com",
-    "title": "Google is launching three new AI models, including a security tool to rival Anthropic",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fZEViS0gweDdHcFlwdFByeGg0NGlGejkxZlJjckhvTWRELW5hSnB1T3BScnFxVFlud0hFRURKY1JGbDl4QURsYXBLMmZoVE9PR3VLTFBIT014dFBnekFMQXJfbTRkRjRrUUtGOWw5LTBCQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,18 +381,6 @@
     "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Mar 12, 03:00 AM ET",
-    "publishedAt": "2026-03-12T07:00:00+00:00",
-    "source": "Towards Data Science",
-    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
