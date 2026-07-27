@@ -1,5 +1,29 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 27, 12:02 PM ET",
+    "publishedAt": "2026-07-27T16:02:02+00:00",
+    "source": "StartupHub.ai",
+    "title": "GitHub Copilot App for Newbies",
+    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlZaSmRxdzh3RktHMlAtYU1VVnY4WFBWM0s1ZUJ1NmVBT0lJcE5HUHBwN1VEOVB4dG1sSndxLVBvYTFmaDhUS0xQeHJGS1FoTnpiZUF0SVJzUFZPcjlxblM1YnpKWlFtRUF6d0xPaG1zSjdJLXFMMGpySVRDQkpBMFJ4X0tfeDg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 27, 08:00 AM ET",
+    "publishedAt": "2026-07-27T12:00:00+00:00",
+    "source": "ALM Corp",
+    "title": "Google Rolls Out Gemini 3.5 Flash-Lite in Search (July 2026)",
+    "summary": "ALM Corp is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lQUxZZV9CdnBId1FpMzB4aGhKYXBla3VULUhBeXFMUUM4WE0wWXBNdk1zYWh3N01DX0k4Z0x0aGh0WnhsLXU5ODFDR0RacjZSTFVBNVJqYmVENUpzNHI0LUwyanZwRXVkWTdXR0p3aDc5aUJuUDlHSkk0Z3ZYZU0?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 27, 07:11 AM ET",
@@ -225,30 +249,6 @@
     "summary": "OX Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzBZNTJXZHZadzl3OXp2N0hydDM2WnZCalVqai1jR3R6Mm5KOUF6X2FKaG5vZGdiQTFoUXdjX3ZLRlhwTnBQS01GYWpmdW1kbVBaejhjeW9Vb05OaTZyTTQtNWI0TlJiellRcHVSOGJuRmM3dzRhSUJIbUlxM2dCYmppanVlcUlTYVE3T0lsWkVOUGRwa0E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 22, 03:35 AM ET",
-    "publishedAt": "2026-07-22T07:35:26+00:00",
-    "source": "Techzine Global",
-    "title": "New Gemini 3.6 and 3.5 models improve development and security",
-    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1VlT19Kelh3bzZHX0JzRldwR0tDZUpyWE1tN2tGdU4zODlZYmlyeGV6VXJXZThlTzRHaFlYOTh3SEp2TFFCcWM2NGYyVWRuaXQwSjBqbldfeDNUN1RmRWRLY2R1c2JHUVVfYzJMaXJ0YVJ5N19nRmR1akc4NFNwb1ZDZmxXVUNGRTJWaVJwX0ctWlFTM0tFQ3RHQmdfRWVpWm4zWG1fV1hPcTdaTFE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 22, 03:00 AM ET",
-    "publishedAt": "2026-07-22T07:00:00+00:00",
-    "source": "AIMultiple",
-    "title": "Compare 50+ AI Agent Tools in 2026",
-    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Id21adEZYcW8tRkkwWDhVcXpLWWVWejFoWTQxX2ZaVHJveVhfNFpIQ3FuMHpuLTZxLXdlM2szS1pOeW1RSGt3emk5aVpDQQ?oc=5",
     "difficulty": "News"
   },
   {
