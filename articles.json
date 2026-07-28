@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 28, 07:43 AM ET",
+    "publishedAt": "2026-07-28T11:43:00+00:00",
+    "source": "PR Newswire",
+    "title": "Hadrius Adds Claude to Its Communications Archive, Bringing Enterprise AI Under Compliance Oversight",
+    "summary": "PR Newswire is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYlA3NTd0eXdVQlo1dU9FN0NyY25nMVVMQ2JiNzNNVE11eV91OEkzOTVQY1Q2dE1qc3hFWkplbzBpR05LNWQxbVlaZFk1VmhqODhfREF4cXp6dDRVZXlDTGtaYklLNWpKbE9LZEstdnBhalNHaFozMG5WbFJJTnJVRlkteko5VHZUekFsSThJai1FU1JKX2RZbE5HTS1QQkFkeG1hOE1INW92VVpwMTctcWZ1NnRxeTJhT21IcEZTamF2OGE0OU96VDF0Q0xkM0pTcU03elYwcTlOTW5VYjRLTEJUbDF0RGt5Sm9R?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 28, 12:17 AM ET",
@@ -84,6 +96,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 26, 09:38 PM ET",
+    "publishedAt": "2026-07-27T01:38:13+00:00",
+    "source": "tech-insider.org",
+    "title": "Grok 4.5 Launches for Coding, Undercuts Opus by 76% [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yVzVTYnNndUl1WFFUcGloMGU0MEFfTDVyVUU4RkNreHJfX1B6emZxVzR3Vmt3cEpacXByenJrWWk3TE84dFgwM3dVbmQ0V2lDTUNJZ3hnV1QydDczZkV4TkliNnRXWXM?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 26, 09:37 PM ET",
@@ -153,18 +177,6 @@
     "summary": "SitePoint is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QRmMzOHljVW5PM0FsTW1RWDJ5ZjhKT29MejRKTFA2U0QzMFBudVRpUHM2d2pwUUZNY3Z2Y1MtT3lNbGFFTTl0cm1lQ1d2Z2MzOElDQ2t6cjFRY2hPSGZfZUt2dVNZZmM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 24, 01:25 PM ET",
-    "publishedAt": "2026-07-24T17:25:16+00:00",
-    "source": "qz.com",
-    "title": "Anthropic launched Claude Opus 5 at half the price of its most powerful AI model",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPTktncXZXM0d4X20ybTYxNElVeUx6bTMzNkN4OEhrRTZSZ005Z1dCWjUxb21mQnJpZmRsU0pycXZqWUl1QVNfRHFLNUlCLTZoa3BQejBxVEtWdEZELWJNQ2tCd09ZMVlrdDNz?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,18 +273,6 @@
     "summary": "OX Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzBZNTJXZHZadzl3OXp2N0hydDM2WnZCalVqai1jR3R6Mm5KOUF6X2FKaG5vZGdiQTFoUXdjX3ZLRlhwTnBQS01GYWpmdW1kbVBaejhjeW9Vb05OaTZyTTQtNWI0TlJiellRcHVSOGJuRmM3dzRhSUJIbUlxM2dCYmppanVlcUlTYVE3T0lsWkVOUGRwa0E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 21, 01:55 PM ET",
-    "publishedAt": "2026-07-21T17:55:31+00:00",
-    "source": "Security Boulevard",
-    "title": "Context Engineering for AI Coding Assistants: The Missing Discipline Behind High-Volume Search Interest",
-    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT05DQWVWbzhkN1RNbkg1ZTBwbnNRU0ZaeFQ1cG8ybFB6alpKbWlZTHJ0UTFFRk1nSzRLS0ZyRzJQeXVxYmNnS2NWaF9wNE1TUjZMRER6MjBFV2JialJXU0xaNXpsZUxXMVF2eE1YSWpUUml5ZVBjbDRhbFhxZFpaZmliRDNxd05sUVB5SG1VeXVCYXFEYVNTdUNyZHhZSEYtZG96UGtSNnA2VkRaQXdaOU5icGlXNWNiU1BjWnd5dlN0WVhlM1FiQWtSc2plckdKblN2S2x1Wnk?oc=5",
     "difficulty": "News"
   },
   {
