@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 28, 12:17 AM ET",
+    "publishedAt": "2026-07-28T04:17:31+00:00",
+    "source": "Memeburn",
+    "title": "Gemini AI Review 2026: Features, Pricing & Verdict",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YWmZqQnVNZml1bHBWQVI5WFdwNlFlWXF4eW55MkR3bDlZNWNLUzhDcHFaZkI1WkxJYlFpeEdkYU90Y2FHaXM3UnhMOW03VGM?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 27, 10:37 PM ET",
@@ -9,6 +21,18 @@
     "summary": "Basic Tutorials is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUdLSTZNZllKQkYwNFAzXzBZME5lM19PWVVROGhWNkxzLXM4UW1fd2NvaE8zQjduUVpoaUVTSzZibnFRYzF0cjV3OGI2LS1YZjRMSzAycV9XaFJkT0NiQkNERFJxY2JpeVBCRTBwZV9BMmhPWUFxSlFqeE9rVm9wVWo2ODU2ek0tN3ZjTGJlelpuV21OakFjY1FET18zYWc0R2NXRGpybFVJQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 27, 06:08 PM ET",
+    "publishedAt": "2026-07-27T22:08:13+00:00",
+    "source": "Mashable",
+    "title": "Want to keep Gemini AI out of your Gmail? Here’s how.",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6WkxBT1huNXRpREZpcm5SUTFSZGM4dERyQVdlQUtiQWRIVnF5N2ZjR0pvVE45czdQUGhQUWF2WXJLWjZIbFVfenBVcDBlcDVfQmlnTWtFZTJkeXpjbWstcG0xUFdJN2Via1FSSlF3?oc=5",
     "difficulty": "News"
   },
   {
@@ -57,18 +81,6 @@
     "summary": "Search Engine Roundtable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeV9CRVNFZ0h4TWtWenQ2dnRHb18tRnc1c3JfOFBHS29VTFM3X0J6MDBHcmJTalR0cGQzTHpKeDdBTjRvWlpBMm5qYS03RDM2WnAwLWhnUXJZWjdGOWVpUVVxVmowYTROVFljSzNhdG92bjlTQUFXYUQ0UXpWUHoxZWtjNHM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 27, 05:33 AM ET",
-    "publishedAt": "2026-07-27T09:33:17+00:00",
-    "source": "Technology Org",
-    "title": "Anthropic Launches Claude Opus 5 at Half the Price of Fable 5",
-    "summary": "Technology Org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmZDNkxocFpqby10RzFjOEZyWmxCcVpDU3V2cC0xZ0RsUkMzMEIwc1Vzd01pNnRBN3dLbGVzeFhvTWM2OGxxOUdtY2pfWTJRbXJuZ216aEVETWVoczBkdE9Zb2R2UmhtRTZMeEhMVGVzUXBoQVVOV1BTdkpkR09zOWcxdi0xZ1k?oc=5",
     "difficulty": "News"
   },
   {
@@ -129,6 +141,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuNGt3bzFWWmFLMU5rTW5UdDhmbDhMYXBQeWladmFFbHYwaERJb0RrVnRyMXVCcWY0Wk9vazNGUUJHb2d3MFRVZWEyZGQ0MzZ3NWE4aDJBQ282UXF4NDk1TFYxWUxnM19aQU9PMEs3OA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 24, 01:25 PM ET",
+    "publishedAt": "2026-07-24T17:25:16+00:00",
+    "source": "qz.com",
+    "title": "Anthropic launched Claude Opus 5 at half the price of its most powerful AI model",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPTktncXZXM0d4X20ybTYxNElVeUx6bTMzNkN4OEhrRTZSZ005Z1dCWjUxb21mQnJpZmRsU0pycXZqWUl1QVNfRHFLNUlCLTZoa3BQejBxVEtWdEZELWJNQ2tCd09ZMVlrdDNz?oc=5",
     "difficulty": "News"
   },
   {
@@ -252,18 +276,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 02:56 PM ET",
-    "publishedAt": "2026-07-21T18:56:27+00:00",
-    "source": "CNET",
-    "title": "Google Releases 3 New Gemini Models, 3.5 Pro Still Not Available",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEpGeVFVOHhpWDFJWURPckg3VzR6Z0hMeWo1UURDQ1dJenFsRmxCLW1Jbnlsa2E1NklQS1BUSTlISG1ucnVIWUpPMFJjbVEzdVhRQ0szdE51MlEweF9yWnhSNWJDWWZuOTNWd0QxVncyMnNxbXctUTlNVkc0S0Z1YVQ5Z1Y2cVQzSjBReXVON0RacU9FU09ndGs5Qlc1MGExemlDSG1uSDBOSjhOX3ExRXFpMTVzaW8?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 21, 01:55 PM ET",
@@ -285,18 +297,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 11:00 AM ET",
-    "publishedAt": "2026-07-21T15:00:25+00:00",
-    "source": "SiliconANGLE",
-    "title": "Google expands Gemini with cheaper models and a bug-hunter it keeps on a leash",
-    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRW1taFlkQzFJN2J5WWdFOGdKYWxnazlEUGhFUmw3c196Sm9mSmw4STRjVHZGaE1sQjVjMGRqRHJMa3NLeFdNQjJIVVRFWUx0bXlEa1JLbUpxS3d2Mzk1RnpQTl82bGlWcXdQVmNMV0plUU8tVXhiM3hGdzgzVDZpSFFfandXeU8taDJvUmQwcVE3X2NVamhORmIxOUg?oc=5",
     "difficulty": "News"
   },
   {
