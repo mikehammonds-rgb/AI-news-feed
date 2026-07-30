@@ -2,6 +2,30 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jul 30, 11:13 AM ET",
+    "publishedAt": "2026-07-30T15:13:01+00:00",
+    "source": "unite.ai",
+    "title": "Google Ships Gemini Robotics ER 2 With Multi-Robot Teamwork",
+    "summary": "unite.ai is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbnQzMW1aczdSMjVQbHdHS2hiMU1obEVNWXFwX1NFNVVWS0NULXJrRGxSdEtlRXY2VnJIeFhoUVdjTWlMTjhEbUNQSVJEQkJGZUVXdWRRTzFsMC00d2E3bXVNTlpLc0tvaXJDQW9IU3M4VXdVcGdWMjRFbkZ3SjBoV3VaLTh5WDg1?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 11:12 AM ET",
+    "publishedAt": "2026-07-30T15:12:58+00:00",
+    "source": "blog.google",
+    "title": "Introducing Gemini Robotics ER 2",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5kVDZidVI2WUlXTUs4UmplRDVCR1hTOUc4RWY3YnFyRjVUZGNVTVlkT1FTdU1WdkZqQmZfX2pTYlJXRHd5dmR1dWpRZFBrSTNDNXlOX2Jmdkw5NmNTb2ZmM3B5YmJUd1kxOUkxcHJTUm9DTlR1RU5hZ0pFbmNNT3Z4WndfWUdPejRReFlib0lUVzlXS2VHeXlsNA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jul 30, 10:18 AM ET",
     "publishedAt": "2026-07-30T14:18:33+00:00",
     "source": "Yahoo Finance",
@@ -16,9 +40,9 @@
     "label": "Gemini",
     "time": "Jul 30, 10:16 AM ET",
     "publishedAt": "2026-07-30T14:16:57+00:00",
-    "source": "Bloomberg",
+    "source": "Bloomberg.com",
     "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
-    "summary": "Bloomberg is reporting this update. Open the article for the full story.",
+    "summary": "Bloomberg.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5",
     "difficulty": "News"
@@ -57,6 +81,18 @@
     "summary": "Stock Titan is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTFjQ0RUQTRNZXkxWnNsVGdoa0plUXVyejEzbHRRemExSmZ1MHlPek5mSVBldjBWclc5eVgzMXd5ek9fRWZZSHFBNUxtNUFXTjA0bnhyb3JVS1lQSWZNc2I4LXJ1VU5xMFFJel9LUGlCRHRWMTEwVUREdmN4MTJjVldkMmdYcG5jRTBlTVM0S0R4Q3ZCYjJLajQ3Wl9TbnJxeXFCQ0FXbVBtZUNURWtGRGxaTnFXMG12NERKUw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 30, 06:19 AM ET",
+    "publishedAt": "2026-07-30T10:19:12+00:00",
+    "source": "tech-insider.org",
+    "title": "Meta Muse Spark 1.1 Debuts: Up to 83% Below Claude [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uQ1U1U1o2aHBFZnBMXzVfUTJoUEJEd3dVd1ZxLWRnelUzWGlPV05tT1J0N25wNWw0dHVzVGpBeUs3YlNJbk1jUGVnNjM5bE5seVM3YXZVRkw1TGxfeHJaVGc3c3RjMnlU?oc=5",
     "difficulty": "News"
   },
   {
@@ -100,9 +136,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 30, 03:07 AM ET",
     "publishedAt": "2026-07-30T07:07:44+00:00",
-    "source": "techweez.com",
+    "source": "Techweez",
     "title": "Microsoft to Merge Copilot, GitHub Copilot, and AI Agents Into One App",
-    "summary": "techweez.com is reporting this update. Open the article for the full story.",
+    "summary": "Techweez is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2M3F3MDh2ZG92Z2UtY1M4U0tyRDdJWjYyQzVvem1QVTFuVENnZ1FFV3Q2SW16Z3A1SDg3WkpPTVRuTG5RaTByaloxNFVvaXE2Uk05MjNCdEQza29KMS1jQVlfel93QzJwTnhlX2ZNbXZadk15S0E?oc=5",
     "difficulty": "News"
@@ -148,9 +184,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 06:44 PM ET",
     "publishedAt": "2026-07-29T22:44:00+00:00",
-    "source": "cnet.com",
+    "source": "CNET",
     "title": "Claude AI Recovering After Widespread Outage on Wednesday",
-    "summary": "cnet.com is reporting this update. Open the article for the full story.",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
@@ -160,9 +196,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 06:17 PM ET",
     "publishedAt": "2026-07-29T22:17:38+00:00",
-    "source": "theverge.com",
+    "source": "The Verge",
     "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-    "summary": "theverge.com is reporting this update. Open the article for the full story.",
+    "summary": "The Verge is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yUnVJZ0dDQURGSkkybkFndHZXSWwyQTA2eDRlUVRLcUlKcm1CNUUzclZjRTRBejlvVEtna2VZb291Sm53NjkxWWdpSHRfa1ZFSzBHMjNkX3JNRTU4X0hhalhSSFlxRWIxNXVPUXU1bC10UTg2Z0RJRjRjQ2ZyS2M?oc=5",
     "difficulty": "News"
@@ -252,30 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 28, 03:00 AM ET",
-    "publishedAt": "2026-07-28T07:00:00+00:00",
-    "source": "Mashable",
-    "title": "Claude is down: What we know about the Anthropic outage",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mUHlCUHNELVRuS0ZMSjVTWDN0ZjNmeFZZQW9KaTRWR2xXRVAyNWJPM2l0eWxwTVJPem5FbkxFYkFGZHd4Sm44TkFUdjNrVXlWNThIcW1FeUpXeFNnZUdqMU9nY1p5cy1DUjAzWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 28, 03:00 AM ET",
-    "publishedAt": "2026-07-28T07:00:00+00:00",
-    "source": "Mashable",
-    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 27, 07:11 AM ET",
@@ -324,18 +336,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 03:00 AM ET",
-    "publishedAt": "2026-07-21T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 10, 03:00 AM ET",
@@ -345,6 +345,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVBxbnNGdDgwZE1Ucmd0WFpOVDJGall6UDZMUjBBWXc0dUNsQ0pfOTZDelBVM1lNcFE3ZmNVc3l3bkJxRmNhVXpYd2VvV2NnUXlDTnVTckd6Z2stcS1HOVBmUjBpem5UVWo1UkFVc1NSUGZ6bldLOHplMlIwYVZvWmMydW1DaW5pbTdJUlZ1M0NBT0ZZQ2IwcWotb3c5eV9rYzBDZDlKbVNyYTE4aXZvQmpNVlRaR2RlUlRScVlSR0g?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 08, 03:00 AM ET",
+    "publishedAt": "2026-07-08T07:00:00+00:00",
+    "source": "wiz.io",
+    "title": "GhostApproval: A Trust Boundary Gap in AI Coding Assistants",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlNtRGVxSU9oRFVoUnBpQzZQVW1fbnBESVdydENXMjd1TEttT0I3cW92ZEZ3c1dwbUJvRFJnOUE1UWd6TVRVUTM5QzFoZVJzY09Da1MzOE82c0laRHBuWUttLWI4UDBoR19SeUJUNEYxYVZrTVFnZDNoNlFZV3pMR2I4SHIyVGZwS2c?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,18 +381,6 @@
     "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MkF3RG52UFhmUUF1MDg1RUk5bGYtZFVlcDBDMm9IWjlmelpjWE9pN2lCMUZLWXQzd2l3V3p2T09VT2NNcm9MQmNrNEh5Y2FuUXBhTEM4TFlYR0tsYmhCSHQwRVN2VXVuTmRVNXBPWdIBdEFVX3lxTE9fbVhOOHdGVkZQbHRkSF9leHZtQU9PcDZBcFl4Um1zd2NCWjc0TWU3bWtmdUhPa081cVNuYmVFUi1QWGNTdkVBcjlFZmJ2RXdKR1VZVEZydGFrcmNVc2J4LTJGVjBjbksySy1NZTlWOGRKeGN1?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "May 29, 03:00 AM ET",
-    "publishedAt": "2026-05-29T07:00:00+00:00",
-    "source": "Fortune",
-    "title": "Exclusive: Microsoft is building a super app that combines coding, chat, and other Copilot AI tools",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
     "difficulty": "News"
   }
 ]
