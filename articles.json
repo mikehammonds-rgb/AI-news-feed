@@ -1,5 +1,29 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 05:05 AM ET",
+    "publishedAt": "2026-07-30T09:05:38+00:00",
+    "source": "the-decoder.com",
+    "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVWdEM00xN3ZxTzMtWUxuc1ExWFJpSTlfWmtVWE5GUVJWcWtJZDRSMldFYVZQUXozcGFuczZhbTY5VWJQbzhQZHBBd240YlFkSFBLeUFoSnZlY3FjbGgtVFBtalgyV3RpMkxvb05oMlRaZlE0S2l5YkkxZFRuR3lTNXItSF9OMzZqaWNjbFlSS01TU3ZvQy0tc2QxY3RGd3JpWGk1dmVzc2dscjQ1SEMyc3g2WDNqSXNhOHYyTVZ1ZFN1Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 30, 04:30 AM ET",
+    "publishedAt": "2026-07-30T08:30:50+00:00",
+    "source": "news.aibase.com",
+    "title": "Microsoft Confirms Development of Copilot AI Super App, Integrating Chat, Coding, and Intelligent Agent Capabilities",
+    "summary": "news.aibase.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZMUJ3MEc0SThLbU5uVW5Da2hDVldFNU5lMlBzbHNxam9IZnZSWGY0bDkwZWJvSEo5T2RvVlhKelNUSFA0UGRNSm9R?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 30, 03:07 AM ET",
@@ -100,9 +124,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 04:03 PM ET",
     "publishedAt": "2026-07-29T20:03:00+00:00",
-    "source": "wionews.com",
+    "source": "WION",
     "title": "Claude AI down? Anthropic confirms outage as users face errors across chatbot and API",
-    "summary": "wionews.com is reporting this update. Open the article for the full story.",
+    "summary": "WION is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmM0UGd3amJiQjJYTU8zRU1tTWg5T0V2Smk3UXNPaDByV3VzRzYxdi1vTVpuNm85Y0MwTkdXeTNEdkI2ZUtDekVlRWVvQVZLRzBVNmNUclFRakVaQ0tZTlBXOU1PbDJGd1U0S0VTYkZ5eGdGdUZpX3M2T2x1Sm92YlIyMVN1Q1NSVWlMc1E0RnR0Ni1vdHAtNDZPSW9ic3pXanZORVZIUVZLMC1lMkNweUxNQnlJeG9xMWdWdUtNMHZFTlUxbkdLYVJuVnlRd9IB0wFBVV95cUxOdkpqY3d5dlhZTzBSREhaMlhUMEJSbjJnMVZCSHpVSW5zVmVrdVZEUHVva2V1SUwyNllaS2VVWEZDemh6T1VVdmpaS3BrWHVrbzM0N0VSQ3psREE2OTdWZlQ0MzFhbW1qbDlBRXR1ck9CS0RGQ25KQnVDSlBIVlA3bk5jTm9kZWlnb1dzMWRDSWEwb1NLRVFpOEl4NkpnUXVodDlxX1VVQU1XUXZfajdiSXNMMng4QXZ3UkI2N3pPazFqSUFyTzczcHRYanQ5WEYtd1dz?oc=5",
     "difficulty": "News"
@@ -160,9 +184,9 @@
     "label": "ChatGPT",
     "time": "Jul 28, 03:00 AM ET",
     "publishedAt": "2026-07-28T07:00:00+00:00",
-    "source": "AIMultiple",
+    "source": "aimultiple.com",
     "title": "GPT-5: Features, Benchmarks, Pricing, and Comparison",
-    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
+    "summary": "aimultiple.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3NUxieHUzZ1VkVGVXUXFMTVBtdlZfbFZENmZyWWRPSmtJRVo3aUdxNmwxTmFjM3dobkotWlMyY1BGZw?oc=5",
     "difficulty": "News"
@@ -185,22 +209,10 @@
     "time": "Jul 28, 03:00 AM ET",
     "publishedAt": "2026-07-28T07:00:00+00:00",
     "source": "Mashable",
-    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
+    "title": "Google launches Nano Banana 2 Lite and Gemini Omni Flash. How to try them now",
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 27, 12:02 PM ET",
-    "publishedAt": "2026-07-27T16:02:02+00:00",
-    "source": "StartupHub.ai",
-    "title": "GitHub Copilot App for Newbies",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlZaSmRxdzh3RktHMlAtYU1VVnY4WFBWM0s1ZUJ1NmVBT0lJcE5HUHBwN1VEOVB4dG1sSndxLVBvYTFmaDhUS0xQeHJGS1FoTnpiZUF0SVJzUFZPcjlxblM1YnpKWlFtRUF6d0xPaG1zSjdJLXFMMGpySVRDQkpBMFJ4X0tfeDg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVZoUEE2UVpPUnVQSlUyQUdCV19VNFJyek1GbjZ4YndFUFB3bXkyZVZoalBIR1VIR1dhMEtKODdOdmF5c3VvbVhuZy1vVVphYWVPV2dtWUxBUnA2ZGJGTDhWODhuajVSNl9JeW9GOGNMLUgyMG5EN3NXbXRlVjJEalVR?oc=5",
     "difficulty": "News"
   },
   {
@@ -242,25 +254,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 25, 06:01 AM ET",
-    "publishedAt": "2026-07-25T10:01:02+00:00",
-    "source": "Unite.AI",
-    "title": "Global Outage Hits OpenAI’s ChatGPT, API and Codex",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "time": "Jul 24, 05:41 PM ET",
+    "publishedAt": "2026-07-24T21:41:33+00:00",
+    "source": "sitepoint.com",
+    "title": "Rubberduck: Emulating OpenAI Locally for Reliable AI Development",
+    "summary": "sitepoint.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TY2p5R1U3bUx0a0Q4VTNwaFc1aWlockgtb0N6M2NnbV9DUXFvN2pZMmJ1X1V2VWtFclJ4dFIyNm9VR1JjRVpNTlphNmhra0tLRlBHNzN0ZXdta3hLbjhuR1lJdFkwRW1lQm00REJiUXVMSHN3NTlOS2FR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 25, 05:31 AM ET",
-    "publishedAt": "2026-07-25T09:31:09+00:00",
-    "source": "BleepingComputer",
-    "title": "OpenAI confirms ChatGPT is down worldwide",
-    "summary": "BleepingComputer is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2ZKLVFHN1diNXBfT2VGVjg1Zld1UUpNSlJqbG5EVkZhcUlLTjVXa3ZOaEw3ZTI1TjN4UmNXUE1MTWM1Wmh5cXFMb0RLRWlGck12b1QtU0E1bkZnWExubVVvUHM3Q3dNdnVwSGx5OGVHUUxZUmxoek53MXAwM2NpdUhQWTBZbkNlcnE4NjZBRzM4bnE2Y1VKTV9jUkZqeGMta0dFc3dFVdIBrAFBVV95cUxQLTdfU0pYV0VwQ3JZY2lMZHRjX3ZmNkp4V1BuR3NhczFKZW5RZjZrajVpaEg5TzJlYlZLYlZ5dld6bkhHYzlxbm0yUTlpYzR3QWNtUFE0eWNTZ3RZUTYwNEplQ1JVeVZVdE1kSEhkNlpXWElTaExJTC1feUNFX1dBa1FkWC14QXpiZnkxZlA0bVBSRTgzbThKNlFVNjY1OFhVRmk0R2JMTm9NYldI?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QRmMzOHljVW5PM0FsTW1RWDJ5ZjhKT29MejRKTFA2U0QzMFBudVRpUHM2d2pwUUZNY3Z2Y1MtT3lNbGFFTTl0cm1lQ1d2Z2MzOElDQ2t6cjFRY2hPSGZfZUt2dVNZZmM?oc=5",
     "difficulty": "News"
   },
   {
@@ -280,11 +280,23 @@
     "label": "ChatGPT",
     "time": "Jul 24, 11:40 AM ET",
     "publishedAt": "2026-07-24T15:40:08+00:00",
-    "source": "aws.amazon.com",
+    "source": "Amazon Web Services (AWS)",
     "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
-    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 23, 10:52 AM ET",
+    "publishedAt": "2026-07-23T14:52:44+00:00",
+    "source": "TechCrunch",
+    "title": "Google’s Gemini nears billion-user milestone",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclpDaUN3YlJkY3YxNktBUWh0TG9NTEp4OWxpanpIZXFlak9xSlN5ejdVSFBxZnNJRkpMQlZ0TUQ3bXVPU0RfMWFRY2RTckZDLVZNVFBFS2lSLVhHaTdPa3U0Ql9RY0pPam5ZM2FidTFLS01rV3dadHhGcVI0OVRmbTR2ME1RZWZZUXRHdjYwU09HUmd5Q081T0Z6SQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,18 +321,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 16, 03:00 AM ET",
-    "publishedAt": "2026-07-16T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Expanding Choice in Gemini Enterprise Agent Platform: Introducing Grounding with Parallel Web Search",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTXNmR3FtT3ppZjhieHF3UkdHMF9hRUdDX0p6bDZTekFSYk1mWTRmNU0zOWlPNjVsUXE5eTVOY0stQXVPOUdPd1lFeU9ydFd6NkFKbzhDSmdaS01yZXhGSXVWRnlZampWcnNqUHV4dG95NDlxQ2RmN0l4VmJLY0ZldTllWXZhQU5aNVBrbmYxV1dLeWtCc1piSHNZdmZfZHlYYzJLdXBPem1hbGxqclJkNWNKcXpCZ3lDT0FYckN1aFBGdkRUdkZjQ05oMTEzSDQ?oc=5",
     "difficulty": "News"
   },
   {
