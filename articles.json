@@ -2,13 +2,73 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 30, 11:13 AM ET",
-    "publishedAt": "2026-07-30T15:13:01+00:00",
-    "source": "unite.ai",
-    "title": "Google Ships Gemini Robotics ER 2 With Multi-Robot Teamwork",
-    "summary": "unite.ai is reporting this update. Open the article for the full story.",
+    "time": "Jul 30, 02:51 PM ET",
+    "publishedAt": "2026-07-30T18:51:05+00:00",
+    "source": "AI Business",
+    "title": "Oracle Brings Google Gemini Models to Enterprise Customers",
+    "summary": "AI Business is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbnQzMW1aczdSMjVQbHdHS2hiMU1obEVNWXFwX1NFNVVWS0NULXJrRGxSdEtlRXY2VnJIeFhoUVdjTWlMTjhEbUNQSVJEQkJGZUVXdWRRTzFsMC00d2E3bXVNTlpLc0tvaXJDQW9IU3M4VXdVcGdWMjRFbkZ3SjBoV3VaLTh5WDg1?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY2JYRzluZ1haWTJNRjhqUnBuTmtpak1vMGQxbkNmM0otaGNObHRmeEF3QUh2OWF5M2lnRDlUVHh0emo5YlRGVEMzWUE4YnlhZDFDZXBpQXdZam5wTTlIM0lKWGNEbl9sS0xXUWs5Tm14eGZCN3hsT1hEbWctaHI0NGFNUDhTd3JBZ3p3X3lMSGN3am8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 02:40 PM ET",
+    "publishedAt": "2026-07-30T18:40:29+00:00",
+    "source": "The Register",
+    "title": "Oracle adds Google Gemini to the agent menu",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUERGSm9HeWZPanZIX2YyRTN5LW5qYWpkUmExaWJMTzU0QzgtSi1rcE1PYUZQWkFWdEpjMThUTDFnMWwzRktpdnZGUkJRWTEyWnZfaDFRX3QydkRkdTh4QXhpSGM2M2QyLU9jZTQzR2RxSTVlR05tWC1KSTlHMVFCaTlLWmZ4QXd6YWVDWTVocXlUR0JUYWIwajB1TlQ5TXVTVXc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 02:34 PM ET",
+    "publishedAt": "2026-07-30T18:34:00+00:00",
+    "source": "Notebookcheck",
+    "title": "OpenAI just made its cheapest AI model dramatically cheaper",
+    "summary": "Notebookcheck is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMDdDZmRCSUxJdmYyajlGTzF0a25oeTJKckF1U3g3Rjd3enlndm9FNkp0U1RfUnYxZW9XNWpKRTh2Uk1mNlEySDNZYW5XSTRlM1JLMWFOZXhZSUlmd0hia0NlaC1XemY4V0xGX0NBaVRTN2x2SmoxLTJ0X0lHcEEyX0JKTC1xVDBoMlZOZW53S1dyYlJQN1hzQ1h6d2ZkMVZBWGNTZEpjQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 01:29 PM ET",
+    "publishedAt": "2026-07-30T17:29:01+00:00",
+    "source": "Unite.AI",
+    "title": "OpenAI Cuts API Prices on Its Two Cheaper GPT-5.6 Tiers",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelE2TnJ6eTBRNGQydUNhcEs4c2ZCM2NKSzRKbmJibmY2TnFMME5aRHdNejFsbWczRlNKaUhmR1NpQ0ZHUndXak1mWjUyWGJ2YXNTa3Fqd0dFY0I3ZUxjc21zN2gxWkhHZEc3NVJaWURSNDk3X1VnUjBibmVKRVFWTWlzaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 01:16 PM ET",
+    "publishedAt": "2026-07-30T17:16:22+00:00",
+    "source": "OpenAI",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 12:17 PM ET",
+    "publishedAt": "2026-07-30T16:17:09+00:00",
+    "source": "Memeburn",
+    "title": "Gemini AI Review 2026: Features, Pricing & Verdict",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YWmZqQnVNZml1bHBWQVI5WFdwNlFlWXF4eW55MkR3bDlZNWNLUzhDcHFaZkI1WkxJYlFpeEdkYU90Y2FHaXM3UnhMOW03VGM?oc=5",
     "difficulty": "News"
   },
   {
@@ -72,27 +132,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 30, 09:00 AM ET",
-    "publishedAt": "2026-07-30T13:00:00+00:00",
-    "source": "Stock Titan",
-    "title": "Oracle Plans Gemini AI for Business Apps and Video Creation",
-    "summary": "Stock Titan is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTFjQ0RUQTRNZXkxWnNsVGdoa0plUXVyejEzbHRRemExSmZ1MHlPek5mSVBldjBWclc5eVgzMXd5ek9fRWZZSHFBNUxtNUFXTjA0bnhyb3JVS1lQSWZNc2I4LXJ1VU5xMFFJel9LUGlCRHRWMTEwVUREdmN4MTJjVldkMmdYcG5jRTBlTVM0S0R4Q3ZCYjJLajQ3Wl9TbnJxeXFCQ0FXbVBtZUNURWtGRGxaTnFXMG12NERKUw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Jul 30, 06:19 AM ET",
-    "publishedAt": "2026-07-30T10:19:12+00:00",
-    "source": "tech-insider.org",
-    "title": "Meta Muse Spark 1.1 Debuts: Up to 83% Below Claude [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "time": "Jul 30, 06:30 AM ET",
+    "publishedAt": "2026-07-30T10:30:33+00:00",
+    "source": "finance.biggo.com",
+    "title": "Silicon Valley Turns Against Anthropic: Claude Banned Across the Board, Contractors Rush to Migrate",
+    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uQ1U1U1o2aHBFZnBMXzVfUTJoUEJEd3dVd1ZxLWRnelUzWGlPV05tT1J0N25wNWw0dHVzVGpBeUs3YlNJbk1jUGVnNjM5bE5seVM3YXZVRkw1TGxfeHJaVGc3c3RjMnlU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05QkZqNkZJVHgxM01zUjY0SW5HZmdBSVk4Y3JsNXRQcDhja3hmWE02U3k1RDBKd3NoRWp5c2lQN29Uc3Rsa0hKZHVpY3lZdE9vMDN5UWJpdFFJQ3UyWkE4YnI5b0h4eFc3OGplWnUxd1Z2bG1TS1E?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,18 +153,6 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVWdEM00xN3ZxTzMtWUxuc1ExWFJpSTlfWmtVWE5GUVJWcWtJZDRSMldFYVZQUXozcGFuczZhbTY5VWJQbzhQZHBBd240YlFkSFBLeUFoSnZlY3FjbGgtVFBtalgyV3RpMkxvb05oMlRaZlE0S2l5YkkxZFRuR3lTNXItSF9OMzZqaWNjbFlSS01TU3ZvQy0tc2QxY3RGd3JpWGk1dmVzc2dscjQ1SEMyc3g2WDNqSXNhOHYyTVZ1ZFN1Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 30, 05:03 AM ET",
-    "publishedAt": "2026-07-30T09:03:48+00:00",
-    "source": "Marketing Tech News",
-    "title": "Pattern adds ChatGPT Ads to its campaign management platform",
-    "summary": "Marketing Tech News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlJZSjV5SWtueDhSTFd4MFRsUmNRYzlNb3pJSmxYVTBSUmItNnhNWGtmZXd3NERlQ0ZHRGk2YlR2cnZGUUZZQXlGMDYxcUEzc1VsMUFyMFBROWhNSG45UEZ1NHl5aEJNNmg4b1JQemZPWHZOcE5GZWpEbXhtQTZ2NEIyYW1iUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -141,18 +177,6 @@
     "summary": "Techweez is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2M3F3MDh2ZG92Z2UtY1M4U0tyRDdJWjYyQzVvem1QVTFuVENnZ1FFV3Q2SW16Z3A1SDg3WkpPTVRuTG5RaTByaloxNFVvaXE2Uk05MjNCdEQza29KMS1jQVlfel93QzJwTnhlX2ZNbXZadk15S0E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 30, 12:18 AM ET",
-    "publishedAt": "2026-07-30T04:18:15+00:00",
-    "source": "Memeburn",
-    "title": "Gemini AI Review 2026: Features, Pricing & Verdict",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YWmZqQnVNZml1bHBWQVI5WFdwNlFlWXF4eW55MkR3bDlZNWNLUzhDcHFaZkI1WkxJYlFpeEdkYU90Y2FHaXM3UnhMOW03VGM?oc=5",
     "difficulty": "News"
   },
   {
@@ -278,18 +302,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 28, 03:00 AM ET",
-    "publishedAt": "2026-07-28T07:00:00+00:00",
-    "source": "AIMultiple",
-    "title": "GPT-5: Features, Benchmarks, Pricing, and Comparison",
-    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3NUxieHUzZ1VkVGVXUXFMTVBtdlZfbFZENmZyWWRPSmtJRVo3aUdxNmwxTmFjM3dobkotWlMyY1BGZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jul 27, 07:11 AM ET",
     "publishedAt": "2026-07-27T11:11:00+00:00",
     "source": "Search Engine Roundtable",
@@ -321,18 +333,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 22, 10:46 AM ET",
-    "publishedAt": "2026-07-22T14:46:12+00:00",
-    "source": "OX Security",
-    "title": "CVE-2026-63764: SSRF in LMDeploy’s OpenAI-Compatible API Server",
-    "summary": "OX Security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzBZNTJXZHZadzl3OXp2N0hydDM2WnZCalVqai1jR3R6Mm5KOUF6X2FKaG5vZGdiQTFoUXdjX3ZLRlhwTnBQS01GYWpmdW1kbVBaejhjeW9Vb05OaTZyTTQtNWI0TlJiellRcHVSOGJuRmM3dzRhSUJIbUlxM2dCYmppanVlcUlTYVE3T0lsWkVOUGRwa0E?oc=5",
     "difficulty": "News"
   },
   {
