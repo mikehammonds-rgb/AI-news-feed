@@ -1,5 +1,65 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 10:18 AM ET",
+    "publishedAt": "2026-07-30T14:18:33+00:00",
+    "source": "Yahoo Finance",
+    "title": "Oracle Shares Climb as Expanded Google Cloud Alliance Brings Gemini AI to Enterprise Software",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMDNOcW9SaXVqeGJ6VFU0Skp1WnMtdUU5cWNYRWs3WXVTaXVuWU1TQjJTSllzVVRNbWNaWndJRUJya1d3OTd0RXVqenEyZGctemNYd1ZVbXNZVVU5b3VlV2xOUmNyak5vUGtkcFU1dnhDRjlSM0RLSjltZHZkaUEzZkZoaE9zLXpYdExwZmFEMlMyb21hR2pvaEhhNGtFR0ps?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 10:16 AM ET",
+    "publishedAt": "2026-07-30T14:16:57+00:00",
+    "source": "Bloomberg",
+    "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
+    "summary": "Bloomberg is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 09:11 AM ET",
+    "publishedAt": "2026-07-30T13:11:06+00:00",
+    "source": "Techzine Global",
+    "title": "Oracle brings Gemini models to Fusion Apps and NetSuite",
+    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcDFFNXpjemFuM3JXaFp0eHVVZzZpczE1ZlpHRmNOVHpMQkQzTjV5bUExa09FWEE1My01bkNKVHB2cy1yajQwZS03N1Z6aFd0c3pPd3VOWWFJaHlkWDVCa20tdV9LX09lOFBaSnNfSS1KbHU5cjFiYXhJemtsVHZPN1loMW5wdi1WUDV1Q25XekpzZzVlam5mMjlKN1prdjZQU2pvVGdGUVM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 09:00 AM ET",
+    "publishedAt": "2026-07-30T13:00:00+00:00",
+    "source": "PR Newswire",
+    "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
+    "summary": "PR Newswire is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR2xXaTFOLW5VV19Pd05kaGtmVTNvTXZDRU41bWtNTFhITF9NNy1xNE1uYzJGQWdqYVFOajhlYUFHemRheEdKcFBwNmRGZ2JSdlhSbnJUc2ZmQ05IbWI2OHdxQjBNZW5QeDg1bmpnOGZtMmxDdGVQT1BIdWEwZzVSTG45SXRFY3hSMlBXYmJCTDRmWlU0SWFWMnVNUUlDWTJGeDcwSVZYWTlLTzhRYmFIWGJrNTktOVV6NThxUkZvYWQ4N1JYbUd3V0RkU2N3LWpsRnFWbGFROERXYjhI?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 09:00 AM ET",
+    "publishedAt": "2026-07-30T13:00:00+00:00",
+    "source": "Stock Titan",
+    "title": "Oracle Plans Gemini AI for Business Apps and Video Creation",
+    "summary": "Stock Titan is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTFjQ0RUQTRNZXkxWnNsVGdoa0plUXVyejEzbHRRemExSmZ1MHlPek5mSVBldjBWclc5eVgzMXd5ek9fRWZZSHFBNUxtNUFXTjA0bnhyb3JVS1lQSWZNc2I4LXJ1VU5xMFFJel9LUGlCRHRWMTEwVUREdmN4MTJjVldkMmdYcG5jRTBlTVM0S0R4Q3ZCYjJLajQ3Wl9TbnJxeXFCQ0FXbVBtZUNURWtGRGxaTnFXMG12NERKUw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 30, 05:05 AM ET",
@@ -9,6 +69,18 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVWdEM00xN3ZxTzMtWUxuc1ExWFJpSTlfWmtVWE5GUVJWcWtJZDRSMldFYVZQUXozcGFuczZhbTY5VWJQbzhQZHBBd240YlFkSFBLeUFoSnZlY3FjbGgtVFBtalgyV3RpMkxvb05oMlRaZlE0S2l5YkkxZFRuR3lTNXItSF9OMzZqaWNjbFlSS01TU3ZvQy0tc2QxY3RGd3JpWGk1dmVzc2dscjQ1SEMyc3g2WDNqSXNhOHYyTVZ1ZFN1Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 05:03 AM ET",
+    "publishedAt": "2026-07-30T09:03:48+00:00",
+    "source": "Marketing Tech News",
+    "title": "Pattern adds ChatGPT Ads to its campaign management platform",
+    "summary": "Marketing Tech News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlJZSjV5SWtueDhSTFd4MFRsUmNRYzlNb3pJSmxYVTBSUmItNnhNWGtmZXd3NERlQ0ZHRGk2YlR2cnZGUUZZQXlGMDYxcUEzc1VsMUFyMFBROWhNSG45UEZ1NHl5aEJNNmg4b1JQemZPWHZOcE5GZWpEbXhtQTZ2NEIyYW1iUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -28,9 +100,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 30, 03:07 AM ET",
     "publishedAt": "2026-07-30T07:07:44+00:00",
-    "source": "Techweez",
+    "source": "techweez.com",
     "title": "Microsoft to Merge Copilot, GitHub Copilot, and AI Agents Into One App",
-    "summary": "Techweez is reporting this update. Open the article for the full story.",
+    "summary": "techweez.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2M3F3MDh2ZG92Z2UtY1M4U0tyRDdJWjYyQzVvem1QVTFuVENnZ1FFV3Q2SW16Z3A1SDg3WkpPTVRuTG5RaTByaloxNFVvaXE2Uk05MjNCdEQza29KMS1jQVlfel93QzJwTnhlX2ZNbXZadk15S0E?oc=5",
     "difficulty": "News"
@@ -76,9 +148,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 06:44 PM ET",
     "publishedAt": "2026-07-29T22:44:00+00:00",
-    "source": "CNET",
+    "source": "cnet.com",
     "title": "Claude AI Recovering After Widespread Outage on Wednesday",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "summary": "cnet.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
@@ -88,9 +160,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 06:17 PM ET",
     "publishedAt": "2026-07-29T22:17:38+00:00",
-    "source": "The Verge",
+    "source": "theverge.com",
     "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-    "summary": "The Verge is reporting this update. Open the article for the full story.",
+    "summary": "theverge.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yUnVJZ0dDQURGSkkybkFndHZXSWwyQTA2eDRlUVRLcUlKcm1CNUUzclZjRTRBejlvVEtna2VZb291Sm53NjkxWWdpSHRfa1ZFSzBHMjNkX3JNRTU4X0hhalhSSFlxRWIxNXVPUXU1bC10UTg2Z0RJRjRjQ2ZyS2M?oc=5",
     "difficulty": "News"
@@ -148,23 +220,11 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 11:50 AM ET",
     "publishedAt": "2026-07-29T15:50:04+00:00",
-    "source": "futurism.com",
+    "source": "Futurism",
     "title": "If You AI-Generate Code, Hackers Just Found a Devious Method to Install Malware Directly on Your Computer",
-    "summary": "futurism.com is reporting this update. Open the article for the full story.",
+    "summary": "Futurism is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHU5Qmo5eTdkV2VsMTZiOWxBUTl0R1lQalBSajk5ZlY2b05TcjJQejFGc2FfQWRycjJMU2dGUTJwY1RlN1pfVnFMTE9Ja0kxNllVM0VXVGI2Vzktamd0eXBNOFZVdU9wWkhHdElpdmZ3eW5DUUNKalJSYXIxME5ZSmczbzBmQmRqczVVVlRZZmhBcTBX?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 29, 08:22 AM ET",
-    "publishedAt": "2026-07-29T12:22:29+00:00",
-    "source": "tech-insider.org",
-    "title": "Perplexity vs ChatGPT vs Gemini: $295 Enterprise Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tdWFqY3pRUEIzQzkycG5zN25OWjdyNDVETjhPd0tGdmdFd182WUlCRzY3UG5qcGE2U3M5N0xLRnVsRG5WMDBSN19FcmJMY1N0MURLZDE1Ukt2a2REbU5iaGU3TjlrNTRsN250MVZpVQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -177,18 +237,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kY1JyN05FUTQxaTR4ak5TZUFuN0hQb3JpNnRiZGM0ZzFHU1luZ1l2QmV6Y0lxdGxCTVB1NFhkZ252ODB0RlA0NjVka3hrN2NWV3I2bFhRRGh2c1h0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 29, 12:19 AM ET",
-    "publishedAt": "2026-07-29T04:19:53+00:00",
-    "source": "Man of Many",
-    "title": "12 Free Google AI Tools That Do The Work Of Paid Software",
-    "summary": "Man of Many is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZRXktQS00U0JmUkl3ckNkRTdmdGZxUG03MVh4clh4U3pjMFFzQmZXSzdsOXNDaFh0WElNWC1MVExjUEIwaEhDNFZLcFhjSG9VX0MtZEw3T3JRdHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,30 +276,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 27, 12:00 PM ET",
-    "publishedAt": "2026-07-27T16:00:17+00:00",
-    "source": "Built In",
-    "title": "Google Tools: Best Apps for Work, AI, Business and More",
-    "summary": "Built In is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QMzVxTHJwcGZuRkJocFp1M2JWeE9fVnRCdWVIcFQ4R20tQkMyTDA0bFlxek1Yd0lJM0g4dU5wVjA4d21Tc18tYWVUeWVoQ0hSYmZN?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 27, 08:00 AM ET",
-    "publishedAt": "2026-07-27T12:00:00+00:00",
-    "source": "ALM Corp",
-    "title": "Google Rolls Out Gemini 3.5 Flash-Lite in Search (July 2026)",
-    "summary": "ALM Corp is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lQUxZZV9CdnBId1FpMzB4aGhKYXBla3VULUhBeXFMUUM4WE0wWXBNdk1zYWh3N01DX0k4Z0x0aGh0WnhsLXU5ODFDR0RacjZSTFVBNVJqYmVENUpzNHI0LUwyanZwRXVkWTdXR0p3aDc5aUJuUDlHSkk0Z3ZYZU0?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 27, 07:11 AM ET",
@@ -261,18 +285,6 @@
     "summary": "Search Engine Roundtable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeV9CRVNFZ0h4TWtWenQ2dnRHb18tRnc1c3JfOFBHS29VTFM3X0J6MDBHcmJTalR0cGQzTHpKeDdBTjRvWlpBMm5qYS03RDM2WnAwLWhnUXJZWjdGOWVpUVVxVmowYTROVFljSzNhdG92bjlTQUFXYUQ0UXpWUHoxZWtjNHM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 24, 05:41 PM ET",
-    "publishedAt": "2026-07-24T21:41:33+00:00",
-    "source": "SitePoint",
-    "title": "Rubberduck: Emulating OpenAI Locally for Reliable AI Development",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QRmMzOHljVW5PM0FsTW1RWDJ5ZjhKT29MejRKTFA2U0QzMFBudVRpUHM2d2pwUUZNY3Z2Y1MtT3lNbGFFTTl0cm1lQ1d2Z2MzOElDQ2t6cjFRY2hPSGZfZUt2dVNZZmM?oc=5",
     "difficulty": "News"
   },
   {
@@ -297,18 +309,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 23, 10:52 AM ET",
-    "publishedAt": "2026-07-23T14:52:44+00:00",
-    "source": "TechCrunch",
-    "title": "Google’s Gemini nears billion-user milestone",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclpDaUN3YlJkY3YxNktBUWh0TG9NTEp4OWxpanpIZXFlak9xSlN5ejdVSFBxZnNJRkpMQlZ0TUQ3bXVPU0RfMWFRY2RTckZDLVZNVFBFS2lSLVhHaTdPa3U0Ql9RY0pPam5ZM2FidTFLS01rV3dadHhGcVI0OVRmbTR2ME1RZWZZUXRHdjYwU09HUmd5Q081T0Z6SQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -348,18 +348,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 08, 03:00 AM ET",
-    "publishedAt": "2026-07-08T07:00:00+00:00",
-    "source": "wiz.io",
-    "title": "GhostApproval: A Trust Boundary Gap in AI Coding Assistants",
-    "summary": "wiz.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlNtRGVxSU9oRFVoUnBpQzZQVW1fbnBESVdydENXMjd1TEttT0I3cW92ZEZ3c1dwbUJvRFJnOUE1UWd6TVRVUTM5QzFoZVJzY09Da1MzOE82c0laRHBuWUttLWI4UDBoR19SeUJUNEYxYVZrTVFnZDNoNlFZV3pMR2I4SHIyVGZwS2c?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jun 30, 03:00 AM ET",
@@ -381,6 +369,18 @@
     "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MkF3RG52UFhmUUF1MDg1RUk5bGYtZFVlcDBDMm9IWjlmelpjWE9pN2lCMUZLWXQzd2l3V3p2T09VT2NNcm9MQmNrNEh5Y2FuUXBhTEM4TFlYR0tsYmhCSHQwRVN2VXVuTmRVNXBPWdIBdEFVX3lxTE9fbVhOOHdGVkZQbHRkSF9leHZtQU9PcDZBcFl4Um1zd2NCWjc0TWU3bWtmdUhPa081cVNuYmVFUi1QWGNTdkVBcjlFZmJ2RXdKR1VZVEZydGFrcmNVc2J4LTJGVjBjbksySy1NZTlWOGRKeGN1?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 29, 03:00 AM ET",
+    "publishedAt": "2026-05-29T07:00:00+00:00",
+    "source": "Fortune",
+    "title": "Exclusive: Microsoft is building a super app that combines coding, chat, and other Copilot AI tools",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
     "difficulty": "News"
   }
 ]
