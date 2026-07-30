@@ -16,9 +16,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 30, 04:30 AM ET",
     "publishedAt": "2026-07-30T08:30:50+00:00",
-    "source": "news.aibase.com",
+    "source": "AIBase",
     "title": "Microsoft Confirms Development of Copilot AI Super App, Integrating Chat, Coding, and Intelligent Agent Capabilities",
-    "summary": "news.aibase.com is reporting this update. Open the article for the full story.",
+    "summary": "AIBase is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZMUJ3MEc0SThLbU5uVW5Da2hDVldFNU5lMlBzbHNxam9IZnZSWGY0bDkwZWJvSEo5T2RvVlhKelNUSFA0UGRNSm9R?oc=5",
     "difficulty": "News"
@@ -148,9 +148,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 11:50 AM ET",
     "publishedAt": "2026-07-29T15:50:04+00:00",
-    "source": "Futurism",
+    "source": "futurism.com",
     "title": "If You AI-Generate Code, Hackers Just Found a Devious Method to Install Malware Directly on Your Computer",
-    "summary": "Futurism is reporting this update. Open the article for the full story.",
+    "summary": "futurism.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHU5Qmo5eTdkV2VsMTZiOWxBUTl0R1lQalBSajk5ZlY2b05TcjJQejFGc2FfQWRycjJMU2dGUTJwY1RlN1pfVnFMTE9Ja0kxNllVM0VXVGI2Vzktamd0eXBNOFZVdU9wWkhHdElpdmZ3eW5DUUNKalJSYXIxME5ZSmczbzBmQmRqczVVVlRZZmhBcTBX?oc=5",
     "difficulty": "News"
@@ -165,6 +165,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tdWFqY3pRUEIzQzkycG5zN25OWjdyNDVETjhPd0tGdmdFd182WUlCRzY3UG5qcGE2U3M5N0xLRnVsRG5WMDBSN19FcmJMY1N0MURLZDE1Ukt2a2REbU5iaGU3TjlrNTRsN250MVZpVQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 29, 06:17 AM ET",
+    "publishedAt": "2026-07-29T10:17:33+00:00",
+    "source": "tech-insider.org",
+    "title": "OpenAI Retires 4 GPT Models as GPT-4o Holds 37.6% [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kY1JyN05FUTQxaTR4ak5TZUFuN0hQb3JpNnRiZGM0ZzFHU1luZ1l2QmV6Y0lxdGxCTVB1NFhkZ252ODB0RlA0NjVka3hrN2NWV3I2bFhRRGh2c1h0?oc=5",
     "difficulty": "News"
   },
   {
@@ -184,9 +196,9 @@
     "label": "ChatGPT",
     "time": "Jul 28, 03:00 AM ET",
     "publishedAt": "2026-07-28T07:00:00+00:00",
-    "source": "aimultiple.com",
+    "source": "AIMultiple",
     "title": "GPT-5: Features, Benchmarks, Pricing, and Comparison",
-    "summary": "aimultiple.com is reporting this update. Open the article for the full story.",
+    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3NUxieHUzZ1VkVGVXUXFMTVBtdlZfbFZENmZyWWRPSmtJRVo3aUdxNmwxTmFjM3dobkotWlMyY1BGZw?oc=5",
     "difficulty": "News"
@@ -256,9 +268,9 @@
     "label": "ChatGPT",
     "time": "Jul 24, 05:41 PM ET",
     "publishedAt": "2026-07-24T21:41:33+00:00",
-    "source": "sitepoint.com",
+    "source": "SitePoint",
     "title": "Rubberduck: Emulating OpenAI Locally for Reliable AI Development",
-    "summary": "sitepoint.com is reporting this update. Open the article for the full story.",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QRmMzOHljVW5PM0FsTW1RWDJ5ZjhKT29MejRKTFA2U0QzMFBudVRpUHM2d2pwUUZNY3Z2Y1MtT3lNbGFFTTl0cm1lQ1d2Z2MzOElDQ2t6cjFRY2hPSGZfZUt2dVNZZmM?oc=5",
     "difficulty": "News"
