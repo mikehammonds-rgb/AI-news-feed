@@ -1,14 +1,14 @@
 [
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 30, 11:33 PM ET",
-    "publishedAt": "2026-07-31T03:33:50+00:00",
-    "source": "Briefs Finance",
-    "title": "Oracle Stock Surges 8% on Google Gemini Integration",
-    "summary": "Briefs Finance is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 31, 01:11 AM ET",
+    "publishedAt": "2026-07-31T05:11:02+00:00",
+    "source": "Firstpost",
+    "title": "Microsoft confirms Copilot 'super app' is coming this year, bringing chat, coding and AI agents together",
+    "summary": "Firstpost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNGV1bzhuQktqOWlMRmdOUEZNcjUyWXFnTU5qeFNfWWhjSXFIemtnUHF1dHZ4dXRRbjZFVUdyY1preUx2ZmtVMWVxNFVxS1h1RmlyWkhWcUtjTGJDSWhIdFlTclREVmVkM2x2RWg5b2ZGNm1MZGtlNEI1OVlSZU9nbjdScWVFNjl1VENOdG5xelU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOUpmUHpHOFZQSnp0am5WekVCeURDbmFnQ0JlQlk0RkNNRzVYNGVqYmlQMGQ1OFdFMkxWWGlXUnNGMXNuX2pEYWRYVldwTWN5TWtDNjdZR0Q1bVFheTlEVThzSWFab3lqbG5WbWhlZEZKS3JlTFlXT0xjaE05d2xBeVoxRnZzS25OVmhHWWpjd0drMmU2NnpVUFJ0RWhpMzBZcTZGZGxPV3lzR19qOWI3REgtS2MxMTA1bl9oQ3AyUjVsdXphcTlJdXNoSjNzRzUzV0NxTzl4ZFRQakFKOVHSAeMBQVVfeXFMTS0zbEwwN1lfbHA0QmM2cllXa1pZUUdLSmt5US0tY1VvQzZFTDU4MUVYUl9BQ2dZbzlJTW1sYXpBS082V1RVX3hQYW5xNTE3Szg2dGNVZWZ1d2QyQ3ZOWVRsb3dIZ1Rla1VNQVZDb3dPaWJua1lPclQ3RTdZQUZMOHoydDJlVUdEZVQ4MXpKQmNZWWplVXZUV0R2Q1NOZ1FHanhydk56LW55QUc3OU5qTUl1VXc5djJrTk1FdXdFMVB3YlREN0M1QmpmUUFCUERqVXFILU9kRXBaV1RUQVdZWXM5Wms?oc=5",
     "difficulty": "News"
   },
   {
@@ -57,6 +57,30 @@
     "summary": "The Fast Mode is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM1BVQVhSQVBiNEsyOWlpUkVtUmVBR2x1cXkwZlloSnJSLTM2VXczdlBfT1Rjdkwwb3lrQkRrTkpYaWU4LS00T25JbFFLeDItdkZEYlEtdXRkQUJuTXk4YTNsS0pSU09vZ0JmOFg5SG5remVlOXQxaGhFVjhNaDFxd1FET3p6c0h6d3dMQXFpR1ZMQXBqRURYbUVockpMUUVZT3h6bm9VRmFuWWwwX2NmZkxwU19EaURWbW1LWWR1N1o1VXNTem1Pa1lZOXNfTUk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 07:33 PM ET",
+    "publishedAt": "2026-07-30T23:33:50+00:00",
+    "source": "Briefs Finance",
+    "title": "Oracle Stock Surges 8% on Google Gemini Integration",
+    "summary": "Briefs Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNGV1bzhuQktqOWlMRmdOUEZNcjUyWXFnTU5qeFNfWWhjSXFIemtnUHF1dHZ4dXRRbjZFVUdyY1preUx2ZmtVMWVxNFVxS1h1RmlyWkhWcUtjTGJDSWhIdFlTclREVmVkM2x2RWg5b2ZGNm1MZGtlNEI1OVlSZU9nbjdScWVFNjl1VENOdG5xelU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 05:48 PM ET",
+    "publishedAt": "2026-07-30T21:48:00+00:00",
+    "source": "venturebeat.com",
+    "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
+    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ2hVQW43d3QzOWlhMnMta2dhbDFTSDFSWC1Ua01fb09wcGFvR1d4M2dPcWlnTlRTdFBqVzVZT202dVpfV2FOYkpncmxlSnRhSUVZZ0Z0TDBiYXhmejBTVkRPRmhENHlMME1HOHQ3NU5BeTV1OVR3d2E4amRjRnZ6VV9TQXotcjRXVUpSTWU3UWxJTlVOZFNLWGUzY0dMVnhGZUNVakFPTFBwY1ZiU2wwNDVoSDk0dG9LR1NpZDdndEFsbWVW?oc=5",
     "difficulty": "News"
   },
   {
@@ -110,23 +134,11 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 30, 02:34 PM ET",
-    "publishedAt": "2026-07-30T18:34:00+00:00",
-    "source": "Notebookcheck",
-    "title": "OpenAI just made its cheapest AI model dramatically cheaper",
-    "summary": "Notebookcheck is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMDdDZmRCSUxJdmYyajlGTzF0a25oeTJKckF1U3g3Rjd3enlndm9FNkp0U1RfUnYxZW9XNWpKRTh2Uk1mNlEySDNZYW5XSTRlM1JLMWFOZXhZSUlmd0hia0NlaC1XemY4V0xGX0NBaVRTN2x2SmoxLTJ0X0lHcEEyX0JKTC1xVDBoMlZOZW53S1dyYlJQN1hzQ1h6d2ZkMVZBWGNTZEpjQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jul 30, 01:29 PM ET",
     "publishedAt": "2026-07-30T17:29:01+00:00",
-    "source": "unite.ai",
+    "source": "Unite.AI",
     "title": "OpenAI Cuts API Prices on Its Two Cheaper GPT-5.6 Tiers",
-    "summary": "unite.ai is reporting this update. Open the article for the full story.",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelE2TnJ6eTBRNGQydUNhcEs4c2ZCM2NKSzRKbmJibmY2TnFMME5aRHdNejFsbWczRlNKaUhmR1NpQ0ZHUndXak1mWjUyWGJ2YXNTa3Fqd0dFY0I3ZUxjc21zN2gxWkhHZEc3NVJaWURSNDk3X1VnUjBibmVKRVFWTWlzaw?oc=5",
     "difficulty": "News"
@@ -148,9 +160,9 @@
     "label": "Gemini",
     "time": "Jul 30, 10:16 AM ET",
     "publishedAt": "2026-07-30T14:16:57+00:00",
-    "source": "Bloomberg",
+    "source": "Bloomberg.com",
     "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
-    "summary": "Bloomberg is reporting this update. Open the article for the full story.",
+    "summary": "Bloomberg.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5",
     "difficulty": "News"
@@ -177,18 +189,6 @@
     "summary": "PR Newswire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR2xXaTFOLW5VV19Pd05kaGtmVTNvTXZDRU41bWtNTFhITF9NNy1xNE1uYzJGQWdqYVFOajhlYUFHemRheEdKcFBwNmRGZ2JSdlhSbnJUc2ZmQ05IbWI2OHdxQjBNZW5QeDg1bmpnOGZtMmxDdGVQT1BIdWEwZzVSTG45SXRFY3hSMlBXYmJCTDRmWlU0SWFWMnVNUUlDWTJGeDcwSVZYWTlLTzhRYmFIWGJrNTktOVV6NThxUkZvYWQ4N1JYbUd3V0RkU2N3LWpsRnFWbGFROERXYjhI?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 30, 06:30 AM ET",
-    "publishedAt": "2026-07-30T10:30:33+00:00",
-    "source": "finance.biggo.com",
-    "title": "Silicon Valley Turns Against Anthropic: Claude Banned Across the Board, Contractors Rush to Migrate",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05QkZqNkZJVHgxM01zUjY0SW5HZmdBSVk4Y3JsNXRQcDhja3hmWE02U3k1RDBKd3NoRWp5c2lQN29Uc3Rsa0hKZHVpY3lZdE9vMDN5UWJpdFFJQ3UyWkE4YnI5b0h4eFc3OGplWnUxd1Z2bG1TS1E?oc=5",
     "difficulty": "News"
   },
   {
@@ -280,9 +280,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 04:03 PM ET",
     "publishedAt": "2026-07-29T20:03:00+00:00",
-    "source": "wionews.com",
+    "source": "WION",
     "title": "Claude AI down? Anthropic confirms outage as users face errors across chatbot and API",
-    "summary": "wionews.com is reporting this update. Open the article for the full story.",
+    "summary": "WION is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmM0UGd3amJiQjJYTU8zRU1tTWg5T0V2Smk3UXNPaDByV3VzRzYxdi1vTVpuNm85Y0MwTkdXeTNEdkI2ZUtDekVlRWVvQVZLRzBVNmNUclFRakVaQ0tZTlBXOU1PbDJGd1U0S0VTYkZ5eGdGdUZpX3M2T2x1Sm92YlIyMVN1Q1NSVWlMc1E0RnR0Ni1vdHAtNDZPSW9ic3pXanZORVZIUVZLMC1lMkNweUxNQnlJeG9xMWdWdUtNMHZFTlUxbkdLYVJuVnlRd9IB0wFBVV95cUxOdkpqY3d5dlhZTzBSREhaMlhUMEJSbjJnMVZCSHpVSW5zVmVrdVZEUHVva2V1SUwyNllaS2VVWEZDemh6T1VVdmpaS3BrWHVrbzM0N0VSQ3psREE2OTdWZlQ0MzFhbW1qbDlBRXR1ck9CS0RGQ25KQnVDSlBIVlA3bk5jTm9kZWlnb1dzMWRDSWEwb1NLRVFpOEl4NkpnUXVodDlxX1VVQU1XUXZfajdiSXNMMng4QXZ3UkI2N3pPazFqSUFyTzczcHRYanQ5WEYtd1dz?oc=5",
     "difficulty": "News"
@@ -312,15 +312,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 27, 12:02 PM ET",
-    "publishedAt": "2026-07-27T16:02:02+00:00",
-    "source": "StartupHub.ai",
-    "title": "GitHub Copilot App for Newbies",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 26, 09:37 PM ET",
+    "publishedAt": "2026-07-27T01:37:42+00:00",
+    "source": "InfoWorld",
+    "title": "Anthropic releases ‘more efficient’ Claude Opus 5 AI model",
+    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlZaSmRxdzh3RktHMlAtYU1VVnY4WFBWM0s1ZUJ1NmVBT0lJcE5HUHBwN1VEOVB4dG1sSndxLVBvYTFmaDhUS0xQeHJGS1FoTnpiZUF0SVJzUFZPcjlxblM1YnpKWlFtRUF6d0xPaG1zSjdJLXFMMGpySVRDQkpBMFJ4X0tfeDg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWEVPanRHOURFbEtkeDNjV0RjN254bVNobGhMZHNDN1ZsQ0VxZ3Rock5abDliWGNoLS0yLTVEeTBTY1ZYVXgzZlJaUlAtcHRvWHN6M1VLUUhUZ1M1MmNkRG8taTRhTkRsWWJjeUlpdHZxa1Z3NTNFQTJPSDBFU3lRZUFzbjFxWUtKUW1RbDdqajZFRzVVbDVtbkNn?oc=5",
     "difficulty": "News"
   },
   {
@@ -340,9 +340,9 @@
     "label": "ChatGPT",
     "time": "Jul 24, 11:40 AM ET",
     "publishedAt": "2026-07-24T15:40:08+00:00",
-    "source": "aws.amazon.com",
+    "source": "Amazon Web Services (AWS)",
     "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
-    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
     "difficulty": "News"
