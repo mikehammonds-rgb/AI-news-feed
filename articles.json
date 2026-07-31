@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 07:42 PM ET",
+    "publishedAt": "2026-07-30T23:42:24+00:00",
+    "source": "SiliconANGLE",
+    "title": "Google DeepMind debuts Gemini Robotics 2 model series for humanoid robots",
+    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlZtZnFSTS1kc29MekdCRGRXaDZiNVBMWFRpSmlLSlNaQlhuUW15dnFfNVlHbGViRTlxWlhqejlSYU1Ib3lkNlpZdmFDckN3eE1qbk5LNWl1VmkyYkMyRTdlbDVxNXJjZFV5dVRMMHR3MFNmdTVTRXEwMG1BM3I3Qkd0UFVaN050S3hna1NqdWJ5WGQwQkRnS3RQWDJ4NFNGd1kxNU9MRVRPZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 30, 04:29 PM ET",
@@ -26,8 +38,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 30, 02:51 PM ET",
-    "publishedAt": "2026-07-30T18:51:05+00:00",
+    "time": "Jul 30, 02:52 PM ET",
+    "publishedAt": "2026-07-30T18:52:45+00:00",
     "source": "AI Business",
     "title": "Oracle Brings Google Gemini Models to Enterprise Customers",
     "summary": "AI Business is reporting this update. Open the article for the full story.",
@@ -72,18 +84,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 30, 02:27 PM ET",
-    "publishedAt": "2026-07-30T18:27:00+00:00",
-    "source": "finance.biggo.com",
-    "title": "Oracle Stock Jumps Over 6% After Embedding Google Gemini AI Across Cloud Apps",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rdW9vRFZKR2Q0VVJ2ODZ1ZFBEUXM2U2FmVTZkQ1J1UmFxU0d1Q1M0NjFWV0FzZlZ1ZmQ1WTlfU2hqQkt2U2hoNWw1a3o4UGVSM3ByU3JTRW1NUDdBSlNIMVU0QzI3Q1dtN09iNWowel9MWEVjV1E?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 30, 01:29 PM ET",
@@ -110,25 +110,25 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 30, 10:18 AM ET",
-    "publishedAt": "2026-07-30T14:18:33+00:00",
-    "source": "Yahoo Finance",
-    "title": "Oracle Shares Climb as Expanded Google Cloud Alliance Brings Gemini AI to Enterprise Software",
-    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "time": "Jul 30, 10:16 AM ET",
+    "publishedAt": "2026-07-30T14:16:57+00:00",
+    "source": "Bloomberg.com",
+    "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
+    "summary": "Bloomberg.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMDNOcW9SaXVqeGJ6VFU0Skp1WnMtdUU5cWNYRWs3WXVTaXVuWU1TQjJTSllzVVRNbWNaWndJRUJya1d3OTd0RXVqenEyZGctemNYd1ZVbXNZVVU5b3VlV2xOUmNyak5vUGtkcFU1dnhDRjlSM0RLSjltZHZkaUEzZkZoaE9zLXpYdExwZmFEMlMyb21hR2pvaEhhNGtFR0ps?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5",
     "difficulty": "News"
   },
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 30, 10:16 AM ET",
-    "publishedAt": "2026-07-30T14:16:57+00:00",
-    "source": "Bloomberg",
-    "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
-    "summary": "Bloomberg is reporting this update. Open the article for the full story.",
+    "time": "Jul 30, 09:35 AM ET",
+    "publishedAt": "2026-07-30T13:35:03+00:00",
+    "source": "Yahoo Finance",
+    "title": "Oracle shares pop 3.3% as Google cloud AI partnership expands",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUdzOTNta0tUUUxEenlLY2VlZmxfcnVPWDluVnVEbXdiNEpOWTZ2VE5sUTFWTlFOVnFCeG1vLUZnYWN6ZmxNTXVkVnIta1lKMi1YWVlpT21EZEs3UlBCc2QwaTlzTFItYzhHRXhjaTVFRHJMdDVRdGhMYzZPMm4ybmluTmpJUVkwQ2xkcmp3?oc=5",
     "difficulty": "News"
   },
   {
@@ -141,30 +141,6 @@
     "summary": "PR Newswire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR2xXaTFOLW5VV19Pd05kaGtmVTNvTXZDRU41bWtNTFhITF9NNy1xNE1uYzJGQWdqYVFOajhlYUFHemRheEdKcFBwNmRGZ2JSdlhSbnJUc2ZmQ05IbWI2OHdxQjBNZW5QeDg1bmpnOGZtMmxDdGVQT1BIdWEwZzVSTG45SXRFY3hSMlBXYmJCTDRmWlU0SWFWMnVNUUlDWTJGeDcwSVZYWTlLTzhRYmFIWGJrNTktOVV6NThxUkZvYWQ4N1JYbUd3V0RkU2N3LWpsRnFWbGFROERXYjhI?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 30, 07:53 AM ET",
-    "publishedAt": "2026-07-30T11:53:20+00:00",
-    "source": "36 Kr",
-    "title": "Silicon Valley Turns Against Anthropic: Full Claude Product Lines Face Forced Ban, Contractors Rush Emergency Migration",
-    "summary": "36 Kr is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GbDBHTjg0a0tiQTlVV29yLTdaQ0VfSVI2dUE4N3I0M2cteF9oOEU0RXYzWURDaE5LM0pTUGNqOW5VdUt0ZnEzUFdRMXdDTGFxckdV?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 30, 06:30 AM ET",
-    "publishedAt": "2026-07-30T10:30:33+00:00",
-    "source": "finance.biggo.com",
-    "title": "Silicon Valley Turns Against Anthropic: Claude Banned Across the Board, Contractors Rush to Migrate",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05QkZqNkZJVHgxM01zUjY0SW5HZmdBSVk4Y3JsNXRQcDhja3hmWE02U3k1RDBKd3NoRWp5c2lQN29Uc3Rsa0hKZHVpY3lZdE9vMDN5UWJpdFFJQ3UyWkE4YnI5b0h4eFc3OGplWnUxd1Z2bG1TS1E?oc=5",
     "difficulty": "News"
   },
   {
@@ -184,9 +160,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 30, 04:30 AM ET",
     "publishedAt": "2026-07-30T08:30:50+00:00",
-    "source": "news.aibase.com",
+    "source": "AIBase",
     "title": "Microsoft Confirms Development of Copilot AI Super App, Integrating Chat, Coding, and Intelligent Agent Capabilities",
-    "summary": "news.aibase.com is reporting this update. Open the article for the full story.",
+    "summary": "AIBase is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZMUJ3MEc0SThLbU5uVW5Da2hDVldFNU5lMlBzbHNxam9IZnZSWGY0bDkwZWJvSEo5T2RvVlhKelNUSFA0UGRNSm9R?oc=5",
     "difficulty": "News"
@@ -232,9 +208,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 06:17 PM ET",
     "publishedAt": "2026-07-29T22:17:38+00:00",
-    "source": "theverge.com",
+    "source": "The Verge",
     "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-    "summary": "theverge.com is reporting this update. Open the article for the full story.",
+    "summary": "The Verge is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yUnVJZ0dDQURGSkkybkFndHZXSWwyQTA2eDRlUVRLcUlKcm1CNUUzclZjRTRBejlvVEtna2VZb291Sm53NjkxWWdpSHRfa1ZFSzBHMjNkX3JNRTU4X0hhalhSSFlxRWIxNXVPUXU1bC10UTg2Z0RJRjRjQ2ZyS2M?oc=5",
     "difficulty": "News"
@@ -381,6 +357,30 @@
     "summary": "wiz.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlNtRGVxSU9oRFVoUnBpQzZQVW1fbnBESVdydENXMjd1TEttT0I3cW92ZEZ3c1dwbUJvRFJnOUE1UWd6TVRVUTM5QzFoZVJzY09Da1MzOE82c0laRHBuWUttLWI4UDBoR19SeUJUNEYxYVZrTVFnZDNoNlFZV3pMR2I4SHIyVGZwS2c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Sonnet 5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 06, 03:00 AM ET",
+    "publishedAt": "2026-06-06T07:00:00+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Anthropic's Claude Services Down — claude.ai, Claude Code, and Cowork Affected [Updated]",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12MkF3RG52UFhmUUF1MDg1RUk5bGYtZFVlcDBDMm9IWjlmelpjWE9pN2lCMUZLWXQzd2l3V3p2T09VT2NNcm9MQmNrNEh5Y2FuUXBhTEM4TFlYR0tsYmhCSHQwRVN2VXVuTmRVNXBPWdIBdEFVX3lxTE9fbVhOOHdGVkZQbHRkSF9leHZtQU9PcDZBcFl4Um1zd2NCWjc0TWU3bWtmdUhPa081cVNuYmVFUi1QWGNTdkVBcjlFZmJ2RXdKR1VZVEZydGFrcmNVc2J4LTJGVjBjbksySy1NZTlWOGRKeGN1?oc=5",
     "difficulty": "News"
   }
 ]
