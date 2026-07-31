@@ -1,5 +1,29 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 31, 06:55 AM ET",
+    "publishedAt": "2026-07-31T10:55:03+00:00",
+    "source": "IT Pro",
+    "title": "Oracle integrates Google's Gemini AI models into enterprise apps",
+    "summary": "IT Pro is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmZUZkRtVkdERnczVUNJcmd2RDdmMDZtT3k2ZmlKVERkOTBrTGszM2JPcURKU0UwZ3pnOTd2QVYyczhfMEE5M0NFU0tNWFFYZklvU0l6eURkUGdOYzhtVFZURjdRbTBHbEVEeUtWVmxFSUJKeTFvdFh1bHFxZ1JHeVBscnFEcFh1NWE1RGFuUTRzUVJsRnI2SElNTlhtQkF6WWtpYzh6S0F1cjRvRFpVY0dMSm03ZWpta3BtTw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 31, 06:29 AM ET",
+    "publishedAt": "2026-07-31T10:29:11+00:00",
+    "source": "InfoWorld",
+    "title": "OpenAI drops GPT-5.6 Luna and Terra API prices by up to 80%",
+    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekU4S2pRaDZRUm5XdmU2RU9kUzdZMnZEUkZTYThBQXFiLVlDdXlmSjFUYmJDaU45cWdJNzkxbHNSZXdId05Sc3hOQWNOV3hyOTF3dGdjYmxOenI0REJuWVZfZFM3RHBkTExGT2NfTUFwVk5wZ1JEQ29fWVBVZ3RkOFp5NFdkdkJOSE5nOEZsd19LQ1N2MFVTaGRHOUREaVpqT3hEN1VEYTQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 31, 01:11 AM ET",
@@ -50,18 +74,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 30, 07:36 PM ET",
-    "publishedAt": "2026-07-30T23:36:35+00:00",
-    "source": "The Fast Mode",
-    "title": "Oracle Brings Google Gemini Models to Enterprise Applications for AI Innovation",
-    "summary": "The Fast Mode is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM1BVQVhSQVBiNEsyOWlpUkVtUmVBR2x1cXkwZlloSnJSLTM2VXczdlBfT1Rjdkwwb3lrQkRrTkpYaWU4LS00T25JbFFLeDItdkZEYlEtdXRkQUJuTXk4YTNsS0pSU09vZ0JmOFg5SG5remVlOXQxaGhFVjhNaDFxd1FET3p6c0h6d3dMQXFpR1ZMQXBqRURYbUVockpMUUVZT3h6bm9VRmFuWWwwX2NmZkxwU19EaURWbW1LWWR1N1o1VXNTem1Pa1lZOXNfTUk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Jul 30, 07:33 PM ET",
     "publishedAt": "2026-07-30T23:33:50+00:00",
     "source": "Briefs Finance",
@@ -76,9 +88,9 @@
     "label": "ChatGPT",
     "time": "Jul 30, 05:48 PM ET",
     "publishedAt": "2026-07-30T21:48:00+00:00",
-    "source": "venturebeat.com",
+    "source": "VentureBeat",
     "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
-    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ2hVQW43d3QzOWlhMnMta2dhbDFTSDFSWC1Ua01fb09wcGFvR1d4M2dPcWlnTlRTdFBqVzVZT202dVpfV2FOYkpncmxlSnRhSUVZZ0Z0TDBiYXhmejBTVkRPRmhENHlMME1HOHQ3NU5BeTV1OVR3d2E4amRjRnZ6VV9TQXotcjRXVUpSTWU3UWxJTlVOZFNLWGUzY0dMVnhGZUNVakFPTFBwY1ZiU2wwNDVoSDk0dG9LR1NpZDdndEFsbWVW?oc=5",
     "difficulty": "News"
@@ -132,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 30, 01:29 PM ET",
-    "publishedAt": "2026-07-30T17:29:01+00:00",
-    "source": "Unite.AI",
-    "title": "OpenAI Cuts API Prices on Its Two Cheaper GPT-5.6 Tiers",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelE2TnJ6eTBRNGQydUNhcEs4c2ZCM2NKSzRKbmJibmY2TnFMME5aRHdNejFsbWczRlNKaUhmR1NpQ0ZHUndXak1mWjUyWGJ2YXNTa3Fqd0dFY0I3ZUxjc21zN2gxWkhHZEc3NVJaWURSNDk3X1VnUjBibmVKRVFWTWlzaw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 30, 11:12 AM ET",
@@ -172,9 +172,9 @@
     "label": "Gemini",
     "time": "Jul 30, 09:35 AM ET",
     "publishedAt": "2026-07-30T13:35:03+00:00",
-    "source": "Yahoo Finance",
+    "source": "finance.yahoo.com",
     "title": "Oracle shares pop 3.3% as Google cloud AI partnership expands",
-    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "summary": "finance.yahoo.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUdzOTNta0tUUUxEenlLY2VlZmxfcnVPWDluVnVEbXdiNEpOWTZ2VE5sUTFWTlFOVnFCeG1vLUZnYWN6ZmxNTXVkVnIta1lKMi1YWVlpT21EZEs3UlBCc2QwaTlzTFItYzhHRXhjaTVFRHJMdDVRdGhMYzZPMm4ybmluTmpJUVkwQ2xkcmp3?oc=5",
     "difficulty": "News"
