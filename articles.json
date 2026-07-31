@@ -2,6 +2,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Jul 31, 05:11 PM ET",
+    "publishedAt": "2026-07-31T21:11:05+00:00",
+    "source": "Tech Times",
+    "title": "EU AI Act Chatbot Disclosure Reaches API Builders Sunday: Vendors Cannot Comply for You",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOExkYVdUaFlPcVFsWVRrLU9qS2ZWaldxMWhiX0hTRllDdjJuZVVybWFMUVJvN2dqX2VZRGkyeEhHSWxlcFFycFRCOUlYYkdGOTFmLUlMRUxPc0Vjc3JZbURzT1Zyb3dCV3YtR3R1TWFkaUMybGNZdG5HcWsyNk54NnpCbTdvZ0NnWnJieWRYVEpoSHcteXdRcmdYM3AwVXlrbDEzNHZKQzcxaUx5Q0NvS05jSzFfR2pVQjRBYmFDYS1JRmg1LXdOYTRNYzE4NnZERExZ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Jul 31, 02:52 PM ET",
     "publishedAt": "2026-07-31T18:52:44+00:00",
     "source": "BleepingComputer",
@@ -100,9 +112,9 @@
     "label": "ChatGPT",
     "time": "Jul 30, 09:45 PM ET",
     "publishedAt": "2026-07-31T01:45:23+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsRlpyU0JIN0o4YXpoRkRkdFhoRjhYQVVNQzM2Mmd2dTdiNVp5NFRfbkRQVnR5cGMyNHpERUdiRU5CV0NpdG5XRUZn?oc=5",
     "difficulty": "News"
@@ -120,25 +132,13 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 30, 07:33 PM ET",
-    "publishedAt": "2026-07-30T23:33:50+00:00",
-    "source": "Briefs Finance",
-    "title": "Oracle Stock Surges 8% on Google Gemini Integration",
-    "summary": "Briefs Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNGV1bzhuQktqOWlMRmdOUEZNcjUyWXFnTU5qeFNfWWhjSXFIemtnUHF1dHZ4dXRRbjZFVUdyY1preUx2ZmtVMWVxNFVxS1h1RmlyWkhWcUtjTGJDSWhIdFlTclREVmVkM2x2RWg5b2ZGNm1MZGtlNEI1OVlSZU9nbjdScWVFNjl1VENOdG5xelU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 30, 04:29 PM ET",
     "publishedAt": "2026-07-30T20:29:58+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
@@ -177,6 +177,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5kVDZidVI2WUlXTUs4UmplRDVCR1hTOUc4RWY3YnFyRjVUZGNVTVlkT1FTdU1WdkZqQmZfX2pTYlJXRHd5dmR1dWpRZFBrSTNDNXlOX2Jmdkw5NmNTb2ZmM3B5YmJUd1kxOUkxcHJTUm9DTlR1RU5hZ0pFbmNNT3Z4WndfWUdPejRReFlib0lUVzlXS2VHeXlsNA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 10:18 AM ET",
+    "publishedAt": "2026-07-30T14:18:33+00:00",
+    "source": "Yahoo Finance",
+    "title": "Oracle Shares Climb as Expanded Google Cloud Alliance Brings Gemini AI to Enterprise Software",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMDNOcW9SaXVqeGJ6VFU0Skp1WnMtdUU5cWNYRWs3WXVTaXVuWU1TQjJTSllzVVRNbWNaWndJRUJya1d3OTd0RXVqenEyZGctemNYd1ZVbXNZVVU5b3VlV2xOUmNyak5vUGtkcFU1dnhDRjlSM0RLSjltZHZkaUEzZkZoaE9zLXpYdExwZmFEMlMyb21hR2pvaEhhNGtFR0ps?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,18 +321,6 @@
     "summary": "Futurism is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHU5Qmo5eTdkV2VsMTZiOWxBUTl0R1lQalBSajk5ZlY2b05TcjJQejFGc2FfQWRycjJMU2dGUTJwY1RlN1pfVnFMTE9Ja0kxNllVM0VXVGI2Vzktamd0eXBNOFZVdU9wWkhHdElpdmZ3eW5DUUNKalJSYXIxME5ZSmczbzBmQmRqczVVVlRZZmhBcTBX?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 29, 06:17 AM ET",
-    "publishedAt": "2026-07-29T10:17:33+00:00",
-    "source": "tech-insider.org",
-    "title": "GPT-4o Retirement 2026: OpenAI Cuts 4 Models, 37.6% Share",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kY1JyN05FUTQxaTR4ak5TZUFuN0hQb3JpNnRiZGM0ZzFHU1luZ1l2QmV6Y0lxdGxCTVB1NFhkZ252ODB0RlA0NjVka3hrN2NWV3I2bFhRRGh2c1h0?oc=5",
     "difficulty": "News"
   },
   {
