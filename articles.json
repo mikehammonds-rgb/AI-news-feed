@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 31, 02:25 PM ET",
+    "publishedAt": "2026-07-31T18:25:12+00:00",
+    "source": "Northeast Times",
+    "title": "Google unveils Gemini Robotics 2 with full humanoid body control",
+    "summary": "Northeast Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNkNLMWVaaE5Hc0cza0s0eVVkZkJlNmRDM1lmeW11dEI2WjI2aEVPdklSOWNiSjlYYUhiaG94YVVITkx5OWgyY2xqU1BaeW9CMG5uenNyUmlXejZUYTBHOHpaRWp1ZGtPRTBsZmozbVhpNFV3RUpmYlRCSW1GS01jRE1JTFdEV3R0MVNIV2lKa2ZfVTBJYjBQM2hKU0p5elBJcHQ3M19R?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 31, 12:59 PM ET",
@@ -40,9 +52,9 @@
     "label": "Gemini",
     "time": "Jul 31, 06:55 AM ET",
     "publishedAt": "2026-07-31T10:55:03+00:00",
-    "source": "itpro.com",
+    "source": "IT Pro",
     "title": "Oracle integrates Google's Gemini AI models into enterprise apps",
-    "summary": "itpro.com is reporting this update. Open the article for the full story.",
+    "summary": "IT Pro is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmZUZkRtVkdERnczVUNJcmd2RDdmMDZtT3k2ZmlKVERkOTBrTGszM2JPcURKU0UwZ3pnOTd2QVYyczhfMEE5M0NFU0tNWFFYZklvU0l6eURkUGdOYzhtVFZURjdRbTBHbEVEeUtWVmxFSUJKeTFvdFh1bHFxZ1JHeVBscnFEcFh1NWE1RGFuUTRzUVJsRnI2SElNTlhtQkF6WWtpYzh6S0F1cjRvRFpVY0dMSm03ZWpta3BtTw?oc=5",
     "difficulty": "News"
@@ -60,25 +72,13 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 31, 01:16 AM ET",
-    "publishedAt": "2026-07-31T05:16:52+00:00",
-    "source": "analyticsindiamag.com",
-    "title": "OpenAI Slashes GPT-5.6 Luna Prices by 80%, Terra by 20%",
-    "summary": "analyticsindiamag.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOXcwODZNaFJZazBsQzNWMHhEOTR1Vm9Vd3ZhallFMzRWTFdtUk45Unp1TnNDdzFoaHRFWWt1RUpsMW53VDExQUUzZEdZdDd3TjJWZDI4UnBNckxSZUp2UU5RZFE5YUtDa0QtUjM1ZUpnRmxDQVBnbEFmTllGT1hmU0Vkd2NWR0FVNkp0TUdta0JyN3M?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 31, 01:11 AM ET",
     "publishedAt": "2026-07-31T05:11:02+00:00",
-    "source": "firstpost.com",
+    "source": "Firstpost",
     "title": "Microsoft confirms Copilot 'super app' is coming this year, bringing chat, coding and AI agents together",
-    "summary": "firstpost.com is reporting this update. Open the article for the full story.",
+    "summary": "Firstpost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOUpmUHpHOFZQSnp0am5WekVCeURDbmFnQ0JlQlk0RkNNRzVYNGVqYmlQMGQ1OFdFMkxWWGlXUnNGMXNuX2pEYWRYVldwTWN5TWtDNjdZR0Q1bVFheTlEVThzSWFab3lqbG5WbWhlZEZKS3JlTFlXT0xjaE05d2xBeVoxRnZzS25OVmhHWWpjd0drMmU2NnpVUFJ0RWhpMzBZcTZGZGxPV3lzR19qOWI3REgtS2MxMTA1bl9oQ3AyUjVsdXphcTlJdXNoSjNzRzUzV0NxTzl4ZFRQakFKOVHSAeMBQVVfeXFMTS0zbEwwN1lfbHA0QmM2cllXa1pZUUdLSmt5US0tY1VvQzZFTDU4MUVYUl9BQ2dZbzlJTW1sYXpBS082V1RVX3hQYW5xNTE3Szg2dGNVZWZ1d2QyQ3ZOWVRsb3dIZ1Rla1VNQVZDb3dPaWJua1lPclQ3RTdZQUZMOHoydDJlVUdEZVQ4MXpKQmNZWWplVXZUV0R2Q1NOZ1FHanhydk56LW55QUc3OU5qTUl1VXc5djJrTk1FdXdFMVB3YlREN0M1QmpmUUFCUERqVXFILU9kRXBaV1RUQVdZWXM5Wms?oc=5",
     "difficulty": "News"
@@ -129,18 +129,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 30, 02:40 PM ET",
-    "publishedAt": "2026-07-30T18:40:29+00:00",
-    "source": "The Register",
-    "title": "Oracle adds Google Gemini to the agent menu",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUERGSm9HeWZPanZIX2YyRTN5LW5qYWpkUmExaWJMTzU0QzgtSi1rcE1PYUZQWkFWdEpjMThUTDFnMWwzRktpdnZGUkJRWTEyWnZfaDFRX3QydkRkdTh4QXhpSGM2M2QyLU9jZTQzR2RxSTVlR05tWC1KSTlHMVFCaTlLWmZ4QXd6YWVDWTVocXlUR0JUYWIwajB1TlQ5TXVTVXc?oc=5",
     "difficulty": "News"
   },
   {
@@ -244,9 +232,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 06:17 PM ET",
     "publishedAt": "2026-07-29T22:17:38+00:00",
-    "source": "The Verge",
+    "source": "theverge.com",
     "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-    "summary": "The Verge is reporting this update. Open the article for the full story.",
+    "summary": "theverge.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yUnVJZ0dDQURGSkkybkFndHZXSWwyQTA2eDRlUVRLcUlKcm1CNUUzclZjRTRBejlvVEtna2VZb291Sm53NjkxWWdpSHRfa1ZFSzBHMjNkX3JNRTU4X0hhalhSSFlxRWIxNXVPUXU1bC10UTg2Z0RJRjRjQ2ZyS2M?oc=5",
     "difficulty": "News"
@@ -302,11 +290,23 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Jul 29, 06:17 AM ET",
+    "publishedAt": "2026-07-29T10:17:33+00:00",
+    "source": "tech-insider.org",
+    "title": "GPT-4o Retirement 2026: OpenAI Cuts 4 Models, 37.6% Share",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kY1JyN05FUTQxaTR4ak5TZUFuN0hQb3JpNnRiZGM0ZzFHU1luZ1l2QmV6Y0lxdGxCTVB1NFhkZ252ODB0RlA0NjVka3hrN2NWV3I2bFhRRGh2c1h0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Jul 28, 03:19 AM ET",
     "publishedAt": "2026-07-28T07:19:25+00:00",
-    "source": "Stocktwits",
+    "source": "stocktwits.com",
     "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
-    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
+    "summary": "stocktwits.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
     "difficulty": "News"
@@ -328,9 +328,9 @@
     "label": "ChatGPT",
     "time": "Jul 24, 11:40 AM ET",
     "publishedAt": "2026-07-24T15:40:08+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "aws.amazon.com",
     "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
     "difficulty": "News"
