@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 01, 12:17 AM ET",
+    "publishedAt": "2026-08-01T04:17:54+00:00",
+    "source": "Yahoo Finance UK",
+    "title": "Is Oracle (ORCL) Using Google’s Gemini Tie-Up To Reframe Its Core AI Investment Narrative?",
+    "summary": "Yahoo Finance UK is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3NaTExlWU8yNFh3aVMxYjQxbjljeVJUNzJubk1aTm55UEFNYVBYWHpHY2tXWElOWEhYT1JSM1dVVDAtZVBpaTN0UEUtcWx2dGNpQ1F1eUdabWs1Q0FKbWtjZVFlVTRFQkE1cnRZRE13REktLWE5OVZyMlhNU011QkRhV29PM3M?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 31, 09:38 PM ET",
@@ -21,18 +33,6 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 31, 07:22 PM ET",
-    "publishedAt": "2026-07-31T23:22:38+00:00",
-    "source": "RoboZaps",
-    "title": "Gemini Robotics 2: Google DeepMind's Humanoid Robot AI Explained",
-    "summary": "RoboZaps is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBQ3hWcU9XX1plZnVEU0tNckhWMTBSeENfOGRET3IwZG9iazBQbzNuVTVGRUc5NFBTbzBDZm5JQmdPR0RwQXM0a0tXOURrRl91X0c2bzFMSWpTY2dpN2dNSzRNcG52UnBaTk1Dc0xpNHk?oc=5",
     "difficulty": "News"
   },
   {
@@ -72,51 +72,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 31, 02:25 PM ET",
-    "publishedAt": "2026-07-31T18:25:12+00:00",
-    "source": "Northeast Times",
-    "title": "Google unveils Gemini Robotics 2 with full humanoid body control",
-    "summary": "Northeast Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNkNLMWVaaE5Hc0cza0s0eVVkZkJlNmRDM1lmeW11dEI2WjI2aEVPdklSOWNiSjlYYUhiaG94YVVITkx5OWgyY2xqU1BaeW9CMG5uenNyUmlXejZUYTBHOHpaRWp1ZGtPRTBsZmozbVhpNFV3RUpmYlRCSW1GS01jRE1JTFdEV3R0MVNIV2lKa2ZfVTBJYjBQM2hKU0p5elBJcHQ3M19R?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 31, 12:59 PM ET",
     "publishedAt": "2026-07-31T16:59:00+00:00",
-    "source": "Business Wire",
+    "source": "businesswire.com",
     "title": "Opsin Adds Support for Claude Cowork",
-    "summary": "Business Wire is reporting this update. Open the article for the full story.",
+    "summary": "businesswire.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPazNScGNJM0UxWk1MZ0xQRW1aMDRLYmlFU2hQZlA4NklrQk5SM3FtalNITENweG9kMzJJcFQtNUstU2wxWE0weVNHT2NvLVF2eWhwaEZpTngzbjBCdnl3Vm5wMi1pTkVlbVFpclVucHZhc1RBWG1oMmtqNjk5OEcwT0NQLUs1Yk1YMEw5WmlicmpuWnNUVVVNRw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 31, 11:49 AM ET",
-    "publishedAt": "2026-07-31T15:49:36+00:00",
-    "source": "HackerNoon",
-    "title": "Auto-Mode Routing: What Stop Us From Sending \"How to Center a Div\" to Claude 3.5 Opus",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVdlUS1tQWF3WXNlWFp3SU1wRF90dHpJRlYtN01CSURWWVZ1NGhjWW1jcG8zVjBGV1JLajFFY18yOGZ1TUVBa0lPczA0MXc1S3g3ZU5RY3p1UjgzVWhXY0VZSjdGLWRHS3h2MlU1OEJ3YUEzN2Z3V0VyVllmcmc2MEdJUnZkUGFiX1BFSG1DUE1qcFUyQ2Ntd3hwTmd0NUwxbnZ1V0xiNA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 31, 11:15 AM ET",
-    "publishedAt": "2026-07-31T15:15:16+00:00",
-    "source": "simplywall.st",
-    "title": "Oracle (ORCL) Brings Google Gemini Into Fusion And NetSuite",
-    "summary": "simplywall.st is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQUdkdWJVNjA0RVc1NVIzMktCYWQ2M2xvRExCMHNCUHZYMG1Ca3RneENCLXBsYU9BcEJfeDBzZ3dKYVZpeFR6U3pscDVnMlFQUDdjSUhIZ0pRN0xaRmRHaWRodjJBb0dQNzlLR3pISGRmZGRGcVJwNmp6N1hKenlkSnFOdDFSYVBzeXdsZ3BxS2tmdlNTd1l4YnNCZFQxMmhBdzFYcmJ3aXZNMmxTY1huUWZKLVI2QTdvQlR4VtIBwgFBVV95cUxQYVZONHlSX28wdHlJN0tra1hoZHRNbWJ5cEc0NWs3M2VaaGhBeEhqa3lHSDVzbXdDekNsTFZDRFk2R3pOMzZSanlFS0xrY3h0Um1PVHZlUjljOTB3UEw1djEyRTBiZE5ZUzlpMnJ0QUw4dDIydFRSUHdlcDV1S0g3Ul9YcVljMkJ1QnFxSURDQkliTmZqQ19WRXh3SUctenBmWm9EZ0lYVjFueDZQcGFaZ3M1Nmo0VHVKa25uYUdmUkphdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -136,9 +100,9 @@
     "label": "ChatGPT",
     "time": "Jul 31, 06:29 AM ET",
     "publishedAt": "2026-07-31T10:29:11+00:00",
-    "source": "infoworld.com",
+    "source": "InfoWorld",
     "title": "OpenAI drops GPT-5.6 Luna and Terra API prices by up to 80%",
-    "summary": "infoworld.com is reporting this update. Open the article for the full story.",
+    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekU4S2pRaDZRUm5XdmU2RU9kUzdZMnZEUkZTYThBQXFiLVlDdXlmSjFUYmJDaU45cWdJNzkxbHNSZXdId05Sc3hOQWNOV3hyOTF3dGdjYmxOenI0REJuWVZfZFM3RHBkTExGT2NfTUFwVk5wZ1JEQ29fWVBVZ3RkOFp5NFdkdkJOSE5nOEZsd19LQ1N2MFVTaGRHOUREaVpqT3hEN1VEYTQ?oc=5",
     "difficulty": "News"
@@ -192,6 +156,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 02:40 PM ET",
+    "publishedAt": "2026-07-30T18:40:29+00:00",
+    "source": "The Register",
+    "title": "Oracle adds Google Gemini to the agent menu",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUERGSm9HeWZPanZIX2YyRTN5LW5qYWpkUmExaWJMTzU0QzgtSi1rcE1PYUZQWkFWdEpjMThUTDFnMWwzRktpdnZGUkJRWTEyWnZfaDFRX3QydkRkdTh4QXhpSGM2M2QyLU9jZTQzR2RxSTVlR05tWC1KSTlHMVFCaTlLWmZ4QXd6YWVDWTVocXlUR0JUYWIwajB1TlQ5TXVTVXc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 30, 01:01 PM ET",
@@ -213,6 +189,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5kVDZidVI2WUlXTUs4UmplRDVCR1hTOUc4RWY3YnFyRjVUZGNVTVlkT1FTdU1WdkZqQmZfX2pTYlJXRHd5dmR1dWpRZFBrSTNDNXlOX2Jmdkw5NmNTb2ZmM3B5YmJUd1kxOUkxcHJTUm9DTlR1RU5hZ0pFbmNNT3Z4WndfWUdPejRReFlib0lUVzlXS2VHeXlsNA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 10:16 AM ET",
+    "publishedAt": "2026-07-30T14:16:57+00:00",
+    "source": "bloomberg.com",
+    "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
+    "summary": "bloomberg.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5",
     "difficulty": "News"
   },
   {
@@ -297,6 +285,18 @@
     "summary": "Newsweek is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXZGZm1WM1RCUHkxSjBnTWFfbVc0RVgtQW5MN0lrV3hxRnQ2ZjNjSENIRDF5dUN5NVRkOWc2MGc3ZFNFcVhKSU1KNU9rcjFMLUFwUzBYUTh1Z201bjRBdlQ4bndvTmdtWW01Z2NvRmZyLTZVUHI3ZWtzQnlUQmpTak5WWUJsNlo3eWFZZDBITFItc0xnQTdjZUd6SQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 29, 04:03 PM ET",
+    "publishedAt": "2026-07-29T20:03:00+00:00",
+    "source": "WION",
+    "title": "Claude AI down? Anthropic confirms outage as users face errors across chatbot and API",
+    "summary": "WION is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmM0UGd3amJiQjJYTU8zRU1tTWg5T0V2Smk3UXNPaDByV3VzRzYxdi1vTVpuNm85Y0MwTkdXeTNEdkI2ZUtDekVlRWVvQVZLRzBVNmNUclFRakVaQ0tZTlBXOU1PbDJGd1U0S0VTYkZ5eGdGdUZpX3M2T2x1Sm92YlIyMVN1Q1NSVWlMc1E0RnR0Ni1vdHAtNDZPSW9ic3pXanZORVZIUVZLMC1lMkNweUxNQnlJeG9xMWdWdUtNMHZFTlUxbkdLYVJuVnlRd9IB0wFBVV95cUxOdkpqY3d5dlhZTzBSREhaMlhUMEJSbjJnMVZCSHpVSW5zVmVrdVZEUHVva2V1SUwyNllaS2VVWEZDemh6T1VVdmpaS3BrWHVrbzM0N0VSQ3psREE2OTdWZlQ0MzFhbW1qbDlBRXR1ck9CS0RGQ25KQnVDSlBIVlA3bk5jTm9kZWlnb1dzMWRDSWEwb1NLRVFpOEl4NkpnUXVodDlxX1VVQU1XUXZfajdiSXNMMng4QXZ3UkI2N3pPazFqSUFyTzczcHRYanQ5WEYtd1dz?oc=5",
     "difficulty": "News"
   },
   {
