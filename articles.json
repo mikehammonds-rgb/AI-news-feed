@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 31, 09:38 PM ET",
+    "publishedAt": "2026-08-01T01:38:40+00:00",
+    "source": "tech-insider.org",
+    "title": "OpenAI Buys 79-Person Ona for Codex [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mRlVWMmIwLTFjMklMWGZZbHM0el80WXZHT1d3SUxHeklQd2d3VUoyeWY3U1NsVDFsbXRvN3ZlWWc1VVFjQXY2dlRGbUtyUWs0b2Z6UWF3T1dYcUlsYmQ3UU9TVXlheFp4eDA2OWRJWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 31, 07:39 PM ET",
@@ -21,6 +33,18 @@
     "summary": "RoboZaps is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBQ3hWcU9XX1plZnVEU0tNckhWMTBSeENfOGRET3IwZG9iazBQbzNuVTVGRUc5NFBTbzBDZm5JQmdPR0RwQXM0a0tXOURrRl91X0c2bzFMSWpTY2dpN2dNSzRNcG52UnBaTk1Dc0xpNHk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 31, 06:00 PM ET",
+    "publishedAt": "2026-07-31T22:00:00+00:00",
+    "source": "Mashable",
+    "title": "Google's Gemini Spark is now available to more users",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NYXRqbnMxZGRNMXdjZTFyYm9qNkZyVXp1QlZtRXhiaXBuYVUtd00tRHprTnNQaFBhZlZWaHB3d3BpU2M3ZHE1aVZYSjJrM2c2TWlYT0JqT1Q?oc=5",
     "difficulty": "News"
   },
   {
@@ -112,9 +136,9 @@
     "label": "ChatGPT",
     "time": "Jul 31, 06:29 AM ET",
     "publishedAt": "2026-07-31T10:29:11+00:00",
-    "source": "InfoWorld",
+    "source": "infoworld.com",
     "title": "OpenAI drops GPT-5.6 Luna and Terra API prices by up to 80%",
-    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
+    "summary": "infoworld.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekU4S2pRaDZRUm5XdmU2RU9kUzdZMnZEUkZTYThBQXFiLVlDdXlmSjFUYmJDaU45cWdJNzkxbHNSZXdId05Sc3hOQWNOV3hyOTF3dGdjYmxOenI0REJuWVZfZFM3RHBkTExGT2NfTUFwVk5wZ1JEQ29fWVBVZ3RkOFp5NFdkdkJOSE5nOEZsd19LQ1N2MFVTaGRHOUREaVpqT3hEN1VEYTQ?oc=5",
     "difficulty": "News"
@@ -132,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 30, 09:45 PM ET",
-    "publishedAt": "2026-07-31T01:45:23+00:00",
-    "source": "OpenAI",
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsRlpyU0JIN0o4YXpoRkRkdFhoRjhYQVVNQzM2Mmd2dTdiNVp5NFRfbkRQVnR5cGMyNHpERUdiRU5CV0NpdG5XRUZn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 30, 09:38 PM ET",
@@ -153,6 +165,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNUM1VkZJODFBRnFZWmNVY3ZCVXZXQzNaT1pWbHEzX2VkOVRuLWczQ3hMYTNVUUN3ZnBZMzJaYkNkMHVRMmx5dWJjaXRYbGxPLV95NVEzcDBla2taY0RCNzZPSXVYR3FscWxzWEVuWWhobGs?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 05:48 PM ET",
+    "publishedAt": "2026-07-30T21:48:00+00:00",
+    "source": "VentureBeat",
+    "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ2hVQW43d3QzOWlhMnMta2dhbDFTSDFSWC1Ua01fb09wcGFvR1d4M2dPcWlnTlRTdFBqVzVZT202dVpfV2FOYkpncmxlSnRhSUVZZ0Z0TDBiYXhmejBTVkRPRmhENHlMME1HOHQ3NU5BeTV1OVR3d2E4amRjRnZ6VV9TQXotcjRXVUpSTWU3UWxJTlVOZFNLWGUzY0dMVnhGZUNVakFPTFBwY1ZiU2wwNDVoSDk0dG9LR1NpZDdndEFsbWVW?oc=5",
     "difficulty": "News"
   },
   {
@@ -194,18 +218,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 30, 10:16 AM ET",
-    "publishedAt": "2026-07-30T14:16:57+00:00",
-    "source": "Bloomberg.com",
-    "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
-    "summary": "Bloomberg.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Jul 30, 09:00 AM ET",
     "publishedAt": "2026-07-30T13:00:00+00:00",
     "source": "PR Newswire",
@@ -213,18 +225,6 @@
     "summary": "PR Newswire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR2xXaTFOLW5VV19Pd05kaGtmVTNvTXZDRU41bWtNTFhITF9NNy1xNE1uYzJGQWdqYVFOajhlYUFHemRheEdKcFBwNmRGZ2JSdlhSbnJUc2ZmQ05IbWI2OHdxQjBNZW5QeDg1bmpnOGZtMmxDdGVQT1BIdWEwZzVSTG45SXRFY3hSMlBXYmJCTDRmWlU0SWFWMnVNUUlDWTJGeDcwSVZYWTlLTzhRYmFIWGJrNTktOVV6NThxUkZvYWQ4N1JYbUd3V0RkU2N3LWpsRnFWbGFROERXYjhI?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 30, 05:05 AM ET",
-    "publishedAt": "2026-07-30T09:05:38+00:00",
-    "source": "the-decoder.com",
-    "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVWdEM00xN3ZxTzMtWUxuc1ExWFJpSTlfWmtVWE5GUVJWcWtJZDRSMldFYVZQUXozcGFuczZhbTY5VWJQbzhQZHBBd240YlFkSFBLeUFoSnZlY3FjbGgtVFBtalgyV3RpMkxvb05oMlRaZlE0S2l5YkkxZFRuR3lTNXItSF9OMzZqaWNjbFlSS01TU3ZvQy0tc2QxY3RGd3JpWGk1dmVzc2dscjQ1SEMyc3g2WDNqSXNhOHYyTVZ1ZFN1Zw?oc=5",
     "difficulty": "News"
   },
   {
@@ -240,15 +240,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 29, 09:40 PM ET",
-    "publishedAt": "2026-07-30T01:40:21+00:00",
-    "source": "tech-insider.org",
-    "title": "Copilot vs Q Developer vs Gemini Code Assist Hit $19 [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 29, 06:59 PM ET",
+    "publishedAt": "2026-07-29T22:59:55+00:00",
+    "source": "OpenAI",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HUDNVVThoemdpRGhOR0NjZ01YTXlMSVRlbUN6Qmxxa3kzU2RmYTZqcFczeWFaZWtDWHFmY2ZDbmRHR1Y1S2Z4TnduV0wya3BzV1h4eTVnME5BbkJKQjZmTWgteG41dkdKV1MtQ3ZuQW1BZEN1?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwcE5jLW96SjBBYTNYYnFQcnM1OFFCYWR5N0R0LVBza3N5WE42YUNfV0NiQTVOZmc4Vl9ZMUdneWNoTVZfOGphbmJlS044Mmw3cWtzVDRKdnhyTWNIYVVoYXJSX3h6cnNVZ1QtUXQxOFBfYnRXcHN0ZExVaw?oc=5",
     "difficulty": "News"
   },
   {
@@ -340,9 +340,9 @@
     "label": "ChatGPT",
     "time": "Jul 24, 11:40 AM ET",
     "publishedAt": "2026-07-24T15:40:08+00:00",
-    "source": "aws.amazon.com",
+    "source": "Amazon Web Services (AWS)",
     "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
-    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
     "difficulty": "News"
