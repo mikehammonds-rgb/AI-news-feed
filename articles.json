@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 01, 05:52 AM ET",
+    "publishedAt": "2026-08-01T09:52:49+00:00",
+    "source": "MarkTechPost",
+    "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOU43a3ZKT01Nd0ZmMjVZNFJVdGw0OUJENWZna0piUTIxTmxvUVJxTHNzazdzVGxNbVhMa0pkYVVvUGN6VW51a0lhS3VUeEhIMnpZM2diT25tcm96MUhfeVB2Z1NQbnBzaHVkN00tSDIyNDVRamwwdWVIT0dJem16dVZXSVo5WlExUkowN24zTEt5M3ROVVRzNzZwdkZpNmFSY1YwVWFlQXdsaC1XeEUwMHNiZXhMN3FFUUJEX0FIR2ZrS2Q5UTljZHBHdzZTbmcwSkdPYmdxcm1weEJvUUZ1cWdwajVKYnpJQUZZ0gHwAUFVX3lxTE53ZlphMkZ0NHFzVXh6eFJ5LWd1R1dhV0xGaU9MZVc5ZU03RC1LRldpcFhwLXRnUmwxS1NSdjI3c0FVTjJ0VTR6Wk45ZEwtMkFHV29NSjU1UDJ6Y2ZZUWpobW8tci0yTU52dm5ZTF9QdmpVRm1wbGpVNUtPVG5uZEhPMHM0ZDFVQU1uZHlMMjVfSTduakdSQkVUNjVrUjdEMThmU0hZVEVWWG1kNFU5U3Vkc21hdDZUakM1YVlPMU94bk5GWDdDUlpndGM1djhLLTJnRFBGd0M5U20waXM5Z19xSDBibHhGTG5zQy1JRmVBVA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 01, 12:17 AM ET",
@@ -52,9 +64,9 @@
     "label": "ChatGPT",
     "time": "Jul 31, 05:11 PM ET",
     "publishedAt": "2026-07-31T21:11:05+00:00",
-    "source": "techtimes.com",
+    "source": "Tech Times",
     "title": "EU AI Act Chatbot Disclosure Reaches API Builders Sunday: Vendors Cannot Comply for You",
-    "summary": "techtimes.com is reporting this update. Open the article for the full story.",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOExkYVdUaFlPcVFsWVRrLU9qS2ZWaldxMWhiX0hTRllDdjJuZVVybWFMUVJvN2dqX2VZRGkyeEhHSWxlcFFycFRCOUlYYkdGOTFmLUlMRUxPc0Vjc3JZbURzT1Zyb3dCV3YtR3R1TWFkaUMybGNZdG5HcWsyNk54NnpCbTdvZ0NnWnJieWRYVEpoSHcteXdRcmdYM3AwVXlrbDEzNHZKQzcxaUx5Q0NvS05jSzFfR2pVQjRBYmFDYS1JRmg1LXdOYTRNYzE4NnZERExZ?oc=5",
     "difficulty": "News"
@@ -88,9 +100,9 @@
     "label": "Claude Code",
     "time": "Jul 31, 12:59 PM ET",
     "publishedAt": "2026-07-31T16:59:00+00:00",
-    "source": "Business Wire",
+    "source": "businesswire.com",
     "title": "Opsin Adds Support for Claude Cowork",
-    "summary": "Business Wire is reporting this update. Open the article for the full story.",
+    "summary": "businesswire.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPazNScGNJM0UxWk1MZ0xQRW1aMDRLYmlFU2hQZlA4NklrQk5SM3FtalNITENweG9kMzJJcFQtNUstU2wxWE0weVNHT2NvLVF2eWhwaEZpTngzbjBCdnl3Vm5wMi1pTkVlbVFpclVucHZhc1RBWG1oMmtqNjk5OEcwT0NQLUs1Yk1YMEw5WmlicmpuWnNUVVVNRw?oc=5",
     "difficulty": "News"
@@ -204,6 +216,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 03:00 AM ET",
+    "publishedAt": "2026-07-30T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 29, 09:49 PM ET",
@@ -216,25 +240,13 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 29, 06:59 PM ET",
-    "publishedAt": "2026-07-29T22:59:55+00:00",
-    "source": "OpenAI",
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwcE5jLW96SjBBYTNYYnFQcnM1OFFCYWR5N0R0LVBza3N5WE42YUNfV0NiQTVOZmc4Vl9ZMUdneWNoTVZfOGphbmJlS044Mmw3cWtzVDRKdnhyTWNIYVVoYXJSX3h6cnNVZ1QtUXQxOFBfYnRXcHN0ZExVaw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 29, 06:44 PM ET",
     "publishedAt": "2026-07-29T22:44:00+00:00",
-    "source": "CNET",
+    "source": "cnet.com",
     "title": "Claude AI Recovering After Widespread Outage on Wednesday",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "summary": "cnet.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
@@ -244,9 +256,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 06:17 PM ET",
     "publishedAt": "2026-07-29T22:17:38+00:00",
-    "source": "theverge.com",
+    "source": "The Verge",
     "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-    "summary": "theverge.com is reporting this update. Open the article for the full story.",
+    "summary": "The Verge is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yUnVJZ0dDQURGSkkybkFndHZXSWwyQTA2eDRlUVRLcUlKcm1CNUUzclZjRTRBejlvVEtna2VZb291Sm53NjkxWWdpSHRfa1ZFSzBHMjNkX3JNRTU4X0hhalhSSFlxRWIxNXVPUXU1bC10UTg2Z0RJRjRjQ2ZyS2M?oc=5",
     "difficulty": "News"
@@ -273,18 +285,6 @@
     "summary": "Newsweek is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXZGZm1WM1RCUHkxSjBnTWFfbVc0RVgtQW5MN0lrV3hxRnQ2ZjNjSENIRDF5dUN5NVRkOWc2MGc3ZFNFcVhKSU1KNU9rcjFMLUFwUzBYUTh1Z201bjRBdlQ4bndvTmdtWW01Z2NvRmZyLTZVUHI3ZWtzQnlUQmpTak5WWUJsNlo3eWFZZDBITFItc0xnQTdjZUd6SQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 29, 04:03 PM ET",
-    "publishedAt": "2026-07-29T20:03:00+00:00",
-    "source": "WION",
-    "title": "Claude AI down? Anthropic confirms outage as users face errors across chatbot and API",
-    "summary": "WION is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmM0UGd3amJiQjJYTU8zRU1tTWg5T0V2Smk3UXNPaDByV3VzRzYxdi1vTVpuNm85Y0MwTkdXeTNEdkI2ZUtDekVlRWVvQVZLRzBVNmNUclFRakVaQ0tZTlBXOU1PbDJGd1U0S0VTYkZ5eGdGdUZpX3M2T2x1Sm92YlIyMVN1Q1NSVWlMc1E0RnR0Ni1vdHAtNDZPSW9ic3pXanZORVZIUVZLMC1lMkNweUxNQnlJeG9xMWdWdUtNMHZFTlUxbkdLYVJuVnlRd9IB0wFBVV95cUxOdkpqY3d5dlhZTzBSREhaMlhUMEJSbjJnMVZCSHpVSW5zVmVrdVZEUHVva2V1SUwyNllaS2VVWEZDemh6T1VVdmpaS3BrWHVrbzM0N0VSQ3psREE2OTdWZlQ0MzFhbW1qbDlBRXR1ck9CS0RGQ25KQnVDSlBIVlA3bk5jTm9kZWlnb1dzMWRDSWEwb1NLRVFpOEl4NkpnUXVodDlxX1VVQU1XUXZfajdiSXNMMng4QXZ3UkI2N3pPazFqSUFyTzczcHRYanQ5WEYtd1dz?oc=5",
     "difficulty": "News"
   },
   {
