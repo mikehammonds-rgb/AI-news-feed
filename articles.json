@@ -72,18 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 31, 12:59 PM ET",
-    "publishedAt": "2026-07-31T16:59:00+00:00",
-    "source": "Business Wire",
-    "title": "Opsin Adds Support for Claude Cowork",
-    "summary": "Business Wire is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPazNScGNJM0UxWk1MZ0xQRW1aMDRLYmlFU2hQZlA4NklrQk5SM3FtalNITENweG9kMzJJcFQtNUstU2wxWE0weVNHT2NvLVF2eWhwaEZpTngzbjBCdnl3Vm5wMi1pTkVlbVFpclVucHZhc1RBWG1oMmtqNjk5OEcwT0NQLUs1Yk1YMEw5WmlicmpuWnNUVVVNRw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 31, 06:55 AM ET",
@@ -232,9 +220,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 09:49 PM ET",
     "publishedAt": "2026-07-30T01:49:00+00:00",
-    "source": "GIGAZINE",
+    "source": "gigazine.net",
     "title": "Microsoft has officially announced that it will release the Copilot super app sometime in 2026.",
-    "summary": "GIGAZINE is reporting this update. Open the article for the full story.",
+    "summary": "gigazine.net is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jMTU0VkJTWTYtVzMwS3BucWYwZlJmUEV1OFR3V0NySGVqRTd1U3RORHJNa19UOVZ2bngxZ2gzZncwSEQtd1ZmclRjbjBJRUZKaHBqR1NBbWVNMFA4TE0wSk1zN0lwem52bWRJTU1QamtXd2RabnBWLV93?oc=5",
     "difficulty": "News"
@@ -326,8 +314,8 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 24, 11:40 AM ET",
-    "publishedAt": "2026-07-24T15:40:08+00:00",
+    "time": "Jul 24, 03:00 AM ET",
+    "publishedAt": "2026-07-24T07:00:00+00:00",
     "source": "Amazon Web Services (AWS)",
     "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
@@ -369,6 +357,18 @@
     "summary": "wiz.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlNtRGVxSU9oRFVoUnBpQzZQVW1fbnBESVdydENXMjd1TEttT0I3cW92ZEZ3c1dwbUJvRFJnOUE1UWd6TVRVUTM5QzFoZVJzY09Da1MzOE82c0laRHBuWUttLWI4UDBoR19SeUJUNEYxYVZrTVFnZDNoNlFZV3pMR2I4SHIyVGZwS2c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Sonnet 5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "difficulty": "News"
   },
   {
