@@ -16,11 +16,23 @@
     "label": "Gemini",
     "time": "Aug 01, 01:00 PM ET",
     "publishedAt": "2026-08-01T17:00:00+00:00",
-    "source": "digitaltrends.com",
+    "source": "Digital Trends",
     "title": "Google just canceled its AI Studio mobile app, and it’s not all bad news",
-    "summary": "digitaltrends.com is reporting this update. Open the article for the full story.",
+    "summary": "Digital Trends is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGJQZ2wzQzJFazBFa240LVhkdkhZei0tYXVjQjJrS2s0b2kyc1NjVDV2b1V3S3JmakhDUk53MzY1Mm1kUHVoUXBsLXFGZ05JXzRRRFRuYl9qdU1TNmlDbEt5eFlhYklrWVBJaTl6UmdqUnp6M0NKc3h0aFJxbTd3YWVZbXEzQ3VTZVdRZXhFdWw5eEpCLVVSZWVsV3dJdDd1MS04Rl9VNlFDaHdZTzNtMw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 01, 10:53 AM ET",
+    "publishedAt": "2026-08-01T14:53:05+00:00",
+    "source": "tech-insider.org",
+    "title": "OpenCode vs Claude Code: Free vs $20, 5.4x Downloads [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjUHJZWDJhQmt2aDdtcjhpTTM3SVppcFNoM2NaNGZXeXhqLWgxWVI0ODZxTF9wM3BoTVRQaDRuY2xzQlRnajM5enk0LVFxbUszZ2R2anozVzhOWkstTUw0NWNIUmo?oc=5",
     "difficulty": "News"
   },
   {
@@ -62,18 +74,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Jul 31, 05:11 PM ET",
-    "publishedAt": "2026-07-31T21:11:05+00:00",
-    "source": "Tech Times",
-    "title": "EU AI Act Chatbot Disclosure Reaches API Builders Sunday: Vendors Cannot Comply for You",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOExkYVdUaFlPcVFsWVRrLU9qS2ZWaldxMWhiX0hTRllDdjJuZVVybWFMUVJvN2dqX2VZRGkyeEhHSWxlcFFycFRCOUlYYkdGOTFmLUlMRUxPc0Vjc3JZbURzT1Zyb3dCV3YtR3R1TWFkaUMybGNZdG5HcWsyNk54NnpCbTdvZ0NnWnJieWRYVEpoSHcteXdRcmdYM3AwVXlrbDEzNHZKQzcxaUx5Q0NvS05jSzFfR2pVQjRBYmFDYS1JRmg1LXdOYTRNYzE4NnZERExZ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jul 31, 02:52 PM ET",
     "publishedAt": "2026-07-31T18:52:44+00:00",
     "source": "BleepingComputer",
@@ -105,18 +105,6 @@
     "summary": "InfoWorld is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekU4S2pRaDZRUm5XdmU2RU9kUzdZMnZEUkZTYThBQXFiLVlDdXlmSjFUYmJDaU45cWdJNzkxbHNSZXdId05Sc3hOQWNOV3hyOTF3dGdjYmxOenI0REJuWVZfZFM3RHBkTExGT2NfTUFwVk5wZ1JEQ29fWVBVZ3RkOFp5NFdkdkJOSE5nOEZsd19LQ1N2MFVTaGRHOUREaVpqT3hEN1VEYTQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 30, 09:38 PM ET",
-    "publishedAt": "2026-07-31T01:38:40+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Code Pricing Splits: Agents Capped at $200 [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNUM1VkZJODFBRnFZWmNVY3ZCVXZXQzNaT1pWbHEzX2VkOVRuLWczQ3hMYTNVUUN3ZnBZMzJaYkNkMHVRMmx5dWJjaXRYbGxPLV95NVEzcDBla2taY0RCNzZPSXVYR3FscWxzWEVuWWhobGs?oc=5",
     "difficulty": "News"
   },
   {
@@ -256,9 +244,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 06:17 PM ET",
     "publishedAt": "2026-07-29T22:17:38+00:00",
-    "source": "theverge.com",
+    "source": "The Verge",
     "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-    "summary": "theverge.com is reporting this update. Open the article for the full story.",
+    "summary": "The Verge is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yUnVJZ0dDQURGSkkybkFndHZXSWwyQTA2eDRlUVRLcUlKcm1CNUUzclZjRTRBejlvVEtna2VZb291Sm53NjkxWWdpSHRfa1ZFSzBHMjNkX3JNRTU4X0hhalhSSFlxRWIxNXVPUXU1bC10UTg2Z0RJRjRjQ2ZyS2M?oc=5",
     "difficulty": "News"
@@ -280,9 +268,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 05:07 PM ET",
     "publishedAt": "2026-07-29T21:07:00+00:00",
-    "source": "Newsweek",
+    "source": "newsweek.com",
     "title": "Users report issues with Claude: Is it down?",
-    "summary": "Newsweek is reporting this update. Open the article for the full story.",
+    "summary": "newsweek.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXZGZm1WM1RCUHkxSjBnTWFfbVc0RVgtQW5MN0lrV3hxRnQ2ZjNjSENIRDF5dUN5NVRkOWc2MGc3ZFNFcVhKSU1KNU9rcjFMLUFwUzBYUTh1Z201bjRBdlQ4bndvTmdtWW01Z2NvRmZyLTZVUHI3ZWtzQnlUQmpTak5WWUJsNlo3eWFZZDBITFItc0xnQTdjZUd6SQ?oc=5",
     "difficulty": "News"
@@ -333,6 +321,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 22, 10:46 AM ET",
+    "publishedAt": "2026-07-22T14:46:12+00:00",
+    "source": "OX Security",
+    "title": "CVE-2026-63764: SSRF in LMDeploy’s OpenAI-Compatible API Server",
+    "summary": "OX Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzBZNTJXZHZadzl3OXp2N0hydDM2WnZCalVqai1jR3R6Mm5KOUF6X2FKaG5vZGdiQTFoUXdjX3ZLRlhwTnBQS01GYWpmdW1kbVBaejhjeW9Vb05OaTZyTTQtNWI0TlJiellRcHVSOGJuRmM3dzRhSUJIbUlxM2dCYmppanVlcUlTYVE3T0lsWkVOUGRwa0E?oc=5",
     "difficulty": "News"
   },
   {
