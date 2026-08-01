@@ -12,18 +12,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 01, 12:17 AM ET",
-    "publishedAt": "2026-08-01T04:17:00+00:00",
-    "source": "Yahoo Finance UK",
-    "title": "Is Oracle (ORCL) Using Google’s Gemini Tie-Up To Reframe Its Core AI Investment Narrative?",
-    "summary": "Yahoo Finance UK is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3NaTExlWU8yNFh3aVMxYjQxbjljeVJUNzJubk1aTm55UEFNYVBYWHpHY2tXWElOWEhYT1JSM1dVVDAtZVBpaTN0UEUtcWx2dGNpQ1F1eUdabWs1Q0FKbWtjZVFlVTRFQkE1cnRZRE13REktLWE5OVZyMlhNU011QkRhV29PM3M?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 31, 09:38 PM ET",
@@ -45,6 +33,18 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 31, 07:22 PM ET",
+    "publishedAt": "2026-07-31T23:22:38+00:00",
+    "source": "RoboZaps",
+    "title": "Gemini Robotics 2: Google DeepMind's Humanoid Robot AI",
+    "summary": "RoboZaps is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBQ3hWcU9XX1plZnVEU0tNckhWMTBSeENfOGRET3IwZG9iazBQbzNuVTVGRUc5NFBTbzBDZm5JQmdPR0RwQXM0a0tXOURrRl91X0c2bzFMSWpTY2dpN2dNSzRNcG52UnBaTk1Dc0xpNHk?oc=5",
     "difficulty": "News"
   },
   {
@@ -244,9 +244,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 06:44 PM ET",
     "publishedAt": "2026-07-29T22:44:00+00:00",
-    "source": "cnet.com",
+    "source": "CNET",
     "title": "Claude AI Recovering After Widespread Outage on Wednesday",
-    "summary": "cnet.com is reporting this update. Open the article for the full story.",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
