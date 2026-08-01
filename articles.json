@@ -1,12 +1,24 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 01, 01:00 PM ET",
+    "publishedAt": "2026-08-01T17:00:00+00:00",
+    "source": "Digital Trends",
+    "title": "Google just canceled its AI Studio mobile app, and it’s not all bad news",
+    "summary": "Digital Trends is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGJQZ2wzQzJFazBFa240LVhkdkhZei0tYXVjQjJrS2s0b2kyc1NjVDV2b1V3S3JmakhDUk53MzY1Mm1kUHVoUXBsLXFGZ05JXzRRRFRuYl9qdU1TNmlDbEt5eFlhYklrWVBJaTl6UmdqUnp6M0NKc3h0aFJxbTd3YWVZbXEzQ3VTZVdRZXhFdWw5eEpCLVVSZWVsV3dJdDd1MS04Rl9VNlFDaHdZTzNtMw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 01, 05:52 AM ET",
     "publishedAt": "2026-08-01T09:52:49+00:00",
-    "source": "marktechpost.com",
+    "source": "MarkTechPost",
     "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
-    "summary": "marktechpost.com is reporting this update. Open the article for the full story.",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOU43a3ZKT01Nd0ZmMjVZNFJVdGw0OUJENWZna0piUTIxTmxvUVJxTHNzazdzVGxNbVhMa0pkYVVvUGN6VW51a0lhS3VUeEhIMnpZM2diT25tcm96MUhfeVB2Z1NQbnBzaHVkN00tSDIyNDVRamwwdWVIT0dJem16dVZXSVo5WlExUkowN24zTEt5M3ROVVRzNzZwdkZpNmFSY1YwVWFlQXdsaC1XeEUwMHNiZXhMN3FFUUJEX0FIR2ZrS2Q5UTljZHBHdzZTbmcwSkdPYmdxcm1weEJvUUZ1cWdwajVKYnpJQUZZ0gHwAUFVX3lxTE53ZlphMkZ0NHFzVXh6eFJ5LWd1R1dhV0xGaU9MZVc5ZU03RC1LRldpcFhwLXRnUmwxS1NSdjI3c0FVTjJ0VTR6Wk45ZEwtMkFHV29NSjU1UDJ6Y2ZZUWpobW8tci0yTU52dm5ZTF9QdmpVRm1wbGpVNUtPVG5uZEhPMHM0ZDFVQU1uZHlMMjVfSTduakdSQkVUNjVrUjdEMThmU0hZVEVWWG1kNFU5U3Vkc21hdDZUakM1YVlPMU94bk5GWDdDUlpndGM1djhLLTJnRFBGd0M5U20waXM5Z19xSDBibHhGTG5zQy1JRmVBVA?oc=5",
     "difficulty": "News"
@@ -33,18 +45,6 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 31, 07:22 PM ET",
-    "publishedAt": "2026-07-31T23:22:38+00:00",
-    "source": "RoboZaps",
-    "title": "Gemini Robotics 2: Google DeepMind's Humanoid Robot AI",
-    "summary": "RoboZaps is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBQ3hWcU9XX1plZnVEU0tNckhWMTBSeENfOGRET3IwZG9iazBQbzNuVTVGRUc5NFBTbzBDZm5JQmdPR0RwQXM0a0tXOURrRl91X0c2bzFMSWpTY2dpN2dNSzRNcG52UnBaTk1Dc0xpNHk?oc=5",
     "difficulty": "News"
   },
   {
@@ -124,9 +124,9 @@
     "label": "Gemini",
     "time": "Jul 30, 02:52 PM ET",
     "publishedAt": "2026-07-30T18:52:45+00:00",
-    "source": "AI Business",
+    "source": "aibusiness.com",
     "title": "Oracle Brings Google Gemini Models to Enterprise Customers",
-    "summary": "AI Business is reporting this update. Open the article for the full story.",
+    "summary": "aibusiness.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY2JYRzluZ1haWTJNRjhqUnBuTmtpak1vMGQxbkNmM0otaGNObHRmeEF3QUh2OWF5M2lnRDlUVHh0emo5YlRGVEMzWUE4YnlhZDFDZXBpQXdZam5wTTlIM0lKWGNEbl9sS0xXUWs5Tm14eGZCN3hsT1hEbWctaHI0NGFNUDhTd3JBZ3p3X3lMSGN3am8?oc=5",
     "difficulty": "News"
@@ -136,9 +136,9 @@
     "label": "Gemini",
     "time": "Jul 30, 02:40 PM ET",
     "publishedAt": "2026-07-30T18:40:29+00:00",
-    "source": "The Register",
+    "source": "theregister.com",
     "title": "Oracle adds Google Gemini to the agent menu",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "summary": "theregister.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUERGSm9HeWZPanZIX2YyRTN5LW5qYWpkUmExaWJMTzU0QzgtSi1rcE1PYUZQWkFWdEpjMThUTDFnMWwzRktpdnZGUkJRWTEyWnZfaDFRX3QydkRkdTh4QXhpSGM2M2QyLU9jZTQzR2RxSTVlR05tWC1KSTlHMVFCaTlLWmZ4QXd6YWVDWTVocXlUR0JUYWIwajB1TlQ5TXVTVXc?oc=5",
     "difficulty": "News"
@@ -220,9 +220,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 09:49 PM ET",
     "publishedAt": "2026-07-30T01:49:00+00:00",
-    "source": "gigazine.net",
+    "source": "GIGAZINE",
     "title": "Microsoft has officially announced that it will release the Copilot super app sometime in 2026.",
-    "summary": "gigazine.net is reporting this update. Open the article for the full story.",
+    "summary": "GIGAZINE is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jMTU0VkJTWTYtVzMwS3BucWYwZlJmUEV1OFR3V0NySGVqRTd1U3RORHJNa19UOVZ2bngxZ2gzZncwSEQtd1ZmclRjbjBJRUZKaHBqR1NBbWVNMFA4TE0wSk1zN0lwem52bWRJTU1QamtXd2RabnBWLV93?oc=5",
     "difficulty": "News"
@@ -304,9 +304,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 11:50 AM ET",
     "publishedAt": "2026-07-29T15:50:04+00:00",
-    "source": "Futurism",
+    "source": "futurism.com",
     "title": "If You AI-Generate Code, Hackers Just Found a Devious Method to Install Malware Directly on Your Computer",
-    "summary": "Futurism is reporting this update. Open the article for the full story.",
+    "summary": "futurism.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHU5Qmo5eTdkV2VsMTZiOWxBUTl0R1lQalBSajk5ZlY2b05TcjJQejFGc2FfQWRycjJMU2dGUTJwY1RlN1pfVnFMTE9Ja0kxNllVM0VXVGI2Vzktamd0eXBNOFZVdU9wWkhHdElpdmZ3eW5DUUNKalJSYXIxME5ZSmczbzBmQmRqczVVVlRZZmhBcTBX?oc=5",
     "difficulty": "News"
@@ -328,9 +328,9 @@
     "label": "ChatGPT",
     "time": "Jul 24, 03:00 AM ET",
     "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "aws.amazon.com",
+    "source": "Amazon Web Services (AWS)",
     "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
-    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
     "difficulty": "News"
@@ -340,9 +340,9 @@
     "label": "Claude Code",
     "time": "Jul 24, 03:00 AM ET",
     "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "Anthropic",
+    "source": "anthropic.com",
     "title": "Introducing Claude Opus 5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
     "difficulty": "News"
