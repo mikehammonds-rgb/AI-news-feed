@@ -1,26 +1,50 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 01, 03:42 PM ET",
-    "publishedAt": "2026-08-01T19:42:55+00:00",
-    "source": "sitepoint.com",
-    "title": "Claude's Steganographic Request Marking: What Developers Need to Know",
-    "summary": "sitepoint.com is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 02, 08:45 AM ET",
+    "publishedAt": "2026-08-02T12:45:09+00:00",
+    "source": "The Robot Report",
+    "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
+    "summary": "The Robot Report is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EdWpzczl3S0Rqc0JSejQ1c0lfMVg3cXoyLXNFMVJHa1c4dzlqMW5RcXpROF9YNEFVMWo1LW8zVms3NHRKeEJUVDJRWlhZOGkzZEhEVklRU2NuZ2dyRG5TZGFfZllrR0lEenoxRC0weVV2Zw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGhTUndQdUxFX3R6a1ZUTHV5ZkkweFE0bFAtSUE3cFF5QWU2NGg3N1VNRG4yRHgwNHhUR193VG1wcWIzLTExcE9aQnl1MFVtXzNaemt0MEhDS0doSGVvS2NLbGNEX2RXMWJieVh6SlR1SnpDcHFCVk5ZUS1fN1p6V1ctS1k3dUNlNWNjYzQxMWR2TlhEV1prajR1OUQ?oc=5",
     "difficulty": "News"
   },
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 01, 01:00 PM ET",
-    "publishedAt": "2026-08-01T17:00:00+00:00",
-    "source": "Digital Trends",
-    "title": "Google just canceled its AI Studio mobile app, and it’s not all bad news",
-    "summary": "Digital Trends is reporting this update. Open the article for the full story.",
+    "time": "Aug 02, 07:41 AM ET",
+    "publishedAt": "2026-08-02T11:41:25+00:00",
+    "source": "Crypto Briefing",
+    "title": "Google DeepMind unveils Gemini Robotics 2, a universal AI brain that lets robots swap bodies",
+    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGJQZ2wzQzJFazBFa240LVhkdkhZei0tYXVjQjJrS2s0b2kyc1NjVDV2b1V3S3JmakhDUk53MzY1Mm1kUHVoUXBsLXFGZ05JXzRRRFRuYl9qdU1TNmlDbEt5eFlhYklrWVBJaTl6UmdqUnp6M0NKc3h0aFJxbTd3YWVZbXEzQ3VTZVdRZXhFdWw5eEpCLVVSZWVsV3dJdDd1MS04Rl9VNlFDaHdZTzNtMw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeWtHalhjUzhaZUJ0QzRqWHF1ZGxBcmc4ZHZTd3ExQkJBeHNKblpOMmNYcGNUZXNlU3NWV1ZaeHl2RHNCbWFoMXdtaVJxQjVyNTdad2tKaWFHODhJWDBaUHFrVnNvTm9saHdqOVQ4ekY0WnFERmswR0VfbnJhdXlzVw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 02, 05:12 AM ET",
+    "publishedAt": "2026-08-02T09:12:00+00:00",
+    "source": "The Times of India",
+    "title": "Google Gemini to build apps directly as Google scraps AI Studio for Android, iOS",
+    "summary": "The Times of India is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbGlianktcG56UXZhUXVVM3M4enBmLXh2NEY4cmRLTGlXMFk2LTJ5X3V1c3A3LTBSSHprZ3hUNmZMZk9xc1lPMExtQzRJeTF0WG1tYUVVZ0VtY0lOYXpSY0FCclViVi0xZjB6ZGNYQkdrRU1UTzBFckl0RmlkY3pkcmtCdHFHQlBrdmNtR3NZRXNSZzdXVE5hSTJqOGpqc2QzRlMwZVV2WGQ5M0tYMnUwdlBnUUNKaERraGlfdGFnUTEtX0J5S19weWtSTFpZNUIzTG1LRVFsMGpQdHo3alZzQ2NWcTRzVzhpRjNCZjZxNlZtd2500gH6AUFVX3lxTFAyNDdJbVRPMmVuMUF1S0ItVDZYTTJVb3JzTjQtRnBaWENjUGNXcUFoNVM2NVZXbnV2d0g3OEoyOUlQOWE0RzhyYVFZMGVydWl2Qml6d01yMk9uOENkc21VRkFfcS1aWE91QlI5ZUJ2c0VhQ3BOTzYxaVZ4S3ZnR0NDM0JtNGpobFhyUXpHSVZwUm9nazA5OUtpZmtNRFROWVE2X1ZIV2lqdTltQ1FPMjJraEhGMXBScHZiZ3ZUQzJyR3lkQ2NCY1V0UTF1LXZFLXotUWFtQi1uVWR6a0xIU01GVk9jdUcwNTB3c2UtWlVRSmcxRzJjSmdyV0E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 01, 03:42 PM ET",
+    "publishedAt": "2026-08-01T19:42:55+00:00",
+    "source": "SitePoint",
+    "title": "Claude's Steganographic Request Marking: What Developers Need to Know",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EdWpzczl3S0Rqc0JSejQ1c0lfMVg3cXoyLXNFMVJHa1c4dzlqMW5RcXpROF9YNEFVMWo1LW8zVms3NHRKeEJUVDJRWlhZOGkzZEhEVklRU2NuZ2dyRG5TZGFfZllrR0lEenoxRC0weVV2Zw?oc=5",
     "difficulty": "News"
   },
   {
@@ -72,18 +96,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 31, 06:55 AM ET",
-    "publishedAt": "2026-07-31T10:55:03+00:00",
-    "source": "IT Pro",
-    "title": "Oracle integrates Google's Gemini AI models into enterprise apps",
-    "summary": "IT Pro is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmZUZkRtVkdERnczVUNJcmd2RDdmMDZtT3k2ZmlKVERkOTBrTGszM2JPcURKU0UwZ3pnOTd2QVYyczhfMEE5M0NFU0tNWFFYZklvU0l6eURkUGdOYzhtVFZURjdRbTBHbEVEeUtWVmxFSUJKeTFvdFh1bHFxZ1JHeVBscnFEcFh1NWE1RGFuUTRzUVJsRnI2SElNTlhtQkF6WWtpYzh6S0F1cjRvRFpVY0dMSm03ZWpta3BtTw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 31, 06:29 AM ET",
@@ -117,18 +129,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 30, 02:52 PM ET",
-    "publishedAt": "2026-07-30T18:52:45+00:00",
-    "source": "AI Business",
-    "title": "Oracle Brings Google Gemini Models to Enterprise Customers",
-    "summary": "AI Business is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY2JYRzluZ1haWTJNRjhqUnBuTmtpak1vMGQxbkNmM0otaGNObHRmeEF3QUh2OWF5M2lnRDlUVHh0emo5YlRGVEMzWUE4YnlhZDFDZXBpQXdZam5wTTlIM0lKWGNEbl9sS0xXUWs5Tm14eGZCN3hsT1hEbWctaHI0NGFNUDhTd3JBZ3p3X3lMSGN3am8?oc=5",
     "difficulty": "News"
   },
   {
@@ -170,13 +170,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 30, 10:16 AM ET",
-    "publishedAt": "2026-07-30T14:16:57+00:00",
-    "source": "Bloomberg.com",
-    "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
-    "summary": "Bloomberg.com is reporting this update. Open the article for the full story.",
+    "time": "Jul 30, 11:00 AM ET",
+    "publishedAt": "2026-07-30T15:00:00+00:00",
+    "source": "Mashable",
+    "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5",
     "difficulty": "News"
   },
   {
@@ -220,23 +220,11 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 09:49 PM ET",
     "publishedAt": "2026-07-30T01:49:00+00:00",
-    "source": "GIGAZINE",
+    "source": "gigazine.net",
     "title": "Microsoft has officially announced that it will release the Copilot super app sometime in 2026.",
-    "summary": "GIGAZINE is reporting this update. Open the article for the full story.",
+    "summary": "gigazine.net is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jMTU0VkJTWTYtVzMwS3BucWYwZlJmUEV1OFR3V0NySGVqRTd1U3RORHJNa19UOVZ2bngxZ2gzZncwSEQtd1ZmclRjbjBJRUZKaHBqR1NBbWVNMFA4TE0wSk1zN0lwem52bWRJTU1QamtXd2RabnBWLV93?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 29, 09:40 PM ET",
-    "publishedAt": "2026-07-30T01:40:21+00:00",
-    "source": "tech-insider.org",
-    "title": "Copilot vs Q Developer vs Gemini Code Assist Hit $19 [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HUDNVVThoemdpRGhOR0NjZ01YTXlMSVRlbUN6Qmxxa3kzU2RmYTZqcFczeWFaZWtDWHFmY2ZDbmRHR1Y1S2Z4TnduV0wya3BzV1h4eTVnME5BbkJKQjZmTWgteG41dkdKV1MtQ3ZuQW1BZEN1?oc=5",
     "difficulty": "News"
   },
   {
@@ -268,9 +256,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 05:39 PM ET",
     "publishedAt": "2026-07-29T21:39:00+00:00",
-    "source": "BleepingComputer",
+    "source": "bleepingcomputer.com",
     "title": "Anthropic confirms Claude is down worldwide",
-    "summary": "BleepingComputer is reporting this update. Open the article for the full story.",
+    "summary": "bleepingcomputer.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmRKWTF1ZEpWR21abVYyWDFndHR4dXpJTVlHcjZfRkZSR2xLTGJvWnJJZkxXenA2R09HQXRtRHZwXzI5TF9MMEFCR2lwOWxzRDR4NXJNRG41NlByZEYxOU5sTC1mNzRkc1dhdkFuT1gyRzRydnVMcmszTGxlREN4NVZzN0E0dThSNExFNDlVUmhaLWhpUWFiX0F0Y3BZMHZabmFPSC1PYkF2d9IBrwFBVV95cUxOR0VZbFZ2Z1h3UXRuTGMyMlRSR3g1Nk1OSTJTWE9aRi01bUNyaGFQbk0tdHRyUmhVZUVjVVZvVTMtU0hEMU1xSkFEb01MdEQtQzJUZUpCbk1QU0lsTjlNeGVwcDlJdmdJbWpSNlFmLWYzRnRYUzdLU1QxS0hpcEVIRURsSGxFWVFCdE8tTGtJY2lGUUhocjR1YWtmbVZnWkxabU4yeUNmSVYyd2gxSzlz?oc=5",
     "difficulty": "News"
@@ -321,6 +309,18 @@
     "summary": "Futurism is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHU5Qmo5eTdkV2VsMTZiOWxBUTl0R1lQalBSajk5ZlY2b05TcjJQejFGc2FfQWRycjJMU2dGUTJwY1RlN1pfVnFMTE9Ja0kxNllVM0VXVGI2Vzktamd0eXBNOFZVdU9wWkhHdElpdmZ3eW5DUUNKalJSYXIxME5ZSmczbzBmQmRqczVVVlRZZmhBcTBX?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 29, 02:50 AM ET",
+    "publishedAt": "2026-07-29T06:50:33+00:00",
+    "source": "tech-insider.org",
+    "title": "Grok 4.5 Launches for Coding, Undercuts Opus by 76% [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yVzVTYnNndUl1WFFUcGloMGU0MEFfTDVyVUU4RkNreHJfX1B6emZxVzR3Vmt3cEpacXByenJrWWk3TE84dFgwM3dVbmQ0V2lDTUNJZ3hnV1QydDczZkV4TkliNnRXWXM?oc=5",
     "difficulty": "News"
   },
   {
