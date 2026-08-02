@@ -88,11 +88,23 @@
     "label": "ChatGPT",
     "time": "Jul 31, 06:29 AM ET",
     "publishedAt": "2026-07-31T10:29:11+00:00",
-    "source": "infoworld.com",
+    "source": "InfoWorld",
     "title": "OpenAI drops GPT-5.6 Luna and Terra API prices by up to 80%",
-    "summary": "infoworld.com is reporting this update. Open the article for the full story.",
+    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekU4S2pRaDZRUm5XdmU2RU9kUzdZMnZEUkZTYThBQXFiLVlDdXlmSjFUYmJDaU45cWdJNzkxbHNSZXdId05Sc3hOQWNOV3hyOTF3dGdjYmxOenI0REJuWVZfZFM3RHBkTExGT2NfTUFwVk5wZ1JEQ29fWVBVZ3RkOFp5NFdkdkJOSE5nOEZsd19LQ1N2MFVTaGRHOUREaVpqT3hEN1VEYTQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 05:48 PM ET",
+    "publishedAt": "2026-07-30T21:48:00+00:00",
+    "source": "VentureBeat",
+    "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ2hVQW43d3QzOWlhMnMta2dhbDFTSDFSWC1Ua01fb09wcGFvR1d4M2dPcWlnTlRTdFBqVzVZT202dVpfV2FOYkpncmxlSnRhSUVZZ0Z0TDBiYXhmejBTVkRPRmhENHlMME1HOHQ3NU5BeTV1OVR3d2E4amRjRnZ6VV9TQXotcjRXVUpSTWU3UWxJTlVOZFNLWGUzY0dMVnhGZUNVakFPTFBwY1ZiU2wwNDVoSDk0dG9LR1NpZDdndEFsbWVW?oc=5",
     "difficulty": "News"
   },
   {
@@ -112,9 +124,9 @@
     "label": "Gemini",
     "time": "Jul 30, 02:52 PM ET",
     "publishedAt": "2026-07-30T18:52:45+00:00",
-    "source": "aibusiness.com",
+    "source": "AI Business",
     "title": "Oracle Brings Google Gemini Models to Enterprise Customers",
-    "summary": "aibusiness.com is reporting this update. Open the article for the full story.",
+    "summary": "AI Business is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY2JYRzluZ1haWTJNRjhqUnBuTmtpak1vMGQxbkNmM0otaGNObHRmeEF3QUh2OWF5M2lnRDlUVHh0emo5YlRGVEMzWUE4YnlhZDFDZXBpQXdZam5wTTlIM0lKWGNEbl9sS0xXUWs5Tm14eGZCN3hsT1hEbWctaHI0NGFNUDhTd3JBZ3p3X3lMSGN3am8?oc=5",
     "difficulty": "News"
@@ -324,18 +336,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 22, 10:46 AM ET",
-    "publishedAt": "2026-07-22T14:46:12+00:00",
-    "source": "ox.security",
-    "title": "CVE-2026-63764: SSRF in LMDeploy’s OpenAI-Compatible API Server",
-    "summary": "ox.security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzBZNTJXZHZadzl3OXp2N0hydDM2WnZCalVqai1jR3R6Mm5KOUF6X2FKaG5vZGdiQTFoUXdjX3ZLRlhwTnBQS01GYWpmdW1kbVBaejhjeW9Vb05OaTZyTTQtNWI0TlJiellRcHVSOGJuRmM3dzRhSUJIbUlxM2dCYmppanVlcUlTYVE3T0lsWkVOUGRwa0E?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 10, 03:00 AM ET",
@@ -376,9 +376,9 @@
     "label": "Codex / LLM Code",
     "time": "May 25, 03:00 AM ET",
     "publishedAt": "2026-05-25T07:00:00+00:00",
-    "source": "michaelparekh.substack.com",
+    "source": "AI: Reset to Zero",
     "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "michaelparekh.substack.com is reporting this update. Open the article for the full story.",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
