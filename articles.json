@@ -28,9 +28,9 @@
     "label": "Gemini",
     "time": "Aug 02, 05:12 AM ET",
     "publishedAt": "2026-08-02T09:12:00+00:00",
-    "source": "timesofindia.indiatimes.com",
+    "source": "The Times of India",
     "title": "Google Gemini to build apps directly as Google scraps AI Studio for Android, iOS",
-    "summary": "timesofindia.indiatimes.com is reporting this update. Open the article for the full story.",
+    "summary": "The Times of India is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbGlianktcG56UXZhUXVVM3M4enBmLXh2NEY4cmRLTGlXMFk2LTJ5X3V1c3A3LTBSSHprZ3hUNmZMZk9xc1lPMExtQzRJeTF0WG1tYUVVZ0VtY0lOYXpSY0FCclViVi0xZjB6ZGNYQkdrRU1UTzBFckl0RmlkY3pkcmtCdHFHQlBrdmNtR3NZRXNSZzdXVE5hSTJqOGpqc2QzRlMwZVV2WGQ5M0tYMnUwdlBnUUNKaERraGlfdGFnUTEtX0J5S19weWtSTFpZNUIzTG1LRVFsMGpQdHo3alZzQ2NWcTRzVzhpRjNCZjZxNlZtd2500gH6AUFVX3lxTFAyNDdJbVRPMmVuMUF1S0ItVDZYTTJVb3JzTjQtRnBaWENjUGNXcUFoNVM2NVZXbnV2d0g3OEoyOUlQOWE0RzhyYVFZMGVydWl2Qml6d01yMk9uOENkc21VRkFfcS1aWE91QlI5ZUJ2c0VhQ3BOTzYxaVZ4S3ZnR0NDM0JtNGpobFhyUXpHSVZwUm9nazA5OUtpZmtNRFROWVE2X1ZIV2lqdTltQ1FPMjJraEhGMXBScHZiZ3ZUQzJyR3lkQ2NCY1V0UTF1LXZFLXotUWFtQi1uVWR6a0xIU01GVk9jdUcwNTB3c2UtWlVRSmcxRzJjSmdyV0E?oc=5",
     "difficulty": "News"
@@ -124,9 +124,9 @@
     "label": "Gemini",
     "time": "Jul 30, 02:40 PM ET",
     "publishedAt": "2026-07-30T18:40:29+00:00",
-    "source": "The Register",
+    "source": "theregister.com",
     "title": "Oracle adds Google Gemini to the agent menu",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "summary": "theregister.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUERGSm9HeWZPanZIX2YyRTN5LW5qYWpkUmExaWJMTzU0QzgtSi1rcE1PYUZQWkFWdEpjMThUTDFnMWwzRktpdnZGUkJRWTEyWnZfaDFRX3QydkRkdTh4QXhpSGM2M2QyLU9jZTQzR2RxSTVlR05tWC1KSTlHMVFCaTlLWmZ4QXd6YWVDWTVocXlUR0JUYWIwajB1TlQ5TXVTVXc?oc=5",
     "difficulty": "News"
@@ -204,25 +204,13 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 29, 09:49 PM ET",
-    "publishedAt": "2026-07-30T01:49:00+00:00",
-    "source": "GIGAZINE",
-    "title": "Microsoft has officially announced that it will release the Copilot super app sometime in 2026.",
-    "summary": "GIGAZINE is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jMTU0VkJTWTYtVzMwS3BucWYwZlJmUEV1OFR3V0NySGVqRTd1U3RORHJNa19UOVZ2bngxZ2gzZncwSEQtd1ZmclRjbjBJRUZKaHBqR1NBbWVNMFA4TE0wSk1zN0lwem52bWRJTU1QamtXd2RabnBWLV93?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 29, 06:44 PM ET",
     "publishedAt": "2026-07-29T22:44:00+00:00",
-    "source": "cnet.com",
+    "source": "CNET",
     "title": "Claude AI Recovering After Widespread Outage on Wednesday",
-    "summary": "cnet.com is reporting this update. Open the article for the full story.",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
@@ -280,9 +268,9 @@
     "label": "ChatGPT",
     "time": "Jul 29, 01:25 PM ET",
     "publishedAt": "2026-07-29T17:25:00+00:00",
-    "source": "businessinsider.com",
+    "source": "Business Insider",
     "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
@@ -369,6 +357,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 03:00 AM ET",
+    "publishedAt": "2026-06-16T07:00:00+00:00",
+    "source": "CBS News",
+    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   },
   {
