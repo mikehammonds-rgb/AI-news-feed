@@ -36,18 +36,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 01, 05:52 AM ET",
-    "publishedAt": "2026-08-01T09:52:49+00:00",
-    "source": "MarkTechPost",
-    "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOU43a3ZKT01Nd0ZmMjVZNFJVdGw0OUJENWZna0piUTIxTmxvUVJxTHNzazdzVGxNbVhMa0pkYVVvUGN6VW51a0lhS3VUeEhIMnpZM2diT25tcm96MUhfeVB2Z1NQbnBzaHVkN00tSDIyNDVRamwwdWVIT0dJem16dVZXSVo5WlExUkowN24zTEt5M3ROVVRzNzZwdkZpNmFSY1YwVWFlQXdsaC1XeEUwMHNiZXhMN3FFUUJEX0FIR2ZrS2Q5UTljZHBHdzZTbmcwSkdPYmdxcm1weEJvUUZ1cWdwajVKYnpJQUZZ0gHwAUFVX3lxTE53ZlphMkZ0NHFzVXh6eFJ5LWd1R1dhV0xGaU9MZVc5ZU03RC1LRldpcFhwLXRnUmwxS1NSdjI3c0FVTjJ0VTR6Wk45ZEwtMkFHV29NSjU1UDJ6Y2ZZUWpobW8tci0yTU52dm5ZTF9QdmpVRm1wbGpVNUtPVG5uZEhPMHM0ZDFVQU1uZHlMMjVfSTduakdSQkVUNjVrUjdEMThmU0hZVEVWWG1kNFU5U3Vkc21hdDZUakM1YVlPMU94bk5GWDdDUlpndGM1djhLLTJnRFBGd0M5U20waXM5Z19xSDBibHhGTG5zQy1JRmVBVA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 31, 07:39 PM ET",
@@ -220,11 +208,23 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 09:49 PM ET",
     "publishedAt": "2026-07-30T01:49:00+00:00",
-    "source": "gigazine.net",
+    "source": "GIGAZINE",
     "title": "Microsoft has officially announced that it will release the Copilot super app sometime in 2026.",
-    "summary": "gigazine.net is reporting this update. Open the article for the full story.",
+    "summary": "GIGAZINE is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jMTU0VkJTWTYtVzMwS3BucWYwZlJmUEV1OFR3V0NySGVqRTd1U3RORHJNa19UOVZ2bngxZ2gzZncwSEQtd1ZmclRjbjBJRUZKaHBqR1NBbWVNMFA4TE0wSk1zN0lwem52bWRJTU1QamtXd2RabnBWLV93?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 29, 09:40 PM ET",
+    "publishedAt": "2026-07-30T01:40:21+00:00",
+    "source": "tech-insider.org",
+    "title": "Copilot vs Q Developer vs Gemini Code Assist Hit $19 [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HUDNVVThoemdpRGhOR0NjZ01YTXlMSVRlbUN6Qmxxa3kzU2RmYTZqcFczeWFaZWtDWHFmY2ZDbmRHR1Y1S2Z4TnduV0wya3BzV1h4eTVnME5BbkJKQjZmTWgteG41dkdKV1MtQ3ZuQW1BZEN1?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,6 +276,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 29, 04:03 PM ET",
+    "publishedAt": "2026-07-29T20:03:00+00:00",
+    "source": "WION",
+    "title": "Claude AI down? Anthropic confirms outage as users face errors across chatbot and API",
+    "summary": "WION is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmM0UGd3amJiQjJYTU8zRU1tTWg5T0V2Smk3UXNPaDByV3VzRzYxdi1vTVpuNm85Y0MwTkdXeTNEdkI2ZUtDekVlRWVvQVZLRzBVNmNUclFRakVaQ0tZTlBXOU1PbDJGd1U0S0VTYkZ5eGdGdUZpX3M2T2x1Sm92YlIyMVN1Q1NSVWlMc1E0RnR0Ni1vdHAtNDZPSW9ic3pXanZORVZIUVZLMC1lMkNweUxNQnlJeG9xMWdWdUtNMHZFTlUxbkdLYVJuVnlRd9IB0wFBVV95cUxOdkpqY3d5dlhZTzBSREhaMlhUMEJSbjJnMVZCSHpVSW5zVmVrdVZEUHVva2V1SUwyNllaS2VVWEZDemh6T1VVdmpaS3BrWHVrbzM0N0VSQ3psREE2OTdWZlQ0MzFhbW1qbDlBRXR1ck9CS0RGQ25KQnVDSlBIVlA3bk5jTm9kZWlnb1dzMWRDSWEwb1NLRVFpOEl4NkpnUXVodDlxX1VVQU1XUXZfajdiSXNMMng4QXZ3UkI2N3pPazFqSUFyTzczcHRYanQ5WEYtd1dz?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 29, 01:25 PM ET",
@@ -300,25 +312,13 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 29, 02:50 AM ET",
-    "publishedAt": "2026-07-29T06:50:33+00:00",
-    "source": "tech-insider.org",
-    "title": "Grok 4.5 Launches for Coding, Undercuts Opus by 76% [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yVzVTYnNndUl1WFFUcGloMGU0MEFfTDVyVUU4RkNreHJfX1B6emZxVzR3Vmt3cEpacXByenJrWWk3TE84dFgwM3dVbmQ0V2lDTUNJZ3hnV1QydDczZkV4TkliNnRXWXM?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 24, 03:00 AM ET",
     "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "aws.amazon.com",
     "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
     "difficulty": "News"
