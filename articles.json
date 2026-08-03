@@ -16,9 +16,9 @@
     "label": "Gemini",
     "time": "Aug 03, 10:34 AM ET",
     "publishedAt": "2026-08-03T14:34:29+00:00",
-    "source": "androidheadlines.com",
+    "source": "Android Headlines",
     "title": "Google Cancels AI Studio App Before It Even Debuts—But for a Good Reason",
-    "summary": "androidheadlines.com is reporting this update. Open the article for the full story.",
+    "summary": "Android Headlines is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHpLVjMxcWNhV2t3UWRiY3BQVlVDYVJGbTg1d1YwZFFZS2hTWm5mQ1dsZW1IWEpycjhpN0VsT0JfdFBVOHNJMFphMk4wMXROdS1YUW11WDJEUW1fODU4MGlCaC1kd0d5NXZTSUpzN1FreFFrekpxWkg5Rjl0aDRUU0FIMkplaUd4dzBsaTE3QUlYNWtRYlBRSjJYeGl2MmxwSFZZWVl3?oc=5",
     "difficulty": "News"
@@ -72,6 +72,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 02, 11:41 PM ET",
+    "publishedAt": "2026-08-03T03:41:00+00:00",
+    "source": "Android Authority",
+    "title": "Google is canceling an unreleased app after 800,000 people pre-ordered it",
+    "summary": "Android Authority is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnBRaWxhelBZNGhlNGl2Uk1pZnM4OWloY0dpbnkzRnFTNGJrVGtZREhNZ0tuSjZFYVpsNmtsQWhaREZ1ZDdfSzJONXZuc2dLeVRUQ002Uk9xU3lFcUpGMXUzaGZyd3d5WUZyNDByU1pUQUE0Y2dxNFc3TFBSVnJEaWZidGM?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 02, 07:01 PM ET",
@@ -88,9 +100,9 @@
     "label": "Claude Code",
     "time": "Aug 01, 03:42 PM ET",
     "publishedAt": "2026-08-01T19:42:55+00:00",
-    "source": "SitePoint",
+    "source": "sitepoint.com",
     "title": "Claude's Steganographic Request Marking: What Developers Need to Know",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "summary": "sitepoint.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EdWpzczl3S0Rqc0JSejQ1c0lfMVg3cXoyLXNFMVJHa1c4dzlqMW5RcXpROF9YNEFVMWo1LW8zVms3NHRKeEJUVDJRWlhZOGkzZEhEVklRU2NuZ2dyRG5TZGFfZllrR0lEenoxRC0weVV2Zw?oc=5",
     "difficulty": "News"
@@ -148,9 +160,9 @@
     "label": "ChatGPT",
     "time": "Jul 30, 04:29 PM ET",
     "publishedAt": "2026-07-30T20:29:58+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
@@ -189,18 +201,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5kVDZidVI2WUlXTUs4UmplRDVCR1hTOUc4RWY3YnFyRjVUZGNVTVlkT1FTdU1WdkZqQmZfX2pTYlJXRHd5dmR1dWpRZFBrSTNDNXlOX2Jmdkw5NmNTb2ZmM3B5YmJUd1kxOUkxcHJTUm9DTlR1RU5hZ0pFbmNNT3Z4WndfWUdPejRReFlib0lUVzlXS2VHeXlsNA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 30, 10:16 AM ET",
-    "publishedAt": "2026-07-30T14:16:57+00:00",
-    "source": "Bloomberg.com",
-    "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
-    "summary": "Bloomberg.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5",
     "difficulty": "News"
   },
   {
