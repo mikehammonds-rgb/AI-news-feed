@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 03, 08:00 AM ET",
+    "publishedAt": "2026-08-03T12:00:00+00:00",
+    "source": "ALM Corp",
+    "title": "OpenAI Rolls Out Conversion Bidding And New Campaign Tools For ChatGPT Ads",
+    "summary": "ALM Corp is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzV4dmR0RXRXS1NIZklzcWVoQjlpNzBlUTBlRGw0Nk9lNHlScXEwSmhlRmNfVkluYzB4Vmt4SUJJU0JoYTJPTkh0MGFia0VPQngxcEdVdVpyQkhZc0lQeHFlNm1xYUZZZDFhckJ2dV91MEtCYVczYXE0eXFSZlNHWXNoNA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 03, 03:21 AM ET",
@@ -9,6 +21,18 @@
     "summary": "PhoneArena is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY3NwZ3VDaUJXcm1lM2pJd3NkRTJndTdsMUVTdXc0R2Y5Q3kwdGF2Ukg4b1FBT05zanc4MW9OaXc3REpGREtQcng5ZC1MQXRuMVRDMU01cDk0Wk1uaXFkREQyVmx2a0QxY1E5cU51QnpUX3kyMlpqZ1Q4NmZGUWJBOG81elpnMzVTcU40cDhkZUNTVFVCSl8tYTNlQnJEZ09YUmJNUy1ibGNKaXB6dFJ6c3FqS1EwUHc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 03, 03:02 AM ET",
+    "publishedAt": "2026-08-03T07:02:51+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Outage Hits 5h 44m as Anthropic Tops $47B [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45MW5sSEdPNm5HQlZSOTROYlBFNDgzaU1TR05JQk53bEtBbFNtdDUwS0tvQUYwcFhaNEV5NzBINkU1bG1WYUZ4cEJRdkVtYTh6bXdWU2RYLUJUalFzdmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -48,18 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 01, 10:53 AM ET",
-    "publishedAt": "2026-08-01T14:53:05+00:00",
-    "source": "tech-insider.org",
-    "title": "OpenCode vs Claude Code: Free vs $20, 5.4x Downloads [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjUHJZWDJhQmt2aDdtcjhpTTM3SVppcFNoM2NaNGZXeXhqLWgxWVI0ODZxTF9wM3BoTVRQaDRuY2xzQlRnajM5enk0LVFxbUszZ2R2anozVzhOWkstTUw0NWNIUmo?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 31, 11:58 PM ET",
@@ -81,18 +93,6 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 31, 07:00 AM ET",
-    "publishedAt": "2026-07-31T11:00:25+00:00",
-    "source": "South China Morning Post",
-    "title": "OpenAI blinks in face-off with Chinese rivals, making big price cuts",
-    "summary": "South China Morning Post is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRUlHcHlXaGVvbG43SFBBZTVVVlJTTFVUS2FNWDgxS3JSMXNHT01yQVIwRjhQYnMzXzlRUkJjRzNKY093c3luQnFRbHk0UWh0ZmFMZ0NFcEtTem5wWU85WW5PSFZ1cFYyWlREeUlIYmQwMjRTSjhIWmZfNmpmX0R6VVRsdUV5MExNaWRiNE9Xa1RLX2xrUjdfRDNEOFRHVXVYdG5ILUFYc2pWUmJfRk9NdzRSdHYwNG_SAbcBQVVfeXFMTlMtLUNndzhIenJPU3lWYmhmOG1WMnhHa0pyNnZHa05XMXF0ZTBicTdOTkdpSU5lUFUwQ0dqemJSbzcxOVJvSEJ0Q0JPbXQwZ0dabnNhWm9Rd0o5RVdSSVFrZjdrWTAwaTVMbjVreUVpcmVwQ0M4MGVZMFVaQ2NfWFVWNHYwM3NRWldMa3pZWGY3bmVGQ0hSMW1fS3JhMHg5ZXVsMmR6VnRya3NGTm5RdHk1akR6QU9J?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,6 +216,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 29, 09:40 PM ET",
+    "publishedAt": "2026-07-30T01:40:21+00:00",
+    "source": "tech-insider.org",
+    "title": "Copilot vs Q Developer vs Gemini Code Assist Hit $19 [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HUDNVVThoemdpRGhOR0NjZ01YTXlMSVRlbUN6Qmxxa3kzU2RmYTZqcFczeWFaZWtDWHFmY2ZDbmRHR1Y1S2Z4TnduV0wya3BzV1h4eTVnME5BbkJKQjZmTWgteG41dkdKV1MtQ3ZuQW1BZEN1?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Jul 29, 06:44 PM ET",
@@ -297,18 +309,6 @@
     "summary": "Futurism is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHU5Qmo5eTdkV2VsMTZiOWxBUTl0R1lQalBSajk5ZlY2b05TcjJQejFGc2FfQWRycjJMU2dGUTJwY1RlN1pfVnFMTE9Ja0kxNllVM0VXVGI2Vzktamd0eXBNOFZVdU9wWkhHdElpdmZ3eW5DUUNKalJSYXIxME5ZSmczbzBmQmRqczVVVlRZZmhBcTBX?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 29, 02:50 AM ET",
-    "publishedAt": "2026-07-29T06:50:33+00:00",
-    "source": "tech-insider.org",
-    "title": "Grok 4.5 Launches for Coding, Undercuts Opus by 76% [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yVzVTYnNndUl1WFFUcGloMGU0MEFfTDVyVUU4RkNreHJfX1B6emZxVzR3Vmt3cEpacXByenJrWWk3TE84dFgwM3dVbmQ0V2lDTUNJZ3hnV1QydDczZkV4TkliNnRXWXM?oc=5",
     "difficulty": "News"
   },
   {
