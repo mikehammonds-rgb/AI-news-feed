@@ -2,6 +2,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Aug 03, 02:46 PM ET",
+    "publishedAt": "2026-08-03T18:46:18+00:00",
+    "source": "TechRepublic",
+    "title": "Google’s Biggest Announcements of 2026: Gemini, Android 17, and More",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb295UzB6LUpYbXFxZnNiUW9TdzVrZGFfbmJzelBOU3h5RnlVSmt4dDRwc21mcFA2Zk1GeE1DNWRVUDlOOGo2WmJUNFhxdmVpYkVhT2VrTHI0TEZHSXJMcmtlaldpZU5RbHVVenZXdVR3di1qUXV5d1JEQjk3WEwzVF9n?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Aug 03, 10:34 AM ET",
     "publishedAt": "2026-08-03T14:34:29+00:00",
     "source": "Android Headlines",
@@ -28,23 +40,11 @@
     "label": "ChatGPT",
     "time": "Aug 03, 03:43 AM ET",
     "publishedAt": "2026-08-03T07:43:24+00:00",
-    "source": "Stocktwits",
+    "source": "stocktwits.com",
     "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
-    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
+    "summary": "stocktwits.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 03, 03:21 AM ET",
-    "publishedAt": "2026-08-03T07:21:58+00:00",
-    "source": "PhoneArena",
-    "title": "I was one of 800,000 people who preordered this AI app before Google suddenly pulled the plug",
-    "summary": "PhoneArena is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY3NwZ3VDaUJXcm1lM2pJd3NkRTJndTdsMUVTdXc0R2Y5Q3kwdGF2Ukg4b1FBT05zanc4MW9OaXc3REpGREtQcng5ZC1MQXRuMVRDMU01cDk0Wk1uaXFkREQyVmx2a0QxY1E5cU51QnpUX3kyMlpqZ1Q4NmZGUWJBOG81elpnMzVTcU40cDhkZUNTVFVCSl8tYTNlQnJEZ09YUmJNUy1ibGNKaXB6dFJ6c3FqS1EwUHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -160,9 +160,9 @@
     "label": "Gemini",
     "time": "Jul 30, 02:40 PM ET",
     "publishedAt": "2026-07-30T18:40:29+00:00",
-    "source": "theregister.com",
+    "source": "The Register",
     "title": "Oracle adds Google Gemini to the agent menu",
-    "summary": "theregister.com is reporting this update. Open the article for the full story.",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUERGSm9HeWZPanZIX2YyRTN5LW5qYWpkUmExaWJMTzU0QzgtSi1rcE1PYUZQWkFWdEpjMThUTDFnMWwzRktpdnZGUkJRWTEyWnZfaDFRX3QydkRkdTh4QXhpSGM2M2QyLU9jZTQzR2RxSTVlR05tWC1KSTlHMVFCaTlLWmZ4QXd6YWVDWTVocXlUR0JUYWIwajB1TlQ5TXVTVXc?oc=5",
     "difficulty": "News"
@@ -196,9 +196,9 @@
     "label": "Gemini",
     "time": "Jul 30, 10:16 AM ET",
     "publishedAt": "2026-07-30T14:16:57+00:00",
-    "source": "Bloomberg.com",
+    "source": "Bloomberg",
     "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
-    "summary": "Bloomberg.com is reporting this update. Open the article for the full story.",
+    "summary": "Bloomberg is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5",
     "difficulty": "News"
@@ -228,18 +228,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 29, 09:49 PM ET",
-    "publishedAt": "2026-07-30T01:49:00+00:00",
-    "source": "GIGAZINE",
-    "title": "Microsoft has officially announced that it will release the Copilot super app sometime in 2026.",
-    "summary": "GIGAZINE is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jMTU0VkJTWTYtVzMwS3BucWYwZlJmUEV1OFR3V0NySGVqRTd1U3RORHJNa19UOVZ2bngxZ2gzZncwSEQtd1ZmclRjbjBJRUZKaHBqR1NBbWVNMFA4TE0wSk1zN0lwem52bWRJTU1QamtXd2RabnBWLV93?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 29, 09:40 PM ET",
@@ -256,9 +244,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 06:44 PM ET",
     "publishedAt": "2026-07-29T22:44:00+00:00",
-    "source": "cnet.com",
+    "source": "CNET",
     "title": "Claude AI Recovering After Widespread Outage on Wednesday",
-    "summary": "cnet.com is reporting this update. Open the article for the full story.",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
@@ -316,9 +304,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 11:50 AM ET",
     "publishedAt": "2026-07-29T15:50:04+00:00",
-    "source": "futurism.com",
+    "source": "Futurism",
     "title": "If You AI-Generate Code, Hackers Just Found a Devious Method to Install Malware Directly on Your Computer",
-    "summary": "futurism.com is reporting this update. Open the article for the full story.",
+    "summary": "Futurism is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHU5Qmo5eTdkV2VsMTZiOWxBUTl0R1lQalBSajk5ZlY2b05TcjJQejFGc2FfQWRycjJMU2dGUTJwY1RlN1pfVnFMTE9Ja0kxNllVM0VXVGI2Vzktamd0eXBNOFZVdU9wWkhHdElpdmZ3eW5DUUNKalJSYXIxME5ZSmczbzBmQmRqczVVVlRZZmhBcTBX?oc=5",
     "difficulty": "News"
@@ -340,9 +328,9 @@
     "label": "Claude Code",
     "time": "Jul 24, 03:00 AM ET",
     "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "anthropic.com",
+    "source": "Anthropic",
     "title": "Introducing Claude Opus 5",
-    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
     "difficulty": "News"
@@ -376,11 +364,23 @@
     "label": "Claude Code",
     "time": "Jun 30, 03:00 AM ET",
     "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "anthropic.com",
+    "source": "Anthropic",
     "title": "Introducing Claude Sonnet 5",
-    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 25, 03:00 AM ET",
+    "publishedAt": "2026-05-25T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   }
 ]
