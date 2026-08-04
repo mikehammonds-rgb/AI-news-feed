@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 04, 09:31 AM ET",
+    "publishedAt": "2026-08-04T13:31:45+00:00",
+    "source": "TechRepublic",
+    "title": "Google Got 800,000 Sign-Ups for an AI App — Then Canceled It",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0h3cURWZUIxdlozRWdyUVJWazZBQTBSZ21TNU5VeE5oWm5yTzNWQnN6N1Bzck41em43SmRPbWJlenZyOVpqWWMyLU5Dc3FGM3YzNzVHbGpWSXJPQ01nekI0UWFpbzZ0d1FSOHFrbmZVZVdhU011VDJLRHVzRUtTb19YOXNPOU51ZVFNMlBn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 04, 06:12 AM ET",
@@ -28,9 +40,9 @@
     "label": "ChatGPT",
     "time": "Aug 04, 04:06 AM ET",
     "publishedAt": "2026-08-04T08:06:35+00:00",
-    "source": "invenglobal.com",
+    "source": "Inven Global",
     "title": "OpenAI to Host 'OpenAI Game Builders Seoul' with Song Jae-kyung on August 31",
-    "summary": "invenglobal.com is reporting this update. Open the article for the full story.",
+    "summary": "Inven Global is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRU1zcGhGSm9sVDAzRHJ5Wkt2RUJoMHJtc2xjMEFkNVFwOUpJd0JCWF9QSlJFMXdtWjEydEdyLWxwWXI5NWZvUnpVemt0R1gzcExOZkdudFRRNWQ5RzZkdDFQVUdLLXZxZHRGXzlmSzgwbkd6R2g3cTctcVYtUkhiVkM1d2ZjR2p6ZC1NWGlpNkJmLUFFQkVscWdUUFQwdmRSOU1oRFhFcmFES2R1bFptOUJVWWdtbVBI?oc=5",
     "difficulty": "News"
@@ -60,15 +72,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 03, 02:46 PM ET",
-    "publishedAt": "2026-08-03T18:46:18+00:00",
-    "source": "TechRepublic",
-    "title": "Google’s Biggest Announcements of 2026: Gemini, Android 17, and More",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 03, 03:43 AM ET",
+    "publishedAt": "2026-08-03T07:43:24+00:00",
+    "source": "Stocktwits",
+    "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
+    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb295UzB6LUpYbXFxZnNiUW9TdzVrZGFfbmJzelBOU3h5RnlVSmt4dDRwc21mcFA2Zk1GeE1DNWRVUDlOOGo2WmJUNFhxdmVpYkVhT2VrTHI0TEZHSXJMcmtlaldpZU5RbHVVenZXdVR3di1qUXV5d1JEQjk3WEwzVF9n?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,18 +204,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 30, 01:01 PM ET",
-    "publishedAt": "2026-07-30T17:01:09+00:00",
-    "source": "CNBC",
-    "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOSUpBdTdrSGxnV01VOWpVSkF3cVZtdVdsMk9rR21Eb0FhVHhFWHRPbk1nbmItUWVRWmljTV9qUDNwblBQdkozVmkxVTJIWjNnUjR1bzV5a3RnZDZ5ZXota2o4N05rZ0FHSEHSAW9BVV95cUxQaTRNRG5HMU15cTEtUlhWNnpfWFJRLTdQbVVhOXlXSzJ4aU5UUm9IUTBHR0dVS01ydG5qN3FjVjRVcVZWRTNBMUtSMkdweEEyNFprbHg3RmtJQ1RSV0k0NWVlcXZPajBBRmFoZUcxRzA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 30, 11:12 AM ET",
@@ -232,9 +232,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 06:44 PM ET",
     "publishedAt": "2026-07-29T22:44:00+00:00",
-    "source": "CNET",
+    "source": "cnet.com",
     "title": "Claude AI Recovering After Widespread Outage on Wednesday",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "summary": "cnet.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
