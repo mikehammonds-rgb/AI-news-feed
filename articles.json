@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 04, 06:12 AM ET",
+    "publishedAt": "2026-08-04T10:12:16+00:00",
+    "source": "Social Media Examiner",
+    "title": "How to Build AI Automations With Claude Cowork",
+    "summary": "Social Media Examiner is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdzh1QVR2bGYyOVdlRUh2ekFNTXd2YUt5T2lfMk8xNXVVVzNuSFBMVTAwQXB5eFJBSi1NNmpYV1hjU00xejV5cU5XRzRUcGJhNXlaNWFjZFUxb2R6S20zN3dYNFk3cENWVVhVaHRNYUJ4YnhFZ3gta3otU1M1ZDM0eWJmanVQYW5rTWxJ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 04, 05:32 AM ET",
@@ -16,9 +28,9 @@
     "label": "ChatGPT",
     "time": "Aug 04, 04:06 AM ET",
     "publishedAt": "2026-08-04T08:06:35+00:00",
-    "source": "Inven Global",
+    "source": "invenglobal.com",
     "title": "OpenAI to Host 'OpenAI Game Builders Seoul' with Song Jae-kyung on August 31",
-    "summary": "Inven Global is reporting this update. Open the article for the full story.",
+    "summary": "invenglobal.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRU1zcGhGSm9sVDAzRHJ5Wkt2RUJoMHJtc2xjMEFkNVFwOUpJd0JCWF9QSlJFMXdtWjEydEdyLWxwWXI5NWZvUnpVemt0R1gzcExOZkdudFRRNWQ5RzZkdDFQVUdLLXZxZHRGXzlmSzgwbkd6R2g3cTctcVYtUkhiVkM1d2ZjR2p6ZC1NWGlpNkJmLUFFQkVscWdUUFQwdmRSOU1oRFhFcmFES2R1bFptOUJVWWdtbVBI?oc=5",
     "difficulty": "News"
@@ -36,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 03, 09:48 PM ET",
-    "publishedAt": "2026-08-04T01:48:35+00:00",
-    "source": "iTWire",
-    "title": "KnowBe4 Extends Agent Security to Anthropic's Claude With Agent Risk Manager",
-    "summary": "iTWire is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOanJEM1RyUGtEdlVJbkp0eVZyN0RUeG8zSDBydzRZRHdNaGFVcUtyd2MxanlwWUZiekV1WlplVU5MU2hGc0FXZE9rcThhUVhyZjktY0lVV1FPRk5tNkE1LTcwWnhEdnJZSmtEQ1Z6Y3c2TXJFSmkzSWZUVmlSbGp4MlZYVWZpdjBhb2l1S2RWQk8xU1JLdmZxZVlrbTUwUXYwOFlhaTUtaG41cmpGY3pFOHJaZzJfbm9BWGlFVQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 03, 04:44 PM ET",
@@ -57,6 +57,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 03, 02:46 PM ET",
+    "publishedAt": "2026-08-03T18:46:18+00:00",
+    "source": "TechRepublic",
+    "title": "Google’s Biggest Announcements of 2026: Gemini, Android 17, and More",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb295UzB6LUpYbXFxZnNiUW9TdzVrZGFfbmJzelBOU3h5RnlVSmt4dDRwc21mcFA2Zk1GeE1DNWRVUDlOOGo2WmJUNFhxdmVpYkVhT2VrTHI0TEZHSXJMcmtlaldpZU5RbHVVenZXdVR3di1qUXV5d1JEQjk3WEwzVF9n?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,18 +117,6 @@
     "summary": "SitePoint is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EdWpzczl3S0Rqc0JSejQ1c0lfMVg3cXoyLXNFMVJHa1c4dzlqMW5RcXpROF9YNEFVMWo1LW8zVms3NHRKeEJUVDJRWlhZOGkzZEhEVklRU2NuZ2dyRG5TZGFfZllrR0lEenoxRC0weVV2Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 01, 01:00 PM ET",
-    "publishedAt": "2026-08-01T17:00:00+00:00",
-    "source": "Digital Trends",
-    "title": "Google just canceled its AI Studio mobile app, and it’s not all bad news",
-    "summary": "Digital Trends is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGJQZ2wzQzJFazBFa240LVhkdkhZei0tYXVjQjJrS2s0b2kyc1NjVDV2b1V3S3JmakhDUk53MzY1Mm1kUHVoUXBsLXFGZ05JXzRRRFRuYl9qdU1TNmlDbEt5eFlhYklrWVBJaTl6UmdqUnp6M0NKc3h0aFJxbTd3YWVZbXEzQ3VTZVdRZXhFdWw5eEpCLVVSZWVsV3dJdDd1MS04Rl9VNlFDaHdZTzNtMw?oc=5",
     "difficulty": "News"
   },
   {
@@ -268,9 +268,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 05:07 PM ET",
     "publishedAt": "2026-07-29T21:07:00+00:00",
-    "source": "newsweek.com",
+    "source": "Newsweek",
     "title": "Users report issues with Claude: Is it down?",
-    "summary": "newsweek.com is reporting this update. Open the article for the full story.",
+    "summary": "Newsweek is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXZGZm1WM1RCUHkxSjBnTWFfbVc0RVgtQW5MN0lrV3hxRnQ2ZjNjSENIRDF5dUN5NVRkOWc2MGc3ZFNFcVhKSU1KNU9rcjFMLUFwUzBYUTh1Z201bjRBdlQ4bndvTmdtWW01Z2NvRmZyLTZVUHI3ZWtzQnlUQmpTak5WWUJsNlo3eWFZZDBITFItc0xnQTdjZUd6SQ?oc=5",
     "difficulty": "News"
