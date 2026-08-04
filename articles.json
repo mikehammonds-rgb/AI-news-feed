@@ -2,6 +2,30 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Aug 04, 12:20 PM ET",
+    "publishedAt": "2026-08-04T16:20:26+00:00",
+    "source": "techradar.com",
+    "title": "I stopped searching the App Store and built exactly the app I wanted using AI — and it took me less than 5 minutes",
+    "summary": "techradar.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRXYwUkdJV1Y2MnZad3g1QnMzSkctdVU3Y1BsWl9tSTBiTF9CNzg3QXRyYVlCMkZsdTdMVXRldUdWN0FpNGluTlk0dE41czdvblpuT1d2aEhrYmpfZi1GOUdXY05kbzREcVJ2ZFRqX2ZtTGowVm5OXzE4U0k4V0RtdnlVbTQweWFtNUJjR2RGektwdW81NWk0MDBXY3R6b2NMM2ctQ3QycFFySlVhMHhJc3dicTd6VnU5MVpUUEFpbnJValBYbjl2TTBFbS1yengtOGxRdUE5N2dpZkxFLTlnT3NXZmlYU3hkRjJaT3JDOHIxTG1mSDhqMVF3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 04, 12:06 PM ET",
+    "publishedAt": "2026-08-04T16:06:02+00:00",
+    "source": "blog.google",
+    "title": "A unified API for AI model routing",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ajF2SnZGcndhTkIyOTJoS3Flc2xjM1c0ZWxwalhaN3ZEcWFzY0k0TElHS2hjYlJuUFNJQzgtdEFWTjZxSG9OcXg5NlRlcFQ5UHJiMzJVUTRKSE9CRzFzWXVkcjNrMlNEWTFHa21aQmFWX2docmpBdQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Aug 04, 09:31 AM ET",
     "publishedAt": "2026-08-04T13:31:45+00:00",
     "source": "TechRepublic",
@@ -14,8 +38,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 04, 06:12 AM ET",
-    "publishedAt": "2026-08-04T10:12:16+00:00",
+    "time": "Aug 04, 08:53 AM ET",
+    "publishedAt": "2026-08-04T12:53:33+00:00",
     "source": "Social Media Examiner",
     "title": "How to Build AI Automations With Claude Cowork",
     "summary": "Social Media Examiner is reporting this update. Open the article for the full story.",
@@ -52,9 +76,9 @@
     "label": "ChatGPT",
     "time": "Aug 04, 01:21 AM ET",
     "publishedAt": "2026-08-04T05:21:00+00:00",
-    "source": "The Korea Times",
+    "source": "koreatimes.co.kr",
     "title": "OpenAI to hold 1st Codex game development event in Korea",
-    "summary": "The Korea Times is reporting this update. Open the article for the full story.",
+    "summary": "koreatimes.co.kr is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUi00Yy04azV4c2VNZDhTbjhDUXR5RTY1aEJtczVlN2hTUU1mVkMtNS04RnBoVHI4QzdndUw4U0pRT05zdV9fUHBVR1JhSUVJWjl5RnRCakFOQ3liLTRSdF9kYmE4aFFibmJIVUxRMGdYckFSVW9kX3ZSeVdNU0RLSFc5NjdTTjFJYm9XaFpzWElwWkJOaV9GNkpITFZJbFhUdl9od2RXRFZqTkdXRGtuTExSdzRfWDdp0gG4AUFVX3lxTE9SLTRjLThrNXhzZU1kOFNuOENRdHlFNjVoQm1zNWU3aFNRTWZWQy01LThGcGhUcjhDN2d1TDhTSlFPTnN1X19QcFVHUmFJRUlaOXlGdEJqQU5DeWItNFJ0X2RiYThoUWJuYkhVTFEwZ1hyQVJVb2RfdlJ5V01TREtIVzk2N1NOMUlib1doWnNYSXBaQk5pX0Y2SkhMVklsWFR2X2h3ZFdEVmpOR1dEa25MTFJ3NF9YN2k?oc=5",
     "difficulty": "News"
@@ -156,30 +180,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 31, 06:55 AM ET",
-    "publishedAt": "2026-07-31T10:55:03+00:00",
-    "source": "IT Pro",
-    "title": "Oracle integrates Google's Gemini AI models into enterprise apps",
-    "summary": "IT Pro is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmZUZkRtVkdERnczVUNJcmd2RDdmMDZtT3k2ZmlKVERkOTBrTGszM2JPcURKU0UwZ3pnOTd2QVYyczhfMEE5M0NFU0tNWFFYZklvU0l6eURkUGdOYzhtVFZURjdRbTBHbEVEeUtWVmxFSUJKeTFvdFh1bHFxZ1JHeVBscnFEcFh1NWE1RGFuUTRzUVJsRnI2SElNTlhtQkF6WWtpYzh6S0F1cjRvRFpVY0dMSm03ZWpta3BtTw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 31, 06:29 AM ET",
-    "publishedAt": "2026-07-31T10:29:11+00:00",
-    "source": "InfoWorld",
-    "title": "OpenAI drops GPT-5.6 Luna and Terra API prices by up to 80%",
-    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekU4S2pRaDZRUm5XdmU2RU9kUzdZMnZEUkZTYThBQXFiLVlDdXlmSjFUYmJDaU45cWdJNzkxbHNSZXdId05Sc3hOQWNOV3hyOTF3dGdjYmxOenI0REJuWVZfZFM3RHBkTExGT2NfTUFwVk5wZ1JEQ29fWVBVZ3RkOFp5NFdkdkJOSE5nOEZsd19LQ1N2MFVTaGRHOUREaVpqT3hEN1VEYTQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 30, 04:29 PM ET",
@@ -232,9 +232,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 06:44 PM ET",
     "publishedAt": "2026-07-29T22:44:00+00:00",
-    "source": "cnet.com",
+    "source": "CNET",
     "title": "Claude AI Recovering After Widespread Outage on Wednesday",
-    "summary": "cnet.com is reporting this update. Open the article for the full story.",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
@@ -261,18 +261,6 @@
     "summary": "BleepingComputer is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmRKWTF1ZEpWR21abVYyWDFndHR4dXpJTVlHcjZfRkZSR2xLTGJvWnJJZkxXenA2R09HQXRtRHZwXzI5TF9MMEFCR2lwOWxzRDR4NXJNRG41NlByZEYxOU5sTC1mNzRkc1dhdkFuT1gyRzRydnVMcmszTGxlREN4NVZzN0E0dThSNExFNDlVUmhaLWhpUWFiX0F0Y3BZMHZabmFPSC1PYkF2d9IBrwFBVV95cUxOR0VZbFZ2Z1h3UXRuTGMyMlRSR3g1Nk1OSTJTWE9aRi01bUNyaGFQbk0tdHRyUmhVZUVjVVZvVTMtU0hEMU1xSkFEb01MdEQtQzJUZUpCbk1QU0lsTjlNeGVwcDlJdmdJbWpSNlFmLWYzRnRYUzdLU1QxS0hpcEVIRURsSGxFWVFCdE8tTGtJY2lGUUhocjR1YWtmbVZnWkxabU4yeUNmSVYyd2gxSzlz?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 29, 05:07 PM ET",
-    "publishedAt": "2026-07-29T21:07:00+00:00",
-    "source": "Newsweek",
-    "title": "Users report issues with Claude: Is it down?",
-    "summary": "Newsweek is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXZGZm1WM1RCUHkxSjBnTWFfbVc0RVgtQW5MN0lrV3hxRnQ2ZjNjSENIRDF5dUN5NVRkOWc2MGc3ZFNFcVhKSU1KNU9rcjFMLUFwUzBYUTh1Z201bjRBdlQ4bndvTmdtWW01Z2NvRmZyLTZVUHI3ZWtzQnlUQmpTak5WWUJsNlo3eWFZZDBITFItc0xnQTdjZUd6SQ?oc=5",
     "difficulty": "News"
   },
   {
