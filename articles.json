@@ -4,9 +4,9 @@
     "label": "Gemini",
     "time": "Aug 04, 12:20 PM ET",
     "publishedAt": "2026-08-04T16:20:26+00:00",
-    "source": "techradar.com",
-    "title": "I stopped searching the App Store and built exactly the app I wanted using AI — and it took me less than 5 minutes",
-    "summary": "techradar.com is reporting this update. Open the article for the full story.",
+    "source": "TechRadar",
+    "title": "I stopped looking for the perfect meditation app and built my own using AI — and it was done in under 5 minutes",
+    "summary": "TechRadar is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRXYwUkdJV1Y2MnZad3g1QnMzSkctdVU3Y1BsWl9tSTBiTF9CNzg3QXRyYVlCMkZsdTdMVXRldUdWN0FpNGluTlk0dE41czdvblpuT1d2aEhrYmpfZi1GOUdXY05kbzREcVJ2ZFRqX2ZtTGowVm5OXzE4U0k4V0RtdnlVbTQweWFtNUJjR2RGektwdW81NWk0MDBXY3R6b2NMM2ctQ3QycFFySlVhMHhJc3dicTd6VnU5MVpUUEFpbnJValBYbjl2TTBFbS1yengtOGxRdUE5N2dpZkxFLTlnT3NXZmlYU3hkRjJaT3JDOHIxTG1mSDhqMVF3?oc=5",
     "difficulty": "News"
@@ -76,11 +76,23 @@
     "label": "ChatGPT",
     "time": "Aug 04, 01:21 AM ET",
     "publishedAt": "2026-08-04T05:21:00+00:00",
-    "source": "koreatimes.co.kr",
+    "source": "The Korea Times",
     "title": "OpenAI to hold 1st Codex game development event in Korea",
-    "summary": "koreatimes.co.kr is reporting this update. Open the article for the full story.",
+    "summary": "The Korea Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUi00Yy04azV4c2VNZDhTbjhDUXR5RTY1aEJtczVlN2hTUU1mVkMtNS04RnBoVHI4QzdndUw4U0pRT05zdV9fUHBVR1JhSUVJWjl5RnRCakFOQ3liLTRSdF9kYmE4aFFibmJIVUxRMGdYckFSVW9kX3ZSeVdNU0RLSFc5NjdTTjFJYm9XaFpzWElwWkJOaV9GNkpITFZJbFhUdl9od2RXRFZqTkdXRGtuTExSdzRfWDdp0gG4AUFVX3lxTE9SLTRjLThrNXhzZU1kOFNuOENRdHlFNjVoQm1zNWU3aFNRTWZWQy01LThGcGhUcjhDN2d1TDhTSlFPTnN1X19QcFVHUmFJRUlaOXlGdEJqQU5DeWItNFJ0X2RiYThoUWJuYkhVTFEwZ1hyQVJVb2RfdlJ5V01TREtIVzk2N1NOMUlib1doWnNYSXBaQk5pX0Y2SkhMVklsWFR2X2h3ZFdEVmpOR1dEa25MTFJ3NF9YN2k?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 03, 09:29 PM ET",
+    "publishedAt": "2026-08-04T01:29:25+00:00",
+    "source": "OpenAI",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91RmtHZzZLVlVIZ3VyQ1JISENDdUw4MzAtQUJPalhZUWotYnVPWmdUV2N0cEZ1cmxYc0dCVWYtaGJnUGtRZ2NjdQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -177,18 +189,6 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 30, 04:29 PM ET",
-    "publishedAt": "2026-07-30T20:29:58+00:00",
-    "source": "OpenAI",
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
   },
   {
