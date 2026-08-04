@@ -40,9 +40,9 @@
     "label": "Claude Code",
     "time": "Aug 04, 08:53 AM ET",
     "publishedAt": "2026-08-04T12:53:33+00:00",
-    "source": "Social Media Examiner",
+    "source": "socialmediaexaminer.com",
     "title": "How to Build AI Automations With Claude Cowork",
-    "summary": "Social Media Examiner is reporting this update. Open the article for the full story.",
+    "summary": "socialmediaexaminer.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdzh1QVR2bGYyOVdlRUh2ekFNTXd2YUt5T2lfMk8xNXVVVzNuSFBMVTAwQXB5eFJBSi1NNmpYV1hjU00xejV5cU5XRzRUcGJhNXlaNWFjZFUxb2R6S20zN3dYNFk3cENWVVhVaHRNYUJ4YnhFZ3gta3otU1M1ZDM0eWJmanVQYW5rTWxJ?oc=5",
     "difficulty": "News"
@@ -98,18 +98,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 03, 04:44 PM ET",
-    "publishedAt": "2026-08-03T20:44:49+00:00",
-    "source": "OpenAI",
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Aug 03, 03:43 AM ET",
     "publishedAt": "2026-08-03T07:43:24+00:00",
     "source": "Stocktwits",
@@ -156,15 +144,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 01, 03:42 PM ET",
-    "publishedAt": "2026-08-01T19:42:55+00:00",
-    "source": "SitePoint",
-    "title": "Claude's Steganographic Request Marking: What Developers Need to Know",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 01, 01:00 PM ET",
+    "publishedAt": "2026-08-01T17:00:00+00:00",
+    "source": "Digital Trends",
+    "title": "Google just canceled its AI Studio mobile app, and it’s not all bad news",
+    "summary": "Digital Trends is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EdWpzczl3S0Rqc0JSejQ1c0lfMVg3cXoyLXNFMVJHa1c4dzlqMW5RcXpROF9YNEFVMWo1LW8zVms3NHRKeEJUVDJRWlhZOGkzZEhEVklRU2NuZ2dyRG5TZGFfZllrR0lEenoxRC0weVV2Zw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGJQZ2wzQzJFazBFa240LVhkdkhZei0tYXVjQjJrS2s0b2kyc1NjVDV2b1V3S3JmakhDUk53MzY1Mm1kUHVoUXBsLXFGZ05JXzRRRFRuYl9qdU1TNmlDbEt5eFlhYklrWVBJaTl6UmdqUnp6M0NKc3h0aFJxbTd3YWVZbXEzQ3VTZVdRZXhFdWw5eEpCLVVSZWVsV3dJdDd1MS04Rl9VNlFDaHdZTzNtMw?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,15 +180,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 30, 02:40 PM ET",
-    "publishedAt": "2026-07-30T18:40:29+00:00",
-    "source": "The Register",
-    "title": "Oracle adds Google Gemini to the agent menu",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 04:29 PM ET",
+    "publishedAt": "2026-07-30T20:29:58+00:00",
+    "source": "OpenAI",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUERGSm9HeWZPanZIX2YyRTN5LW5qYWpkUmExaWJMTzU0QzgtSi1rcE1PYUZQWkFWdEpjMThUTDFnMWwzRktpdnZGUkJRWTEyWnZfaDFRX3QydkRkdTh4QXhpSGM2M2QyLU9jZTQzR2RxSTVlR05tWC1KSTlHMVFCaTlLWmZ4QXd6YWVDWTVocXlUR0JUYWIwajB1TlQ5TXVTVXc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -232,9 +220,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 06:44 PM ET",
     "publishedAt": "2026-07-29T22:44:00+00:00",
-    "source": "CNET",
+    "source": "cnet.com",
     "title": "Claude AI Recovering After Widespread Outage on Wednesday",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "summary": "cnet.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
@@ -261,6 +249,18 @@
     "summary": "BleepingComputer is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmRKWTF1ZEpWR21abVYyWDFndHR4dXpJTVlHcjZfRkZSR2xLTGJvWnJJZkxXenA2R09HQXRtRHZwXzI5TF9MMEFCR2lwOWxzRDR4NXJNRG41NlByZEYxOU5sTC1mNzRkc1dhdkFuT1gyRzRydnVMcmszTGxlREN4NVZzN0E0dThSNExFNDlVUmhaLWhpUWFiX0F0Y3BZMHZabmFPSC1PYkF2d9IBrwFBVV95cUxOR0VZbFZ2Z1h3UXRuTGMyMlRSR3g1Nk1OSTJTWE9aRi01bUNyaGFQbk0tdHRyUmhVZUVjVVZvVTMtU0hEMU1xSkFEb01MdEQtQzJUZUpCbk1QU0lsTjlNeGVwcDlJdmdJbWpSNlFmLWYzRnRYUzdLU1QxS0hpcEVIRURsSGxFWVFCdE8tTGtJY2lGUUhocjR1YWtmbVZnWkxabU4yeUNmSVYyd2gxSzlz?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 29, 05:07 PM ET",
+    "publishedAt": "2026-07-29T21:07:00+00:00",
+    "source": "Newsweek",
+    "title": "Users report issues with Claude: Is it down?",
+    "summary": "Newsweek is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXZGZm1WM1RCUHkxSjBnTWFfbVc0RVgtQW5MN0lrV3hxRnQ2ZjNjSENIRDF5dUN5NVRkOWc2MGc3ZFNFcVhKSU1KNU9rcjFMLUFwUzBYUTh1Z201bjRBdlQ4bndvTmdtWW01Z2NvRmZyLTZVUHI3ZWtzQnlUQmpTak5WWUJsNlo3eWFZZDBITFItc0xnQTdjZUd6SQ?oc=5",
     "difficulty": "News"
   },
   {
