@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 04, 07:05 PM ET",
+    "publishedAt": "2026-08-04T23:05:07+00:00",
+    "source": "Stocktwits",
+    "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
+    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 04, 12:20 PM ET",
@@ -36,25 +48,13 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 04, 05:32 AM ET",
-    "publishedAt": "2026-08-04T09:32:41+00:00",
-    "source": "thelec.net",
-    "title": "Google Gemini Expands Reach Into Oracle Enterprise Applications",
-    "summary": "thelec.net is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xbmdpNzBKakxzX2phUlMxZTZ1MEdnS0xNUzFPdzZiU2lhZjV3UUVKZU5MMi1OVDBWMFVwQlJfYnZpakR3c295UDM5VDQ4bmxoMmlaNG9CVVcyeFREYVlyaFlhYmVaVkE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 04, 04:06 AM ET",
     "publishedAt": "2026-08-04T08:06:35+00:00",
-    "source": "invenglobal.com",
+    "source": "Inven Global",
     "title": "OpenAI to Host 'OpenAI Game Builders Seoul' with Song Jae-kyung on August 31",
-    "summary": "invenglobal.com is reporting this update. Open the article for the full story.",
+    "summary": "Inven Global is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRU1zcGhGSm9sVDAzRHJ5Wkt2RUJoMHJtc2xjMEFkNVFwOUpJd0JCWF9QSlJFMXdtWjEydEdyLWxwWXI5NWZvUnpVemt0R1gzcExOZkdudFRRNWQ5RzZkdDFQVUdLLXZxZHRGXzlmSzgwbkd6R2g3cTctcVYtUkhiVkM1d2ZjR2p6ZC1NWGlpNkJmLUFFQkVscWdUUFQwdmRSOU1oRFhFcmFES2R1bFptOUJVWWdtbVBI?oc=5",
     "difficulty": "News"
@@ -69,18 +69,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91RmtHZzZLVlVIZ3VyQ1JISENDdUw4MzAtQUJPalhZUWotYnVPWmdUV2N0cEZ1cmxYc0dCVWYtaGJnUGtRZ2NjdQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 03, 03:43 AM ET",
-    "publishedAt": "2026-08-03T07:43:24+00:00",
-    "source": "Stocktwits",
-    "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
-    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
     "difficulty": "News"
   },
   {
@@ -165,6 +153,18 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 31, 06:55 AM ET",
+    "publishedAt": "2026-07-31T10:55:03+00:00",
+    "source": "IT Pro",
+    "title": "Oracle integrates Google's Gemini AI models into enterprise apps",
+    "summary": "IT Pro is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmZUZkRtVkdERnczVUNJcmd2RDdmMDZtT3k2ZmlKVERkOTBrTGszM2JPcURKU0UwZ3pnOTd2QVYyczhfMEE5M0NFU0tNWFFYZklvU0l6eURkUGdOYzhtVFZURjdRbTBHbEVEeUtWVmxFSUJKeTFvdFh1bHFxZ1JHeVBscnFEcFh1NWE1RGFuUTRzUVJsRnI2SElNTlhtQkF6WWtpYzh6S0F1cjRvRFpVY0dMSm03ZWpta3BtTw?oc=5",
     "difficulty": "News"
   },
   {
