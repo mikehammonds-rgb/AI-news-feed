@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 05, 01:12 PM ET",
+    "publishedAt": "2026-08-05T17:12:01+00:00",
+    "source": "Unite.AI",
+    "title": "Anthropic Puts Inline Data Loss Prevention Inside Claude Enterprise",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbjlKS1NzRlFXclpmcEZtRXByT0h2NElucGhxZktMSVkzMV9xSWUwejJFTmNvYi1CWndXcW11U1hrNnZDTDNob2VJQ3RJSXA2UlRYcXZ4UWc3b1kyWFQwZG5zZDE2Y01ieDVhSDBfQkRReXdSclRzSWVNTWpLc0p4YVM5Nm85MEFiQmJybUhBTmhjeDQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 05, 12:19 PM ET",
     "publishedAt": "2026-08-05T16:19:35+00:00",
     "source": "Security Boulevard",
@@ -33,18 +45,6 @@
     "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeHJhQkNadUdFNDdrV1ZZVl9MMUZSeHVDMHI3ckJyVHJ4OWUzcDJMRUNVTEtQOW13SktSd3ROY2x4T1dzQk01bExvalNoVG9IMFlSY01ob2lLZm4tQzlTTkYwaGlvQWZhdV8tZFFySkVfYUFYanduV3hRMDA4a0xXZHBtd3Vmd3daVjYwa2RpV0wySk9ENURqNjg4a3R3ejdDemhuTFJPSFlIYlNKUXUzNzktSi1WaUk0NXI0SFFGaU9IMXdaSTd0czU5ZEhOZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 05, 11:00 AM ET",
-    "publishedAt": "2026-08-05T15:00:00+00:00",
-    "source": "Business Wire",
-    "title": "Quantide Growth Partners Brings Its AI Digital Pricing Officer to Claude Through Native MCP",
-    "summary": "Business Wire is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaUNvUVpwWHM3RVJEeWJWaVVfWWpkYWV4bG45cGh4QUJ3VkxhVWhGNk1GVUZlT3JuQzk2ZFVzWGhqQnk3bTFaS2l5Q1lJWHFPZ1FycjZWeUgxWXFSMDE0N0lfekVLalhrcWxVYTZaR1pST0JrVU1LR3RLcGlRd2xQeEg3M3hDbkhlWjMyaWtObkpiVk5XMmoweVJYLVJFUDJCMkcxYU5KYVc1R3piZGxyTDhDazlxY19oZjFITGNwVFU4OW80bGRLYzcyU0pibFBIOFFXZUs5dUZ5cUk5RVRTdWd3?oc=5",
     "difficulty": "News"
   },
   {
@@ -98,18 +98,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 04, 07:05 PM ET",
-    "publishedAt": "2026-08-04T23:05:07+00:00",
-    "source": "Stocktwits",
-    "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
-    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Aug 04, 12:06 PM ET",
     "publishedAt": "2026-08-04T16:06:02+00:00",
     "source": "blog.google",
@@ -124,9 +112,9 @@
     "label": "ChatGPT",
     "time": "Aug 03, 09:29 PM ET",
     "publishedAt": "2026-08-04T01:29:25+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "Circles powers telco personalization with OpenAI technology",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91RmtHZzZLVlVIZ3VyQ1JISENDdUw4MzAtQUJPalhZUWotYnVPWmdUV2N0cEZ1cmxYc0dCVWYtaGJnUGtRZ2NjdQ?oc=5",
     "difficulty": "News"
@@ -206,11 +194,23 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Jul 31, 06:29 AM ET",
+    "publishedAt": "2026-07-31T10:29:11+00:00",
+    "source": "InfoWorld",
+    "title": "OpenAI drops GPT-5.6 Luna and Terra API prices by up to 80%",
+    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekU4S2pRaDZRUm5XdmU2RU9kUzdZMnZEUkZTYThBQXFiLVlDdXlmSjFUYmJDaU45cWdJNzkxbHNSZXdId05Sc3hOQWNOV3hyOTF3dGdjYmxOenI0REJuWVZfZFM3RHBkTExGT2NfTUFwVk5wZ1JEQ29fWVBVZ3RkOFp5NFdkdkJOSE5nOEZsd19LQ1N2MFVTaGRHOUREaVpqT3hEN1VEYTQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Jul 30, 04:29 PM ET",
     "publishedAt": "2026-07-30T20:29:58+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
