@@ -1,14 +1,50 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 05, 04:36 PM ET",
+    "publishedAt": "2026-08-05T20:36:41+00:00",
+    "source": "Tech Times",
+    "title": "Akamai Uncovers AI Browser Exploits as CVE Rates Hit 16% in Enterprises",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZThVdFhwSkhhNFVTYm8zQmRrZC01UEN0VkNMV3ZtcU9uUU1xY1lHaTRDTTlkdVNCdGdoUFRvY1ZXb2RKNFhSX0lnLVpvQmUzd2RkR1N5dWdZaUw3T3ZpdGtsZk9RbFlWRFJaWGtLUFRVdlFZZml6ODJ1c3ZBZ0N2WXBESUxYSk9pUzVLbFR6Zmp3NHFSMmc2NE9fSTFseERfbHZzMUd2aERJM1VCUWFiUlBsdFdKaTdjVVA0?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 05, 01:12 PM ET",
-    "publishedAt": "2026-08-05T17:12:01+00:00",
-    "source": "Unite.AI",
-    "title": "Anthropic Puts Inline Data Loss Prevention Inside Claude Enterprise",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "time": "Aug 05, 04:20 PM ET",
+    "publishedAt": "2026-08-05T20:20:57+00:00",
+    "source": "SQ Magazine",
+    "title": "Meta Muse Code Launches With a Powerful Pricing Edge",
+    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbjlKS1NzRlFXclpmcEZtRXByT0h2NElucGhxZktMSVkzMV9xSWUwejJFTmNvYi1CWndXcW11U1hrNnZDTDNob2VJQ3RJSXA2UlRYcXZ4UWc3b1kyWFQwZG5zZDE2Y01ieDVhSDBfQkRReXdSclRzSWVNTWpLc0p4YVM5Nm85MEFiQmJybUhBTmhjeDQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPVmVMY1l3YmFkaXhNaDVjY2dGS1lOVVppZWRZVWtsaU1IYkVjMVRaNTd2b1hGSjdsZmtLaFRobnY0X19JSjRTdmdGUS1uU3poZ3RReDYtbDV3OW9TMjhndUl1ODVrQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 05, 01:03 PM ET",
+    "publishedAt": "2026-08-05T17:03:15+00:00",
+    "source": "Wccftech",
+    "title": "China’s ByteDance Bans Employees From Distilling US AI Models, As Anthropic Confirms It’s Building A Custom Chip For Claude",
+    "summary": "Wccftech is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMlFTd2U1UFVrdjJoQUNENEtXWXMxQWtNRWctLVJneXcyQ3RFRHl0ZEtBMHd0RTBXNHBleHpWSThnSE9aWWtYdnFsR2pPNFd6ZGs5czQya0VkUVF2eTdDY1RwOTVITnZ2ZkQ1UEhnQVZSZy1YY3k4dzVmSkFlREVoVWVySHJDS0swN0JnVVUwYmpDcEd0WEZjcEpieEhSVTdwTlhuZUdaRmFOMzlnb0R0R1lxb0xDaWtKRXcxUEVpVklDV0R4cTgyTFN2Q2N1eXVLWUhQV3ZGVHRCUdIB3wFBVV95cUxPbDYxR0xtVEZBeGxmUGxEM1VmSEhDbEQ2UGM4aGE5NlpHUmFkSEF2dnZ3YmRjM0dOSnRTVFktM3MwS1dWQ1RwaWdCQmxVdDJrZFJxOXhjd1ZYVWJzenc5MVAxMHRzN3dqSDhNQ2UtUWQwVUpmdTVkYmc1OF96T1o1UjZfeDgwSkoycUhsd0d3YUZTa0hSOTF5YksyZWY1YXQ2YWMyR3FETTNjN2QzcGNJaGxJa2dNdnQ2a2IwWUZmQmpJUk93aFhrWTc5aGpRMWwxS0g3bTlRTDc0YUhyMm9F?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 05, 12:30 PM ET",
+    "publishedAt": "2026-08-05T16:30:00+00:00",
+    "source": "Proofpoint",
+    "title": "Proofpoint Extends Real-Time DLP to Claude via New Inference Hooks",
+    "summary": "Proofpoint is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONmg5SFBCTWxIY1pOOEU5US1hYnBYelctQ2g4YnY3U1VnS3N6ekRXMDNrcUpBQTFwN3d0V0pXS2FDa0xWRTVNdlJyczFvOF9hN3JHclVYY1ZXNHlIVHVBel9pZEwyTEFjOXhLanJZWEZmZmRfc1RpSEg0UUEwLXQ2V0RvOFY4Q0NqYWp0T1pEcktDc0VGYUhTSHpaUjVQcF9RaGNBOQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -76,9 +112,9 @@
     "label": "ChatGPT",
     "time": "Aug 05, 05:20 AM ET",
     "publishedAt": "2026-08-05T09:20:40+00:00",
-    "source": "HackerNoon",
+    "source": "hackernoon.com",
     "title": "OpenAI Responses API vs Chat Completions: What Changes for Agents?",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "summary": "hackernoon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMUx4SXpwWTI0V2s4WVMwamhWa2ZWRXNCVC1DWm4zdEtkNllWV2MwREx5UllHSTBOcjUwT2ZPaFJPS0ZyeWY0TWhkV1dpVmx3X2lSZ0NhQ3RjaDhnOV94TU9fekJkNFV4dkZURXNsN1QwbVU1T2d2M3dQQVJNVkQxOGF3SHJNeUppU09lVm1VRzc?oc=5",
     "difficulty": "News"
@@ -112,9 +148,9 @@
     "label": "ChatGPT",
     "time": "Aug 03, 09:29 PM ET",
     "publishedAt": "2026-08-04T01:29:25+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "Circles powers telco personalization with OpenAI technology",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91RmtHZzZLVlVIZ3VyQ1JISENDdUw4MzAtQUJPalhZUWotYnVPWmdUV2N0cEZ1cmxYc0dCVWYtaGJnUGtRZ2NjdQ?oc=5",
     "difficulty": "News"
@@ -208,9 +244,9 @@
     "label": "ChatGPT",
     "time": "Jul 30, 04:29 PM ET",
     "publishedAt": "2026-07-30T20:29:58+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
@@ -252,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 29, 11:50 AM ET",
-    "publishedAt": "2026-07-29T15:50:04+00:00",
-    "source": "Futurism",
-    "title": "If You AI-Generate Code, Hackers Just Found a Devious Method to Install Malware Directly on Your Computer",
-    "summary": "Futurism is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHU5Qmo5eTdkV2VsMTZiOWxBUTl0R1lQalBSajk5ZlY2b05TcjJQejFGc2FfQWRycjJMU2dGUTJwY1RlN1pfVnFMTE9Ja0kxNllVM0VXVGI2Vzktamd0eXBNOFZVdU9wWkhHdElpdmZ3eW5DUUNKalJSYXIxME5ZSmczbzBmQmRqczVVVlRZZmhBcTBX?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 24, 03:00 AM ET",
@@ -273,18 +297,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 24, 03:00 AM ET",
-    "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Opus 5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
     "difficulty": "News"
   },
   {
