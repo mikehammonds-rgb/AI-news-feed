@@ -14,8 +14,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 05, 05:26 AM ET",
-    "publishedAt": "2026-08-05T09:26:22+00:00",
+    "time": "Aug 05, 05:21 AM ET",
+    "publishedAt": "2026-08-05T09:21:00+00:00",
     "source": "Business Insider",
     "title": "Silicon Valley's favorite fantasy is back: one app to rule them all",
     "summary": "Business Insider is reporting this update. Open the article for the full story.",
@@ -84,18 +84,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 04, 09:31 AM ET",
-    "publishedAt": "2026-08-04T13:31:45+00:00",
-    "source": "TechRepublic",
-    "title": "Google Got 800,000 Sign-Ups for an AI App — Then Canceled It",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0h3cURWZUIxdlozRWdyUVJWazZBQTBSZ21TNU5VeE5oWm5yTzNWQnN6N1Bzck41em43SmRPbWJlenZyOVpqWWMyLU5Dc3FGM3YzNzVHbGpWSXJPQ01nekI0UWFpbzZ0d1FSOHFrbmZVZVdhU011VDJLRHVzRUtTb19YOXNPOU51ZVFNMlBn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 03, 09:29 PM ET",
@@ -110,13 +98,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 03, 08:00 AM ET",
-    "publishedAt": "2026-08-03T12:00:00+00:00",
-    "source": "ALM Corp",
-    "title": "OpenAI Rolls Out Conversion Bidding And New Campaign Tools For ChatGPT Ads",
-    "summary": "ALM Corp is reporting this update. Open the article for the full story.",
+    "time": "Aug 03, 03:43 AM ET",
+    "publishedAt": "2026-08-03T07:43:24+00:00",
+    "source": "Stocktwits",
+    "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
+    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzV4dmR0RXRXS1NIZklzcWVoQjlpNzBlUTBlRGw0Nk9lNHlScXEwSmhlRmNfVkluYzB4Vmt4SUJJU0JoYTJPTkh0MGFia0VPQngxcEdVdVpyQkhZc0lQeHFlNm1xYUZZZDFhckJ2dV91MEtCYVczYXE0eXFSZlNHWXNoNA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
     "difficulty": "News"
   },
   {
@@ -177,6 +165,18 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 31, 06:55 AM ET",
+    "publishedAt": "2026-07-31T10:55:03+00:00",
+    "source": "IT Pro",
+    "title": "Oracle integrates Google's Gemini AI models into enterprise apps",
+    "summary": "IT Pro is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmZUZkRtVkdERnczVUNJcmd2RDdmMDZtT3k2ZmlKVERkOTBrTGszM2JPcURKU0UwZ3pnOTd2QVYyczhfMEE5M0NFU0tNWFFYZklvU0l6eURkUGdOYzhtVFZURjdRbTBHbEVEeUtWVmxFSUJKeTFvdFh1bHFxZ1JHeVBscnFEcFh1NWE1RGFuUTRzUVJsRnI2SElNTlhtQkF6WWtpYzh6S0F1cjRvRFpVY0dMSm03ZWpta3BtTw?oc=5",
     "difficulty": "News"
   },
   {
