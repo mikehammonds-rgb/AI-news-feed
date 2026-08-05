@@ -1,5 +1,29 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 05, 11:28 AM ET",
+    "publishedAt": "2026-08-05T15:28:04+00:00",
+    "source": "Tech Times",
+    "title": "Claude Goes Down Again: $71B Compute Deal Cannot Prevent Anthropic’s 164th Outage",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeHJhQkNadUdFNDdrV1ZZVl9MMUZSeHVDMHI3ckJyVHJ4OWUzcDJMRUNVTEtQOW13SktSd3ROY2x4T1dzQk01bExvalNoVG9IMFlSY01ob2lLZm4tQzlTTkYwaGlvQWZhdV8tZFFySkVfYUFYanduV3hRMDA4a0xXZHBtd3Vmd3daVjYwa2RpV0wySk9ENURqNjg4a3R3ejdDemhuTFJPSFlIYlNKUXUzNzktSi1WaUk0NXI0SFFGaU9IMXdaSTd0czU5ZEhOZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 05, 11:00 AM ET",
+    "publishedAt": "2026-08-05T15:00:00+00:00",
+    "source": "Business Wire",
+    "title": "Quantide Growth Partners Brings Its AI Digital Pricing Officer to Claude Through Native MCP",
+    "summary": "Business Wire is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaUNvUVpwWHM3RVJEeWJWaVVfWWpkYWV4bG45cGh4QUJ3VkxhVWhGNk1GVUZlT3JuQzk2ZFVzWGhqQnk3bTFaS2l5Q1lJWHFPZ1FycjZWeUgxWXFSMDE0N0lfekVLalhrcWxVYTZaR1pST0JrVU1LR3RLcGlRd2xQeEg3M3hDbkhlWjMyaWtObkpiVk5XMmoweVJYLVJFUDJCMkcxYU5KYVc1R3piZGxyTDhDazlxY19oZjFITGNwVFU4OW80bGRLYzcyU0pibFBIOFFXZUs5dUZ5cUk5RVRTdWd3?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 05, 07:03 AM ET",
@@ -16,9 +40,9 @@
     "label": "Gemini",
     "time": "Aug 05, 05:21 AM ET",
     "publishedAt": "2026-08-05T09:21:00+00:00",
-    "source": "Business Insider",
+    "source": "businessinsider.com",
     "title": "Silicon Valley's favorite fantasy is back: one app to rule them all",
-    "summary": "Business Insider is reporting this update. Open the article for the full story.",
+    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM2hCaVRYTmpTRWZlVGdnQUpXandQcVhLc21yY1dTTVJIMVVKcEhFamppa0pBTlhQX1BRNGk3MEFFTVV5QmFKNjRVLVdzR3VlREtVcG9GTTdQQnJGS1otSjEyUkxPQVpfdVZocTRFemtHWWdRLUdaVmxEWjlCSnlSa2NNWGJpNGFOR1ZWeUwzSUlvX1hDd2NZb3VoX2RwQQ?oc=5",
     "difficulty": "News"
@@ -26,8 +50,8 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 05, 04:07 AM ET",
-    "publishedAt": "2026-08-05T08:07:09+00:00",
+    "time": "Aug 05, 05:20 AM ET",
+    "publishedAt": "2026-08-05T09:20:40+00:00",
     "source": "HackerNoon",
     "title": "OpenAI Responses API vs Chat Completions: What Changes for Agents?",
     "summary": "HackerNoon is reporting this update. Open the article for the full story.",
@@ -64,9 +88,9 @@
     "label": "Gemini",
     "time": "Aug 04, 12:20 PM ET",
     "publishedAt": "2026-08-04T16:20:26+00:00",
-    "source": "TechRadar",
+    "source": "techradar.com",
     "title": "I stopped looking for the perfect meditation app and built my own using AI — and it was done in under 5 minutes",
-    "summary": "TechRadar is reporting this update. Open the article for the full story.",
+    "summary": "techradar.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRXYwUkdJV1Y2MnZad3g1QnMzSkctdVU3Y1BsWl9tSTBiTF9CNzg3QXRyYVlCMkZsdTdMVXRldUdWN0FpNGluTlk0dE41czdvblpuT1d2aEhrYmpfZi1GOUdXY05kbzREcVJ2ZFRqX2ZtTGowVm5OXzE4U0k4V0RtdnlVbTQweWFtNUJjR2RGektwdW81NWk0MDBXY3R6b2NMM2ctQ3QycFFySlVhMHhJc3dicTd6VnU5MVpUUEFpbnJValBYbjl2TTBFbS1yengtOGxRdUE5N2dpZkxFLTlnT3NXZmlYU3hkRjJaT3JDOHIxTG1mSDhqMVF3?oc=5",
     "difficulty": "News"
@@ -98,13 +122,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 03, 03:43 AM ET",
-    "publishedAt": "2026-08-03T07:43:24+00:00",
-    "source": "Stocktwits",
-    "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
-    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
+    "time": "Aug 03, 08:00 AM ET",
+    "publishedAt": "2026-08-03T12:00:00+00:00",
+    "source": "ALM Corp",
+    "title": "OpenAI Rolls Out Conversion Bidding And New Campaign Tools For ChatGPT Ads",
+    "summary": "ALM Corp is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzV4dmR0RXRXS1NIZklzcWVoQjlpNzBlUTBlRGw0Nk9lNHlScXEwSmhlRmNfVkluYzB4Vmt4SUJJU0JoYTJPTkh0MGFia0VPQngxcEdVdVpyQkhZc0lQeHFlNm1xYUZZZDFhckJ2dV91MEtCYVczYXE0eXFSZlNHWXNoNA?oc=5",
     "difficulty": "News"
   },
   {
@@ -144,15 +168,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 01, 03:42 PM ET",
-    "publishedAt": "2026-08-01T19:42:55+00:00",
-    "source": "SitePoint",
-    "title": "Claude's Steganographic Request Marking: What Developers Need to Know",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 01, 01:00 PM ET",
+    "publishedAt": "2026-08-01T17:00:00+00:00",
+    "source": "Digital Trends",
+    "title": "Google just canceled its AI Studio mobile app, and it’s not all bad news",
+    "summary": "Digital Trends is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EdWpzczl3S0Rqc0JSejQ1c0lfMVg3cXoyLXNFMVJHa1c4dzlqMW5RcXpROF9YNEFVMWo1LW8zVms3NHRKeEJUVDJRWlhZOGkzZEhEVklRU2NuZ2dyRG5TZGFfZllrR0lEenoxRC0weVV2Zw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGJQZ2wzQzJFazBFa240LVhkdkhZei0tYXVjQjJrS2s0b2kyc1NjVDV2b1V3S3JmakhDUk53MzY1Mm1kUHVoUXBsLXFGZ05JXzRRRFRuYl9qdU1TNmlDbEt5eFlhYklrWVBJaTl6UmdqUnp6M0NKc3h0aFJxbTd3YWVZbXEzQ3VTZVdRZXhFdWw5eEpCLVVSZWVsV3dJdDd1MS04Rl9VNlFDaHdZTzNtMw?oc=5",
     "difficulty": "News"
   },
   {
@@ -165,18 +189,6 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 31, 06:55 AM ET",
-    "publishedAt": "2026-07-31T10:55:03+00:00",
-    "source": "IT Pro",
-    "title": "Oracle integrates Google's Gemini AI models into enterprise apps",
-    "summary": "IT Pro is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmZUZkRtVkdERnczVUNJcmd2RDdmMDZtT3k2ZmlKVERkOTBrTGszM2JPcURKU0UwZ3pnOTd2QVYyczhfMEE5M0NFU0tNWFFYZklvU0l6eURkUGdOYzhtVFZURjdRbTBHbEVEeUtWVmxFSUJKeTFvdFh1bHFxZ1JHeVBscnFEcFh1NWE1RGFuUTRzUVJsRnI2SElNTlhtQkF6WWtpYzh6S0F1cjRvRFpVY0dMSm03ZWpta3BtTw?oc=5",
     "difficulty": "News"
   },
   {
@@ -220,9 +232,9 @@
     "label": "Gemini",
     "time": "Jul 30, 10:00 AM ET",
     "publishedAt": "2026-07-30T14:00:49+00:00",
-    "source": "Oracle",
+    "source": "oracle.com",
     "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "Oracle is reporting this update. Open the article for the full story.",
+    "summary": "oracle.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
@@ -240,25 +252,13 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 29, 05:07 PM ET",
-    "publishedAt": "2026-07-29T21:07:00+00:00",
-    "source": "Newsweek",
-    "title": "Users report issues with Claude: Is it down?",
-    "summary": "Newsweek is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXZGZm1WM1RCUHkxSjBnTWFfbVc0RVgtQW5MN0lrV3hxRnQ2ZjNjSENIRDF5dUN5NVRkOWc2MGc3ZFNFcVhKSU1KNU9rcjFMLUFwUzBYUTh1Z201bjRBdlQ4bndvTmdtWW01Z2NvRmZyLTZVUHI3ZWtzQnlUQmpTak5WWUJsNlo3eWFZZDBITFItc0xnQTdjZUd6SQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 29, 01:25 PM ET",
     "publishedAt": "2026-07-29T17:25:00+00:00",
-    "source": "Business Insider",
+    "source": "businessinsider.com",
     "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "Business Insider is reporting this update. Open the article for the full story.",
+    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
@@ -352,9 +352,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 16, 03:00 AM ET",
     "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "CBS News",
+    "source": "cbsnews.com",
     "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "summary": "cbsnews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
@@ -376,9 +376,9 @@
     "label": "Codex / LLM Code",
     "time": "May 25, 03:00 AM ET",
     "publishedAt": "2026-05-25T07:00:00+00:00",
-    "source": "AI: Reset to Zero",
+    "source": "michaelparekh.substack.com",
     "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "summary": "michaelparekh.substack.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
