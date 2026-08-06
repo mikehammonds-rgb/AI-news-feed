@@ -14,18 +14,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 05, 04:20 PM ET",
-    "publishedAt": "2026-08-05T20:20:57+00:00",
-    "source": "SQ Magazine",
-    "title": "Meta Muse Code Launches With a Powerful Pricing Edge",
-    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPVmVMY1l3YmFkaXhNaDVjY2dGS1lOVVppZWRZVWtsaU1IYkVjMVRaNTd2b1hGSjdsZmtLaFRobnY0X19JSjRTdmdGUS1uU3poZ3RReDYtbDV3OW9TMjhndUl1ODVrQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 05, 03:08 PM ET",
     "publishedAt": "2026-08-05T19:08:45+00:00",
     "source": "Security Boulevard",
@@ -38,13 +26,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 05, 01:03 PM ET",
-    "publishedAt": "2026-08-05T17:03:15+00:00",
-    "source": "Wccftech",
-    "title": "China’s ByteDance Bans Employees From Distilling US AI Models, As Anthropic Confirms It’s Building A Custom Chip For Claude",
-    "summary": "Wccftech is reporting this update. Open the article for the full story.",
+    "time": "Aug 05, 03:00 PM ET",
+    "publishedAt": "2026-08-05T19:00:17+00:00",
+    "source": "CNBC",
+    "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+    "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMlFTd2U1UFVrdjJoQUNENEtXWXMxQWtNRWctLVJneXcyQ3RFRHl0ZEtBMHd0RTBXNHBleHpWSThnSE9aWWtYdnFsR2pPNFd6ZGs5czQya0VkUVF2eTdDY1RwOTVITnZ2ZkQ1UEhnQVZSZy1YY3k4dzVmSkFlREVoVWVySHJDS0swN0JnVVUwYmpDcEd0WEZjcEpieEhSVTdwTlhuZUdaRmFOMzlnb0R0R1lxb0xDaWtKRXcxUEVpVklDV0R4cTgyTFN2Q2N1eXVLWUhQV3ZGVHRCUdIB3wFBVV95cUxPbDYxR0xtVEZBeGxmUGxEM1VmSEhDbEQ2UGM4aGE5NlpHUmFkSEF2dnZ3YmRjM0dOSnRTVFktM3MwS1dWQ1RwaWdCQmxVdDJrZFJxOXhjd1ZYVWJzenc5MVAxMHRzN3dqSDhNQ2UtUWQwVUpmdTVkYmc1OF96T1o1UjZfeDgwSkoycUhsd0d3YUZTa0hSOTF5YksyZWY1YXQ2YWMyR3FETTNjN2QzcGNJaGxJa2dNdnQ2a2IwWUZmQmpJUk93aFhrWTc5aGpRMWwxS0g3bTlRTDc0YUhyMm9F?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
     "difficulty": "News"
   },
   {
@@ -132,6 +120,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 04, 12:20 PM ET",
+    "publishedAt": "2026-08-04T16:20:26+00:00",
+    "source": "TechRadar",
+    "title": "I stopped looking for the perfect meditation app and built my own using AI — and it was done in under 5 minutes",
+    "summary": "TechRadar is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRXYwUkdJV1Y2MnZad3g1QnMzSkctdVU3Y1BsWl9tSTBiTF9CNzg3QXRyYVlCMkZsdTdMVXRldUdWN0FpNGluTlk0dE41czdvblpuT1d2aEhrYmpfZi1GOUdXY05kbzREcVJ2ZFRqX2ZtTGowVm5OXzE4U0k4V0RtdnlVbTQweWFtNUJjR2RGektwdW81NWk0MDBXY3R6b2NMM2ctQ3QycFFySlVhMHhJc3dicTd6VnU5MVpUUEFpbnJValBYbjl2TTBFbS1yengtOGxRdUE5N2dpZkxFLTlnT3NXZmlYU3hkRjJaT3JDOHIxTG1mSDhqMVF3?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 04, 12:06 PM ET",
@@ -216,30 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 31, 06:55 AM ET",
-    "publishedAt": "2026-07-31T10:55:03+00:00",
-    "source": "IT Pro",
-    "title": "Oracle integrates Google's Gemini AI models into enterprise apps",
-    "summary": "IT Pro is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmZUZkRtVkdERnczVUNJcmd2RDdmMDZtT3k2ZmlKVERkOTBrTGszM2JPcURKU0UwZ3pnOTd2QVYyczhfMEE5M0NFU0tNWFFYZklvU0l6eURkUGdOYzhtVFZURjdRbTBHbEVEeUtWVmxFSUJKeTFvdFh1bHFxZ1JHeVBscnFEcFh1NWE1RGFuUTRzUVJsRnI2SElNTlhtQkF6WWtpYzh6S0F1cjRvRFpVY0dMSm03ZWpta3BtTw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 31, 06:29 AM ET",
-    "publishedAt": "2026-07-31T10:29:11+00:00",
-    "source": "InfoWorld",
-    "title": "OpenAI drops GPT-5.6 Luna and Terra API prices by up to 80%",
-    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekU4S2pRaDZRUm5XdmU2RU9kUzdZMnZEUkZTYThBQXFiLVlDdXlmSjFUYmJDaU45cWdJNzkxbHNSZXdId05Sc3hOQWNOV3hyOTF3dGdjYmxOenI0REJuWVZfZFM3RHBkTExGT2NfTUFwVk5wZ1JEQ29fWVBVZ3RkOFp5NFdkdkJOSE5nOEZsd19LQ1N2MFVTaGRHOUREaVpqT3hEN1VEYTQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 30, 04:29 PM ET",
@@ -312,6 +288,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 24, 03:00 AM ET",
+    "publishedAt": "2026-07-24T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Opus 5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jul 22, 03:00 AM ET",
@@ -364,9 +352,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 16, 03:00 AM ET",
     "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "cbsnews.com",
+    "source": "CBS News",
     "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "cbsnews.com is reporting this update. Open the article for the full story.",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
