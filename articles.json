@@ -14,6 +14,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 05, 04:03 PM ET",
+    "publishedAt": "2026-08-05T20:03:45+00:00",
+    "source": "Palo Alto Networks",
+    "title": "Prisma AIRS - Unified Data Protection for Claude",
+    "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWxsVW0tZXNRVEoxSHFTVTNWbjlZM1VpaEtXaF9ySVE1RmE5YmRsSlFfbnBBOGlSUzJPWjVraXlyMDk1ZWh5c2VjaTluTWJlYW9mVmNJNkpfZXlVMXR3ZlZDQTAtNEwyNi1LME01cXhIc3BOTkI3TU5uLUoyVFZHbl9GUWoyUjVkeDBkc2xzMWlTQnpsQWZIdA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 05, 03:08 PM ET",
     "publishedAt": "2026-08-05T19:08:45+00:00",
     "source": "Security Boulevard",
@@ -24,15 +36,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 05, 03:00 PM ET",
-    "publishedAt": "2026-08-05T19:00:17+00:00",
-    "source": "CNBC",
-    "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 05, 12:45 PM ET",
+    "publishedAt": "2026-08-05T16:45:23+00:00",
+    "source": "Stocktwits",
+    "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
+    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
     "difficulty": "News"
   },
   {
@@ -136,9 +148,9 @@
     "label": "ChatGPT",
     "time": "Aug 04, 12:06 PM ET",
     "publishedAt": "2026-08-04T16:06:02+00:00",
-    "source": "developers.googleblog.com",
+    "source": "blog.google",
     "title": "A unified API for AI model routing",
-    "summary": "developers.googleblog.com is reporting this update. Open the article for the full story.",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ajF2SnZGcndhTkIyOTJoS3Flc2xjM1c0ZWxwalhaN3ZEcWFzY0k0TElHS2hjYlJuUFNJQzgtdEFWTjZxSG9OcXg5NlRlcFQ5UHJiMzJVUTRKSE9CRzFzWXVkcjNrMlNEWTFHa21aQmFWX2docmpBdQ?oc=5",
     "difficulty": "News"
@@ -153,6 +165,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91RmtHZzZLVlVIZ3VyQ1JISENDdUw4MzAtQUJPalhZUWotYnVPWmdUV2N0cEZ1cmxYc0dCVWYtaGJnUGtRZ2NjdQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 03, 04:44 PM ET",
+    "publishedAt": "2026-08-03T20:44:49+00:00",
+    "source": "OpenAI",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 30, 04:29 PM ET",
-    "publishedAt": "2026-07-30T20:29:58+00:00",
-    "source": "OpenAI",
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 30, 11:12 AM ET",
@@ -268,9 +280,9 @@
     "label": "Codex / LLM Code",
     "time": "Jul 29, 11:50 AM ET",
     "publishedAt": "2026-07-29T15:50:04+00:00",
-    "source": "Futurism",
+    "source": "futurism.com",
     "title": "If You AI-Generate Code, Hackers Just Found a Devious Method to Install Malware Directly on Your Computer",
-    "summary": "Futurism is reporting this update. Open the article for the full story.",
+    "summary": "futurism.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHU5Qmo5eTdkV2VsMTZiOWxBUTl0R1lQalBSajk5ZlY2b05TcjJQejFGc2FfQWRycjJMU2dGUTJwY1RlN1pfVnFMTE9Ja0kxNllVM0VXVGI2Vzktamd0eXBNOFZVdU9wWkhHdElpdmZ3eW5DUUNKalJSYXIxME5ZSmczbzBmQmRqczVVVlRZZmhBcTBX?oc=5",
     "difficulty": "News"
