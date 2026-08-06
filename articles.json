@@ -40,9 +40,9 @@
     "label": "Claude Code",
     "time": "Aug 05, 03:08 PM ET",
     "publishedAt": "2026-08-05T19:08:45+00:00",
-    "source": "Security Boulevard",
+    "source": "securityboulevard.com",
     "title": "Aembit Adds Workload Identity Federation Support for the Claude API",
-    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
+    "summary": "securityboulevard.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmFybGhfanIwYjhfZ0VOQm1NM2gwbjBLOWtLWTVoRmVTd05GSlVHY2E5ODhxZ1lfc3I4MDBybzFaVWI2NVpDMlZ1MVluRXlHQ3NLYkVnV1NJQS0waE95Rml6LXhja3Y2M280WnBzZjQ4Mmh6OF91YlczcDU1NzQ2VU1vcFROaVpLb2FBSkl1Zy1mbkVRMk1wV2doaVBMcXpCU2owVUQtMWlidw?oc=5",
     "difficulty": "News"
@@ -50,23 +50,11 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 05, 12:30 PM ET",
-    "publishedAt": "2026-08-05T16:30:00+00:00",
-    "source": "Proofpoint",
-    "title": "Proofpoint Extends Real-Time DLP to Claude via New Inference Hooks",
-    "summary": "Proofpoint is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONmg5SFBCTWxIY1pOOEU5US1hYnBYelctQ2g4YnY3U1VnS3N6ekRXMDNrcUpBQTFwN3d0V0pXS2FDa0xWRTVNdlJyczFvOF9hN3JHclVYY1ZXNHlIVHVBel9pZEwyTEFjOXhLanJZWEZmZmRfc1RpSEg0UUEwLXQ2V0RvOFY4Q0NqYWp0T1pEcktDc0VGYUhTSHpaUjVQcF9RaGNBOQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 05, 11:36 AM ET",
     "publishedAt": "2026-08-05T15:36:00+00:00",
-    "source": "The Hacker News",
+    "source": "thehackernews.com",
     "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWG1zbVFfREFtMTRScUZaQUp3T0tIclhpd1dYQ29BSTh5UElMOTVoTFJYUjVOSVZyMVV6X3l2QzdwamxOT1E0LW4tLUE2VGVyWWMzN1JreWVwVVEtRmNXN3RKbTNWaG5IcUw2cjBhbFdHSHdPNXp1dFk4Y1c2N3hRcG5R?oc=5",
     "difficulty": "News"
@@ -132,18 +120,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 04, 09:33 AM ET",
-    "publishedAt": "2026-08-04T13:33:05+00:00",
-    "source": "TechRepublic",
-    "title": "Google Got 800,000 Sign-Ups for an AI App — Then Canceled It",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0h3cURWZUIxdlozRWdyUVJWazZBQTBSZ21TNU5VeE5oWm5yTzNWQnN6N1Bzck41em43SmRPbWJlenZyOVpqWWMyLU5Dc3FGM3YzNzVHbGpWSXJPQ01nekI0UWFpbzZ0d1FSOHFrbmZVZVdhU011VDJLRHVzRUtTb19YOXNPOU51ZVFNMlBn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 04, 03:00 AM ET",
@@ -196,9 +172,9 @@
     "label": "Gemini",
     "time": "Aug 02, 11:41 PM ET",
     "publishedAt": "2026-08-03T03:41:00+00:00",
-    "source": "androidauthority.com",
+    "source": "Android Authority",
     "title": "Google is canceling an unreleased app after 800,000 people pre-ordered it",
-    "summary": "androidauthority.com is reporting this update. Open the article for the full story.",
+    "summary": "Android Authority is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnBRaWxhelBZNGhlNGl2Uk1pZnM4OWloY0dpbnkzRnFTNGJrVGtZREhNZ0tuSjZFYVpsNmtsQWhaREZ1ZDdfSzJONXZuc2dLeVRUQ002Uk9xU3lFcUpGMXUzaGZyd3d5WUZyNDByU1pUQUE0Y2dxNFc3TFBSVnJEaWZidGM?oc=5",
     "difficulty": "News"
@@ -254,6 +230,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Jul 31, 06:55 AM ET",
+    "publishedAt": "2026-07-31T10:55:03+00:00",
+    "source": "IT Pro",
+    "title": "Oracle integrates Google's Gemini AI models into enterprise apps",
+    "summary": "IT Pro is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmZUZkRtVkdERnczVUNJcmd2RDdmMDZtT3k2ZmlKVERkOTBrTGszM2JPcURKU0UwZ3pnOTd2QVYyczhfMEE5M0NFU0tNWFFYZklvU0l6eURkUGdOYzhtVFZURjdRbTBHbEVEeUtWVmxFSUJKeTFvdFh1bHFxZ1JHeVBscnFEcFh1NWE1RGFuUTRzUVJsRnI2SElNTlhtQkF6WWtpYzh6S0F1cjRvRFpVY0dMSm03ZWpta3BtTw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jul 30, 11:12 AM ET",
     "publishedAt": "2026-07-30T15:12:58+00:00",
     "source": "blog.google",
@@ -280,9 +268,9 @@
     "label": "ChatGPT",
     "time": "Jul 29, 01:25 PM ET",
     "publishedAt": "2026-07-29T17:25:00+00:00",
-    "source": "businessinsider.com",
+    "source": "Business Insider",
     "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
@@ -352,9 +340,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 16, 03:00 AM ET",
     "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "cbsnews.com",
+    "source": "CBS News",
     "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "cbsnews.com is reporting this update. Open the article for the full story.",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
@@ -364,9 +352,9 @@
     "label": "Codex / LLM Code",
     "time": "May 25, 03:00 AM ET",
     "publishedAt": "2026-05-25T07:00:00+00:00",
-    "source": "AI: Reset to Zero",
+    "source": "michaelparekh.substack.com",
     "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "summary": "michaelparekh.substack.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
