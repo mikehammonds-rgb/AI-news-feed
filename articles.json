@@ -2,6 +2,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Aug 07, 12:40 PM ET",
+    "publishedAt": "2026-08-07T16:40:44+00:00",
+    "source": "PCMag Australia",
+    "title": "Game Developer Claims Gemini Served Up Data Only Available in Private Google Doc",
+    "summary": "PCMag Australia is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUEg5ejVPbVdMenVjUk0tdWhXbmhhVVZ4dkkxaVJoa0Z6YWEzb2JFMk8tVEVzZHFGY3VHZHh5Z1N2T0VKMEtXSXpmUUVkYjY0OXk4MkdDTGh2S1pLeVJmSFVUUHVsdllTZEFUaUFsdW8zMlRPaU9QWmZfNlRrTS1RX05WUHBWWk5GenBHX01mbVVPR2RLTEg5cXBvbVIzUkowbEh2TkxQa194ZEJ4WVQ0QQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Aug 07, 10:18 AM ET",
     "publishedAt": "2026-08-07T14:18:26+00:00",
     "source": "blog.google",
@@ -100,9 +112,9 @@
     "label": "Gemini",
     "time": "Aug 06, 11:00 AM ET",
     "publishedAt": "2026-08-06T15:00:00+00:00",
-    "source": "itbrief.asia",
+    "source": "IT Brief Asia",
     "title": "Menlo expands AI agent security for Copilot & Gemini",
-    "summary": "itbrief.asia is reporting this update. Open the article for the full story.",
+    "summary": "IT Brief Asia is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdEl3dGJ1Nzhqd3RnbmRHQWhZY3BJN0tEWXhaczNjdkZjTzNVbGdkNnFPZ2xMMk1QWl9jdWZRY25TVThRZmY3ZngtakZVMFZjMG53SUlTeW55aWFNaXpENkZTQzJQcDl3M3lRQmZTY3lNWHVDNXA1UnZwVVVqVDdadDQydw?oc=5",
     "difficulty": "News"
@@ -240,18 +252,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 04, 09:33 AM ET",
-    "publishedAt": "2026-08-04T13:33:05+00:00",
-    "source": "TechRepublic",
-    "title": "Google Got 800,000 Sign-Ups for an AI App — Then Canceled It",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0h3cURWZUIxdlozRWdyUVJWazZBQTBSZ21TNU5VeE5oWm5yTzNWQnN6N1Bzck41em43SmRPbWJlenZyOVpqWWMyLU5Dc3FGM3YzNzVHbGpWSXJPQ01nekI0UWFpbzZ0d1FSOHFrbmZVZVdhU011VDJLRHVzRUtTb19YOXNPOU51ZVFNMlBn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 04, 03:00 AM ET",
@@ -268,9 +268,9 @@
     "label": "ChatGPT",
     "time": "Aug 03, 04:44 PM ET",
     "publishedAt": "2026-08-03T20:44:49+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "How we built a realtime system for responsive voice AI in six months",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
     "difficulty": "News"
@@ -326,25 +326,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 30, 10:00 AM ET",
-    "publishedAt": "2026-07-30T14:00:49+00:00",
+    "time": "Jul 30, 03:00 AM ET",
+    "publishedAt": "2026-07-30T07:00:00+00:00",
     "source": "Oracle",
     "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
     "summary": "Oracle is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 29, 03:00 AM ET",
-    "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "CNET",
-    "title": "Claude AI Recovering After Widespread Outage on Wednesday",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +369,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Sonnet 5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "difficulty": "News"
   }
 ]
