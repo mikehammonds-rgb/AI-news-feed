@@ -36,6 +36,30 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 07, 06:36 AM ET",
+    "publishedAt": "2026-08-07T10:36:42+00:00",
+    "source": "cyberpress.org",
+    "title": "Claude Code RCE Flaw Lets Malicious Pull Requests Execute Commands Without Approval",
+    "summary": "cyberpress.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZHpEQmZnbGE4RlZVTWN2SmZhX01ZWFpOVktSX1ZTWktUdWhON1plbHM4XzBTMjEwclh2MW1CUFFwQWdUSGVZaEZ6OGE0a3hRYmNWMExxZFhlQUFmemZUOXBFbFlja1JHWi0yZ1dDQTJTZUdGNldKdC1GMmdmT3dBVNIBgAFBVV95cUxOZHpEQmZnbGE4RlZVTWN2SmZhX01ZWFpOVktSX1ZTWktUdWhON1plbHM4XzBTMjEwclh2MW1CUFFwQWdUSGVZaEZ6OGE0a3hRYmNWMExxZFhlQUFmemZUOXBFbFlja1JHWi0yZ1dDQTJTZUdGNldKdC1GMmdmT3dBVA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 07, 04:18 AM ET",
+    "publishedAt": "2026-08-07T08:18:00+00:00",
+    "source": "thehackernews.com",
+    "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZTJSbUhQN2ZMWGx5RVR0d3NOYXJxMHZRZDFnNXRUVlNsZmJSTlNTZ2Nybkc4ZTRkdTdBUDVOSXdqZ3Y1bDJWbE5mVUhiLVk2a0tWUW1oY09tVzZsOXZ6Y3FGcExsRkNFSk9reFN6d3hfZ1NJVjFDWFUtMUxuc0ZmWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 06, 11:05 PM ET",
@@ -88,9 +112,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 06, 12:23 PM ET",
     "publishedAt": "2026-08-06T16:23:54+00:00",
-    "source": "Polygon.com",
+    "source": "polygon.com",
     "title": "Steam Developer Alleges Google Leaked Confidential Game Content via AI Search",
-    "summary": "Polygon.com is reporting this update. Open the article for the full story.",
+    "summary": "polygon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxzcFhpSTJxanlsOF9VSUJjTVZsOFdGVkV3YUJVWTh3ZERLRkdxQS1PbllzcjRtYmwtNW1aQks3NUhXaUlYM2FwOWIySU1Rdm5uVTZsYjFGdEhtdTBiTTExNzVmNUJZekhORlE4SlNpYTl3M0xvSFdETnlLS3d6b29TazQ2MWlJ?oc=5",
     "difficulty": "News"
@@ -172,9 +196,9 @@
     "label": "Claude Code",
     "time": "Aug 05, 04:05 PM ET",
     "publishedAt": "2026-08-05T20:05:00+00:00",
-    "source": "Palo Alto Networks",
+    "source": "paloaltonetworks.com",
     "title": "Prisma AIRS - Unified Data Protection for Claude",
-    "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
+    "summary": "paloaltonetworks.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWxsVW0tZXNRVEoxSHFTVTNWbjlZM1VpaEtXaF9ySVE1RmE5YmRsSlFfbnBBOGlSUzJPWjVraXlyMDk1ZWh5c2VjaTluTWJlYW9mVmNJNkpfZXlVMXR3ZlZDQTAtNEwyNi1LME01cXhIc3BOTkI3TU5uLUoyVFZHbl9GUWoyUjVkeDBkc2xzMWlTQnpsQWZIdA?oc=5",
     "difficulty": "News"
@@ -189,18 +213,6 @@
     "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekdTVlBwYUNMaTk2TTdpTjNITmwzcTV0QWNEaDBJb1Q1aWMyZ0ItcU50X3NzdHl0aEZnaXAwRF9YaUxlMzcyM1V2TExoV2JIa0JKRlAzYjZvdk9HQkdONDVQUk9pTkNubUJNNlVCU3ZzUUx3YnNEN0tTS3UtRFNEVWU2NDZzSF9xeUdvenRUamZEcURSamc2enVoaw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 05, 11:36 AM ET",
-    "publishedAt": "2026-08-05T15:36:00+00:00",
-    "source": "thehackernews.com",
-    "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWG1zbVFfREFtMTRScUZaQUp3T0tIclhpd1dYQ29BSTh5UElMOTVoTFJYUjVOSVZyMVV6X3l2QzdwamxOT1E0LW4tLUE2VGVyWWMzN1JreWVwVVEtRmNXN3RKbTNWaG5IcUw2cjBhbFdHSHdPNXp1dFk4Y1c2N3hRcG5R?oc=5",
     "difficulty": "News"
   },
   {
@@ -292,9 +304,9 @@
     "label": "Gemini",
     "time": "Jul 31, 07:39 PM ET",
     "publishedAt": "2026-07-31T23:39:00+00:00",
-    "source": "9to5google.com",
+    "source": "9to5Google",
     "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5google.com is reporting this update. Open the article for the full story.",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
     "difficulty": "News"
@@ -316,9 +328,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 03:00 AM ET",
     "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "cnet.com",
+    "source": "CNET",
     "title": "Claude AI Recovering After Widespread Outage on Wednesday",
-    "summary": "cnet.com is reporting this update. Open the article for the full story.",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
@@ -357,18 +369,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 03:00 AM ET",
-    "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Sonnet 5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "difficulty": "News"
   }
 ]
