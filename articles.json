@@ -4,11 +4,11 @@
     "label": "Gemini",
     "time": "Aug 07, 12:40 PM ET",
     "publishedAt": "2026-08-07T16:40:44+00:00",
-    "source": "PCMag Australia",
+    "source": "PCMag UK",
     "title": "Game Developer Claims Gemini Served Up Data Only Available in Private Google Doc",
-    "summary": "PCMag Australia is reporting this update. Open the article for the full story.",
+    "summary": "PCMag UK is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUEg5ejVPbVdMenVjUk0tdWhXbmhhVVZ4dkkxaVJoa0Z6YWEzb2JFMk8tVEVzZHFGY3VHZHh5Z1N2T0VKMEtXSXpmUUVkYjY0OXk4MkdDTGh2S1pLeVJmSFVUUHVsdllTZEFUaUFsdW8zMlRPaU9QWmZfNlRrTS1RX05WUHBWWk5GenBHX01mbVVPR2RLTEg5cXBvbVIzUkowbEh2TkxQa194ZEJ4WVQ0QQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdE0wdXJyazBmNXh4YkVBTmdSdFRkTTNPVHBuVHZVNDVFR1RycGNMMlNNMU5sZE1HaVZ0WG5fN3drWHZDWEo5Mzg3WU5yZkZYVmVHRzAtaFZQZEg4MFpDWUlxTVI5bjM2b0lETnh6eVA4eXU2dHAzWDlxbmwyUWx6Q0RLall2ZzdBdzdDWnk4djQ2NjNQVkpvMWxCMFdJVUhESlJIbDhTMG5wbjg2MFRlWA?oc=5",
     "difficulty": "News"
   },
   {
@@ -33,18 +33,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZOVZqMEJycVlySmRfMWNJNC1OM0hPdi1xaU5xS1dfRnFaR0FHUk4tU1plU1lVcUxRT1hReTBJMGR2VkUxbFE3X0ZyV2oybU42VUVnX0drUXJ2aDFldW9jOFE3ZXpFYk5ZMVg0ekg5LS1rSXlfNGtVSTdtTml5QQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 07, 12:18 AM ET",
-    "publishedAt": "2026-08-07T04:18:50+00:00",
-    "source": "Hostinger",
-    "title": "How to set up OpenClaw: managed and self-hosted methods",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XNDh6NmhXd01fR05hakY2QzlTTUZCaHQxNXZibEtTNnlsU0t4M1FhX09QWmU0SE9veHFUN1VYeE81ZE9BNHVmcU5mX2RHb0RKbi03U3BKaThXSGdXd0hFVGswcXhWUElCQ1E?oc=5",
     "difficulty": "News"
   },
   {
@@ -112,9 +100,9 @@
     "label": "Gemini",
     "time": "Aug 06, 11:00 AM ET",
     "publishedAt": "2026-08-06T15:00:00+00:00",
-    "source": "itbrief.asia",
+    "source": "IT Brief Asia",
     "title": "Menlo expands AI agent security for Copilot & Gemini",
-    "summary": "itbrief.asia is reporting this update. Open the article for the full story.",
+    "summary": "IT Brief Asia is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdEl3dGJ1Nzhqd3RnbmRHQWhZY3BJN0tEWXhaczNjdkZjTzNVbGdkNnFPZ2xMMk1QWl9jdWZRY25TVThRZmY3ZngtakZVMFZjMG53SUlTeW55aWFNaXpENkZTQzJQcDl3M3lRQmZTY3lNWHVDNXA1UnZwVVVqVDdadDQydw?oc=5",
     "difficulty": "News"
@@ -141,6 +129,18 @@
     "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRk1JbVNtREMzWjZGWFV5UHZVemViQ3dreGdLRDZGRTliUURzY0ZJWWRfNWVWUFNGT1FPV0JEeWNBc0x4eWw0TzJFR2VEMTh6YXRldXlvdHpzbkQxUHZkZkVMeE1OSWlhSjNKOVM4b2pGa2FfMmFrZ2hUX1VGREN3d19oWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 06, 06:17 AM ET",
+    "publishedAt": "2026-08-06T10:17:24+00:00",
+    "source": "the-decoder.com",
+    "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOFBOSktMZklUeWVaVHhtc2g1N3BCWlFMU1Z5bTQxUUI5Q2p0cHoybDZvUVNVR205RmczdUlkU0duTmU0dzNlVEVDTjk4Nm5rNUc4LTFUeTNJdWV2UXlEU1Y0TWVMODV6WElWUlVOY0UtZF9hWjN5eFNha0NLTzQ4VmlzMnNjdkN0c0YwamNmenJHUGlOc2lSdy14dS1ZZzVRN0RfY1pGY1N4VjlvZWNUN1l4UExBTVA4MVdoWEN1TVVOMFdMQWtsT1d4dnRwQXRrb3VTU1kyTGV6TFNWZ0NSTA?oc=5",
     "difficulty": "News"
   },
   {
@@ -172,9 +172,9 @@
     "label": "Claude Code",
     "time": "Aug 05, 04:05 PM ET",
     "publishedAt": "2026-08-05T20:05:00+00:00",
-    "source": "paloaltonetworks.com",
+    "source": "Palo Alto Networks",
     "title": "Prisma AIRS - Unified Data Protection for Claude",
-    "summary": "paloaltonetworks.com is reporting this update. Open the article for the full story.",
+    "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWxsVW0tZXNRVEoxSHFTVTNWbjlZM1VpaEtXaF9ySVE1RmE5YmRsSlFfbnBBOGlSUzJPWjVraXlyMDk1ZWh5c2VjaTluTWJlYW9mVmNJNkpfZXlVMXR3ZlZDQTAtNEwyNi1LME01cXhIc3BOTkI3TU5uLUoyVFZHbl9GUWoyUjVkeDBkc2xzMWlTQnpsQWZIdA?oc=5",
     "difficulty": "News"
@@ -196,9 +196,9 @@
     "label": "Claude Code",
     "time": "Aug 05, 11:36 AM ET",
     "publishedAt": "2026-08-05T15:36:00+00:00",
-    "source": "The Hacker News",
+    "source": "thehackernews.com",
     "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWG1zbVFfREFtMTRScUZaQUp3T0tIclhpd1dYQ29BSTh5UElMOTVoTFJYUjVOSVZyMVV6X3l2QzdwamxOT1E0LW4tLUE2VGVyWWMzN1JreWVwVVEtRmNXN3RKbTNWaG5IcUw2cjBhbFdHSHdPNXp1dFk4Y1c2N3hRcG5R?oc=5",
     "difficulty": "News"
@@ -292,9 +292,9 @@
     "label": "Gemini",
     "time": "Jul 31, 07:39 PM ET",
     "publishedAt": "2026-07-31T23:39:00+00:00",
-    "source": "9to5Google",
+    "source": "9to5google.com",
     "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "summary": "9to5google.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
     "difficulty": "News"
@@ -316,9 +316,9 @@
     "label": "Claude Code",
     "time": "Jul 29, 03:00 AM ET",
     "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "CNET",
+    "source": "cnet.com",
     "title": "Claude AI Recovering After Widespread Outage on Wednesday",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "summary": "cnet.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
@@ -328,9 +328,9 @@
     "label": "ChatGPT",
     "time": "Jul 29, 03:00 AM ET",
     "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "businessinsider.com",
+    "source": "Business Insider",
     "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
