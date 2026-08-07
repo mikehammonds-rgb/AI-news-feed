@@ -14,6 +14,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Aug 06, 11:05 PM ET",
+    "publishedAt": "2026-08-07T03:05:00+00:00",
+    "source": "finance.biggo.com",
+    "title": "GitHub Actions Paralyzed for 9 Hours, Triggering Cascading Outages Across Copilot and Pages",
+    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sam1zdHdqTE0yTWJubEFIV0lzM2JuM3pnXzZFQWxlejhZT3ctSld4aDVoUHdhZGhLNm1jUzVRVzdmYTE2bUdncXBRc1FtaG9Vem05LWNlMk1rN3JxVlEtZGtFTGdvTmhOZm1ZNjdJTU03dVJXdkE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Aug 06, 09:36 PM ET",
     "publishedAt": "2026-08-07T01:36:00+00:00",
     "source": "tech-insider.org",
@@ -64,9 +76,9 @@
     "label": "Gemini",
     "time": "Aug 06, 11:00 AM ET",
     "publishedAt": "2026-08-06T15:00:00+00:00",
-    "source": "IT Brief Asia",
+    "source": "itbrief.asia",
     "title": "Menlo expands AI agent security for Copilot & Gemini",
-    "summary": "IT Brief Asia is reporting this update. Open the article for the full story.",
+    "summary": "itbrief.asia is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdEl3dGJ1Nzhqd3RnbmRHQWhZY3BJN0tEWXhaczNjdkZjTzNVbGdkNnFPZ2xMMk1QWl9jdWZRY25TVThRZmY3ZngtakZVMFZjMG53SUlTeW55aWFNaXpENkZTQzJQcDl3M3lRQmZTY3lNWHVDNXA1UnZwVVVqVDdadDQydw?oc=5",
     "difficulty": "News"
@@ -156,39 +168,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 05, 12:45 PM ET",
-    "publishedAt": "2026-08-05T16:45:23+00:00",
-    "source": "Stocktwits",
-    "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
-    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 05, 11:36 AM ET",
     "publishedAt": "2026-08-05T15:36:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWG1zbVFfREFtMTRScUZaQUp3T0tIclhpd1dYQ29BSTh5UElMOTVoTFJYUjVOSVZyMVV6X3l2QzdwamxOT1E0LW4tLUE2VGVyWWMzN1JreWVwVVEtRmNXN3RKbTNWaG5IcUw2cjBhbFdHSHdPNXp1dFk4Y1c2N3hRcG5R?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 04, 09:12 PM ET",
-    "publishedAt": "2026-08-05T01:12:36+00:00",
-    "source": "Axios",
-    "title": "Recovered chat logs show how hackers are abusing U.S. AI models",
-    "summary": "Axios is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmhZYU5WVUQ0cDkyeURYS082c0ZsdmlWYU1WN2UyQzFwZXczT2w3TDNGcjFjQ2lPN3RxOUl2Ni1POVJCRWtxbVdkb21sRFFZaVlmemYxZEVWQ3RtREpzYWNOXzYwazN4OEluLXZhNi1QS1pzOTlZU2NGbFFVMjRxZmNlTEZZV0RIaGVkazZ5bVY?oc=5",
     "difficulty": "News"
   },
   {
@@ -252,6 +240,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 03, 03:02 AM ET",
+    "publishedAt": "2026-08-03T07:02:51+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Outage Hits 5h 44m as Anthropic Tops $47B [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45MW5sSEdPNm5HQlZSOTROYlBFNDgzaU1TR05JQk53bEtBbFNtdDUwS0tvQUYwcFhaNEV5NzBINkU1bG1WYUZ4cEJRdkVtYTh6bXdWU2RYLUJUalFzdmc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 02, 11:41 PM ET",
@@ -264,13 +264,25 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 02, 07:01 PM ET",
+    "publishedAt": "2026-08-02T23:01:25+00:00",
+    "source": "EdTech Innovation Hub",
+    "title": "OpenAI cuts GPT-5.6 Luna API prices by 80% and Terra by 20%",
+    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVU82bEZWNllETHBnZmhkQzRtTWdqWUpVc0RiVDJUZUl1MjRIQllCZkxJUnd1NWUwbXlKTFdhbXAxZDhJbE1ocGFmT2RHYmRUbm5SV29DTjRINkxJTXNYNGg2ZzRrZlEtOFpaZEhSRzZ2aGdaUTA2Vkx1SENTdm1wS0pUVWVEbVNRbF83VktQWXBsdl9NZHVwSTFibEhRZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 31, 07:39 PM ET",
     "publishedAt": "2026-07-31T23:39:00+00:00",
-    "source": "9to5Google",
+    "source": "9to5google.com",
     "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "summary": "9to5google.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
     "difficulty": "News"
@@ -333,18 +345,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 10, 03:00 AM ET",
-    "publishedAt": "2026-07-10T07:00:00+00:00",
-    "source": "The GitHub Blog",
-    "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVBxbnNGdDgwZE1Ucmd0WFpOVDJGall6UDZMUjBBWXc0dUNsQ0pfOTZDelBVM1lNcFE3ZmNVc3l3bkJxRmNhVXpYd2VvV2NnUXlDTnVTckd6Z2stcS1HOVBmUjBpem5UVWo1UkFVc1NSUGZ6bldLOHplMlIwYVZvWmMydW1DaW5pbTdJUlZ1M0NBT0ZZQ2IwcWotb3c5eV9rYzBDZDlKbVNyYTE4aXZvQmpNVlRaR2RlUlRScVlSR0g?oc=5",
     "difficulty": "News"
   },
   {
