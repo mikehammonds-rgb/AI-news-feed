@@ -76,9 +76,9 @@
     "label": "Gemini",
     "time": "Aug 06, 11:00 AM ET",
     "publishedAt": "2026-08-06T15:00:00+00:00",
-    "source": "itbrief.asia",
+    "source": "IT Brief Asia",
     "title": "Menlo expands AI agent security for Copilot & Gemini",
-    "summary": "itbrief.asia is reporting this update. Open the article for the full story.",
+    "summary": "IT Brief Asia is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdEl3dGJ1Nzhqd3RnbmRHQWhZY3BJN0tEWXhaczNjdkZjTzNVbGdkNnFPZ2xMMk1QWl9jdWZRY25TVThRZmY3ZngtakZVMFZjMG53SUlTeW55aWFNaXpENkZTQzJQcDl3M3lRQmZTY3lNWHVDNXA1UnZwVVVqVDdadDQydw?oc=5",
     "difficulty": "News"
@@ -105,18 +105,6 @@
     "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRk1JbVNtREMzWjZGWFV5UHZVemViQ3dreGdLRDZGRTliUURzY0ZJWWRfNWVWUFNGT1FPV0JEeWNBc0x4eWw0TzJFR2VEMTh6YXRldXlvdHpzbkQxUHZkZkVMeE1OSWlhSjNKOVM4b2pGa2FfMmFrZ2hUX1VGREN3d19oWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 06, 06:17 AM ET",
-    "publishedAt": "2026-08-06T10:17:24+00:00",
-    "source": "the-decoder.com",
-    "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOFBOSktMZklUeWVaVHhtc2g1N3BCWlFMU1Z5bTQxUUI5Q2p0cHoybDZvUVNVR205RmczdUlkU0duTmU0dzNlVEVDTjk4Nm5rNUc4LTFUeTNJdWV2UXlEU1Y0TWVMODV6WElWUlVOY0UtZF9hWjN5eFNha0NLTzQ4VmlzMnNjdkN0c0YwamNmenJHUGlOc2lSdy14dS1ZZzVRN0RfY1pGY1N4VjlvZWNUN1l4UExBTVA4MVdoWEN1TVVOMFdMQWtsT1d4dnRwQXRrb3VTU1kyTGV6TFNWZ0NSTA?oc=5",
     "difficulty": "News"
   },
   {
@@ -177,6 +165,18 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWG1zbVFfREFtMTRScUZaQUp3T0tIclhpd1dYQ29BSTh5UElMOTVoTFJYUjVOSVZyMVV6X3l2QzdwamxOT1E0LW4tLUE2VGVyWWMzN1JreWVwVVEtRmNXN3RKbTNWaG5IcUw2cjBhbFdHSHdPNXp1dFk4Y1c2N3hRcG5R?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 05, 05:20 AM ET",
+    "publishedAt": "2026-08-05T09:20:40+00:00",
+    "source": "HackerNoon",
+    "title": "OpenAI Responses API vs Chat Completions: What Changes for Agents?",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMUx4SXpwWTI0V2s4WVMwamhWa2ZWRXNCVC1DWm4zdEtkNllWV2MwREx5UllHSTBOcjUwT2ZPaFJPS0ZyeWY0TWhkV1dpVmx3X2lSZ0NhQ3RjaDhnOV94TU9fekJkNFV4dkZURXNsN1QwbVU1T2d2M3dQQVJNVkQxOGF3SHJNeUppU09lVm1VRzc?oc=5",
     "difficulty": "News"
   },
   {
@@ -256,9 +256,9 @@
     "label": "Gemini",
     "time": "Aug 02, 11:41 PM ET",
     "publishedAt": "2026-08-03T03:41:00+00:00",
-    "source": "Android Authority",
+    "source": "androidauthority.com",
     "title": "Google is canceling an unreleased app after 800,000 people pre-ordered it",
-    "summary": "Android Authority is reporting this update. Open the article for the full story.",
+    "summary": "androidauthority.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnBRaWxhelBZNGhlNGl2Uk1pZnM4OWloY0dpbnkzRnFTNGJrVGtZREhNZ0tuSjZFYVpsNmtsQWhaREZ1ZDdfSzJONXZuc2dLeVRUQ002Uk9xU3lFcUpGMXUzaGZyd3d5WUZyNDByU1pUQUE0Y2dxNFc3TFBSVnJEaWZidGM?oc=5",
     "difficulty": "News"
@@ -278,11 +278,23 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Aug 01, 01:00 PM ET",
+    "publishedAt": "2026-08-01T17:00:00+00:00",
+    "source": "Digital Trends",
+    "title": "Google just canceled its AI Studio mobile app, and it’s not all bad news",
+    "summary": "Digital Trends is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGJQZ2wzQzJFazBFa240LVhkdkhZei0tYXVjQjJrS2s0b2kyc1NjVDV2b1V3S3JmakhDUk53MzY1Mm1kUHVoUXBsLXFGZ05JXzRRRFRuYl9qdU1TNmlDbEt5eFlhYklrWVBJaTl6UmdqUnp6M0NKc3h0aFJxbTd3YWVZbXEzQ3VTZVdRZXhFdWw5eEpCLVVSZWVsV3dJdDd1MS04Rl9VNlFDaHdZTzNtMw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Jul 31, 07:39 PM ET",
     "publishedAt": "2026-07-31T23:39:00+00:00",
-    "source": "9to5google.com",
+    "source": "9to5Google",
     "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5google.com is reporting this update. Open the article for the full story.",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
     "difficulty": "News"
