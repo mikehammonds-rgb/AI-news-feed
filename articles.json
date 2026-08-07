@@ -148,9 +148,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 05, 04:36 PM ET",
     "publishedAt": "2026-08-05T20:36:41+00:00",
-    "source": "Tech Times",
+    "source": "techtimes.com",
     "title": "Akamai Uncovers AI Browser Exploits as CVE Rates Hit 16% in Enterprises",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "summary": "techtimes.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZThVdFhwSkhhNFVTYm8zQmRrZC01UEN0VkNMV3ZtcU9uUU1xY1lHaTRDTTlkdVNCdGdoUFRvY1ZXb2RKNFhSX0lnLVpvQmUzd2RkR1N5dWdZaUw3T3ZpdGtsZk9RbFlWRFJaWGtLUFRVdlFZZml6ODJ1c3ZBZ0N2WXBESUxYSk9pUzVLbFR6Zmp3NHFSMmc2NE9fSTFseERfbHZzMUd2aERJM1VCUWFiUlBsdFdKaTdjVVA0?oc=5",
     "difficulty": "News"
@@ -256,9 +256,9 @@
     "label": "ChatGPT",
     "time": "Aug 03, 04:44 PM ET",
     "publishedAt": "2026-08-03T20:44:49+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "How we built a realtime system for responsive voice AI in six months",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
     "difficulty": "News"
@@ -321,6 +321,18 @@
     "summary": "Oracle is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 29, 03:00 AM ET",
+    "publishedAt": "2026-07-29T07:00:00+00:00",
+    "source": "CNET",
+    "title": "Claude AI Recovering After Widespread Outage on Wednesday",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
   },
   {
