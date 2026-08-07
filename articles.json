@@ -2,6 +2,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Aug 07, 10:18 AM ET",
+    "publishedAt": "2026-08-07T14:18:26+00:00",
+    "source": "blog.google",
+    "title": "See what 5 builders are making with Gemini Omni",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFllWnRiM0M0S0FNWlVDcElWNnpGdnFMUERkOVVMSHpfWnFMbU4ta1Q3bGhIbUFITFRWdTZnMWVDVzU2anh0OUU5LWIxSDlUWFhOeGIyMGt3cDVYeTNZQzJURUlwc2hldEY0SHFpcU5mZkNnd3hyaVNNNVVhOTFpYTJRU1c2dkhXVG1ESnhjMmY4WGlmV0VMeQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Aug 07, 07:11 AM ET",
     "publishedAt": "2026-08-07T11:11:39+00:00",
     "source": "Techloy",
@@ -112,9 +124,9 @@
     "label": "Claude Code",
     "time": "Aug 06, 06:58 AM ET",
     "publishedAt": "2026-08-06T10:58:30+00:00",
-    "source": "helpnetsecurity.com",
+    "source": "Help Net Security",
     "title": "Discounted Claude access bought on the gray market may expose every prompt you send",
-    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRk1JbVNtREMzWjZGWFV5UHZVemViQ3dreGdLRDZGRTliUURzY0ZJWWRfNWVWUFNGT1FPV0JEeWNBc0x4eWw0TzJFR2VEMTh6YXRldXlvdHpzbkQxUHZkZkVMeE1OSWlhSjNKOVM4b2pGa2FfMmFrZ2hUX1VGREN3d19oWQ?oc=5",
     "difficulty": "News"
@@ -148,9 +160,9 @@
     "label": "Claude Code",
     "time": "Aug 05, 04:05 PM ET",
     "publishedAt": "2026-08-05T20:05:00+00:00",
-    "source": "paloaltonetworks.com",
+    "source": "Palo Alto Networks",
     "title": "Prisma AIRS - Unified Data Protection for Claude",
-    "summary": "paloaltonetworks.com is reporting this update. Open the article for the full story.",
+    "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWxsVW0tZXNRVEoxSHFTVTNWbjlZM1VpaEtXaF9ySVE1RmE5YmRsSlFfbnBBOGlSUzJPWjVraXlyMDk1ZWh5c2VjaTluTWJlYW9mVmNJNkpfZXlVMXR3ZlZDQTAtNEwyNi1LME01cXhIc3BOTkI3TU5uLUoyVFZHbl9GUWoyUjVkeDBkc2xzMWlTQnpsQWZIdA?oc=5",
     "difficulty": "News"
@@ -160,9 +172,9 @@
     "label": "Claude Code",
     "time": "Aug 05, 03:46 PM ET",
     "publishedAt": "2026-08-05T19:46:00+00:00",
-    "source": "techbuzz.ai",
+    "source": "The Tech Buzz",
     "title": "Meta Launches Muse Code AI Agent to Challenge OpenAI, Anthropic",
-    "summary": "techbuzz.ai is reporting this update. Open the article for the full story.",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekdTVlBwYUNMaTk2TTdpTjNITmwzcTV0QWNEaDBJb1Q1aWMyZ0ItcU50X3NzdHl0aEZnaXAwRF9YaUxlMzcyM1V2TExoV2JIa0JKRlAzYjZvdk9HQkdONDVQUk9pTkNubUJNNlVCU3ZzUUx3YnNEN0tTS3UtRFNEVWU2NDZzSF9xeUdvenRUamZEcURSamc2enVoaw?oc=5",
     "difficulty": "News"
@@ -244,9 +256,9 @@
     "label": "ChatGPT",
     "time": "Aug 03, 04:44 PM ET",
     "publishedAt": "2026-08-03T20:44:49+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "How we built a realtime system for responsive voice AI in six months",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
     "difficulty": "News"
@@ -345,18 +357,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 03:00 AM ET",
-    "publishedAt": "2026-07-21T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5",
     "difficulty": "News"
   },
   {
