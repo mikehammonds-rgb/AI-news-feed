@@ -4,9 +4,9 @@
     "label": "Gemini",
     "time": "Aug 07, 12:40 PM ET",
     "publishedAt": "2026-08-07T16:40:44+00:00",
-    "source": "PCMag Australia",
+    "source": "au.pcmag.com",
     "title": "Game Developer Claims Gemini Served Up Data Only Available in Private Google Doc",
-    "summary": "PCMag Australia is reporting this update. Open the article for the full story.",
+    "summary": "au.pcmag.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUEg5ejVPbVdMenVjUk0tdWhXbmhhVVZ4dkkxaVJoa0Z6YWEzb2JFMk8tVEVzZHFGY3VHZHh5Z1N2T0VKMEtXSXpmUUVkYjY0OXk4MkdDTGh2S1pLeVJmSFVUUHVsdllTZEFUaUFsdW8zMlRPaU9QWmZfNlRrTS1RX05WUHBWWk5GenBHX01mbVVPR2RLTEg5cXBvbVIzUkowbEh2TkxQa194ZEJ4WVQ0QQ?oc=5",
     "difficulty": "News"
@@ -26,13 +26,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 07, 07:11 AM ET",
-    "publishedAt": "2026-08-07T11:11:39+00:00",
-    "source": "Techloy",
-    "title": "Google Gemini Accused of Leaking a Private Google Doc",
-    "summary": "Techloy is reporting this update. Open the article for the full story.",
+    "time": "Aug 07, 08:25 AM ET",
+    "publishedAt": "2026-08-07T12:25:16+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Opus vs GPT-5.5 vs Gemini 3.5 Flash: $21 Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTHdkN0h4b2ItZU1oakRaQmd1ZEg5UDJwMUVvY2JCdURFMXZpT3NlUlpZYUpxbU1kSjY0cDFvYV9YS1l1QW1BY1BZd1lOMFlXSm9NOGxBTlVucHg3Q2p3UmN2TTEtcG5UdkZUWVB4REd2RDdsUUdhd3Z3SnYycmlqSWpwWC1Cdw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZOVZqMEJycVlySmRfMWNJNC1OM0hPdi1xaU5xS1dfRnFaR0FHUk4tU1plU1lVcUxRT1hReTBJMGR2VkUxbFE3X0ZyV2oybU42VUVnX0drUXJ2aDFldW9jOFE3ZXpFYk5ZMVg0ekg5LS1rSXlfNGtVSTdtTml5QQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -194,18 +194,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 05, 03:08 PM ET",
-    "publishedAt": "2026-08-05T19:08:45+00:00",
-    "source": "Security Boulevard",
-    "title": "Aembit Adds Workload Identity Federation Support for the Claude API",
-    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmFybGhfanIwYjhfZ0VOQm1NM2gwbjBLOWtLWTVoRmVTd05GSlVHY2E5ODhxZ1lfc3I4MDBybzFaVWI2NVpDMlZ1MVluRXlHQ3NLYkVnV1NJQS0waE95Rml6LXhja3Y2M280WnBzZjQ4Mmh6OF91YlczcDU1NzQ2VU1vcFROaVpLb2FBSkl1Zy1mbkVRMk1wV2doaVBMcXpCU2owVUQtMWlidw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 05, 11:36 AM ET",
     "publishedAt": "2026-08-05T15:36:00+00:00",
     "source": "The Hacker News",
@@ -268,23 +256,11 @@
     "label": "ChatGPT",
     "time": "Aug 03, 04:44 PM ET",
     "publishedAt": "2026-08-03T20:44:49+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "How we built a realtime system for responsive voice AI in six months",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 03, 03:02 AM ET",
-    "publishedAt": "2026-08-03T07:02:51+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Outage Hits 5h 44m as Anthropic Tops $47B [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45MW5sSEdPNm5HQlZSOTROYlBFNDgzaU1TR05JQk53bEtBbFNtdDUwS0tvQUYwcFhaNEV5NzBINkU1bG1WYUZ4cEJRdkVtYTh6bXdWU2RYLUJUalFzdmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -304,9 +280,9 @@
     "label": "ChatGPT",
     "time": "Aug 02, 07:01 PM ET",
     "publishedAt": "2026-08-02T23:01:25+00:00",
-    "source": "EdTech Innovation Hub",
+    "source": "edtechinnovationhub.com",
     "title": "OpenAI cuts GPT-5.6 Luna API prices by 80% and Terra by 20%",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "summary": "edtechinnovationhub.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVU82bEZWNllETHBnZmhkQzRtTWdqWUpVc0RiVDJUZUl1MjRIQllCZkxJUnd1NWUwbXlKTFdhbXAxZDhJbE1ocGFmT2RHYmRUbm5SV29DTjRINkxJTXNYNGg2ZzRrZlEtOFpaZEhSRzZ2aGdaUTA2Vkx1SENTdm1wS0pUVWVEbVNRbF83VktQWXBsdl9NZHVwSTFibEhRZw?oc=5",
     "difficulty": "News"
@@ -333,6 +309,18 @@
     "summary": "Oracle is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 29, 03:00 AM ET",
+    "publishedAt": "2026-07-29T07:00:00+00:00",
+    "source": "CNET",
+    "title": "Claude AI Recovering After Widespread Outage on Wednesday",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
   },
   {
