@@ -100,9 +100,9 @@
     "label": "Gemini",
     "time": "Aug 06, 11:00 AM ET",
     "publishedAt": "2026-08-06T15:00:00+00:00",
-    "source": "IT Brief Asia",
+    "source": "itbrief.asia",
     "title": "Menlo expands AI agent security for Copilot & Gemini",
-    "summary": "IT Brief Asia is reporting this update. Open the article for the full story.",
+    "summary": "itbrief.asia is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdEl3dGJ1Nzhqd3RnbmRHQWhZY3BJN0tEWXhaczNjdkZjTzNVbGdkNnFPZ2xMMk1QWl9jdWZRY25TVThRZmY3ZngtakZVMFZjMG53SUlTeW55aWFNaXpENkZTQzJQcDl3M3lRQmZTY3lNWHVDNXA1UnZwVVVqVDdadDQydw?oc=5",
     "difficulty": "News"
@@ -148,9 +148,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 05, 04:36 PM ET",
     "publishedAt": "2026-08-05T20:36:41+00:00",
-    "source": "techtimes.com",
+    "source": "Tech Times",
     "title": "Akamai Uncovers AI Browser Exploits as CVE Rates Hit 16% in Enterprises",
-    "summary": "techtimes.com is reporting this update. Open the article for the full story.",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZThVdFhwSkhhNFVTYm8zQmRrZC01UEN0VkNMV3ZtcU9uUU1xY1lHaTRDTTlkdVNCdGdoUFRvY1ZXb2RKNFhSX0lnLVpvQmUzd2RkR1N5dWdZaUw3T3ZpdGtsZk9RbFlWRFJaWGtLUFRVdlFZZml6ODJ1c3ZBZ0N2WXBESUxYSk9pUzVLbFR6Zmp3NHFSMmc2NE9fSTFseERfbHZzMUd2aERJM1VCUWFiUlBsdFdKaTdjVVA0?oc=5",
     "difficulty": "News"
@@ -177,6 +177,18 @@
     "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekdTVlBwYUNMaTk2TTdpTjNITmwzcTV0QWNEaDBJb1Q1aWMyZ0ItcU50X3NzdHl0aEZnaXAwRF9YaUxlMzcyM1V2TExoV2JIa0JKRlAzYjZvdk9HQkdONDVQUk9pTkNubUJNNlVCU3ZzUUx3YnNEN0tTS3UtRFNEVWU2NDZzSF9xeUdvenRUamZEcURSamc2enVoaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 05, 03:08 PM ET",
+    "publishedAt": "2026-08-05T19:08:45+00:00",
+    "source": "Security Boulevard",
+    "title": "Aembit Adds Workload Identity Federation Support for the Claude API",
+    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmFybGhfanIwYjhfZ0VOQm1NM2gwbjBLOWtLWTVoRmVTd05GSlVHY2E5ODhxZ1lfc3I4MDBybzFaVWI2NVpDMlZ1MVluRXlHQ3NLYkVnV1NJQS0waE95Rml6LXhja3Y2M280WnBzZjQ4Mmh6OF91YlczcDU1NzQ2VU1vcFROaVpLb2FBSkl1Zy1mbkVRMk1wV2doaVBMcXpCU2owVUQtMWlidw?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,18 +381,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 03:00 AM ET",
-    "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Sonnet 5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "difficulty": "News"
   }
 ]
