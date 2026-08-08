@@ -40,9 +40,9 @@
     "label": "Gemini",
     "time": "Aug 07, 12:40 PM ET",
     "publishedAt": "2026-08-07T16:40:44+00:00",
-    "source": "PCMag UK",
+    "source": "uk.pcmag.com",
     "title": "Game Developer Claims Gemini Served Up Data Only Available in Private Google Doc",
-    "summary": "PCMag UK is reporting this update. Open the article for the full story.",
+    "summary": "uk.pcmag.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdE0wdXJyazBmNXh4YkVBTmdSdFRkTTNPVHBuVHZVNDVFR1RycGNMMlNNMU5sZE1HaVZ0WG5fN3drWHZDWEo5Mzg3WU5yZkZYVmVHRzAtaFZQZEg4MFpDWUlxTVI5bjM2b0lETnh6eVA4eXU2dHAzWDlxbmwyUWx6Q0RLall2ZzdBdzdDWnk4djQ2NjNQVkpvMWxCMFdJVUhESlJIbDhTMG5wbjg2MFRlWA?oc=5",
     "difficulty": "News"
@@ -69,6 +69,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZOVZqMEJycVlySmRfMWNJNC1OM0hPdi1xaU5xS1dfRnFaR0FHUk4tU1plU1lVcUxRT1hReTBJMGR2VkUxbFE3X0ZyV2oybU42VUVnX0drUXJ2aDFldW9jOFE3ZXpFYk5ZMVg0ekg5LS1rSXlfNGtVSTdtTml5QQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 07, 05:22 AM ET",
+    "publishedAt": "2026-08-07T09:22:19+00:00",
+    "source": "36 Kr",
+    "title": "GPT-5.6 Free Access Now Available: Outperforming DeepSeek with 3x Higher Call Volume",
+    "summary": "36 Kr is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yZDNEOEhhVjcwNkVPOFVoQk9ZbkUtdG5sMS1NdU1ObUhTTlF5TTFvNUV5WW1fR0l3Wjh1ZWNqcnVQUmhZcDV6QlpyX2FNZ2hqa2hR?oc=5",
     "difficulty": "News"
   },
   {
@@ -144,25 +156,13 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 06, 06:58 AM ET",
-    "publishedAt": "2026-08-06T10:58:30+00:00",
-    "source": "Help Net Security",
-    "title": "Discounted Claude access bought on the gray market may expose every prompt you send",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRk1JbVNtREMzWjZGWFV5UHZVemViQ3dreGdLRDZGRTliUURzY0ZJWWRfNWVWUFNGT1FPV0JEeWNBc0x4eWw0TzJFR2VEMTh6YXRldXlvdHpzbkQxUHZkZkVMeE1OSWlhSjNKOVM4b2pGa2FfMmFrZ2hUX1VGREN3d19oWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 05, 04:36 PM ET",
     "publishedAt": "2026-08-05T20:36:41+00:00",
-    "source": "techtimes.com",
+    "source": "Tech Times",
     "title": "Akamai Uncovers AI Browser Exploits as CVE Rates Hit 16% in Enterprises",
-    "summary": "techtimes.com is reporting this update. Open the article for the full story.",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZThVdFhwSkhhNFVTYm8zQmRrZC01UEN0VkNMV3ZtcU9uUU1xY1lHaTRDTTlkdVNCdGdoUFRvY1ZXb2RKNFhSX0lnLVpvQmUzd2RkR1N5dWdZaUw3T3ZpdGtsZk9RbFlWRFJaWGtLUFRVdlFZZml6ODJ1c3ZBZ0N2WXBESUxYSk9pUzVLbFR6Zmp3NHFSMmc2NE9fSTFseERfbHZzMUd2aERJM1VCUWFiUlBsdFdKaTdjVVA0?oc=5",
     "difficulty": "News"
@@ -292,23 +292,11 @@
     "label": "Gemini",
     "time": "Jul 31, 07:39 PM ET",
     "publishedAt": "2026-07-31T23:39:00+00:00",
-    "source": "9to5google.com",
+    "source": "9to5Google",
     "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5google.com is reporting this update. Open the article for the full story.",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 30, 03:00 AM ET",
-    "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -316,9 +304,9 @@
     "label": "Gemini",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "Oracle",
+    "source": "oracle.com",
     "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "Oracle is reporting this update. Open the article for the full story.",
+    "summary": "oracle.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
@@ -369,6 +357,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Sonnet 5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "difficulty": "News"
   }
 ]
