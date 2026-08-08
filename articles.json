@@ -50,6 +50,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Aug 07, 12:40 PM ET",
+    "publishedAt": "2026-08-07T16:40:44+00:00",
+    "source": "PCMag UK",
+    "title": "Game Developer Claims Gemini Served Up Data Only Available in Private Google Doc",
+    "summary": "PCMag UK is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdE0wdXJyazBmNXh4YkVBTmdSdFRkTTNPVHBuVHZVNDVFR1RycGNMMlNNMU5sZE1HaVZ0WG5fN3drWHZDWEo5Mzg3WU5yZkZYVmVHRzAtaFZQZEg4MFpDWUlxTVI5bjM2b0lETnh6eVA4eXU2dHAzWDlxbmwyUWx6Q0RLall2ZzdBdzdDWnk4djQ2NjNQVkpvMWxCMFdJVUhESlJIbDhTMG5wbjg2MFRlWA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Aug 07, 10:18 AM ET",
     "publishedAt": "2026-08-07T14:18:26+00:00",
     "source": "blog.google",
@@ -57,18 +69,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFllWnRiM0M0S0FNWlVDcElWNnpGdnFMUERkOVVMSHpfWnFMbU4ta1Q3bGhIbUFITFRWdTZnMWVDVzU2anh0OUU5LWIxSDlUWFhOeGIyMGt3cDVYeTNZQzJURUlwc2hldEY0SHFpcU5mZkNnd3hyaVNNNVVhOTFpYTJRU1c2dkhXVG1ESnhjMmY4WGlmV0VMeQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 07, 08:25 AM ET",
-    "publishedAt": "2026-08-07T12:25:16+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Opus vs GPT-5.5 vs Gemini 3.5 Flash: $21 Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZOVZqMEJycVlySmRfMWNJNC1OM0hPdi1xaU5xS1dfRnFaR0FHUk4tU1plU1lVcUxRT1hReTBJMGR2VkUxbFE3X0ZyV2oybU42VUVnX0drUXJ2aDFldW9jOFE3ZXpFYk5ZMVg0ekg5LS1rSXlfNGtVSTdtTml5QQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -144,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 06, 05:11 AM ET",
-    "publishedAt": "2026-08-06T09:11:15+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Set Up GitHub Copilot: 12 Steps, 70 Min [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14aXFUNjJlMUUzcTRsWUo0ZFAwMnFEbmNfN21aekFhaWZUQTJtU0g5eE14SzdGVW5aS3VkdEZmVngwLUNpVmQtX0x2cjIwSURJcE5OSldCeGdHSnNkR2xudTgyOS0xS2tnM1pJ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 06, 03:00 AM ET",
@@ -182,6 +170,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 05, 03:46 PM ET",
+    "publishedAt": "2026-08-05T19:46:00+00:00",
+    "source": "The Tech Buzz",
+    "title": "Meta Launches Muse Code AI Agent to Challenge OpenAI, Anthropic",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekdTVlBwYUNMaTk2TTdpTjNITmwzcTV0QWNEaDBJb1Q1aWMyZ0ItcU50X3NzdHl0aEZnaXAwRF9YaUxlMzcyM1V2TExoV2JIa0JKRlAzYjZvdk9HQkdONDVQUk9pTkNubUJNNlVCU3ZzUUx3YnNEN0tTS3UtRFNEVWU2NDZzSF9xeUdvenRUamZEcURSamc2enVoaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 05, 11:36 AM ET",
     "publishedAt": "2026-08-05T15:36:00+00:00",
     "source": "The Hacker News",
@@ -196,9 +196,9 @@
     "label": "ChatGPT",
     "time": "Aug 05, 05:20 AM ET",
     "publishedAt": "2026-08-05T09:20:40+00:00",
-    "source": "hackernoon.com",
+    "source": "HackerNoon",
     "title": "OpenAI Responses API vs Chat Completions: What Changes for Agents?",
-    "summary": "hackernoon.com is reporting this update. Open the article for the full story.",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMUx4SXpwWTI0V2s4WVMwamhWa2ZWRXNCVC1DWm4zdEtkNllWV2MwREx5UllHSTBOcjUwT2ZPaFJPS0ZyeWY0TWhkV1dpVmx3X2lSZ0NhQ3RjaDhnOV94TU9fekJkNFV4dkZURXNsN1QwbVU1T2d2M3dQQVJNVkQxOGF3SHJNeUppU09lVm1VRzc?oc=5",
     "difficulty": "News"
@@ -244,9 +244,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 04, 03:00 AM ET",
     "publishedAt": "2026-08-04T07:00:00+00:00",
-    "source": "AIMultiple",
+    "source": "aimultiple.com",
     "title": "Best 50+ Open Source AI Agents Listed",
-    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
+    "summary": "aimultiple.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WbnFnU3kxUnVrMWt2TlYyR3h4T3g0SWVFU0xQZlpBZHhxRDhGWnIzR284empKR1BVeVBIa0gyTmFiZWo3RjZvcjdIZ0puU3BMdlMzVURDOA?oc=5",
     "difficulty": "News"
@@ -280,9 +280,9 @@
     "label": "Gemini",
     "time": "Aug 02, 11:41 PM ET",
     "publishedAt": "2026-08-03T03:41:00+00:00",
-    "source": "androidauthority.com",
+    "source": "Android Authority",
     "title": "Google is canceling an unreleased app after 800,000 people pre-ordered it",
-    "summary": "androidauthority.com is reporting this update. Open the article for the full story.",
+    "summary": "Android Authority is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnBRaWxhelBZNGhlNGl2Uk1pZnM4OWloY0dpbnkzRnFTNGJrVGtZREhNZ0tuSjZFYVpsNmtsQWhaREZ1ZDdfSzJONXZuc2dLeVRUQ002Uk9xU3lFcUpGMXUzaGZyd3d5WUZyNDByU1pUQUE0Y2dxNFc3TFBSVnJEaWZidGM?oc=5",
     "difficulty": "News"
