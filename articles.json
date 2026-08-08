@@ -16,9 +16,9 @@
     "label": "Gemini",
     "time": "Aug 08, 12:21 AM ET",
     "publishedAt": "2026-08-08T04:21:18+00:00",
-    "source": "gizmotimes.com",
+    "source": "Gizmo Times",
     "title": "Cursor vs GitHub Copilot vs Gemini Code Assist: Which AI coding tool should you use in 2026?",
-    "summary": "gizmotimes.com is reporting this update. Open the article for the full story.",
+    "summary": "Gizmo Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVEdueXppV2RxRF81U2JCLTFwbGc2RGpoZXpR?oc=5",
     "difficulty": "News"
@@ -156,6 +156,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 06, 03:00 AM ET",
+    "publishedAt": "2026-08-06T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 05, 04:36 PM ET",
@@ -264,6 +276,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 03, 03:02 AM ET",
+    "publishedAt": "2026-08-03T07:02:51+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Outage Hits 5h 44m as Anthropic Tops $47B [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45MW5sSEdPNm5HQlZSOTROYlBFNDgzaU1TR05JQk53bEtBbFNtdDUwS0tvQUYwcFhaNEV5NzBINkU1bG1WYUZ4cEJRdkVtYTh6bXdWU2RYLUJUalFzdmc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 02, 11:41 PM ET",
@@ -297,18 +321,6 @@
     "summary": "9to5google.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 30, 03:00 AM ET",
-    "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
   },
   {
