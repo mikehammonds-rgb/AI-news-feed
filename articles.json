@@ -1,17 +1,5 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 07, 08:48 PM ET",
-    "publishedAt": "2026-08-08T00:48:13+00:00",
-    "source": "XenoSpectrum",
-    "title": "Claude Code's Independent Sessions Now Communicate Directly: How the New Cross-Session Feature Works and Its Limits",
-    "summary": "XenoSpectrum is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YbzZkUW1XbjFuWFl0U25LaFhkbU1XU1lJS1J5TExEZ0I4eVpwejQ2aGRVUm5zeWpLWWU2cUlmTjZRN01JTjhUMG5LRnEyM2FuNUNjTHJ4MTV0RXdFck1MQmxoU0tjVFFLY3FYMkNtWnR2UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 07, 06:01 PM ET",
@@ -40,9 +28,9 @@
     "label": "Gemini",
     "time": "Aug 07, 12:40 PM ET",
     "publishedAt": "2026-08-07T16:40:44+00:00",
-    "source": "uk.pcmag.com",
+    "source": "PCMag UK",
     "title": "Game Developer Claims Gemini Served Up Data Only Available in Private Google Doc",
-    "summary": "uk.pcmag.com is reporting this update. Open the article for the full story.",
+    "summary": "PCMag UK is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdE0wdXJyazBmNXh4YkVBTmdSdFRkTTNPVHBuVHZVNDVFR1RycGNMMlNNMU5sZE1HaVZ0WG5fN3drWHZDWEo5Mzg3WU5yZkZYVmVHRzAtaFZQZEg4MFpDWUlxTVI5bjM2b0lETnh6eVA4eXU2dHAzWDlxbmwyUWx6Q0RLall2ZzdBdzdDWnk4djQ2NjNQVkpvMWxCMFdJVUhESlJIbDhTMG5wbjg2MFRlWA?oc=5",
     "difficulty": "News"
@@ -134,18 +122,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 06, 11:00 AM ET",
-    "publishedAt": "2026-08-06T15:00:00+00:00",
-    "source": "IT Brief Asia",
-    "title": "Menlo expands AI agent security for Copilot & Gemini",
-    "summary": "IT Brief Asia is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdEl3dGJ1Nzhqd3RnbmRHQWhZY3BJN0tEWXhaczNjdkZjTzNVbGdkNnFPZ2xMMk1QWl9jdWZRY25TVThRZmY3ZngtakZVMFZjMG53SUlTeW55aWFNaXpENkZTQzJQcDl3M3lRQmZTY3lNWHVDNXA1UnZwVVVqVDdadDQydw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Aug 06, 08:23 AM ET",
     "publishedAt": "2026-08-06T12:23:17+00:00",
     "source": "tech-insider.org",
@@ -153,6 +129,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ybjFRYWpucDlhbE1VQUFwdS1jTlhZcWhGRHRGU3drYUlXS1ZYLW1XS2RtN2FJYWJRak1wQjdkTnBrejNhVExkVEZXRk1LbzdhOXVzTS1aYVI4dUY4MTcwZFdCVHRWWDNTUUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 06, 05:11 AM ET",
+    "publishedAt": "2026-08-06T09:11:15+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Set Up GitHub Copilot: 12 Steps, 70 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14aXFUNjJlMUUzcTRsWUo0ZFAwMnFEbmNfN21aekFhaWZUQTJtU0g5eE14SzdGVW5aS3VkdEZmVngwLUNpVmQtX0x2cjIwSURJcE5OSldCeGdHSnNkR2xudTgyOS0xS2tnM1pJ?oc=5",
     "difficulty": "News"
   },
   {
@@ -268,9 +256,9 @@
     "label": "Gemini",
     "time": "Aug 02, 11:41 PM ET",
     "publishedAt": "2026-08-03T03:41:00+00:00",
-    "source": "androidauthority.com",
+    "source": "Android Authority",
     "title": "Google is canceling an unreleased app after 800,000 people pre-ordered it",
-    "summary": "androidauthority.com is reporting this update. Open the article for the full story.",
+    "summary": "Android Authority is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnBRaWxhelBZNGhlNGl2Uk1pZnM4OWloY0dpbnkzRnFTNGJrVGtZREhNZ0tuSjZFYVpsNmtsQWhaREZ1ZDdfSzJONXZuc2dLeVRUQ002Uk9xU3lFcUpGMXUzaGZyd3d5WUZyNDByU1pUQUE0Y2dxNFc3TFBSVnJEaWZidGM?oc=5",
     "difficulty": "News"
@@ -316,11 +304,23 @@
     "label": "Gemini",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "oracle.com",
+    "source": "Oracle",
     "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "oracle.com is reporting this update. Open the article for the full story.",
+    "summary": "Oracle is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 29, 03:00 AM ET",
+    "publishedAt": "2026-07-29T07:00:00+00:00",
+    "source": "CNET",
+    "title": "Claude AI Recovering After Widespread Outage on Wednesday",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHYwWm83bVFiUjlheGVEckFfMlAzelRaQUJ5Q1NJdzVMU2FRUlRxTl82dEk1MWpBOThJY3pMRlJ4bzdsVnpUOE1Xb0ZuWDR1RzVoZXhTd2FLeTRibEJLVmVMbWw0TlJsdkhKaUk3UmtqNWUtcUtnS21vVGd6ZExEQ2xtVzJxTmRjUHh3SF9FbUFnLS03NmE2bjBBYVVZYjBjNlBvODE4eDlzUQ?oc=5",
     "difficulty": "News"
   },
   {
