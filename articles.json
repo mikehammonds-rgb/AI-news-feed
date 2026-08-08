@@ -144,6 +144,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 06, 05:11 AM ET",
+    "publishedAt": "2026-08-06T09:11:15+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Set Up GitHub Copilot: 12 Steps, 70 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14aXFUNjJlMUUzcTRsWUo0ZFAwMnFEbmNfN21aekFhaWZUQTJtU0g5eE14SzdGVW5aS3VkdEZmVngwLUNpVmQtX0x2cjIwSURJcE5OSldCeGdHSnNkR2xudTgyOS0xS2tnM1pJ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 06, 03:00 AM ET",
@@ -170,18 +182,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 05, 03:46 PM ET",
-    "publishedAt": "2026-08-05T19:46:00+00:00",
-    "source": "The Tech Buzz",
-    "title": "Meta Launches Muse Code AI Agent to Challenge OpenAI, Anthropic",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekdTVlBwYUNMaTk2TTdpTjNITmwzcTV0QWNEaDBJb1Q1aWMyZ0ItcU50X3NzdHl0aEZnaXAwRF9YaUxlMzcyM1V2TExoV2JIa0JKRlAzYjZvdk9HQkdONDVQUk9pTkNubUJNNlVCU3ZzUUx3YnNEN0tTS3UtRFNEVWU2NDZzSF9xeUdvenRUamZEcURSamc2enVoaw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 05, 11:36 AM ET",
     "publishedAt": "2026-08-05T15:36:00+00:00",
     "source": "The Hacker News",
@@ -196,9 +196,9 @@
     "label": "ChatGPT",
     "time": "Aug 05, 05:20 AM ET",
     "publishedAt": "2026-08-05T09:20:40+00:00",
-    "source": "HackerNoon",
+    "source": "hackernoon.com",
     "title": "OpenAI Responses API vs Chat Completions: What Changes for Agents?",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "summary": "hackernoon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMUx4SXpwWTI0V2s4WVMwamhWa2ZWRXNCVC1DWm4zdEtkNllWV2MwREx5UllHSTBOcjUwT2ZPaFJPS0ZyeWY0TWhkV1dpVmx3X2lSZ0NhQ3RjaDhnOV94TU9fekJkNFV4dkZURXNsN1QwbVU1T2d2M3dQQVJNVkQxOGF3SHJNeUppU09lVm1VRzc?oc=5",
     "difficulty": "News"
@@ -220,9 +220,9 @@
     "label": "ChatGPT",
     "time": "Aug 04, 12:06 PM ET",
     "publishedAt": "2026-08-04T16:06:02+00:00",
-    "source": "developers.googleblog.com",
+    "source": "blog.google",
     "title": "A unified API for AI model routing",
-    "summary": "developers.googleblog.com is reporting this update. Open the article for the full story.",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ajF2SnZGcndhTkIyOTJoS3Flc2xjM1c0ZWxwalhaN3ZEcWFzY0k0TElHS2hjYlJuUFNJQzgtdEFWTjZxSG9OcXg5NlRlcFQ5UHJiMzJVUTRKSE9CRzFzWXVkcjNrMlNEWTFHa21aQmFWX2docmpBdQ?oc=5",
     "difficulty": "News"
@@ -280,9 +280,9 @@
     "label": "Gemini",
     "time": "Aug 02, 11:41 PM ET",
     "publishedAt": "2026-08-03T03:41:00+00:00",
-    "source": "Android Authority",
+    "source": "androidauthority.com",
     "title": "Google is canceling an unreleased app after 800,000 people pre-ordered it",
-    "summary": "Android Authority is reporting this update. Open the article for the full story.",
+    "summary": "androidauthority.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnBRaWxhelBZNGhlNGl2Uk1pZnM4OWloY0dpbnkzRnFTNGJrVGtZREhNZ0tuSjZFYVpsNmtsQWhaREZ1ZDdfSzJONXZuc2dLeVRUQ002Uk9xU3lFcUpGMXUzaGZyd3d5WUZyNDByU1pUQUE0Y2dxNFc3TFBSVnJEaWZidGM?oc=5",
     "difficulty": "News"
