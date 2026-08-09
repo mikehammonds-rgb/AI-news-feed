@@ -24,30 +24,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 08, 06:05 AM ET",
-    "publishedAt": "2026-08-08T10:05:00+00:00",
-    "source": "finance.biggo.com",
-    "title": "Claude Code Gets Major Update: AI Sessions Can Now Communicate Autonomously, Marking a Key Step in Multi-Agent Collaboration",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54ZTFzN1B4RmNudWRaUjNtVDVMWWlZMlhad2kyWEVldTdQeFAyS25Ja1Z2YlYyVkV4eWdWVHVnSFJ3MjJoOGw0QzJ1d2JXT0dHR3JRZTQyb053anFEeEVhNXRuU1pYSTl5ellfLVl6bi0zNUoyNWc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 08, 12:21 AM ET",
-    "publishedAt": "2026-08-08T04:21:18+00:00",
-    "source": "gizmotimes.com",
-    "title": "Cursor vs GitHub Copilot vs Gemini Code Assist: Which AI coding tool should you use in 2026?",
-    "summary": "gizmotimes.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVEdueXppV2RxRF81U2JCLTFwbGc2RGpoZXpR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 07, 06:01 PM ET",
@@ -156,6 +132,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 06, 05:11 AM ET",
+    "publishedAt": "2026-08-06T09:11:15+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Set Up GitHub Copilot: 12 Steps, 70 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14aXFUNjJlMUUzcTRsWUo0ZFAwMnFEbmNfN21aekFhaWZUQTJtU0g5eE14SzdGVW5aS3VkdEZmVngwLUNpVmQtX0x2cjIwSURJcE5OSldCeGdHSnNkR2xudTgyOS0xS2tnM1pJ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 06, 03:00 AM ET",
@@ -220,9 +208,9 @@
     "label": "ChatGPT",
     "time": "Aug 05, 05:20 AM ET",
     "publishedAt": "2026-08-05T09:20:40+00:00",
-    "source": "hackernoon.com",
+    "source": "HackerNoon",
     "title": "OpenAI Responses API vs Chat Completions: What Changes for Agents?",
-    "summary": "hackernoon.com is reporting this update. Open the article for the full story.",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMUx4SXpwWTI0V2s4WVMwamhWa2ZWRXNCVC1DWm4zdEtkNllWV2MwREx5UllHSTBOcjUwT2ZPaFJPS0ZyeWY0TWhkV1dpVmx3X2lSZ0NhQ3RjaDhnOV94TU9fekJkNFV4dkZURXNsN1QwbVU1T2d2M3dQQVJNVkQxOGF3SHJNeUppU09lVm1VRzc?oc=5",
     "difficulty": "News"
@@ -261,6 +249,18 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0h3cURWZUIxdlozRWdyUVJWazZBQTBSZ21TNU5VeE5oWm5yTzNWQnN6N1Bzck41em43SmRPbWJlenZyOVpqWWMyLU5Dc3FGM3YzNzVHbGpWSXJPQ01nekI0UWFpbzZ0d1FSOHFrbmZVZVdhU011VDJLRHVzRUtTb19YOXNPOU51ZVFNMlBn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 04, 06:01 AM ET",
+    "publishedAt": "2026-08-04T10:01:26+00:00",
+    "source": "axios.com",
+    "title": "Recovered chat logs show how hackers are abusing U.S. AI models",
+    "summary": "axios.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmhZYU5WVUQ0cDkyeURYS082c0ZsdmlWYU1WN2UyQzFwZXczT2w3TDNGcjFjQ2lPN3RxOUl2Ni1POVJCRWtxbVdkb21sRFFZaVlmemYxZEVWQ3RtREpzYWNOXzYwazN4OEluLXZhNi1QS1pzOTlZU2NGbFFVMjRxZmNlTEZZV0RIaGVkazZ5bVY?oc=5",
     "difficulty": "News"
   },
   {
