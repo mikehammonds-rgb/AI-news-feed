@@ -12,18 +12,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 08, 07:58 PM ET",
-    "publishedAt": "2026-08-08T23:58:32+00:00",
-    "source": "Pasquale Pillitteri",
-    "title": "Claude Code Sessions Can Now Message Each Other",
-    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdVY5c3RkQ21Xd2NXTEt6NGM4b2g5SWtPV0QzdmNXeWRubXg2Y3hVUXctWWFSQlhpQm5DaXVQVjlSVjdpZXNQM0JQdVl3TmFDd0hzUWZoSWx0bXRPYWF3RzV6UnlGdEFRUmpzdlJMQUV3R19BTWRtWTRQek5UR1FGNEFlUW5rQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 08, 08:23 AM ET",
@@ -156,6 +144,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 06, 06:58 AM ET",
+    "publishedAt": "2026-08-06T10:58:30+00:00",
+    "source": "Help Net Security",
+    "title": "Discounted Claude access bought on the gray market may expose every prompt you send",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRk1JbVNtREMzWjZGWFV5UHZVemViQ3dreGdLRDZGRTliUURzY0ZJWWRfNWVWUFNGT1FPV0JEeWNBc0x4eWw0TzJFR2VEMTh6YXRldXlvdHpzbkQxUHZkZkVMeE1OSWlhSjNKOVM4b2pGa2FfMmFrZ2hUX1VGREN3d19oWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 06, 03:00 AM ET",
@@ -184,9 +184,9 @@
     "label": "Claude Code",
     "time": "Aug 05, 03:46 PM ET",
     "publishedAt": "2026-08-05T19:46:00+00:00",
-    "source": "techbuzz.ai",
+    "source": "The Tech Buzz",
     "title": "Meta Launches Muse Code AI Agent to Challenge OpenAI, Anthropic",
-    "summary": "techbuzz.ai is reporting this update. Open the article for the full story.",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekdTVlBwYUNMaTk2TTdpTjNITmwzcTV0QWNEaDBJb1Q1aWMyZ0ItcU50X3NzdHl0aEZnaXAwRF9YaUxlMzcyM1V2TExoV2JIa0JKRlAzYjZvdk9HQkdONDVQUk9pTkNubUJNNlVCU3ZzUUx3YnNEN0tTS3UtRFNEVWU2NDZzSF9xeUdvenRUamZEcURSamc2enVoaw?oc=5",
     "difficulty": "News"
@@ -244,9 +244,9 @@
     "label": "ChatGPT",
     "time": "Aug 04, 12:06 PM ET",
     "publishedAt": "2026-08-04T16:06:02+00:00",
-    "source": "developers.googleblog.com",
+    "source": "blog.google",
     "title": "A unified API for AI model routing",
-    "summary": "developers.googleblog.com is reporting this update. Open the article for the full story.",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ajF2SnZGcndhTkIyOTJoS3Flc2xjM1c0ZWxwalhaN3ZEcWFzY0k0TElHS2hjYlJuUFNJQzgtdEFWTjZxSG9OcXg5NlRlcFQ5UHJiMzJVUTRKSE9CRzFzWXVkcjNrMlNEWTFHa21aQmFWX2docmpBdQ?oc=5",
     "difficulty": "News"
@@ -292,9 +292,9 @@
     "label": "Gemini",
     "time": "Aug 02, 11:41 PM ET",
     "publishedAt": "2026-08-03T03:41:00+00:00",
-    "source": "androidauthority.com",
+    "source": "Android Authority",
     "title": "Google is canceling an unreleased app after 800,000 people pre-ordered it",
-    "summary": "androidauthority.com is reporting this update. Open the article for the full story.",
+    "summary": "Android Authority is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnBRaWxhelBZNGhlNGl2Uk1pZnM4OWloY0dpbnkzRnFTNGJrVGtZREhNZ0tuSjZFYVpsNmtsQWhaREZ1ZDdfSzJONXZuc2dLeVRUQ002Uk9xU3lFcUpGMXUzaGZyd3d5WUZyNDByU1pUQUE0Y2dxNFc3TFBSVnJEaWZidGM?oc=5",
     "difficulty": "News"
@@ -304,9 +304,9 @@
     "label": "Gemini",
     "time": "Jul 31, 07:39 PM ET",
     "publishedAt": "2026-07-31T23:39:00+00:00",
-    "source": "9to5Google",
+    "source": "9to5google.com",
     "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "summary": "9to5google.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
     "difficulty": "News"
