@@ -1,17 +1,5 @@
 [
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 09, 06:01 AM ET",
-    "publishedAt": "2026-08-09T10:01:28+00:00",
-    "source": "finance.biggo.com",
-    "title": "HeteroFlow v2 Inference Service Launches: Single API Unifies 9 Chinese-Made GPU Brands, Targeting Window After Computing Price Hikes",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPSFZYQ1RMU0FZUnRMQmZmOUxvVzdxZnpNWUt0WmRRdUhNSVhicUp0OU43SDloYTVwMnJUVjRHdFdMUS13endBWmNYTHM5V1R6NkxzMFhnamdvc3p0MEl2YTFvZE9uNVpvRUxDdWN5RzVYWm5MRmc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 08, 09:41 PM ET",
@@ -208,9 +196,9 @@
     "label": "Claude Code",
     "time": "Aug 05, 03:00 PM ET",
     "publishedAt": "2026-08-05T19:00:17+00:00",
-    "source": "cnbc.com",
+    "source": "CNBC",
     "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
-    "summary": "cnbc.com is reporting this update. Open the article for the full story.",
+    "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
     "difficulty": "News"
@@ -256,9 +244,9 @@
     "label": "Gemini",
     "time": "Aug 04, 09:33 AM ET",
     "publishedAt": "2026-08-04T13:33:05+00:00",
-    "source": "TechRepublic",
+    "source": "techrepublic.com",
     "title": "Google Got 800,000 Sign-Ups for an AI App — Then Canceled It",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "summary": "techrepublic.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0h3cURWZUIxdlozRWdyUVJWazZBQTBSZ21TNU5VeE5oWm5yTzNWQnN6N1Bzck41em43SmRPbWJlenZyOVpqWWMyLU5Dc3FGM3YzNzVHbGpWSXJPQ01nekI0UWFpbzZ0d1FSOHFrbmZVZVdhU011VDJLRHVzRUtTb19YOXNPOU51ZVFNMlBn?oc=5",
     "difficulty": "News"
@@ -309,6 +297,18 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 03:00 AM ET",
+    "publishedAt": "2026-07-30T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
   },
   {
