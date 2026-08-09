@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 09, 06:01 AM ET",
+    "publishedAt": "2026-08-09T10:01:28+00:00",
+    "source": "finance.biggo.com",
+    "title": "HeteroFlow v2 Inference Service Launches: Single API Unifies 9 Chinese-Made GPU Brands, Targeting Window After Computing Price Hikes",
+    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPSFZYQ1RMU0FZUnRMQmZmOUxvVzdxZnpNWUt0WmRRdUhNSVhicUp0OU43SDloYTVwMnJUVjRHdFdMUS13endBWmNYTHM5V1R6NkxzMFhnamdvc3p0MEl2YTFvZE9uNVpvRUxDdWN5RzVYWm5MRmc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 08, 09:41 PM ET",
@@ -144,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 06, 06:58 AM ET",
-    "publishedAt": "2026-08-06T10:58:30+00:00",
-    "source": "Help Net Security",
-    "title": "Discounted Claude access bought on the gray market may expose every prompt you send",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRk1JbVNtREMzWjZGWFV5UHZVemViQ3dreGdLRDZGRTliUURzY0ZJWWRfNWVWUFNGT1FPV0JEeWNBc0x4eWw0TzJFR2VEMTh6YXRldXlvdHpzbkQxUHZkZkVMeE1OSWlhSjNKOVM4b2pGa2FfMmFrZ2hUX1VGREN3d19oWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 06, 03:00 AM ET",
@@ -256,9 +256,9 @@
     "label": "Claude Code",
     "time": "Aug 04, 06:01 AM ET",
     "publishedAt": "2026-08-04T10:01:26+00:00",
-    "source": "axios.com",
+    "source": "Axios",
     "title": "Recovered chat logs show how hackers are abusing U.S. AI models",
-    "summary": "axios.com is reporting this update. Open the article for the full story.",
+    "summary": "Axios is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmhZYU5WVUQ0cDkyeURYS082c0ZsdmlWYU1WN2UyQzFwZXczT2w3TDNGcjFjQ2lPN3RxOUl2Ni1POVJCRWtxbVdkb21sRFFZaVlmemYxZEVWQ3RtREpzYWNOXzYwazN4OEluLXZhNi1QS1pzOTlZU2NGbFFVMjRxZmNlTEZZV0RIaGVkazZ5bVY?oc=5",
     "difficulty": "News"
@@ -280,9 +280,9 @@
     "label": "Gemini",
     "time": "Aug 02, 11:41 PM ET",
     "publishedAt": "2026-08-03T03:41:00+00:00",
-    "source": "Android Authority",
+    "source": "androidauthority.com",
     "title": "Google is canceling an unreleased app after 800,000 people pre-ordered it",
-    "summary": "Android Authority is reporting this update. Open the article for the full story.",
+    "summary": "androidauthority.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnBRaWxhelBZNGhlNGl2Uk1pZnM4OWloY0dpbnkzRnFTNGJrVGtZREhNZ0tuSjZFYVpsNmtsQWhaREZ1ZDdfSzJONXZuc2dLeVRUQ002Uk9xU3lFcUpGMXUzaGZyd3d5WUZyNDByU1pUQUE0Y2dxNFc3TFBSVnJEaWZidGM?oc=5",
     "difficulty": "News"
@@ -292,23 +292,11 @@
     "label": "Gemini",
     "time": "Jul 31, 07:39 PM ET",
     "publishedAt": "2026-07-31T23:39:00+00:00",
-    "source": "9to5Google",
+    "source": "9to5google.com",
     "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "summary": "9to5google.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 30, 03:00 AM ET",
-    "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -316,9 +304,9 @@
     "label": "Gemini",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "oracle.com",
+    "source": "Oracle",
     "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "oracle.com is reporting this update. Open the article for the full story.",
+    "summary": "Oracle is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
@@ -352,9 +340,9 @@
     "label": "ChatGPT",
     "time": "Jul 24, 03:00 AM ET",
     "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "aws.amazon.com",
     "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
     "difficulty": "News"
