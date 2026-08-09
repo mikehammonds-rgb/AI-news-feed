@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 09, 03:39 PM ET",
+    "publishedAt": "2026-08-09T19:39:00+00:00",
+    "source": "The Tech Buzz",
+    "title": "Anthropic Makes Claude Code Fully Autonomous by Default",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2JlMW9HaC1pVy1pM0JGRl9qcnE3aDZQRW13QnB2NWR3SFZSTksyUy11bGp3a3I3NjdaZHdvalZ2LWw5OUtLY2lMT09tYndNd1ZrOEQ0VmZlbnpfdVhtTDV2TVp2djhRN1diSUZ1SVotSmQ0N3prMnk2cGpvaGN6M1NqOVE0SDB3N0NRMDh0YkdoQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 09, 08:21 AM ET",
     "publishedAt": "2026-08-09T12:21:09+00:00",
     "source": "tech-insider.org",
@@ -36,15 +48,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 07, 03:30 PM ET",
-    "publishedAt": "2026-08-07T19:30:00+00:00",
-    "source": "Lifehacker",
-    "title": "Five Ways to Make Gemini Behave More Like Google Assistant",
-    "summary": "Lifehacker is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 07, 05:45 PM ET",
+    "publishedAt": "2026-08-07T21:45:39+00:00",
+    "source": "VentureBeat",
+    "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BaHk0ZVdFZllFeFlUbzlVYTFoemZYZ0ZJLTRyOFlrdU1NT0Z1V3pQcHpZTl9QME5pa29OQ3BUR1QzR3ZvUmVLNWpvYjRpUUJyRTZTRHAzZy0zY1dXSTBKUW01N2NzZnZ5cjBSWEJhZEthNzRU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmJwVlk5WE5BZjh5SkJWaEtRUFQ2WldNcVBDSkJZenp1UlltVlE3cmhEUEV0LXpxVHVram93dkZhc25ZV1FLazdwbWxDQlczdjV5S1Q5eVgyLUFKRDR3NEJqb3BrWWhuMHFSTkV1WVJoSmpiMVJCaGFxTFVaOE5ETVhVUXV0c2JWZFRNRi1XaDltZ21DN1JlMVVZbUUtRlpUeEhORkkzYVp3bkw2YWZfeFY0dEQtQlhKbTlDNVMyNjQ1TUtMUWdZODlZeWdOTnc?oc=5",
     "difficulty": "News"
   },
   {
@@ -52,9 +64,9 @@
     "label": "ChatGPT",
     "time": "Aug 07, 01:47 PM ET",
     "publishedAt": "2026-08-07T17:47:06+00:00",
-    "source": "paloaltonetworks.com",
+    "source": "Palo Alto Networks",
     "title": "Strengthening Security of AI Coding: Prisma AIRS API Integration with OpenAI Codex",
-    "summary": "paloaltonetworks.com is reporting this update. Open the article for the full story.",
+    "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3NPSndEa0h4LUR2bDlCdnd5a2ZEZ3h0RWh5R0l6QVczak5jSHp5cWgxTXZMSzl3NGx4dHdDNmdwVEFyWWhsSU1VVFhEWXpHNnJDMjlkWG9LMy1DRVcySTQzNTNrLUV2ZlBLek01a3RGSGZnWVhnbWtlTXNRNlhkOWNveUFWWVI4c1R3TFpWLTBzYjBaWlhIZVQ2SzBCX0oxMWd0Um1yZUhVckFVNGJqaGVPVm1QQ2k5WHJHZlk5UFRSdW41QTRJ?oc=5",
     "difficulty": "News"
@@ -136,9 +148,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 06, 12:23 PM ET",
     "publishedAt": "2026-08-06T16:23:54+00:00",
-    "source": "Polygon.com",
+    "source": "polygon.com",
     "title": "Steam Developer Alleges Google Leaked Confidential Game Content via AI Search",
-    "summary": "Polygon.com is reporting this update. Open the article for the full story.",
+    "summary": "polygon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxzcFhpSTJxanlsOF9VSUJjTVZsOFdGVkV3YUJVWTh3ZERLRkdxQS1PbllzcjRtYmwtNW1aQks3NUhXaUlYM2FwOWIySU1Rdm5uVTZsYjFGdEhtdTBiTTExNzVmNUJZekhORlE4SlNpYTl3M0xvSFdETnlLS3d6b29TazQ2MWlJ?oc=5",
     "difficulty": "News"
@@ -182,18 +194,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 05, 03:46 PM ET",
-    "publishedAt": "2026-08-05T19:46:00+00:00",
-    "source": "The Tech Buzz",
-    "title": "Meta Launches Muse Code AI Agent to Challenge OpenAI, Anthropic",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekdTVlBwYUNMaTk2TTdpTjNITmwzcTV0QWNEaDBJb1Q1aWMyZ0ItcU50X3NzdHl0aEZnaXAwRF9YaUxlMzcyM1V2TExoV2JIa0JKRlAzYjZvdk9HQkdONDVQUk9pTkNubUJNNlVCU3ZzUUx3YnNEN0tTS3UtRFNEVWU2NDZzSF9xeUdvenRUamZEcURSamc2enVoaw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 05, 03:00 PM ET",
     "publishedAt": "2026-08-05T19:00:17+00:00",
     "source": "CNBC",
@@ -208,9 +208,9 @@
     "label": "Claude Code",
     "time": "Aug 05, 11:36 AM ET",
     "publishedAt": "2026-08-05T15:36:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWG1zbVFfREFtMTRScUZaQUp3T0tIclhpd1dYQ29BSTh5UElMOTVoTFJYUjVOSVZyMVV6X3l2QzdwamxOT1E0LW4tLUE2VGVyWWMzN1JreWVwVVEtRmNXN3RKbTNWaG5IcUw2cjBhbFdHSHdPNXp1dFk4Y1c2N3hRcG5R?oc=5",
     "difficulty": "News"
@@ -328,9 +328,9 @@
     "label": "ChatGPT",
     "time": "Jul 29, 03:00 AM ET",
     "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "businessinsider.com",
+    "source": "Business Insider",
     "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
@@ -360,15 +360,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 03:00 AM ET",
-    "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Sonnet 5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 23, 06:55 AM ET",
+    "publishedAt": "2026-07-23T10:55:08+00:00",
+    "source": "aimagazine.com",
+    "title": "How Google’s New Gemini Flash Models Compare to its Rivals",
+    "summary": "aimagazine.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1pMWW9kR3EyeGVydUZadWNscXNzcjMwU2hlRm80WmNGRUU0THEzeDEyTzl4MEphT2pEQTdrclRycWVQUXlUSVdnSEhCaFNkTUwwWmxST0NCbmJla2JNeXRFNF9oTGpBYzZGaWJvcjJ2U2RtSnhJNUNYYTlYOEw0am1JX1hneTZaZFlXRWNB?oc=5",
     "difficulty": "News"
   },
   {
