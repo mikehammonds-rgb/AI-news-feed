@@ -60,6 +60,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 07, 08:25 AM ET",
+    "publishedAt": "2026-08-07T12:25:16+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Opus vs GPT-5.5 vs Gemini 3.5 Flash: $21 Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZOVZqMEJycVlySmRfMWNJNC1OM0hPdi1xaU5xS1dfRnFaR0FHUk4tU1plU1lVcUxRT1hReTBJMGR2VkUxbFE3X0ZyV2oybU42VUVnX0drUXJ2aDFldW9jOFE3ZXpFYk5ZMVg0ekg5LS1rSXlfNGtVSTdtTml5QQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 06, 11:05 PM ET",
@@ -112,9 +124,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 06, 12:23 PM ET",
     "publishedAt": "2026-08-06T16:23:54+00:00",
-    "source": "Polygon.com",
+    "source": "polygon.com",
     "title": "Steam Developer Alleges Google Leaked Confidential Game Content via AI Search",
-    "summary": "Polygon.com is reporting this update. Open the article for the full story.",
+    "summary": "polygon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxzcFhpSTJxanlsOF9VSUJjTVZsOFdGVkV3YUJVWTh3ZERLRkdxQS1PbllzcjRtYmwtNW1aQks3NUhXaUlYM2FwOWIySU1Rdm5uVTZsYjFGdEhtdTBiTTExNzVmNUJZekhORlE4SlNpYTl3M0xvSFdETnlLS3d6b29TazQ2MWlJ?oc=5",
     "difficulty": "News"
@@ -129,6 +141,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ybjFRYWpucDlhbE1VQUFwdS1jTlhZcWhGRHRGU3drYUlXS1ZYLW1XS2RtN2FJYWJRak1wQjdkTnBrejNhVExkVEZXRk1LbzdhOXVzTS1aYVI4dUY4MTcwZFdCVHRWWDNTUUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 06, 06:58 AM ET",
+    "publishedAt": "2026-08-06T10:58:30+00:00",
+    "source": "Help Net Security",
+    "title": "Discounted Claude access bought on the gray market may expose every prompt you send",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRk1JbVNtREMzWjZGWFV5UHZVemViQ3dreGdLRDZGRTliUURzY0ZJWWRfNWVWUFNGT1FPV0JEeWNBc0x4eWw0TzJFR2VEMTh6YXRldXlvdHpzbkQxUHZkZkVMeE1OSWlhSjNKOVM4b2pGa2FfMmFrZ2hUX1VGREN3d19oWQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 05, 05:21 AM ET",
-    "publishedAt": "2026-08-05T09:21:00+00:00",
-    "source": "businessinsider.com",
-    "title": "Silicon Valley's favorite fantasy is back: one app to rule them all",
-    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM2hCaVRYTmpTRWZlVGdnQUpXandQcVhLc21yY1dTTVJIMVVKcEhFamppa0pBTlhQX1BRNGk3MEFFTVV5QmFKNjRVLVdzR3VlREtVcG9GTTdQQnJGS1otSjEyUkxPQVpfdVZocTRFemtHWWdRLUdaVmxEWjlCSnlSa2NNWGJpNGFOR1ZWeUwzSUlvX1hDd2NZb3VoX2RwQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 05, 05:20 AM ET",
@@ -256,9 +268,9 @@
     "label": "Claude Code",
     "time": "Aug 04, 06:01 AM ET",
     "publishedAt": "2026-08-04T10:01:26+00:00",
-    "source": "axios.com",
+    "source": "Axios",
     "title": "Recovered chat logs show how hackers are abusing U.S. AI models",
-    "summary": "axios.com is reporting this update. Open the article for the full story.",
+    "summary": "Axios is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmhZYU5WVUQ0cDkyeURYS082c0ZsdmlWYU1WN2UyQzFwZXczT2w3TDNGcjFjQ2lPN3RxOUl2Ni1POVJCRWtxbVdkb21sRFFZaVlmemYxZEVWQ3RtREpzYWNOXzYwazN4OEluLXZhNi1QS1pzOTlZU2NGbFFVMjRxZmNlTEZZV0RIaGVkazZ5bVY?oc=5",
     "difficulty": "News"
@@ -369,18 +381,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 03:00 AM ET",
-    "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Sonnet 5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "difficulty": "News"
   }
 ]
