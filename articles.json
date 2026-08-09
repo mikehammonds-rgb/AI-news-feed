@@ -72,6 +72,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 07, 12:17 PM ET",
+    "publishedAt": "2026-08-07T16:17:00+00:00",
+    "source": "Fortune",
+    "title": "The Hugging Face hack is now a PR crisis that’s costing OpenAI millions",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHFSMS1GclM5U1E4SHFPUXlDQ25sSE5BQUxTQ1VuQVAtcW5xXzR4ZDNCQ25RWkd4MEtCMU1YdmNDT1E0cFMzRWRvODdQdVZybE5wTUt1SDIya2NRbi1rclRwbU1qU05YOFJHX19KWWE1QlVzOWlqQkZac0stSDU0M1J5NmRFcG1xWFpOWklwZHozdUhfcWk4ZFh4RmxJakxyQ2NzQg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 07, 10:18 AM ET",
@@ -132,6 +144,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 06, 08:23 AM ET",
+    "publishedAt": "2026-08-06T12:23:17+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude vs Gemini vs ChatGPT: $18 Output Price Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ybjFRYWpucDlhbE1VQUFwdS1jTlhZcWhGRHRGU3drYUlXS1ZYLW1XS2RtN2FJYWJRak1wQjdkTnBrejNhVExkVEZXRk1LbzdhOXVzTS1aYVI4dUY4MTcwZFdCVHRWWDNTUUE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 06, 03:00 AM ET",
@@ -148,9 +172,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 05, 04:36 PM ET",
     "publishedAt": "2026-08-05T20:36:41+00:00",
-    "source": "Tech Times",
+    "source": "techtimes.com",
     "title": "Akamai Uncovers AI Browser Exploits as CVE Rates Hit 16% in Enterprises",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "summary": "techtimes.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZThVdFhwSkhhNFVTYm8zQmRrZC01UEN0VkNMV3ZtcU9uUU1xY1lHaTRDTTlkdVNCdGdoUFRvY1ZXb2RKNFhSX0lnLVpvQmUzd2RkR1N5dWdZaUw3T3ZpdGtsZk9RbFlWRFJaWGtLUFRVdlFZZml6ODJ1c3ZBZ0N2WXBESUxYSk9pUzVLbFR6Zmp3NHFSMmc2NE9fSTFseERfbHZzMUd2aERJM1VCUWFiUlBsdFdKaTdjVVA0?oc=5",
     "difficulty": "News"
@@ -192,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 05, 05:20 AM ET",
-    "publishedAt": "2026-08-05T09:20:40+00:00",
-    "source": "hackernoon.com",
-    "title": "OpenAI Responses API vs Chat Completions: What Changes for Agents?",
-    "summary": "hackernoon.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMUx4SXpwWTI0V2s4WVMwamhWa2ZWRXNCVC1DWm4zdEtkNllWV2MwREx5UllHSTBOcjUwT2ZPaFJPS0ZyeWY0TWhkV1dpVmx3X2lSZ0NhQ3RjaDhnOV94TU9fekJkNFV4dkZURXNsN1QwbVU1T2d2M3dQQVJNVkQxOGF3SHJNeUppU09lVm1VRzc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 04, 12:20 PM ET",
@@ -240,18 +252,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 04, 06:01 AM ET",
-    "publishedAt": "2026-08-04T10:01:26+00:00",
-    "source": "Axios",
-    "title": "Recovered chat logs show how hackers are abusing U.S. AI models",
-    "summary": "Axios is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmhZYU5WVUQ0cDkyeURYS082c0ZsdmlWYU1WN2UyQzFwZXczT2w3TDNGcjFjQ2lPN3RxOUl2Ni1POVJCRWtxbVdkb21sRFFZaVlmemYxZEVWQ3RtREpzYWNOXzYwazN4OEluLXZhNi1QS1pzOTlZU2NGbFFVMjRxZmNlTEZZV0RIaGVkazZ5bVY?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 04, 03:00 AM ET",
@@ -261,18 +261,6 @@
     "summary": "AIMultiple is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WbnFnU3kxUnVrMWt2TlYyR3h4T3g0SWVFU0xQZlpBZHhxRDhGWnIzR284empKR1BVeVBIa0gyTmFiZWo3RjZvcjdIZ0puU3BMdlMzVURDOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 02, 07:01 PM ET",
-    "publishedAt": "2026-08-02T23:01:25+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "OpenAI cuts GPT-5.6 Luna API prices by 80% and Terra by 20%",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVU82bEZWNllETHBnZmhkQzRtTWdqWUpVc0RiVDJUZUl1MjRIQllCZkxJUnd1NWUwbXlKTFdhbXAxZDhJbE1ocGFmT2RHYmRUbm5SV29DTjRINkxJTXNYNGg2ZzRrZlEtOFpaZEhSRzZ2aGdaUTA2Vkx1SENTdm1wS0pUVWVEbVNRbF83VktQWXBsdl9NZHVwSTFibEhRZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -364,11 +352,23 @@
     "label": "Gemini",
     "time": "Jul 23, 06:55 AM ET",
     "publishedAt": "2026-07-23T10:55:08+00:00",
-    "source": "aimagazine.com",
+    "source": "AI Magazine",
     "title": "How Google’s New Gemini Flash Models Compare to its Rivals",
-    "summary": "aimagazine.com is reporting this update. Open the article for the full story.",
+    "summary": "AI Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1pMWW9kR3EyeGVydUZadWNscXNzcjMwU2hlRm80WmNGRUU0THEzeDEyTzl4MEphT2pEQTdrclRycWVQUXlUSVdnSEhCaFNkTUwwWmxST0NCbmJla2JNeXRFNF9oTGpBYzZGaWJvcjJ2U2RtSnhJNUNYYTlYOEw0am1JX1hneTZaZFlXRWNB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Sonnet 5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "difficulty": "News"
   },
   {
