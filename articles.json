@@ -200,7 +200,7 @@
     "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2c?oc=5",
     "difficulty": "News"
   },
   {
@@ -208,9 +208,9 @@
     "label": "Claude Code",
     "time": "Aug 05, 11:36 AM ET",
     "publishedAt": "2026-08-05T15:36:00+00:00",
-    "source": "The Hacker News",
+    "source": "thehackernews.com",
     "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWG1zbVFfREFtMTRScUZaQUp3T0tIclhpd1dYQ29BSTh5UElMOTVoTFJYUjVOSVZyMVV6X3l2QzdwamxOT1E0LW4tLUE2VGVyWWMzN1JreWVwVVEtRmNXN3RKbTNWaG5IcUw2cjBhbFdHSHdPNXp1dFk4Y1c2N3hRcG5R?oc=5",
     "difficulty": "News"
@@ -220,23 +220,11 @@
     "label": "Gemini",
     "time": "Aug 05, 09:00 AM ET",
     "publishedAt": "2026-08-05T13:00:00+00:00",
-    "source": "businesswire.com",
+    "source": "Business Wire",
     "title": "Menlo Security Extends MARS to Secure AI Assistants and Coding Agents Like Microsoft Copilot, Gemini in Chrome, and Claude Code Against Prompt Injection and Data Exfiltration",
-    "summary": "businesswire.com is reporting this update. Open the article for the full story.",
+    "summary": "Business Wire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNOXdFdEZGNmYwY0h6Y3ZMTlB0UVZ0OVJFaGRwYVRMek5lZDFWZlZlTV9UVl92WTdmOVZBQkxZSTRaY2hFaTlzVVBfNS1BRGRJX1dUOHVlSEtLYTVhTjM1YlIwS2R5TXpueHV2Zld6Ul9tQXo0Y0l1OG5FdXhQcTE5a0FBM2x5a1lZdVZMakc3VENNcFFuZ1pRaF9DVVBKZkVPUFN3WkRwYXktSV92Q0I0djNVRlBVQjR4VWduTXpzb0JSUnBmWEEtMUZueFVLS3BqRzg2REdCWGlXdDl1VmdkN1FOQlVLVkllcG1sWFk5RFR0MjFseHlmSDdXREUtN1pXUzhQcU5MMjlQQTZ4MWpzT2JaRUZiSS1kcjFwMTNONDlYT19Za1VISndTUlVzWDI2cVBVWHlzT2RCYnhsQU5sY0dHem5YY283YU52UW5R?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 04, 12:20 PM ET",
-    "publishedAt": "2026-08-04T16:20:26+00:00",
-    "source": "TechRadar",
-    "title": "I stopped searching the App Store and built exactly the app I wanted using AI — and it took me less than 5 minutes",
-    "summary": "TechRadar is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRXYwUkdJV1Y2MnZad3g1QnMzSkctdVU3Y1BsWl9tSTBiTF9CNzg3QXRyYVlCMkZsdTdMVXRldUdWN0FpNGluTlk0dE41czdvblpuT1d2aEhrYmpfZi1GOUdXY05kbzREcVJ2ZFRqX2ZtTGowVm5OXzE4U0k4V0RtdnlVbTQweWFtNUJjR2RGektwdW81NWk0MDBXY3R6b2NMM2ctQ3QycFFySlVhMHhJc3dicTd6VnU5MVpUUEFpbnJValBYbjl2TTBFbS1yengtOGxRdUE5N2dpZkxFLTlnT3NXZmlYU3hkRjJaT3JDOHIxTG1mSDhqMVF3?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,6 +297,18 @@
     "summary": "Oracle is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 03:00 AM ET",
+    "publishedAt": "2026-07-30T07:00:00+00:00",
+    "source": "Bloomberg.com",
+    "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
+    "summary": "Bloomberg.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5",
     "difficulty": "News"
   },
   {
