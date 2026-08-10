@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 10, 07:04 AM ET",
+    "publishedAt": "2026-08-10T11:04:43+00:00",
+    "source": "ASUS Pressroom",
+    "title": "ASUS Laptops Unlock 3 Months of Google AI Pro/Plus",
+    "summary": "ASUS Pressroom is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUFOVGJ3OUR2MHN4dTRXTnd2UFFnNXJzcFpWZnJ3dUtYc2cwTHgyb1BDQXRuellGN2FvVlFqTGtfUjRic0xiNmlueTVXUXFCNFpLRnpFMVZCZHRCdlp0VExjWTE1Z2F2TGNnb0lybHZFcHA5VW9FRURySk5FMzJOUW5Bcmd1dWJDenBzXw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 10, 06:38 AM ET",
@@ -16,23 +28,11 @@
     "label": "Claude Code",
     "time": "Aug 10, 05:13 AM ET",
     "publishedAt": "2026-08-10T09:13:29+00:00",
-    "source": "Help Net Security",
+    "source": "helpnetsecurity.com",
     "title": "Anthropic to put AI in charge of reviewing Claude Code actions by default",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemhYelZlbmhJajAxR1hUSHk3czgybWVvel9fVUg2VUs1RmtGWmh0VVRJRGFUay1pWVdwUkoyTnZqazJiZWZlOGU0NHhCZHNESExCNmZBNFEzSWtWcFlkZTNQRW5BNmJRU2c5QWRrenEtX0g3RlVsV3BfLW0tTEdVSw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 10, 04:55 AM ET",
-    "publishedAt": "2026-08-10T08:55:33+00:00",
-    "source": "ASUS Pressroom",
-    "title": "ASUS Laptops Unlock 3 Months of Google AI Pro/Plus",
-    "summary": "ASUS Pressroom is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUFOVGJ3OUR2MHN4dTRXTnd2UFFnNXJzcFpWZnJ3dUtYc2cwTHgyb1BDQXRuellGN2FvVlFqTGtfUjRic0xiNmlueTVXUXFCNFpLRnpFMVZCZHRCdlp0VExjWTE1Z2F2TGNnb0lybHZFcHA5VW9FRURySk5FMzJOUW5Bcmd1dWJDenBzXw?oc=5",
     "difficulty": "News"
   },
   {
@@ -200,7 +200,7 @@
     "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
     "difficulty": "News"
   },
   {
@@ -208,9 +208,9 @@
     "label": "Claude Code",
     "time": "Aug 05, 11:36 AM ET",
     "publishedAt": "2026-08-05T15:36:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWG1zbVFfREFtMTRScUZaQUp3T0tIclhpd1dYQ29BSTh5UElMOTVoTFJYUjVOSVZyMVV6X3l2QzdwamxOT1E0LW4tLUE2VGVyWWMzN1JreWVwVVEtRmNXN3RKbTNWaG5IcUw2cjBhbFdHSHdPNXp1dFk4Y1c2N3hRcG5R?oc=5",
     "difficulty": "News"
@@ -244,9 +244,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 04, 03:00 AM ET",
     "publishedAt": "2026-08-04T07:00:00+00:00",
-    "source": "AIMultiple",
+    "source": "aimultiple.com",
     "title": "Best 50+ Open Source AI Agents Listed",
-    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
+    "summary": "aimultiple.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WbnFnU3kxUnVrMWt2TlYyR3h4T3g0SWVFU0xQZlpBZHhxRDhGWnIzR284empKR1BVeVBIa0gyTmFiZWo3RjZvcjdIZ0puU3BMdlMzVURDOA?oc=5",
     "difficulty": "News"
@@ -292,9 +292,9 @@
     "label": "Gemini",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "Oracle",
+    "source": "oracle.com",
     "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "Oracle is reporting this update. Open the article for the full story.",
+    "summary": "oracle.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
