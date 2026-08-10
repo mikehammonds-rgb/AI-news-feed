@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 10, 01:32 PM ET",
+    "publishedAt": "2026-08-10T17:32:52+00:00",
+    "source": "DevOps.com",
+    "title": "Anthropic Makes Claude Code's Auto Mode the Default, Betting Automation Beats Manual Review",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUs3LXA1cjJQNnlaT1ZOUUtYdGZPQW45bkpGcG1oU091a29wNFRIbm81d25EZlR3eVgycXJiUnpOVjAzOVdJX1Y0aW1LMlF6SzZpNnJDa1ozcXhiREpNXzd5aXNUVDcyUWwyUFBYSFNrQmdQVVlOZDFhczh2N2tmNHVnTTJsVEhqbTBZUEdwQzZoNE1YQlJMTzgyamo5NUF0TDd0dWlJbGVZVk8tNUE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 10, 07:04 AM ET",
@@ -64,9 +76,9 @@
     "label": "Claude Code",
     "time": "Aug 09, 03:39 PM ET",
     "publishedAt": "2026-08-09T19:39:00+00:00",
-    "source": "The Tech Buzz",
+    "source": "techbuzz.ai",
     "title": "Anthropic Makes Claude Code Fully Autonomous by Default",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "summary": "techbuzz.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2JlMW9HaC1pVy1pM0JGRl9qcnE3aDZQRW13QnB2NWR3SFZSTksyUy11bGp3a3I3NjdaZHdvalZ2LWw5OUtLY2lMT09tYndNd1ZrOEQ0VmZlbnpfdVhtTDV2TVp2djhRN1diSUZ1SVotSmQ0N3prMnk2cGpvaGN6M1NqOVE0SDB3N0NRMDh0YkdoQQ?oc=5",
     "difficulty": "News"
@@ -177,18 +189,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 05, 04:36 PM ET",
-    "publishedAt": "2026-08-05T20:36:41+00:00",
-    "source": "Tech Times",
-    "title": "Akamai Uncovers AI Browser Exploits as CVE Rates Hit 16% in Enterprises",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZThVdFhwSkhhNFVTYm8zQmRrZC01UEN0VkNMV3ZtcU9uUU1xY1lHaTRDTTlkdVNCdGdoUFRvY1ZXb2RKNFhSX0lnLVpvQmUzd2RkR1N5dWdZaUw3T3ZpdGtsZk9RbFlWRFJaWGtLUFRVdlFZZml6ODJ1c3ZBZ0N2WXBESUxYSk9pUzVLbFR6Zmp3NHFSMmc2NE9fSTFseERfbHZzMUd2aERJM1VCUWFiUlBsdFdKaTdjVVA0?oc=5",
     "difficulty": "News"
   },
   {
@@ -304,9 +304,9 @@
     "label": "Gemini",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "bloomberg.com",
+    "source": "Bloomberg.com",
     "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
-    "summary": "bloomberg.com is reporting this update. Open the article for the full story.",
+    "summary": "Bloomberg.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5",
     "difficulty": "News"
@@ -360,18 +360,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jun 30, 03:00 AM ET",
-    "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Sonnet 5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 30, 03:00 AM ET",
@@ -381,6 +369,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 03:00 AM ET",
+    "publishedAt": "2026-06-16T07:00:00+00:00",
+    "source": "CBS News",
+    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   }
 ]
