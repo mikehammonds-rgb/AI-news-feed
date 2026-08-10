@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 10, 06:38 AM ET",
+    "publishedAt": "2026-08-10T10:38:00+00:00",
+    "source": "The Register",
+    "title": "Claude Code puts auto mode in the driver's seat",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFRoeWFJVWJXWHRrbU1pMUNJdzFFRnM4RklGcU5nWkR4ek9RNmU2QnFRVFg0NTBBaEczVFMtLWRPR1pHeENCQmlVdFRQT1Utbzg4d0lQMy1PLURzaEQ3cm1JWE1CcTlXQ2NVZVNyYWJLT3o0Y25XLVdFSm1BT2cweGJYWXdoakttb2JTR1RjZm04RjFMdTlvQTdUWlBwczViYlQzb1ln?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 10, 05:13 AM ET",
     "publishedAt": "2026-08-10T09:13:29+00:00",
     "source": "Help Net Security",
@@ -60,18 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 09, 08:21 AM ET",
-    "publishedAt": "2026-08-09T12:21:09+00:00",
-    "source": "tech-insider.org",
-    "title": "Kimi K2.6 vs Claude Opus vs GPT-5.5: 7.5x Price Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2MWNsd2tFdVdRdUtKUXlzendnYnZNaElRalNHX1BRbVFtRXg4SXl6OFE2RnFhLXZ4N2otUlJ5MnVBdXVnQVJqSE9TQkFFTXF5RUxJTFpIMXk0dXlWMV9lX0hzcC1SVDRaenBwY2k1T2hJTm5z?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 07, 06:01 PM ET",
@@ -100,9 +100,9 @@
     "label": "ChatGPT",
     "time": "Aug 07, 12:17 PM ET",
     "publishedAt": "2026-08-07T16:17:00+00:00",
-    "source": "Fortune",
+    "source": "fortune.com",
     "title": "The Hugging Face hack is now a PR crisis that’s costing OpenAI millions",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "summary": "fortune.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHFSMS1GclM5U1E4SHFPUXlDQ25sSE5BQUxTQ1VuQVAtcW5xXzR4ZDNCQ25RWkd4MEtCMU1YdmNDT1E0cFMzRWRvODdQdVZybE5wTUt1SDIya2NRbi1rclRwbU1qU05YOFJHX19KWWE1QlVzOWlqQkZac0stSDU0M1J5NmRFcG1xWFpOWklwZHozdUhfcWk4ZFh4RmxJakxyQ2NzQg?oc=5",
     "difficulty": "News"
@@ -117,18 +117,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFllWnRiM0M0S0FNWlVDcElWNnpGdnFMUERkOVVMSHpfWnFMbU4ta1Q3bGhIbUFITFRWdTZnMWVDVzU2anh0OUU5LWIxSDlUWFhOeGIyMGt3cDVYeTNZQzJURUlwc2hldEY0SHFpcU5mZkNnd3hyaVNNNVVhOTFpYTJRU1c2dkhXVG1ESnhjMmY4WGlmV0VMeQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 06, 11:05 PM ET",
-    "publishedAt": "2026-08-07T03:05:00+00:00",
-    "source": "finance.biggo.com",
-    "title": "GitHub Actions Paralyzed for 9 Hours, Triggering Cascading Outages Across Copilot and Pages",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sam1zdHdqTE0yTWJubEFIV0lzM2JuM3pnXzZFQWxlejhZT3ctSld4aDVoUHdhZGhLNm1jUzVRVzdmYTE2bUdncXBRc1FtaG9Vem05LWNlMk1rN3JxVlEtZGtFTGdvTmhOZm1ZNjdJTU03dVJXdkE?oc=5",
     "difficulty": "News"
   },
   {
@@ -168,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 06, 08:23 AM ET",
-    "publishedAt": "2026-08-06T12:23:17+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude vs Gemini vs ChatGPT: $18 Output Price Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ybjFRYWpucDlhbE1VQUFwdS1jTlhZcWhGRHRGU3drYUlXS1ZYLW1XS2RtN2FJYWJRak1wQjdkTnBrejNhVExkVEZXRk1LbzdhOXVzTS1aYVI4dUY4MTcwZFdCVHRWWDNTUUE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 06, 05:11 AM ET",
@@ -201,6 +177,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 05, 04:36 PM ET",
+    "publishedAt": "2026-08-05T20:36:41+00:00",
+    "source": "Tech Times",
+    "title": "Akamai Uncovers AI Browser Exploits as CVE Rates Hit 16% in Enterprises",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZThVdFhwSkhhNFVTYm8zQmRrZC01UEN0VkNMV3ZtcU9uUU1xY1lHaTRDTTlkdVNCdGdoUFRvY1ZXb2RKNFhSX0lnLVpvQmUzd2RkR1N5dWdZaUw3T3ZpdGtsZk9RbFlWRFJaWGtLUFRVdlFZZml6ODJ1c3ZBZ0N2WXBESUxYSk9pUzVLbFR6Zmp3NHFSMmc2NE9fSTFseERfbHZzMUd2aERJM1VCUWFiUlBsdFdKaTdjVVA0?oc=5",
     "difficulty": "News"
   },
   {
@@ -244,9 +232,9 @@
     "label": "Gemini",
     "time": "Aug 04, 12:20 PM ET",
     "publishedAt": "2026-08-04T16:20:26+00:00",
-    "source": "techradar.com",
+    "source": "TechRadar",
     "title": "I stopped searching the App Store and built exactly the app I wanted using AI — and it took me less than 5 minutes",
-    "summary": "techradar.com is reporting this update. Open the article for the full story.",
+    "summary": "TechRadar is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRXYwUkdJV1Y2MnZad3g1QnMzSkctdVU3Y1BsWl9tSTBiTF9CNzg3QXRyYVlCMkZsdTdMVXRldUdWN0FpNGluTlk0dE41czdvblpuT1d2aEhrYmpfZi1GOUdXY05kbzREcVJ2ZFRqX2ZtTGowVm5OXzE4U0k4V0RtdnlVbTQweWFtNUJjR2RGektwdW81NWk0MDBXY3R6b2NMM2ctQ3QycFFySlVhMHhJc3dicTd6VnU5MVpUUEFpbnJValBYbjl2TTBFbS1yengtOGxRdUE5N2dpZkxFLTlnT3NXZmlYU3hkRjJaT3JDOHIxTG1mSDhqMVF3?oc=5",
     "difficulty": "News"
@@ -285,6 +273,18 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 03:00 AM ET",
+    "publishedAt": "2026-07-30T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -340,9 +340,9 @@
     "label": "Claude Code",
     "time": "Jul 24, 03:00 AM ET",
     "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "anthropic.com",
+    "source": "Anthropic",
     "title": "Introducing Claude Opus 5",
-    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
     "difficulty": "News"
@@ -364,9 +364,9 @@
     "label": "Claude Code",
     "time": "Jun 30, 03:00 AM ET",
     "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "anthropic.com",
+    "source": "Anthropic",
     "title": "Introducing Claude Sonnet 5",
-    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "difficulty": "News"
