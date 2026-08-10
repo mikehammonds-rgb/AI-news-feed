@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 10, 04:04 PM ET",
+    "publishedAt": "2026-08-10T20:04:24+00:00",
+    "source": "TechCrunch",
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGJYTk1PbFdGNTJnZ1NhbDVGNW9zNkxNRHdiX1RsOXlydDFfeWtTbnNQSTFlVGI4dnh0Ykl1Q1VSdVc0WVZ3blJyNVByMEstS01BcmZVSUcwTVZJNWFBNlFHMnVZSVZRSGljMG0yb3VEQXlGNVc2elZzTzNpb20zcUtHMkRtQUFVNnJ1TDRaVUh0dHlHQ0NlNmVOOHFMaEU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 10, 01:32 PM ET",
     "publishedAt": "2026-08-10T17:32:52+00:00",
     "source": "DevOps.com",
@@ -9,18 +21,6 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUs3LXA1cjJQNnlaT1ZOUUtYdGZPQW45bkpGcG1oU091a29wNFRIbm81d25EZlR3eVgycXJiUnpOVjAzOVdJX1Y0aW1LMlF6SzZpNnJDa1ozcXhiREpNXzd5aXNUVDcyUWwyUFBYSFNrQmdQVVlOZDFhczh2N2tmNHVnTTJsVEhqbTBZUEdwQzZoNE1YQlJMTzgyamo5NUF0TDd0dWlJbGVZVk8tNUE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 10, 12:26 PM ET",
-    "publishedAt": "2026-08-10T16:26:23+00:00",
-    "source": "CyberSecurityNews",
-    "title": "Claude Code Shifts Agent Security From Repeated Human Approval to Auto Mode",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82aGhDMFo3Nno4YmpZb0pTaHRucWJkdlhGSzhiRWhuSGM2d1FSMFlIUnZKSFllUkhWSGRsLXhyVFpqczdlNGZ0Slo0QkVDaE1Yd2hNcmJsMU5jNjhRSmM5cFQzamNQRlZ1MFljSU80OFdMQdIBxgJBVV95cUxQSUdySElPM0xSOThsZHYzUldrVGJSU0J2LXpPTnJJWmlMQjhkVlM1OFFwSjAyR2ZnV1M1U2QzQWlQcVI2RGV4LTdNdGxtb3FWZ1V1RFFhUU1MdVhCMFg4SUhSTjZxcVJ0MGQyVlNsX1EtWWFBcE1yWU9LRWFEeVpmUkJ2M1R5b3d5NjFjMHVseWdEMldJdmowRXNCdXRRNktCZGtqUTdwbGMyMndkWjVXNFgtOERNb3BGUGZTTHByd25RU2kyek9WMkZoSERfYkxaSHNRcThQa0ozb3RTNjhHTnZhdWZaUlA5RGM1NW5sc3pkZ3VPOVV2MXVfSkgtazFuanZDWlRBQ2d6b09KTTRPUnl3MUN5ZU8wNnlKWTN1bkxqWm1lUDMybGhvNWNaT0o4VVJ3cTdJS24yMmVBSWVMaTlkWExhQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -124,9 +124,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 07, 06:01 PM ET",
     "publishedAt": "2026-08-07T22:01:53+00:00",
-    "source": "TradingView",
+    "source": "tradingview.com",
     "title": "SpaceX Reportedly Nears $60B Cursor Acquisition — AI Startup Outlines Rebranding Plans",
-    "summary": "TradingView is reporting this update. Open the article for the full story.",
+    "summary": "tradingview.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbDBWUzdtWjVBaUt6cDlnVjhGWlNsM0NJQXBRUkVPYm12bHFBRnA5NHpRUmVnaENTN2ttMXNPc0JDVVZ1SllNT2JFWGtiWDlMNnJCeUU2UVF6Rkl5TGZYcE1kTzhuQmVRT3htSEtCNFlIYm80SDBIZWJydEc2UWhCRXBIbGVBbUJKd3ZLOHNWNElISzFSNmJ2eGl2WkJHb1YtZEVNMG94UnNsNm1EU1lONVEyUGo5MTNoempOVW1mZlBUMm1QclpXUmsyY1N6bV9HZEdxdGFnQTZDUEFD?oc=5",
     "difficulty": "News"
@@ -340,9 +340,9 @@
     "label": "Claude Code",
     "time": "Jul 24, 03:00 AM ET",
     "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "anthropic.com",
+    "source": "Anthropic",
     "title": "Introducing Claude Opus 5",
-    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
     "difficulty": "News"
