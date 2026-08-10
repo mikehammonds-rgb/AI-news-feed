@@ -12,6 +12,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 10, 12:26 PM ET",
+    "publishedAt": "2026-08-10T16:26:23+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Claude Code Shifts Agent Security From Repeated Human Approval to Auto Mode",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82aGhDMFo3Nno4YmpZb0pTaHRucWJkdlhGSzhiRWhuSGM2d1FSMFlIUnZKSFllUkhWSGRsLXhyVFpqczdlNGZ0Slo0QkVDaE1Yd2hNcmJsMU5jNjhRSmM5cFQzamNQRlZ1MFljSU80OFdMQdIBxgJBVV95cUxQSUdySElPM0xSOThsZHYzUldrVGJSU0J2LXpPTnJJWmlMQjhkVlM1OFFwSjAyR2ZnV1M1U2QzQWlQcVI2RGV4LTdNdGxtb3FWZ1V1RFFhUU1MdVhCMFg4SUhSTjZxcVJ0MGQyVlNsX1EtWWFBcE1yWU9LRWFEeVpmUkJ2M1R5b3d5NjFjMHVseWdEMldJdmowRXNCdXRRNktCZGtqUTdwbGMyMndkWjVXNFgtOERNb3BGUGZTTHByd25RU2kyek9WMkZoSERfYkxaSHNRcThQa0ozb3RTNjhHTnZhdWZaUlA5RGM1NW5sc3pkZ3VPOVV2MXVfSkgtazFuanZDWlRBQ2d6b09KTTRPUnl3MUN5ZU8wNnlKWTN1bkxqWm1lUDMybGhvNWNaT0o4VVJ3cTdJS24yMmVBSWVMaTlkWExhQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 10, 07:04 AM ET",
@@ -57,18 +69,6 @@
     "summary": "Techzine Global is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamN2QTNSbFF0YnJEbUtDcUZxcmtuOTl4S2dNSVNhRDVqakEyUmc2Y1duNU1SS0NwNjZPNzZXTjJRYWR2RVNlVjYwLUprUGhhMmRGSGFWeDV1Y1RhWVZRTkdGV25xdXpoZ3Y4YWlGMUFnNVFPbEdHZjhuZDViY2x0LXV2RkRUM3hGSGFoQzVxRFc5Z2FSYUtsWjRXQko0SElOajhoeHY2VG9SaEk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 09, 10:55 PM ET",
-    "publishedAt": "2026-08-10T02:55:00+00:00",
-    "source": "finance.biggo.com",
-    "title": "Anthropic Makes Claude Code Auto Mode the Default, Replacing Constant Human Approval",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2WDB3a0JSRFNUdzI3NUVkOWNYVXN2bmZHTnNDRExUYzc3c21sTEVWb2tUVGlFRU8yUy1HWXdvVUVFbmJ3ZGU0R2x3WVMyakNWSi11Mk5LOFlXMnJzUG0zSkdUVTJadnU4U0pCTXozSnA2MXplbHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -148,9 +148,9 @@
     "label": "ChatGPT",
     "time": "Aug 07, 12:17 PM ET",
     "publishedAt": "2026-08-07T16:17:00+00:00",
-    "source": "fortune.com",
+    "source": "Fortune",
     "title": "The Hugging Face hack is now a PR crisis that’s costing OpenAI millions",
-    "summary": "fortune.com is reporting this update. Open the article for the full story.",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHFSMS1GclM5U1E4SHFPUXlDQ25sSE5BQUxTQ1VuQVAtcW5xXzR4ZDNCQ25RWkd4MEtCMU1YdmNDT1E0cFMzRWRvODdQdVZybE5wTUt1SDIya2NRbi1rclRwbU1qU05YOFJHX19KWWE1QlVzOWlqQkZac0stSDU0M1J5NmRFcG1xWFpOWklwZHozdUhfcWk4ZFh4RmxJakxyQ2NzQg?oc=5",
     "difficulty": "News"
@@ -184,9 +184,9 @@
     "label": "ChatGPT",
     "time": "Aug 06, 07:05 PM ET",
     "publishedAt": "2026-08-06T23:05:35+00:00",
-    "source": "sitepoint.com",
+    "source": "SitePoint",
     "title": "Local LLMs vs Cloud APIs: 2026 Total Cost of Ownership Analysis",
-    "summary": "sitepoint.com is reporting this update. Open the article for the full story.",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01QWtyaTJWTU1JaG1qcG1jRko2U045NU9aekN6TWdpRGZ5cUZCOW9vNXFxVzl0YmJIOWQtREMxWm9fX3VtekJVQ1NnNVU4aGwxYy1MZUlJX0pxcms0Vl9ibWVIQjdhTzhFcVpjc3VhN3M4ZEpoV1Robg?oc=5",
     "difficulty": "News"
@@ -280,9 +280,9 @@
     "label": "ChatGPT",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
@@ -340,9 +340,9 @@
     "label": "Claude Code",
     "time": "Jul 24, 03:00 AM ET",
     "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "Anthropic",
+    "source": "anthropic.com",
     "title": "Introducing Claude Opus 5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
     "difficulty": "News"
