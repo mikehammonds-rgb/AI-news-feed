@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 10, 08:27 PM ET",
+    "publishedAt": "2026-08-11T00:27:37+00:00",
+    "source": "The Register",
+    "title": "Anthropic pledges to embed watermarks to help discern AI slop in sop to EU",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdldQVElvS0hkUGQxa0RUU05PMjhpcDF6N1ctNkdIMndla1RucExRNGN3UFY2QXQ4Wmd1cWhGZ1JnOWRpUnA3aU5RN1FueFZLcDIzVmpERDBqcVZpckNRSDM1RDN2eGI2TEI0ck90WWdwQjBBWWdmQzZFcU0zRm9aU3RHbC1ySVhMeXZyT0dUSXBsYnppdDNybFVHX0lnbHhxWmN6WmNuc25Kb2RXeTVQbU5aVlVqT1lmMWhUaUgtRHNWQVNOcmJlUWVvMA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 10, 07:48 PM ET",
     "publishedAt": "2026-08-10T23:48:00+00:00",
     "source": "Interesting Engineering",
@@ -40,9 +52,9 @@
     "label": "Gemini",
     "time": "Aug 10, 04:06 PM ET",
     "publishedAt": "2026-08-10T20:06:26+00:00",
-    "source": "Tech Times",
+    "source": "techtimes.com",
     "title": "ASUS Bundles Google AI Pro on Windows Laptops, Targeting Microsoft Copilot Users",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "summary": "techtimes.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczF2amFqQzlNdUx5TnNnNW4zdEdHMC0zUkxQS19iRHZyVmFRT3JhcVVDbC00cHk1UUZENXdNcHJhdnR5cFd2Z1hYTzFFZmlDUF9DRWRGZVRZTWNHVU43Zlk0T2l2UkFkN3FuTlNkR2JNUnc0dnVuTzlFTlBBeXJlcWlmVXkwOTFCRnFrelQ3NTNic1JfSGd2YU5KNktfMXc2aHJTZm1xa0l0QkFQYjVTOWZsOVYzU244Z0pjdm85ZWc5emtmWkNWRGw1SQ?oc=5",
     "difficulty": "News"
@@ -86,23 +98,11 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 10, 06:38 AM ET",
-    "publishedAt": "2026-08-10T10:38:00+00:00",
-    "source": "The Register",
-    "title": "Claude Code puts auto mode in the driver's seat",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFRoeWFJVWJXWHRrbU1pMUNJdzFFRnM4RklGcU5nWkR4ek9RNmU2QnFRVFg0NTBBaEczVFMtLWRPR1pHeENCQmlVdFRQT1Utbzg4d0lQMy1PLURzaEQ3cm1JWE1CcTlXQ2NVZVNyYWJLT3o0Y25XLVdFSm1BT2cweGJYWXdoakttb2JTR1RjZm04RjFMdTlvQTdUWlBwczViYlQzb1ln?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 10, 05:13 AM ET",
     "publishedAt": "2026-08-10T09:13:29+00:00",
-    "source": "helpnetsecurity.com",
+    "source": "Help Net Security",
     "title": "Anthropic to put AI in charge of reviewing Claude Code actions by default",
-    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemhYelZlbmhJajAxR1hUSHk3czgybWVvel9fVUg2VUs1RmtGWmh0VVRJRGFUay1pWVdwUkoyTnZqazJiZWZlOGU0NHhCZHNESExCNmZBNFEzSWtWcFlkZTNQRW5BNmJRU2c5QWRrenEtX0g3RlVsV3BfLW0tTEdVSw?oc=5",
     "difficulty": "News"
@@ -141,6 +141,18 @@
     "summary": "abc.net.au is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVhTbm1pdXRyQUx4d1NBZGdFamFVUjJ1Rno1Nzc1emc5ekRydHJwU0tuaTlQLW4tQ01qYmo3OEx1V0NqVFZTSDZqUFdERmVUV0c2WXR3eVlSV1ZHSlRsejliTU9NZnR4V1JJWXhJdlk0M3dXTG5HMjB5bU9TalA5VnZpUm56ckpaY2I5M2Vob2RTa1RNQjIwTEs3aDk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 08, 12:21 AM ET",
+    "publishedAt": "2026-08-08T04:21:18+00:00",
+    "source": "Gizmo Times",
+    "title": "Cursor vs GitHub Copilot vs Gemini Code Assist: Which AI coding tool should you use in 2026?",
+    "summary": "Gizmo Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVEdueXppV2RxRF81U2JCLTFwbGc2RGpoZXpR?oc=5",
     "difficulty": "News"
   },
   {
@@ -196,23 +208,11 @@
     "label": "Gemini",
     "time": "Aug 07, 07:40 AM ET",
     "publishedAt": "2026-08-07T11:40:01+00:00",
-    "source": "Cybernews",
+    "source": "cybernews.com",
     "title": "Game developer claims Gemini scraped their private Google Docs for a character's name – but the truth is scarier",
-    "summary": "Cybernews is reporting this update. Open the article for the full story.",
+    "summary": "cybernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3hGbGVhdEpoXzNydHdEd3IxNmRhSnVyaHNxNjRRc2VqTzUyVFFjbEdlWUk1MVk0TGVDTEFXZUQxV0ZwejBLXzNRblEwd3UzdzVpQnAtWjVHNTFZQk1MUld6eVBVcmNWaEJUU3JTWndhUnF2THA2SGh6WTlKRkE1Wm9zMzRtVnhhWS1PYUtmcUhYWEU2?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 06, 09:36 PM ET",
-    "publishedAt": "2026-08-07T01:36:00+00:00",
-    "source": "tech-insider.org",
-    "title": "GitHub Copilot Defaults 3 Plans to AI Training [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtMWlRY0RMME1VOE15TzgtbTEteFZnLUpMQ1FCTVQ0OHR4Yjl5UE9BaC1xOV80YkpCMUdYQjFYVnRZRDhxQVFiUnlmcHFkVVQ2VnRLeGVQUTJrMmFZX2Q2MjBhVlozY3UzYzU3Rm91NTV6MGtNVVFB?oc=5",
     "difficulty": "News"
   },
   {
@@ -237,6 +237,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ybjFRYWpucDlhbE1VQUFwdS1jTlhZcWhGRHRGU3drYUlXS1ZYLW1XS2RtN2FJYWJRak1wQjdkTnBrejNhVExkVEZXRk1LbzdhOXVzTS1aYVI4dUY4MTcwZFdCVHRWWDNTUUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 06, 05:11 AM ET",
+    "publishedAt": "2026-08-06T09:11:15+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Set Up GitHub Copilot: 12 Steps, 70 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14aXFUNjJlMUUzcTRsWUo0ZFAwMnFEbmNfN21aekFhaWZUQTJtU0g5eE14SzdGVW5aS3VkdEZmVngwLUNpVmQtX0x2cjIwSURJcE5OSldCeGdHSnNkR2xudTgyOS0xS2tnM1pJ?oc=5",
     "difficulty": "News"
   },
   {
@@ -292,23 +304,11 @@
     "label": "Gemini",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "oracle.com",
+    "source": "Oracle",
     "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "oracle.com is reporting this update. Open the article for the full story.",
+    "summary": "Oracle is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 30, 03:00 AM ET",
-    "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "Bloomberg.com",
-    "title": "Oracle Gains After Expanding Google Gemini AI Partnership",
-    "summary": "Bloomberg.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODV5U01jSzJPd0dzVUJzdFIzUzhpRHN6UWRjTDNuZmw5dlk5U3IwVExiWE5CXzBlZm1VM0ZtdjFnanJNVk1heWpFakMyWG1RTlgyeWh1VG91cHFUd1gxQUpRbDRqc180WWQ3eDVQbFBCYTRwaGpIVHdtSGVucldQNF9ubzQ5ajJsd3dlMGNrMjRWRS1sVy16ZWxraDhXMWQ1d2c0akNxMGVEUFVI?oc=5",
     "difficulty": "News"
   },
   {
@@ -348,6 +348,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 21, 03:00 AM ET",
+    "publishedAt": "2026-07-21T07:00:00+00:00",
+    "source": "CNET",
+    "title": "Google Releases 3 New Gemini Models, 3.5 Pro Still Not Available",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEpGeVFVOHhpWDFJWURPckg3VzR6Z0hMeWo1UURDQ1dJenFsRmxCLW1Jbnlsa2E1NklQS1BUSTlISG1ucnVIWUpPMFJjbVEzdVhRQ0szdE51MlEweF9yWnhSNWJDWWZuOTNWd0QxVncyMnNxbXctUTlNVkc0S0Z1YVQ5Z1Y2cVQzSjBReXVON0RacU9FU09ndGs5Qlc1MGExemlDSG1uSDBOSjhOX3ExRXFpMTVzaW8?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 30, 03:00 AM ET",
@@ -364,23 +376,11 @@
     "label": "Codex / LLM Code",
     "time": "May 24, 03:00 AM ET",
     "publishedAt": "2026-05-24T07:00:00+00:00",
-    "source": "AI: Reset to Zero",
+    "source": "michaelparekh.substack.com",
     "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "summary": "michaelparekh.substack.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Apr 24, 03:00 AM ET",
-    "publishedAt": "2026-04-24T07:00:00+00:00",
-    "source": "wiz.io",
-    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
-    "summary": "wiz.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
     "difficulty": "News"
   }
 ]
