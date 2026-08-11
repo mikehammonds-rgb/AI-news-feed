@@ -1,5 +1,41 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 11, 03:21 PM ET",
+    "publishedAt": "2026-08-11T19:21:00+00:00",
+    "source": "9to5Google",
+    "title": "Gemini app hits 1 billion monthly users, Google teases what’s next",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jWXliZndtcW5UeENjeFp1U29IcW9naldBNEtVNDhNRTdwQkRlOVN6S2N3c2hTWDRQcnBRc0duV0pPUzN6aHVwOTRmZjEzOEI3SEJRdzBtN2xzNExVUVRoRWpXdGJCQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 11, 02:45 PM ET",
+    "publishedAt": "2026-08-11T18:45:00+00:00",
+    "source": "Fortune",
+    "title": "Anthropic plans to add an invisible mark to AI text—as the industry scrambles to police AI slop",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnlwczRuRk1oblktUkRXOWtibFRMTFpvZjZPVmp1akFxUG9YalhLVEM4SHpqWVZkNVlacDZwZUw2MlVnUlNQb0pzLXc3ZnczR3lHSm5FTGZFeDRSNjhWam5YczlhQW9KZWdOVlprWHZUSTMwamxnWERiLUxtYXlEcGIybEFTX1po?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 11, 02:09 PM ET",
+    "publishedAt": "2026-08-11T18:09:25+00:00",
+    "source": "Mashable",
+    "title": "Claude to start watermarking AI-generated content",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 11, 01:34 PM ET",
@@ -9,18 +45,6 @@
     "summary": "qz.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fSmdzcW5GdS1FQ05EMmxlMzZ3azlleE5BSWFmZFV5Q2VGMjR5QjhiSkRLVEpvVEkyS3RfWVF4NUs4bm5qcDFsWG9IU0hQb1ZRWWVSV2ZSVDNYRUVTVkpDaXFRN1l1NENCZDUxclFYcTdqY2hsSWllTzVJOGRiX00?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 11, 01:12 PM ET",
-    "publishedAt": "2026-08-11T17:12:49+00:00",
-    "source": "Mashable",
-    "title": "Claude to start watermarking AI-generated content",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
     "difficulty": "News"
   },
   {
@@ -45,18 +69,6 @@
     "summary": "InfoWorld is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkpOQlI3NlNCa3dpT2F4U3RkUXJPXzdiNHNGMEhWemhoNEo0dFNIaUhoVDVvV1VEX2VrbW1qMkFmV2hGSXlTQ3o3RDJ1MXU3QU52NTgxcUFhV3VkSjl6ZUwxYjVrV0E4Yi1mMm9mc005Wkw5Tkhxdjk1ZXNWYXhOZ25GQ1M5dF95MlAxaFFYRk9aZGtQdDlOU1dVZElJSEo5cXU3c19TSnByVzNm?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 11, 08:30 AM ET",
-    "publishedAt": "2026-08-11T12:30:44+00:00",
-    "source": "Euronews.com",
-    "title": "EU rules force Anthropic to expose AI writing worldwide",
-    "summary": "Euronews.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzVZZkhyRmNacGhLM0RTMWMtSTZIRFlSQjRHX3FsMHBDUGlESjZCR2paWlhkeWxmQUlHMmhEenotSGNUS3VFSkxCV1F1eFJjWUNxXzBGUzlaejB3NW1vVFFKd0NtMXo4R08weHQ1R2RTS0xvTTdnQ1ZDeDhNbTBoOW9PWnpuSWc3VjVlNUFXLU5xT3Bkekl3a2VxMFpxbDFKUV90WEtvRHFoLTJGUTZJNjFZeGI0ZjA5M3JxX2RR?oc=5",
     "difficulty": "News"
   },
   {
@@ -124,9 +136,9 @@
     "label": "Claude Code",
     "time": "Aug 09, 03:39 PM ET",
     "publishedAt": "2026-08-09T19:39:00+00:00",
-    "source": "The Tech Buzz",
+    "source": "techbuzz.ai",
     "title": "Anthropic Makes Claude Code Fully Autonomous by Default",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "summary": "techbuzz.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2JlMW9HaC1pVy1pM0JGRl9qcnE3aDZQRW13QnB2NWR3SFZSTksyUy11bGp3a3I3NjdaZHdvalZ2LWw5OUtLY2lMT09tYndNd1ZrOEQ0VmZlbnpfdVhtTDV2TVp2djhRN1diSUZ1SVotSmQ0N3prMnk2cGpvaGN6M1NqOVE0SDB3N0NRMDh0YkdoQQ?oc=5",
     "difficulty": "News"
@@ -216,6 +228,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 06, 08:23 AM ET",
+    "publishedAt": "2026-08-06T12:23:17+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude vs Gemini vs ChatGPT: $18 Output Price Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ybjFRYWpucDlhbE1VQUFwdS1jTlhZcWhGRHRGU3drYUlXS1ZYLW1XS2RtN2FJYWJRak1wQjdkTnBrejNhVExkVEZXRk1LbzdhOXVzTS1aYVI4dUY4MTcwZFdCVHRWWDNTUUE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 05, 03:00 PM ET",
@@ -224,7 +248,7 @@
     "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
     "difficulty": "News"
   },
   {
@@ -254,35 +278,11 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 03, 03:00 AM ET",
-    "publishedAt": "2026-08-03T07:00:00+00:00",
-    "source": "openai.com",
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 31, 03:00 AM ET",
-    "publishedAt": "2026-07-31T07:00:00+00:00",
-    "source": "9to5Google",
-    "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
@@ -292,9 +292,9 @@
     "label": "Gemini",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "Oracle",
+    "source": "oracle.com",
     "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "Oracle is reporting this update. Open the article for the full story.",
+    "summary": "oracle.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
@@ -316,9 +316,9 @@
     "label": "ChatGPT",
     "time": "Jul 24, 03:00 AM ET",
     "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "aws.amazon.com",
     "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
     "difficulty": "News"
@@ -328,9 +328,9 @@
     "label": "Gemini",
     "time": "Jul 23, 06:55 AM ET",
     "publishedAt": "2026-07-23T10:55:08+00:00",
-    "source": "aimagazine.com",
+    "source": "AI Magazine",
     "title": "How Google’s New Gemini Flash Models Compare to its Rivals",
-    "summary": "aimagazine.com is reporting this update. Open the article for the full story.",
+    "summary": "AI Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1pMWW9kR3EyeGVydUZadWNscXNzcjMwU2hlRm80WmNGRUU0THEzeDEyTzl4MEphT2pEQTdrclRycWVQUXlUSVdnSEhCaFNkTUwwWmxST0NCbmJla2JNeXRFNF9oTGpBYzZGaWJvcjJ2U2RtSnhJNUNYYTlYOEw0am1JX1hneTZaZFlXRWNB?oc=5",
     "difficulty": "News"
