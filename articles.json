@@ -2,6 +2,30 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Aug 11, 03:36 PM ET",
+    "publishedAt": "2026-08-11T19:36:33+00:00",
+    "source": "Seeking Alpha",
+    "title": "Gemini tops 1B user mark as ChatGPT and Grok continue to make moves",
+    "summary": "Seeking Alpha is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3N6U3lIU1dBMjRDcG00SENmNXZ1VlNqZjdUTXgxSFdDM2lKWHFqd2VocG5zQ2hiMWdkVnFiZVp1SWFtUHFoMHI3V3I1cExQbjNnQ2Y0bkVlY3ZfaV9tMWFkRlVkaTN6dU13dkdEZVhHWXYtcFJDM1NOMlBWRENzeGZOdlMzTDR3VEtzMl9hcHdpZHYzZVBVYzlCaWlzRU1vUXBOcUxRdjg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 11, 03:31 PM ET",
+    "publishedAt": "2026-08-11T19:31:22+00:00",
+    "source": "qz.com",
+    "title": "Anthropic adding watermarks to Claude AI-generated text and images",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fSmdzcW5GdS1FQ05EMmxlMzZ3azlleE5BSWFmZFV5Q2VGMjR5QjhiSkRLVEpvVEkyS3RfWVF4NUs4bm5qcDFsWG9IU0hQb1ZRWWVSV2ZSVDNYRUVTVkpDaXFRN1l1NENCZDUxclFYcTdqY2hsSWllTzVJOGRiX00?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Aug 11, 03:21 PM ET",
     "publishedAt": "2026-08-11T19:21:00+00:00",
     "source": "9to5Google",
@@ -36,15 +60,27 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 11, 01:35 PM ET",
+    "publishedAt": "2026-08-11T17:35:59+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Use Nano Banana Pro: 11 Steps, 80 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ELWpCTjVQTmkzMHpIWnY0MHRiVll6aFlxQ1ZCSjFwTlllM215bjYtajV2QkxPQjVJdnEzbngtMjdhd0ZMWHhQeUtNVE5PLTJmTmh3ZlJQSC1xc1lXV0pISkVoVXdhczJM?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 11, 01:34 PM ET",
-    "publishedAt": "2026-08-11T17:34:38+00:00",
-    "source": "qz.com",
-    "title": "Anthropic adding watermarks to Claude AI-generated text and images",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "time": "Aug 11, 11:37 AM ET",
+    "publishedAt": "2026-08-11T15:37:00+00:00",
+    "source": "CyberSecurityNews",
+    "title": "OpenAI, Anthropic, and Google LLM APIs vulnerability Exposes Hidden Reasoning Traces",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fSmdzcW5GdS1FQ05EMmxlMzZ3azlleE5BSWFmZFV5Q2VGMjR5QjhiSkRLVEpvVEkyS3RfWVF4NUs4bm5qcDFsWG9IU0hQb1ZRWWVSV2ZSVDNYRUVTVkpDaXFRN1l1NENCZDUxclFYcTdqY2hsSWllTzVJOGRiX00?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV3ctRXpzblZqam12cUpqbkg1MDd4d0NlV3dLREk4dTBqNi1TeVlMOURxQ25GZm0wWlA1aWFWSXJTLV8zaGxyaGJUUmFuRzBLNmlUZms3M3FqMi1VbVhneElfd0NPLWZQa3F5TTJ5T1NReFNzLUh1cndrcXhfZWswMndPaGNmd9IBiwFBVV95cUxQWU96VllRM202REJpMDMzMkRmRVlRSlhRMGxSWnVWZzNkaUxpWFhjcXNNMjNCS0tmbWdPQ0tOdFE1dFdENHRjOGVZeTRVSWpVMXJ1dE56dk5NVEtaT1BuNWFzVC1kU0VKWWhOaEhUbl9JYzFVTnNNRXM2aWFXYWlxUTNlRGxSLVdDellv?oc=5",
     "difficulty": "News"
   },
   {
@@ -86,13 +122,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 11, 08:00 AM ET",
-    "publishedAt": "2026-08-11T12:00:00+00:00",
-    "source": "Towards Data Science",
-    "title": "Can a Local LLM Run My AI Assistant?",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "time": "Aug 11, 05:10 AM ET",
+    "publishedAt": "2026-08-11T09:10:00+00:00",
+    "source": "Android Authority",
+    "title": "Claude will hide a watermark in your AI-written text, and it’ll follow you around",
+    "summary": "Android Authority is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5WVNGWFg0dWw2OS14QTRTU2h6QWJPZ1NRaFZqZFdmWkx0NG1BbXN6bU41Z1JvZWtuTGhZSjdSdnItbm00eG9YWlYzS1JVRlo2cnFKcHZSU3RXQUY2TDIxOFJGcVdkTVZYYWRpbGVDWjZ5MVQ0TUE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56SktpMzA1OXBrZHcwWWVsZXVxeVZGLVMxRlRjRzZkU3RYODhFNWlYZVp2S1J2U0U3RWRVdVVZSG9OazhhR1UyTV94LVRmdWdiYVdIdkV2SW0tUzZ3cmhPdHFzTV9UU29Xd2o2MmFZWkJJZDZa?oc=5",
     "difficulty": "News"
   },
   {
@@ -136,9 +172,9 @@
     "label": "Claude Code",
     "time": "Aug 09, 03:39 PM ET",
     "publishedAt": "2026-08-09T19:39:00+00:00",
-    "source": "techbuzz.ai",
+    "source": "The Tech Buzz",
     "title": "Anthropic Makes Claude Code Fully Autonomous by Default",
-    "summary": "techbuzz.ai is reporting this update. Open the article for the full story.",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2JlMW9HaC1pVy1pM0JGRl9qcnE3aDZQRW13QnB2NWR3SFZSTksyUy11bGp3a3I3NjdaZHdvalZ2LWw5OUtLY2lMT09tYndNd1ZrOEQ0VmZlbnpfdVhtTDV2TVp2djhRN1diSUZ1SVotSmQ0N3prMnk2cGpvaGN6M1NqOVE0SDB3N0NRMDh0YkdoQQ?oc=5",
     "difficulty": "News"
@@ -228,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 06, 08:23 AM ET",
-    "publishedAt": "2026-08-06T12:23:17+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude vs Gemini vs ChatGPT: $18 Output Price Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ybjFRYWpucDlhbE1VQUFwdS1jTlhZcWhGRHRGU3drYUlXS1ZYLW1XS2RtN2FJYWJRak1wQjdkTnBrejNhVExkVEZXRk1LbzdhOXVzTS1aYVI4dUY4MTcwZFdCVHRWWDNTUUE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 05, 03:00 PM ET",
@@ -280,9 +304,9 @@
     "label": "ChatGPT",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
@@ -316,35 +340,11 @@
     "label": "ChatGPT",
     "time": "Jul 24, 03:00 AM ET",
     "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "aws.amazon.com",
+    "source": "Amazon Web Services (AWS)",
     "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
-    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 23, 06:55 AM ET",
-    "publishedAt": "2026-07-23T10:55:08+00:00",
-    "source": "AI Magazine",
-    "title": "How Google’s New Gemini Flash Models Compare to its Rivals",
-    "summary": "AI Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1pMWW9kR3EyeGVydUZadWNscXNzcjMwU2hlRm80WmNGRUU0THEzeDEyTzl4MEphT2pEQTdrclRycWVQUXlUSVdnSEhCaFNkTUwwWmxST0NCbmJla2JNeXRFNF9oTGpBYzZGaWJvcjJ2U2RtSnhJNUNYYTlYOEw0am1JX1hneTZaZFlXRWNB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 21, 03:00 AM ET",
-    "publishedAt": "2026-07-21T07:00:00+00:00",
-    "source": "CNET",
-    "title": "Google Releases 3 New Gemini Models, 3.5 Pro Still Not Available",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEpGeVFVOHhpWDFJWURPckg3VzR6Z0hMeWo1UURDQ1dJenFsRmxCLW1Jbnlsa2E1NklQS1BUSTlISG1ucnVIWUpPMFJjbVEzdVhRQ0szdE51MlEweF9yWnhSNWJDWWZuOTNWd0QxVncyMnNxbXctUTlNVkc0S0Z1YVQ5Z1Y2cVQzSjBReXVON0RacU9FU09ndGs5Qlc1MGExemlDSG1uSDBOSjhOX3ExRXFpMTVzaW8?oc=5",
     "difficulty": "News"
   },
   {
