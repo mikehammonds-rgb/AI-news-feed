@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 11, 04:47 AM ET",
+    "publishedAt": "2026-08-11T08:47:39+00:00",
+    "source": "the-decoder.com",
+    "title": "Anthropic watermarks all Claude outputs globally with marks that \"may persist through some editing\"",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHBmNkd2TlRlUGRfQjA4UWRrelU0OUdKd2tHZUtSdTU1LU1OYjVlNVQ1UXRPbjFUaWhlbVJNNzhIQnMzQ3l5TUk1UDdoQXY5NG1qV1B6c1ZXZ3JtTHBjb08wdUQ5c1VMT3pBZlB3eEMyRlJsRW1Ud0w0dXV3djVwSGtPNlFGQzRiaUs4eGpZZFBRMEVoSXJqUjFuM0NFNlp5V0taTk5xbjhsUk9MSGRDa0dmaHl2eTZ6ZU5mNE1mVQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 10, 08:27 PM ET",
     "publishedAt": "2026-08-11T00:27:37+00:00",
     "source": "The Register",
@@ -52,9 +64,9 @@
     "label": "Gemini",
     "time": "Aug 10, 04:06 PM ET",
     "publishedAt": "2026-08-10T20:06:26+00:00",
-    "source": "techtimes.com",
+    "source": "Tech Times",
     "title": "ASUS Bundles Google AI Pro on Windows Laptops, Targeting Microsoft Copilot Users",
-    "summary": "techtimes.com is reporting this update. Open the article for the full story.",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczF2amFqQzlNdUx5TnNnNW4zdEdHMC0zUkxQS19iRHZyVmFRT3JhcVVDbC00cHk1UUZENXdNcHJhdnR5cFd2Z1hYTzFFZmlDUF9DRWRGZVRZTWNHVU43Zlk0T2l2UkFkN3FuTlNkR2JNUnc0dnVuTzlFTlBBeXJlcWlmVXkwOTFCRnFrelQ3NTNic1JfSGd2YU5KNktfMXc2aHJTZm1xa0l0QkFQYjVTOWZsOVYzU244Z0pjdm85ZWc5emtmWkNWRGw1SQ?oc=5",
     "difficulty": "News"
@@ -132,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 09, 02:44 PM ET",
-    "publishedAt": "2026-08-09T18:44:33+00:00",
-    "source": "abc.net.au",
-    "title": "How a simple request for AI to book a gym class exposed a major threat",
-    "summary": "abc.net.au is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVhTbm1pdXRyQUx4d1NBZGdFamFVUjJ1Rno1Nzc1emc5ekRydHJwU0tuaTlQLW4tQ01qYmo3OEx1V0NqVFZTSDZqUFdERmVUV0c2WXR3eVlSV1ZHSlRsejliTU9NZnR4V1JJWXhJdlk0M3dXTG5HMjB5bU9TalA5VnZpUm56ckpaY2I5M2Vob2RTa1RNQjIwTEs3aDk?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 08, 12:21 AM ET",
@@ -153,18 +153,6 @@
     "summary": "Gizmo Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0czdnhPUzctMDQxaE5sdThZVFd2UkV0ZHdvdG9jWVZRcFVqSFBodlV0QUc2bjRhdUsxR1FxbXc1eS0wd2JRUGxmTXZVbWt4cDVVNk5MRDNTeVhhMmFEamdXNDZyVm5LUXNna1JmTkx1OWtjQnFwY0VNRnNmVEdueXppV2RxRF81U2JCLTFwbGc2RGpoZXpR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 07, 06:01 PM ET",
-    "publishedAt": "2026-08-07T22:01:53+00:00",
-    "source": "TradingView",
-    "title": "SpaceX Reportedly Nears $60B Cursor Acquisition — AI Startup Outlines Rebranding Plans",
-    "summary": "TradingView is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbDBWUzdtWjVBaUt6cDlnVjhGWlNsM0NJQXBRUkVPYm12bHFBRnA5NHpRUmVnaENTN2ttMXNPc0JDVVZ1SllNT2JFWGtiWDlMNnJCeUU2UVF6Rkl5TGZYcE1kTzhuQmVRT3htSEtCNFlIYm80SDBIZWJydEc2UWhCRXBIbGVBbUJKd3ZLOHNWNElISzFSNmJ2eGl2WkJHb1YtZEVNMG94UnNsNm1EU1lONVEyUGo5MTNoempOVW1mZlBUMm1QclpXUmsyY1N6bV9HZEdxdGFnQTZDUEFD?oc=5",
     "difficulty": "News"
   },
   {
@@ -208,9 +196,9 @@
     "label": "Gemini",
     "time": "Aug 07, 07:40 AM ET",
     "publishedAt": "2026-08-07T11:40:01+00:00",
-    "source": "cybernews.com",
+    "source": "Cybernews",
     "title": "Game developer claims Gemini scraped their private Google Docs for a character's name – but the truth is scarier",
-    "summary": "cybernews.com is reporting this update. Open the article for the full story.",
+    "summary": "Cybernews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3hGbGVhdEpoXzNydHdEd3IxNmRhSnVyaHNxNjRRc2VqTzUyVFFjbEdlWUk1MVk0TGVDTEFXZUQxV0ZwejBLXzNRblEwd3UzdzVpQnAtWjVHNTFZQk1MUld6eVBVcmNWaEJUU3JTWndhUnF2THA2SGh6WTlKRkE1Wm9zMzRtVnhhWS1PYUtmcUhYWEU2?oc=5",
     "difficulty": "News"
@@ -260,7 +248,7 @@
     "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2c?oc=5",
     "difficulty": "News"
   },
   {
@@ -280,9 +268,9 @@
     "label": "ChatGPT",
     "time": "Aug 04, 12:06 PM ET",
     "publishedAt": "2026-08-04T16:06:20+00:00",
-    "source": "blog.google",
+    "source": "developers.googleblog.com",
     "title": "Model routing with Google Cloud API Gateway",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "summary": "developers.googleblog.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ajF2SnZGcndhTkIyOTJoS3Flc2xjM1c0ZWxwalhaN3ZEcWFzY0k0TElHS2hjYlJuUFNJQzgtdEFWTjZxSG9OcXg5NlRlcFQ5UHJiMzJVUTRKSE9CRzFzWXVkcjNrMlNEWTFHa21aQmFWX2docmpBdQ?oc=5",
     "difficulty": "News"
@@ -292,9 +280,9 @@
     "label": "ChatGPT",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
@@ -328,9 +316,9 @@
     "label": "ChatGPT",
     "time": "Jul 24, 03:00 AM ET",
     "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "aws.amazon.com",
     "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
     "difficulty": "News"
@@ -376,11 +364,23 @@
     "label": "Codex / LLM Code",
     "time": "May 24, 03:00 AM ET",
     "publishedAt": "2026-05-24T07:00:00+00:00",
-    "source": "michaelparekh.substack.com",
+    "source": "AI: Reset to Zero",
     "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
-    "summary": "michaelparekh.substack.com is reporting this update. Open the article for the full story.",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Apr 24, 03:00 AM ET",
+    "publishedAt": "2026-04-24T07:00:00+00:00",
+    "source": "wiz.io",
+    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
     "difficulty": "News"
   }
 ]
