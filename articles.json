@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 11, 05:22 PM ET",
+    "publishedAt": "2026-08-11T21:22:30+00:00",
+    "source": "Mashable",
+    "title": "Claude to start watermarking AI-generated content",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 11, 03:36 PM ET",
@@ -48,18 +60,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 11, 02:09 PM ET",
-    "publishedAt": "2026-08-11T18:09:25+00:00",
-    "source": "Mashable",
-    "title": "Claude to start watermarking AI-generated content",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 11, 01:35 PM ET",
@@ -74,8 +74,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 11, 11:37 AM ET",
-    "publishedAt": "2026-08-11T15:37:00+00:00",
+    "time": "Aug 11, 11:38 AM ET",
+    "publishedAt": "2026-08-11T15:38:07+00:00",
     "source": "CyberSecurityNews",
     "title": "OpenAI, Anthropic, and Google LLM APIs vulnerability Exposes Hidden Reasoning Traces",
     "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
@@ -184,9 +184,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 07, 06:01 PM ET",
     "publishedAt": "2026-08-07T22:01:53+00:00",
-    "source": "TradingView",
+    "source": "tradingview.com",
     "title": "SpaceX Reportedly Nears $60B Cursor Acquisition — AI Startup Outlines Rebranding Plans",
-    "summary": "TradingView is reporting this update. Open the article for the full story.",
+    "summary": "tradingview.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbDBWUzdtWjVBaUt6cDlnVjhGWlNsM0NJQXBRUkVPYm12bHFBRnA5NHpRUmVnaENTN2ttMXNPc0JDVVZ1SllNT2JFWGtiWDlMNnJCeUU2UVF6Rkl5TGZYcE1kTzhuQmVRT3htSEtCNFlIYm80SDBIZWJydEc2UWhCRXBIbGVBbUJKd3ZLOHNWNElISzFSNmJ2eGl2WkJHb1YtZEVNMG94UnNsNm1EU1lONVEyUGo5MTNoempOVW1mZlBUMm1QclpXUmsyY1N6bV9HZEdxdGFnQTZDUEFD?oc=5",
     "difficulty": "News"
@@ -256,9 +256,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 06, 12:23 PM ET",
     "publishedAt": "2026-08-06T16:23:54+00:00",
-    "source": "Polygon.com",
+    "source": "polygon.com",
     "title": "Steam Developer Alleges Google Leaked Confidential Game Content via AI Search",
-    "summary": "Polygon.com is reporting this update. Open the article for the full story.",
+    "summary": "polygon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxzcFhpSTJxanlsOF9VSUJjTVZsOFdGVkV3YUJVWTh3ZERLRkdxQS1PbllzcjRtYmwtNW1aQks3NUhXaUlYM2FwOWIySU1Rdm5uVTZsYjFGdEhtdTBiTTExNzVmNUJZekhORlE4SlNpYTl3M0xvSFdETnlLS3d6b29TazQ2MWlJ?oc=5",
     "difficulty": "News"
@@ -292,9 +292,9 @@
     "label": "ChatGPT",
     "time": "Aug 04, 12:06 PM ET",
     "publishedAt": "2026-08-04T16:06:20+00:00",
-    "source": "blog.google",
+    "source": "developers.googleblog.com",
     "title": "Model routing with Google Cloud API Gateway",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "summary": "developers.googleblog.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ajF2SnZGcndhTkIyOTJoS3Flc2xjM1c0ZWxwalhaN3ZEcWFzY0k0TElHS2hjYlJuUFNJQzgtdEFWTjZxSG9OcXg5NlRlcFQ5UHJiMzJVUTRKSE9CRzFzWXVkcjNrMlNEWTFHa21aQmFWX2docmpBdQ?oc=5",
     "difficulty": "News"
