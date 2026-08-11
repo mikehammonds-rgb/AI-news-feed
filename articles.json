@@ -2,8 +2,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 11, 10:05 AM ET",
-    "publishedAt": "2026-08-11T14:05:38+00:00",
+    "time": "Aug 11, 01:12 PM ET",
+    "publishedAt": "2026-08-11T17:12:49+00:00",
     "source": "Mashable",
     "title": "Claude to start watermarking AI-generated content",
     "summary": "Mashable is reporting this update. Open the article for the full story.",
@@ -26,6 +26,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 11, 08:34 AM ET",
+    "publishedAt": "2026-08-11T12:34:16+00:00",
+    "source": "InfoWorld",
+    "title": "Anthropic makes Claude Code’s auto mode default for paid users",
+    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkpOQlI3NlNCa3dpT2F4U3RkUXJPXzdiNHNGMEhWemhoNEo0dFNIaUhoVDVvV1VEX2VrbW1qMkFmV2hGSXlTQ3o3RDJ1MXU3QU52NTgxcUFhV3VkSjl6ZUwxYjVrV0E4Yi1mMm9mc005Wkw5Tkhxdjk1ZXNWYXhOZ25GQ1M5dF95MlAxaFFYRk9aZGtQdDlOU1dVZElJSEo5cXU3c19TSnByVzNm?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 11, 08:30 AM ET",
     "publishedAt": "2026-08-11T12:30:44+00:00",
     "source": "Euronews.com",
@@ -33,18 +45,6 @@
     "summary": "Euronews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzVZZkhyRmNacGhLM0RTMWMtSTZIRFlSQjRHX3FsMHBDUGlESjZCR2paWlhkeWxmQUlHMmhEenotSGNUS3VFSkxCV1F1eFJjWUNxXzBGUzlaejB3NW1vVFFKd0NtMXo4R08weHQ1R2RTS0xvTTdnQ1ZDeDhNbTBoOW9PWnpuSWc3VjVlNUFXLU5xT3Bkekl3a2VxMFpxbDFKUV90WEtvRHFoLTJGUTZJNjFZeGI0ZjA5M3JxX2RR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 11, 08:22 AM ET",
-    "publishedAt": "2026-08-11T12:22:20+00:00",
-    "source": "The Verge",
-    "title": "Claude will apply invisible watermarks to AI text and images",
-    "summary": "The Verge is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVlXWHJVOVhXbkRUbmdqZzhmY1BvOWNkelROTjhVaWlycnFlQmNqQ1g2UXJzdEM5MmlPd0N6UkZpa2JmVm5veE9uZnlCMWRGY0RMY2hZVFBpc1hFQVJVZVgtNFpvbnJXUGxaWkZwdi16d2g0M3lnc1Q4SzlKb1VGX1VVVkNuZlFpYWdtaHlJRVJZRmxRbVZ1YUNEcWFZUjh6TmdLTzhZU3k0QQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -64,9 +64,9 @@
     "label": "Claude Code",
     "time": "Aug 11, 08:00 AM ET",
     "publishedAt": "2026-08-11T12:00:00+00:00",
-    "source": "Towards Data Science",
+    "source": "towardsdatascience.com",
     "title": "Can a Local LLM Run My AI Assistant?",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "summary": "towardsdatascience.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5WVNGWFg0dWw2OS14QTRTU2h6QWJPZ1NRaFZqZFdmWkx0NG1BbXN6bU41Z1JvZWtuTGhZSjdSdnItbm00eG9YWlYzS1JVRlo2cnFKcHZSU3RXQUY2TDIxOFJGcVdkTVZYYWRpbGVDWjZ5MVQ0TUE?oc=5",
     "difficulty": "News"
@@ -76,9 +76,9 @@
     "label": "Claude Code",
     "time": "Aug 11, 05:10 AM ET",
     "publishedAt": "2026-08-11T09:10:00+00:00",
-    "source": "Android Authority",
+    "source": "androidauthority.com",
     "title": "Claude will hide a watermark in your AI-written text, and it’ll follow you around",
-    "summary": "Android Authority is reporting this update. Open the article for the full story.",
+    "summary": "androidauthority.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56SktpMzA1OXBrZHcwWWVsZXVxeVZGLVMxRlRjRzZkU3RYODhFNWlYZVp2S1J2U0U3RWRVdVVZSG9OazhhR1UyTV94LVRmdWdiYVdIdkV2SW0tUzZ3cmhPdHFzTV9UU29Xd2o2MmFZWkJJZDZa?oc=5",
     "difficulty": "News"
@@ -184,9 +184,9 @@
     "label": "Gemini",
     "time": "Aug 07, 07:40 AM ET",
     "publishedAt": "2026-08-07T11:40:01+00:00",
-    "source": "Cybernews",
+    "source": "cybernews.com",
     "title": "Game developer claims Gemini scraped their private Google Docs for a character's name – but the truth is scarier",
-    "summary": "Cybernews is reporting this update. Open the article for the full story.",
+    "summary": "cybernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3hGbGVhdEpoXzNydHdEd3IxNmRhSnVyaHNxNjRRc2VqTzUyVFFjbEdlWUk1MVk0TGVDTEFXZUQxV0ZwejBLXzNRblEwd3UzdzVpQnAtWjVHNTFZQk1MUld6eVBVcmNWaEJUU3JTWndhUnF2THA2SGh6WTlKRkE1Wm9zMzRtVnhhWS1PYUtmcUhYWEU2?oc=5",
     "difficulty": "News"
@@ -206,23 +206,11 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Aug 06, 04:05 PM ET",
-    "publishedAt": "2026-08-06T20:05:17+00:00",
-    "source": "StartupHub.ai",
-    "title": "GitHub Copilot App Adds Slash Commands",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnhkVEp3X3MycWo5c0tsOWVoMzUyXy0tSzR0MEkyTDZKbzBfXzZ3b0J4dktjdFc1OUc5dFRFYkM4aTBVdEQyX1ZaM0g0a2M1cTNHQ0U0a3NDckE5QjZTQ200S1pDck8wMHRxMG9INEJEMzNTc2FJT2k3U2FVek55enhUNTZnQkJpc2IxZzBuc0pwLWs4eGJNRUtxd2ZhN1hHVUdB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Aug 06, 12:23 PM ET",
     "publishedAt": "2026-08-06T16:23:54+00:00",
-    "source": "polygon.com",
+    "source": "Polygon.com",
     "title": "Steam Developer Alleges Google Leaked Confidential Game Content via AI Search",
-    "summary": "polygon.com is reporting this update. Open the article for the full story.",
+    "summary": "Polygon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxzcFhpSTJxanlsOF9VSUJjTVZsOFdGVkV3YUJVWTh3ZERLRkdxQS1PbllzcjRtYmwtNW1aQks3NUhXaUlYM2FwOWIySU1Rdm5uVTZsYjFGdEhtdTBiTTExNzVmNUJZekhORlE4SlNpYTl3M0xvSFdETnlLS3d6b29TazQ2MWlJ?oc=5",
     "difficulty": "News"
@@ -240,6 +228,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 05, 09:00 AM ET",
+    "publishedAt": "2026-08-05T13:00:00+00:00",
+    "source": "Business Wire",
+    "title": "Menlo Security Extends MARS to Secure AI Assistants and Coding Agents Like Microsoft Copilot, Gemini in Chrome, and Claude Code Against Prompt Injection and Data Exfiltration",
+    "summary": "Business Wire is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNOXdFdEZGNmYwY0h6Y3ZMTlB0UVZ0OVJFaGRwYVRMek5lZDFWZlZlTV9UVl92WTdmOVZBQkxZSTRaY2hFaTlzVVBfNS1BRGRJX1dUOHVlSEtLYTVhTjM1YlIwS2R5TXpueHV2Zld6Ul9tQXo0Y0l1OG5FdXhQcTE5a0FBM2x5a1lZdVZMakc3VENNcFFuZ1pRaF9DVVBKZkVPUFN3WkRwYXktSV92Q0I0djNVRlBVQjR4VWduTXpzb0JSUnBmWEEtMUZueFVLS3BqRzg2REdCWGlXdDl1VmdkN1FOQlVLVkllcG1sWFk5RFR0MjFseHlmSDdXREUtN1pXUzhQcU5MMjlQQTZ4MWpzT2JaRUZiSS1kcjFwMTNONDlYT19Za1VISndTUlVzWDI2cVBVWHlzT2RCYnhsQU5sY0dHem5YY283YU52UW5R?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 04, 12:06 PM ET",
@@ -249,6 +249,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ajF2SnZGcndhTkIyOTJoS3Flc2xjM1c0ZWxwalhaN3ZEcWFzY0k0TElHS2hjYlJuUFNJQzgtdEFWTjZxSG9OcXg5NlRlcFQ5UHJiMzJVUTRKSE9CRzFzWXVkcjNrMlNEWTFHa21aQmFWX2docmpBdQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 03, 03:00 AM ET",
+    "publishedAt": "2026-08-03T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
     "difficulty": "News"
   },
   {
@@ -280,9 +292,9 @@
     "label": "Gemini",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "Oracle",
+    "source": "oracle.com",
     "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "Oracle is reporting this update. Open the article for the full story.",
+    "summary": "oracle.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
@@ -352,9 +364,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 30, 03:00 AM ET",
     "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "The GitHub Blog",
+    "source": "github.blog",
     "title": "Copilot Agent is now available in JetBrains AI Assistant",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "summary": "github.blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
     "difficulty": "News"
@@ -369,18 +381,6 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Mar 12, 03:00 AM ET",
-    "publishedAt": "2026-03-12T07:00:00+00:00",
-    "source": "Towards Data Science",
-    "title": "I Finally Built My First AI App (And It Wasn’t What I Expected)",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2JQMlhDQ3ZGRlhVekdydVJMM1N1RWU4aXh2djk2OGRsUWVSSmoyX2pXVHdDRWdyTTdTX0JBOXRIUU5TZUNKMDNVYkNueEtSUXlOVXFmTHpFUzRjN2Z3UEoyNnZONHR6cjBhYWx0NjBwN1hSREc1N092SmRkSUsyYmJBZ21USkpPZDU2SWFKdS1IWHl4cVhF?oc=5",
     "difficulty": "News"
   }
 ]
