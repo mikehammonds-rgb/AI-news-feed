@@ -4,9 +4,9 @@
     "label": "Claude Code",
     "time": "Aug 10, 07:48 PM ET",
     "publishedAt": "2026-08-10T23:48:00+00:00",
-    "source": "interestingengineering.com",
+    "source": "Interesting Engineering",
     "title": "Copy-paste no more: Anthropic puts invisible watermarks on Claude text under EU rules",
-    "summary": "interestingengineering.com is reporting this update. Open the article for the full story.",
+    "summary": "Interesting Engineering is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZWJzd21hc1YwNE9WdG0tLWxlNm9MVTZXQ1IwV0hWVE1Ob1VPQVRfUVNDZmptcjdzbXlCLU5sRUtiaXpwZFBPSkYxVjJZVXJIVzZKRENqZXJ2QkRYanR1M1RUdmxmSWtZUXRJaHpDTm45WkJJOHZBcTBKUEFrc0Z4YVBEdWQzd2c4WEwzY3pEX0dFNGM?oc=5",
     "difficulty": "News"
@@ -76,9 +76,9 @@
     "label": "Gemini",
     "time": "Aug 10, 07:04 AM ET",
     "publishedAt": "2026-08-10T11:04:43+00:00",
-    "source": "ASUS Pressroom",
+    "source": "press.asus.com",
     "title": "ASUS Laptops Unlock 3 Months of Google AI Pro/Plus",
-    "summary": "ASUS Pressroom is reporting this update. Open the article for the full story.",
+    "summary": "press.asus.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUFOVGJ3OUR2MHN4dTRXTnd2UFFnNXJzcFpWZnJ3dUtYc2cwTHgyb1BDQXRuellGN2FvVlFqTGtfUjRic0xiNmlueTVXUXFCNFpLRnpFMVZCZHRCdlp0VExjWTE1Z2F2TGNnb0lybHZFcHA5VW9FRURySk5FMzJOUW5Bcmd1dWJDenBzXw?oc=5",
     "difficulty": "News"
@@ -124,9 +124,9 @@
     "label": "Claude Code",
     "time": "Aug 09, 03:39 PM ET",
     "publishedAt": "2026-08-09T19:39:00+00:00",
-    "source": "The Tech Buzz",
+    "source": "techbuzz.ai",
     "title": "Anthropic Makes Claude Code Fully Autonomous by Default",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "summary": "techbuzz.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2JlMW9HaC1pVy1pM0JGRl9qcnE3aDZQRW13QnB2NWR3SFZSTksyUy11bGp3a3I3NjdaZHdvalZ2LWw5OUtLY2lMT09tYndNd1ZrOEQ0VmZlbnpfdVhtTDV2TVp2djhRN1diSUZ1SVotSmQ0N3prMnk2cGpvaGN6M1NqOVE0SDB3N0NRMDh0YkdoQQ?oc=5",
     "difficulty": "News"
@@ -232,9 +232,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 06, 12:23 PM ET",
     "publishedAt": "2026-08-06T16:23:54+00:00",
-    "source": "Polygon.com",
+    "source": "polygon.com",
     "title": "Steam Developer Alleges Google Leaked Confidential Game Content via AI Search",
-    "summary": "Polygon.com is reporting this update. Open the article for the full story.",
+    "summary": "polygon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxzcFhpSTJxanlsOF9VSUJjTVZsOFdGVkV3YUJVWTh3ZERLRkdxQS1PbllzcjRtYmwtNW1aQks3NUhXaUlYM2FwOWIySU1Rdm5uVTZsYjFGdEhtdTBiTTExNzVmNUJZekhORlE4SlNpYTl3M0xvSFdETnlLS3d6b29TazQ2MWlJ?oc=5",
     "difficulty": "News"
@@ -285,18 +285,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ajF2SnZGcndhTkIyOTJoS3Flc2xjM1c0ZWxwalhaN3ZEcWFzY0k0TElHS2hjYlJuUFNJQzgtdEFWTjZxSG9OcXg5NlRlcFQ5UHJiMzJVUTRKSE9CRzFzWXVkcjNrMlNEWTFHa21aQmFWX2docmpBdQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 31, 03:00 AM ET",
-    "publishedAt": "2026-07-31T07:00:00+00:00",
-    "source": "9to5Google",
-    "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
     "difficulty": "News"
   },
   {
@@ -360,13 +348,25 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 23, 06:55 AM ET",
+    "publishedAt": "2026-07-23T10:55:08+00:00",
+    "source": "AI Magazine",
+    "title": "How Google’s New Gemini Flash Models Compare to its Rivals",
+    "summary": "AI Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1pMWW9kR3EyeGVydUZadWNscXNzcjMwU2hlRm80WmNGRUU0THEzeDEyTzl4MEphT2pEQTdrclRycWVQUXlUSVdnSEhCaFNkTUwwWmxST0NCbmJla2JNeXRFNF9oTGpBYzZGaWJvcjJ2U2RtSnhJNUNYYTlYOEw0am1JX1hneTZaZFlXRWNB?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Jun 30, 03:00 AM ET",
     "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "github.blog",
+    "source": "The GitHub Blog",
     "title": "Copilot Agent is now available in JetBrains AI Assistant",
-    "summary": "github.blog is reporting this update. Open the article for the full story.",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
     "difficulty": "News"
