@@ -74,11 +74,23 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 12, 10:30 AM ET",
+    "publishedAt": "2026-08-12T14:30:46+00:00",
+    "source": "MacRumors",
+    "title": "Claude Outage Currently Affecting Multiple AI Models",
+    "summary": "MacRumors is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY3Z6a0VKYjgtUTlUbUVTUUJEQjBaTlpJUU9fc016QkhtSUlYYmpPeGt0UWpjbktWNmZMejBVZ2pmWGV2dGFHczBWRmhFMEgxX2IyLUZGUzExNjN4bllLcW1lUTI0R2p3TF9oM1FYZ2xSRzlHOUJRNkNJdEJpd254RWlnSQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 12, 07:47 AM ET",
     "publishedAt": "2026-08-12T11:47:00+00:00",
-    "source": "The Hacker News",
+    "source": "thehackernews.com",
     "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
@@ -86,23 +98,11 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 11, 09:37 PM ET",
-    "publishedAt": "2026-08-12T01:37:00+00:00",
-    "source": "finance.biggo.com",
-    "title": "Gemini Tops 1 Billion Monthly Users But Loses Momentum? Flagship Model Stumbles and Talent Exodus Raise Alarm at Google",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BX1FYQXhGc2ctRnZ1WE9OVjBQd2plVHZtMjNkY0lkNFpob0ZQSWlWS2VmYzA4eE8zdlc3YWRMTEpzcTZLQTFteEhGY1lwdU1wWmdjOHZuSDY2ZkNHQ0I3OEVGYkoxcnZ1YVJvNVpPbE5mNkl0Z2c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Aug 11, 06:50 PM ET",
     "publishedAt": "2026-08-11T22:50:45+00:00",
-    "source": "siliconangle.com",
+    "source": "SiliconANGLE",
     "title": "Google’s Gemini AI app passes 1 billion monthly active users",
-    "summary": "siliconangle.com is reporting this update. Open the article for the full story.",
+    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDlPbUxhN1pUcFBPbHFNX3BVZG9DLUlzRVhwSFZIcTMwSkJVN1hZWGVobUVvYktvR25iWVFCbEVoN1MtdDJsWWhNei03ZXpQVmVlMHpQYmVZbUQ3NEhxenF3WVBGbm5XV2dZa3ktd0FOYXJJSktwOXYwdGItR085c0NpcWI2WmpEdTF0Wk84NkozUW4wd1FyMXdnbjU?oc=5",
     "difficulty": "News"
@@ -120,13 +120,25 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 11, 03:36 PM ET",
+    "publishedAt": "2026-08-11T19:36:33+00:00",
+    "source": "Seeking Alpha",
+    "title": "Gemini tops 1B user mark as ChatGPT and Grok continue to make moves",
+    "summary": "Seeking Alpha is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3N6U3lIU1dBMjRDcG00SENmNXZ1VlNqZjdUTXgxSFdDM2lKWHFqd2VocG5zQ2hiMWdkVnFiZVp1SWFtUHFoMHI3V3I1cExQbjNnQ2Y0bkVlY3ZfaV9tMWFkRlVkaTN6dU13dkdEZVhHWXYtcFJDM1NOMlBWRENzeGZOdlMzTDR3VEtzMl9hcHdpZHYzZVBVYzlCaWlzRU1vUXBOcUxRdjg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 11, 02:45 PM ET",
     "publishedAt": "2026-08-11T18:45:00+00:00",
-    "source": "fortune.com",
+    "source": "Fortune",
     "title": "Anthropic plans to add an invisible mark to AI text—as the industry scrambles to police AI slop",
-    "summary": "fortune.com is reporting this update. Open the article for the full story.",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnlwczRuRk1oblktUkRXOWtibFRMTFpvZjZPVmp1akFxUG9YalhLVEM4SHpqWVZkNVlacDZwZUw2MlVnUlNQb0pzLXc3ZnczR3lHSm5FTGZFeDRSNjhWam5YczlhQW9KZWdOVlprWHZUSTMwamxnWERiLUxtYXlEcGIybEFTX1po?oc=5",
     "difficulty": "News"
@@ -156,37 +168,13 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 10, 07:27 PM ET",
-    "publishedAt": "2026-08-10T23:27:17+00:00",
-    "source": "sitepoint.com",
-    "title": "Getting Started with GPT-5.6 Luna: A Developer's Guide",
-    "summary": "sitepoint.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81NTFKWVJZSW5pMVlMRk9iRmlVbWdSYlhNaTFtTFB0Z0dlQ1YtZ2h3VTRHRnhuby1KZXVRWFRIR2V2QXZKNnA5bjg3WE9QaHN4S2VFQ2ZEdVhkdVBK?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 10, 04:04 PM ET",
-    "publishedAt": "2026-08-10T20:04:24+00:00",
-    "source": "TechCrunch",
-    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGJYTk1PbFdGNTJnZ1NhbDVGNW9zNkxNRHdiX1RsOXlydDFfeWtTbnNQSTFlVGI4dnh0Ykl1Q1VSdVc0WVZ3blJyNVByMEstS01BcmZVSUcwTVZJNWFBNlFHMnVZSVZRSGljMG0yb3VEQXlGNVc2elZzTzNpb20zcUtHMkRtQUFVNnJ1TDRaVUh0dHlHQ0NlNmVOOHFMaEU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 10, 07:04 AM ET",
     "publishedAt": "2026-08-10T11:04:43+00:00",
-    "source": "ASUS Pressroom",
+    "source": "press.asus.com",
     "title": "ASUS Laptops Unlock 3 Months of Google AI Pro/Plus",
-    "summary": "ASUS Pressroom is reporting this update. Open the article for the full story.",
+    "summary": "press.asus.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUFOVGJ3OUR2MHN4dTRXTnd2UFFnNXJzcFpWZnJ3dUtYc2cwTHgyb1BDQXRuellGN2FvVlFqTGtfUjRic0xiNmlueTVXUXFCNFpLRnpFMVZCZHRCdlp0VExjWTE1Z2F2TGNnb0lybHZFcHA5VW9FRURySk5FMzJOUW5Bcmd1dWJDenBzXw?oc=5",
     "difficulty": "News"
@@ -256,9 +244,9 @@
     "label": "ChatGPT",
     "time": "Aug 07, 12:17 PM ET",
     "publishedAt": "2026-08-07T16:17:00+00:00",
-    "source": "fortune.com",
+    "source": "Fortune",
     "title": "The Hugging Face hack is now a PR crisis that’s costing OpenAI millions",
-    "summary": "fortune.com is reporting this update. Open the article for the full story.",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHFSMS1GclM5U1E4SHFPUXlDQ25sSE5BQUxTQ1VuQVAtcW5xXzR4ZDNCQ25RWkd4MEtCMU1YdmNDT1E0cFMzRWRvODdQdVZybE5wTUt1SDIya2NRbi1rclRwbU1qU05YOFJHX19KWWE1QlVzOWlqQkZac0stSDU0M1J5NmRFcG1xWFpOWklwZHozdUhfcWk4ZFh4RmxJakxyQ2NzQg?oc=5",
     "difficulty": "News"
@@ -278,6 +266,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Aug 06, 07:05 PM ET",
+    "publishedAt": "2026-08-06T23:05:35+00:00",
+    "source": "SitePoint",
+    "title": "Local LLMs vs Cloud APIs: 2026 Total Cost of Ownership Analysis",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01QWtyaTJWTU1JaG1qcG1jRko2U045NU9aekN6TWdpRGZ5cUZCOW9vNXFxVzl0YmJIOWQtREMxWm9fX3VtekJVQ1NnNVU4aGwxYy1MZUlJX0pxcms0Vl9ibWVIQjdhTzhFcVpjc3VhN3M4ZEpoV1Robg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Aug 04, 12:06 PM ET",
     "publishedAt": "2026-08-04T16:06:20+00:00",
     "source": "blog.google",
@@ -292,9 +292,9 @@
     "label": "Gemini",
     "time": "Jul 31, 03:00 AM ET",
     "publishedAt": "2026-07-31T07:00:00+00:00",
-    "source": "9to5Google",
+    "source": "9to5google.com",
     "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "summary": "9to5google.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
     "difficulty": "News"
