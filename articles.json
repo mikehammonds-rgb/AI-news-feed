@@ -2,6 +2,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Aug 11, 10:28 PM ET",
+    "publishedAt": "2026-08-12T02:28:00+00:00",
+    "source": "timesofindia.indiatimes.com",
+    "title": "Gemini app becomes Google’s fastest-growing consumer product ever: CEO Sundar Pichai shares ‘thank you’ m",
+    "summary": "timesofindia.indiatimes.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOdWJ1YThPX1B2RlBCRzBhLUJzRTlyRVhoUy1XSFp2X0o3N010NTluTlFTRUNsaU5vdzF0T0lRNlhITC1mcHVTNmptdkp3VG9Kb3JGdkJzNHBXbm5JOHJqRTBydklCbERaN0k5UUhpRkd2UTNoLWtKc05OaURVV011eHhrYUVmemd4OWtGM1JvOXVtSEJabVJ4TG9IaUN5SDhVRU54ZzFJRnZjU0NXWW1VZi1YSFhkYW9RNV9zd0l5UnFmNFF2NmRWVEh5Z3B5S2lra2N3cFFvZlNmczBVR3JhTVVxYVF6Z2UzSHpmQjN6dUJESnJWM2d3bldBMDc2cjM0T0wtRW91Ym5NT0hVakM5YWxPZGJ1UWFKY1HSAZ8CQVVfeXFMUFhBVDBzRUlYVVNnMFdPU0I2TUhyaW8zMnphU1NoWjBwQ29JTlNYMDVjM1RZNVhNMXNJaTc2TEpxaHZ5N0Y0YldpbjJRdkFDOHVibUpCOGNqcW9UMVdpV2pPNXc0SzBXdDNESm1WT1g3Ny1BclE0ZEU2VTVCX3dKWWh3YmRQMXQ0NzdHR2lINlRXNGpuSHZIZXFZUlBKTURDZUFMUUhFS2xqV3VzMnM3bFRmUzN3SHpjX3kyUlZnMGJqTzM5cVR3WDZhTTB6NjIzQnBzRGxMLWJWMk5RbUVKX1pCQnBQQVVmX3B2bi1aMnN4VFR6TDRlZ2hRNFR6TnZVcUJ6WFIyUjBWUjhoZ2hLUWlyQ09sREI0LVFPR3VtTkE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Aug 11, 06:50 PM ET",
     "publishedAt": "2026-08-11T22:50:45+00:00",
     "source": "SiliconANGLE",
@@ -28,9 +40,9 @@
     "label": "Claude Code",
     "time": "Aug 11, 05:23 PM ET",
     "publishedAt": "2026-08-11T21:23:48+00:00",
-    "source": "mashable.com",
+    "source": "Mashable",
     "title": "Claude to start watermarking AI-generated content",
-    "summary": "mashable.com is reporting this update. Open the article for the full story.",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
     "difficulty": "News"
@@ -112,9 +124,9 @@
     "label": "Claude Code",
     "time": "Aug 11, 11:59 AM ET",
     "publishedAt": "2026-08-11T15:59:22+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "aws.amazon.com",
     "title": "Deploying Anthropic Claude apps gateway for AWS for enterprise workloads",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWWxIcWlVMjBpR01iOWVtZzdSdnlFcTJnZ2ptS2JFUi1yTVJYalBIRnZ0TnVyMEl1aG15MGsxZmxKdzhnTmlEdG1Gd1ZBU0MzMlN6V3RrWXp2d2RMWndmTlNodXJldVpzRFc3OXlFWWRlUDdxT256Ym5SMGhtR0NaelV6NE4xRnNwQ2hPSWVIajF4bTFYQ1lCb2pPc1pNMG1mSXJUMmdqR3dEOUVQdWhFcDdlZElXeGxtanVV?oc=5",
     "difficulty": "News"
@@ -192,6 +204,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 10, 03:00 AM ET",
+    "publishedAt": "2026-08-10T07:00:00+00:00",
+    "source": "Visual Studio Magazine",
+    "title": "Microsoft Study Shows Just How 'Agentic' GitHub Copilot Has Become",
+    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOEIta25kVHNqeFo1QU9UVGdEUDlwLWhmQ0t1OXJEMlRqWjJnNUU3cnAwMkFnTUlxUmtCOEhjbERycUVOVFpyQ3YtUmNJcEIyR2lGbWdsMVlaQ3k4M2l4TFZIcnpEemFxUXNCNS1sdXlLVWljdk5LQUZyZ1NOV3pBNXNBRlZmRzdUT2UzWmJXR3A0ZWVwVEhSU3ctVzBacXp4VzE0d0cyRkFhQTVRMmNrZGJTQ2g5OUwxTHlTUVRFUGxKZ0kzN2dfLTEzUG1YWkxObkIwZE5FOA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 09, 03:39 PM ET",
@@ -201,18 +225,6 @@
     "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2JlMW9HaC1pVy1pM0JGRl9qcnE3aDZQRW13QnB2NWR3SFZSTksyUy11bGp3a3I3NjdaZHdvalZ2LWw5OUtLY2lMT09tYndNd1ZrOEQ0VmZlbnpfdVhtTDV2TVp2djhRN1diSUZ1SVotSmQ0N3prMnk2cGpvaGN6M1NqOVE0SDB3N0NRMDh0YkdoQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 07, 06:01 PM ET",
-    "publishedAt": "2026-08-07T22:01:53+00:00",
-    "source": "TradingView",
-    "title": "SpaceX Reportedly Nears $60B Cursor Acquisition — AI Startup Outlines Rebranding Plans",
-    "summary": "TradingView is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbDBWUzdtWjVBaUt6cDlnVjhGWlNsM0NJQXBRUkVPYm12bHFBRnA5NHpRUmVnaENTN2ttMXNPc0JDVVZ1SllNT2JFWGtiWDlMNnJCeUU2UVF6Rkl5TGZYcE1kTzhuQmVRT3htSEtCNFlIYm80SDBIZWJydEc2UWhCRXBIbGVBbUJKd3ZLOHNWNElISzFSNmJ2eGl2WkJHb1YtZEVNMG94UnNsNm1EU1lONVEyUGo5MTNoempOVW1mZlBUMm1QclpXUmsyY1N6bV9HZEdxdGFnQTZDUEFD?oc=5",
     "difficulty": "News"
   },
   {
@@ -264,18 +276,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 06, 12:23 PM ET",
-    "publishedAt": "2026-08-06T16:23:54+00:00",
-    "source": "polygon.com",
-    "title": "Steam Developer Alleges Google Leaked Confidential Game Content via AI Search",
-    "summary": "polygon.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxzcFhpSTJxanlsOF9VSUJjTVZsOFdGVkV3YUJVWTh3ZERLRkdxQS1PbllzcjRtYmwtNW1aQks3NUhXaUlYM2FwOWIySU1Rdm5uVTZsYjFGdEhtdTBiTTExNzVmNUJZekhORlE4SlNpYTl3M0xvSFdETnlLS3d6b29TazQ2MWlJ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 05, 09:00 AM ET",
@@ -292,9 +292,9 @@
     "label": "ChatGPT",
     "time": "Aug 04, 12:06 PM ET",
     "publishedAt": "2026-08-04T16:06:20+00:00",
-    "source": "blog.google",
+    "source": "developers.googleblog.com",
     "title": "Model routing with Google Cloud API Gateway",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "summary": "developers.googleblog.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ajF2SnZGcndhTkIyOTJoS3Flc2xjM1c0ZWxwalhaN3ZEcWFzY0k0TElHS2hjYlJuUFNJQzgtdEFWTjZxSG9OcXg5NlRlcFQ5UHJiMzJVUTRKSE9CRzFzWXVkcjNrMlNEWTFHa21aQmFWX2docmpBdQ?oc=5",
     "difficulty": "News"
@@ -340,9 +340,9 @@
     "label": "ChatGPT",
     "time": "Jul 24, 03:00 AM ET",
     "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "aws.amazon.com",
     "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
     "difficulty": "News"
