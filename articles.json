@@ -2,11 +2,35 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 12, 03:21 PM ET",
+    "publishedAt": "2026-08-12T19:21:08+00:00",
+    "source": "Tech Times",
+    "title": "Four Cents Strips Claude Watermark; Anthropic Detection API Confirms Evasion Oracle",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNck5yejlwcy1qaWtMWUt0bWROWS1OU2FuelN6ZjJ2bzM4Sk9yUmVOa1VLeDFGb2J5Y2E1WlBFYVpGTFF0R1IxRlhkQkMzaXVJc2x5Tnh1Z29GR1BuSFNscThtUFU1SG1RM01XNUJZbnFjd29NT0h5cFJ0U01IVDJjWlR6T0dNYll3cXhXTkNqeW9QNkw4NGNFRHRkaGFHWHFCUnl1bzYtTUcxSVB5U2IzcnN6VlJfWjZiNUtDMXo2dnVweEdSaDdUdHlmTThjQ1Qta1JB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 12, 02:54 PM ET",
+    "publishedAt": "2026-08-12T18:54:00+00:00",
+    "source": "PYMNTS.com",
+    "title": "Gemini App Hits 1 Billion Users Faster Than Any Other Google Product",
+    "summary": "PYMNTS.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV2U3cFNOS2NUV1pZVXNKaGJVM3pUcHp1VnU3REtFY3VPa0xGaktaSzBxSnhROGxHMVQ5cTlmOE5rX2xYcTdxQ1pyWWpwSHlNQWJmNXRZSVM1WDk2M3pFMk5fTU9ZRlA4djhJMUtnbW54MW9VSlA2YVB1UzFzemE4VkR4aU9ueTRvUU44UkpkNUtXQWMyTDA4aWtwNVd2VEFGLVo4UHQtaVI2Qk9UbV9hRTBROE5UNDBNbXhJY2VBajBZSjNl?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 12, 01:26 PM ET",
     "publishedAt": "2026-08-12T17:26:00+00:00",
-    "source": "New York Post",
-    "title": "Anthropic adding watermarks to AI-generated content to comply with EU law",
-    "summary": "New York Post is reporting this update. Open the article for the full story.",
+    "source": "nypost.com",
+    "title": "Sorry, students: Anthropic adding watermarks to AI-generated content, potentially making cheating harder",
+    "summary": "nypost.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2xvQVUzcVNPcFotSHB4VTdmS1JWclAwY1pBLTZqemI3SFY4WHJFemNsRVM4bURrWmlKNW1XWGp2TFMzc211LVBpS2E5Q0IwaUdGV2xZcVZuN292dTlRVGJfN1dYZ3p3OGdiRTluR1BaSl9MRHRmTmdxcFhiQU5YbkJjSGZ3dVowVnVWWGcwbDFmWFhKbDY2MlpIZnFIX0QxZnNRTFpTeVFZNXhqck9iZWxwTQ?oc=5",
     "difficulty": "News"
@@ -26,18 +50,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 12, 12:47 PM ET",
-    "publishedAt": "2026-08-12T16:47:36+00:00",
-    "source": "extremetech.com",
-    "title": "Anthropic to Add Invisible Watermarks to Claude-Generated Text",
-    "summary": "extremetech.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDVKcVV6OHNnMmFGTm1UNDlTSHhZd0w1MVNlbXdmbmlxMkp3MHl4aFZBN3padGxDWVMtNUtzc2JQX05wenA3S0swNmZ6YUN3R3d0REtzSjJTU0xwQlhHMWxfM2otc3FIR3FZZm01djZ4cnBIOUhKb084Mk94ajYyY08zTG11eXRrb1Zxd0c0cnhWeXZqVGhkd3ZCOElfRTRI?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 12, 12:00 PM ET",
     "publishedAt": "2026-08-12T16:00:56+00:00",
     "source": "Gizmodo",
@@ -45,6 +57,18 @@
     "summary": "Gizmodo is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSERZWk8yQ0dzU052M1RITldheU5hNDdBVFhtR0hKalVXTGVzcHp4R1pMcUMtdWJlaUNnMER0amdnUmt4RDk2djB6aGh5cGlXZjdka1c4TzhWLWNrR1lqZ0NyOXdibHZQTTU2eU5fU0xFUjlDS0hwUnVLUlNmdk1JRjZXOU1oY1NHNDhjS000WFdWV0dMRE9HanB2cXNMV3RmT0dJYUtENE5zU0dP?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 12, 10:30 AM ET",
+    "publishedAt": "2026-08-12T14:30:46+00:00",
+    "source": "MacRumors",
+    "title": "Claude Outage Currently Affecting Multiple AI Models",
+    "summary": "MacRumors is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY3Z6a0VKYjgtUTlUbUVTUUJEQjBaTlpJUU9fc016QkhtSUlYYmpPeGt0UWpjbktWNmZMejBVZ2pmWGV2dGFHczBWRmhFMEgxX2IyLUZGUzExNjN4bllLcW1lUTI0R2p3TF9oM1FYZ2xSRzlHOUJRNkNJdEJpd254RWlnSQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,18 +93,6 @@
     "summary": "Open Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTNwX3M5R0I4bTZnZXhYdDBqZngwRm80blpOQTFxVlJKekNsRU9jdkpEdDg0X1QwRkQ1ZlF3UDhNTVNBR194bmtUTmNJQXZxZ1NKT2xzd1RzRWFlZE80eFE5eDBRRmNqOEkzUlpMTmtWcFVxbklWdmtDdzYzR2Zwb243YkplWEhGVDVEbVJtRFhvc0ZDYmFncDE2ZzBVUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 11, 10:28 PM ET",
-    "publishedAt": "2026-08-12T02:28:00+00:00",
-    "source": "The Times of India",
-    "title": "Gemini app becomes Google’s fastest-growing consumer product ever: CEO Sundar Pichai shares ‘thank you’ m",
-    "summary": "The Times of India is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOdWJ1YThPX1B2RlBCRzBhLUJzRTlyRVhoUy1XSFp2X0o3N010NTluTlFTRUNsaU5vdzF0T0lRNlhITC1mcHVTNmptdkp3VG9Kb3JGdkJzNHBXbm5JOHJqRTBydklCbERaN0k5UUhpRkd2UTNoLWtKc05OaURVV011eHhrYUVmemd4OWtGM1JvOXVtSEJabVJ4TG9IaUN5SDhVRU54ZzFJRnZjU0NXWW1VZi1YSFhkYW9RNV9zd0l5UnFmNFF2NmRWVEh5Z3B5S2lra2N3cFFvZlNmczBVR3JhTVVxYVF6Z2UzSHpmQjN6dUJESnJWM2d3bldBMDc2cjM0T0wtRW91Ym5NT0hVakM5YWxPZGJ1UWFKY1HSAZ8CQVVfeXFMUFhBVDBzRUlYVVNnMFdPU0I2TUhyaW8zMnphU1NoWjBwQ29JTlNYMDVjM1RZNVhNMXNJaTc2TEpxaHZ5N0Y0YldpbjJRdkFDOHVibUpCOGNqcW9UMVdpV2pPNXc0SzBXdDNESm1WT1g3Ny1BclE0ZEU2VTVCX3dKWWh3YmRQMXQ0NzdHR2lINlRXNGpuSHZIZXFZUlBKTURDZUFMUUhFS2xqV3VzMnM3bFRmUzN3SHpjX3kyUlZnMGJqTzM5cVR3WDZhTTB6NjIzQnBzRGxMLWJWMk5RbUVKX1pCQnBQQVVmX3B2bi1aMnN4VFR6TDRlZ2hRNFR6TnZVcUJ6WFIyUjBWUjhoZ2hLUWlyQ09sREI0LVFPR3VtTkE?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,30 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 11, 03:36 PM ET",
-    "publishedAt": "2026-08-11T19:36:33+00:00",
-    "source": "Seeking Alpha",
-    "title": "Gemini tops 1B user mark as ChatGPT and Grok continue to make moves",
-    "summary": "Seeking Alpha is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3N6U3lIU1dBMjRDcG00SENmNXZ1VlNqZjdUTXgxSFdDM2lKWHFqd2VocG5zQ2hiMWdkVnFiZVp1SWFtUHFoMHI3V3I1cExQbjNnQ2Y0bkVlY3ZfaV9tMWFkRlVkaTN6dU13dkdEZVhHWXYtcFJDM1NOMlBWRENzeGZOdlMzTDR3VEtzMl9hcHdpZHYzZVBVYzlCaWlzRU1vUXBOcUxRdjg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 11, 03:33 PM ET",
-    "publishedAt": "2026-08-11T19:33:30+00:00",
-    "source": "The New Stack",
-    "title": "Anthropic’s watermark survives copy-paste, but not the real dev workflow",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RYXV4elM0U2p3RjU5Q0xmQUt4WHhhelctNGtUOU5tbm45YXdBZ0dKNXVhVG1WYUdldFJ2VkRQd1B4T2ZJMjdFRDVhcHpPOGVFNnlBUG9QNll1QmZ0d0RxenpacW00UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 11, 02:45 PM ET",
@@ -168,15 +156,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 10, 07:27 PM ET",
-    "publishedAt": "2026-08-10T23:27:17+00:00",
-    "source": "SitePoint",
-    "title": "Getting Started with GPT-5.6 Luna: A Developer's Guide",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 11, 01:35 PM ET",
+    "publishedAt": "2026-08-11T17:35:59+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Use Nano Banana Pro: 11 Steps, 80 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81NTFKWVJZSW5pMVlMRk9iRmlVbWdSYlhNaTFtTFB0Z0dlQ1YtZ2h3VTRHRnhuby1KZXVRWFRIR2V2QXZKNnA5bjg3WE9QaHN4S2VFQ2ZEdVhkdVBK?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ELWpCTjVQTmkzMHpIWnY0MHRiVll6aFlxQ1ZCSjFwTlllM215bjYtajV2QkxPQjVJdnEzbngtMjdhd0ZMWHhQeUtNVE5PLTJmTmh3ZlJQSC1xc1lXV0pISkVoVXdhczJM?oc=5",
     "difficulty": "News"
   },
   {
@@ -208,9 +196,9 @@
     "label": "Claude Code",
     "time": "Aug 09, 03:39 PM ET",
     "publishedAt": "2026-08-09T19:39:00+00:00",
-    "source": "techbuzz.ai",
+    "source": "The Tech Buzz",
     "title": "Anthropic Makes Claude Code Fully Autonomous by Default",
-    "summary": "techbuzz.ai is reporting this update. Open the article for the full story.",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2JlMW9HaC1pVy1pM0JGRl9qcnE3aDZQRW13QnB2NWR3SFZSTksyUy11bGp3a3I3NjdaZHdvalZ2LWw5OUtLY2lMT09tYndNd1ZrOEQ0VmZlbnpfdVhtTDV2TVp2djhRN1diSUZ1SVotSmQ0N3prMnk2cGpvaGN6M1NqOVE0SDB3N0NRMDh0YkdoQQ?oc=5",
     "difficulty": "News"
@@ -278,11 +266,23 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Aug 06, 07:05 PM ET",
+    "publishedAt": "2026-08-06T23:05:35+00:00",
+    "source": "SitePoint",
+    "title": "Local LLMs vs Cloud APIs: 2026 Total Cost of Ownership Analysis",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01QWtyaTJWTU1JaG1qcG1jRko2U045NU9aekN6TWdpRGZ5cUZCOW9vNXFxVzl0YmJIOWQtREMxWm9fX3VtekJVQ1NnNVU4aGwxYy1MZUlJX0pxcms0Vl9ibWVIQjdhTzhFcVpjc3VhN3M4ZEpoV1Robg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Aug 04, 12:06 PM ET",
     "publishedAt": "2026-08-04T16:06:20+00:00",
-    "source": "developers.googleblog.com",
+    "source": "blog.google",
     "title": "Model routing with Google Cloud API Gateway",
-    "summary": "developers.googleblog.com is reporting this update. Open the article for the full story.",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ajF2SnZGcndhTkIyOTJoS3Flc2xjM1c0ZWxwalhaN3ZEcWFzY0k0TElHS2hjYlJuUFNJQzgtdEFWTjZxSG9OcXg5NlRlcFQ5UHJiMzJVUTRKSE9CRzFzWXVkcjNrMlNEWTFHa21aQmFWX2docmpBdQ?oc=5",
     "difficulty": "News"
@@ -316,9 +316,9 @@
     "label": "Gemini",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "oracle.com",
+    "source": "Oracle",
     "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "oracle.com is reporting this update. Open the article for the full story.",
+    "summary": "Oracle is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
