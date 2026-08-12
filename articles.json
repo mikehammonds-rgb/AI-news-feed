@@ -40,9 +40,9 @@
     "label": "Gemini",
     "time": "Aug 11, 06:50 PM ET",
     "publishedAt": "2026-08-11T22:50:45+00:00",
-    "source": "SiliconANGLE",
+    "source": "siliconangle.com",
     "title": "Google’s Gemini AI app passes 1 billion monthly active users",
-    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
+    "summary": "siliconangle.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDlPbUxhN1pUcFBPbHFNX3BVZG9DLUlzRVhwSFZIcTMwSkJVN1hZWGVobUVvYktvR25iWVFCbEVoN1MtdDJsWWhNei03ZXpQVmVlMHpQYmVZbUQ3NEhxenF3WVBGbm5XV2dZa3ktd0FOYXJJSktwOXYwdGItR085c0NpcWI2WmpEdTF0Wk84NkozUW4wd1FyMXdnbjU?oc=5",
     "difficulty": "News"
@@ -69,6 +69,18 @@
     "summary": "Seeking Alpha is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3N6U3lIU1dBMjRDcG00SENmNXZ1VlNqZjdUTXgxSFdDM2lKWHFqd2VocG5zQ2hiMWdkVnFiZVp1SWFtUHFoMHI3V3I1cExQbjNnQ2Y0bkVlY3ZfaV9tMWFkRlVkaTN6dU13dkdEZVhHWXYtcFJDM1NOMlBWRENzeGZOdlMzTDR3VEtzMl9hcHdpZHYzZVBVYzlCaWlzRU1vUXBOcUxRdjg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 11, 03:33 PM ET",
+    "publishedAt": "2026-08-11T19:33:30+00:00",
+    "source": "The New Stack",
+    "title": "Anthropic’s watermark survives copy-paste, but not the real dev workflow",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RYXV4elM0U2p3RjU5Q0xmQUt4WHhhelctNGtUOU5tbm45YXdBZ0dKNXVhVG1WYUdldFJ2VkRQd1B4T2ZJMjdFRDVhcHpPOGVFNnlBUG9QNll1QmZ0d0RxenpacW00UQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -177,18 +189,6 @@
     "summary": "SitePoint is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81NTFKWVJZSW5pMVlMRk9iRmlVbWdSYlhNaTFtTFB0Z0dlQ1YtZ2h3VTRHRnhuby1KZXVRWFRIR2V2QXZKNnA5bjg3WE9QaHN4S2VFQ2ZEdVhkdVBK?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 10, 05:13 AM ET",
-    "publishedAt": "2026-08-10T09:13:29+00:00",
-    "source": "Help Net Security",
-    "title": "Anthropic to put AI in charge of reviewing Claude Code actions by default",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemhYelZlbmhJajAxR1hUSHk3czgybWVvel9fVUg2VUs1RmtGWmh0VVRJRGFUay1pWVdwUkoyTnZqazJiZWZlOGU0NHhCZHNESExCNmZBNFEzSWtWcFlkZTNQRW5BNmJRU2c5QWRrenEtX0g3RlVsV3BfLW0tTEdVSw?oc=5",
     "difficulty": "News"
   },
   {
@@ -352,9 +352,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 30, 03:00 AM ET",
     "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "The GitHub Blog",
+    "source": "github.blog",
     "title": "Copilot Agent is now available in JetBrains AI Assistant",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "summary": "github.blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
     "difficulty": "News"
