@@ -52,11 +52,23 @@
     "label": "Claude Code",
     "time": "Aug 12, 12:00 PM ET",
     "publishedAt": "2026-08-12T16:00:56+00:00",
-    "source": "gizmodo.com",
+    "source": "Gizmodo",
     "title": "Anthropic’s Claude Will Start Adding Invisible Watermarks to AI-Generated Text",
-    "summary": "gizmodo.com is reporting this update. Open the article for the full story.",
+    "summary": "Gizmodo is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSERZWk8yQ0dzU052M1RITldheU5hNDdBVFhtR0hKalVXTGVzcHp4R1pMcUMtdWJlaUNnMER0amdnUmt4RDk2djB6aGh5cGlXZjdka1c4TzhWLWNrR1lqZ0NyOXdibHZQTTU2eU5fU0xFUjlDS0hwUnVLUlNmdk1JRjZXOU1oY1NHNDhjS000WFdWV0dMRE9HanB2cXNMV3RmT0dJYUtENE5zU0dP?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 12, 10:53 AM ET",
+    "publishedAt": "2026-08-12T14:53:31+00:00",
+    "source": "tech-insider.org",
+    "title": "Cursor vs GitHub Copilot vs Augment Code: $200 Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzWUZuMWdzOHV4S2dTRGg4cEYyN3BuRHVvUW5fb0xBY2hnMFdiWXZHY3p5bkYxX2tIU2gwYlRyUTc2dmIzM3JVU0p0azZiSTM2cFpTZUQxUi1NS2ZGVEFVall5Y3hmUWYwRlFfUXJ4ZU1lZDQ2SmdfZ1Rqcw?oc=5",
     "difficulty": "News"
   },
   {
@@ -64,23 +76,11 @@
     "label": "Claude Code",
     "time": "Aug 12, 07:47 AM ET",
     "publishedAt": "2026-08-12T11:47:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 12, 12:23 AM ET",
-    "publishedAt": "2026-08-12T04:23:35+00:00",
-    "source": "Open Magazine",
-    "title": "Claude Will Now Mark AI-Generated Content. Here’s What That Means",
-    "summary": "Open Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTNwX3M5R0I4bTZnZXhYdDBqZngwRm80blpOQTFxVlJKekNsRU9jdkpEdDg0X1QwRkQ1ZlF3UDhNTVNBR194bmtUTmNJQXZxZ1NKT2xzd1RzRWFlZE80eFE5eDBRRmNqOEkzUlpMTmtWcFVxbklWdmtDdzYzR2Zwb243YkplWEhGVDVEbVJtRFhvc0ZDYmFncDE2ZzBVUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -100,9 +100,9 @@
     "label": "Gemini",
     "time": "Aug 11, 06:50 PM ET",
     "publishedAt": "2026-08-11T22:50:45+00:00",
-    "source": "SiliconANGLE",
+    "source": "siliconangle.com",
     "title": "Google’s Gemini AI app passes 1 billion monthly active users",
-    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
+    "summary": "siliconangle.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDlPbUxhN1pUcFBPbHFNX3BVZG9DLUlzRVhwSFZIcTMwSkJVN1hZWGVobUVvYktvR25iWVFCbEVoN1MtdDJsWWhNei03ZXpQVmVlMHpQYmVZbUQ3NEhxenF3WVBGbm5XV2dZa3ktd0FOYXJJSktwOXYwdGItR085c0NpcWI2WmpEdTF0Wk84NkozUW4wd1FyMXdnbjU?oc=5",
     "difficulty": "News"
@@ -124,9 +124,9 @@
     "label": "Claude Code",
     "time": "Aug 11, 02:45 PM ET",
     "publishedAt": "2026-08-11T18:45:00+00:00",
-    "source": "Fortune",
+    "source": "fortune.com",
     "title": "Anthropic plans to add an invisible mark to AI text—as the industry scrambles to police AI slop",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "summary": "fortune.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnlwczRuRk1oblktUkRXOWtibFRMTFpvZjZPVmp1akFxUG9YalhLVEM4SHpqWVZkNVlacDZwZUw2MlVnUlNQb0pzLXc3ZnczR3lHSm5FTGZFeDRSNjhWam5YczlhQW9KZWdOVlprWHZUSTMwamxnWERiLUxtYXlEcGIybEFTX1po?oc=5",
     "difficulty": "News"
@@ -192,6 +192,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 10, 05:13 AM ET",
+    "publishedAt": "2026-08-10T09:13:29+00:00",
+    "source": "Help Net Security",
+    "title": "Anthropic to put AI in charge of reviewing Claude Code actions by default",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemhYelZlbmhJajAxR1hUSHk3czgybWVvel9fVUg2VUs1RmtGWmh0VVRJRGFUay1pWVdwUkoyTnZqazJiZWZlOGU0NHhCZHNESExCNmZBNFEzSWtWcFlkZTNQRW5BNmJRU2c5QWRrenEtX0g3RlVsV3BfLW0tTEdVSw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 10, 03:00 AM ET",
@@ -244,9 +256,9 @@
     "label": "ChatGPT",
     "time": "Aug 07, 12:17 PM ET",
     "publishedAt": "2026-08-07T16:17:00+00:00",
-    "source": "Fortune",
+    "source": "fortune.com",
     "title": "The Hugging Face hack is now a PR crisis that’s costing OpenAI millions",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "summary": "fortune.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHFSMS1GclM5U1E4SHFPUXlDQ25sSE5BQUxTQ1VuQVAtcW5xXzR4ZDNCQ25RWkd4MEtCMU1YdmNDT1E0cFMzRWRvODdQdVZybE5wTUt1SDIya2NRbi1rclRwbU1qU05YOFJHX19KWWE1QlVzOWlqQkZac0stSDU0M1J5NmRFcG1xWFpOWklwZHozdUhfcWk4ZFh4RmxJakxyQ2NzQg?oc=5",
     "difficulty": "News"
@@ -261,18 +273,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFllWnRiM0M0S0FNWlVDcElWNnpGdnFMUERkOVVMSHpfWnFMbU4ta1Q3bGhIbUFITFRWdTZnMWVDVzU2anh0OUU5LWIxSDlUWFhOeGIyMGt3cDVYeTNZQzJURUlwc2hldEY0SHFpcU5mZkNnd3hyaVNNNVVhOTFpYTJRU1c2dkhXVG1ESnhjMmY4WGlmV0VMeQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 06, 09:36 PM ET",
-    "publishedAt": "2026-08-07T01:36:00+00:00",
-    "source": "tech-insider.org",
-    "title": "GitHub Copilot Defaults 3 Plans to AI Training [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtMWlRY0RMME1VOE15TzgtbTEteFZnLUpMQ1FCTVQ0OHR4Yjl5UE9BaC1xOV80YkpCMUdYQjFYVnRZRDhxQVFiUnlmcHFkVVQ2VnRLeGVQUTJrMmFZX2Q2MjBhVlozY3UzYzU3Rm91NTV6MGtNVVFB?oc=5",
     "difficulty": "News"
   },
   {
@@ -376,9 +376,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 16, 03:00 AM ET",
     "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "cbsnews.com",
+    "source": "CBS News",
     "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "cbsnews.com is reporting this update. Open the article for the full story.",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
