@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 12, 10:15 AM ET",
+    "publishedAt": "2026-08-12T14:15:48+00:00",
+    "source": "Mashable",
+    "title": "Claude to start watermarking AI-generated content",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 12, 07:47 AM ET",
     "publishedAt": "2026-08-12T11:47:00+00:00",
     "source": "The Hacker News",
@@ -26,13 +38,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 11, 10:28 PM ET",
-    "publishedAt": "2026-08-12T02:28:00+00:00",
-    "source": "The Times of India",
-    "title": "Gemini app becomes Google’s fastest-growing consumer product ever: CEO Sundar Pichai shares ‘thank you’ m",
-    "summary": "The Times of India is reporting this update. Open the article for the full story.",
+    "time": "Aug 11, 09:37 PM ET",
+    "publishedAt": "2026-08-12T01:37:00+00:00",
+    "source": "finance.biggo.com",
+    "title": "Gemini Tops 1 Billion Monthly Users But Loses Momentum? Flagship Model Stumbles and Talent Exodus Raise Alarm at Google",
+    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOdWJ1YThPX1B2RlBCRzBhLUJzRTlyRVhoUy1XSFp2X0o3N010NTluTlFTRUNsaU5vdzF0T0lRNlhITC1mcHVTNmptdkp3VG9Kb3JGdkJzNHBXbm5JOHJqRTBydklCbERaN0k5UUhpRkd2UTNoLWtKc05OaURVV011eHhrYUVmemd4OWtGM1JvOXVtSEJabVJ4TG9IaUN5SDhVRU54ZzFJRnZjU0NXWW1VZi1YSFhkYW9RNV9zd0l5UnFmNFF2NmRWVEh5Z3B5S2lra2N3cFFvZlNmczBVR3JhTVVxYVF6Z2UzSHpmQjN6dUJESnJWM2d3bldBMDc2cjM0T0wtRW91Ym5NT0hVakM5YWxPZGJ1UWFKY1HSAZ8CQVVfeXFMUFhBVDBzRUlYVVNnMFdPU0I2TUhyaW8zMnphU1NoWjBwQ29JTlNYMDVjM1RZNVhNMXNJaTc2TEpxaHZ5N0Y0YldpbjJRdkFDOHVibUpCOGNqcW9UMVdpV2pPNXc0SzBXdDNESm1WT1g3Ny1BclE0ZEU2VTVCX3dKWWh3YmRQMXQ0NzdHR2lINlRXNGpuSHZIZXFZUlBKTURDZUFMUUhFS2xqV3VzMnM3bFRmUzN3SHpjX3kyUlZnMGJqTzM5cVR3WDZhTTB6NjIzQnBzRGxMLWJWMk5RbUVKX1pCQnBQQVVmX3B2bi1aMnN4VFR6TDRlZ2hRNFR6TnZVcUJ6WFIyUjBWUjhoZ2hLUWlyQ09sREI0LVFPR3VtTkE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BX1FYQXhGc2ctRnZ1WE9OVjBQd2plVHZtMjNkY0lkNFpob0ZQSWlWS2VmYzA4eE8zdlc3YWRMTEpzcTZLQTFteEhGY1lwdU1wWmdjOHZuSDY2ZkNHQ0I3OEVGYkoxcnZ1YVJvNVpPbE5mNkl0Z2c?oc=5",
     "difficulty": "News"
   },
   {
@@ -76,9 +88,9 @@
     "label": "Claude Code",
     "time": "Aug 11, 03:33 PM ET",
     "publishedAt": "2026-08-11T19:33:30+00:00",
-    "source": "thenewstack.io",
+    "source": "The New Stack",
     "title": "Anthropic’s watermark survives copy-paste, but not the real dev workflow",
-    "summary": "thenewstack.io is reporting this update. Open the article for the full story.",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RYXV4elM0U2p3RjU5Q0xmQUt4WHhhelctNGtUOU5tbm45YXdBZ0dKNXVhVG1WYUdldFJ2VkRQd1B4T2ZJMjdFRDVhcHpPOGVFNnlBUG9QNll1QmZ0d0RxenpacW00UQ?oc=5",
     "difficulty": "News"
@@ -100,9 +112,9 @@
     "label": "Gemini",
     "time": "Aug 11, 03:21 PM ET",
     "publishedAt": "2026-08-11T19:21:00+00:00",
-    "source": "9to5Google",
+    "source": "9to5google.com",
     "title": "Gemini app hits 1 billion monthly users, Google teases what’s next",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "summary": "9to5google.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jWXliZndtcW5UeENjeFp1U29IcW9naldBNEtVNDhNRTdwQkRlOVN6S2N3c2hTWDRQcnBRc0duV0pPUzN6aHVwOTRmZjEzOEI3SEJRdzBtN2xzNExVUVRoRWpXdGJCQQ?oc=5",
     "difficulty": "News"
@@ -149,7 +161,7 @@
     "time": "Aug 11, 11:59 AM ET",
     "publishedAt": "2026-08-11T15:59:22+00:00",
     "source": "Amazon Web Services (AWS)",
-    "title": "Deploying Anthropic Claude apps gateway for AWS for enterprise workloads | Artificial Intelligence",
+    "title": "Deploying Anthropic Claude apps gateway for AWS for enterprise workloads",
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWWxIcWlVMjBpR01iOWVtZzdSdnlFcTJnZ2ptS2JFUi1yTVJYalBIRnZ0TnVyMEl1aG15MGsxZmxKdzhnTmlEdG1Gd1ZBU0MzMlN6V3RrWXp2d2RMWndmTlNodXJldVpzRFc3OXlFWWRlUDdxT256Ym5SMGhtR0NaelV6NE4xRnNwQ2hPSWVIajF4bTFYQ1lCb2pPc1pNMG1mSXJUMmdqR3dEOUVQdWhFcDdlZElXeGxtanVV?oc=5",
@@ -177,18 +189,6 @@
     "summary": "ASUS Pressroom is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUFOVGJ3OUR2MHN4dTRXTnd2UFFnNXJzcFpWZnJ3dUtYc2cwTHgyb1BDQXRuellGN2FvVlFqTGtfUjRic0xiNmlueTVXUXFCNFpLRnpFMVZCZHRCdlp0VExjWTE1Z2F2TGNnb0lybHZFcHA5VW9FRURySk5FMzJOUW5Bcmd1dWJDenBzXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 10, 05:13 AM ET",
-    "publishedAt": "2026-08-10T09:13:29+00:00",
-    "source": "Help Net Security",
-    "title": "Anthropic to put AI in charge of reviewing Claude Code actions by default",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemhYelZlbmhJajAxR1hUSHk3czgybWVvel9fVUg2VUs1RmtGWmh0VVRJRGFUay1pWVdwUkoyTnZqazJiZWZlOGU0NHhCZHNESExCNmZBNFEzSWtWcFlkZTNQRW5BNmJRU2c5QWRrenEtX0g3RlVsV3BfLW0tTEdVSw?oc=5",
     "difficulty": "News"
   },
   {
@@ -225,6 +225,18 @@
     "summary": "ABC News & Headlines – Australian Broadcasting Corporation is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVhTbm1pdXRyQUx4d1NBZGdFamFVUjJ1Rno1Nzc1emc5ekRydHJwU0tuaTlQLW4tQ01qYmo3OEx1V0NqVFZTSDZqUFdERmVUV0c2WXR3eVlSV1ZHSlRsejliTU9NZnR4V1JJWXhJdlk0M3dXTG5HMjB5bU9TalA5VnZpUm56ckpaY2I5M2Vob2RTa1RNQjIwTEs3aDk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 08, 03:00 AM ET",
+    "publishedAt": "2026-08-08T07:00:00+00:00",
+    "source": "Hostinger",
+    "title": "12 best Cursor alternatives for web development with AI",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oSUg0aWd1MmdMUllWTi00WE5vVm5kZkRkbVJWWTFZc2NWc2w4Z1J0STZWX0k1bnIwbk1uLXJqLU1nS0dJZ3FKRG9FUU5ZeVVhckFVam1sbHFoVlF1VkJWSTU2cld3UDhfa3Yw?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,18 +369,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 22, 03:00 AM ET",
-    "publishedAt": "2026-06-22T07:00:00+00:00",
-    "source": "thenewstack.io",
-    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
-    "summary": "thenewstack.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
     "difficulty": "News"
   },
   {
