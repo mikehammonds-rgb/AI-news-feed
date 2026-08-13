@@ -52,9 +52,9 @@
     "label": "Claude Code",
     "time": "Aug 12, 01:26 PM ET",
     "publishedAt": "2026-08-12T17:26:00+00:00",
-    "source": "nypost.com",
+    "source": "New York Post",
     "title": "Sorry, students: Anthropic adding watermarks to AI-generated content, potentially making cheating harder",
-    "summary": "nypost.com is reporting this update. Open the article for the full story.",
+    "summary": "New York Post is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2xvQVUzcVNPcFotSHB4VTdmS1JWclAwY1pBLTZqemI3SFY4WHJFemNsRVM4bURrWmlKNW1XWGp2TFMzc211LVBpS2E5Q0IwaUdGV2xZcVZuN292dTlRVGJfN1dYZ3p3OGdiRTluR1BaSl9MRHRmTmdxcFhiQU5YbkJjSGZ3dVowVnVWWGcwbDFmWFhKbDY2MlpIZnFIX0QxZnNRTFpTeVFZNXhqck9iZWxwTQ?oc=5",
     "difficulty": "News"
@@ -81,18 +81,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzWUZuMWdzOHV4S2dTRGg4cEYyN3BuRHVvUW5fb0xBY2hnMFdiWXZHY3p5bkYxX2tIU2gwYlRyUTc2dmIzM3JVU0p0azZiSTM2cFpTZUQxUi1NS2ZGVEFVall5Y3hmUWYwRlFfUXJ4ZU1lZDQ2SmdfZ1Rqcw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 12, 10:30 AM ET",
-    "publishedAt": "2026-08-12T14:30:46+00:00",
-    "source": "macrumors.com",
-    "title": "Claude Outage Currently Affecting Multiple AI Models",
-    "summary": "macrumors.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY3Z6a0VKYjgtUTlUbUVTUUJEQjBaTlpJUU9fc016QkhtSUlYYmpPeGt0UWpjbktWNmZMejBVZ2pmWGV2dGFHczBWRmhFMEgxX2IyLUZGUzExNjN4bllLcW1lUTI0R2p3TF9oM1FYZ2xSRzlHOUJRNkNJdEJpd254RWlnSQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,6 +204,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 10, 05:13 AM ET",
+    "publishedAt": "2026-08-10T09:13:29+00:00",
+    "source": "Help Net Security",
+    "title": "Anthropic to put AI in charge of reviewing Claude Code actions by default",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemhYelZlbmhJajAxR1hUSHk3czgybWVvel9fVUg2VUs1RmtGWmh0VVRJRGFUay1pWVdwUkoyTnZqazJiZWZlOGU0NHhCZHNESExCNmZBNFEzSWtWcFlkZTNQRW5BNmJRU2c5QWRrenEtX0g3RlVsV3BfLW0tTEdVSw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 10, 03:00 AM ET",
@@ -225,6 +225,18 @@
     "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOEIta25kVHNqeFo1QU9UVGdEUDlwLWhmQ0t1OXJEMlRqWjJnNUU3cnAwMkFnTUlxUmtCOEhjbERycUVOVFpyQ3YtUmNJcEIyR2lGbWdsMVlaQ3k4M2l4TFZIcnpEemFxUXNCNS1sdXlLVWljdk5LQUZyZ1NOV3pBNXNBRlZmRzdUT2UzWmJXR3A0ZWVwVEhSU3ctVzBacXp4VzE0d0cyRkFhQTVRMmNrZGJTQ2g5OUwxTHlTUVRFUGxKZ0kzN2dfLTEzUG1YWkxObkIwZE5FOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 09, 03:39 PM ET",
+    "publishedAt": "2026-08-09T19:39:00+00:00",
+    "source": "The Tech Buzz",
+    "title": "Anthropic Makes Claude Code Fully Autonomous by Default",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2JlMW9HaC1pVy1pM0JGRl9qcnE3aDZQRW13QnB2NWR3SFZSTksyUy11bGp3a3I3NjdaZHdvalZ2LWw5OUtLY2lMT09tYndNd1ZrOEQ0VmZlbnpfdVhtTDV2TVp2djhRN1diSUZ1SVotSmQ0N3prMnk2cGpvaGN6M1NqOVE0SDB3N0NRMDh0YkdoQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -328,9 +340,9 @@
     "label": "ChatGPT",
     "time": "Jul 24, 03:00 AM ET",
     "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "aws.amazon.com",
+    "source": "Amazon Web Services (AWS)",
     "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
-    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
     "difficulty": "News"
@@ -357,18 +369,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 22, 03:00 AM ET",
-    "publishedAt": "2026-06-22T07:00:00+00:00",
-    "source": "The New Stack",
-    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
     "difficulty": "News"
   },
   {
