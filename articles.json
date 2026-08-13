@@ -14,8 +14,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 13, 07:37 AM ET",
-    "publishedAt": "2026-08-13T11:37:11+00:00",
+    "time": "Aug 13, 07:36 AM ET",
+    "publishedAt": "2026-08-13T11:36:00+00:00",
     "source": "Business Insider",
     "title": "Techies have concerns about Claude's hidden watermark. Anthropic has some answers.",
     "summary": "Business Insider is reporting this update. Open the article for the full story.",
@@ -38,18 +38,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 13, 05:05 AM ET",
-    "publishedAt": "2026-08-13T09:05:56+00:00",
-    "source": "Computing UK",
-    "title": "Anthropic rolls out global watermarking for Claude",
-    "summary": "Computing UK is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNzB4M2FYR2dpVFkzRzdSTWU5QmxncXJwLVgxNlNYbURtUlNGX1BBVUpMUmE0dUtYbWViYzYxR3lnWkVrM2g4enRWZEtwcWx4RVNwZEpLU3dqUklSeEU4N3NlOVVtMmo0aU81VHNDRFQ1TS1XbFRFbEZMdjNDRk54OUFkQVJrWXZFb0o4Vg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 13, 04:56 AM ET",
     "publishedAt": "2026-08-13T08:56:00+00:00",
     "source": "finance.biggo.com",
@@ -57,30 +45,6 @@
     "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xekt4TXJsSDFGVUQ3bUlweldEZkJiN0xDNjNybUpfd29TTVZSN290Sk1lSFRhUVJpYjUzMC1qcVI3Z1YyNTV1NGh1WmpZQzBrWjlTVUtGS1ZUX3AtV0dwRlE1SGZXQ20wMXJ3cnlRNjVkX05IYVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 12, 07:15 PM ET",
-    "publishedAt": "2026-08-12T23:15:13+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "Anthropic adds invisible watermarks to output from new Claude models",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdE84bWpwY1lYZW9pMnRfb1UwS0N1dk5rOGo1NG9ueGh1WEdDdHpXaWxSaUFzWFA2TDF4cWJKM0JfTE9XOFptVUY5Sl91X1NGRnMycjZlQnpBVWotbjcwQzJaYjBkakVUQVpwaW1rZHpNdEVBazlNek9EcnpkVUduRU5XV3M1bm5ackRLUmkzTkItQXJ3bXBfQlB6bExZUVp3SGRKMHNFWnMzSDZSdlE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 12, 06:26 PM ET",
-    "publishedAt": "2026-08-12T22:26:37+00:00",
-    "source": "TechCrunch",
-    "title": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMEVNMnZGYXhTZUZwOUdOOEsxUGpaVnJNa1RGdkZ3SE9ldzRoaUF1cVFXcWJ5bzRvaXV1N2txOFAtTkt1andTTWdiZVY4UU92UTBqRHVQbXBYQzlaMVFCZ2dMamhoc05jckdPdnpycmE0SHQ4Snp2LTFMOTRqT3Q2cE5XNDUwREhzMEZBalpEaUhabzJzRFd3X20tQmlGLVlmYVJhb1k5cHpmbEd3dWNZQjhPTC03OVpMM0FhSDAxY1lLZkJMX0w4a3JMR0pBVDJySHVNMg?oc=5",
     "difficulty": "News"
   },
   {
@@ -112,9 +76,9 @@
     "label": "Claude Code",
     "time": "Aug 12, 07:47 AM ET",
     "publishedAt": "2026-08-12T11:47:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
@@ -192,6 +156,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 11, 08:34 AM ET",
+    "publishedAt": "2026-08-11T12:34:16+00:00",
+    "source": "InfoWorld",
+    "title": "Anthropic makes Claude Code’s auto mode default for paid users",
+    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkpOQlI3NlNCa3dpT2F4U3RkUXJPXzdiNHNGMEhWemhoNEo0dFNIaUhoVDVvV1VEX2VrbW1qMkFmV2hGSXlTQ3o3RDJ1MXU3QU52NTgxcUFhV3VkSjl6ZUwxYjVrV0E4Yi1mMm9mc005Wkw5Tkhxdjk1ZXNWYXhOZ25GQ1M5dF95MlAxaFFYRk9aZGtQdDlOU1dVZElJSEo5cXU3c19TSnByVzNm?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 11, 03:00 AM ET",
@@ -204,6 +180,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 10, 04:04 PM ET",
+    "publishedAt": "2026-08-10T20:04:24+00:00",
+    "source": "TechCrunch",
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGJYTk1PbFdGNTJnZ1NhbDVGNW9zNkxNRHdiX1RsOXlydDFfeWtTbnNQSTFlVGI4dnh0Ykl1Q1VSdVc0WVZ3blJyNVByMEstS01BcmZVSUcwTVZJNWFBNlFHMnVZSVZRSGljMG0yb3VEQXlGNVc2elZzTzNpb20zcUtHMkRtQUFVNnJ1TDRaVUh0dHlHQ0NlNmVOOHFMaEU?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 10, 07:04 AM ET",
@@ -213,6 +201,18 @@
     "summary": "ASUS Pressroom is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUFOVGJ3OUR2MHN4dTRXTnd2UFFnNXJzcFpWZnJ3dUtYc2cwTHgyb1BDQXRuellGN2FvVlFqTGtfUjRic0xiNmlueTVXUXFCNFpLRnpFMVZCZHRCdlp0VExjWTE1Z2F2TGNnb0lybHZFcHA5VW9FRURySk5FMzJOUW5Bcmd1dWJDenBzXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 10, 06:38 AM ET",
+    "publishedAt": "2026-08-10T10:38:00+00:00",
+    "source": "The Register",
+    "title": "Claude Code puts auto mode in the driver's seat",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFRoeWFJVWJXWHRrbU1pMUNJdzFFRnM4RklGcU5nWkR4ek9RNmU2QnFRVFg0NTBBaEczVFMtLWRPR1pHeENCQmlVdFRQT1Utbzg4d0lQMy1PLURzaEQ3cm1JWE1CcTlXQ2NVZVNyYWJLT3o0Y25XLVdFSm1BT2cweGJYWXdoakttb2JTR1RjZm04RjFMdTlvQTdUWlBwczViYlQzb1ln?oc=5",
     "difficulty": "News"
   },
   {
