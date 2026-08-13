@@ -16,9 +16,9 @@
     "label": "ChatGPT",
     "time": "Aug 13, 05:05 PM ET",
     "publishedAt": "2026-08-13T21:05:36+00:00",
-    "source": "TestingCatalog AI News",
+    "source": "testingcatalog.com",
     "title": "OpenAI previews Ultrafast API tier for GPT-5.6 Sol",
-    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "summary": "testingcatalog.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmRIbFRtZzBFUXM4WTZtYTBsX1BPelc5N2R0WHhQbG85OU1ieWNsU0lNSnp0QndIV3BaUDIxQXRITG1hM2tCaktyNmI3VkFCTmlOYlV1X203S1puMWlaN0ZnQTBPTDlCZTNGZ3dFVENCWEloNlJzeXZSWGZfVWxqcEJ5T1ZzRVU3M1E?oc=5",
     "difficulty": "News"
@@ -88,11 +88,23 @@
     "label": "Gemini",
     "time": "Aug 13, 01:47 PM ET",
     "publishedAt": "2026-08-13T17:47:41+00:00",
-    "source": "MarkTechPost",
+    "source": "marktechpost.com",
     "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "summary": "marktechpost.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSExpRlJxcV9abmdVR0VKRzJteG8yS0FHcWVHMFVkX05wTXZJT3BtRURfUVA3dG8tZm5QbGpndDNha0hQaXFUcHZhMnBRSkZGbmFUQ1ZSRDRMQ2dNVllUY2JpX1RZWVJWUXN6QW1YZXFqN1ZOdlpXX1BteEhQVU5HX09lSXB5RF9U0gGOAUFVX3lxTFBMazZ5TmVfMF9pVVlpamxqNzU0eTk5ei1CemJkMGgxa2d5M2s4WnJrMDVrX2VpUFpHSW9vUlRRdGJRS0ZFQ3diNzZqbFAtNHEtWnBkanprSEtiblp5dWYySTJzMjU0R3ZDcFJJaVZGSXdQREtYanhxSFF0UGVMS1B1YTQxVE9uX0xCbGVBV1E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 13, 01:38 PM ET",
+    "publishedAt": "2026-08-13T17:38:15+00:00",
+    "source": "InfoWorld",
+    "title": "Visual Studio Code 1.133 brings flexibility to Claude sessions",
+    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU0JvWFFIT2dZVzVOMTNFSHNHb2I1WU9Qa1gzRHk2UEZlb1hJZHdzSmRCY2lmbW16MklFRm1Wc1k1SmxDbWhrNTFybTBBQktHWjNXT2Z6ZE50b3I3X1JwT1dJN0EtYUdHUWlrS3h6RWZrRi1LVW5sMVYxQ0hraGNNbFp6NHNUd2FmRkVWNUpZYW52YXlFeXZUVFdMc0M0ZlU2c29XMy16N0FOX0NGblE?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,18 +273,6 @@
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 10, 04:04 PM ET",
-    "publishedAt": "2026-08-10T20:04:24+00:00",
-    "source": "TechCrunch",
-    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGJYTk1PbFdGNTJnZ1NhbDVGNW9zNkxNRHdiX1RsOXlydDFfeWtTbnNQSTFlVGI4dnh0Ykl1Q1VSdVc0WVZ3blJyNVByMEstS01BcmZVSUcwTVZJNWFBNlFHMnVZSVZRSGljMG0yb3VEQXlGNVc2elZzTzNpb20zcUtHMkRtQUFVNnJ1TDRaVUh0dHlHQ0NlNmVOOHFMaEU?oc=5",
     "difficulty": "News"
   },
   {
