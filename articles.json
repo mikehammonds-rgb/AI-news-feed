@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 13, 09:00 AM ET",
+    "publishedAt": "2026-08-13T13:00:12+00:00",
+    "source": "MakeUseOf",
+    "title": "5 Google AI Pro benefits you're not using (but should)",
+    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWVBSTc3ckR0emJjQ0tZcU95NldWdlVON2xpQ0wwQVFQd1U4X1hxWUFXNzNRRHcwN09DOFp0eW45UUVFVGg3OWh3bV83dFkzOUp6V0FBbXhmQUl6dF9kUlVYOHh4YW1oRXVkUzNFMFBIaEdoUFQ1c1F3cDU0dFU3ZUJB?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 13, 07:37 AM ET",
@@ -84,18 +96,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 12, 01:26 PM ET",
-    "publishedAt": "2026-08-12T17:26:00+00:00",
-    "source": "New York Post",
-    "title": "Sorry, students: Anthropic adding watermarks to AI-generated content, potentially making cheating harder",
-    "summary": "New York Post is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2xvQVUzcVNPcFotSHB4VTdmS1JWclAwY1pBLTZqemI3SFY4WHJFemNsRVM4bURrWmlKNW1XWGp2TFMzc211LVBpS2E5Q0IwaUdGV2xZcVZuN292dTlRVGJfN1dYZ3p3OGdiRTluR1BaSl9MRHRmTmdxcFhiQU5YbkJjSGZ3dVowVnVWWGcwbDFmWFhKbDY2MlpIZnFIX0QxZnNRTFpTeVFZNXhqck9iZWxwTQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 12, 10:53 AM ET",
@@ -112,9 +112,9 @@
     "label": "Claude Code",
     "time": "Aug 12, 07:47 AM ET",
     "publishedAt": "2026-08-12T11:47:00+00:00",
-    "source": "The Hacker News",
+    "source": "thehackernews.com",
     "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
@@ -122,23 +122,11 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 12, 03:56 AM ET",
-    "publishedAt": "2026-08-12T07:56:41+00:00",
-    "source": "trendingtopics.eu",
-    "title": "Gemini and ChatGPT Both Hit 1 Billion Users",
-    "summary": "trendingtopics.eu is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tYzc4dnNtUms2R1pTOEVTOThvUFROaXBxN1dZbTVqRHJ5a1FvWFBjQy12OE1OY2drckd0TDdBVXByMHlrOTJCUGxyZjI5UlpRTks4Z3E3NTVCRDRUZkdNRDkxZEoxejlZZUVhUHh5UnBTd2E1RjNXN29Ib1Axa2s?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Aug 11, 06:50 PM ET",
     "publishedAt": "2026-08-11T22:50:45+00:00",
-    "source": "siliconangle.com",
+    "source": "SiliconANGLE",
     "title": "Google’s Gemini AI app passes 1 billion monthly active users",
-    "summary": "siliconangle.com is reporting this update. Open the article for the full story.",
+    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDlPbUxhN1pUcFBPbHFNX3BVZG9DLUlzRVhwSFZIcTMwSkJVN1hZWGVobUVvYktvR25iWVFCbEVoN1MtdDJsWWhNei03ZXpQVmVlMHpQYmVZbUQ3NEhxenF3WVBGbm5XV2dZa3ktd0FOYXJJSktwOXYwdGItR085c0NpcWI2WmpEdTF0Wk84NkozUW4wd1FyMXdnbjU?oc=5",
     "difficulty": "News"
@@ -216,18 +204,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 10, 07:27 PM ET",
-    "publishedAt": "2026-08-10T23:27:17+00:00",
-    "source": "SitePoint",
-    "title": "Getting Started with GPT-5.6 Luna: A Developer's Guide",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81NTFKWVJZSW5pMVlMRk9iRmlVbWdSYlhNaTFtTFB0Z0dlQ1YtZ2h3VTRHRnhuby1KZXVRWFRIR2V2QXZKNnA5bjg3WE9QaHN4S2VFQ2ZEdVhkdVBK?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 10, 07:04 AM ET",
@@ -237,6 +213,18 @@
     "summary": "ASUS Pressroom is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUFOVGJ3OUR2MHN4dTRXTnd2UFFnNXJzcFpWZnJ3dUtYc2cwTHgyb1BDQXRuellGN2FvVlFqTGtfUjRic0xiNmlueTVXUXFCNFpLRnpFMVZCZHRCdlp0VExjWTE1Z2F2TGNnb0lybHZFcHA5VW9FRURySk5FMzJOUW5Bcmd1dWJDenBzXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 10, 05:13 AM ET",
+    "publishedAt": "2026-08-10T09:13:29+00:00",
+    "source": "Help Net Security",
+    "title": "Anthropic to put AI in charge of reviewing Claude Code actions by default",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemhYelZlbmhJajAxR1hUSHk3czgybWVvel9fVUg2VUs1RmtGWmh0VVRJRGFUay1pWVdwUkoyTnZqazJiZWZlOGU0NHhCZHNESExCNmZBNFEzSWtWcFlkZTNQRW5BNmJRU2c5QWRrenEtX0g3RlVsV3BfLW0tTEdVSw?oc=5",
     "difficulty": "News"
   },
   {
@@ -285,6 +273,18 @@
     "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3NPSndEa0h4LUR2bDlCdnd5a2ZEZ3h0RWh5R0l6QVczak5jSHp5cWgxTXZMSzl3NGx4dHdDNmdwVEFyWWhsSU1VVFhEWXpHNnJDMjlkWG9LMy1DRVcySTQzNTNrLUV2ZlBLek01a3RGSGZnWVhnbWtlTXNRNlhkOWNveUFWWVI4c1R3TFpWLTBzYjBaWlhIZVQ2SzBCX0oxMWd0Um1yZUhVckFVNGJqaGVPVm1QQ2k5WHJHZlk5UFRSdW41QTRJ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 07, 12:17 PM ET",
+    "publishedAt": "2026-08-07T16:17:00+00:00",
+    "source": "Fortune",
+    "title": "The Hugging Face hack is now a PR crisis that’s costing OpenAI millions",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHFSMS1GclM5U1E4SHFPUXlDQ25sSE5BQUxTQ1VuQVAtcW5xXzR4ZDNCQ25RWkd4MEtCMU1YdmNDT1E0cFMzRWRvODdQdVZybE5wTUt1SDIya2NRbi1rclRwbU1qU05YOFJHX19KWWE1QlVzOWlqQkZac0stSDU0M1J5NmRFcG1xWFpOWklwZHozdUhfcWk4ZFh4RmxJakxyQ2NzQg?oc=5",
     "difficulty": "News"
   },
   {
