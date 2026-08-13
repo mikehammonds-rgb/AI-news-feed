@@ -2,13 +2,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 12, 09:43 PM ET",
-    "publishedAt": "2026-08-13T01:43:45+00:00",
-    "source": "Mashable",
-    "title": "Claude to start watermarking AI-generated content",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "time": "Aug 13, 04:56 AM ET",
+    "publishedAt": "2026-08-13T08:56:00+00:00",
+    "source": "finance.biggo.com",
+    "title": "Toss Securities Launches Conversational Stock Trading Open API Integrated with ChatGPT and Claude",
+    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xekt4TXJsSDFGVUQ3bUlweldEZkJiN0xDNjNybUpfd29TTVZSN290Sk1lSFRhUVJpYjUzMC1qcVI3Z1YyNTV1NGh1WmpZQzBrWjlTVUtGS1ZUX3AtV0dwRlE1SGZXQ20wMXJ3cnlRNjVkX05IYVE?oc=5",
     "difficulty": "News"
   },
   {
@@ -88,9 +88,9 @@
     "label": "Claude Code",
     "time": "Aug 12, 10:30 AM ET",
     "publishedAt": "2026-08-12T14:30:46+00:00",
-    "source": "MacRumors",
+    "source": "macrumors.com",
     "title": "Claude Outage Currently Affecting Multiple AI Models",
-    "summary": "MacRumors is reporting this update. Open the article for the full story.",
+    "summary": "macrumors.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY3Z6a0VKYjgtUTlUbUVTUUJEQjBaTlpJUU9fc016QkhtSUlYYmpPeGt0UWpjbktWNmZMejBVZ2pmWGV2dGFHczBWRmhFMEgxX2IyLUZGUzExNjN4bllLcW1lUTI0R2p3TF9oM1FYZ2xSRzlHOUJRNkNJdEJpd254RWlnSQ?oc=5",
     "difficulty": "News"
@@ -180,6 +180,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 11, 09:53 AM ET",
+    "publishedAt": "2026-08-11T13:53:51+00:00",
+    "source": "Mashable",
+    "title": "Claude to start watermarking AI-generated content",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 10, 07:27 PM ET",
@@ -261,18 +273,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFllWnRiM0M0S0FNWlVDcElWNnpGdnFMUERkOVVMSHpfWnFMbU4ta1Q3bGhIbUFITFRWdTZnMWVDVzU2anh0OUU5LWIxSDlUWFhOeGIyMGt3cDVYeTNZQzJURUlwc2hldEY0SHFpcU5mZkNnd3hyaVNNNVVhOTFpYTJRU1c2dkhXVG1ESnhjMmY4WGlmV0VMeQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 04, 12:06 PM ET",
-    "publishedAt": "2026-08-04T16:06:20+00:00",
-    "source": "developers.googleblog.com",
-    "title": "Model routing with Google Cloud API Gateway",
-    "summary": "developers.googleblog.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ajF2SnZGcndhTkIyOTJoS3Flc2xjM1c0ZWxwalhaN3ZEcWFzY0k0TElHS2hjYlJuUFNJQzgtdEFWTjZxSG9OcXg5NlRlcFQ5UHJiMzJVUTRKSE9CRzFzWXVkcjNrMlNEWTFHa21aQmFWX2docmpBdQ?oc=5",
     "difficulty": "News"
   },
   {
