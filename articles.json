@@ -60,6 +60,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 13, 02:24 PM ET",
+    "publishedAt": "2026-08-13T18:24:35+00:00",
+    "source": "OpenAI",
+    "title": "The builder’s guide to GPT‑5.6",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tMWFtaDR2X0I2UjdDcjFYRkJTTXE2cnNqSk1sVnIwMzR5MHl1M3FTVEkxaGEyMjI2ekZ1d2VTNGx2VnVYMlhPU3lvamJBSS15YzlfY0lFaGVmRkV3b0N4ZA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 13, 02:02 PM ET",
@@ -164,7 +176,7 @@
     "title": "Microsoft begins to merge consumer and enterprise Copilot apps in push for super app",
     "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemhfVVdDSzZQczJQWXR6eG10TzdKTjYzc0trUm9zRV9UWkl4ZzJEaFhDWkYxLTFWQVREZVhrWDVyaWZwQWRiS1MxVWI2bVNDMjRTZk1TVTJQRDBLOEF2Y2t0S3owakQzY29ITmlUazZ1QVN0U3pTbmhRVnlmSzJIUXBGaDk2R2g4OUNnSnFlV2RzWmt1aU5hT3lR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFBXSENDYTVMLTdTOW8zVVJuMzViSGltb2pXTlQ4OW1yMmdEbTlnLURqMVpid2oxZGl3ZVBvekJfRjdhcEgzaHBjQWJRVFVNTkNyV2V1bVFwY0hsU25LLVcyMWxkV0NxZmhDS05LR0NEY3kxN1ZDTzBYRU05WlNSU3Z2Q0ZWMXJ2a3lzejlUVGhSZENXOUwtUTRsMXlsbU02QU1uT2JGX0x6a2o0Q2c?oc=5",
     "difficulty": "News"
   },
   {
@@ -189,18 +201,6 @@
     "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnJ3dFoxSl9YdWhLa2lYaHg4Y3hNR1pjNFVfcnh5SE1XdVpSSmp2cTFGSkR2eDNQN3EtZXZOc09RTWhmZmVKcGtQOW5EUjZJT09zaWs5R0NoaVJHTHFzWG1xOC1aeHhwd1R5eGtfWVFCYWdablNPOUtpS2hxMEh0blVMWEpZdTd4bjFscHo2SXE4Z0gxb2RlZnVlMmp2NE9XV3RSbQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 13, 04:56 AM ET",
-    "publishedAt": "2026-08-13T08:56:00+00:00",
-    "source": "finance.biggo.com",
-    "title": "Toss Securities Launches Conversational Stock Trading Open API Integrated with ChatGPT and Claude",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xekt4TXJsSDFGVUQ3bUlweldEZkJiN0xDNjNybUpfd29TTVZSN290Sk1lSFRhUVJpYjUzMC1qcVI3Z1YyNTV1NGh1WmpZQzBrWjlTVUtGS1ZUX3AtV0dwRlE1SGZXQ20wMXJ3cnlRNjVkX05IYVE?oc=5",
     "difficulty": "News"
   },
   {
@@ -256,9 +256,9 @@
     "label": "Claude Code",
     "time": "Aug 11, 09:53 AM ET",
     "publishedAt": "2026-08-11T13:53:51+00:00",
-    "source": "mashable.com",
+    "source": "Mashable",
     "title": "Claude to start watermarking AI-generated content",
-    "summary": "mashable.com is reporting this update. Open the article for the full story.",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
     "difficulty": "News"
@@ -316,9 +316,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 08, 03:00 AM ET",
     "publishedAt": "2026-08-08T07:00:00+00:00",
-    "source": "hostinger.com",
+    "source": "Hostinger",
     "title": "12 best Cursor alternatives for web development with AI",
-    "summary": "hostinger.com is reporting this update. Open the article for the full story.",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oSUg0aWd1MmdMUllWTi00WE5vVm5kZkRkbVJWWTFZc2NWc2w4Z1J0STZWX0k1bnIwbk1uLXJqLU1nS0dJZ3FKRG9FUU5ZeVVhckFVam1sbHFoVlF1VkJWSTU2cld3UDhfa3Yw?oc=5",
     "difficulty": "News"
@@ -345,18 +345,6 @@
     "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 24, 03:00 AM ET",
-    "publishedAt": "2026-07-24T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmt3Qk5lbXM3TzZyRlRwVHllQk9vVFkzWldzdXJ1dkxDQTFBdnJDUHFoTFU3NkYtRXNKaEFaYU1YTFE3MVREazdTZjRKUHhjZEptZHA3VEMxZTVrYUM4ZWtmcmptekgyd08wMmxYdE5wTUloQlFDR3hRNmZTLTVkc0dQaFVpZ0xpUzNvNUowcENVdnRDaGtMYmVKN3MzWDVtVFVqbXpaYjhJeTFRLUtVVzAxY0djZw?oc=5",
     "difficulty": "News"
   },
   {
