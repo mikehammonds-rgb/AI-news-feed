@@ -1,14 +1,14 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 14, 08:09 AM ET",
-    "publishedAt": "2026-08-14T12:09:00+00:00",
-    "source": "finance.biggo.com",
-    "title": "Anthropic's Claude watermarks can be broken by a grammar check, developer Theo says",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 14, 06:55 AM ET",
+    "publishedAt": "2026-08-14T10:55:58+00:00",
+    "source": "helpnetsecurity.com",
+    "title": "OpenAI’s GPT-5.6 Sol runs up to 14× faster with Ultrafast mode",
+    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzVFNNckxRay1SVDhlVnZSbjJHZE9rT3NqSEw3WklDdWRxN3g4YmlFcG9IbjZRQldhSmtsTkZkRDcwNTV5N0NmVXo3X1RfTzN6Tk4wRnZIWHBoSTg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnJKVGM2Tmg3b1h3S1ZiYkVOYmRsN1VYM0dzZnpFVC15a2RkYlU5QWpHMFcyOWhacWxIMEo1c2pxSnh1NDFtbmtBVkxmcnZnUXNiYTlyU2JyM21KT2wxMEhvaHBfQU9rQ19XZVhtbFpLcTdlOEFoakxCZ2stdzJQZFF4VDBsSGR2YXoxYjJJZ1pJN2kyalNzeHlrWWY0cmVDVGItUFFZejY?oc=5",
     "difficulty": "News"
   },
   {
@@ -40,9 +40,9 @@
     "label": "Gemini",
     "time": "Aug 14, 04:55 AM ET",
     "publishedAt": "2026-08-14T08:55:32+00:00",
-    "source": "techzine.eu",
+    "source": "Techzine Global",
     "title": "Google Gemini 3.7 Flash gets stronger in development",
-    "summary": "techzine.eu is reporting this update. Open the article for the full story.",
+    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1BkVGJ1VFdrVDd1ZnBKbmNoakRVR2xKSW4zRTRWSl9iWmJZX1Ffdi1wXzVTd3VRVEstbjhWZjZxNlVQakJoZFhRM0w0UkNMQjNXdmk0SEJCRkxPcUJoQmdqWlVhZUI4TTZ2eFFMRVBPNXZxQmpldXA0dEk5VnNBWlY4QUw3X1JzNVJrVVhJckpuWmlYODRDTk9qcGh5U19I?oc=5",
     "difficulty": "News"
@@ -52,9 +52,9 @@
     "label": "ChatGPT",
     "time": "Aug 14, 04:47 AM ET",
     "publishedAt": "2026-08-14T08:47:30+00:00",
-    "source": "cybersecuritynews.com",
+    "source": "CyberSecurityNews",
     "title": "OpenAI Unveils Ultrafast Mode in GPT‑5.6 Sol That Works 14× Faster Than Standard Mode",
-    "summary": "cybersecuritynews.com is reporting this update. Open the article for the full story.",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYVJOZFZLSzRMS2FBQmhic2NGN01NOEFwUDhHdDBrNm84WFdrMlZYMlM4SXpMME9GTC01dVdwMFRmR3JkU3B2S1lWdkx5WGM5VS1mOGpzR1cwX1pzVTFFYnVVbGFHOEdSSTJsV1NQYmRvblZnM2dTck8xVi1fbmtlcNIB1AJBVV95cUxNdG1Xa2VsSjFEN1dlZ2NucVpFTHI5MjNndlN1VWdBaGJ0bWNIVWkwUjVyb0lmVjFkWU9fZkY2eFlLQ1RXR29pQmN0SXZhbW1aUmw1TS1RWmZoc1RtR2MtcTJpdEppcVRodjdXOUNSX2ZSUXpkaU9xclFvRm9EZEo1amdjN0Ric3hJd3A4bVhOWDRqYzd6SlVTRGpXRWJ4YlJqV0pLYk5mSUpLWWN4YlNzbFlldGhHQTVGRE10R0tTWF84TGFzcGsyYjVZeFdXenpGVGJGNEd4NWJ4d0NLR2I2alF2UUJWZllmMVMyaGlVOTZVNXk2UWlQZzVtUFlFMV9ZamQtMkdidEN2Z0Q1SGNSUi1Jd3B4aXlsOHJuRm5vWHhQZzN0STI1dnkxanUtSVJVakdtX3E2a2t3RXhQM0RpbVlvM3BmV0kzRllFYll1SHpqUjIt?oc=5",
     "difficulty": "News"
@@ -148,9 +148,9 @@
     "label": "ChatGPT",
     "time": "Aug 13, 01:02 PM ET",
     "publishedAt": "2026-08-13T17:02:46+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
     "difficulty": "News"
@@ -240,6 +240,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 12, 03:52 AM ET",
+    "publishedAt": "2026-08-12T07:52:14+00:00",
+    "source": "The Next Web",
+    "title": "Anthropic starts marking all of Claude’s output worldwide as EU transparency rules take effect",
+    "summary": "The Next Web is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGZuSWswRVlRNVVwVnBOMDRwNG5FZTA4elRJdW0xYXNzenRVQmFzOVRSRjhncDctd3dTNTd4Rmlmei02N01GNkZ2MXVOYmpMcEZkc3doUHZrN0l5aEh3YVRDTEYzX3d2UkxrSjJ2MHZDMzFEWGcxM2VvaUtoZkFTWlllTDJFcTZ6QUNR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 11, 06:50 PM ET",
@@ -264,6 +276,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 11, 03:09 PM ET",
+    "publishedAt": "2026-08-11T19:09:26+00:00",
+    "source": "Stocktwits",
+    "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
+    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 11, 02:45 PM ET",
@@ -280,35 +304,11 @@
     "label": "Claude Code",
     "time": "Aug 11, 09:53 AM ET",
     "publishedAt": "2026-08-11T13:53:51+00:00",
-    "source": "Mashable",
+    "source": "mashable.com",
     "title": "Claude to start watermarking AI-generated content",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "summary": "mashable.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 09, 03:39 PM ET",
-    "publishedAt": "2026-08-09T19:39:00+00:00",
-    "source": "The Tech Buzz",
-    "title": "Anthropic Makes Claude Code Fully Autonomous by Default",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2JlMW9HaC1pVy1pM0JGRl9qcnE3aDZQRW13QnB2NWR3SFZSTksyUy11bGp3a3I3NjdaZHdvalZ2LWw5OUtLY2lMT09tYndNd1ZrOEQ0VmZlbnpfdVhtTDV2TVp2djhRN1diSUZ1SVotSmQ0N3prMnk2cGpvaGN6M1NqOVE0SDB3N0NRMDh0YkdoQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 07, 01:47 PM ET",
-    "publishedAt": "2026-08-07T17:47:06+00:00",
-    "source": "paloaltonetworks.com",
-    "title": "Strengthening Security of AI Coding: Prisma AIRS API Integration with OpenAI Codex",
-    "summary": "paloaltonetworks.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3NPSndEa0h4LUR2bDlCdnd5a2ZEZ3h0RWh5R0l6QVczak5jSHp5cWgxTXZMSzl3NGx4dHdDNmdwVEFyWWhsSU1VVFhEWXpHNnJDMjlkWG9LMy1DRVcySTQzNTNrLUV2ZlBLek01a3RGSGZnWVhnbWtlTXNRNlhkOWNveUFWWVI4c1R3TFpWLTBzYjBaWlhIZVQ2SzBCX0oxMWd0Um1yZUhVckFVNGJqaGVPVm1QQ2k5WHJHZlk5UFRSdW41QTRJ?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,6 +345,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 22, 03:00 AM ET",
+    "publishedAt": "2026-06-22T07:00:00+00:00",
+    "source": "The New Stack",
+    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
     "difficulty": "News"
   },
   {
