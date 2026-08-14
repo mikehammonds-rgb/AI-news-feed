@@ -2,8 +2,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 14, 05:33 PM ET",
-    "publishedAt": "2026-08-14T21:33:45+00:00",
+    "time": "Aug 14, 05:34 PM ET",
+    "publishedAt": "2026-08-14T21:34:49+00:00",
     "source": "the-decoder.com",
     "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
@@ -112,23 +112,11 @@
     "label": "ChatGPT",
     "time": "Aug 13, 05:05 PM ET",
     "publishedAt": "2026-08-13T21:05:36+00:00",
-    "source": "TestingCatalog AI News",
+    "source": "testingcatalog.com",
     "title": "OpenAI previews Ultrafast API tier for GPT-5.6 Sol",
-    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "summary": "testingcatalog.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmRIbFRtZzBFUXM4WTZtYTBsX1BPelc5N2R0WHhQbG85OU1ieWNsU0lNSnp0QndIV3BaUDIxQXRITG1hM2tCaktyNmI3VkFCTmlOYlV1X203S1puMWlaN0ZnQTBPTDlCZTNGZ3dFVENCWEloNlJzeXZSWGZfVWxqcEJ5T1ZzRVU3M1E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 13, 02:24 PM ET",
-    "publishedAt": "2026-08-13T18:24:35+00:00",
-    "source": "OpenAI",
-    "title": "The builder’s guide to GPT‑5.6",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tMWFtaDR2X0I2UjdDcjFYRkJTTXE2cnNqSk1sVnIwMzR5MHl1M3FTVEkxaGEyMjI2ekZ1d2VTNGx2VnVYMlhPU3lvamJBSS15YzlfY0lFaGVmRkV3b0N4ZA?oc=5",
     "difficulty": "News"
   },
   {
@@ -285,6 +273,18 @@
     "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTVhQkpPVGFnb3lvVXZ1UHRHOXFVNTB5eVIxUXc4b2xiNFpOVFY1QVBpN18tMm1sVDdwSTlGcEljQ2tIazZkMFlWZjM1bURnT2xmT0s4UWJlWTdVUHVTQ2ZtcVI5UW5FVkluZGpVREFoT29SMGNMaVlYRUVPZDFnX2hVdVlCQ2FBWVVnRTk4MGgyOXZFdmFXa2E0U1p1YmdLSDQ2bEFWTzJ2MDdoQnhvVUd2bVp3dFdu?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 11, 03:09 PM ET",
+    "publishedAt": "2026-08-11T19:09:26+00:00",
+    "source": "Stocktwits",
+    "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
+    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
     "difficulty": "News"
   },
   {
