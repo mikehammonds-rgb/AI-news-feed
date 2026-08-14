@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 14, 05:33 PM ET",
+    "publishedAt": "2026-08-14T21:33:45+00:00",
+    "source": "the-decoder.com",
+    "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUJzZTFsVWJJelhZdVFFZUFiV2dhc0N5SGhBb0stTWNWMWNzQnBwN0EzLW9VbnNJbHQ1VERQM01tWEp3SE9iLTJwdHpQSkZDVExSb0FyeFR5b2hvN1BEME4yZXJZY0F0RElIWG14X1RKTGhGNW54RVplYk1CUldsMVRzWUJyYlpZbUNoTGo4WV80RldOUnkxdm5HRExOSDkzRW1tR2tvVWdTOG1FUktuSjNvTkhSa1BIMmZrcQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 14, 02:00 PM ET",
@@ -40,9 +52,9 @@
     "label": "ChatGPT",
     "time": "Aug 14, 11:54 AM ET",
     "publishedAt": "2026-08-14T15:54:14+00:00",
-    "source": "techtimes.com",
+    "source": "Tech Times",
     "title": "GPT-5.6 Sol Now Runs at Real-Time Speed: OpenAI's Ultrafast Preview Offers No Price or Date",
-    "summary": "techtimes.com is reporting this update. Open the article for the full story.",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWk9sQXdaZ0YyandzRm4wWDhuRFczSkdVUDQ2azI4WWVUTXlzRy1hR3RBa2tTZW13TGdtNFozXzVMT21JTDJSd0daYVhLNk9jQ1lGUk9IbFh6b1VIdTRaWEswVklrOUhJSXhVVHV1NHFIYlVMd3Q2MlRmYk1Od0FTMDJDNEJ1M3g4akctZ0tLdU5LUVpqYk5wcEJiM2k0U2drSTJqb3dvRUJfRzMzcm9MajViMUd6RjM3MGw2cGRnSWZwcjRwWGJvQXhlaHlXVklIUWdB?oc=5",
     "difficulty": "News"
@@ -76,9 +88,9 @@
     "label": "Gemini",
     "time": "Aug 14, 04:55 AM ET",
     "publishedAt": "2026-08-14T08:55:32+00:00",
-    "source": "techzine.eu",
+    "source": "Techzine Global",
     "title": "Google Gemini 3.7 Flash gets stronger in development",
-    "summary": "techzine.eu is reporting this update. Open the article for the full story.",
+    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1BkVGJ1VFdrVDd1ZnBKbmNoakRVR2xKSW4zRTRWSl9iWmJZX1Ffdi1wXzVTd3VRVEstbjhWZjZxNlVQakJoZFhRM0w0UkNMQjNXdmk0SEJCRkxPcUJoQmdqWlVhZUI4TTZ2eFFMRVBPNXZxQmpldXA0dEk5VnNBWlY4QUw3X1JzNVJrVVhJckpuWmlYODRDTk9qcGh5U19I?oc=5",
     "difficulty": "News"
@@ -88,9 +100,9 @@
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
     "publishedAt": "2026-08-14T07:30:00+00:00",
-    "source": "The Register",
+    "source": "theregister.com",
     "title": "Claude Code returns blank thinking blocks, but reasoning still costs you",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "summary": "theregister.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
     "difficulty": "News"
@@ -112,9 +124,9 @@
     "label": "ChatGPT",
     "time": "Aug 13, 05:05 PM ET",
     "publishedAt": "2026-08-13T21:05:36+00:00",
-    "source": "TestingCatalog AI News",
+    "source": "testingcatalog.com",
     "title": "OpenAI previews Ultrafast API tier for GPT-5.6 Sol",
-    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "summary": "testingcatalog.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmRIbFRtZzBFUXM4WTZtYTBsX1BPelc5N2R0WHhQbG85OU1ieWNsU0lNSnp0QndIV3BaUDIxQXRITG1hM2tCaktyNmI3VkFCTmlOYlV1X203S1puMWlaN0ZnQTBPTDlCZTNGZ3dFVENCWEloNlJzeXZSWGZfVWxqcEJ5T1ZzRVU3M1E?oc=5",
     "difficulty": "News"
@@ -177,18 +189,6 @@
     "summary": "Ars Technica is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjZPd0hkSXZpM1RMMmo3bHBwLUVOUVp1dHkwTDB0bWdhdFhpV1lROUVrOW9GWmhxSWVpQzhOZmJJbUxGSThqS29XNVJjLV82NVBZY1U1N2lDX0NJOERwaWFWRjNQRlpUY1V3SWk0SXF4U3BxQUFkUEZ1aGxSVS1qY2QwYnZCOS1iYUtwNTdLcUE2RnV6MDYyb3Z1SDhNNFlLTDAyNndPLWtLaUwyWnc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 13, 01:00 PM ET",
-    "publishedAt": "2026-08-13T17:00:00+00:00",
-    "source": "GlobeNewswire",
-    "title": "Cerebras Powers Ultrafast Mode for OpenAI’s GPT-5.6 Sol",
-    "summary": "GlobeNewswire is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0xMVXpCb29idTgzTDM1bTNmbEVjUU8zc1oyRWtVcFpvenhVTzEySmpYblAyNnZRN3ZZcDhfclp6ZGhMMU1JenlyM3A4cmVoZXBVZ0ZiaTZJRHVBM3VSLUZIYnNNX1poZ3ZwcDlCTjZBZ3JETDNTb0tpemVmblhIVmxoRlhJaUtOTXlJemxROUZLSHRJVDJjYm05c2l4Ylg2VlZ6Sm8xUmJXaTF2YnVDNTNrR3hvaHI5Q1lKaDJTZzhOVUJONEE?oc=5",
     "difficulty": "News"
   },
   {
@@ -268,9 +268,9 @@
     "label": "ChatGPT",
     "time": "Aug 11, 03:09 PM ET",
     "publishedAt": "2026-08-11T19:09:26+00:00",
-    "source": "Stocktwits",
+    "source": "stocktwits.com",
     "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
-    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
+    "summary": "stocktwits.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
     "difficulty": "News"
@@ -312,15 +312,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 10, 05:13 AM ET",
-    "publishedAt": "2026-08-10T09:13:29+00:00",
-    "source": "Help Net Security",
-    "title": "Anthropic to put AI in charge of reviewing Claude Code actions by default",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 07, 01:47 PM ET",
+    "publishedAt": "2026-08-07T17:47:06+00:00",
+    "source": "Palo Alto Networks",
+    "title": "Strengthening Security of AI Coding: Prisma AIRS API Integration with OpenAI Codex",
+    "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemhYelZlbmhJajAxR1hUSHk3czgybWVvel9fVUg2VUs1RmtGWmh0VVRJRGFUay1pWVdwUkoyTnZqazJiZWZlOGU0NHhCZHNESExCNmZBNFEzSWtWcFlkZTNQRW5BNmJRU2c5QWRrenEtX0g3RlVsV3BfLW0tTEdVSw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3NPSndEa0h4LUR2bDlCdnd5a2ZEZ3h0RWh5R0l6QVczak5jSHp5cWgxTXZMSzl3NGx4dHdDNmdwVEFyWWhsSU1VVFhEWXpHNnJDMjlkWG9LMy1DRVcySTQzNTNrLUV2ZlBLek01a3RGSGZnWVhnbWtlTXNRNlhkOWNveUFWWVI4c1R3TFpWLTBzYjBaWlhIZVQ2SzBCX0oxMWd0Um1yZUhVckFVNGJqaGVPVm1QQ2k5WHJHZlk5UFRSdW41QTRJ?oc=5",
     "difficulty": "News"
   },
   {
