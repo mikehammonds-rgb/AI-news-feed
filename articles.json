@@ -2,8 +2,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 14, 08:12 AM ET",
-    "publishedAt": "2026-08-14T12:12:03+00:00",
+    "time": "Aug 14, 08:09 AM ET",
+    "publishedAt": "2026-08-14T12:09:00+00:00",
     "source": "finance.biggo.com",
     "title": "Anthropic's Claude watermarks can be broken by a grammar check, developer Theo says",
     "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
@@ -40,9 +40,9 @@
     "label": "Gemini",
     "time": "Aug 14, 04:55 AM ET",
     "publishedAt": "2026-08-14T08:55:32+00:00",
-    "source": "Techzine Global",
+    "source": "techzine.eu",
     "title": "Google Gemini 3.7 Flash gets stronger in development",
-    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "summary": "techzine.eu is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1BkVGJ1VFdrVDd1ZnBKbmNoakRVR2xKSW4zRTRWSl9iWmJZX1Ffdi1wXzVTd3VRVEstbjhWZjZxNlVQakJoZFhRM0w0UkNMQjNXdmk0SEJCRkxPcUJoQmdqWlVhZUI4TTZ2eFFMRVBPNXZxQmpldXA0dEk5VnNBWlY4QUw3X1JzNVJrVVhJckpuWmlYODRDTk9qcGh5U19I?oc=5",
     "difficulty": "News"
@@ -52,9 +52,9 @@
     "label": "ChatGPT",
     "time": "Aug 14, 04:47 AM ET",
     "publishedAt": "2026-08-14T08:47:30+00:00",
-    "source": "CyberSecurityNews",
+    "source": "cybersecuritynews.com",
     "title": "OpenAI Unveils Ultrafast Mode in GPT‑5.6 Sol That Works 14× Faster Than Standard Mode",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "summary": "cybersecuritynews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYVJOZFZLSzRMS2FBQmhic2NGN01NOEFwUDhHdDBrNm84WFdrMlZYMlM4SXpMME9GTC01dVdwMFRmR3JkU3B2S1lWdkx5WGM5VS1mOGpzR1cwX1pzVTFFYnVVbGFHOEdSSTJsV1NQYmRvblZnM2dTck8xVi1fbmtlcNIB1AJBVV95cUxNdG1Xa2VsSjFEN1dlZ2NucVpFTHI5MjNndlN1VWdBaGJ0bWNIVWkwUjVyb0lmVjFkWU9fZkY2eFlLQ1RXR29pQmN0SXZhbW1aUmw1TS1RWmZoc1RtR2MtcTJpdEppcVRodjdXOUNSX2ZSUXpkaU9xclFvRm9EZEo1amdjN0Ric3hJd3A4bVhOWDRqYzd6SlVTRGpXRWJ4YlJqV0pLYk5mSUpLWWN4YlNzbFlldGhHQTVGRE10R0tTWF84TGFzcGsyYjVZeFdXenpGVGJGNEd4NWJ4d0NLR2I2alF2UUJWZllmMVMyaGlVOTZVNXk2UWlQZzVtUFlFMV9ZamQtMkdidEN2Z0Q1SGNSUi1Jd3B4aXlsOHJuRm5vWHhQZzN0STI1dnkxanUtSVJVakdtX3E2a2t3RXhQM0RpbVlvM3BmV0kzRllFYll1SHpqUjIt?oc=5",
     "difficulty": "News"
@@ -93,18 +93,6 @@
     "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmRIbFRtZzBFUXM4WTZtYTBsX1BPelc5N2R0WHhQbG85OU1ieWNsU0lNSnp0QndIV3BaUDIxQXRITG1hM2tCaktyNmI3VkFCTmlOYlV1X203S1puMWlaN0ZnQTBPTDlCZTNGZ3dFVENCWEloNlJzeXZSWGZfVWxqcEJ5T1ZzRVU3M1E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 13, 02:24 PM ET",
-    "publishedAt": "2026-08-13T18:24:35+00:00",
-    "source": "OpenAI",
-    "title": "The builder’s guide to GPT‑5.6",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tMWFtaDR2X0I2UjdDcjFYRkJTTXE2cnNqSk1sVnIwMzR5MHl1M3FTVEkxaGEyMjI2ekZ1d2VTNGx2VnVYMlhPU3lvamJBSS15YzlfY0lFaGVmRkV3b0N4ZA?oc=5",
     "difficulty": "News"
   },
   {
@@ -244,9 +232,9 @@
     "label": "Claude Code",
     "time": "Aug 12, 07:47 AM ET",
     "publishedAt": "2026-08-12T11:47:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
@@ -261,6 +249,18 @@
     "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDlPbUxhN1pUcFBPbHFNX3BVZG9DLUlzRVhwSFZIcTMwSkJVN1hZWGVobUVvYktvR25iWVFCbEVoN1MtdDJsWWhNei03ZXpQVmVlMHpQYmVZbUQ3NEhxenF3WVBGbm5XV2dZa3ktd0FOYXJJSktwOXYwdGItR085c0NpcWI2WmpEdTF0Wk84NkozUW4wd1FyMXdnbjU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 11, 05:35 PM ET",
+    "publishedAt": "2026-08-11T21:35:10+00:00",
+    "source": "CNET",
+    "title": "Anthropic’s Claude Will Add Watermarks to AI-Generated Text and Files",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTVhQkpPVGFnb3lvVXZ1UHRHOXFVNTB5eVIxUXc4b2xiNFpOVFY1QVBpN18tMm1sVDdwSTlGcEljQ2tIazZkMFlWZjM1bURnT2xmT0s4UWJlWTdVUHVTQ2ZtcVI5UW5FVkluZGpVREFoT29SMGNMaVlYRUVPZDFnX2hVdVlCQ2FBWVVnRTk4MGgyOXZFdmFXa2E0U1p1YmdLSDQ2bEFWTzJ2MDdoQnhvVUd2bVp3dFdu?oc=5",
     "difficulty": "News"
   },
   {
@@ -290,18 +290,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 10, 05:13 AM ET",
-    "publishedAt": "2026-08-10T09:13:29+00:00",
-    "source": "Help Net Security",
-    "title": "Anthropic to put AI in charge of reviewing Claude Code actions by default",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemhYelZlbmhJajAxR1hUSHk3czgybWVvel9fVUg2VUs1RmtGWmh0VVRJRGFUay1pWVdwUkoyTnZqazJiZWZlOGU0NHhCZHNESExCNmZBNFEzSWtWcFlkZTNQRW5BNmJRU2c5QWRrenEtX0g3RlVsV3BfLW0tTEdVSw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 09, 03:39 PM ET",
     "publishedAt": "2026-08-09T19:39:00+00:00",
     "source": "The Tech Buzz",
@@ -316,9 +304,9 @@
     "label": "ChatGPT",
     "time": "Aug 07, 01:47 PM ET",
     "publishedAt": "2026-08-07T17:47:06+00:00",
-    "source": "Palo Alto Networks",
+    "source": "paloaltonetworks.com",
     "title": "Strengthening Security of AI Coding: Prisma AIRS API Integration with OpenAI Codex",
-    "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
+    "summary": "paloaltonetworks.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3NPSndEa0h4LUR2bDlCdnd5a2ZEZ3h0RWh5R0l6QVczak5jSHp5cWgxTXZMSzl3NGx4dHdDNmdwVEFyWWhsSU1VVFhEWXpHNnJDMjlkWG9LMy1DRVcySTQzNTNrLUV2ZlBLek01a3RGSGZnWVhnbWtlTXNRNlhkOWNveUFWWVI4c1R3TFpWLTBzYjBaWlhIZVQ2SzBCX0oxMWd0Um1yZUhVckFVNGJqaGVPVm1QQ2k5WHJHZlk5UFRSdW41QTRJ?oc=5",
     "difficulty": "News"
@@ -362,18 +350,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 22, 03:00 AM ET",
-    "publishedAt": "2026-06-22T07:00:00+00:00",
-    "source": "The New Stack",
-    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Jun 16, 03:00 AM ET",
     "publishedAt": "2026-06-16T07:00:00+00:00",
     "source": "CBS News",
@@ -381,6 +357,18 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 24, 03:00 AM ET",
+    "publishedAt": "2026-05-24T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   }
 ]
