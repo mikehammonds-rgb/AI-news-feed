@@ -40,9 +40,9 @@
     "label": "ChatGPT",
     "time": "Aug 14, 11:54 AM ET",
     "publishedAt": "2026-08-14T15:54:14+00:00",
-    "source": "Tech Times",
+    "source": "techtimes.com",
     "title": "GPT-5.6 Sol Now Runs at Real-Time Speed: OpenAI's Ultrafast Preview Offers No Price or Date",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "summary": "techtimes.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWk9sQXdaZ0YyandzRm4wWDhuRFczSkdVUDQ2azI4WWVUTXlzRy1hR3RBa2tTZW13TGdtNFozXzVMT21JTDJSd0daYVhLNk9jQ1lGUk9IbFh6b1VIdTRaWEswVklrOUhJSXhVVHV1NHFIYlVMd3Q2MlRmYk1Od0FTMDJDNEJ1M3g4akctZ0tLdU5LUVpqYk5wcEJiM2k0U2drSTJqb3dvRUJfRzMzcm9MajViMUd6RjM3MGw2cGRnSWZwcjRwWGJvQXhlaHlXVklIUWdB?oc=5",
     "difficulty": "News"
@@ -76,9 +76,9 @@
     "label": "Gemini",
     "time": "Aug 14, 04:55 AM ET",
     "publishedAt": "2026-08-14T08:55:32+00:00",
-    "source": "Techzine Global",
+    "source": "techzine.eu",
     "title": "Google Gemini 3.7 Flash gets stronger in development",
-    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "summary": "techzine.eu is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1BkVGJ1VFdrVDd1ZnBKbmNoakRVR2xKSW4zRTRWSl9iWmJZX1Ffdi1wXzVTd3VRVEstbjhWZjZxNlVQakJoZFhRM0w0UkNMQjNXdmk0SEJCRkxPcUJoQmdqWlVhZUI4TTZ2eFFMRVBPNXZxQmpldXA0dEk5VnNBWlY4QUw3X1JzNVJrVVhJckpuWmlYODRDTk9qcGh5U19I?oc=5",
     "difficulty": "News"
@@ -180,13 +180,25 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 13, 01:00 PM ET",
+    "publishedAt": "2026-08-13T17:00:00+00:00",
+    "source": "GlobeNewswire",
+    "title": "Cerebras Powers Ultrafast Mode for OpenAI’s GPT-5.6 Sol",
+    "summary": "GlobeNewswire is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0xMVXpCb29idTgzTDM1bTNmbEVjUU8zc1oyRWtVcFpvenhVTzEySmpYblAyNnZRN3ZZcDhfclp6ZGhMMU1JenlyM3A4cmVoZXBVZ0ZiaTZJRHVBM3VSLUZIYnNNX1poZ3ZwcDlCTjZBZ3JETDNTb0tpemVmblhIVmxoRlhJaUtOTXlJemxROUZLSHRJVDJjYm05c2l4Ylg2VlZ6Sm8xUmJXaTF2YnVDNTNrR3hvaHI5Q1lKaDJTZzhOVUJONEE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 13, 12:48 PM ET",
     "publishedAt": "2026-08-13T16:48:00+00:00",
-    "source": "fortune.com",
+    "source": "Fortune",
     "title": "Microsoft begins to merge consumer and enterprise Copilot apps in push for super app",
-    "summary": "fortune.com is reporting this update. Open the article for the full story.",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemhfVVdDSzZQczJQWXR6eG10TzdKTjYzc0trUm9zRV9UWkl4ZzJEaFhDWkYxLTFWQVREZVhrWDVyaWZwQWRiS1MxVWI2bVNDMjRTZk1TVTJQRDBLOEF2Y2t0S3owakQzY29ITmlUazZ1QVN0U3pTbmhRVnlmSzJIUXBGaDk2R2g4OUNnSnFlV2RzWmt1aU5hT3lR?oc=5",
     "difficulty": "News"
@@ -242,23 +254,11 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 12, 03:52 AM ET",
-    "publishedAt": "2026-08-12T07:52:14+00:00",
-    "source": "The Next Web",
-    "title": "Anthropic starts marking all of Claude’s output worldwide as EU transparency rules take effect",
-    "summary": "The Next Web is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGZuSWswRVlRNVVwVnBOMDRwNG5FZTA4elRJdW0xYXNzenRVQmFzOVRSRjhncDctd3dTNTd4Rmlmei02N01GNkZ2MXVOYmpMcEZkc3doUHZrN0l5aEh3YVRDTEYzX3d2UkxrSjJ2MHZDMzFEWGcxM2VvaUtoZkFTWlllTDJFcTZ6QUNR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 11, 05:35 PM ET",
     "publishedAt": "2026-08-11T21:35:10+00:00",
-    "source": "cnet.com",
+    "source": "CNET",
     "title": "Anthropic’s Claude Will Add Watermarks to AI-Generated Text and Files",
-    "summary": "cnet.com is reporting this update. Open the article for the full story.",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTVhQkpPVGFnb3lvVXZ1UHRHOXFVNTB5eVIxUXc4b2xiNFpOVFY1QVBpN18tMm1sVDdwSTlGcEljQ2tIazZkMFlWZjM1bURnT2xmT0s4UWJlWTdVUHVTQ2ZtcVI5UW5FVkluZGpVREFoT29SMGNMaVlYRUVPZDFnX2hVdVlCQ2FBWVVnRTk4MGgyOXZFdmFXa2E0U1p1YmdLSDQ2bEFWTzJ2MDdoQnhvVUd2bVp3dFdu?oc=5",
     "difficulty": "News"
@@ -280,9 +280,9 @@
     "label": "Claude Code",
     "time": "Aug 11, 02:45 PM ET",
     "publishedAt": "2026-08-11T18:45:00+00:00",
-    "source": "fortune.com",
+    "source": "Fortune",
     "title": "Anthropic plans to add an invisible mark to AI text—as the industry scrambles to police AI slop",
-    "summary": "fortune.com is reporting this update. Open the article for the full story.",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnlwczRuRk1oblktUkRXOWtibFRMTFpvZjZPVmp1akFxUG9YalhLVEM4SHpqWVZkNVlacDZwZUw2MlVnUlNQb0pzLXc3ZnczR3lHSm5FTGZFeDRSNjhWam5YczlhQW9KZWdOVlprWHZUSTMwamxnWERiLUxtYXlEcGIybEFTX1po?oc=5",
     "difficulty": "News"
@@ -312,15 +312,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 07, 01:47 PM ET",
-    "publishedAt": "2026-08-07T17:47:06+00:00",
-    "source": "Palo Alto Networks",
-    "title": "Strengthening Security of AI Coding: Prisma AIRS API Integration with OpenAI Codex",
-    "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 10, 05:13 AM ET",
+    "publishedAt": "2026-08-10T09:13:29+00:00",
+    "source": "Help Net Security",
+    "title": "Anthropic to put AI in charge of reviewing Claude Code actions by default",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3NPSndEa0h4LUR2bDlCdnd5a2ZEZ3h0RWh5R0l6QVczak5jSHp5cWgxTXZMSzl3NGx4dHdDNmdwVEFyWWhsSU1VVFhEWXpHNnJDMjlkWG9LMy1DRVcySTQzNTNrLUV2ZlBLek01a3RGSGZnWVhnbWtlTXNRNlhkOWNveUFWWVI4c1R3TFpWLTBzYjBaWlhIZVQ2SzBCX0oxMWd0Um1yZUhVckFVNGJqaGVPVm1QQ2k5WHJHZlk5UFRSdW41QTRJ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemhYelZlbmhJajAxR1hUSHk3czgybWVvel9fVUg2VUs1RmtGWmh0VVRJRGFUay1pWVdwUkoyTnZqazJiZWZlOGU0NHhCZHNESExCNmZBNFEzSWtWcFlkZTNQRW5BNmJRU2c5QWRrenEtX0g3RlVsV3BfLW0tTEdVSw?oc=5",
     "difficulty": "News"
   },
   {
