@@ -16,9 +16,9 @@
     "label": "ChatGPT",
     "time": "Aug 13, 05:05 PM ET",
     "publishedAt": "2026-08-13T21:05:36+00:00",
-    "source": "testingcatalog.com",
+    "source": "TestingCatalog AI News",
     "title": "OpenAI previews Ultrafast API tier for GPT-5.6 Sol",
-    "summary": "testingcatalog.com is reporting this update. Open the article for the full story.",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmRIbFRtZzBFUXM4WTZtYTBsX1BPelc5N2R0WHhQbG85OU1ieWNsU0lNSnp0QndIV3BaUDIxQXRITG1hM2tCaktyNmI3VkFCTmlOYlV1X203S1puMWlaN0ZnQTBPTDlCZTNGZ3dFVENCWEloNlJzeXZSWGZfVWxqcEJ5T1ZzRVU3M1E?oc=5",
     "difficulty": "News"
@@ -88,9 +88,9 @@
     "label": "Gemini",
     "time": "Aug 13, 01:47 PM ET",
     "publishedAt": "2026-08-13T17:47:41+00:00",
-    "source": "marktechpost.com",
+    "source": "MarkTechPost",
     "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
-    "summary": "marktechpost.com is reporting this update. Open the article for the full story.",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSExpRlJxcV9abmdVR0VKRzJteG8yS0FHcWVHMFVkX05wTXZJT3BtRURfUVA3dG8tZm5QbGpndDNha0hQaXFUcHZhMnBRSkZGbmFUQ1ZSRDRMQ2dNVllUY2JpX1RZWVJWUXN6QW1YZXFqN1ZOdlpXX1BteEhQVU5HX09lSXB5RF9U0gGOAUFVX3lxTFBMazZ5TmVfMF9pVVlpamxqNzU0eTk5ei1CemJkMGgxa2d5M2s4WnJrMDVrX2VpUFpHSW9vUlRRdGJRS0ZFQ3diNzZqbFAtNHEtWnBkanprSEtiblp5dWYySTJzMjU0R3ZDcFJJaVZGSXdQREtYanhxSFF0UGVMS1B1YTQxVE9uX0xCbGVBV1E?oc=5",
     "difficulty": "News"
@@ -168,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 13, 01:00 PM ET",
-    "publishedAt": "2026-08-13T17:00:00+00:00",
-    "source": "9to5Google",
-    "title": "Gemini 3.7 Flash launches three weeks after last model, live in Spark",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HSmRpNHZBZkNVNEJNOFdRb3lFNXNFT2FrZFhkUlBWVVdwLWhveEdpWkNmTkRXX3VUYmpOT2NFX1ZNRGQtcG5WVXA2V2JHTEtsQ0VsSHhYUUpPLVNRdkN0R2pFY2JWYkpoaVE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 13, 12:48 PM ET",
@@ -188,7 +176,7 @@
     "title": "Microsoft begins to merge consumer and enterprise Copilot apps in push for super app",
     "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFBXSENDYTVMLTdTOW8zVVJuMzViSGltb2pXTlQ4OW1yMmdEbTlnLURqMVpid2oxZGl3ZVBvekJfRjdhcEgzaHBjQWJRVFVNTkNyV2V1bVFwY0hsU25LLVcyMWxkV0NxZmhDS05LR0NEY3kxN1ZDTzBYRU05WlNSU3Z2Q0ZWMXJ2a3lzejlUVGhSZENXOUwtUTRsMXlsbU02QU1uT2JGX0x6a2o0Q2c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemhfVVdDSzZQczJQWXR6eG10TzdKTjYzc0trUm9zRV9UWkl4ZzJEaFhDWkYxLTFWQVREZVhrWDVyaWZwQWRiS1MxVWI2bVNDMjRTZk1TVTJQRDBLOEF2Y2t0S3owakQzY29ITmlUazZ1QVN0U3pTbmhRVnlmSzJIUXBGaDk2R2g4OUNnSnFlV2RzWmt1aU5hT3lR?oc=5",
     "difficulty": "News"
   },
   {
@@ -240,6 +228,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 11, 06:50 PM ET",
+    "publishedAt": "2026-08-11T22:50:45+00:00",
+    "source": "SiliconANGLE",
+    "title": "Google’s Gemini AI app passes 1 billion monthly active users",
+    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDlPbUxhN1pUcFBPbHFNX3BVZG9DLUlzRVhwSFZIcTMwSkJVN1hZWGVobUVvYktvR25iWVFCbEVoN1MtdDJsWWhNei03ZXpQVmVlMHpQYmVZbUQ3NEhxenF3WVBGbm5XV2dZa3ktd0FOYXJJSktwOXYwdGItR085c0NpcWI2WmpEdTF0Wk84NkozUW4wd1FyMXdnbjU?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 11, 05:35 PM ET",
@@ -268,9 +268,9 @@
     "label": "Claude Code",
     "time": "Aug 11, 09:53 AM ET",
     "publishedAt": "2026-08-11T13:53:51+00:00",
-    "source": "Mashable",
+    "source": "mashable.com",
     "title": "Claude to start watermarking AI-generated content",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "summary": "mashable.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
     "difficulty": "News"
@@ -278,13 +278,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 10, 05:13 AM ET",
-    "publishedAt": "2026-08-10T09:13:29+00:00",
-    "source": "Help Net Security",
-    "title": "Anthropic to put AI in charge of reviewing Claude Code actions by default",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "time": "Aug 10, 04:04 PM ET",
+    "publishedAt": "2026-08-10T20:04:24+00:00",
+    "source": "TechCrunch",
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemhYelZlbmhJajAxR1hUSHk3czgybWVvel9fVUg2VUs1RmtGWmh0VVRJRGFUay1pWVdwUkoyTnZqazJiZWZlOGU0NHhCZHNESExCNmZBNFEzSWtWcFlkZTNQRW5BNmJRU2c5QWRrenEtX0g3RlVsV3BfLW0tTEdVSw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGJYTk1PbFdGNTJnZ1NhbDVGNW9zNkxNRHdiX1RsOXlydDFfeWtTbnNQSTFlVGI4dnh0Ykl1Q1VSdVc0WVZ3blJyNVByMEstS01BcmZVSUcwTVZJNWFBNlFHMnVZSVZRSGljMG0yb3VEQXlGNVc2elZzTzNpb20zcUtHMkRtQUFVNnJ1TDRaVUh0dHlHQ0NlNmVOOHFMaEU?oc=5",
     "difficulty": "News"
   },
   {
