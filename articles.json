@@ -2,6 +2,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Aug 14, 12:56 PM ET",
+    "publishedAt": "2026-08-14T16:56:09+00:00",
+    "source": "sqmagazine.co.uk",
+    "title": "Google Gives Users Control Over Gemini AI Watermarks",
+    "summary": "sqmagazine.co.uk is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HRlpfRmM5LTVhY3V6Tk5VTkFobGhWamxobm5IYkVzQXBseWdFMTZsamZDQ3pJQW1lakJ2cUdkajJsejdrLW5FMWQyWWN4ZE9ucWpXRVJzeWhiMHdOTFBzQVNXOGY2NVZCdllzVTBtaks5RnNaTlJXUw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Aug 14, 12:39 PM ET",
     "publishedAt": "2026-08-14T16:39:32+00:00",
     "source": "The Verge",
@@ -9,18 +21,6 @@
     "summary": "The Verge is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1b1VHak9GNF9RQl92X1Y2dTFTS1dRZVhtZTNJb0JqU2lheXdUOWg5dTZuZ1FlM0Z0bEh1TDhsRnlqS09WYnY0ZHVIWHBUWC1vdW9vV2R3OXhLajRlMlQyRVVwNHhYZHFtbkpIdXZVcXlGTE54ZU0xYVY2b3Q?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 14, 12:27 PM ET",
-    "publishedAt": "2026-08-14T16:27:59+00:00",
-    "source": "The Cryptonomist",
-    "title": "Gemini 3.7 Flash AI Advances Coding Accuracy and Cuts Costs",
-    "summary": "The Cryptonomist is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VSzB5azZ5RHhJTm1DM0xfTXlsamRGdW9TNVE4S1ZOeXI2OU5MYjZDanBtYmFydWZrMDVnSmduRlBlcmp0THcxOW9vQnZ0OXdLQkFfSS10eHhWdUE4R3VCMkd6MF85bnA2cVE?oc=5",
     "difficulty": "News"
   },
   {
@@ -38,13 +38,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 14, 06:31 AM ET",
-    "publishedAt": "2026-08-14T10:31:47+00:00",
-    "source": "Digital Watch Observatory",
-    "title": "Google launches Gemini 3.7 Flash for coding and AI agents",
-    "summary": "Digital Watch Observatory is reporting this update. Open the article for the full story.",
+    "time": "Aug 14, 05:40 AM ET",
+    "publishedAt": "2026-08-14T09:40:37+00:00",
+    "source": "InfoWorld",
+    "title": "Google cuts Gemini 3.7 Flash prices as enterprise AI economics diverge and Pro cadence slows",
+    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RkYyNmo3RWNQZWtjaXNUR2RNR1ppTHRrV2xTT3ZOaENGY3JpYnZqMUVoZW5OZFJ1c1dCUWxwbjhnTUpRRldvT0d0d0gzQW9xTjRHcTZZclBFc3B2WEROdE5GUWtEVHRDVHNiRTVHc1dFY1czNEdLMWlhTQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHdtTVhTTUM3V0NWc1h1SnBBN3lTUUs3ZklfbVlhMVRQNkszSEZSOVZQWll1MjgyYUhSXzR1cDI4WW9FbU92QktCamcxOEY3N2FSN2c2dnFBTHFtZ0hVdHg1LUhVTno1N3pXeFBPVEgzWFlEX1pkVWdkRXZYZ3RSdk5qRnRwSDFiVC1QcEkyVGZ2bHpQX2xtRTVvLU03WGFOOVc5WnZEMm5meTVwNVdkSkZScURNUjRuRnQ4S1BNQ0U2aW9CQlpady12YnQwZ2wwdEtkeFJn?oc=5",
     "difficulty": "News"
   },
   {
@@ -64,23 +64,11 @@
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
     "publishedAt": "2026-08-14T07:30:00+00:00",
-    "source": "The Register",
+    "source": "theregister.com",
     "title": "Claude Code returns blank thinking blocks, but reasoning still costs you",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "summary": "theregister.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 13, 05:45 PM ET",
-    "publishedAt": "2026-08-13T21:45:04+00:00",
-    "source": "Decrypt",
-    "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-    "summary": "Decrypt is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pYVhaZDBLMFNFUWpfRWFnQW5zU2h6QVp5S2RMNU10Nnl0MjNWM202RkRuVUFOS1dBaHRLdndGcjlIU1hrZm5CUmg5VzZTRjZKeldPUnBkT1c5T0pYSENTYzVPY0F4d0RJT2tteE56MXJTQ3pVSEdQdEtYTkw0UdIBhgFBVV95cUxNUnRET2ZGb0dZMXZROXVhR3hFNXp4allieGhKTE5BQy1FaE90a3BrRmJhNlh6a2tjbzJtMnU1Z0RPdm5VbFFTWFkzbzJ2VFFoMW1ZZUQydFhoNFJLRlFlbFRfQ2VrWDhjc0V5Z2hXcVdRdVd2YjI3WWN5Z2tlQUp2UDhFcE8zUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -93,6 +81,30 @@
     "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmRIbFRtZzBFUXM4WTZtYTBsX1BPelc5N2R0WHhQbG85OU1ieWNsU0lNSnp0QndIV3BaUDIxQXRITG1hM2tCaktyNmI3VkFCTmlOYlV1X203S1puMWlaN0ZnQTBPTDlCZTNGZ3dFVENCWEloNlJzeXZSWGZfVWxqcEJ5T1ZzRVU3M1E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 13, 04:30 PM ET",
+    "publishedAt": "2026-08-13T20:30:24+00:00",
+    "source": "Decrypt",
+    "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+    "summary": "Decrypt is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkFkc1RoWXdhRGlRb2ZVc1hsb2xyNVpXUmtqdXRHbUpNaUI4VFdPaVViTTZ5LV9WSXdKOUlZV0tsWTFpOXBlZ1RKQ3RLYzRpeWJKWE5ydWFGMFJyUENCSndHSVFRNkFza0F1QXItVjJ3b2xHc2JPNDBPXzJnM1JJcWJVTDBhNVlNXzI5U1VMZ1dqd9IBmgFBVV95cUxQTnVNZ05od2hHY0tvVEpqcnVCWmM4NERjTVdqeWZKOE0tZG5lcjVlS3hrUmNxeU5mVFpJNmJaRHVUYV9oSWJGQ3VEVHFacmdVUlRuRXVYRlRkZ1VLT0tjVFhuNG1iY3pmQzg1Q1Mxcll4VGY5WXRiNk9CRHBhV1dfV3c0aG1rYlRhOWpOQTk5M3VaWnZTZ3hJUWhR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 13, 03:45 PM ET",
+    "publishedAt": "2026-08-13T19:45:45+00:00",
+    "source": "PCMag",
+    "title": "Anthropic's Claude Will Now Add Invisible Watermarks to Text, Image Outputs",
+    "summary": "PCMag is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQldRc1A5V2JwLWFyREsyWkt3d2JzN3pZZHY0eV9jYVc5WGZuY1RGd0lmNDQwaFRNcjBoZHpEQzZzNUhFVFZVa3VXME5fSVo4OS1fVXM1Zk0xZ1BvQlBHLVFiTng2RWVWcW1HSndEMm5JQ3B5eEtZelg1WERwWGhTQ0QyYkJ3TXlCNlYwTi1sQkxtdHB5a0ZJS3Y1aEhDZDVuaEE?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 12, 03:52 AM ET",
-    "publishedAt": "2026-08-12T07:52:14+00:00",
-    "source": "The Next Web",
-    "title": "Anthropic starts marking all of Claude’s output worldwide as EU transparency rules take effect",
-    "summary": "The Next Web is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGZuSWswRVlRNVVwVnBOMDRwNG5FZTA4elRJdW0xYXNzenRVQmFzOVRSRjhncDctd3dTNTd4Rmlmei02N01GNkZ2MXVOYmpMcEZkc3doUHZrN0l5aEh3YVRDTEYzX3d2UkxrSjJ2MHZDMzFEWGcxM2VvaUtoZkFTWlllTDJFcTZ6QUNR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 11, 06:50 PM ET",
@@ -297,18 +297,6 @@
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 10, 05:29 PM ET",
-    "publishedAt": "2026-08-10T21:29:46+00:00",
-    "source": "Visual Studio Magazine",
-    "title": "Microsoft Study Shows Just How 'Agentic' GitHub Copilot Has Become",
-    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzNKYWVlOWVaOHZ6ZUk3R3g3ZkVsMXFITzY5emVYelNxZHZ1NWtUbEw2QlUwQjZEMXgydjlhQ0dUN3BkU09pZWdUdHBGbGdUZWQ3bllWTkxOZ2dwQ1ZLM3Q5MnQ0OWltNGNvNHpiaTczbm8zbDdwNEV5MFdSMWhuVXZpNW9BTGNoYzRzYjBfcHVoMXo3eUVLb2d4elRPLVQ2RmZNM2tBMkc4ZldiSFJTRk1UNHpnUkxWRGc4aFNGUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +369,18 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "May 24, 03:00 AM ET",
+    "publishedAt": "2026-05-24T07:00:00+00:00",
+    "source": "AI: Reset to Zero",
+    "title": "AI: Microsoft slipping in AI Coding with Github Copilot. AI-RTZ #1097",
+    "summary": "AI: Reset to Zero is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN1N6MFVCY0NfTVlsVVlTR05vTTRfMTZEQjBMMEZ2Zkd2TXgyYldER3JDTHFzLW8yb054M0ozNTZQVVhjV3cta3k2ZWh2OWR6Ykh2M0dLNTUyZ1U1WHJkQ1dUbkVDQ1hkczFXeWFkbkhIYUtGX1JPVDFwOA?oc=5",
     "difficulty": "News"
   }
 ]
