@@ -48,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 13, 05:45 PM ET",
-    "publishedAt": "2026-08-13T21:45:04+00:00",
-    "source": "Decrypt",
-    "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-    "summary": "Decrypt is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pYVhaZDBLMFNFUWpfRWFnQW5zU2h6QVp5S2RMNU10Nnl0MjNWM202RkRuVUFOS1dBaHRLdndGcjlIU1hrZm5CUmg5VzZTRjZKeldPUnBkT1c5T0pYSENTYzVPY0F4d0RJT2tteE56MXJTQ3pVSEdQdEtYTkw0UdIBhgFBVV95cUxNUnRET2ZGb0dZMXZROXVhR3hFNXp4allieGhKTE5BQy1FaE90a3BrRmJhNlh6a2tjbzJtMnU1Z0RPdm5VbFFTWFkzbzJ2VFFoMW1ZZUQydFhoNFJLRlFlbFRfQ2VrWDhjc0V5Z2hXcVdRdVd2YjI3WWN5Z2tlQUp2UDhFcE8zUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 13, 05:05 PM ET",
@@ -69,6 +57,18 @@
     "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmRIbFRtZzBFUXM4WTZtYTBsX1BPelc5N2R0WHhQbG85OU1ieWNsU0lNSnp0QndIV3BaUDIxQXRITG1hM2tCaktyNmI3VkFCTmlOYlV1X203S1puMWlaN0ZnQTBPTDlCZTNGZ3dFVENCWEloNlJzeXZSWGZfVWxqcEJ5T1ZzRVU3M1E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 13, 04:30 PM ET",
+    "publishedAt": "2026-08-13T20:30:24+00:00",
+    "source": "Decrypt",
+    "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+    "summary": "Decrypt is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkFkc1RoWXdhRGlRb2ZVc1hsb2xyNVpXUmtqdXRHbUpNaUI4VFdPaVViTTZ5LV9WSXdKOUlZV0tsWTFpOXBlZ1RKQ3RLYzRpeWJKWE5ydWFGMFJyUENCSndHSVFRNkFza0F1QXItVjJ3b2xHc2JPNDBPXzJnM1JJcWJVTDBhNVlNXzI5U1VMZ1dqd9IBmgFBVV95cUxQTnVNZ05od2hHY0tvVEpqcnVCWmM4NERjTVdqeWZKOE0tZG5lcjVlS3hrUmNxeU5mVFpJNmJaRHVUYV9oSWJGQ3VEVHFacmdVUlRuRXVYRlRkZ1VLT0tjVFhuNG1iY3pmQzg1Q1Mxcll4VGY5WXRiNk9CRHBhV1dfV3c0aG1rYlRhOWpOQTk5M3VaWnZTZ3hJUWhR?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,18 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 10, 03:00 AM ET",
-    "publishedAt": "2026-08-10T07:00:00+00:00",
-    "source": "Visual Studio Magazine",
-    "title": "Microsoft Study Shows Just How 'Agentic' GitHub Copilot Has Become",
-    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOEIta25kVHNqeFo1QU9UVGdEUDlwLWhmQ0t1OXJEMlRqWjJnNUU3cnAwMkFnTUlxUmtCOEhjbERycUVOVFpyQ3YtUmNJcEIyR2lGbWdsMVlaQ3k4M2l4TFZIcnpEemFxUXNCNS1sdXlLVWljdk5LQUZyZ1NOV3pBNXNBRlZmRzdUT2UzWmJXR3A0ZWVwVEhSU3ctVzBacXp4VzE0d0cyRkFhQTVRMmNrZGJTQ2g5OUwxTHlTUVRFUGxKZ0kzN2dfLTEzUG1YWkxObkIwZE5FOA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 09, 03:39 PM ET",
@@ -321,6 +309,18 @@
     "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2JlMW9HaC1pVy1pM0JGRl9qcnE3aDZQRW13QnB2NWR3SFZSTksyUy11bGp3a3I3NjdaZHdvalZ2LWw5OUtLY2lMT09tYndNd1ZrOEQ0VmZlbnpfdVhtTDV2TVp2djhRN1diSUZ1SVotSmQ0N3prMnk2cGpvaGN6M1NqOVE0SDB3N0NRMDh0YkdoQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 08, 03:00 AM ET",
+    "publishedAt": "2026-08-08T07:00:00+00:00",
+    "source": "hostinger.com",
+    "title": "12 best Cursor alternatives for web development with AI",
+    "summary": "hostinger.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oSUg0aWd1MmdMUllWTi00WE5vVm5kZkRkbVJWWTFZc2NWc2w4Z1J0STZWX0k1bnIwbk1uLXJqLU1nS0dJZ3FKRG9FUU5ZeVVhckFVam1sbHFoVlF1VkJWSTU2cld3UDhfa3Yw?oc=5",
     "difficulty": "News"
   },
   {
