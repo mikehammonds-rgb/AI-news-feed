@@ -1,12 +1,24 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 15, 07:17 PM ET",
+    "publishedAt": "2026-08-15T23:17:41+00:00",
+    "source": "Substack",
+    "title": "AI Week in Review 26.08.15",
+    "summary": "Substack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZcXBLeVdVOVB3VEwzTEx4SHVLVmwxTENfYXRxemNlYXdXZDVXX1BRdWNGTmVuUkF6MjFYSEhGWW9Bb1NYTG9kdW9iU1ZGRjhVWnVkMUp2RnV4WXJJVTVVSnFkR3RMTF9HQXRwR21R?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 15, 03:06 PM ET",
     "publishedAt": "2026-08-15T19:06:39+00:00",
-    "source": "mashable.com",
+    "source": "Mashable",
     "title": "Claude to start watermarking AI-generated content",
-    "summary": "mashable.com is reporting this update. Open the article for the full story.",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
     "difficulty": "News"
@@ -28,11 +40,23 @@
     "label": "ChatGPT",
     "time": "Aug 15, 04:14 AM ET",
     "publishedAt": "2026-08-15T08:14:16+00:00",
-    "source": "yellow.com",
+    "source": "Yellow.com",
     "title": "GPT-5.6 Tightens OpenAI’s Grip On Microsoft 365 Despite Split Rumors",
-    "summary": "yellow.com is reporting this update. Open the article for the full story.",
+    "summary": "Yellow.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rQmd4TlREbjVDbnM0RWZrQ3ZaeTNFZFdvV2xkWGNRLUY2WGhKTElTWU15Y0NhblBDT1JFcEE5ZXlZZEtQek1keDl5Wkh6MHFSZ2VvODJMV1UxMHBXOTdlb1dsQUR1eFVxVkRwcmFFZ0tnMVh3blE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 14, 09:02 PM ET",
+    "publishedAt": "2026-08-15T01:02:56+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Use Claude Skills: 11 Steps, 80 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WalkxX2x0RjJvYW5BLVQ4YnV1UXpQLTB5WE56YWNMNkcwZVNtUDRTM1lRZUVNUFVNSmN6SDdWMVhMXzVDUFJvSDlSRG1wcC0zaFZ3QUxZbk9iZmtFeWVqOWNtV05fZll2bEE?oc=5",
     "difficulty": "News"
   },
   {
@@ -76,9 +100,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 14, 02:45 PM ET",
     "publishedAt": "2026-08-14T18:45:02+00:00",
-    "source": "Unite.AI",
+    "source": "unite.ai",
     "title": "Grok 4.6 Arrives in GitHub Copilot Across Eight Development Surfaces",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "summary": "unite.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbngxVC1kUmZIdi12ZWVsdUFPX2NNNVFkd2lid2VNdG9JUEhLelpETVZOaW9NcEJFS2Q1alh4NkV0eVBqcWxTS0hWcmRrOTZLMGhoMVJVODR1dmxGNHRYYkN2NWkwak1XbHJuNFpISkNVdC1kVldmVXk4ZURlNVg1ZFBsY0xIVjgxdXhWNlRYRnlyWFhI?oc=5",
     "difficulty": "News"
@@ -158,18 +182,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 13, 01:47 PM ET",
-    "publishedAt": "2026-08-13T17:47:41+00:00",
-    "source": "MarkTechPost",
-    "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSExpRlJxcV9abmdVR0VKRzJteG8yS0FHcWVHMFVkX05wTXZJT3BtRURfUVA3dG8tZm5QbGpndDNha0hQaXFUcHZhMnBRSkZGbmFUQ1ZSRDRMQ2dNVllUY2JpX1RZWVJWUXN6QW1YZXFqN1ZOdlpXX1BteEhQVU5HX09lSXB5RF9U0gGOAUFVX3lxTFBMazZ5TmVfMF9pVVlpamxqNzU0eTk5ei1CemJkMGgxa2d5M2s4WnJrMDVrX2VpUFpHSW9vUlRRdGJRS0ZFQ3diNzZqbFAtNHEtWnBkanprSEtiblp5dWYySTJzMjU0R3ZDcFJJaVZGSXdQREtYanhxSFF0UGVMS1B1YTQxVE9uX0xCbGVBV1E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Aug 13, 01:05 PM ET",
     "publishedAt": "2026-08-13T17:05:38+00:00",
     "source": "blog.google",
@@ -208,9 +220,9 @@
     "label": "ChatGPT",
     "time": "Aug 13, 01:02 PM ET",
     "publishedAt": "2026-08-13T17:02:00+00:00",
-    "source": "9to5mac.com",
+    "source": "9to5Mac",
     "title": "OpenAI previews ‘Ultrafast’ GPT-5.6 Sol running up to 14 times faster",
-    "summary": "9to5mac.com is reporting this update. Open the article for the full story.",
+    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGFpeG9wSzdkenlGNGZ4WjNKalE5NVliQXdWTnNqdkZFekcwVjB2QVNrTDFCMnN0YXZWSXVjNy1rN2d2TFlIUXRFVXVGbWdBeGhLc1FSRUlZTW00anUyUzRZU25KdDQ0MmQyYWc1NWtjV05YWjJ6dzZCeTFOZ0J4SU41VEpnR3E4aVMwTmdoQk5JeThSTTh3RTNMaThrMXhr?oc=5",
     "difficulty": "News"
@@ -264,18 +276,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 13, 07:10 AM ET",
-    "publishedAt": "2026-08-13T11:10:18+00:00",
-    "source": "Ars Technica",
-    "title": "Claude’s new Scarlet Letter watermark is invisible—for now",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOU5IeV8wcUd4R0NQc05oaHFsb1E1ME11OXpwd2JaQVAzWnVQM2RpRzIxTW9peXJvM2dqazB1MHBuVlY4LUtKVnVuWU01WTBfYkh3OTdzdnk5aXpVRC0tSGpoT01EMzVUSHZZYXpta05pNS1iLXF0ZnJDRk9Ecnk4ZWI3WTJMXzhza3BUQkxVOVJDc2l2MXo1c1JuM1otZjBaeE1TaQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 13, 06:00 AM ET",
@@ -316,9 +316,9 @@
     "label": "Gemini",
     "time": "Aug 11, 06:50 PM ET",
     "publishedAt": "2026-08-11T22:50:45+00:00",
-    "source": "siliconangle.com",
+    "source": "SiliconANGLE",
     "title": "Google’s Gemini AI app passes 1 billion monthly active users",
-    "summary": "siliconangle.com is reporting this update. Open the article for the full story.",
+    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDlPbUxhN1pUcFBPbHFNX3BVZG9DLUlzRVhwSFZIcTMwSkJVN1hZWGVobUVvYktvR25iWVFCbEVoN1MtdDJsWWhNei03ZXpQVmVlMHpQYmVZbUQ3NEhxenF3WVBGbm5XV2dZa3ktd0FOYXJJSktwOXYwdGItR085c0NpcWI2WmpEdTF0Wk84NkozUW4wd1FyMXdnbjU?oc=5",
     "difficulty": "News"
