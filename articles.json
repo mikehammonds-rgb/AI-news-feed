@@ -132,13 +132,25 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 13, 05:05 PM ET",
+    "publishedAt": "2026-08-13T21:05:36+00:00",
+    "source": "TestingCatalog AI News",
+    "title": "OpenAI previews Ultrafast API tier for GPT-5.6 Sol",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmRIbFRtZzBFUXM4WTZtYTBsX1BPelc5N2R0WHhQbG85OU1ieWNsU0lNSnp0QndIV3BaUDIxQXRITG1hM2tCaktyNmI3VkFCTmlOYlV1X203S1puMWlaN0ZnQTBPTDlCZTNGZ3dFVENCWEloNlJzeXZSWGZfVWxqcEJ5T1ZzRVU3M1E?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 13, 02:02 PM ET",
     "publishedAt": "2026-08-13T18:02:54+00:00",
-    "source": "VentureBeat",
+    "source": "venturebeat.com",
     "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORDZKOWNWb2dCLU56bV9KVVpnNzQyUFJDU0YtckhpSkt0MkdWNzVzR3poRnZwTlFZaS1RRU02UDV1QVlSMzZpTUtJbDg3OHhrUGF4dzdHYVNXQ1Z6N05tUXltU2Q0UWZpS1VDeVFsc2ZXSWlYSEpTV2Rydm1CTWNVLWRsOXVjb3BjWHhKZUpjX21RS3djNlBVOW5JT056Qy1vMlMxZk9ES3FmaDU1SzhqS0RuZ25NYi1NeXc?oc=5",
     "difficulty": "News"
@@ -232,9 +244,9 @@
     "label": "Claude Code",
     "time": "Aug 13, 12:47 PM ET",
     "publishedAt": "2026-08-13T16:47:55+00:00",
-    "source": "VentureBeat",
+    "source": "venturebeat.com",
     "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeVA0OGxrdGxzcGV1VUtwei1fLVFhNUE4M3BNd0lLb1hpS2xoNXlWUzJzWU1YUDM4dElQVjIwcm1qQWsxeUdoOEF6ZGEta1lEaEJLd3g4bE5ITUtqLVpZSlp3X21LZDd5T3lPelI0cHhBaEdiOTBrYkdRbV9td1c4bWVCdUlUNGNjTmx1RTI2T19QMEtyTGZPWW42Z1BQVzRPdjZ6UkNyd3hfWFdQWVU1LTMtdEtpeE84S1FzbmdOLVZmWFRrVk5aLVJsbW5nSzdrU0RIRUNR?oc=5",
     "difficulty": "News"
@@ -321,18 +333,6 @@
     "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzNKYWVlOWVaOHZ6ZUk3R3g3ZkVsMXFITzY5emVYelNxZHZ1NWtUbEw2QlUwQjZEMXgydjlhQ0dUN3BkU09pZWdUdHBGbGdUZWQ3bllWTkxOZ2dwQ1ZLM3Q5MnQ0OWltNGNvNHpiaTczbm8zbDdwNEV5MFdSMWhuVXZpNW9BTGNoYzRzYjBfcHVoMXo3eUVLb2d4elRPLVQ2RmZNM2tBMkc4ZldiSFJTRk1UNHpnUkxWRGc4aFNGUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 07, 01:47 PM ET",
-    "publishedAt": "2026-08-07T17:47:06+00:00",
-    "source": "Palo Alto Networks",
-    "title": "Strengthening Security of AI Coding: Prisma AIRS API Integration with OpenAI Codex",
-    "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3NPSndEa0h4LUR2bDlCdnd5a2ZEZ3h0RWh5R0l6QVczak5jSHp5cWgxTXZMSzl3NGx4dHdDNmdwVEFyWWhsSU1VVFhEWXpHNnJDMjlkWG9LMy1DRVcySTQzNTNrLUV2ZlBLek01a3RGSGZnWVhnbWtlTXNRNlhkOWNveUFWWVI4c1R3TFpWLTBzYjBaWlhIZVQ2SzBCX0oxMWd0Um1yZUhVckFVNGJqaGVPVm1QQ2k5WHJHZlk5UFRSdW41QTRJ?oc=5",
     "difficulty": "News"
   },
   {
