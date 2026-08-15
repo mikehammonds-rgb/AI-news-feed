@@ -26,6 +26,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 14, 03:30 PM ET",
+    "publishedAt": "2026-08-14T19:30:16+00:00",
+    "source": "PCMag",
+    "title": "Anthropic's Claude Will Now Add Invisible Watermarks to Text, Image Outputs",
+    "summary": "PCMag is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQldRc1A5V2JwLWFyREsyWkt3d2JzN3pZZHY0eV9jYVc5WGZuY1RGd0lmNDQwaFRNcjBoZHpEQzZzNUhFVFZVa3VXME5fSVo4OS1fVXM1Zk0xZ1BvQlBHLVFiTng2RWVWcW1HSndEMm5JQ3B5eEtZelg1WERwWGhTQ0QyYkJ3TXlCNlYwTi1sQkxtdHB5a0ZJS3Y1aEhDZDVuaEE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 14, 03:22 PM ET",
     "publishedAt": "2026-08-14T19:22:20+00:00",
     "source": "Anthropic",
@@ -74,13 +86,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 14, 11:54 AM ET",
-    "publishedAt": "2026-08-14T15:54:14+00:00",
-    "source": "Tech Times",
-    "title": "GPT-5.6 Sol Now Runs at Real-Time Speed: OpenAI's Ultrafast Preview Offers No Price or Date",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "time": "Aug 14, 06:55 AM ET",
+    "publishedAt": "2026-08-14T10:55:58+00:00",
+    "source": "Help Net Security",
+    "title": "OpenAI’s GPT-5.6 Sol runs up to 14× faster with Ultrafast mode",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWk9sQXdaZ0YyandzRm4wWDhuRFczSkdVUDQ2azI4WWVUTXlzRy1hR3RBa2tTZW13TGdtNFozXzVMT21JTDJSd0daYVhLNk9jQ1lGUk9IbFh6b1VIdTRaWEswVklrOUhJSXhVVHV1NHFIYlVMd3Q2MlRmYk1Od0FTMDJDNEJ1M3g4akctZ0tLdU5LUVpqYk5wcEJiM2k0U2drSTJqb3dvRUJfRzMzcm9MajViMUd6RjM3MGw2cGRnSWZwcjRwWGJvQXhlaHlXVklIUWdB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnJKVGM2Tmg3b1h3S1ZiYkVOYmRsN1VYM0dzZnpFVC15a2RkYlU5QWpHMFcyOWhacWxIMEo1c2pxSnh1NDFtbmtBVkxmcnZnUXNiYTlyU2JyM21KT2wxMEhvaHBfQU9rQ19XZVhtbFpLcTdlOEFoakxCZ2stdzJQZFF4VDBsSGR2YXoxYjJJZ1pJN2kyalNzeHlrWWY0cmVDVGItUFFZejY?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,18 +117,6 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 13, 11:06 PM ET",
-    "publishedAt": "2026-08-14T03:06:33+00:00",
-    "source": "PCMag",
-    "title": "Anthropic's Claude Will Now Add Invisible Watermarks to Text, Image Outputs",
-    "summary": "PCMag is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQldRc1A5V2JwLWFyREsyWkt3d2JzN3pZZHY0eV9jYVc5WGZuY1RGd0lmNDQwaFRNcjBoZHpEQzZzNUhFVFZVa3VXME5fSVo4OS1fVXM1Zk0xZ1BvQlBHLVFiTng2RWVWcW1HSndEMm5JQ3B5eEtZelg1WERwWGhTQ0QyYkJ3TXlCNlYwTi1sQkxtdHB5a0ZJS3Y1aEhDZDVuaEE?oc=5",
     "difficulty": "News"
   },
   {
@@ -172,9 +172,9 @@
     "label": "ChatGPT",
     "time": "Aug 13, 01:02 PM ET",
     "publishedAt": "2026-08-13T17:02:46+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
     "difficulty": "News"
