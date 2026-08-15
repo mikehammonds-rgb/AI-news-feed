@@ -84,6 +84,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 14, 02:54 PM ET",
+    "publishedAt": "2026-08-14T18:54:36+00:00",
+    "source": "The New York Times",
+    "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
+    "summary": "The New York Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SMU5ZVGZnNFNKMzY5b0dsTFE5cVZ0bEhjSkx4d21GX3dCSUgzd0lrWm15STZYVGVUaDJubWRxeHMwTHNtaThOeUg4aElISHFPdS00SGFKTlBzd0x1SGtJaFN3NWpUOWpEUEpTXzdwV3FqNVVSWl9kTG1ERzdlZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 14, 02:45 PM ET",
@@ -105,18 +117,6 @@
     "summary": "Thurrott.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXR0Qi11QXAtSlF4Z3k0TXU4UldfZkhqMDYzR2tDamVaaVVMSUtmMFZkRVYxd0VYZmZyak5IQjJDLXhBSG81NTJDR1VaemxPZWhwd2xIbDRUNkIzVzRCRFNhY3BpeFVSSTZYTjFKMVB0Y05iQ2dNdmNxR0R4SkUzcmhBTndVUVppYmhnS3lFcEhaaU4zMnFtTEMxUmtwT2EzMVJpTmFFY2NfV3c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 14, 12:56 PM ET",
-    "publishedAt": "2026-08-14T16:56:09+00:00",
-    "source": "SQ Magazine",
-    "title": "Google Gives Users Control Over Gemini AI Watermarks",
-    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HRlpfRmM5LTVhY3V6Tk5VTkFobGhWamxobm5IYkVzQXBseWdFMTZsamZDQ3pJQW1lakJ2cUdkajJsejdrLW5FMWQyWWN4ZE9ucWpXRVJzeWhiMHdOTFBzQVNXOGY2NVZCdllzVTBtaks5RnNaTlJXUw?oc=5",
     "difficulty": "News"
   },
   {
