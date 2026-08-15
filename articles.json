@@ -28,9 +28,9 @@
     "label": "Gemini",
     "time": "Aug 14, 10:55 PM ET",
     "publishedAt": "2026-08-15T02:55:00+00:00",
-    "source": "Bangkok Post",
+    "source": "bangkokpost.com",
     "title": "Google axes mobile AI Studio app, folds features into Gemini",
-    "summary": "Bangkok Post is reporting this update. Open the article for the full story.",
+    "summary": "bangkokpost.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzBOcFZfVjBCQUxlWVhXUmZlREExZ2YzbkM1TEQzWmhZdGFQQzdFTk02OTlydmE1dEQyWjIyaU0tSGU5Yjctd0lfZjRjOU1JdV9sblU0N1Rqc09WREFCTVBVdXlVVloyLW5BbnlQVkdFUDVXV1N3ZlhzTUY2TlJRVHFSTmRfTUVEQTQ1MmNnLXVUWm9TUUZCS3JVN190ZUdVMXdKbUdJYVg?oc=5",
     "difficulty": "News"
@@ -45,18 +45,6 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUJzZTFsVWJJelhZdVFFZUFiV2dhc0N5SGhBb0stTWNWMWNzQnBwN0EzLW9VbnNJbHQ1VERQM01tWEp3SE9iLTJwdHpQSkZDVExSb0FyeFR5b2hvN1BEME4yZXJZY0F0RElIWG14X1RKTGhGNW54RVplYk1CUldsMVRzWUJyYlpZbUNoTGo4WV80RldOUnkxdm5HRExOSDkzRW1tR2tvVWdTOG1FUktuSjNvTkhSa1BIMmZrcQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 14, 03:30 PM ET",
-    "publishedAt": "2026-08-14T19:30:16+00:00",
-    "source": "PCMag",
-    "title": "Anthropic's Claude Will Now Add Invisible Watermarks to Text, Image Outputs",
-    "summary": "PCMag is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQldRc1A5V2JwLWFyREsyWkt3d2JzN3pZZHY0eV9jYVc5WGZuY1RGd0lmNDQwaFRNcjBoZHpEQzZzNUhFVFZVa3VXME5fSVo4OS1fVXM1Zk0xZ1BvQlBHLVFiTng2RWVWcW1HSndEMm5JQ3B5eEtZelg1WERwWGhTQ0QyYkJ3TXlCNlYwTi1sQkxtdHB5a0ZJS3Y1aEhDZDVuaEE?oc=5",
     "difficulty": "News"
   },
   {
@@ -321,6 +309,18 @@
     "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDlPbUxhN1pUcFBPbHFNX3BVZG9DLUlzRVhwSFZIcTMwSkJVN1hZWGVobUVvYktvR25iWVFCbEVoN1MtdDJsWWhNei03ZXpQVmVlMHpQYmVZbUQ3NEhxenF3WVBGbm5XV2dZa3ktd0FOYXJJSktwOXYwdGItR085c0NpcWI2WmpEdTF0Wk84NkozUW4wd1FyMXdnbjU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 11, 02:45 PM ET",
+    "publishedAt": "2026-08-11T18:45:00+00:00",
+    "source": "Fortune",
+    "title": "Anthropic plans to add an invisible mark to AI text—as the industry scrambles to police AI slop",
+    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnlwczRuRk1oblktUkRXOWtibFRMTFpvZjZPVmp1akFxUG9YalhLVEM4SHpqWVZkNVlacDZwZUw2MlVnUlNQb0pzLXc3ZnczR3lHSm5FTGZFeDRSNjhWam5YczlhQW9KZWdOVlprWHZUSTMwamxnWERiLUxtYXlEcGIybEFTX1po?oc=5",
     "difficulty": "News"
   },
   {
