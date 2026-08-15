@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 14, 10:55 PM ET",
+    "publishedAt": "2026-08-15T02:55:00+00:00",
+    "source": "bangkokpost.com",
+    "title": "Google axes mobile AI Studio app, folds features into Gemini",
+    "summary": "bangkokpost.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzBOcFZfVjBCQUxlWVhXUmZlREExZ2YzbkM1TEQzWmhZdGFQQzdFTk02OTlydmE1dEQyWjIyaU0tSGU5Yjctd0lfZjRjOU1JdV9sblU0N1Rqc09WREFCTVBVdXlVVloyLW5BbnlQVkdFUDVXV1N3ZlhzTUY2TlJRVHFSTmRfTUVEQTQ1MmNnLXVUWm9TUUZCS3JVN190ZUdVMXdKbUdJYVg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 14, 07:24 PM ET",
@@ -62,18 +74,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 14, 02:00 PM ET",
-    "publishedAt": "2026-08-14T18:00:13+00:00",
-    "source": "Thurrott.com",
-    "title": "Google Gemini Users Can Now Hide Watermarks on Their AI-Generated Media",
-    "summary": "Thurrott.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXR0Qi11QXAtSlF4Z3k0TXU4UldfZkhqMDYzR2tDamVaaVVMSUtmMFZkRVYxd0VYZmZyak5IQjJDLXhBSG81NTJDR1VaemxPZWhwd2xIbDRUNkIzVzRCRFNhY3BpeFVSSTZYTjFKMVB0Y05iQ2dNdmNxR0R4SkUzcmhBTndVUVppYmhnS3lFcEhaaU4zMnFtTEMxUmtwT2EzMVJpTmFFY2NfV3c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Aug 14, 12:56 PM ET",
     "publishedAt": "2026-08-14T16:56:09+00:00",
     "source": "SQ Magazine",
@@ -98,23 +98,11 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 14, 11:54 AM ET",
-    "publishedAt": "2026-08-14T15:54:14+00:00",
-    "source": "Tech Times",
-    "title": "GPT-5.6 Sol Now Runs at Real-Time Speed: OpenAI's Ultrafast Preview Offers No Price or Date",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWk9sQXdaZ0YyandzRm4wWDhuRFczSkdVUDQ2azI4WWVUTXlzRy1hR3RBa2tTZW13TGdtNFozXzVMT21JTDJSd0daYVhLNk9jQ1lGUk9IbFh6b1VIdTRaWEswVklrOUhJSXhVVHV1NHFIYlVMd3Q2MlRmYk1Od0FTMDJDNEJ1M3g4akctZ0tLdU5LUVpqYk5wcEJiM2k0U2drSTJqb3dvRUJfRzMzcm9MajViMUd6RjM3MGw2cGRnSWZwcjRwWGJvQXhlaHlXVklIUWdB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Aug 14, 06:55 AM ET",
     "publishedAt": "2026-08-14T10:55:58+00:00",
-    "source": "Help Net Security",
+    "source": "helpnetsecurity.com",
     "title": "OpenAI’s GPT-5.6 Sol runs up to 14× faster with Ultrafast mode",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnJKVGM2Tmg3b1h3S1ZiYkVOYmRsN1VYM0dzZnpFVC15a2RkYlU5QWpHMFcyOWhacWxIMEo1c2pxSnh1NDFtbmtBVkxmcnZnUXNiYTlyU2JyM21KT2wxMEhvaHBfQU9rQ19XZVhtbFpLcTdlOEFoakxCZ2stdzJQZFF4VDBsSGR2YXoxYjJJZ1pJN2kyalNzeHlrWWY0cmVDVGItUFFZejY?oc=5",
     "difficulty": "News"
@@ -144,13 +132,25 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 13, 05:05 PM ET",
+    "publishedAt": "2026-08-13T21:05:36+00:00",
+    "source": "TestingCatalog AI News",
+    "title": "OpenAI previews Ultrafast API tier for GPT-5.6 Sol",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmRIbFRtZzBFUXM4WTZtYTBsX1BPelc5N2R0WHhQbG85OU1ieWNsU0lNSnp0QndIV3BaUDIxQXRITG1hM2tCaktyNmI3VkFCTmlOYlV1X203S1puMWlaN0ZnQTBPTDlCZTNGZ3dFVENCWEloNlJzeXZSWGZfVWxqcEJ5T1ZzRVU3M1E?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 13, 02:02 PM ET",
     "publishedAt": "2026-08-13T18:02:54+00:00",
-    "source": "VentureBeat",
+    "source": "venturebeat.com",
     "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORDZKOWNWb2dCLU56bV9KVVpnNzQyUFJDU0YtckhpSkt0MkdWNzVzR3poRnZwTlFZaS1RRU02UDV1QVlSMzZpTUtJbDg3OHhrUGF4dzdHYVNXQ1Z6N05tUXltU2Q0UWZpS1VDeVFsc2ZXSWlYSEpTV2Rydm1CTWNVLWRsOXVjb3BjWHhKZUpjX21RS3djNlBVOW5JT056Qy1vMlMxZk9ES3FmaDU1SzhqS0RuZ25NYi1NeXc?oc=5",
     "difficulty": "News"
@@ -208,9 +208,9 @@
     "label": "Gemini",
     "time": "Aug 13, 01:00 PM ET",
     "publishedAt": "2026-08-13T17:00:13+00:00",
-    "source": "Ars Technica",
+    "source": "arstechnica.com",
     "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
+    "summary": "arstechnica.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjZPd0hkSXZpM1RMMmo3bHBwLUVOUVp1dHkwTDB0bWdhdFhpV1lROUVrOW9GWmhxSWVpQzhOZmJJbUxGSThqS29XNVJjLV82NVBZY1U1N2lDX0NJOERwaWFWRjNQRlpUY1V3SWk0SXF4U3BxQUFkUEZ1aGxSVS1qY2QwYnZCOS1iYUtwNTdLcUE2RnV6MDYyb3Z1SDhNNFlLTDAyNndPLWtLaUwyWnc?oc=5",
     "difficulty": "News"
@@ -244,9 +244,9 @@
     "label": "Claude Code",
     "time": "Aug 13, 12:47 PM ET",
     "publishedAt": "2026-08-13T16:47:55+00:00",
-    "source": "VentureBeat",
+    "source": "venturebeat.com",
     "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeVA0OGxrdGxzcGV1VUtwei1fLVFhNUE4M3BNd0lLb1hpS2xoNXlWUzJzWU1YUDM4dElQVjIwcm1qQWsxeUdoOEF6ZGEta1lEaEJLd3g4bE5ITUtqLVpZSlp3X21LZDd5T3lPelI0cHhBaEdiOTBrYkdRbV9td1c4bWVCdUlUNGNjTmx1RTI2T19QMEtyTGZPWW42Z1BQVzRPdjZ6UkNyd3hfWFdQWVU1LTMtdEtpeE84S1FzbmdOLVZmWFRrVk5aLVJsbW5nSzdrU0RIRUNR?oc=5",
     "difficulty": "News"
