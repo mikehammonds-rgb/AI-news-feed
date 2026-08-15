@@ -132,18 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 13, 02:08 PM ET",
-    "publishedAt": "2026-08-13T18:08:50+00:00",
-    "source": "StartupHub.ai",
-    "title": "OpenAI Unveils GPT-5.6 Sol Ultrafast",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1lnenhJT3kwYTM4UjRTcnpzZlRTUUwycWpZamZVa0JwaEdld2gwakVyWGkySjU0RlBVMF9qeXFIZDA2UXFCa1c3Z21FSVFCc1oycFJkTW5MQ2pCbGU1THNjTVZXODBwMk1LV00yUW5zdHFLYi11bHRwaTQ3QTF3My1Ra01CVFNUcXRoWGRvMmxjY3U4VVBUQUJ0TVBvWEpa?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 13, 02:02 PM ET",
@@ -338,6 +326,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Aug 07, 01:47 PM ET",
+    "publishedAt": "2026-08-07T17:47:06+00:00",
+    "source": "Palo Alto Networks",
+    "title": "Strengthening Security of AI Coding: Prisma AIRS API Integration with OpenAI Codex",
+    "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3NPSndEa0h4LUR2bDlCdnd5a2ZEZ3h0RWh5R0l6QVczak5jSHp5cWgxTXZMSzl3NGx4dHdDNmdwVEFyWWhsSU1VVFhEWXpHNnJDMjlkWG9LMy1DRVcySTQzNTNrLUV2ZlBLek01a3RGSGZnWVhnbWtlTXNRNlhkOWNveUFWWVI4c1R3TFpWLTBzYjBaWlhIZVQ2SzBCX0oxMWd0Um1yZUhVckFVNGJqaGVPVm1QQ2k5WHJHZlk5UFRSdW41QTRJ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Jul 29, 03:00 AM ET",
     "publishedAt": "2026-07-29T07:00:00+00:00",
     "source": "Business Insider",
@@ -376,9 +376,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 16, 03:00 AM ET",
     "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "cbsnews.com",
+    "source": "CBS News",
     "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "cbsnews.com is reporting this update. Open the article for the full story.",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
