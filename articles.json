@@ -1,17 +1,5 @@
 [
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 15, 07:17 PM ET",
-    "publishedAt": "2026-08-15T23:17:41+00:00",
-    "source": "patmcguinness.substack.com",
-    "title": "AI Week in Review 26.08.15",
-    "summary": "patmcguinness.substack.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZcXBLeVdVOVB3VEwzTEx4SHVLVmwxTENfYXRxemNlYXdXZDVXX1BRdWNGTmVuUkF6MjFYSEhGWW9Bb1NYTG9kdW9iU1ZGRjhVWnVkMUp2RnV4WXJJVTVVSnFkR3RMTF9HQXRwR21R?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 15, 02:58 PM ET",
@@ -64,9 +52,9 @@
     "label": "Gemini",
     "time": "Aug 14, 02:54 PM ET",
     "publishedAt": "2026-08-14T18:54:36+00:00",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
-    "summary": "nytimes.com is reporting this update. Open the article for the full story.",
+    "summary": "The New York Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SMU5ZVGZnNFNKMzY5b0dsTFE5cVZ0bEhjSkx4d21GX3dCSUgzd0lrWm15STZYVGVUaDJubWRxeHMwTHNtaThOeUg4aElISHFPdS00SGFKTlBzd0x1SGtJaFN3NWpUOWpEUEpTXzdwV3FqNVVSWl9kTG1ERzdlZw?oc=5",
     "difficulty": "News"
@@ -88,9 +76,9 @@
     "label": "Gemini",
     "time": "Aug 14, 12:39 PM ET",
     "publishedAt": "2026-08-14T16:39:32+00:00",
-    "source": "The Verge",
+    "source": "theverge.com",
     "title": "You can now turn off Google Gemini’s visible watermarks",
-    "summary": "The Verge is reporting this update. Open the article for the full story.",
+    "summary": "theverge.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1b1VHak9GNF9RQl92X1Y2dTFTS1dRZVhtZTNJb0JqU2lheXdUOWg5dTZuZ1FlM0Z0bEh1TDhsRnlqS09WYnY0ZHVIWHBUWC1vdW9vV2R3OXhLajRlMlQyRVVwNHhYZHFtbkpIdXZVcXlGTE54ZU0xYVY2b3Q?oc=5",
     "difficulty": "News"
@@ -129,6 +117,18 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 14, 01:38 AM ET",
+    "publishedAt": "2026-08-14T05:38:28+00:00",
+    "source": "Storyboard18",
+    "title": "Google launches Gemini 3.7 Flash for coding and AI agents",
+    "summary": "Storyboard18 is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzJmMmhHc3JBUFlSODhiVmRyS05Zb0dMVzVkNUFNaHhHNV9ndnY5S2RaRTh2YzR0SmY0dkFQYVlBQmI5VFBDZmt3RVVYY1h5N1ZIUVpaNXZsV0JBc25kaW9LLXNfcU9XS0c2LW5GbjRlSzVRaUVaMWRuSFlPRi1TYmRCMXZ1eDJvM0htZTJSN1RxcFA0WDAtSGVwc016bkIyVmxvbExvODnSAa4BQVVfeXFMT0Y1SXZKOUFWS3J6Q1MxSVZfcU1IMGNBd1J0djBfRHNZVTJKQlcyMHBsUWZFV1Q5b3NLRkN6ZEZwN29PVVRkYzVFaWliUmV2YjZ3a1ZZZzNGZ20tSFM0Q0E2Yi1FV3B1UWJNck5GMGNaMlREWVphdzNVRXJLYzRfN3hVNnVaNkE5TnhpMEs5SnZtSWJWd01iellrbnQtZnNXeHI4TWxxUzd2MUg3cmV3?oc=5",
     "difficulty": "News"
   },
   {
@@ -208,9 +208,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 13, 12:48 PM ET",
     "publishedAt": "2026-08-13T16:48:00+00:00",
-    "source": "Fortune",
+    "source": "fortune.com",
     "title": "Microsoft begins to merge consumer and enterprise Copilot apps in push for super app",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "summary": "fortune.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemhfVVdDSzZQczJQWXR6eG10TzdKTjYzc0trUm9zRV9UWkl4ZzJEaFhDWkYxLTFWQVREZVhrWDVyaWZwQWRiS1MxVWI2bVNDMjRTZk1TVTJQRDBLOEF2Y2t0S3owakQzY29ITmlUazZ1QVN0U3pTbmhRVnlmSzJIUXBGaDk2R2g4OUNnSnFlV2RzWmt1aU5hT3lR?oc=5",
     "difficulty": "News"
@@ -232,9 +232,9 @@
     "label": "Claude Code",
     "time": "Aug 13, 07:36 AM ET",
     "publishedAt": "2026-08-13T11:36:00+00:00",
-    "source": "businessinsider.com",
+    "source": "Business Insider",
     "title": "Techies have concerns about Claude's hidden watermark. Anthropic has some answers.",
-    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnJ3dFoxSl9YdWhLa2lYaHg4Y3hNR1pjNFVfcnh5SE1XdVpSSmp2cTFGSkR2eDNQN3EtZXZOc09RTWhmZmVKcGtQOW5EUjZJT09zaWs5R0NoaVJHTHFzWG1xOC1aeHhwd1R5eGtfWVFCYWdablNPOUtpS2hxMEh0blVMWEpZdTd4bjFscHo2SXE4Z0gxb2RlZnVlMmp2NE9XV3RSbQ?oc=5",
     "difficulty": "News"
@@ -288,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 11, 06:50 PM ET",
-    "publishedAt": "2026-08-11T22:50:45+00:00",
-    "source": "SiliconANGLE",
-    "title": "Google’s Gemini AI app passes 1 billion monthly active users",
-    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDlPbUxhN1pUcFBPbHFNX3BVZG9DLUlzRVhwSFZIcTMwSkJVN1hZWGVobUVvYktvR25iWVFCbEVoN1MtdDJsWWhNei03ZXpQVmVlMHpQYmVZbUQ3NEhxenF3WVBGbm5XV2dZa3ktd0FOYXJJSktwOXYwdGItR085c0NpcWI2WmpEdTF0Wk84NkozUW4wd1FyMXdnbjU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 10, 05:29 PM ET",
@@ -328,11 +316,11 @@
     "label": "Gemini",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "Oracle",
-    "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "Oracle is reporting this update. Open the article for the full story.",
+    "source": "blog.google",
+    "title": "Introducing Gemini Robotics ER 2",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5kVDZidVI2WUlXTUs4UmplRDVCR1hTOUc4RWY3YnFyRjVUZGNVTVlkT1FTdU1WdkZqQmZfX2pTYlJXRHd5dmR1dWpRZFBrSTNDNXlOX2Jmdkw5NmNTb2ZmM3B5YmJUd1kxOUkxcHJTUm9DTlR1RU5hZ0pFbmNNT3Z4WndfWUdPejRReFlib0lUVzlXS2VHeXlsNA?oc=5",
     "difficulty": "News"
   },
   {
@@ -340,9 +328,9 @@
     "label": "ChatGPT",
     "time": "Jul 29, 03:00 AM ET",
     "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "businessinsider.com",
+    "source": "Business Insider",
     "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
