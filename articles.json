@@ -28,9 +28,9 @@
     "label": "Claude Code",
     "time": "Aug 15, 03:06 PM ET",
     "publishedAt": "2026-08-15T19:06:39+00:00",
-    "source": "Mashable",
+    "source": "mashable.com",
     "title": "Claude to start watermarking AI-generated content",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "summary": "mashable.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
     "difficulty": "News"
@@ -45,6 +45,18 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWJ1ZmhOTldsYm5ndl83cmtEeC03dGxRT28tcEZQOXV3MVZUVmFDS3JhZzVzUDBnMFg5N0hPUE9VYTdRd2ljSGU1TUk0VTE1a0hOcFZ0RTNEWFg1OWJkRVdkcVVQSzM3MmR3WDBqQ1lQbXZFaEhOQ0tDaW9za3REd1RaX3ZZdGMwdzRHb3pOMTd5X004V0RLanFRdEhPT05RbXlWVFhDZklWWlk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 15, 01:25 PM ET",
+    "publishedAt": "2026-08-15T17:25:08+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Use the Nano Banana Pro API: 12 Steps, 90 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzU2JRMUhaWk9ubkZnZFhzbUJmSmtJUkhUeFl6Szg2VWxvWFIxVkhxU1JKWGRRM2RhaURMUjV0TjAwZklUVWxhRkFwWTJlOE1URGVjOGFkbWZtRHBuTzhvSFF5S3dQLWhwbWpWalF3?oc=5",
     "difficulty": "News"
   },
   {
@@ -81,18 +93,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 14, 02:54 PM ET",
-    "publishedAt": "2026-08-14T18:54:36+00:00",
-    "source": "The New York Times",
-    "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
-    "summary": "The New York Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SMU5ZVGZnNFNKMzY5b0dsTFE5cVZ0bEhjSkx4d21GX3dCSUgzd0lrWm15STZYVGVUaDJubWRxeHMwTHNtaThOeUg4aElISHFPdS00SGFKTlBzd0x1SGtJaFN3NWpUOWpEUEpTXzdwV3FqNVVSWl9kTG1ERzdlZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -160,9 +160,9 @@
     "label": "ChatGPT",
     "time": "Aug 13, 02:08 PM ET",
     "publishedAt": "2026-08-13T18:08:50+00:00",
-    "source": "StartupHub.ai",
+    "source": "startuphub.ai",
     "title": "OpenAI Unveils GPT-5.6 Sol Ultrafast",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
+    "summary": "startuphub.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1lnenhJT3kwYTM4UjRTcnpzZlRTUUwycWpZamZVa0JwaEdld2gwakVyWGkySjU0RlBVMF9qeXFIZDA2UXFCa1c3Z21FSVFCc1oycFJkTW5MQ2pCbGU1THNjTVZXODBwMk1LV00yUW5zdHFLYi11bHRwaTQ3QTF3My1Ra01CVFNUcXRoWGRvMmxjY3U4VVBUQUJ0TVBvWEpa?oc=5",
     "difficulty": "News"
@@ -232,9 +232,9 @@
     "label": "Gemini",
     "time": "Aug 13, 01:00 PM ET",
     "publishedAt": "2026-08-13T17:00:13+00:00",
-    "source": "arstechnica.com",
+    "source": "Ars Technica",
     "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-    "summary": "arstechnica.com is reporting this update. Open the article for the full story.",
+    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjZPd0hkSXZpM1RMMmo3bHBwLUVOUVp1dHkwTDB0bWdhdFhpV1lROUVrOW9GWmhxSWVpQzhOZmJJbUxGSThqS29XNVJjLV82NVBZY1U1N2lDX0NJOERwaWFWRjNQRlpUY1V3SWk0SXF4U3BxQUFkUEZ1aGxSVS1qY2QwYnZCOS1iYUtwNTdLcUE2RnV6MDYyb3Z1SDhNNFlLTDAyNndPLWtLaUwyWnc?oc=5",
     "difficulty": "News"
@@ -244,9 +244,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 13, 12:48 PM ET",
     "publishedAt": "2026-08-13T16:48:00+00:00",
-    "source": "Fortune",
+    "source": "fortune.com",
     "title": "Microsoft begins to merge consumer and enterprise Copilot apps in push for super app",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "summary": "fortune.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFBXSENDYTVMLTdTOW8zVVJuMzViSGltb2pXTlQ4OW1yMmdEbTlnLURqMVpid2oxZGl3ZVBvekJfRjdhcEgzaHBjQWJRVFVNTkNyV2V1bVFwY0hsU25LLVcyMWxkV0NxZmhDS05LR0NEY3kxN1ZDTzBYRU05WlNSU3Z2Q0ZWMXJ2a3lzejlUVGhSZENXOUwtUTRsMXlsbU02QU1uT2JGX0x6a2o0Q2c?oc=5",
     "difficulty": "News"
@@ -290,6 +290,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Aug 12, 12:56 PM ET",
+    "publishedAt": "2026-08-12T16:56:50+00:00",
+    "source": "Crypto Briefing",
+    "title": "DeepSeek launches social media accounts and posts job listings to build AI coding agents",
+    "summary": "Crypto Briefing is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KTFp6SlYwYnhkWGdTOTZ2MHZRUG56bklfVUNSY3ltbWxORjgydEpHNWsyN2ljNE8ySVp2M3dNOW5oYThFVE1Nb2R0SWxBbTF2UjUxRWR3QzE0OHdaMXV4VUktWl90aV9SVXcyWUhFbFZwNUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Aug 12, 10:53 AM ET",
     "publishedAt": "2026-08-12T14:53:31+00:00",
     "source": "tech-insider.org",
@@ -328,9 +340,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 10, 05:29 PM ET",
     "publishedAt": "2026-08-10T21:29:46+00:00",
-    "source": "visualstudiomagazine.com",
+    "source": "Visual Studio Magazine",
     "title": "Microsoft Study Shows Just How 'Agentic' GitHub Copilot Has Become",
-    "summary": "visualstudiomagazine.com is reporting this update. Open the article for the full story.",
+    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzNKYWVlOWVaOHZ6ZUk3R3g3ZkVsMXFITzY5emVYelNxZHZ1NWtUbEw2QlUwQjZEMXgydjlhQ0dUN3BkU09pZWdUdHBGbGdUZWQ3bllWTkxOZ2dwQ1ZLM3Q5MnQ0OWltNGNvNHpiaTczbm8zbDdwNEV5MFdSMWhuVXZpNW9BTGNoYzRzYjBfcHVoMXo3eUVLb2d4elRPLVQ2RmZNM2tBMkc4ZldiSFJTRk1UNHpnUkxWRGc4aFNGUQ?oc=5",
     "difficulty": "News"
@@ -369,18 +381,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 16, 03:00 AM ET",
-    "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "CBS News",
-    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "CBS News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   }
 ]
