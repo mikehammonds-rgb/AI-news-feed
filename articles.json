@@ -26,18 +26,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 15, 03:06 PM ET",
-    "publishedAt": "2026-08-15T19:06:39+00:00",
-    "source": "Mashable",
-    "title": "Claude to start watermarking AI-generated content",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 15, 02:58 PM ET",
     "publishedAt": "2026-08-15T18:58:39+00:00",
     "source": "TechCrunch",
@@ -148,9 +136,9 @@
     "label": "ChatGPT",
     "time": "Aug 14, 04:20 AM ET",
     "publishedAt": "2026-08-14T08:20:34+00:00",
-    "source": "techzine.eu",
+    "source": "Techzine Global",
     "title": "IBM expands collaboration with OpenAI",
-    "summary": "techzine.eu is reporting this update. Open the article for the full story.",
+    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0R0RXAwWnpxVERTWm9nXzlXUjFkS29ob0J1NVlpTXpmTF9iT29WUk9tb290SkxleTNwRE9JZ0xTbUZscHZDMXhmWFJaUjhXM0JPdGNKSTVhR3BaNk5Ta1VzUURIV1ljRFhRNldwS1RJMHNuSURrRktBdUd6N3ZVcWlyclc2LUxHaFdPSnptdGY?oc=5",
     "difficulty": "News"
@@ -220,9 +208,9 @@
     "label": "ChatGPT",
     "time": "Aug 13, 01:02 PM ET",
     "publishedAt": "2026-08-13T17:02:00+00:00",
-    "source": "9to5mac.com",
+    "source": "9to5Mac",
     "title": "OpenAI previews ‘Ultrafast’ GPT-5.6 Sol running up to 14 times faster",
-    "summary": "9to5mac.com is reporting this update. Open the article for the full story.",
+    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGFpeG9wSzdkenlGNGZ4WjNKalE5NVliQXdWTnNqdkZFekcwVjB2QVNrTDFCMnN0YXZWSXVjNy1rN2d2TFlIUXRFVXVGbWdBeGhLc1FSRUlZTW00anUyUzRZU25KdDQ0MmQyYWc1NWtjV05YWjJ6dzZCeTFOZ0J4SU41VEpnR3E4aVMwTmdoQk5JeThSTTh3RTNMaThrMXhr?oc=5",
     "difficulty": "News"
@@ -273,6 +261,18 @@
     "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnJ3dFoxSl9YdWhLa2lYaHg4Y3hNR1pjNFVfcnh5SE1XdVpSSmp2cTFGSkR2eDNQN3EtZXZOc09RTWhmZmVKcGtQOW5EUjZJT09zaWs5R0NoaVJHTHFzWG1xOC1aeHhwd1R5eGtfWVFCYWdablNPOUtpS2hxMEh0blVMWEpZdTd4bjFscHo2SXE4Z0gxb2RlZnVlMmp2NE9XV3RSbQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 13, 07:10 AM ET",
+    "publishedAt": "2026-08-13T11:10:18+00:00",
+    "source": "Ars Technica",
+    "title": "Claude’s new Scarlet Letter watermark is invisible—for now",
+    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOU5IeV8wcUd4R0NQc05oaHFsb1E1ME11OXpwd2JaQVAzWnVQM2RpRzIxTW9peXJvM2dqazB1MHBuVlY4LUtKVnVuWU01WTBfYkh3OTdzdnk5aXpVRC0tSGpoT01EMzVUSHZZYXpta05pNS1iLXF0ZnJDRk9Ecnk4ZWI3WTJMXzhza3BUQkxVOVJDc2l2MXo1c1JuM1otZjBaeE1TaQ?oc=5",
     "difficulty": "News"
   },
   {
