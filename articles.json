@@ -16,11 +16,23 @@
     "label": "Claude Code",
     "time": "Aug 15, 03:06 PM ET",
     "publishedAt": "2026-08-15T19:06:39+00:00",
-    "source": "mashable.com",
+    "source": "Mashable",
     "title": "Claude to start watermarking AI-generated content",
-    "summary": "mashable.com is reporting this update. Open the article for the full story.",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10eGdicG5wZFg0SzkyU1Q5d0JyNHNvRUNxUmQ2YkNGSFd0RUhEeElOd1FMT1BCYk5SemhmRjBQRndGYVhVX2MxY09TVmwtZE16T0QxNmE0OW01TF91ZllldmxDNU9iQzBoaXBBZXdGX3o?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 15, 02:58 PM ET",
+    "publishedAt": "2026-08-15T18:58:39+00:00",
+    "source": "TechCrunch",
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWJ1ZmhOTldsYm5ndl83cmtEeC03dGxRT28tcEZQOXV3MVZUVmFDS3JhZzVzUDBnMFg5N0hPUE9VYTdRd2ljSGU1TUk0VTE1a0hOcFZ0RTNEWFg1OWJkRVdkcVVQSzM3MmR3WDBqQ1lQbXZFaEhOQ0tDaW9za3REd1RaX3ZZdGMwdzRHb3pOMTd5X004V0RLanFRdEhPT05RbXlWVFhDZklWWlk?oc=5",
     "difficulty": "News"
   },
   {
@@ -33,18 +45,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzU2JRMUhaWk9ubkZnZFhzbUJmSmtJUkhUeFl6Szg2VWxvWFIxVkhxU1JKWGRRM2RhaURMUjV0TjAwZklUVWxhRkFwWTJlOE1URGVjOGFkbWZtRHBuTzhvSFF5S3dQLWhwbWpWalF3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 15, 04:14 AM ET",
-    "publishedAt": "2026-08-15T08:14:16+00:00",
-    "source": "Yellow.com",
-    "title": "GPT-5.6 Tightens OpenAI’s Grip On Microsoft 365 Despite Split Rumors",
-    "summary": "Yellow.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rQmd4TlREbjVDbnM0RWZrQ3ZaeTNFZFdvV2xkWGNRLUY2WGhKTElTWU15Y0NhblBDT1JFcEE5ZXlZZEtQek1keDl5Wkh6MHFSZ2VvODJMV1UxMHBXOTdlb1dsQUR1eFVxVkRwcmFFZ0tnMVh3blE?oc=5",
     "difficulty": "News"
   },
   {
@@ -153,18 +153,6 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 13, 04:30 PM ET",
-    "publishedAt": "2026-08-13T20:30:24+00:00",
-    "source": "Decrypt",
-    "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
-    "summary": "Decrypt is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkFkc1RoWXdhRGlRb2ZVc1hsb2xyNVpXUmtqdXRHbUpNaUI4VFdPaVViTTZ5LV9WSXdKOUlZV0tsWTFpOXBlZ1RKQ3RLYzRpeWJKWE5ydWFGMFJyUENCSndHSVFRNkFza0F1QXItVjJ3b2xHc2JPNDBPXzJnM1JJcWJVTDBhNVlNXzI5U1VMZ1dqd9IBmgFBVV95cUxQTnVNZ05od2hHY0tvVEpqcnVCWmM4NERjTVdqeWZKOE0tZG5lcjVlS3hrUmNxeU5mVFpJNmJaRHVUYV9oSWJGQ3VEVHFacmdVUlRuRXVYRlRkZ1VLT0tjVFhuNG1iY3pmQzg1Q1Mxcll4VGY5WXRiNk9CRHBhV1dfV3c0aG1rYlRhOWpOQTk5M3VaWnZTZ3hJUWhR?oc=5",
     "difficulty": "News"
   },
   {
@@ -333,6 +321,18 @@
     "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzNKYWVlOWVaOHZ6ZUk3R3g3ZkVsMXFITzY5emVYelNxZHZ1NWtUbEw2QlUwQjZEMXgydjlhQ0dUN3BkU09pZWdUdHBGbGdUZWQ3bllWTkxOZ2dwQ1ZLM3Q5MnQ0OWltNGNvNHpiaTczbm8zbDdwNEV5MFdSMWhuVXZpNW9BTGNoYzRzYjBfcHVoMXo3eUVLb2d4elRPLVQ2RmZNM2tBMkc4ZldiSFJTRk1UNHpnUkxWRGc4aFNGUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 07, 01:47 PM ET",
+    "publishedAt": "2026-08-07T17:47:06+00:00",
+    "source": "Palo Alto Networks",
+    "title": "Strengthening Security of AI Coding: Prisma AIRS API Integration with OpenAI Codex",
+    "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3NPSndEa0h4LUR2bDlCdnd5a2ZEZ3h0RWh5R0l6QVczak5jSHp5cWgxTXZMSzl3NGx4dHdDNmdwVEFyWWhsSU1VVFhEWXpHNnJDMjlkWG9LMy1DRVcySTQzNTNrLUV2ZlBLek01a3RGSGZnWVhnbWtlTXNRNlhkOWNveUFWWVI4c1R3TFpWLTBzYjBaWlhIZVQ2SzBCX0oxMWd0Um1yZUhVckFVNGJqaGVPVm1QQ2k5WHJHZlk5UFRSdW41QTRJ?oc=5",
     "difficulty": "News"
   },
   {
