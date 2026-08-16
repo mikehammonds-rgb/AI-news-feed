@@ -88,9 +88,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 14, 02:45 PM ET",
     "publishedAt": "2026-08-14T18:45:02+00:00",
-    "source": "Unite.AI",
+    "source": "unite.ai",
     "title": "Grok 4.6 Arrives in GitHub Copilot Across Eight Development Surfaces",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "summary": "unite.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbngxVC1kUmZIdi12ZWVsdUFPX2NNNVFkd2lid2VNdG9JUEhLelpETVZOaW9NcEJFS2Q1alh4NkV0eVBqcWxTS0hWcmRrOTZLMGhoMVJVODR1dmxGNHRYYkN2NWkwak1XbHJuNFpISkNVdC1kVldmVXk4ZURlNVg1ZFBsY0xIVjgxdXhWNlRYRnlyWFhI?oc=5",
     "difficulty": "News"
@@ -136,9 +136,9 @@
     "label": "ChatGPT",
     "time": "Aug 14, 04:20 AM ET",
     "publishedAt": "2026-08-14T08:20:34+00:00",
-    "source": "Techzine Global",
+    "source": "techzine.eu",
     "title": "IBM expands collaboration with OpenAI",
-    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "summary": "techzine.eu is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0R0RXAwWnpxVERTWm9nXzlXUjFkS29ob0J1NVlpTXpmTF9iT29WUk9tb290SkxleTNwRE9JZ0xTbUZscHZDMXhmWFJaUjhXM0JPdGNKSTVhR3BaNk5Ta1VzUURIV1ljRFhRNldwS1RJMHNuSURrRktBdUd6N3ZVcWlyclc2LUxHaFdPSnptdGY?oc=5",
     "difficulty": "News"
@@ -256,9 +256,9 @@
     "label": "Claude Code",
     "time": "Aug 13, 07:36 AM ET",
     "publishedAt": "2026-08-13T11:36:00+00:00",
-    "source": "businessinsider.com",
+    "source": "Business Insider",
     "title": "Techies have concerns about Claude's hidden watermark. Anthropic has some answers.",
-    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnJ3dFoxSl9YdWhLa2lYaHg4Y3hNR1pjNFVfcnh5SE1XdVpSSmp2cTFGSkR2eDNQN3EtZXZOc09RTWhmZmVKcGtQOW5EUjZJT09zaWs5R0NoaVJHTHFzWG1xOC1aeHhwd1R5eGtfWVFCYWdablNPOUtpS2hxMEh0blVMWEpZdTd4bjFscHo2SXE4Z0gxb2RlZnVlMmp2NE9XV3RSbQ?oc=5",
     "difficulty": "News"
@@ -340,23 +340,11 @@
     "label": "ChatGPT",
     "time": "Jul 29, 03:00 AM ET",
     "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "businessinsider.com",
+    "source": "Business Insider",
     "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 08, 03:00 AM ET",
-    "publishedAt": "2026-07-08T07:00:00+00:00",
-    "source": "wiz.io",
-    "title": "GhostApproval: A Trust Boundary Gap in AI Coding Assistants",
-    "summary": "wiz.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlNtRGVxSU9oRFVoUnBpQzZQVW1fbnBESVdydENXMjd1TEttT0I3cW92ZEZ3c1dwbUJvRFJnOUE1UWd6TVRVUTM5QzFoZVJzY09Da1MzOE82c0laRHBuWUttLWI4UDBoR19SeUJUNEYxYVZrTVFnZDNoNlFZV3pMR2I4SHIyVGZwS2c?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +369,18 @@
     "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Apr 24, 03:00 AM ET",
+    "publishedAt": "2026-04-24T07:00:00+00:00",
+    "source": "wiz.io",
+    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
     "difficulty": "News"
   }
 ]
