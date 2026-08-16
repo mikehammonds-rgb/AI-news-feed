@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 16, 07:28 PM ET",
+    "publishedAt": "2026-08-16T23:28:03+00:00",
+    "source": "Unite.AI",
+    "title": "Anthropic Outage Disrupts Claude Services, Fix Deployed After Login Failures",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmNmbDBOWjBEYVBoelZDZk9SNGtwN1lxTWtBTG9KTnJ0ZUQ1TkVialVpMXd5Wm9KWF82RG5IQ2U0eGZMS1RldGpBbzR1M2FTRUFNVTJ3eGJrb2phbVZsRE9HMzBuSHk4eHU3cEtjUnU4NWZUWGFibGt0MzdmYW5FRnVvODZSUkg4TEQyNjh6d0lLUGd6bUhXUmhibHNFQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 16, 06:28 PM ET",
     "publishedAt": "2026-08-16T22:28:57+00:00",
     "source": "BleepingComputer",
@@ -40,9 +52,9 @@
     "label": "Claude Code",
     "time": "Aug 14, 03:22 PM ET",
     "publishedAt": "2026-08-14T19:22:20+00:00",
-    "source": "anthropic.com",
+    "source": "Anthropic",
     "title": "How Claude's text watermarking works",
-    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
     "difficulty": "News"
@@ -112,9 +124,9 @@
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
     "publishedAt": "2026-08-14T07:30:00+00:00",
-    "source": "The Register",
+    "source": "theregister.com",
     "title": "Claude Code returns blank thinking blocks, but reasoning still costs you",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "summary": "theregister.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
     "difficulty": "News"
@@ -252,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 13, 02:31 AM ET",
-    "publishedAt": "2026-08-13T06:31:19+00:00",
-    "source": "forbes.com",
-    "title": "Claude Is Now Putting Invisible Watermarks In AI-Generated Text—Here’s What That Means",
-    "summary": "forbes.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHY4Rmg0RlpBc095UkFYTThPV0xfTDdmLTVETWtiaTk3cWhIMTZVVUI3WjRsVmlPUk9uSDJ2UmZPbUcyTG5JMjV5V0poZ2hWRURCOEpiUlQ0WkZ3MlhTTEw1S2d1NzU4eUZjS1kwakVIbGNvUzExajFzMDhKTFJEaFhtSlYzcVVCYjhYT2FxZ0N3NTBzWTVTU0lUcV8yeXphcWhXbVZpMTdwZjhTVUk3dDBiRUhndVN1WVRCME5UdDY0cnlfamxsamd0Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 12, 10:53 AM ET",
@@ -280,9 +280,9 @@
     "label": "Claude Code",
     "time": "Aug 12, 07:47 AM ET",
     "publishedAt": "2026-08-12T11:47:00+00:00",
-    "source": "The Hacker News",
+    "source": "thehackernews.com",
     "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
@@ -364,9 +364,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 30, 03:00 AM ET",
     "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "The GitHub Blog",
+    "source": "github.blog",
     "title": "Copilot Agent is now available in JetBrains AI Assistant",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "summary": "github.blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
     "difficulty": "News"
@@ -376,9 +376,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 16, 03:00 AM ET",
     "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "CBS News",
+    "source": "cbsnews.com",
     "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "summary": "cbsnews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
