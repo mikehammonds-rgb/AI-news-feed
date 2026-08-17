@@ -4,23 +4,11 @@
     "label": "ChatGPT",
     "time": "Aug 17, 04:15 PM ET",
     "publishedAt": "2026-08-17T20:15:00+00:00",
-    "source": "Security Boulevard",
+    "source": "securityboulevard.com",
     "title": "OpenAI Workload Identity Federation: Aembit Brings Secretless Access to the OpenAI API",
-    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
+    "summary": "securityboulevard.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnV6NFBUeXBrUEs0N1RiOGFQLXFSck9CSFVpOU4wb1QzOW5LYTdKbllCcUdrbThMeWlkQjB5eTQ1UWFtdFN2NnFha1Y3WG9PQVJYdWJ2WVlBeERqZS00QTg5cjUzVUg1bzgteUU4eEgyUkdPZFVmaEh3WmJUZ1hXR284aDdWV1JLaGstMVAwVG1aSVZZTHY2SEdNR1hjMnEzeVllYU5fQm9YZEVTQ0R0MDg3VXJPLWU3MC1BNUVvd1NyUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 17, 02:19 PM ET",
-    "publishedAt": "2026-08-17T18:19:00+00:00",
-    "source": "CNET",
-    "title": "Anthropic’s Claude Will Add Watermarks to AI-Generated Text and Files",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTVhQkpPVGFnb3lvVXZ1UHRHOXFVNTB5eVIxUXc4b2xiNFpOVFY1QVBpN18tMm1sVDdwSTlGcEljQ2tIazZkMFlWZjM1bURnT2xmT0s4UWJlWTdVUHVTQ2ZtcVI5UW5FVkluZGpVREFoT29SMGNMaVlYRUVPZDFnX2hVdVlCQ2FBWVVnRTk4MGgyOXZFdmFXa2E0U1p1YmdLSDQ2bEFWTzJ2MDdoQnhvVUd2bVp3dFdu?oc=5",
     "difficulty": "News"
   },
   {
@@ -184,9 +172,9 @@
     "label": "ChatGPT",
     "time": "Aug 14, 06:55 AM ET",
     "publishedAt": "2026-08-14T10:55:58+00:00",
-    "source": "Help Net Security",
+    "source": "helpnetsecurity.com",
     "title": "OpenAI’s GPT-5.6 Sol runs up to 14× faster with Ultrafast mode",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnJKVGM2Tmg3b1h3S1ZiYkVOYmRsN1VYM0dzZnpFVC15a2RkYlU5QWpHMFcyOWhacWxIMEo1c2pxSnh1NDFtbmtBVkxmcnZnUXNiYTlyU2JyM21KT2wxMEhvaHBfQU9rQ19XZVhtbFpLcTdlOEFoakxCZ2stdzJQZFF4VDBsSGR2YXoxYjJJZ1pJN2kyalNzeHlrWWY0cmVDVGItUFFZejY?oc=5",
     "difficulty": "News"
@@ -309,6 +297,18 @@
     "summary": "Venturebeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeVA0OGxrdGxzcGV1VUtwei1fLVFhNUE4M3BNd0lLb1hpS2xoNXlWUzJzWU1YUDM4dElQVjIwcm1qQWsxeUdoOEF6ZGEta1lEaEJLd3g4bE5ITUtqLVpZSlp3X21LZDd5T3lPelI0cHhBaEdiOTBrYkdRbV9td1c4bWVCdUlUNGNjTmx1RTI2T19QMEtyTGZPWW42Z1BQVzRPdjZ6UkNyd3hfWFdQWVU1LTMtdEtpeE84S1FzbmdOLVZmWFRrVk5aLVJsbW5nSzdrU0RIRUNR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 13, 07:36 AM ET",
+    "publishedAt": "2026-08-13T11:36:00+00:00",
+    "source": "Business Insider",
+    "title": "Techies have concerns about Claude's hidden watermark. Anthropic has some answers.",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnJ3dFoxSl9YdWhLa2lYaHg4Y3hNR1pjNFVfcnh5SE1XdVpSSmp2cTFGSkR2eDNQN3EtZXZOc09RTWhmZmVKcGtQOW5EUjZJT09zaWs5R0NoaVJHTHFzWG1xOC1aeHhwd1R5eGtfWVFCYWdablNPOUtpS2hxMEh0blVMWEpZdTd4bjFscHo2SXE4Z0gxb2RlZnVlMmp2NE9XV3RSbQ?oc=5",
     "difficulty": "News"
   },
   {
