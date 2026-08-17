@@ -108,6 +108,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 14, 10:53 PM ET",
+    "publishedAt": "2026-08-15T02:53:31+00:00",
+    "source": "Stocktwits",
+    "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
+    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 14, 03:22 PM ET",
@@ -117,18 +129,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 14, 02:54 PM ET",
-    "publishedAt": "2026-08-14T18:54:36+00:00",
-    "source": "The New York Times",
-    "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
-    "summary": "The New York Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SMU5ZVGZnNFNKMzY5b0dsTFE5cVZ0bEhjSkx4d21GX3dCSUgzd0lrWm15STZYVGVUaDJubWRxeHMwTHNtaThOeUg4aElISHFPdS00SGFKTlBzd0x1SGtJaFN3NWpUOWpEUEpTXzdwV3FqNVVSWl9kTG1ERzdlZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -168,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 14, 04:20 AM ET",
-    "publishedAt": "2026-08-14T08:20:34+00:00",
-    "source": "Techzine Global",
-    "title": "IBM expands collaboration with OpenAI",
-    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN0R0RXAwWnpxVERTWm9nXzlXUjFkS29ob0J1NVlpTXpmTF9iT29WUk9tb290SkxleTNwRE9JZ0xTbUZscHZDMXhmWFJaUjhXM0JPdGNKSTVhR3BaNk5Ta1VzUURIV1ljRFhRNldwS1RJMHNuSURrRktBdUd6N3ZVcWlyclc2LUxHaFdPSnptdGY?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
@@ -189,6 +177,18 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 13, 04:11 PM ET",
+    "publishedAt": "2026-08-13T20:11:58+00:00",
+    "source": "pulse2.com",
+    "title": "Google Launches Gemini 3.7 Flash With Lower Pricing And Stronger Coding And Agent Capabilities",
+    "summary": "pulse2.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakpjWUQ3Uzl5bzVFTGVhZGdiUEdWbVR5U21qeDdjbWQ3WGxmV1A0NXd5VDNtQ0ktZWZrVHlGRkxlSE9oVlJlb2Z4RlV5c2VoR2RlWGh5bHZRUFpmbHFCako4bVRBeUhQUGRwLXdKTkxneDRTb0REeVJTcHV4Nm91NV9YVGptX2hZUGNjT2xYd1AwU2tqMThZdGRrdVZlZ3puRHhtOFhCbjliTGtvUW1rRERIMHDSAboBQVVfeXFMUGtYbVg2Q0w1dFRnWkZ1RG9pTTNjWUNrLWtIMGkzOFVoZU5NN1RYMHkzbm1rVFlPbnIwT2pNdVhjbjV1WGhDQ0swWGdTUnNpY0toSkJ1U0hNa2VpWkZLbElhYkgxRldtX0NDVVpEYXo5THN6Q1BnLUhDUUlmN05SbHZTWXJiS0RPYmluWUhEaWJSV2lmcVJKQzY0bkFadE5NeXJwcGx3M09GMUs2RTBIRWJTVTQyaFhqbGl3?oc=5",
     "difficulty": "News"
   },
   {
@@ -272,7 +272,7 @@
     "title": "Microsoft begins to merge consumer and enterprise Copilot apps in push for super app",
     "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFBXSENDYTVMLTdTOW8zVVJuMzViSGltb2pXTlQ4OW1yMmdEbTlnLURqMVpid2oxZGl3ZVBvekJfRjdhcEgzaHBjQWJRVFVNTkNyV2V1bVFwY0hsU25LLVcyMWxkV0NxZmhDS05LR0NEY3kxN1ZDTzBYRU05WlNSU3Z2Q0ZWMXJ2a3lzejlUVGhSZENXOUwtUTRsMXlsbU02QU1uT2JGX0x6a2o0Q2c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemhfVVdDSzZQczJQWXR6eG10TzdKTjYzc0trUm9zRV9UWkl4ZzJEaFhDWkYxLTFWQVREZVhrWDVyaWZwQWRiS1MxVWI2bVNDMjRTZk1TVTJQRDBLOEF2Y2t0S3owakQzY29ITmlUazZ1QVN0U3pTbmhRVnlmSzJIUXBGaDk2R2g4OUNnSnFlV2RzWmt1aU5hT3lR?oc=5",
     "difficulty": "News"
   },
   {
@@ -304,9 +304,9 @@
     "label": "Claude Code",
     "time": "Aug 12, 07:47 AM ET",
     "publishedAt": "2026-08-12T11:47:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
@@ -365,7 +365,7 @@
     "time": "Jul 08, 03:00 AM ET",
     "publishedAt": "2026-07-08T07:00:00+00:00",
     "source": "wiz.io",
-    "title": "GhostApproval: AI Coding Assistant Trust Boundary Flaw",
+    "title": "GhostApproval: A Trust Boundary Gap in AI Coding Assistants",
     "summary": "wiz.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlNtRGVxSU9oRFVoUnBpQzZQVW1fbnBESVdydENXMjd1TEttT0I3cW92ZEZ3c1dwbUJvRFJnOUE1UWd6TVRVUTM5QzFoZVJzY09Da1MzOE82c0laRHBuWUttLWI4UDBoR19SeUJUNEYxYVZrTVFnZDNoNlFZV3pMR2I4SHIyVGZwS2c?oc=5",
