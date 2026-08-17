@@ -1,5 +1,29 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 16, 10:24 PM ET",
+    "publishedAt": "2026-08-17T02:24:25+00:00",
+    "source": "Firstpost",
+    "title": "Claude outage: Anthropic’s chatbot goes down for thousands of users, services restored",
+    "summary": "Firstpost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMTNKbGljelpuRld6czBDMjE3R19ndk1feHhrdW0zc2xYTjV6cHBybGhuZWhEUzBjcDJUT05IdHYwcFpWQzJSamV1NEFHQlQxdW1RY1pZa25nUjlXSVVtdUM2em1oLTFLeThZeGcxOXNPMEdUTHRNUHBIZ19MYWlObzRDc1lBQkd1LUhQQVIzVU1BMFlHVEpvWjlTNFhMODViLWpEd2JFR0J1WnNVdzZXd2lhR2JEOG1BbXNtUWg0SmhQbzNDYjNF0gHMAUFVX3lxTE5HSlRPRWNCcUlOZjZKZ2I4VFFiZW4wanRUOHFCd2t2S2h6RmJtTWs2U3ZXeU01UUZyWWJEU3pkTk1YNGMtUjdVZHpBYmhEX25RM2lON05DZWJvWFhfM1lQaGhabmNvWWxfUlBybmp3WnF2TE5XTUFCSFJ4ZUJUQ1dQc09hRy14eWJZa3JzSURaRFljWnBZcC1FemRaWTNDN1RpaWJBRW1ZWEJpQW9wbU1pNFp1M1BYbUdTSG1KakdIU015TmRtb0kyTDdrMg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 16, 09:38 PM ET",
+    "publishedAt": "2026-08-17T01:38:51+00:00",
+    "source": "BleepingComputer",
+    "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
+    "summary": "BleepingComputer is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdUFoSTRXenA2LWo3RksxNG9TMzI3dG1ydUpRempMTVFBZVBNb3N5Qi1Kbi10WlkwcUZ5OFVfTkdpZDB5eU1CZUV1dlBDc0UtQ2FJRTBERE42elFjQXhfcmlqN2U3aWhhT0pxZjFtc0p3V2VRNWxLaWZyYjlhLUF3WmpYS1oxU3BGMkctbTlrbXNzekxCYUpJb1JvXzVlMjk4OHdtSWMxLTFuZzZqWmVVek9CYVpvT1FtMUtvc0pmUkNwaEFLa2ZObU9TOGtfWWpFcnVlS0xVNNIB3AFBVV95cUxQUmdsRndjTnFfckQ5bU5icjdfZFZzSi14NlM2Qm5aX2lFbmpKUTk0cHh2Rm5NWFNqaTNrOWVacXJDeXJuOHIyaFNuM0FyRGwyM1loWjZNNzM0eFc2ZWVDSDl5Q1d3UHhIaEZ1ZmJneEpwMGVSVG5TRHpoUjlUV0dMMkV6SUVEWlo2VEctU0pEN0FwMU9OdjJEZUgtOE9ycDRZZDQ0UGlvaHVTRUotems5WDFWZXlackVyMm1MYUJHZ0h1SzNFRm5YVmtvYU5xZUtGYUJCRl9jQ0kzcUlK?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 16, 08:15 PM ET",
@@ -26,18 +50,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 16, 06:28 PM ET",
-    "publishedAt": "2026-08-16T22:28:57+00:00",
-    "source": "BleepingComputer",
-    "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
-    "summary": "BleepingComputer is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdUFoSTRXenA2LWo3RksxNG9TMzI3dG1ydUpRempMTVFBZVBNb3N5Qi1Kbi10WlkwcUZ5OFVfTkdpZDB5eU1CZUV1dlBDc0UtQ2FJRTBERE42elFjQXhfcmlqN2U3aWhhT0pxZjFtc0p3V2VRNWxLaWZyYjlhLUF3WmpYS1oxU3BGMkctbTlrbXNzekxCYUpJb1JvXzVlMjk4OHdtSWMxLTFuZzZqWmVVek9CYVpvT1FtMUtvc0pmUkNwaEFLa2ZObU9TOGtfWWpFcnVlS0xVNNIB3AFBVV95cUxQUmdsRndjTnFfckQ5bU5icjdfZFZzSi14NlM2Qm5aX2lFbmpKUTk0cHh2Rm5NWFNqaTNrOWVacXJDeXJuOHIyaFNuM0FyRGwyM1loWjZNNzM0eFc2ZWVDSDl5Q1d3UHhIaEZ1ZmJneEpwMGVSVG5TRHpoUjlUV0dMMkV6SUVEWlo2VEctU0pEN0FwMU9OdjJEZUgtOE9ycDRZZDQ0UGlvaHVTRUotems5WDFWZXlackVyMm1MYUJHZ0h1SzNFRm5YVmtvYU5xZUtGYUJCRl9jQ0kzcUlK?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 15, 02:58 PM ET",
     "publishedAt": "2026-08-15T18:58:39+00:00",
     "source": "TechCrunch",
@@ -45,18 +57,6 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWJ1ZmhOTldsYm5ndl83cmtEeC03dGxRT28tcEZQOXV3MVZUVmFDS3JhZzVzUDBnMFg5N0hPUE9VYTdRd2ljSGU1TUk0VTE1a0hOcFZ0RTNEWFg1OWJkRVdkcVVQSzM3MmR3WDBqQ1lQbXZFaEhOQ0tDaW9za3REd1RaX3ZZdGMwdzRHb3pOMTd5X004V0RLanFRdEhPT05RbXlWVFhDZklWWlk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 14, 09:02 PM ET",
-    "publishedAt": "2026-08-15T01:02:56+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Use Claude Skills: 11 Steps, 80 Min [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WalkxX2x0RjJvYW5BLVQ4YnV1UXpQLTB5WE56YWNMNkcwZVNtUDRTM1lRZUVNUFVNSmN6SDdWMVhMXzVDUFJvSDlSRG1wcC0zaFZ3QUxZbk9iZmtFeWVqOWNtV05fZll2bEE?oc=5",
     "difficulty": "News"
   },
   {
@@ -136,9 +136,9 @@
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
     "publishedAt": "2026-08-14T07:30:00+00:00",
-    "source": "theregister.com",
+    "source": "The Register",
     "title": "Claude Code returns blank thinking blocks, but reasoning still costs you",
-    "summary": "theregister.com is reporting this update. Open the article for the full story.",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
     "difficulty": "News"
@@ -153,6 +153,30 @@
     "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORDZKOWNWb2dCLU56bV9KVVpnNzQyUFJDU0YtckhpSkt0MkdWNzVzR3poRnZwTlFZaS1RRU02UDV1QVlSMzZpTUtJbDg3OHhrUGF4dzdHYVNXQ1Z6N05tUXltU2Q0UWZpS1VDeVFsc2ZXSWlYSEpTV2Rydm1CTWNVLWRsOXVjb3BjWHhKZUpjX21RS3djNlBVOW5JT056Qy1vMlMxZk9ES3FmaDU1SzhqS0RuZ25NYi1NeXc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 13, 02:01 PM ET",
+    "publishedAt": "2026-08-13T18:01:00+00:00",
+    "source": "Notebookcheck",
+    "title": "Google launches Gemini 3.7 Flash, claims major leap in coding and AI agents",
+    "summary": "Notebookcheck is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnVWRXFaSHd2WTU4T0N6UjF3SmQ3N2E4cmV4eFZocWhfVTY2YU9Wc1ZZcHNMX1UwU2g4VFQ4Y1pMMURmV1E2dHlRUm1MRS1vOWkwX1RFenQ1VTd1T09kRFQtWnFMMmd6VGRxeVBJTEJTSTJEVnVXNndBM0FManJpZjZsdHBEcmdmeXVKYVFCRWZyVHVINlV6a1FVUmJaZUR6ZlJPVHJuWGxWNFlVTkVvanVmNmpwbDZybEFz?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 13, 01:47 PM ET",
+    "publishedAt": "2026-08-13T17:47:41+00:00",
+    "source": "MarkTechPost",
+    "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSExpRlJxcV9abmdVR0VKRzJteG8yS0FHcWVHMFVkX05wTXZJT3BtRURfUVA3dG8tZm5QbGpndDNha0hQaXFUcHZhMnBRSkZGbmFUQ1ZSRDRMQ2dNVllUY2JpX1RZWVJWUXN6QW1YZXFqN1ZOdlpXX1BteEhQVU5HX09lSXB5RF9U0gGOAUFVX3lxTFBMazZ5TmVfMF9pVVlpamxqNzU0eTk5ei1CemJkMGgxa2d5M2s4WnJrMDVrX2VpUFpHSW9vUlRRdGJRS0ZFQ3diNzZqbFAtNHEtWnBkanprSEtiblp5dWYySTJzMjU0R3ZDcFJJaVZGSXdQREtYanhxSFF0UGVMS1B1YTQxVE9uX0xCbGVBV1E?oc=5",
     "difficulty": "News"
   },
   {
@@ -224,7 +248,7 @@
     "title": "Microsoft begins to merge consumer and enterprise Copilot apps in push for super app",
     "summary": "Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemhfVVdDSzZQczJQWXR6eG10TzdKTjYzc0trUm9zRV9UWkl4ZzJEaFhDWkYxLTFWQVREZVhrWDVyaWZwQWRiS1MxVWI2bVNDMjRTZk1TVTJQRDBLOEF2Y2t0S3owakQzY29ITmlUazZ1QVN0U3pTbmhRVnlmSzJIUXBGaDk2R2g4OUNnSnFlV2RzWmt1aU5hT3lR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFBXSENDYTVMLTdTOW8zVVJuMzViSGltb2pXTlQ4OW1yMmdEbTlnLURqMVpid2oxZGl3ZVBvekJfRjdhcEgzaHBjQWJRVFVNTkNyV2V1bVFwY0hsU25LLVcyMWxkV0NxZmhDS05LR0NEY3kxN1ZDTzBYRU05WlNSU3Z2Q0ZWMXJ2a3lzejlUVGhSZENXOUwtUTRsMXlsbU02QU1uT2JGX0x6a2o0Q2c?oc=5",
     "difficulty": "News"
   },
   {
@@ -280,23 +304,11 @@
     "label": "Claude Code",
     "time": "Aug 12, 07:47 AM ET",
     "publishedAt": "2026-08-12T11:47:00+00:00",
-    "source": "The Hacker News",
+    "source": "thehackernews.com",
     "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 11, 06:50 PM ET",
-    "publishedAt": "2026-08-11T22:50:45+00:00",
-    "source": "SiliconANGLE",
-    "title": "Google’s Gemini AI app passes 1 billion monthly active users",
-    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDlPbUxhN1pUcFBPbHFNX3BVZG9DLUlzRVhwSFZIcTMwSkJVN1hZWGVobUVvYktvR25iWVFCbEVoN1MtdDJsWWhNei03ZXpQVmVlMHpQYmVZbUQ3NEhxenF3WVBGbm5XV2dZa3ktd0FOYXJJSktwOXYwdGItR085c0NpcWI2WmpEdTF0Wk84NkozUW4wd1FyMXdnbjU?oc=5",
     "difficulty": "News"
   },
   {
@@ -321,18 +333,6 @@
     "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3NPSndEa0h4LUR2bDlCdnd5a2ZEZ3h0RWh5R0l6QVczak5jSHp5cWgxTXZMSzl3NGx4dHdDNmdwVEFyWWhsSU1VVFhEWXpHNnJDMjlkWG9LMy1DRVcySTQzNTNrLUV2ZlBLek01a3RGSGZnWVhnbWtlTXNRNlhkOWNveUFWWVI4c1R3TFpWLTBzYjBaWlhIZVQ2SzBCX0oxMWd0Um1yZUhVckFVNGJqaGVPVm1QQ2k5WHJHZlk5UFRSdW41QTRJ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 30, 03:00 AM ET",
-    "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "Oracle",
-    "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "Oracle is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -364,9 +364,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 30, 03:00 AM ET",
     "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "The GitHub Blog",
+    "source": "github.blog",
     "title": "Copilot Agent is now available in JetBrains AI Assistant",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "summary": "github.blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
     "difficulty": "News"
