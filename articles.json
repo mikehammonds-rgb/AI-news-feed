@@ -134,6 +134,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Aug 14, 02:54 PM ET",
+    "publishedAt": "2026-08-14T18:54:36+00:00",
+    "source": "The New York Times",
+    "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
+    "summary": "The New York Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SMU5ZVGZnNFNKMzY5b0dsTFE5cVZ0bEhjSkx4d21GX3dCSUgzd0lrWm15STZYVGVUaDJubWRxeHMwTHNtaThOeUg4aElISHFPdS00SGFKTlBzd0x1SGtJaFN3NWpUOWpEUEpTXzdwV3FqNVVSWl9kTG1ERzdlZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Aug 14, 12:39 PM ET",
     "publishedAt": "2026-08-14T16:39:32+00:00",
     "source": "The Verge",
@@ -148,9 +160,9 @@
     "label": "ChatGPT",
     "time": "Aug 14, 10:23 AM ET",
     "publishedAt": "2026-08-14T14:23:15+00:00",
-    "source": "the-decoder.com",
+    "source": "The Decoder",
     "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0l6dkpjR3ltbGJQaE5rMmd6Z1FhT0tUTkd2X0pCbkR3QjhWMzBXWmRraGwwQzctT2J6TVhuaUpPZE82LS11LUtJeVpUWF9CbUJUekxPaDl2Ujk2bk9KR05aYWNHWGIwLXAwV251WGx5TGFoaE1oeU55OUtwMldTc3Q0LThqZnlEQVBhUElwXzdlcFYwd1hoTzVwNVNtSlQ1N2hFdjhWM21PQQ?oc=5",
     "difficulty": "News"
@@ -177,18 +189,6 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 13, 04:11 PM ET",
-    "publishedAt": "2026-08-13T20:11:58+00:00",
-    "source": "pulse2.com",
-    "title": "Google Launches Gemini 3.7 Flash With Lower Pricing And Stronger Coding And Agent Capabilities",
-    "summary": "pulse2.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakpjWUQ3Uzl5bzVFTGVhZGdiUEdWbVR5U21qeDdjbWQ3WGxmV1A0NXd5VDNtQ0ktZWZrVHlGRkxlSE9oVlJlb2Z4RlV5c2VoR2RlWGh5bHZRUFpmbHFCako4bVRBeUhQUGRwLXdKTkxneDRTb0REeVJTcHV4Nm91NV9YVGptX2hZUGNjT2xYd1AwU2tqMThZdGRrdVZlZ3puRHhtOFhCbjliTGtvUW1rRERIMHDSAboBQVVfeXFMUGtYbVg2Q0w1dFRnWkZ1RG9pTTNjWUNrLWtIMGkzOFVoZU5NN1RYMHkzbm1rVFlPbnIwT2pNdVhjbjV1WGhDQ0swWGdTUnNpY0toSkJ1U0hNa2VpWkZLbElhYkgxRldtX0NDVVpEYXo5THN6Q1BnLUhDUUlmN05SbHZTWXJiS0RPYmluWUhEaWJSV2lmcVJKQzY0bkFadE5NeXJwcGx3M09GMUs2RTBIRWJTVTQyaFhqbGl3?oc=5",
     "difficulty": "News"
   },
   {
@@ -365,7 +365,7 @@
     "time": "Jul 08, 03:00 AM ET",
     "publishedAt": "2026-07-08T07:00:00+00:00",
     "source": "wiz.io",
-    "title": "GhostApproval: A Trust Boundary Gap in AI Coding Assistants",
+    "title": "GhostApproval: AI Coding Assistant Trust Boundary Flaw",
     "summary": "wiz.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlNtRGVxSU9oRFVoUnBpQzZQVW1fbnBESVdydENXMjd1TEttT0I3cW92ZEZ3c1dwbUJvRFJnOUE1UWd6TVRVUTM5QzFoZVJzY09Da1MzOE82c0laRHBuWUttLWI4UDBoR19SeUJUNEYxYVZrTVFnZDNoNlFZV3pMR2I4SHIyVGZwS2c?oc=5",
