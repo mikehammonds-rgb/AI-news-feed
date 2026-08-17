@@ -1,5 +1,29 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 17, 02:19 PM ET",
+    "publishedAt": "2026-08-17T18:19:00+00:00",
+    "source": "cnet.com",
+    "title": "Anthropic’s Claude Will Add Watermarks to AI-Generated Text and Files",
+    "summary": "cnet.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTVhQkpPVGFnb3lvVXZ1UHRHOXFVNTB5eVIxUXc4b2xiNFpOVFY1QVBpN18tMm1sVDdwSTlGcEljQ2tIazZkMFlWZjM1bURnT2xmT0s4UWJlWTdVUHVTQ2ZtcVI5UW5FVkluZGpVREFoT29SMGNMaVlYRUVPZDFnX2hVdVlCQ2FBWVVnRTk4MGgyOXZFdmFXa2E0U1p1YmdLSDQ2bEFWTzJ2MDdoQnhvVUd2bVp3dFdu?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 17, 01:40 PM ET",
+    "publishedAt": "2026-08-17T17:40:10+00:00",
+    "source": "GeekWire",
+    "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform",
+    "summary": "GeekWire is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 17, 01:00 PM ET",
@@ -24,15 +48,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 17, 08:12 AM ET",
-    "publishedAt": "2026-08-17T12:12:05+00:00",
-    "source": "TradingView",
-    "title": "Anthropic Quietly Changes Claude for Europe",
-    "summary": "TradingView is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 17, 08:11 AM ET",
+    "publishedAt": "2026-08-17T12:11:32+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Sonnet 5 vs GPT-5.6 vs Gemini 3.7 Flash [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnJCY1ZoN0tPM0NyNGpZdEMxTHpnTU9kY3JPQ3hUSGFycFRuOFlLdmVvaHZhXzFVWVVTUWE2ZHhOSVZZQTVCd3o0Z0szdFROcG5ySDllRTk3bjJCdTBDODlUZWxXVE9YbnZlMklJa2I5QXNWSzhYVUpJN0FBSzBQYVEzU19rV1N1RzIwU1RIbE5MSzRfelU2dzZ1VFVSTDBMa3BYdkxB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRThpZTYtVzI3TmdXQzRObGZpeE5wQmFmdkRXY194Y0EtdFFVblhrVkNST2tXU0JKVDdnYzR0UnhCX1NxNmExNktWTkhSRzBfemw2T0tmVktyamdhZjVDTWNvS1MzT20xR2gxRVlPbnFYSEt0TVZicFZ1Qkt0TklwUTlWUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -40,9 +64,9 @@
     "label": "Claude Code",
     "time": "Aug 17, 07:53 AM ET",
     "publishedAt": "2026-08-17T11:53:00+00:00",
-    "source": "Tech Times",
+    "source": "techtimes.com",
     "title": "Anthropic Kills Claude Workbench Today: Saved Prompts Gone, API Pipelines Broken",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "summary": "techtimes.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNWRiZlptTlIwdTVoa2dVTjZSUnVjNzA1XzhMeDNoMGdLWENBN0hfb0hEUFNTR21OMy02b2FzdnphTTVsai0ydkhoTDUyeEtZMWN4OHVac01LSWIzdEJORmJqdEZfUUstczM5d01wb1B0Zm5PMGFsMFdFa1kyd2EzLWtPUHhZSF95Tk1aMjl0cDBSemRvbElGVV94SEVzZzdRamt1TTJ6aENVdkI0QXlaRGlHZ2FPM2Q3T3NyUWVXRTc0WHlDRFJmajhocFZaUQ?oc=5",
     "difficulty": "News"
@@ -93,18 +117,6 @@
     "summary": "BleepingComputer is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdUFoSTRXenA2LWo3RksxNG9TMzI3dG1ydUpRempMTVFBZVBNb3N5Qi1Kbi10WlkwcUZ5OFVfTkdpZDB5eU1CZUV1dlBDc0UtQ2FJRTBERE42elFjQXhfcmlqN2U3aWhhT0pxZjFtc0p3V2VRNWxLaWZyYjlhLUF3WmpYS1oxU3BGMkctbTlrbXNzekxCYUpJb1JvXzVlMjk4OHdtSWMxLTFuZzZqWmVVek9CYVpvT1FtMUtvc0pmUkNwaEFLa2ZObU9TOGtfWWpFcnVlS0xVNNIB3AFBVV95cUxQUmdsRndjTnFfckQ5bU5icjdfZFZzSi14NlM2Qm5aX2lFbmpKUTk0cHh2Rm5NWFNqaTNrOWVacXJDeXJuOHIyaFNuM0FyRGwyM1loWjZNNzM0eFc2ZWVDSDl5Q1d3UHhIaEZ1ZmJneEpwMGVSVG5TRHpoUjlUV0dMMkV6SUVEWlo2VEctU0pEN0FwMU9OdjJEZUgtOE9ycDRZZDQ0UGlvaHVTRUotems5WDFWZXlackVyMm1MYUJHZ0h1SzNFRm5YVmtvYU5xZUtGYUJCRl9jQ0kzcUlK?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 16, 06:03 PM ET",
-    "publishedAt": "2026-08-16T22:03:58+00:00",
-    "source": "Gagadget.com",
-    "title": "SpaceX closes $60B Cursor deal, locking the top AI coding tool into Musk's orbit",
-    "summary": "Gagadget.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFhMMWhENUZYMTk5eXItUGU1NWZsQ2Q2WU1QQThON0JndWduZk8xWEJ0UU5GdkJuWl9YOTl5b0dVc25NOV9PTGZDMHhXR2NsYTZBQTQ5bmtXa0NNN01Vd2tVbVRrbGRBNUp5TU5FZWZadGFSNVhZNTR5Z09IcU5GbmpUeUR5dFdaVnYzWmVUYXd0cFN6SHc3dGhTd1V0YjkySF9BNGUzSGFRZkJPZXfSAbMBQVVfeXFMTnhoUlQteUpRUk94N3hfNjFqUW9KV0hCRlZjVHJqZWFfQW5JdlBkSXROTUNSTE56LW5KeTUtU3laeTE2dFVnZzAyQlpCbDFpUWNFQmZmQktXY3hScFFEczkwdHE2bFZYVmtTNGljQ0gwa1NhSjNzVUIxeEhKNmRYektWOURQNWVSNlFyWmFqZUNINlRLdXhxdWVpRm9VeHotMVE2Q21ScnRWTnA0UXo0bTZ1UnM?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,18 +324,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 13, 07:36 AM ET",
-    "publishedAt": "2026-08-13T11:36:00+00:00",
-    "source": "Business Insider",
-    "title": "Techies have concerns about Claude's hidden watermark. Anthropic has some answers.",
-    "summary": "Business Insider is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnJ3dFoxSl9YdWhLa2lYaHg4Y3hNR1pjNFVfcnh5SE1XdVpSSmp2cTFGSkR2eDNQN3EtZXZOc09RTWhmZmVKcGtQOW5EUjZJT09zaWs5R0NoaVJHTHFzWG1xOC1aeHhwd1R5eGtfWVFCYWdablNPOUtpS2hxMEh0blVMWEpZdTd4bjFscHo2SXE4Z0gxb2RlZnVlMmp2NE9XV3RSbQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 12, 10:53 AM ET",
@@ -352,9 +352,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 10, 05:29 PM ET",
     "publishedAt": "2026-08-10T21:29:46+00:00",
-    "source": "visualstudiomagazine.com",
+    "source": "Visual Studio Magazine",
     "title": "Microsoft Study Shows Just How 'Agentic' GitHub Copilot Has Become",
-    "summary": "visualstudiomagazine.com is reporting this update. Open the article for the full story.",
+    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzNKYWVlOWVaOHZ6ZUk3R3g3ZkVsMXFITzY5emVYelNxZHZ1NWtUbEw2QlUwQjZEMXgydjlhQ0dUN3BkU09pZWdUdHBGbGdUZWQ3bllWTkxOZ2dwQ1ZLM3Q5MnQ0OWltNGNvNHpiaTczbm8zbDdwNEV5MFdSMWhuVXZpNW9BTGNoYzRzYjBfcHVoMXo3eUVLb2d4elRPLVQ2RmZNM2tBMkc4ZldiSFJTRk1UNHpnUkxWRGc4aFNGUQ?oc=5",
     "difficulty": "News"
