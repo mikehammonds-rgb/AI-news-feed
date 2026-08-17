@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 16, 08:15 PM ET",
+    "publishedAt": "2026-08-17T00:15:26+00:00",
+    "source": "EdTech Innovation Hub",
+    "title": "Google UK Student AI Hackathon spotlights Gemini apps | ETIH EdTech News",
+    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYkF6aGRxRXZDZUEyOURDRjdHRmVoVHpQamxjSHV6YjdxUkNzcG1XSnd5UVpQZHYxX1RLWlp3WVBnLUJrSUQzaGtUaXc2SDJNWlYxYjZPR3Z2LTd0a0xuTGZ6YzJ1dHktRG8xVnktdFViVjVhUEJzNFRFcG83SDZUWHlMWENQa2dqdTNwX29xU0Uwd0FqaWlRTWZUS3FXNkxaUWs1Mk1NNG9rd3pBZVduMWlkN1lkWFpIcmYxakY3UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 16, 07:28 PM ET",
@@ -146,18 +158,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 13, 01:47 PM ET",
-    "publishedAt": "2026-08-13T17:47:41+00:00",
-    "source": "MarkTechPost",
-    "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSExpRlJxcV9abmdVR0VKRzJteG8yS0FHcWVHMFVkX05wTXZJT3BtRURfUVA3dG8tZm5QbGpndDNha0hQaXFUcHZhMnBRSkZGbmFUQ1ZSRDRMQ2dNVllUY2JpX1RZWVJWUXN6QW1YZXFqN1ZOdlpXX1BteEhQVU5HX09lSXB5RF9U0gGOAUFVX3lxTFBMazZ5TmVfMF9pVVlpamxqNzU0eTk5ei1CemJkMGgxa2d5M2s4WnJrMDVrX2VpUFpHSW9vUlRRdGJRS0ZFQ3diNzZqbFAtNHEtWnBkanprSEtiblp5dWYySTJzMjU0R3ZDcFJJaVZGSXdQREtYanhxSFF0UGVMS1B1YTQxVE9uX0xCbGVBV1E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Aug 13, 01:05 PM ET",
     "publishedAt": "2026-08-13T17:05:38+00:00",
     "source": "blog.google",
@@ -280,9 +280,9 @@
     "label": "Claude Code",
     "time": "Aug 12, 07:47 AM ET",
     "publishedAt": "2026-08-12T11:47:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
@@ -364,9 +364,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 30, 03:00 AM ET",
     "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "github.blog",
+    "source": "The GitHub Blog",
     "title": "Copilot Agent is now available in JetBrains AI Assistant",
-    "summary": "github.blog is reporting this update. Open the article for the full story.",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
     "difficulty": "News"
@@ -376,9 +376,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 16, 03:00 AM ET",
     "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "cbsnews.com",
+    "source": "CBS News",
     "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "cbsnews.com is reporting this update. Open the article for the full story.",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
