@@ -48,6 +48,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 16, 06:03 PM ET",
+    "publishedAt": "2026-08-16T22:03:58+00:00",
+    "source": "Gagadget.com",
+    "title": "SpaceX closes $60B Cursor deal, locking the top AI coding tool into Musk's orbit",
+    "summary": "Gagadget.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFhMMWhENUZYMTk5eXItUGU1NWZsQ2Q2WU1QQThON0JndWduZk8xWEJ0UU5GdkJuWl9YOTl5b0dVc25NOV9PTGZDMHhXR2NsYTZBQTQ5bmtXa0NNN01Vd2tVbVRrbGRBNUp5TU5FZWZadGFSNVhZNTR5Z09IcU5GbmpUeUR5dFdaVnYzWmVUYXd0cFN6SHc3dGhTd1V0YjkySF9BNGUzSGFRZkJPZXfSAbMBQVVfeXFMTnhoUlQteUpRUk94N3hfNjFqUW9KV0hCRlZjVHJqZWFfQW5JdlBkSXROTUNSTE56LW5KeTUtU3laeTE2dFVnZzAyQlpCbDFpUWNFQmZmQktXY3hScFFEczkwdHE2bFZYVmtTNGljQ0gwa1NhSjNzVUIxeEhKNmRYektWOURQNWVSNlFyWmFqZUNINlRLdXhxdWVpRm9VeHotMVE2Q21ScnRWTnA0UXo0bTZ1UnM?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 15, 02:58 PM ET",
@@ -172,9 +184,9 @@
     "label": "ChatGPT",
     "time": "Aug 13, 01:05 PM ET",
     "publishedAt": "2026-08-13T17:05:30+00:00",
-    "source": "cerebras.ai",
+    "source": "Cerebras",
     "title": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI",
-    "summary": "cerebras.ai is reporting this update. Open the article for the full story.",
+    "summary": "Cerebras is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5",
     "difficulty": "News"
@@ -220,9 +232,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 13, 12:48 PM ET",
     "publishedAt": "2026-08-13T16:48:00+00:00",
-    "source": "Fortune",
+    "source": "fortune.com",
     "title": "Microsoft begins to merge consumer and enterprise Copilot apps in push for super app",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
+    "summary": "fortune.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFBXSENDYTVMLTdTOW8zVVJuMzViSGltb2pXTlQ4OW1yMmdEbTlnLURqMVpid2oxZGl3ZVBvekJfRjdhcEgzaHBjQWJRVFVNTkNyV2V1bVFwY0hsU25LLVcyMWxkV0NxZmhDS05LR0NEY3kxN1ZDTzBYRU05WlNSU3Z2Q0ZWMXJ2a3lzejlUVGhSZENXOUwtUTRsMXlsbU02QU1uT2JGX0x6a2o0Q2c?oc=5",
     "difficulty": "News"
@@ -369,18 +381,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 16, 03:00 AM ET",
-    "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "CBS News",
-    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "CBS News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   }
 ]
