@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 18, 08:13 AM ET",
+    "publishedAt": "2026-08-18T12:13:22+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Fable 5 vs Grok 4.6 vs DeepSeek V4 [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tZ2J6Xy13TG81ejQ3LTJ0Z1BHeWtLWlcwSEhwWVJvdTdFN2dDZnNvQUg2d2ZHSEZSSGY0UEU3T016SExEeTZYc2E5OExFVndXYUlfZEZITTk1NHpwRmo4VTNkV1MzZUhmaWN2djljWmV6RVlyNlVKNTl2dlo?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 18, 07:14 AM ET",
@@ -52,9 +64,9 @@
     "label": "Claude Code",
     "time": "Aug 18, 05:08 AM ET",
     "publishedAt": "2026-08-18T09:08:57+00:00",
-    "source": "Legal IT Insider",
+    "source": "legaltechnology.com",
     "title": "Claude’s text watermark – Does it matter in an AI output world?",
-    "summary": "Legal IT Insider is reporting this update. Open the article for the full story.",
+    "summary": "legaltechnology.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXJ1Q1pDdktxcXJlYWNwRFZocVZNVDZ5b1I0N0xvZTJkZGhtS0tQT0xTRndxZ2cwdnRON19yUHhZX1ZqbWFHV3Z4ZFIxUzBpMnBkTG5kT01OTW5GSHl5SUY0YU9XenprV1gzWDk2bnJCaUhCamJsV0JJU29HQXlpZVJ3eEV1SGFUeXZiLVctZV9rZw?oc=5",
     "difficulty": "News"
@@ -144,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 16, 03:00 AM ET",
-    "publishedAt": "2026-08-16T07:00:00+00:00",
-    "source": "AIMultiple",
-    "title": "Best 50+ Open Source AI Agents Listed",
-    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WbnFnU3kxUnVrMWt2TlYyR3h4T3g0SWVFU0xQZlpBZHhxRDhGWnIzR284empKR1BVeVBIa0gyTmFiZWo3RjZvcjdIZ0puU3BMdlMzVURDOA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 15, 02:58 PM ET",
@@ -165,18 +165,6 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWJ1ZmhOTldsYm5ndl83cmtEeC03dGxRT28tcEZQOXV3MVZUVmFDS3JhZzVzUDBnMFg5N0hPUE9VYTdRd2ljSGU1TUk0VTE1a0hOcFZ0RTNEWFg1OWJkRVdkcVVQSzM3MmR3WDBqQ1lQbXZFaEhOQ0tDaW9za3REd1RaX3ZZdGMwdzRHb3pOMTd5X004V0RLanFRdEhPT05RbXlWVFhDZklWWlk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 14, 05:34 PM ET",
-    "publishedAt": "2026-08-14T21:34:49+00:00",
-    "source": "the-decoder.com",
-    "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUJzZTFsVWJJelhZdVFFZUFiV2dhc0N5SGhBb0stTWNWMWNzQnBwN0EzLW9VbnNJbHQ1VERQM01tWEp3SE9iLTJwdHpQSkZDVExSb0FyeFR5b2hvN1BEME4yZXJZY0F0RElIWG14X1RKTGhGNW54RVplYk1CUldsMVRzWUJyYlpZbUNoTGo4WV80RldOUnkxdm5HRExOSDkzRW1tR2tvVWdTOG1FUktuSjNvTkhSa1BIMmZrcQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,6 +357,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 03:00 AM ET",
+    "publishedAt": "2026-06-16T07:00:00+00:00",
+    "source": "CBS News",
+    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   },
   {
