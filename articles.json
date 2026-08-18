@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 18, 01:34 PM ET",
+    "publishedAt": "2026-08-18T17:34:16+00:00",
+    "source": "SQ Magazine",
+    "title": "Claude Down: Anthropic Investigates Multi-Model Errors",
+    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckR4S0wwNU9CMDR6Tnp5N1BUSllncWdMTmJ5VGw5OXR6RGUzalphZG9uYkpFd0NrTkhETWlyVEszRE5mYzhERzJDR0dqZWxSMmZId0lSaUNRUnRJYjQ4Q1ZDT0lUODVEYy1fNUlKa285SXl2OW5kQmNPMFV2NlQwY3QyLWlPZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 18, 12:18 PM ET",
@@ -45,18 +57,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZW1yMFBheHpGOHpwU1pWOWsxdzJ2VVNWY2kzUnV4RURpdzVVUFFZT3c2Z2tEdkRfeHRVVnNJUWpPTUxTNmpTUFdZZThJc1pYeks3c0NJSzhXaUNJVjdDUWd6WGVwNFJXbnBtUG5n?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 18, 06:30 AM ET",
-    "publishedAt": "2026-08-18T10:30:57+00:00",
-    "source": "Intelligent CIO",
-    "title": "Oracle to bring Gemini models to enterprise applications",
-    "summary": "Intelligent CIO is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWVTYU9oa2dVdkRSMmJEelVkZlBPWC1uRjQ0ZDhfTTlVcTQ0TGEtOV9PSEhHSE9yT2dnU2didTh4YjBwMm45YURPX003UDRtRnBNdTBsYmNDSHJ5MHFMN2lxMjY4VzY2TFpNbGlIbUluMGJUV2FxVnNza2RycjMxNHd2SnZ2OVZqYVJaZ0cyelcwU1R6aTFQUS1GclFFZTMtTlB2cQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -182,18 +182,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 14, 05:34 PM ET",
-    "publishedAt": "2026-08-14T21:34:49+00:00",
-    "source": "the-decoder.com",
-    "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUJzZTFsVWJJelhZdVFFZUFiV2dhc0N5SGhBb0stTWNWMWNzQnBwN0EzLW9VbnNJbHQ1VERQM01tWEp3SE9iLTJwdHpQSkZDVExSb0FyeFR5b2hvN1BEME4yZXJZY0F0RElIWG14X1RKTGhGNW54RVplYk1CUldsMVRzWUJyYlpZbUNoTGo4WV80RldOUnkxdm5HRExOSDkzRW1tR2tvVWdTOG1FUktuSjNvTkhSa1BIMmZrcQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 14, 03:22 PM ET",
     "publishedAt": "2026-08-14T19:22:20+00:00",
     "source": "Anthropic",
@@ -208,9 +196,9 @@
     "label": "Gemini",
     "time": "Aug 14, 02:54 PM ET",
     "publishedAt": "2026-08-14T18:54:36+00:00",
-    "source": "nytimes.com",
+    "source": "The New York Times",
     "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
-    "summary": "nytimes.com is reporting this update. Open the article for the full story.",
+    "summary": "The New York Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SMU5ZVGZnNFNKMzY5b0dsTFE5cVZ0bEhjSkx4d21GX3dCSUgzd0lrWm15STZYVGVUaDJubWRxeHMwTHNtaThOeUg4aElISHFPdS00SGFKTlBzd0x1SGtJaFN3NWpUOWpEUEpTXzdwV3FqNVVSWl9kTG1ERzdlZw?oc=5",
     "difficulty": "News"
@@ -244,9 +232,9 @@
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
     "publishedAt": "2026-08-14T07:30:00+00:00",
-    "source": "theregister.com",
+    "source": "The Register",
     "title": "Claude Code returns blank thinking blocks, but reasoning still costs you",
-    "summary": "theregister.com is reporting this update. Open the article for the full story.",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
     "difficulty": "News"
@@ -357,6 +345,18 @@
     "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzNKYWVlOWVaOHZ6ZUk3R3g3ZkVsMXFITzY5emVYelNxZHZ1NWtUbEw2QlUwQjZEMXgydjlhQ0dUN3BkU09pZWdUdHBGbGdUZWQ3bllWTkxOZ2dwQ1ZLM3Q5MnQ0OWltNGNvNHpiaTczbm8zbDdwNEV5MFdSMWhuVXZpNW9BTGNoYzRzYjBfcHVoMXo3eUVLb2d4elRPLVQ2RmZNM2tBMkc4ZldiSFJTRk1UNHpnUkxWRGc4aFNGUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 31, 03:00 AM ET",
+    "publishedAt": "2026-07-31T07:00:00+00:00",
+    "source": "9to5google.com",
+    "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
+    "summary": "9to5google.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
     "difficulty": "News"
   },
   {
