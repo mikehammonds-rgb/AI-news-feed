@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 18, 12:18 PM ET",
+    "publishedAt": "2026-08-18T16:18:41+00:00",
+    "source": "Sportskeeda Tech",
+    "title": "Is Google Gemini down right now? Outage status explored (August 18, 2026)",
+    "summary": "Sportskeeda Tech is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGdDa0xoZmxVQWxHSTRYU3F5M2tqOVlJbkVqX25NQkJGbHRpWjZLYTFiLXVvTEpoajg2NDQ1UlNxbEhxTWFEZFJJbDVtTDJwb2d6SnlBRHZJdGVDZkxvZUZLbUd2Qk1LZlhhZU5SQllvUkR5NkU1R3pVb2hfcThvSXc0UDR3RGZ3QU5GY0lGMHRqX3U2c0Qxemw1bWdRUzlVQllGOXdwOVFJUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 18, 10:44 AM ET",
@@ -232,9 +244,9 @@
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
     "publishedAt": "2026-08-14T07:30:00+00:00",
-    "source": "The Register",
+    "source": "theregister.com",
     "title": "Claude Code returns blank thinking blocks, but reasoning still costs you",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "summary": "theregister.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
     "difficulty": "News"
@@ -345,18 +357,6 @@
     "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzNKYWVlOWVaOHZ6ZUk3R3g3ZkVsMXFITzY5emVYelNxZHZ1NWtUbEw2QlUwQjZEMXgydjlhQ0dUN3BkU09pZWdUdHBGbGdUZWQ3bllWTkxOZ2dwQ1ZLM3Q5MnQ0OWltNGNvNHpiaTczbm8zbDdwNEV5MFdSMWhuVXZpNW9BTGNoYzRzYjBfcHVoMXo3eUVLb2d4elRPLVQ2RmZNM2tBMkc4ZldiSFJTRk1UNHpnUkxWRGc4aFNGUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 31, 03:00 AM ET",
-    "publishedAt": "2026-07-31T07:00:00+00:00",
-    "source": "9to5Google",
-    "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
     "difficulty": "News"
   },
   {
