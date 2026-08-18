@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 18, 05:08 AM ET",
+    "publishedAt": "2026-08-18T09:08:57+00:00",
+    "source": "Legal IT Insider",
+    "title": "Claude’s text watermark – Does it matter in an AI output world?",
+    "summary": "Legal IT Insider is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXJ1Q1pDdktxcXJlYWNwRFZocVZNVDZ5b1I0N0xvZTJkZGhtS0tQT0xTRndxZ2cwdnRON19yUHhZX1ZqbWFHV3Z4ZFIxUzBpMnBkTG5kT01OTW5GSHl5SUY0YU9XenprV1gzWDk2bnJCaUhCamJsV0JJU29HQXlpZVJ3eEV1SGFUeXZiLVctZV9rZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 18, 01:33 AM ET",
@@ -76,9 +88,9 @@
     "label": "Claude Code",
     "time": "Aug 16, 06:28 PM ET",
     "publishedAt": "2026-08-16T22:28:57+00:00",
-    "source": "BleepingComputer",
+    "source": "bleepingcomputer.com",
     "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
-    "summary": "BleepingComputer is reporting this update. Open the article for the full story.",
+    "summary": "bleepingcomputer.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdUFoSTRXenA2LWo3RksxNG9TMzI3dG1ydUpRempMTVFBZVBNb3N5Qi1Kbi10WlkwcUZ5OFVfTkdpZDB5eU1CZUV1dlBDc0UtQ2FJRTBERE42elFjQXhfcmlqN2U3aWhhT0pxZjFtc0p3V2VRNWxLaWZyYjlhLUF3WmpYS1oxU3BGMkctbTlrbXNzekxCYUpJb1JvXzVlMjk4OHdtSWMxLTFuZzZqWmVVek9CYVpvT1FtMUtvc0pmUkNwaEFLa2ZObU9TOGtfWWpFcnVlS0xVNNIB3AFBVV95cUxQUmdsRndjTnFfckQ5bU5icjdfZFZzSi14NlM2Qm5aX2lFbmpKUTk0cHh2Rm5NWFNqaTNrOWVacXJDeXJuOHIyaFNuM0FyRGwyM1loWjZNNzM0eFc2ZWVDSDl5Q1d3UHhIaEZ1ZmJneEpwMGVSVG5TRHpoUjlUV0dMMkV6SUVEWlo2VEctU0pEN0FwMU9OdjJEZUgtOE9ycDRZZDQ0UGlvaHVTRUotems5WDFWZXlackVyMm1MYUJHZ0h1SzNFRm5YVmtvYU5xZUtGYUJCRl9jQ0kzcUlK?oc=5",
     "difficulty": "News"
@@ -184,9 +196,9 @@
     "label": "Gemini",
     "time": "Aug 13, 02:02 PM ET",
     "publishedAt": "2026-08-13T18:02:54+00:00",
-    "source": "venturebeat.com",
+    "source": "VentureBeat",
     "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
-    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORDZKOWNWb2dCLU56bV9KVVpnNzQyUFJDU0YtckhpSkt0MkdWNzVzR3poRnZwTlFZaS1RRU02UDV1QVlSMzZpTUtJbDg3OHhrUGF4dzdHYVNXQ1Z6N05tUXltU2Q0UWZpS1VDeVFsc2ZXSWlYSEpTV2Rydm1CTWNVLWRsOXVjb3BjWHhKZUpjX21RS3djNlBVOW5JT056Qy1vMlMxZk9ES3FmaDU1SzhqS0RuZ25NYi1NeXc?oc=5",
     "difficulty": "News"
@@ -220,9 +232,9 @@
     "label": "ChatGPT",
     "time": "Aug 13, 01:02 PM ET",
     "publishedAt": "2026-08-13T17:02:46+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
     "difficulty": "News"
@@ -232,9 +244,9 @@
     "label": "ChatGPT",
     "time": "Aug 13, 01:02 PM ET",
     "publishedAt": "2026-08-13T17:02:00+00:00",
-    "source": "9to5mac.com",
+    "source": "9to5Mac",
     "title": "OpenAI previews ‘Ultrafast’ GPT-5.6 Sol running up to 14 times faster",
-    "summary": "9to5mac.com is reporting this update. Open the article for the full story.",
+    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGFpeG9wSzdkenlGNGZ4WjNKalE5NVliQXdWTnNqdkZFekcwVjB2QVNrTDFCMnN0YXZWSXVjNy1rN2d2TFlIUXRFVXVGbWdBeGhLc1FSRUlZTW00anUyUzRZU25KdDQ0MmQyYWc1NWtjV05YWjJ6dzZCeTFOZ0J4SU41VEpnR3E4aVMwTmdoQk5JeThSTTh3RTNMaThrMXhr?oc=5",
     "difficulty": "News"
@@ -256,23 +268,11 @@
     "label": "Claude Code",
     "time": "Aug 13, 12:47 PM ET",
     "publishedAt": "2026-08-13T16:47:55+00:00",
-    "source": "venturebeat.com",
+    "source": "VentureBeat",
     "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeVA0OGxrdGxzcGV1VUtwei1fLVFhNUE4M3BNd0lLb1hpS2xoNXlWUzJzWU1YUDM4dElQVjIwcm1qQWsxeUdoOEF6ZGEta1lEaEJLd3g4bE5ITUtqLVpZSlp3X21LZDd5T3lPelI0cHhBaEdiOTBrYkdRbV9td1c4bWVCdUlUNGNjTmx1RTI2T19QMEtyTGZPWW42Z1BQVzRPdjZ6UkNyd3hfWFdQWVU1LTMtdEtpeE84S1FzbmdOLVZmWFRrVk5aLVJsbW5nSzdrU0RIRUNR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 13, 07:36 AM ET",
-    "publishedAt": "2026-08-13T11:36:00+00:00",
-    "source": "Business Insider",
-    "title": "Techies have concerns about Claude's hidden watermark. Anthropic has some answers.",
-    "summary": "Business Insider is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnJ3dFoxSl9YdWhLa2lYaHg4Y3hNR1pjNFVfcnh5SE1XdVpSSmp2cTFGSkR2eDNQN3EtZXZOc09RTWhmZmVKcGtQOW5EUjZJT09zaWs5R0NoaVJHTHFzWG1xOC1aeHhwd1R5eGtfWVFCYWdablNPOUtpS2hxMEh0blVMWEpZdTd4bjFscHo2SXE4Z0gxb2RlZnVlMmp2NE9XV3RSbQ?oc=5",
     "difficulty": "News"
   },
   {
