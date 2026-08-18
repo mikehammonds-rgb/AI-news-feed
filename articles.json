@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 18, 10:44 AM ET",
+    "publishedAt": "2026-08-18T14:44:05+00:00",
+    "source": "DevPro Journal",
+    "title": "Upcoming API sunsets every ISV should have on the calendar",
+    "summary": "DevPro Journal is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVRkV2ZzRmFOXzMxUUpScFdJV1ZqbjYyc2dtbl82bkEyNHlZeXNic0hGZl9COXRHRnE5NFM4eHhYWDhtTXdwTlNVWWtLN1VvYlJOclFuWnRqc0xyaXRTWHVWcTUyNl9wcTJqaVBzQ2Y1aDRjdkxYaDJXTWh6OURkbFdFRHVNYW1DN0o4ZTF5SnU0WERyMGhLQ19JZlhFTzBBTE5VRTRZU0JDTlNmQ0EtWmJR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 18, 08:13 AM ET",
@@ -21,18 +33,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZW1yMFBheHpGOHpwU1pWOWsxdzJ2VVNWY2kzUnV4RURpdzVVUFFZT3c2Z2tEdkRfeHRVVnNJUWpPTUxTNmpTUFdZZThJc1pYeks3c0NJSzhXaUNJVjdDUWd6WGVwNFJXbnBtUG5n?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 18, 07:00 AM ET",
-    "publishedAt": "2026-08-18T11:00:00+00:00",
-    "source": "extremetech.com",
-    "title": "Claude's Invisible Text Watermarks Doesn't Work the Way You Think",
-    "summary": "extremetech.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQajVEWk5CeS1FZ3A0ampwNjBEV0RsWUEyNjl0S3prRkRieTdwVVNEN3h4cG1UQnBEM0dKRmFBNHNhZkZMclFVZlRFMjBhcDJpeGZfRGFsNE1XNDBYaWQzLWk5V2hwRFJXd3BJaUY1cjlaOVBFekFnQWFEckxuSzZHQXV0akxRWVNKUFBqR1FXUENLdEtKQWcxOERvbXRBT1ZvZXc?oc=5",
     "difficulty": "News"
   },
   {
@@ -64,23 +64,23 @@
     "label": "Claude Code",
     "time": "Aug 18, 05:08 AM ET",
     "publishedAt": "2026-08-18T09:08:57+00:00",
-    "source": "legaltechnology.com",
+    "source": "Legal IT Insider",
     "title": "Claude’s text watermark – Does it matter in an AI output world?",
-    "summary": "legaltechnology.com is reporting this update. Open the article for the full story.",
+    "summary": "Legal IT Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXJ1Q1pDdktxcXJlYWNwRFZocVZNVDZ5b1I0N0xvZTJkZGhtS0tQT0xTRndxZ2cwdnRON19yUHhZX1ZqbWFHV3Z4ZFIxUzBpMnBkTG5kT01OTW5GSHl5SUY0YU9XenprV1gzWDk2bnJCaUhCamJsV0JJU29HQXlpZVJ3eEV1SGFUeXZiLVctZV9rZw?oc=5",
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 18, 01:33 AM ET",
-    "publishedAt": "2026-08-18T05:33:00+00:00",
-    "source": "The Korea Times",
-    "title": "OpenAI partners with Yonsei University for advanced AI research",
-    "summary": "The Korea Times is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 18, 04:11 AM ET",
+    "publishedAt": "2026-08-18T08:11:08+00:00",
+    "source": "Cybernews",
+    "title": "GitHub outage hits developers worldwide as Copilot and core services go down",
+    "summary": "Cybernews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa0RhamtBTzRpb0s0ZlV3eWVpNGttQ1lLaFloN2hHbWNYdmlXTXBBQmlaN1dsZUZ3SVFWZW9BN3FkUTMwNGVvODhmbXhNN1UxREFJVWNDcHNJdnlFZWNRRUI5XzVYVVZ5Z2hGVXdGR0pqWjBjSmt6eFhzZ2xHXzFwbDFJMzRHTGJzS2FEaUFFNmFQaHBIVDd1bHEzRmNhLUkxYjBOdWZUZC11alE5WjdzbG5DX2hneEJBZHh1NjFDWnJYUdIBwgFBVV95cUxOa0RhamtBTzRpb0s0ZlV3eWVpNGttQ1lLaFloN2hHbWNYdmlXTXBBQmlaN1dsZUZ3SVFWZW9BN3FkUTMwNGVvODhmbXhNN1UxREFJVWNDcHNJdnlFZWNRRUI5XzVYVVZ5Z2hGVXdGR0pqWjBjSmt6eFhzZ2xHXzFwbDFJMzRHTGJzS2FEaUFFNmFQaHBIVDd1bHEzRmNhLUkxYjBOdWZUZC11alE5WjdzbG5DX2hneEJBZHh1NjFDWnJYUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXF5WXpOdFQyZlkzcTkyTTFMYlRIc1l3ekltNFpqQWtXS3pEeWdpeVVrbk43OUwtSFZZbEdrb2xDc3ltRG41NUJsYThibmJyLTh2bmlhN3pVamFtV2NWOFlfNm82UEJNZzItcFQyWURFRjBOeTNCUVZ6eUhENUhUNXB3?oc=5",
     "difficulty": "News"
   },
   {
@@ -144,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 16, 02:00 PM ET",
-    "publishedAt": "2026-08-16T18:00:10+00:00",
-    "source": "XDA",
-    "title": "Claude Code, Codex, and Cursor are all overkill — here’s the lightweight tool I use instead",
-    "summary": "XDA is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZU9XUHhyNlREdFVfaHZYLTB6OGphY2JzZnlhTUliSmVZeHJoUVFCYjdLSThueDF5c21XdEJKOGszY3BUTFlHWDNtem1qdTlUOVFndk9mcmZERVZ3MzVnNnhQODdka2kxaFJIT21rYXhvNEJ2YjBkRHJ3cVEwdnVnUjVxTFJsUXltalU3ajhkcUJLZENjdzd3Qy1DeWNSRkFV?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 16, 03:00 AM ET",
@@ -177,6 +165,18 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWJ1ZmhOTldsYm5ndl83cmtEeC03dGxRT28tcEZQOXV3MVZUVmFDS3JhZzVzUDBnMFg5N0hPUE9VYTdRd2ljSGU1TUk0VTE1a0hOcFZ0RTNEWFg1OWJkRVdkcVVQSzM3MmR3WDBqQ1lQbXZFaEhOQ0tDaW9za3REd1RaX3ZZdGMwdzRHb3pOMTd5X004V0RLanFRdEhPT05RbXlWVFhDZklWWlk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 14, 05:34 PM ET",
+    "publishedAt": "2026-08-14T21:34:49+00:00",
+    "source": "the-decoder.com",
+    "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUJzZTFsVWJJelhZdVFFZUFiV2dhc0N5SGhBb0stTWNWMWNzQnBwN0EzLW9VbnNJbHQ1VERQM01tWEp3SE9iLTJwdHpQSkZDVExSb0FyeFR5b2hvN1BEME4yZXJZY0F0RElIWG14X1RKTGhGNW54RVplYk1CUldsMVRzWUJyYlpZbUNoTGo4WV80RldOUnkxdm5HRExOSDkzRW1tR2tvVWdTOG1FUktuSjNvTkhSa1BIMmZrcQ?oc=5",
     "difficulty": "News"
   },
   {
