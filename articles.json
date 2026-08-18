@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 18, 06:30 AM ET",
+    "publishedAt": "2026-08-18T10:30:57+00:00",
+    "source": "Intelligent CIO",
+    "title": "Oracle to bring Gemini models to enterprise applications",
+    "summary": "Intelligent CIO is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWVTYU9oa2dVdkRSMmJEelVkZlBPWC1uRjQ0ZDhfTTlVcTQ0TGEtOV9PSEhHSE9yT2dnU2didTh4YjBwMm45YURPX003UDRtRnBNdTBsYmNDSHJ5MHFMN2lxMjY4VzY2TFpNbGlIbUluMGJUV2FxVnNza2RycjMxNHd2SnZ2OVZqYVJaZ0cyelcwU1R6aTFQUS1GclFFZTMtTlB2cQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 18, 05:59 AM ET",
@@ -324,18 +336,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 31, 03:00 AM ET",
-    "publishedAt": "2026-07-31T07:00:00+00:00",
-    "source": "9to5Google",
-    "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Jul 29, 03:00 AM ET",
@@ -364,9 +364,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 16, 03:00 AM ET",
     "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "CBS News",
+    "source": "cbsnews.com",
     "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "summary": "cbsnews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
