@@ -1,17 +1,5 @@
 [
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 19, 12:45 AM ET",
-    "publishedAt": "2026-08-19T04:45:12+00:00",
-    "source": "tech-insider.org",
-    "title": "Best AI Chatbots 2026: ChatGPT vs Claude vs Gemini",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91bVB3ZWdVMkRYZ09tNVE0cDd1bUZQT0dSNFBVZFdZaEhaSUM0V1FDdkF5b0NLRGtEMW9WR1ZNckNqRU1pS0NzWExQSVl5cXAxTGREWWt5WUNSTzA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 18, 10:00 PM ET",
@@ -40,9 +28,9 @@
     "label": "ChatGPT",
     "time": "Aug 18, 08:01 PM ET",
     "publishedAt": "2026-08-19T00:01:09+00:00",
-    "source": "EdTech Innovation Hub",
+    "source": "edtechinnovationhub.com",
     "title": "OpenAI previews Ultrafast GPT-5.6 Sol at up to 14x Standard speed",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "summary": "edtechinnovationhub.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3BoOXZuLWtVWkxHd2p6Z3JzSVVXZTZlT19wd09PMGZLQ2FEYWJROFhjNVNUMDRsenZKWEJxTXhBeXNNaW5MbVFNdEhLejZsSUNraWJYOTNlX0ZPOWNqYXJhQ2tVZmRPVVRMeENvTnEyazNqRG5HQ29WbW9QemktXzBKRU1OVE1xN2N6SGFwZWdSYk02bTF0QjkwRkp3LTVmY2doaGZBLVk?oc=5",
     "difficulty": "News"
@@ -76,9 +64,9 @@
     "label": "Claude Code",
     "time": "Aug 18, 01:34 PM ET",
     "publishedAt": "2026-08-18T17:34:16+00:00",
-    "source": "SQ Magazine",
+    "source": "sqmagazine.co.uk",
     "title": "Claude Down: Anthropic Investigates Multi-Model Errors",
-    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
+    "summary": "sqmagazine.co.uk is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4Y19sM3FlTndNT0pxV3YxRENxeGJEMl92UzVTVkJOZHhfTHBadmc5Y0lUSGNwZ1E4NC1vMFRMZzhDY3UyRVp5cw?oc=5",
     "difficulty": "News"
@@ -220,9 +208,9 @@
     "label": "ChatGPT",
     "time": "Aug 14, 06:55 AM ET",
     "publishedAt": "2026-08-14T10:55:58+00:00",
-    "source": "Help Net Security",
+    "source": "helpnetsecurity.com",
     "title": "OpenAI’s GPT-5.6 Sol runs up to 14× faster with Ultrafast mode",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnJKVGM2Tmg3b1h3S1ZiYkVOYmRsN1VYM0dzZnpFVC15a2RkYlU5QWpHMFcyOWhacWxIMEo1c2pxSnh1NDFtbmtBVkxmcnZnUXNiYTlyU2JyM21KT2wxMEhvaHBfQU9rQ19XZVhtbFpLcTdlOEFoakxCZ2stdzJQZFF4VDBsSGR2YXoxYjJJZ1pJN2kyalNzeHlrWWY0cmVDVGItUFFZejY?oc=5",
     "difficulty": "News"
@@ -237,6 +225,18 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 13, 04:11 PM ET",
+    "publishedAt": "2026-08-13T20:11:58+00:00",
+    "source": "Pulse 2.0",
+    "title": "Google Launches Gemini 3.7 Flash With Lower Pricing And Stronger Coding And Agent Capabilities",
+    "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakpjWUQ3Uzl5bzVFTGVhZGdiUEdWbVR5U21qeDdjbWQ3WGxmV1A0NXd5VDNtQ0ktZWZrVHlGRkxlSE9oVlJlb2Z4RlV5c2VoR2RlWGh5bHZRUFpmbHFCako4bVRBeUhQUGRwLXdKTkxneDRTb0REeVJTcHV4Nm91NV9YVGptX2hZUGNjT2xYd1AwU2tqMThZdGRrdVZlZ3puRHhtOFhCbjliTGtvUW1rRERIMHDSAboBQVVfeXFMUGtYbVg2Q0w1dFRnWkZ1RG9pTTNjWUNrLWtIMGkzOFVoZU5NN1RYMHkzbm1rVFlPbnIwT2pNdVhjbjV1WGhDQ0swWGdTUnNpY0toSkJ1U0hNa2VpWkZLbElhYkgxRldtX0NDVVpEYXo5THN6Q1BnLUhDUUlmN05SbHZTWXJiS0RPYmluWUhEaWJSV2lmcVJKQzY0bkFadE5NeXJwcGx3M09GMUs2RTBIRWJTVTQyaFhqbGl3?oc=5",
     "difficulty": "News"
   },
   {
@@ -352,9 +352,9 @@
     "label": "ChatGPT",
     "time": "Jul 29, 03:00 AM ET",
     "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "businessinsider.com",
+    "source": "Business Insider",
     "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
