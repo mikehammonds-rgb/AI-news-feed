@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 19, 04:38 PM ET",
+    "publishedAt": "2026-08-19T20:38:42+00:00",
+    "source": "The Cryptonomist",
+    "title": "Google AI Studio update lets developers import and sync GitHub repos in one click",
+    "summary": "The Cryptonomist is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZG11RXBES3RhM0tGTVFyaExYLV9DOHdTZXFLNU1aSmoyZl9fWFU5T0VYYUk1S0JnYktCS2gtblQtaTFqaE1rYThYOXA4TFRkQXhfT21lUDhWQ3V1NFpjQlVhaU80VkNDR2syOWJNZHBQaFVWdllEdW1xb21IZXNibVNB?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 19, 03:38 PM ET",
@@ -16,9 +28,9 @@
     "label": "Claude Code",
     "time": "Aug 19, 01:30 PM ET",
     "publishedAt": "2026-08-19T17:30:13+00:00",
-    "source": "MakeUseOf",
+    "source": "makeuseof.com",
     "title": "I use Claude Code without paying a dime to Anthropic",
-    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
+    "summary": "makeuseof.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSEF6Y3R5WEVCQ3h2RVZHNGRXOHJDX0g2Yzg0ZXd1cTYtVkY5Z3FzUFFnYjZWM0JzZ0dhWnd3eEwySm1lTUFGeF9tOTRaRklhTjhiQTM3Y3hJb1I1VnVjaUZSU2Z1Qkh3QUVWQmNvTEZOcmhtWW1VMDh6Z0dPZG1PZGQtZktGZw?oc=5",
     "difficulty": "News"
@@ -110,18 +122,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 17, 01:00 PM ET",
-    "publishedAt": "2026-08-17T17:00:44+00:00",
-    "source": "searchenginejournal.com",
-    "title": "Google Lets You Turn Off Visible Watermarks In Gemini",
-    "summary": "searchenginejournal.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0F4VVZtQlAzVVJsbFRtTE1rNXZoWGhQUnR5VlRHMTFCVlNCX1N3RnZFcWFXSjQtNEZrNkF3QTZQczVhZDZCdXBaanZ4T1FUenYtQWc3NS14UjFid0VvM3JwMmsyRWI5QzNzR3V0U0s0NHNkY0J3NDhsRTVnRW9EN0JZMGJ1R2ZZR3ZpNjJYWEVpcWNjbGtLcHBiVG9NUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Aug 16, 08:15 PM ET",
     "publishedAt": "2026-08-17T00:15:26+00:00",
     "source": "EdTech Innovation Hub",
@@ -160,9 +160,9 @@
     "label": "Claude Code",
     "time": "Aug 15, 02:58 PM ET",
     "publishedAt": "2026-08-15T18:58:39+00:00",
-    "source": "techcrunch.com",
+    "source": "TechCrunch",
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "summary": "techcrunch.com is reporting this update. Open the article for the full story.",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWJ1ZmhOTldsYm5ndl83cmtEeC03dGxRT28tcEZQOXV3MVZUVmFDS3JhZzVzUDBnMFg5N0hPUE9VYTdRd2ljSGU1TUk0VTE1a0hOcFZ0RTNEWFg1OWJkRVdkcVVQSzM3MmR3WDBqQ1lQbXZFaEhOQ0tDaW9za3REd1RaX3ZZdGMwdzRHb3pOMTd5X004V0RLanFRdEhPT05RbXlWVFhDZklWWlk?oc=5",
     "difficulty": "News"
@@ -220,9 +220,9 @@
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
     "publishedAt": "2026-08-14T07:30:00+00:00",
-    "source": "theregister.com",
+    "source": "The Register",
     "title": "Claude Code returns blank thinking blocks, but reasoning still costs you",
-    "summary": "theregister.com is reporting this update. Open the article for the full story.",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
     "difficulty": "News"
@@ -304,9 +304,9 @@
     "label": "Claude Code",
     "time": "Aug 12, 07:47 AM ET",
     "publishedAt": "2026-08-12T11:47:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
