@@ -28,9 +28,9 @@
     "label": "Claude Code",
     "time": "Aug 18, 02:02 PM ET",
     "publishedAt": "2026-08-18T18:02:07+00:00",
-    "source": "Startup Fortune",
+    "source": "startupfortune.com",
     "title": "Claude AI Suffers Widespread Outage Across All Its Models on August 18",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
+    "summary": "startupfortune.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjdmZEY3RDAxWjVvTXZyUERkdGoxdnJuWGF3Q1BqMmRRUkF0eWFDVkJYQnlOLVJkUUxuVFlwMXlhMXYzcVRGMUlrQUdlZ0ZHUFJsMzEyT2RQbmh2UGZobzZ6bHNzWFZZelEwdzBROWk3Q0N0QlZKN1pWcTljcmdCNDdNZUpoMmo3UHZ4UHdBYWFMWmN4NGR1YkF2SFFQX1k?oc=5",
     "difficulty": "News"
@@ -81,18 +81,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZW1yMFBheHpGOHpwU1pWOWsxdzJ2VVNWY2kzUnV4RURpdzVVUFFZT3c2Z2tEdkRfeHRVVnNJUWpPTUxTNmpTUFdZZThJc1pYeks3c0NJSzhXaUNJVjdDUWd6WGVwNFJXbnBtUG5n?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 18, 05:59 AM ET",
-    "publishedAt": "2026-08-18T09:59:13+00:00",
-    "source": "GuruFocus",
-    "title": "Anthropic and OpenAI: The Future of AI API Access Amid Competiti",
-    "summary": "GuruFocus is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXhqWkpqcFlsQmRMdEp0aG54aDVVWUlkbW1ucGhtTE9pQkRpZHRfNEp5d090TVNfYlN0R3ppWU1mVWZvSkV2c2RWWGxNY1F6T3BIbzBra055b1g1dXhjT1JTSDBYUjdkYnpsdUNNSHF5T0xjQ3JuRUo0aTVsa29TZE9tMU13UzNqcFJZamQwOS1zNW84UUxySmRvMktKRHpGbThFRnRSOA?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,6 +204,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 14, 06:55 AM ET",
+    "publishedAt": "2026-08-14T10:55:58+00:00",
+    "source": "Help Net Security",
+    "title": "OpenAI’s GPT-5.6 Sol runs up to 14× faster with Ultrafast mode",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnJKVGM2Tmg3b1h3S1ZiYkVOYmRsN1VYM0dzZnpFVC15a2RkYlU5QWpHMFcyOWhacWxIMEo1c2pxSnh1NDFtbmtBVkxmcnZnUXNiYTlyU2JyM21KT2wxMEhvaHBfQU9rQ19XZVhtbFpLcTdlOEFoakxCZ2stdzJQZFF4VDBsSGR2YXoxYjJJZ1pJN2kyalNzeHlrWWY0cmVDVGItUFFZejY?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
@@ -328,9 +328,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 10, 05:29 PM ET",
     "publishedAt": "2026-08-10T21:29:46+00:00",
-    "source": "Visual Studio Magazine",
+    "source": "visualstudiomagazine.com",
     "title": "Microsoft Study Shows Just How 'Agentic' GitHub Copilot Has Become",
-    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
+    "summary": "visualstudiomagazine.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzNKYWVlOWVaOHZ6ZUk3R3g3ZkVsMXFITzY5emVYelNxZHZ1NWtUbEw2QlUwQjZEMXgydjlhQ0dUN3BkU09pZWdUdHBGbGdUZWQ3bllWTkxOZ2dwQ1ZLM3Q5MnQ0OWltNGNvNHpiaTczbm8zbDdwNEV5MFdSMWhuVXZpNW9BTGNoYzRzYjBfcHVoMXo3eUVLb2d4elRPLVQ2RmZNM2tBMkc4ZldiSFJTRk1UNHpnUkxWRGc4aFNGUQ?oc=5",
     "difficulty": "News"
@@ -364,9 +364,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 30, 03:00 AM ET",
     "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "The GitHub Blog",
+    "source": "github.blog",
     "title": "Copilot Agent is now available in JetBrains AI Assistant",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "summary": "github.blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
     "difficulty": "News"
