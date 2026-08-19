@@ -68,19 +68,7 @@
     "title": "Claude Down: Anthropic Investigates Multi-Model Errors",
     "summary": "sqmagazine.co.uk is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4Y19sM3FlTndNT0pxV3YxRENxeGJEMl92UzVTVkJOZHhfTHBadmc5Y0lUSGNwZ1E4NC1vMFRMZzhDY3UyRVp5cw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 18, 10:44 AM ET",
-    "publishedAt": "2026-08-18T14:44:05+00:00",
-    "source": "DevPro Journal",
-    "title": "Upcoming API sunsets every ISV should have on the calendar",
-    "summary": "DevPro Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVRkV2ZzRmFOXzMxUUpScFdJV1ZqbjYyc2dtbl82bkEyNHlZeXNic0hGZl9COXRHRnE5NFM4eHhYWDhtTXdwTlNVWWtLN1VvYlJOclFuWnRqc0xyaXRTWHVWcTUyNl9wcTJqaVBzQ2Y1aDRjdkxYaDJXTWh6OURkbFdFRHVNYW1DN0o4ZTF5SnU0WERyMGhLQ19JZlhFTzBBTE5VRTRZU0JDTlNmQ0EtWmJR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckR4S0wwNU9CMDR6Tnp5N1BUSllncWdMTmJ5VGw5OXR6RGUzalphZG9uYkpFd0NrTkhETWlyVEszRE5mYzhERzJDR0dqZWxSMmZId0lSaUNRUnRJYjQ4Q1ZDT0lUODVEYy1fNUlKa285SXl2OW5kQmNPMFV2NlQwY3QyLWlPZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -100,9 +88,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 18, 04:11 AM ET",
     "publishedAt": "2026-08-18T08:11:08+00:00",
-    "source": "Cybernews",
+    "source": "cybernews.com",
     "title": "GitHub outage hits developers worldwide as Copilot and core services go down",
-    "summary": "Cybernews is reporting this update. Open the article for the full story.",
+    "summary": "cybernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXF5WXpOdFQyZlkzcTkyTTFMYlRIc1l3ekltNFpqQWtXS3pEeWdpeVVrbk43OUwtSFZZbEdrb2xDc3ltRG41NUJsYThibmJyLTh2bmlhN3pVamFtV2NWOFlfNm82UEJNZzItcFQyWURFRjBOeTNCUVZ6eUhENUhUNXB3?oc=5",
     "difficulty": "News"
@@ -208,9 +196,9 @@
     "label": "ChatGPT",
     "time": "Aug 14, 06:55 AM ET",
     "publishedAt": "2026-08-14T10:55:58+00:00",
-    "source": "helpnetsecurity.com",
+    "source": "Help Net Security",
     "title": "OpenAI’s GPT-5.6 Sol runs up to 14× faster with Ultrafast mode",
-    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnJKVGM2Tmg3b1h3S1ZiYkVOYmRsN1VYM0dzZnpFVC15a2RkYlU5QWpHMFcyOWhacWxIMEo1c2pxSnh1NDFtbmtBVkxmcnZnUXNiYTlyU2JyM21KT2wxMEhvaHBfQU9rQ19XZVhtbFpLcTdlOEFoakxCZ2stdzJQZFF4VDBsSGR2YXoxYjJJZ1pJN2kyalNzeHlrWWY0cmVDVGItUFFZejY?oc=5",
     "difficulty": "News"
@@ -285,6 +273,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 13, 01:02 PM ET",
+    "publishedAt": "2026-08-13T17:02:00+00:00",
+    "source": "9to5Mac",
+    "title": "OpenAI previews ‘Ultrafast’ GPT-5.6 Sol running up to 14 times faster",
+    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGFpeG9wSzdkenlGNGZ4WjNKalE5NVliQXdWTnNqdkZFekcwVjB2QVNrTDFCMnN0YXZWSXVjNy1rN2d2TFlIUXRFVXVGbWdBeGhLc1FSRUlZTW00anUyUzRZU25KdDQ0MmQyYWc1NWtjV05YWjJ6dzZCeTFOZ0J4SU41VEpnR3E4aVMwTmdoQk5JeThSTTh3RTNMaThrMXhr?oc=5",
     "difficulty": "News"
   },
   {
