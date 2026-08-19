@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 19, 06:10 PM ET",
+    "publishedAt": "2026-08-19T22:10:46+00:00",
+    "source": "TechCrunch",
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeE1RX0FaeTZ4N25BV05ZYnhqS3I3bVd4aHB2WWI2QUhCV3czRmh2UGxWUjhKNDB5OWNoUldnd002WWFidk5QaXhtVG1Kd29UX2JaR2FxcWNIbGVCNndVVnhRYkF4UlpHejZRTWFVWXdvR013dkU3TWFzbjJIbG9sbDFHYTI2S3I3bFZaQkJTYXg5aVhoMHVtUHVYSHB1dExJTTUzN1poa2I?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 19, 04:38 PM ET",
@@ -38,13 +50,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 19, 04:13 AM ET",
-    "publishedAt": "2026-08-19T08:13:01+00:00",
-    "source": "36Kr",
-    "title": "Breaking News: Fable 5.1 Leaked & Claude Suffers Massive Global Outage",
-    "summary": "36Kr is reporting this update. Open the article for the full story.",
+    "time": "Aug 19, 12:44 PM ET",
+    "publishedAt": "2026-08-19T16:44:00+00:00",
+    "source": "WIRED",
+    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+    "summary": "WIRED is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ua3ZsQ3ZUd2dhVG5JN0VPSFdJTXN6aXNvODRXSlBTdlhJNjBKaTBja2c5S2djMnBaTXdHNlQzX0NrSWFZY0R3clVzX0p2UEtzbGtB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnVRS0g1dHJENG1VR2ppa25vUFpkRlQtazVRWEhCelNSSWJKSTE4YTJ4NEpaZWV4TFd0dHN5cXA3M20tLVRTdmNWeVJyaHRXSEZ0QWVFSGZFN0hUZDJyUXl5cWVtTFhTNTd2NU8wbE5pS2drdzJLTFdJRHk2aW5vSlY2ME9hUTZ0LVF3NTRoV0VWMkJycVhLUXBOZXYwRk41ZGJvZA?oc=5",
     "difficulty": "News"
   },
   {
@@ -52,9 +64,9 @@
     "label": "ChatGPT",
     "time": "Aug 18, 10:00 PM ET",
     "publishedAt": "2026-08-19T02:00:00+00:00",
-    "source": "VentureBeat",
+    "source": "venturebeat.com",
     "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFR6bW50VXpUSUN4WjF4SDN6aEIzX0lWeE5iXzBfT0dqQk1ZS0pzalRpbEJNVWFDX2F6UkFFY0dzOE5mb0RKNEZTVERGSDVlcmVLSWlINll2VjlKeHVURnlaMGJhZWhYbUFuc1E3Uk5fOExZMFVOajhCU0tyT1dlVTNaMDR3Zk14MmE4NzRR?oc=5",
     "difficulty": "News"
@@ -124,9 +136,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 17, 01:40 PM ET",
     "publishedAt": "2026-08-17T17:40:10+00:00",
-    "source": "GeekWire",
+    "source": "geekwire.com",
     "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform",
-    "summary": "GeekWire is reporting this update. Open the article for the full story.",
+    "summary": "geekwire.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
     "difficulty": "News"
@@ -160,9 +172,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 16, 03:00 AM ET",
     "publishedAt": "2026-08-16T07:00:00+00:00",
-    "source": "AIMultiple",
+    "source": "aimultiple.com",
     "title": "Best 50+ Open Source AI Agents Listed",
-    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
+    "summary": "aimultiple.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WbnFnU3kxUnVrMWt2TlYyR3h4T3g0SWVFU0xQZlpBZHhxRDhGWnIzR284empKR1BVeVBIa0gyTmFiZWo3RjZvcjdIZ0puU3BMdlMzVURDOA?oc=5",
     "difficulty": "News"
@@ -216,25 +228,13 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 14, 06:55 AM ET",
-    "publishedAt": "2026-08-14T10:55:58+00:00",
-    "source": "Help Net Security",
-    "title": "OpenAI’s GPT-5.6 Sol runs up to 14× faster with Ultrafast mode",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnJKVGM2Tmg3b1h3S1ZiYkVOYmRsN1VYM0dzZnpFVC15a2RkYlU5QWpHMFcyOWhacWxIMEo1c2pxSnh1NDFtbmtBVkxmcnZnUXNiYTlyU2JyM21KT2wxMEhvaHBfQU9rQ19XZVhtbFpLcTdlOEFoakxCZ2stdzJQZFF4VDBsSGR2YXoxYjJJZ1pJN2kyalNzeHlrWWY0cmVDVGItUFFZejY?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
     "publishedAt": "2026-08-14T07:30:00+00:00",
-    "source": "theregister.com",
+    "source": "The Register",
     "title": "Claude Code returns blank thinking blocks, but reasoning still costs you",
-    "summary": "theregister.com is reporting this update. Open the article for the full story.",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
     "difficulty": "News"
@@ -244,9 +244,9 @@
     "label": "Gemini",
     "time": "Aug 13, 02:02 PM ET",
     "publishedAt": "2026-08-13T18:02:54+00:00",
-    "source": "VentureBeat",
+    "source": "venturebeat.com",
     "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORDZKOWNWb2dCLU56bV9KVVpnNzQyUFJDU0YtckhpSkt0MkdWNzVzR3poRnZwTlFZaS1RRU02UDV1QVlSMzZpTUtJbDg3OHhrUGF4dzdHYVNXQ1Z6N05tUXltU2Q0UWZpS1VDeVFsc2ZXSWlYSEpTV2Rydm1CTWNVLWRsOXVjb3BjWHhKZUpjX21RS3djNlBVOW5JT056Qy1vMlMxZk9ES3FmaDU1SzhqS0RuZ25NYi1NeXc?oc=5",
     "difficulty": "News"
@@ -364,9 +364,9 @@
     "label": "Codex / LLM Code",
     "time": "Jun 30, 03:00 AM ET",
     "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "The GitHub Blog",
+    "source": "github.blog",
     "title": "Copilot Agent is now available in JetBrains AI Assistant",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "summary": "github.blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
     "difficulty": "News"
