@@ -72,18 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 18, 12:18 PM ET",
-    "publishedAt": "2026-08-18T16:18:41+00:00",
-    "source": "Sportskeeda Tech",
-    "title": "Is Google Gemini down right now? Outage status explored (August 18, 2026)",
-    "summary": "Sportskeeda Tech is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGdDa0xoZmxVQWxHSTRYU3F5M2tqOVlJbkVqX25NQkJGbHRpWjZLYTFiLXVvTEpoajg2NDQ1UlNxbEhxTWFEZFJJbDVtTDJwb2d6SnlBRHZJdGVDZkxvZUZLbUd2Qk1LZlhhZU5SQllvUkR5NkU1R3pVb2hfcThvSXc0UDR3RGZ3QU5GY0lGMHRqX3U2c0Qxemw1bWdRUzlVQllGOXdwOVFJUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 18, 10:44 AM ET",
@@ -93,6 +81,18 @@
     "summary": "DevPro Journal is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVRkV2ZzRmFOXzMxUUpScFdJV1ZqbjYyc2dtbl82bkEyNHlZeXNic0hGZl9COXRHRnE5NFM4eHhYWDhtTXdwTlNVWWtLN1VvYlJOclFuWnRqc0xyaXRTWHVWcTUyNl9wcTJqaVBzQ2Y1aDRjdkxYaDJXTWh6OURkbFdFRHVNYW1DN0o4ZTF5SnU0WERyMGhLQ19JZlhFTzBBTE5VRTRZU0JDTlNmQ0EtWmJR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 18, 07:14 AM ET",
+    "publishedAt": "2026-08-18T11:14:14+00:00",
+    "source": "tech-insider.org",
+    "title": "ChatGPT vs DeepSeek vs Qwen: 36x API Price Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZW1yMFBheHpGOHpwU1pWOWsxdzJ2VVNWY2kzUnV4RURpdzVVUFFZT3c2Z2tEdkRfeHRVVnNJUWpPTUxTNmpTUFdZZThJc1pYeks3c0NJSzhXaUNJVjdDUWd6WGVwNFJXbnBtUG5n?oc=5",
     "difficulty": "News"
   },
   {
@@ -108,18 +108,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 17, 04:20 PM ET",
-    "publishedAt": "2026-08-17T20:20:55+00:00",
-    "source": "Security Boulevard",
-    "title": "OpenAI Workload Identity Federation: Aembit Brings Secretless Access to the OpenAI API",
-    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnV6NFBUeXBrUEs0N1RiOGFQLXFSck9CSFVpOU4wb1QzOW5LYTdKbllCcUdrbThMeWlkQjB5eTQ1UWFtdFN2NnFha1Y3WG9PQVJYdWJ2WVlBeERqZS00QTg5cjUzVUg1bzgteUU4eEgyUkdPZFVmaEh3WmJUZ1hXR284aDdWV1JLaGstMVAwVG1aSVZZTHY2SEdNR1hjMnEzeVllYU5fQm9YZEVTQ0R0MDg3VXJPLWU3MC1BNUVvd1NyUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 17, 01:40 PM ET",
@@ -129,6 +117,18 @@
     "summary": "GeekWire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 17, 01:00 PM ET",
+    "publishedAt": "2026-08-17T17:00:44+00:00",
+    "source": "Search Engine Journal",
+    "title": "Google Lets You Turn Off Visible Watermarks In Gemini",
+    "summary": "Search Engine Journal is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0F4VVZtQlAzVVJsbFRtTE1rNXZoWGhQUnR5VlRHMTFCVlNCX1N3RnZFcWFXSjQtNEZrNkF3QTZQczVhZDZCdXBaanZ4T1FUenYtQWc3NS14UjFid0VvM3JwMmsyRWI5QzNzR3V0U0s0NHNkY0J3NDhsRTVnRW9EN0JZMGJ1R2ZZR3ZpNjJYWEVpcWNjbGtLcHBiVG9NUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,6 +216,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 14, 04:55 AM ET",
+    "publishedAt": "2026-08-14T08:55:32+00:00",
+    "source": "Techzine Global",
+    "title": "Google Gemini 3.7 Flash gets stronger in development",
+    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1BkVGJ1VFdrVDd1ZnBKbmNoakRVR2xKSW4zRTRWSl9iWmJZX1Ffdi1wXzVTd3VRVEstbjhWZjZxNlVQakJoZFhRM0w0UkNMQjNXdmk0SEJCRkxPcUJoQmdqWlVhZUI4TTZ2eFFMRVBPNXZxQmpldXA0dEk5VnNBWlY4QUw3X1JzNVJrVVhJckpuWmlYODRDTk9qcGh5U19I?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
@@ -225,18 +237,6 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 13, 04:11 PM ET",
-    "publishedAt": "2026-08-13T20:11:58+00:00",
-    "source": "Pulse 2.0",
-    "title": "Google Launches Gemini 3.7 Flash With Lower Pricing And Stronger Coding And Agent Capabilities",
-    "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakpjWUQ3Uzl5bzVFTGVhZGdiUEdWbVR5U21qeDdjbWQ3WGxmV1A0NXd5VDNtQ0ktZWZrVHlGRkxlSE9oVlJlb2Z4RlV5c2VoR2RlWGh5bHZRUFpmbHFCako4bVRBeUhQUGRwLXdKTkxneDRTb0REeVJTcHV4Nm91NV9YVGptX2hZUGNjT2xYd1AwU2tqMThZdGRrdVZlZ3puRHhtOFhCbjliTGtvUW1rRERIMHDSAboBQVVfeXFMUGtYbVg2Q0w1dFRnWkZ1RG9pTTNjWUNrLWtIMGkzOFVoZU5NN1RYMHkzbm1rVFlPbnIwT2pNdVhjbjV1WGhDQ0swWGdTUnNpY0toSkJ1U0hNa2VpWkZLbElhYkgxRldtX0NDVVpEYXo5THN6Q1BnLUhDUUlmN05SbHZTWXJiS0RPYmluWUhEaWJSV2lmcVJKQzY0bkFadE5NeXJwcGx3M09GMUs2RTBIRWJTVTQyaFhqbGl3?oc=5",
     "difficulty": "News"
   },
   {
