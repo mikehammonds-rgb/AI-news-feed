@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 19, 12:45 AM ET",
+    "publishedAt": "2026-08-19T04:45:12+00:00",
+    "source": "tech-insider.org",
+    "title": "Best AI Chatbots 2026: ChatGPT vs Claude vs Gemini",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91bVB3ZWdVMkRYZ09tNVE0cDd1bUZQT0dSNFBVZFdZaEhaSUM0V1FDdkF5b0NLRGtEMW9WR1ZNckNqRU1pS0NzWExQSVl5cXAxTGREWWt5WUNSTzA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 18, 08:22 PM ET",
@@ -16,9 +28,9 @@
     "label": "ChatGPT",
     "time": "Aug 18, 08:01 PM ET",
     "publishedAt": "2026-08-19T00:01:09+00:00",
-    "source": "EdTech Innovation Hub",
+    "source": "edtechinnovationhub.com",
     "title": "OpenAI previews Ultrafast GPT-5.6 Sol at up to 14x Standard speed",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "summary": "edtechinnovationhub.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3BoOXZuLWtVWkxHd2p6Z3JzSVVXZTZlT19wd09PMGZLQ2FEYWJROFhjNVNUMDRsenZKWEJxTXhBeXNNaW5MbVFNdEhLejZsSUNraWJYOTNlX0ZPOWNqYXJhQ2tVZmRPVVRMeENvTnEyazNqRG5HQ29WbW9QemktXzBKRU1OVE1xN2N6SGFwZWdSYk02bTF0QjkwRkp3LTVmY2doaGZBLVk?oc=5",
     "difficulty": "News"
@@ -196,9 +208,9 @@
     "label": "Gemini",
     "time": "Aug 14, 12:39 PM ET",
     "publishedAt": "2026-08-14T16:39:32+00:00",
-    "source": "theverge.com",
+    "source": "The Verge",
     "title": "You can now turn off Google Gemini’s visible watermarks",
-    "summary": "theverge.com is reporting this update. Open the article for the full story.",
+    "summary": "The Verge is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1b1VHak9GNF9RQl92X1Y2dTFTS1dRZVhtZTNJb0JqU2lheXdUOWg5dTZuZ1FlM0Z0bEh1TDhsRnlqS09WYnY0ZHVIWHBUWC1vdW9vV2R3OXhLajRlMlQyRVVwNHhYZHFtbkpIdXZVcXlGTE54ZU0xYVY2b3Q?oc=5",
     "difficulty": "News"
@@ -220,23 +232,11 @@
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
     "publishedAt": "2026-08-14T07:30:00+00:00",
-    "source": "theregister.com",
+    "source": "The Register",
     "title": "Claude Code returns blank thinking blocks, but reasoning still costs you",
-    "summary": "theregister.com is reporting this update. Open the article for the full story.",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 13, 04:11 PM ET",
-    "publishedAt": "2026-08-13T20:11:58+00:00",
-    "source": "pulse2.com",
-    "title": "Google Launches Gemini 3.7 Flash With Lower Pricing And Stronger Coding And Agent Capabilities",
-    "summary": "pulse2.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakpjWUQ3Uzl5bzVFTGVhZGdiUEdWbVR5U21qeDdjbWQ3WGxmV1A0NXd5VDNtQ0ktZWZrVHlGRkxlSE9oVlJlb2Z4RlV5c2VoR2RlWGh5bHZRUFpmbHFCako4bVRBeUhQUGRwLXdKTkxneDRTb0REeVJTcHV4Nm91NV9YVGptX2hZUGNjT2xYd1AwU2tqMThZdGRrdVZlZ3puRHhtOFhCbjliTGtvUW1rRERIMHDSAboBQVVfeXFMUGtYbVg2Q0w1dFRnWkZ1RG9pTTNjWUNrLWtIMGkzOFVoZU5NN1RYMHkzbm1rVFlPbnIwT2pNdVhjbjV1WGhDQ0swWGdTUnNpY0toSkJ1U0hNa2VpWkZLbElhYkgxRldtX0NDVVpEYXo5THN6Q1BnLUhDUUlmN05SbHZTWXJiS0RPYmluWUhEaWJSV2lmcVJKQzY0bkFadE5NeXJwcGx3M09GMUs2RTBIRWJTVTQyaFhqbGl3?oc=5",
     "difficulty": "News"
   },
   {
