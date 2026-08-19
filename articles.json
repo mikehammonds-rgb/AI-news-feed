@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 19, 01:30 PM ET",
+    "publishedAt": "2026-08-19T17:30:13+00:00",
+    "source": "makeuseof.com",
+    "title": "I use Claude Code without paying a dime to Anthropic",
+    "summary": "makeuseof.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSEF6Y3R5WEVCQ3h2RVZHNGRXOHJDX0g2Yzg0ZXd1cTYtVkY5Z3FzUFFnYjZWM0JzZ0dhWnd3eEwySm1lTUFGeF9tOTRaRklhTjhiQTM3Y3hJb1I1VnVjaUZSU2Z1Qkh3QUVWQmNvTEZOcmhtWW1VMDh6Z0dPZG1PZGQtZktGZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 18, 10:00 PM ET",
@@ -21,18 +33,6 @@
     "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3BoOXZuLWtVWkxHd2p6Z3JzSVVXZTZlT19wd09PMGZLQ2FEYWJROFhjNVNUMDRsenZKWEJxTXhBeXNNaW5MbVFNdEhLejZsSUNraWJYOTNlX0ZPOWNqYXJhQ2tVZmRPVVRMeENvTnEyazNqRG5HQ29WbW9QemktXzBKRU1OVE1xN2N6SGFwZWdSYk02bTF0QjkwRkp3LTVmY2doaGZBLVk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 18, 02:02 PM ET",
-    "publishedAt": "2026-08-18T18:02:07+00:00",
-    "source": "Startup Fortune",
-    "title": "Claude AI Suffers Widespread Outage Across All Its Models on August 18",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjdmZEY3RDAxWjVvTXZyUERkdGoxdnJuWGF3Q1BqMmRRUkF0eWFDVkJYQnlOLVJkUUxuVFlwMXlhMXYzcVRGMUlrQUdlZ0ZHUFJsMzEyT2RQbmh2UGZobzZ6bHNzWFZZelEwdzBROWk3Q0N0QlZKN1pWcTljcmdCNDdNZUpoMmo3UHZ4UHdBYWFMWmN4NGR1YkF2SFFQX1k?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,6 +192,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 14, 04:55 AM ET",
+    "publishedAt": "2026-08-14T08:55:32+00:00",
+    "source": "techzine.eu",
+    "title": "Google Gemini 3.7 Flash gets stronger in development",
+    "summary": "techzine.eu is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1BkVGJ1VFdrVDd1ZnBKbmNoakRVR2xKSW4zRTRWSl9iWmJZX1Ffdi1wXzVTd3VRVEstbjhWZjZxNlVQakJoZFhRM0w0UkNMQjNXdmk0SEJCRkxPcUJoQmdqWlVhZUI4TTZ2eFFMRVBPNXZxQmpldXA0dEk5VnNBWlY4QUw3X1JzNVJrVVhJckpuWmlYODRDTk9qcGh5U19I?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
@@ -201,18 +213,6 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVU9QRmVaMkpFUUFOeV9PVnZyVTlIeFNzczBOVk1BRUprZjhud3VCVDctckNDMXZxYkN0TXZnekxXZllGTFMwSk1kS2xKc0d2RDJ0RGRza2xMdFdQS2FuaVM5SnpNZUowUlJiVHRBWDQ0cFg5ekNSb2g4SkxIWV8ydDN0ZF9XX3huUFAyRzFwSG0yX1FzVjBkSmNSd2JKM3dlZmdYOXZwLVU2ZHRzOERmaGgtTk9qTC1FLVVkSFlsNGgtMGJhTnVJ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 13, 04:11 PM ET",
-    "publishedAt": "2026-08-13T20:11:58+00:00",
-    "source": "Pulse 2.0",
-    "title": "Google Launches Gemini 3.7 Flash With Lower Pricing And Stronger Coding And Agent Capabilities",
-    "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakpjWUQ3Uzl5bzVFTGVhZGdiUEdWbVR5U21qeDdjbWQ3WGxmV1A0NXd5VDNtQ0ktZWZrVHlGRkxlSE9oVlJlb2Z4RlV5c2VoR2RlWGh5bHZRUFpmbHFCako4bVRBeUhQUGRwLXdKTkxneDRTb0REeVJTcHV4Nm91NV9YVGptX2hZUGNjT2xYd1AwU2tqMThZdGRrdVZlZ3puRHhtOFhCbjliTGtvUW1rRERIMHDSAboBQVVfeXFMUGtYbVg2Q0w1dFRnWkZ1RG9pTTNjWUNrLWtIMGkzOFVoZU5NN1RYMHkzbm1rVFlPbnIwT2pNdVhjbjV1WGhDQ0swWGdTUnNpY0toSkJ1U0hNa2VpWkZLbElhYkgxRldtX0NDVVpEYXo5THN6Q1BnLUhDUUlmN05SbHZTWXJiS0RPYmluWUhEaWJSV2lmcVJKQzY0bkFadE5NeXJwcGx3M09GMUs2RTBIRWJTVTQyaFhqbGl3?oc=5",
     "difficulty": "News"
   },
   {
@@ -304,9 +304,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 10, 05:29 PM ET",
     "publishedAt": "2026-08-10T21:29:46+00:00",
-    "source": "visualstudiomagazine.com",
+    "source": "Visual Studio Magazine",
     "title": "Microsoft Study Shows Just How 'Agentic' GitHub Copilot Has Become",
-    "summary": "visualstudiomagazine.com is reporting this update. Open the article for the full story.",
+    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzNKYWVlOWVaOHZ6ZUk3R3g3ZkVsMXFITzY5emVYelNxZHZ1NWtUbEw2QlUwQjZEMXgydjlhQ0dUN3BkU09pZWdUdHBGbGdUZWQ3bllWTkxOZ2dwQ1ZLM3Q5MnQ0OWltNGNvNHpiaTczbm8zbDdwNEV5MFdSMWhuVXZpNW9BTGNoYzRzYjBfcHVoMXo3eUVLb2d4elRPLVQ2RmZNM2tBMkc4ZldiSFJTRk1UNHpnUkxWRGc4aFNGUQ?oc=5",
     "difficulty": "News"
