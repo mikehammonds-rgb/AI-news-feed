@@ -2,6 +2,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Aug 20, 01:48 PM ET",
+    "publishedAt": "2026-08-20T17:48:58+00:00",
+    "source": "The American Bazaar",
+    "title": "OpenAI unveils new safety system to prevent misuse of customer data",
+    "summary": "The American Bazaar is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjZMU3lNbUNnM1BHd2E2UEJMVFZYb3ZLVWRfVVcwZmlSNG9YM0lPT20wbWZ5RE1Wc2RNcmlGNVN0WktJUnpZX192c1NTZmFwV05nVWdrUVZkS3FMVFFVTlFId0dBaVJUMFlTSUd0TTZ3VjhOUzBpVjIwS1JwR3JJbEJjNUJpZWVzYzlBTXE0aDJDOTNHQVAzMl9UU2gxMEZNZlU1ZzVqWWVMTW5DR3c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Aug 20, 10:00 AM ET",
     "publishedAt": "2026-08-20T14:00:21+00:00",
     "source": "Databricks",
@@ -105,18 +117,6 @@
     "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHdhQlhtMHE3bFBnSU5rUlduM21rb2pha2ZPRHA1QUhiWGhKTDJWcE1KQjJ1eEFxR29JNFlCbWZlSWpjTkRkSFZrN0NYTHN6Z2UtZTM5UEM5Y0FnTTNvRC1lcjZkQmdrMU9OUWRCM2hSQ1lHQlN2T21CNng0WDltQXFCbUtRZEppUkhzVkZ4VEhPYlVqeG8xa2ktLVYwZlFuVUszSEo5Q29YLUVsZ3l2cWQxSWpUNVVqSXJN?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 18, 10:00 PM ET",
-    "publishedAt": "2026-08-19T02:00:00+00:00",
-    "source": "VentureBeat",
-    "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFR6bW50VXpUSUN4WjF4SDN6aEIzX0lWeE5iXzBfT0dqQk1ZS0pzalRpbEJNVWFDX2F6UkFFY0dzOE5mb0RKNEZTVERGSDVlcmVLSWlINll2VjlKeHVURnlaMGJhZWhYbUFuc1E3Uk5fOExZMFVOajhCU0tyT1dlVTNaMDR3Zk14MmE4NzRR?oc=5",
     "difficulty": "News"
   },
   {
@@ -254,18 +254,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 14, 02:54 PM ET",
-    "publishedAt": "2026-08-14T18:54:36+00:00",
-    "source": "The New York Times",
-    "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
-    "summary": "The New York Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SMU5ZVGZnNFNKMzY5b0dsTFE5cVZ0bEhjSkx4d21GX3dCSUgzd0lrWm15STZYVGVUaDJubWRxeHMwTHNtaThOeUg4aElISHFPdS00SGFKTlBzd0x1SGtJaFN3NWpUOWpEUEpTXzdwV3FqNVVSWl9kTG1ERzdlZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Aug 14, 12:39 PM ET",
     "publishedAt": "2026-08-14T16:39:32+00:00",
     "source": "The Verge",
@@ -273,6 +261,18 @@
     "summary": "The Verge is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1b1VHak9GNF9RQl92X1Y2dTFTS1dRZVhtZTNJb0JqU2lheXdUOWg5dTZuZ1FlM0Z0bEh1TDhsRnlqS09WYnY0ZHVIWHBUWC1vdW9vV2R3OXhLajRlMlQyRVVwNHhYZHFtbkpIdXZVcXlGTE54ZU0xYVY2b3Q?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 14, 04:55 AM ET",
+    "publishedAt": "2026-08-14T08:55:32+00:00",
+    "source": "Techzine Global",
+    "title": "Google Gemini 3.7 Flash gets stronger in development",
+    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1BkVGJ1VFdrVDd1ZnBKbmNoakRVR2xKSW4zRTRWSl9iWmJZX1Ffdi1wXzVTd3VRVEstbjhWZjZxNlVQakJoZFhRM0w0UkNMQjNXdmk0SEJCRkxPcUJoQmdqWlVhZUI4TTZ2eFFMRVBPNXZxQmpldXA0dEk5VnNBWlY4QUw3X1JzNVJrVVhJckpuWmlYODRDTk9qcGh5U19I?oc=5",
     "difficulty": "News"
   },
   {
