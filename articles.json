@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 20, 07:15 PM ET",
+    "publishedAt": "2026-08-20T23:15:00+00:00",
+    "source": "SecurityBrief Australia",
+    "title": "Google Cloud warns startups on AI scaling pitfalls",
+    "summary": "SecurityBrief Australia is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGFzX3lhOTdWR3NncDhEbDFyTmM3OHE0LTJjTzQ3R1dXNUdWaE1QSW5EQ0owS2pLS3NFcU1peW13SHRWWHhUZlk0cTFxQjkxLW1GLWppRVpVSjJoQk1LU0Y4OHUxSGUwZnhlMHpfZ1FxTlVBSDVqalJRTkFPeVhPX2JfbGpwTFdvWEliOVBR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 20, 03:59 PM ET",
@@ -57,18 +69,6 @@
     "summary": "Mshale is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WQXN1M1Y2anFxSG1wUkNORTZfcURKc0R0ZW5HWkdQWGhobHVHemoxWWpZaEc3U05qTWUzTnVVT3FFSGhDVjdjTXZKQ0k2eHlYWGlRSm9zS3lTWWs?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 19, 11:35 PM ET",
-    "publishedAt": "2026-08-20T03:35:58+00:00",
-    "source": "Alphr",
-    "title": "How Good Is BotDojo AI at Developing AI Agents?",
-    "summary": "Alphr is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0SGNiU2xLYjREUjJILXRqNU8wV1YwbzJTd2NNOUE0SjUzVDdWWmR1OUxmaVhhdjJCUnhFMHN5dzRmX2xDLWZsZTdxUXNCVnVzdGtsaGY4MjY4Y2hIQVFrWDUyQTFNaFA2WFlqSmlYM1NIS1lPLTRLeA?oc=5",
     "difficulty": "News"
   },
   {
@@ -134,13 +134,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 18, 02:35 PM ET",
-    "publishedAt": "2026-08-18T18:35:56+00:00",
-    "source": "Stocktwits",
-    "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off",
-    "summary": "Stocktwits is reporting this update. Open the article for the full story.",
+    "time": "Aug 18, 08:01 PM ET",
+    "publishedAt": "2026-08-19T00:01:09+00:00",
+    "source": "EdTech Innovation Hub",
+    "title": "OpenAI previews Ultrafast GPT-5.6 Sol at up to 14x Standard speed",
+    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1g4SHJmZWVHZFRTRHhZWWd1NV95X0hxeGgwZlc3V3laYkp2RWFVMUtlME1hWS1ja05LRll6SkFEeHJvaGpCY0xkUGpTODFHbjI2MlJsWUQ0a3FXWnEzUDR4WnJkS3kwaFJlZTByR2hZa2VBcTE0QUFiaTNmUERnSEstNk5rcGtVeXdKYkVHSlZBQ1NWTl95SnNlZ2NkQTRxZWdLRG1EZ1hTYjNXYVlhcUR1eDBfc1lUd0FmUGxKZkJzVVhFMHBmNXFjblpvMktJRjlR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3BoOXZuLWtVWkxHd2p6Z3JzSVVXZTZlT19wd09PMGZLQ2FEYWJROFhjNVNUMDRsenZKWEJxTXhBeXNNaW5MbVFNdEhLejZsSUNraWJYOTNlX0ZPOWNqYXJhQ2tVZmRPVVRMeENvTnEyazNqRG5HQ29WbW9QemktXzBKRU1OVE1xN2N6SGFwZWdSYk02bTF0QjkwRkp3LTVmY2doaGZBLVk?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,18 +312,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 13, 01:00 PM ET",
-    "publishedAt": "2026-08-13T17:00:13+00:00",
-    "source": "Ars Technica",
-    "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjZPd0hkSXZpM1RMMmo3bHBwLUVOUVp1dHkwTDB0bWdhdFhpV1lROUVrOW9GWmhxSWVpQzhOZmJJbUxGSThqS29XNVJjLV82NVBZY1U1N2lDX0NJOERwaWFWRjNQRlpUY1V3SWk0SXF4U3BxQUFkUEZ1aGxSVS1qY2QwYnZCOS1iYUtwNTdLcUE2RnV6MDYyb3Z1SDhNNFlLTDAyNndPLWtLaUwyWnc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 10, 05:29 PM ET",
@@ -381,6 +369,18 @@
     "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "The GitHub Blog",
+    "title": "Copilot Agent is now available in JetBrains AI Assistant",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
     "difficulty": "News"
   }
 ]
