@@ -1,5 +1,17 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 19, 11:35 PM ET",
+    "publishedAt": "2026-08-20T03:35:58+00:00",
+    "source": "Alphr",
+    "title": "How Good Is BotDojo AI at Developing AI Agents?",
+    "summary": "Alphr is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0SGNiU2xLYjREUjJILXRqNU8wV1YwbzJTd2NNOUE0SjUzVDdWWmR1OUxmaVhhdjJCUnhFMHN5dzRmX2xDLWZsZTdxUXNCVnVzdGtsaGY4MjY4Y2hIQVFrWDUyQTFNaFA2WFlqSmlYM1NIS1lPLTRLeA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 19, 06:10 PM ET",
@@ -228,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 14, 06:55 AM ET",
-    "publishedAt": "2026-08-14T10:55:58+00:00",
-    "source": "Help Net Security",
-    "title": "OpenAI’s GPT-5.6 Sol runs up to 14× faster with Ultrafast mode",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnJKVGM2Tmg3b1h3S1ZiYkVOYmRsN1VYM0dzZnpFVC15a2RkYlU5QWpHMFcyOWhacWxIMEo1c2pxSnh1NDFtbmtBVkxmcnZnUXNiYTlyU2JyM21KT2wxMEhvaHBfQU9rQ19XZVhtbFpLcTdlOEFoakxCZ2stdzJQZFF4VDBsSGR2YXoxYjJJZ1pJN2kyalNzeHlrWWY0cmVDVGItUFFZejY?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 14, 03:30 AM ET",
@@ -312,6 +312,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 07, 03:00 AM ET",
+    "publishedAt": "2026-08-07T07:00:00+00:00",
+    "source": "Palo Alto Networks",
+    "title": "Strengthening Security of AI Coding: Prisma AIRS API Integration with OpenAI Codex",
+    "summary": "Palo Alto Networks is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3NPSndEa0h4LUR2bDlCdnd5a2ZEZ3h0RWh5R0l6QVczak5jSHp5cWgxTXZMSzl3NGx4dHdDNmdwVEFyWWhsSU1VVFhEWXpHNnJDMjlkWG9LMy1DRVcySTQzNTNrLUV2ZlBLek01a3RGSGZnWVhnbWtlTXNRNlhkOWNveUFWWVI4c1R3TFpWLTBzYjBaWlhIZVQ2SzBCX0oxMWd0Um1yZUhVckFVNGJqaGVPVm1QQ2k5WHJHZlk5UFRSdW41QTRJ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 06, 05:11 AM ET",
@@ -369,18 +381,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Apr 24, 03:00 AM ET",
-    "publishedAt": "2026-04-24T07:00:00+00:00",
-    "source": "wiz.io",
-    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
-    "summary": "wiz.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
     "difficulty": "News"
   }
 ]
