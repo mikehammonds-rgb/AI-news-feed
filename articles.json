@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 20, 07:50 AM ET",
+    "publishedAt": "2026-08-20T11:50:05+00:00",
+    "source": "Cybersecurity Insiders",
+    "title": "ReliaQuest Advances Agentic Cyber Defense for Enterprises with Anthropic’s Claude",
+    "summary": "Cybersecurity Insiders is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVg3eFByTXpYbkJJQmJ0TFpJbnR3TDkyN0F3WEw5X1Z0VGNnTzhSUEQ0OGhMOHhlc1lobjVTWl9oVlZCY0xSSk5LOHNBUHdEVFBoU2U2eWNBb2tBcWFweUNMdnZCd0RiY0k4UnVfaXBoMVgxU1YzY0xBYmxQck44VnlGQ1J0clZHdlM1TEt1Mjc1QnM1SFFmeDVnZGFWV1ZxRGFUMG1Rb2JDUlRiS0hXak5jeXFmS2Y2b2U0eQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 19, 11:35 PM ET",
@@ -87,7 +99,7 @@
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 19, 08:15 AM ET",
-    "publishedAt": "2026-08-19T12:15:15+00:00",
+    "publishedAt": "2026-08-19T12:15:00+00:00",
     "source": "CNET",
     "title": "What to Know About Anthropic’s New Claude Watermarking on AI-Generated Text and Files",
     "summary": "CNET is reporting this update. Open the article for the full story.",
@@ -213,18 +225,6 @@
     "summary": "AIMultiple is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WbnFnU3kxUnVrMWt2TlYyR3h4T3g0SWVFU0xQZlpBZHhxRDhGWnIzR284empKR1BVeVBIa0gyTmFiZWo3RjZvcjdIZ0puU3BMdlMzVURDOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 15, 02:58 PM ET",
-    "publishedAt": "2026-08-15T18:58:39+00:00",
-    "source": "TechCrunch",
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWJ1ZmhOTldsYm5ndl83cmtEeC03dGxRT28tcEZQOXV3MVZUVmFDS3JhZzVzUDBnMFg5N0hPUE9VYTdRd2ljSGU1TUk0VTE1a0hOcFZ0RTNEWFg1OWJkRVdkcVVQSzM3MmR3WDBqQ1lQbXZFaEhOQ0tDaW9za3REd1RaX3ZZdGMwdzRHb3pOMTd5X004V0RLanFRdEhPT05RbXlWVFhDZklWWlk?oc=5",
     "difficulty": "News"
   },
   {
