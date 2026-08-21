@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 21, 12:45 AM ET",
+    "publishedAt": "2026-08-21T04:45:50+00:00",
+    "source": "tech-insider.org",
+    "title": "ChatGPT vs Gemini vs Claude Pro: 2M Token Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83TVVfNE1NSHZ4bEdacE8zSXhEZDJIeF9Cczk3UF82RG5IdFd3TEhSVEZJTGNSMWZlcTNzck9namI1LWJLckxBSy00aHhjc3dOOFJYWHhCZ1JvWEZzMnYycl9kLVQ5MlFkdTllMEZyWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 20, 11:56 PM ET",
@@ -165,18 +177,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94QkJmU0lSZG9WQ2xIeVMxWDhRaHVTZHFzRzZvd1E4WmpCRlNOaVlLNHhNMi01UEVuZHRFVlBwMVh1bHV6bG0zdk9kTU9RTEV3NnNvZkNoTjl3OW1rRmFiQTBGRVZ1UnUzTy1naXFNcmpOSEVGUmpYTE5ZV3l0c3M?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 19, 12:44 PM ET",
-    "publishedAt": "2026-08-19T16:44:00+00:00",
-    "source": "WIRED",
-    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-    "summary": "WIRED is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnVRS0g1dHJENG1VR2ppa25vUFpkRlQtazVRWEhCelNSSWJKSTE4YTJ4NEpaZWV4TFd0dHN5cXA3M20tLVRTdmNWeVJyaHRXSEZ0QWVFSGZFN0hUZDJyUXl5cWVtTFhTNTd2NU8wbE5pS2drdzJLTFdJRHk2aW5vSlY2ME9hUTZ0LVF3NTRoV0VWMkJycVhLUXBOZXYwRk41ZGJvZA?oc=5",
     "difficulty": "News"
   },
   {
