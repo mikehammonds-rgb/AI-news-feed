@@ -1,14 +1,26 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 21, 04:01 PM ET",
+    "publishedAt": "2026-08-21T20:01:39+00:00",
+    "source": "HackerNoon",
+    "title": "The TechBeat: The Claude Opus 5 Rumor Passed the Screenshot Test, Not the API Contract Test (8/21/2026)",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZOVR4Wl9vWWdSZ2xKZlJzQ09aaUxpWldxQTNiejZJT2pfYTNYZVJiVElkR0dLd2R3RlN5M081b3VCM2YxZHc5SFc4U0JFOVlfbU1F?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 21, 04:02 PM ET",
-    "publishedAt": "2026-08-21T20:02:00+00:00",
-    "source": "Breakingthenews.net",
-    "title": "OpenAI cuts GPT-5.6 Sol API price by 20%",
-    "summary": "Breakingthenews.net is reporting this update. Open the article for the full story.",
+    "time": "Aug 21, 03:40 PM ET",
+    "publishedAt": "2026-08-21T19:40:06+00:00",
+    "source": "TradingView",
+    "title": "Openai Dropping API And Credit Pricing Of Gpt-5.6 Sol By Over 20%",
+    "summary": "TradingView is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORExEZm1ZTmt5bmYwM0wySzNWTkxUMlpfaDVrdzA2MzhJZHplSGdPS1RobFZCeXFDd1BoTzdnOFZ3WnRLSjJHR2Fza3oxejJGSWZUNXU5SWN1V1RNSjZmVEo3aF9XaXdlVnU4Y3MweUJBbllQUnp2aWlxaE1WTXpUeGpCaDdneHhFNGNnNQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeV9pTjdXT0ZMRzY5Smo5bjl6Y0NuakNObjc1ZzF4NW1LM3NtRV82WXBiTGFpRWFLZmV6VEhWTzVfRmV3UjdfeUhidWtkNERfclBQcVYwMl81cU0yY3NqSEVmMXI3YW83UEFrSnBQTms1SlpNUUNzZlVxT1ozYmludE9vc3JOSi1aQVBpX1c1LXUwd052RFBKa3UzXzNTbkhXWkFhMU9yckJWRU11cC02OG9qUU5QRG91THlkeU84cExKZW5jZUp3blBqWFZQZzg?oc=5",
     "difficulty": "News"
   },
   {
@@ -84,18 +96,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 20, 11:42 PM ET",
-    "publishedAt": "2026-08-21T03:42:21+00:00",
-    "source": "Business Chief",
-    "title": "Anthropic Watermarks Claude to Meet New EU AI Act Rules",
-    "summary": "Business Chief is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNHROU1VCeURmZHVLLXJnRTlCd0wxMFJVVm1MTDRYSWZTYkpSRDNKOF8tcHpsUGo3MVk0dUN2cTFoNGZEZ1hPRElkWE1YOExzWDhQZV9fRGxoYW9IMDV0N0oycEU0RDdldWlmem9uankwdldWeVNvVE1MYWw2UkNBWGZ1ZzdOYVl1eUhXLThzSQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 20, 09:00 PM ET",
@@ -105,18 +105,6 @@
     "summary": "IT Brief Asia is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmd6bkh0dDh3eE4yTWp1U3JLRGJMV1BKWFNGVFQ0cENBT1dmVVJfVWJGVktzdGw5dHlvcFo2XzdCQjBCSlJ0a0ZNV1ZfaTRseVlMZGE0SFdfTFFuVW1tZjNGTXNEUXMzREd1NXhNV195TTRLUF9CVHhzQ05kWDhtNERZSFFYQjVPNHNQMk13?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 20, 07:15 PM ET",
-    "publishedAt": "2026-08-20T23:15:00+00:00",
-    "source": "SecurityBrief Australia",
-    "title": "Google Cloud warns startups on AI scaling pitfalls",
-    "summary": "SecurityBrief Australia is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGFzX3lhOTdWR3NncDhEbDFyTmM3OHE0LTJjTzQ3R1dXNUdWaE1QSW5EQ0owS2pLS3NFcU1peW13SHRWWHhUZlk0cTFxQjkxLW1GLWppRVpVSjJoQk1LU0Y4OHUxSGUwZnhlMHpfZ1FxTlVBSDVqalJRTkFPeVhPX2JfbGpwTFdvWEliOVBR?oc=5",
     "difficulty": "News"
   },
   {
@@ -218,13 +206,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 19, 12:44 PM ET",
-    "publishedAt": "2026-08-19T16:44:00+00:00",
-    "source": "WIRED",
-    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-    "summary": "WIRED is reporting this update. Open the article for the full story.",
+    "time": "Aug 19, 01:30 PM ET",
+    "publishedAt": "2026-08-19T17:30:13+00:00",
+    "source": "MakeUseOf",
+    "title": "I use Claude Code without paying a dime to Anthropic",
+    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnVRS0g1dHJENG1VR2ppa25vUFpkRlQtazVRWEhCelNSSWJKSTE4YTJ4NEpaZWV4TFd0dHN5cXA3M20tLVRTdmNWeVJyaHRXSEZ0QWVFSGZFN0hUZDJyUXl5cWVtTFhTNTd2NU8wbE5pS2drdzJLTFdJRHk2aW5vSlY2ME9hUTZ0LVF3NTRoV0VWMkJycVhLUXBOZXYwRk41ZGJvZA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSEF6Y3R5WEVCQ3h2RVZHNGRXOHJDX0g2Yzg0ZXd1cTYtVkY5Z3FzUFFnYjZWM0JzZ0dhWnd3eEwySm1lTUFGeF9tOTRaRklhTjhiQTM3Y3hJb1I1VnVjaUZSU2Z1Qkh3QUVWQmNvTEZOcmhtWW1VMDh6Z0dPZG1PZGQtZktGZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -297,6 +285,18 @@
     "summary": "GeekWire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 16, 08:15 PM ET",
+    "publishedAt": "2026-08-17T00:15:26+00:00",
+    "source": "EdTech Innovation Hub",
+    "title": "UK university students build RoomQuest and MeetSpot at Google Gemini AI hackathon",
+    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYkF6aGRxRXZDZUEyOURDRjdHRmVoVHpQamxjSHV6YjdxUkNzcG1XSnd5UVpQZHYxX1RLWlp3WVBnLUJrSUQzaGtUaXc2SDJNWlYxYjZPR3Z2LTd0a0xuTGZ6YzJ1dHktRG8xVnktdFViVjVhUEJzNFRFcG83SDZUWHlMWENQa2dqdTNwX29xU0Uwd0FqaWlRTWZUS3FXNkxaUWs1Mk1NNG9rd3pBZVduMWlkN1lkWFpIcmYxakY3UQ?oc=5",
     "difficulty": "News"
   },
   {
