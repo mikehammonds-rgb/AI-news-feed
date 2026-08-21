@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 21, 10:37 AM ET",
+    "publishedAt": "2026-08-21T14:37:28+00:00",
+    "source": "incrypted",
+    "title": "Anthropic Launched the Free Educational Platform Claude Academy",
+    "summary": "incrypted is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTjg3SFlhUzcxTlhCaHRqUmIxbjA3UjJickdEVVlOTXBEX245aUxhaXpQN2RBb2dIQlNtd3p6Q25WQ3BWbHdEX0FQWUNDeEt1aklDd2twSUFhRXJpUzZiRTB5M29XeHJXOFh6QjFXN1JPTXRnUXNfVXl4Z3NHUEhZY042Z09mN3dCcW94U2VkaTNXRDQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 21, 08:16 AM ET",
@@ -9,6 +21,18 @@
     "summary": "HackerNoon is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXFOZzRFRnlKQ3QwVXQ0ZGgzN24wUHpPR09fdExhNGJkVXFnVnhSRGN4SVRmSkgxa2poaUZfVDg2cWoxaU9wcjE1YzVnS1FsNkZsNGcxUGtyeUEweXloRU5ZSVNGZGVGODBsQWdRQmZZeGF3ZmZzSTZYN0twbFB6ZnRKemYyYkVYRlYtMF91cTg2c0U?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 21, 05:48 AM ET",
+    "publishedAt": "2026-08-21T09:48:38+00:00",
+    "source": "Cybernews",
+    "title": "Best VPS for Claude Code and Claude-powered apps in 2026",
+    "summary": "Cybernews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zeFJQOEVaaEJMMTdzb0p0YWZRdUFZZjFyOExjT3V5MVZYbFBtbmNDMEgzNUJXeXpSR3BIRUR4WUVTWEhPNmpTQkNEanhqbU9QTGNPSHFuX2FxY0JTYzNuUg?oc=5",
     "difficulty": "News"
   },
   {
@@ -33,18 +57,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83TVVfNE1NSHZ4bEdacE8zSXhEZDJIeF9Cczk3UF82RG5IdFd3TEhSVEZJTGNSMWZlcTNzck9namI1LWJLckxBSy00aHhjc3dOOFJYWHhCZ1JvWEZzMnYycl9kLVQ5MlFkdTllMEZyWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 20, 11:56 PM ET",
-    "publishedAt": "2026-08-21T03:56:00+00:00",
-    "source": "finance.biggo.com",
-    "title": "Anthropic launches free official tutorial site \"Claude Academy\" covering five products",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zUm9Nb2Y5MGp0ajR3R2x0RGV4RnRGRGFESGlsaHNkVVRZXzVZRnFxN3VwSXI4aWZvSnA5UWJrem5RZXVibFJHblhnOVdkSUU0eDFiWFEtMi1nMVJuR3dKR0R2VjZKQi1ORWhuRjVtNFpDb2h3OEE?oc=5",
     "difficulty": "News"
   },
   {
@@ -81,6 +93,18 @@
     "summary": "SecurityBrief Australia is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGFzX3lhOTdWR3NncDhEbDFyTmM3OHE0LTJjTzQ3R1dXNUdWaE1QSW5EQ0owS2pLS3NFcU1peW13SHRWWHhUZlk0cTFxQjkxLW1GLWppRVpVSjJoQk1LU0Y4OHUxSGUwZnhlMHpfZ1FxTlVBSDVqalJRTkFPeVhPX2JfbGpwTFdvWEliOVBR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 20, 07:10 PM ET",
+    "publishedAt": "2026-08-20T23:10:35+00:00",
+    "source": "Hostinger",
+    "title": "12 best Cursor alternatives for web development with AI",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oSUg0aWd1MmdMUllWTi00WE5vVm5kZkRkbVJWWTFZc2NWc2w4Z1J0STZWX0k1bnIwbk1uLXJqLU1nS0dJZ3FKRG9FUU5ZeVVhckFVam1sbHFoVlF1VkJWSTU2cld3UDhfa3Yw?oc=5",
     "difficulty": "News"
   },
   {
@@ -189,18 +213,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94QkJmU0lSZG9WQ2xIeVMxWDhRaHVTZHFzRzZvd1E4WmpCRlNOaVlLNHhNMi01UEVuZHRFVlBwMVh1bHV6bG0zdk9kTU9RTEV3NnNvZkNoTjl3OW1rRmFiQTBGRVZ1UnUzTy1naXFNcmpOSEVGUmpYTE5ZV3l0c3M?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 19, 08:15 AM ET",
-    "publishedAt": "2026-08-19T12:15:00+00:00",
-    "source": "CNET",
-    "title": "What to Know About Anthropic’s New Claude Watermarking on AI-Generated Text and Files",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHdhQlhtMHE3bFBnSU5rUlduM21rb2pha2ZPRHA1QUhiWGhKTDJWcE1KQjJ1eEFxR29JNFlCbWZlSWpjTkRkSFZrN0NYTHN6Z2UtZTM5UEM5Y0FnTTNvRC1lcjZkQmdrMU9OUWRCM2hSQ1lHQlN2T21CNng0WDltQXFCbUtRZEppUkhzVkZ4VEhPYlVqeG8xa2ktLVYwZlFuVUszSEo5Q29YLUVsZ3l2cWQxSWpUNVVqSXJN?oc=5",
     "difficulty": "News"
   },
   {
@@ -333,18 +345,6 @@
     "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzNKYWVlOWVaOHZ6ZUk3R3g3ZkVsMXFITzY5emVYelNxZHZ1NWtUbEw2QlUwQjZEMXgydjlhQ0dUN3BkU09pZWdUdHBGbGdUZWQ3bllWTkxOZ2dwQ1ZLM3Q5MnQ0OWltNGNvNHpiaTczbm8zbDdwNEV5MFdSMWhuVXZpNW9BTGNoYzRzYjBfcHVoMXo3eUVLb2d4elRPLVQ2RmZNM2tBMkc4ZldiSFJTRk1UNHpnUkxWRGc4aFNGUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 06, 05:11 AM ET",
-    "publishedAt": "2026-08-06T09:11:15+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Set Up GitHub Copilot: 12 Steps, 70 Min [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14aXFUNjJlMUUzcTRsWUo0ZFAwMnFEbmNfN21aekFhaWZUQTJtU0g5eE14SzdGVW5aS3VkdEZmVngwLUNpVmQtX0x2cjIwSURJcE5OSldCeGdHSnNkR2xudTgyOS0xS2tnM1pJ?oc=5",
     "difficulty": "News"
   },
   {
