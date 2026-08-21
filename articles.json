@@ -12,6 +12,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 21, 03:56 AM ET",
+    "publishedAt": "2026-08-21T07:56:00+00:00",
+    "source": "the-decoder.com",
+    "title": "OpenAI's GPT-Image-2 can now generate images without a background",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ01XOVdnSjdLQ2FYV1ZqVFJTVUVTU2k3UkY1S05pR0U1Z0xfeXd4N2RGZ09pZVZVTDYtLVhiZTZLbWtpY05aV1dCallCM0ZIMERiZGdQVWtqRnlyRVFiVzhBb08tMzExTzdHeHo3UnF5dUwwQ3FlWG5XeDlPbnByOWFvUzBFdDV1aXNQSjFFeEZoY3M?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 21, 12:45 AM ET",
@@ -285,18 +297,6 @@
     "summary": "The New York Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SMU5ZVGZnNFNKMzY5b0dsTFE5cVZ0bEhjSkx4d21GX3dCSUgzd0lrWm15STZYVGVUaDJubWRxeHMwTHNtaThOeUg4aElISHFPdS00SGFKTlBzd0x1SGtJaFN3NWpUOWpEUEpTXzdwV3FqNVVSWl9kTG1ERzdlZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 13, 01:05 PM ET",
-    "publishedAt": "2026-08-13T17:05:30+00:00",
-    "source": "Cerebras",
-    "title": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI",
-    "summary": "Cerebras is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5",
     "difficulty": "News"
   },
   {
