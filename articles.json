@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 21, 04:02 PM ET",
+    "publishedAt": "2026-08-21T20:02:00+00:00",
+    "source": "Breakingthenews.net",
+    "title": "OpenAI cuts GPT-5.6 Sol API price by 20%",
+    "summary": "Breakingthenews.net is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORExEZm1ZTmt5bmYwM0wySzNWTkxUMlpfaDVrdzA2MzhJZHplSGdPS1RobFZCeXFDd1BoTzdnOFZ3WnRLSjJHR2Fza3oxejJGSWZUNXU5SWN1V1RNSjZmVEo3aF9XaXdlVnU4Y3MweUJBbllQUnp2aWlxaE1WTXpUeGpCaDdneHhFNGNnNQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 21, 02:01 PM ET",
@@ -309,18 +321,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 13, 01:05 PM ET",
-    "publishedAt": "2026-08-13T17:05:30+00:00",
-    "source": "Cerebras",
-    "title": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI",
-    "summary": "Cerebras is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5",
     "difficulty": "News"
   },
   {
