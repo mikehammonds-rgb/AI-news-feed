@@ -288,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 13, 01:05 PM ET",
-    "publishedAt": "2026-08-13T17:05:38+00:00",
-    "source": "blog.google",
-    "title": "Introducing Gemini 3.7 Flash",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 13, 01:05 PM ET",
@@ -321,6 +309,18 @@
     "summary": "Ars Technica is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjZPd0hkSXZpM1RMMmo3bHBwLUVOUVp1dHkwTDB0bWdhdFhpV1lROUVrOW9GWmhxSWVpQzhOZmJJbUxGSThqS29XNVJjLV82NVBZY1U1N2lDX0NJOERwaWFWRjNQRlpUY1V3SWk0SXF4U3BxQUFkUEZ1aGxSVS1qY2QwYnZCOS1iYUtwNTdLcUE2RnV6MDYyb3Z1SDhNNFlLTDAyNndPLWtLaUwyWnc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 13, 03:00 AM ET",
+    "publishedAt": "2026-08-13T07:00:00+00:00",
+    "source": "blog.google",
+    "title": "Introducing Gemini 3.7 Flash",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5",
     "difficulty": "News"
   },
   {
