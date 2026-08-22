@@ -84,18 +84,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 21, 03:41 PM ET",
-    "publishedAt": "2026-08-21T19:41:36+00:00",
-    "source": "Channel Insider",
-    "title": "Anthropic Expands Claude Computer Use With Browser Access, Skills and File Storage",
-    "summary": "Channel Insider is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeXBVTERfQmFpbUVhNjJnVHhXemhFNUFwN24yd21sRWJhcm9BMW8tV293Q0ROcnVpVEpuYUZNclpac1JWd0pPUDEyZmh2T0g2SjRYdWhpX19FenRIem91X0RNRmZQNVVSLWJyT3pCSlJDOFpWWDNRTENsY0dSMkZESDlEQkdtY2J3YnpJeWtIVQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 21, 03:40 PM ET",
@@ -105,18 +93,6 @@
     "summary": "TradingView is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeV9pTjdXT0ZMRzY5Smo5bjl6Y0NuakNObjc1ZzF4NW1LM3NtRV82WXBiTGFpRWFLZmV6VEhWTzVfRmV3UjdfeUhidWtkNERfclBQcVYwMl81cU0yY3NqSEVmMXI3YW83UEFrSnBQTms1SlpNUUNzZlVxT1ozYmludE9vc3JOSi1aQVBpX1c1LXUwd052RFBKa3UzXzNTbkhXWkFhMU9yckJWRU11cC02OG9qUU5QRG91THlkeU84cExKZW5jZUp3blBqWFZQZzg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 21, 09:50 AM ET",
-    "publishedAt": "2026-08-21T13:50:16+00:00",
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "title": "'Rogue' AI agent went haywire at tech company. The CEO is still 'bullish' on the technology - ABC News",
-    "summary": "ABC News - Breaking News, Latest News and Videos is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFFmb1kzMDlmOVBhcXh6aWJtd3c0WDdxaDFfQ05tdVJBZHJNRlFLSG1RYTRnb0N1a1d2SlQxbFJjYkRkQWJMUGhDYktmemhTVGFCSzQ3bHZURmZwMmpCbHI1MkhhQ3AwS3BKcE9mblhBVnNfWDRnVVBIX0tmMkJ6MVVOcnR1cXJmZWJJWThwSElKZUI4SmpLUnJLSdIBoAFBVV95cUxPMXFLMjFFOWJkUzlyTmJILWZ3UjhfdEZ2OXlzbGJEZVJwaklnc3dRZzQ4SV9lUDJBc0YxdjY0Z2xTaXNCV1VEcE85Q3BMVVY4Y2lFXzU5Wks0ZXB4c19rVG9TaTZNLUxqSkF2a002akx6ejFHbXVVOGRzc1c0UDZraXNaTzgtWmRzamFldi1zYU02ay1zRUN2X19qS005enZm?oc=5",
     "difficulty": "News"
   },
   {
@@ -230,6 +206,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 19, 12:44 PM ET",
+    "publishedAt": "2026-08-19T16:44:00+00:00",
+    "source": "WIRED",
+    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+    "summary": "WIRED is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnVRS0g1dHJENG1VR2ppa25vUFpkRlQtazVRWEhCelNSSWJKSTE4YTJ4NEpaZWV4TFd0dHN5cXA3M20tLVRTdmNWeVJyaHRXSEZ0QWVFSGZFN0hUZDJyUXl5cWVtTFhTNTd2NU8wbE5pS2drdzJLTFdJRHk2aW5vSlY2ME9hUTZ0LVF3NTRoV0VWMkJycVhLUXBOZXYwRk41ZGJvZA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 19, 08:15 AM ET",
     "publishedAt": "2026-08-19T12:15:00+00:00",
     "source": "CNET",
@@ -261,6 +249,18 @@
     "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckR4S0wwNU9CMDR6Tnp5N1BUSllncWdMTmJ5VGw5OXR6RGUzalphZG9uYkpFd0NrTkhETWlyVEszRE5mYzhERzJDR0dqZWxSMmZId0lSaUNRUnRJYjQ4Q1ZDT0lUODVEYy1fNUlKa285SXl2OW5kQmNPMFV2NlQwY3QyLWlPZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 18, 04:11 AM ET",
+    "publishedAt": "2026-08-18T08:11:08+00:00",
+    "source": "Cybernews",
+    "title": "GitHub outage hits developers worldwide as Copilot and core services go down",
+    "summary": "Cybernews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXF5WXpOdFQyZlkzcTkyTTFMYlRIc1l3ekltNFpqQWtXS3pEeWdpeVVrbk43OUwtSFZZbEdrb2xDc3ltRG41NUJsYThibmJyLTh2bmlhN3pVamFtV2NWOFlfNm82UEJNZzItcFQyWURFRjBOeTNCUVZ6eUhENUhUNXB3?oc=5",
     "difficulty": "News"
   },
   {
@@ -326,20 +326,8 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Aug 10, 05:29 PM ET",
-    "publishedAt": "2026-08-10T21:29:46+00:00",
-    "source": "Visual Studio Magazine",
-    "title": "Microsoft Study Shows Just How 'Agentic' GitHub Copilot Has Become",
-    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzNKYWVlOWVaOHZ6ZUk3R3g3ZkVsMXFITzY5emVYelNxZHZ1NWtUbEw2QlUwQjZEMXgydjlhQ0dUN3BkU09pZWdUdHBGbGdUZWQ3bllWTkxOZ2dwQ1ZLM3Q5MnQ0OWltNGNvNHpiaTczbm8zbDdwNEV5MFdSMWhuVXZpNW9BTGNoYzRzYjBfcHVoMXo3eUVLb2d4elRPLVQ2RmZNM2tBMkc4ZldiSFJTRk1UNHpnUkxWRGc4aFNGUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 07, 03:00 AM ET",
-    "publishedAt": "2026-08-07T07:00:00+00:00",
+    "time": "Aug 06, 09:36 PM ET",
+    "publishedAt": "2026-08-07T01:36:00+00:00",
     "source": "tech-insider.org",
     "title": "GitHub Copilot Defaults 3 Plans to AI Training [2026]",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
@@ -381,6 +369,18 @@
     "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "The GitHub Blog",
+    "title": "Copilot Agent is now available in JetBrains AI Assistant",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
     "difficulty": "News"
   }
 ]
