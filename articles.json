@@ -26,18 +26,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 22, 12:50 AM ET",
-    "publishedAt": "2026-08-22T04:50:12+00:00",
-    "source": "Storyboard18",
-    "title": "OpenAI slashes GPT-5.6 Sol API prices by more than 20% amid competition",
-    "summary": "Storyboard18 is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3lPQVhBZ1ZzMlVmMnFzR1Q4UVVzdzRmUWk1WnpCWEY0cDJkUnNWcjBPb3A0NTNBRmlEUkRfNzhIUHVQR3dfMHhqaU5lU3FoaHA1eDdVQnZPZzJfNThRQzFsVGlCeGd5WEowMnNWN00tUWx3MTlYUkVYRFU0LWJTclhLRVdnMnpLQUQzU3hReUVkOXNLMjZJWGxqSHZXeTRpWDNfX3FEd0R2UUVZck1WeVR4YjdvbnVwYkRpNFdIek5fQXUy0gHKAUFVX3lxTE44c2c3N2VqWDBaQnROX1pHZjd5bVhiRUp3U2EyYnllS01mLW00VXpZN3FEWXR6Um56MjBxZjMwaEtuT2JuQ3ZEbTRsRlhVM1B2RUdjb0tDLWMwWmd4WmVnZmpxcy1ZQ0N1TnRMUGQ1OGdMOG9ZODdTU2RqRWNSckZLdFZGRG5RM1BzVWxwOWtSamg3QUJZVXpEY2otY2IzeGFRemtLajBWSXRGcEtvWjBmb3dVd0VZNnhqSk44WkNYdENJclkxZm9yWWc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Aug 21, 09:35 PM ET",
     "publishedAt": "2026-08-22T01:35:01+00:00",
     "source": "Startup Fortune",
@@ -74,13 +62,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 21, 02:01 PM ET",
-    "publishedAt": "2026-08-21T18:01:39+00:00",
-    "source": "HackerNoon",
-    "title": "Building an AI Chatbot with Gemini and Vercel Serverless Functions",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "time": "Aug 21, 03:00 AM ET",
+    "publishedAt": "2026-08-21T07:00:00+00:00",
+    "source": "TechRepublic",
+    "title": "Google Adds New Gemini Models to Vertex AI",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXFOZzRFRnlKQ3QwVXQ0ZGgzN24wUHpPR09fdExhNGJkVXFnVnhSRGN4SVRmSkgxa2poaUZfVDg2cWoxaU9wcjE1YzVnS1FsNkZsNGcxUGtyeUEweXloRU5ZSVNGZGVGODBsQWdRQmZZeGF3ZmZzSTZYN0twbFB6ZnRKemYyYkVYRlYtMF91cTg2c0U?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2VjFRam5EYXZPYjFsVW1QbER5MDJMWHVqbjF0ZUphSnBnNFJUaTl6eGZULU5VdWVPdTczbnpyT0hUUTBGZXhoS2EtNkpmaWtHUUlJbHVab3l3QUFBZjMxU3c5MmlZdHVSNVdDLUx0aVJtVlNIV2pwMExkRUU?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,6 +264,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 16, 03:00 AM ET",
+    "publishedAt": "2026-08-16T07:00:00+00:00",
+    "source": "AIMultiple",
+    "title": "Best 50+ Open Source AI Agents Listed",
+    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WbnFnU3kxUnVrMWt2TlYyR3h4T3g0SWVFU0xQZlpBZHhxRDhGWnIzR284empKR1BVeVBIa0gyTmFiZWo3RjZvcjdIZ0puU3BMdlMzVURDOA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 14, 03:00 AM ET",
@@ -285,6 +285,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 13, 03:00 AM ET",
+    "publishedAt": "2026-08-13T07:00:00+00:00",
+    "source": "Cerebras",
+    "title": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI",
+    "summary": "Cerebras is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,18 +357,6 @@
     "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Jul 09, 03:00 AM ET",
-    "publishedAt": "2026-07-09T07:00:00+00:00",
-    "source": "The Information",
-    "title": "Cursor Is Developing an AI Agent to Compete With Claude Cowork",
-    "summary": "The Information is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2tEWU1XQmk4OEdCcHhKSmF1VkFwMUxLcUJsQTVRY2N3NEhkMXduSUo3bVBBUk1zYUp6Q2p2QWozRHZ5NnJwM2VLSG0yUkJSOV9JMGpoZjl6R3Jsa0UxZnozeGQ1NjI1Z3NobzZMQlpLNjJBVTZSR3plRTJ6T2pCalhKUHVubnBlOENtVTBSN0dOUQ?oc=5",
     "difficulty": "News"
   },
   {
