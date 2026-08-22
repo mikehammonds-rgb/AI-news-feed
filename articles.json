@@ -36,18 +36,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 21, 09:32 PM ET",
-    "publishedAt": "2026-08-22T01:32:40+00:00",
-    "source": "Finimize",
-    "title": "OpenAI Cut GPT-5.6 Sol API Prices To Keep Developers Close",
-    "summary": "Finimize is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzhhMVRwRm9jYm9nZE05c01PclpiZ1MteXBRMC0tck5IMk1iMHVXQnRpU0hnUTFGUEJpOHgxS3k2QXJkSW9QWXQxcXlXaUxCYjN2b3d5eEVCMDM3blpBNW52U0tCUWljdzBBM0lCem1tUThaNjVLcDdwUXU3cWJMWlhKR0M3T253bkZyRTJoQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 21, 08:57 PM ET",
@@ -69,6 +57,18 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2VGRS1PaUtNUFFpYURJLU9GaWFYa3VHS2xMNGhHUWcwTUN5RXl2LTE4bldBaVRyT1VwRFR4T0Zqb290U1pQbmkyelctZk5JeGIxVEFsbnliQy12bGMxUW1nNXhpMFd4d0x3cEJza09iMGJXMUx0Y1BYTXA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 21, 06:32 PM ET",
+    "publishedAt": "2026-08-21T22:32:40+00:00",
+    "source": "Finimize",
+    "title": "OpenAI Cut GPT-5.6 Sol API Prices To Keep Developers Close",
+    "summary": "Finimize is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzhhMVRwRm9jYm9nZE05c01PclpiZ1MteXBRMC0tck5IMk1iMHVXQnRpU0hnUTFGUEJpOHgxS3k2QXJkSW9QWXQxcXlXaUxCYjN2b3d5eEVCMDM3blpBNW52U0tCUWljdzBBM0lCem1tUThaNjVLcDdwUXU3cWJMWlhKR0M3T253bkZyRTJoQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -168,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 20, 10:00 AM ET",
-    "publishedAt": "2026-08-20T14:00:21+00:00",
-    "source": "Databricks",
-    "title": "Scaling the data platform powering ChatGPT",
-    "summary": "Databricks is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Vai12V0JnODN5cU1KQUdVYUxFS0dNbk0wUXdhZnZMRVdzNkVtOS05MzdDTEFlMWVBU2NVT3ZUQ2YwcGt1WEZhcjFtM25MbjFZY216RURB?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 20, 06:51 AM ET",
@@ -189,6 +177,18 @@
     "summary": "Simplilearn.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zRklWTGpIdVQ4YmRpTWMtdWZFNnJkOHV1RUpUeFY2SW1RcVpmdU94dE5GLUFLLWJLQlVxd016WUNyU1dlOGN4RDkxbW9McVlkTEN4Wl9SekVCYXJhYmpxLXRPRDcycnFscEVNbQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 19, 06:10 PM ET",
+    "publishedAt": "2026-08-19T22:10:46+00:00",
+    "source": "TechCrunch",
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeE1RX0FaeTZ4N25BV05ZYnhqS3I3bVd4aHB2WWI2QUhCV3czRmh2UGxWUjhKNDB5OWNoUldnd002WWFidk5QaXhtVG1Kd29UX2JaR2FxcWNIbGVCNndVVnhRYkF4UlpHejZRTWFVWXdvR013dkU3TWFzbjJIbG9sbDFHYTI2S3I3bFZaQkJTYXg5aVhoMHVtUHVYSHB1dExJTTUzN1poa2I?oc=5",
     "difficulty": "News"
   },
   {
@@ -266,18 +266,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Aug 18, 04:11 AM ET",
-    "publishedAt": "2026-08-18T08:11:08+00:00",
-    "source": "Cybernews",
-    "title": "GitHub outage hits developers worldwide as Copilot and core services go down",
-    "summary": "Cybernews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXF5WXpOdFQyZlkzcTkyTTFMYlRIc1l3ekltNFpqQWtXS3pEeWdpeVVrbk43OUwtSFZZbEdrb2xDc3ltRG41NUJsYThibmJyLTh2bmlhN3pVamFtV2NWOFlfNm82UEJNZzItcFQyWURFRjBOeTNCUVZ6eUhENUhUNXB3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Aug 17, 01:40 PM ET",
     "publishedAt": "2026-08-17T17:40:10+00:00",
     "source": "GeekWire",
@@ -333,6 +321,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 10, 05:29 PM ET",
+    "publishedAt": "2026-08-10T21:29:46+00:00",
+    "source": "Visual Studio Magazine",
+    "title": "Microsoft Study Shows Just How 'Agentic' GitHub Copilot Has Become",
+    "summary": "Visual Studio Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzNKYWVlOWVaOHZ6ZUk3R3g3ZkVsMXFITzY5emVYelNxZHZ1NWtUbEw2QlUwQjZEMXgydjlhQ0dUN3BkU09pZWdUdHBGbGdUZWQ3bllWTkxOZ2dwQ1ZLM3Q5MnQ0OWltNGNvNHpiaTczbm8zbDdwNEV5MFdSMWhuVXZpNW9BTGNoYzRzYjBfcHVoMXo3eUVLb2d4elRPLVQ2RmZNM2tBMkc4ZldiSFJTRk1UNHpnUkxWRGc4aFNGUQ?oc=5",
     "difficulty": "News"
   },
   {
