@@ -48,6 +48,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 21, 07:07 PM ET",
+    "publishedAt": "2026-08-21T23:07:25+00:00",
+    "source": "TechCrunch",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2VGRS1PaUtNUFFpYURJLU9GaWFYa3VHS2xMNGhHUWcwTUN5RXl2LTE4bldBaVRyT1VwRFR4T0Zqb290U1pQbmkyelctZk5JeGIxVEFsbnliQy12bGMxUW1nNXhpMFd4d0x3cEJza09iMGJXMUx0Y1BYTXA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 21, 05:30 PM ET",
@@ -93,18 +105,6 @@
     "summary": "ABC News - Breaking News, Latest News and Videos is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFFmb1kzMDlmOVBhcXh6aWJtd3c0WDdxaDFfQ05tdVJBZHJNRlFLSG1RYTRnb0N1a1d2SlQxbFJjYkRkQWJMUGhDYktmemhTVGFCSzQ3bHZURmZwMmpCbHI1MkhhQ3AwS3BKcE9mblhBVnNfWDRnVVBIX0tmMkJ6MVVOcnR1cXJmZWJJWThwSElKZUI4SmpLUnJLSdIBoAFBVV95cUxPMXFLMjFFOWJkUzlyTmJILWZ3UjhfdEZ2OXlzbGJEZVJwaklnc3dRZzQ4SV9lUDJBc0YxdjY0Z2xTaXNCV1VEcE85Q3BMVVY4Y2lFXzU5Wks0ZXB4c19rVG9TaTZNLUxqSkF2a002akx6ejFHbXVVOGRzc1c0UDZraXNaTzgtWmRzamFldi1zYU02ay1zRUN2X19qS005enZm?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 21, 05:58 AM ET",
-    "publishedAt": "2026-08-21T09:58:56+00:00",
-    "source": "Simplilearn.com",
-    "title": "How to Get Gemini API Key: Step-by-Step Guide",
-    "summary": "Simplilearn.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QYnpyZzJhZ25YZ191eHlFTmJrUUJnYkhoSmZ1UlMzWjZaRTNzUnZPazdfVXlHal9pS0g3Sjh0YnNBUE8wekVTdVJNdVg0YkphSFZCNk9UWnQ4dm9FZW0xdzZGTVNJWG5xdW16WEVn?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,6 +156,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 20, 06:51 AM ET",
+    "publishedAt": "2026-08-20T10:51:29+00:00",
+    "source": "Simplilearn.com",
+    "title": "What Is Google AI Studio? Features, Uses and How It Works",
+    "summary": "Simplilearn.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zRklWTGpIdVQ4YmRpTWMtdWZFNnJkOHV1RUpUeFY2SW1RcVpmdU94dE5GLUFLLWJLQlVxd016WUNyU1dlOGN4RDkxbW9McVlkTEN4Wl9SekVCYXJhYmpxLXRPRDcycnFscEVNbQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 19, 04:52 PM ET",
@@ -189,18 +201,6 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3V6UVYwYVZlaHE2Y05hR1NRM2lDYzdZYnhEaVhUN0NSeTFpOHZnYlJxbnY3bFJ1bHNFZkRHQ2RCaG1YLU1jWmRyNlhENVJVTXQxa0JsRjNGUndHcmd6WUt3OG1KUVVuelZPdm9KNXVhMHZPTHd5LVJRcDJCelJhektBMm5RaVV3YzdoZ1l4LU1VWk5UeGtCS3M1S2g1eTFCSGxsazlrRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 19, 01:30 PM ET",
-    "publishedAt": "2026-08-19T17:30:13+00:00",
-    "source": "MakeUseOf",
-    "title": "I use Claude Code without paying a dime to Anthropic",
-    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSEF6Y3R5WEVCQ3h2RVZHNGRXOHJDX0g2Yzg0ZXd1cTYtVkY5Z3FzUFFnYjZWM0JzZ0dhWnd3eEwySm1lTUFGeF9tOTRaRklhTjhiQTM3Y3hJb1I1VnVjaUZSU2Z1Qkh3QUVWQmNvTEZOcmhtWW1VMDh6Z0dPZG1PZGQtZktGZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -290,8 +290,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 14, 03:22 PM ET",
-    "publishedAt": "2026-08-14T19:22:20+00:00",
+    "time": "Aug 14, 03:00 AM ET",
+    "publishedAt": "2026-08-14T07:00:00+00:00",
     "source": "Anthropic",
     "title": "How Claude's text watermarking works",
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
