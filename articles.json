@@ -62,18 +62,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 21, 06:32 PM ET",
-    "publishedAt": "2026-08-21T22:32:40+00:00",
-    "source": "Finimize",
-    "title": "OpenAI Cut GPT-5.6 Sol API Prices To Keep Developers Close",
-    "summary": "Finimize is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzhhMVRwRm9jYm9nZE05c01PclpiZ1MteXBRMC0tck5IMk1iMHVXQnRpU0hnUTFGUEJpOHgxS3k2QXJkSW9QWXQxcXlXaUxCYjN2b3d5eEVCMDM3blpBNW52U0tCUWljdzBBM0lCem1tUThaNjVLcDdwUXU3cWJMWlhKR0M3T253bkZyRTJoQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Aug 21, 05:30 PM ET",
     "publishedAt": "2026-08-21T21:30:13+00:00",
     "source": "Reuters",
@@ -81,18 +69,6 @@
     "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 20, 09:00 PM ET",
-    "publishedAt": "2026-08-21T01:00:00+00:00",
-    "source": "IT Brief Asia",
-    "title": "Google adds Antigravity to Gemini Enterprise subscriptions",
-    "summary": "IT Brief Asia is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmd6bkh0dDh3eE4yTWp1U3JLRGJMV1BKWFNGVFQ0cENBT1dmVVJfVWJGVktzdGw5dHlvcFo2XzdCQjBCSlJ0a0ZNV1ZfaTRseVlMZGE0SFdfTFFuVW1tZjNGTXNEUXMzREd1NXhNV195TTRLUF9CVHhzQ05kWDhtNERZSFFYQjVPNHNQMk13?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,6 +252,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 16, 08:15 PM ET",
+    "publishedAt": "2026-08-17T00:15:26+00:00",
+    "source": "EdTech Innovation Hub",
+    "title": "UK university students build RoomQuest and MeetSpot at Google Gemini AI hackathon",
+    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYkF6aGRxRXZDZUEyOURDRjdHRmVoVHpQamxjSHV6YjdxUkNzcG1XSnd5UVpQZHYxX1RLWlp3WVBnLUJrSUQzaGtUaXc2SDJNWlYxYjZPR3Z2LTd0a0xuTGZ6YzJ1dHktRG8xVnktdFViVjVhUEJzNFRFcG83SDZUWHlMWENQa2dqdTNwX29xU0Uwd0FqaWlRTWZUS3FXNkxaUWs1Mk1NNG9rd3pBZVduMWlkN1lkWFpIcmYxakY3UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 16, 03:00 AM ET",
@@ -324,15 +312,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 06, 09:36 PM ET",
-    "publishedAt": "2026-08-07T01:36:00+00:00",
-    "source": "tech-insider.org",
-    "title": "GitHub Copilot Defaults 3 Plans to AI Training [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 12, 03:00 AM ET",
+    "publishedAt": "2026-08-12T07:00:00+00:00",
+    "source": "The Hacker News",
+    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtMWlRY0RMME1VOE15TzgtbTEteFZnLUpMQ1FCTVQ0OHR4Yjl5UE9BaC1xOV80YkpCMUdYQjFYVnRZRDhxQVFiUnlmcHFkVVQ2VnRLeGVQUTJrMmFZX2Q2MjBhVlozY3UzYzU3Rm91NTV6MGtNVVFB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +369,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Apr 24, 03:00 AM ET",
+    "publishedAt": "2026-04-24T07:00:00+00:00",
+    "source": "wiz.io",
+    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
     "difficulty": "News"
   }
 ]
