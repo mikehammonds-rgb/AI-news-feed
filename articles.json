@@ -16,9 +16,9 @@
     "label": "Claude Code",
     "time": "Aug 22, 04:54 AM ET",
     "publishedAt": "2026-08-22T08:54:54+00:00",
-    "source": "36 Kr",
+    "source": "36Kr",
     "title": "Has Codex Started to Strike Back Against Claude Code? Key AI Code Assistant Showdown",
-    "summary": "36 Kr is reporting this update. Open the article for the full story.",
+    "summary": "36Kr is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94d3d0S0RPMkstQzNXYlpoUHRFeTRvcTJoMVpJWTdncWdkbGtRakdWaDEzMXhDZmhIU2Z1a1BiQ0llRFZJWGdMM2VHZmI2bWpHR2ww?oc=5",
     "difficulty": "News"
@@ -69,6 +69,18 @@
     "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 21, 02:01 PM ET",
+    "publishedAt": "2026-08-21T18:01:39+00:00",
+    "source": "HackerNoon",
+    "title": "Building an AI Chatbot with Gemini and Vercel Serverless Functions",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXFOZzRFRnlKQ3QwVXQ0ZGgzN24wUHpPR09fdExhNGJkVXFnVnhSRGN4SVRmSkgxa2poaUZfVDg2cWoxaU9wcjE1YzVnS1FsNkZsNGcxUGtyeUEweXloRU5ZSVNGZGVGODBsQWdRQmZZeGF3ZmZzSTZYN0twbFB6ZnRKemYyYkVYRlYtMF91cTg2c0U?oc=5",
     "difficulty": "News"
   },
   {
@@ -285,18 +297,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 13, 01:00 PM ET",
-    "publishedAt": "2026-08-13T17:00:13+00:00",
-    "source": "Ars Technica",
-    "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjZPd0hkSXZpM1RMMmo3bHBwLUVOUVp1dHkwTDB0bWdhdFhpV1lROUVrOW9GWmhxSWVpQzhOZmJJbUxGSThqS29XNVJjLV82NVBZY1U1N2lDX0NJOERwaWFWRjNQRlpUY1V3SWk0SXF4U3BxQUFkUEZ1aGxSVS1qY2QwYnZCOS1iYUtwNTdLcUE2RnV6MDYyb3Z1SDhNNFlLTDAyNndPLWtLaUwyWnc?oc=5",
     "difficulty": "News"
   },
   {
