@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 22, 06:11 AM ET",
+    "publishedAt": "2026-08-22T10:11:19+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Get a ChatGPT API Key: 12 Steps, 90 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qeUZ4TTAtX2pWRjJ3WktaOW1IX2FYYWVKY2xIZ3FxNnFvaHd6amFqVjdabVdMZW9BOXNabGJ1SG85cHNBdENKYXFoNTJ0ay11Q0w3Ylp1bVZWNWItTTZITzBIdWdHQlpm?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 22, 04:54 AM ET",
@@ -57,18 +69,6 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2VGRS1PaUtNUFFpYURJLU9GaWFYa3VHS2xMNGhHUWcwTUN5RXl2LTE4bldBaVRyT1VwRFR4T0Zqb290U1pQbmkyelctZk5JeGIxVEFsbnliQy12bGMxUW1nNXhpMFd4d0x3cEJza09iMGJXMUx0Y1BYTXA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 21, 06:32 PM ET",
-    "publishedAt": "2026-08-21T22:32:40+00:00",
-    "source": "Finimize",
-    "title": "OpenAI Cut GPT-5.6 Sol API Prices To Keep Developers Close",
-    "summary": "Finimize is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzhhMVRwRm9jYm9nZE05c01PclpiZ1MteXBRMC0tck5IMk1iMHVXQnRpU0hnUTFGUEJpOHgxS3k2QXJkSW9QWXQxcXlXaUxCYjN2b3d5eEVCMDM3blpBNW52U0tCUWljdzBBM0lCem1tUThaNjVLcDdwUXU3cWJMWlhKR0M3T253bkZyRTJoQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,6 +216,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 19, 10:09 AM ET",
+    "publishedAt": "2026-08-19T14:09:34+00:00",
+    "source": "KDnuggets",
+    "title": "How to Answer AI System Design Interview Questions",
+    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWJnOE1YQ2d1TE5CUUFLSVh2dDlFMGV4Q05pQVRyU3FTeHAxd191aWtJYnlZMFJrOExadnZTT2gwUkJlMHpIUmJFZGNVMElGOWczcEZOdVRnNHJpZnl5VGM2eVFNTjJVemE1SGwteUdwRzdsQ2w1R3NUUFAxNFk0N1V3?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 19, 08:15 AM ET",
@@ -321,18 +333,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 06, 09:36 PM ET",
-    "publishedAt": "2026-08-07T01:36:00+00:00",
-    "source": "tech-insider.org",
-    "title": "GitHub Copilot Defaults 3 Plans to AI Training [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtMWlRY0RMME1VOE15TzgtbTEteFZnLUpMQ1FCTVQ0OHR4Yjl5UE9BaC1xOV80YkpCMUdYQjFYVnRZRDhxQVFiUnlmcHFkVVQ2VnRLeGVQUTJrMmFZX2Q2MjBhVlozY3UzYzU3Rm91NTV6MGtNVVFB?oc=5",
     "difficulty": "News"
   },
   {
