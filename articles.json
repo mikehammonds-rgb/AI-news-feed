@@ -72,18 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 21, 08:57 PM ET",
-    "publishedAt": "2026-08-22T00:57:55+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Set Up an MCP Server for Claude: 13 Steps [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sdTZoMmxJcUtBVDMwZFRrVVUwUTNTYXg5TkNQWVJhNW9veFZNSFphZmdfMVYwWXozbzFGSmJzUnZhQlFtc194ZzlXM2VhT2cybTRqeHFoWE8xdS1jYWp0Njh3Rkhpc0dKS1FySFhaeEZheHc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 21, 05:30 PM ET",
@@ -158,6 +146,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 19, 09:01 PM ET",
+    "publishedAt": "2026-08-20T01:01:28+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Use Claude Opus 5: 12 Steps, 100 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94U1JNNlZLbXgzMFkzTTZJMVJBSU1vMUVtbVY0bWVjRW85b3NqcnFvUmtpRHlmaTEwcFRhZmdJcy11VzZwWEttT2JmS0dYeGI5eW5fZzF2YUVnOWd5WkY4cEJOM25EaFMtZWc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 19, 06:10 PM ET",
     "publishedAt": "2026-08-19T22:10:46+00:00",
     "source": "TechCrunch",
@@ -201,18 +201,6 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3V6UVYwYVZlaHE2Y05hR1NRM2lDYzdZYnhEaVhUN0NSeTFpOHZnYlJxbnY3bFJ1bHNFZkRHQ2RCaG1YLU1jWmRyNlhENVJVTXQxa0JsRjNGUndHcmd6WUt3OG1KUVVuelZPdm9KNXVhMHZPTHd5LVJRcDJCelJhektBMm5RaVV3YzdoZ1l4LU1VWk5UeGtCS3M1S2g1eTFCSGxsazlrRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 19, 12:44 PM ET",
-    "publishedAt": "2026-08-19T16:44:00+00:00",
-    "source": "WIRED",
-    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-    "summary": "WIRED is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnVRS0g1dHJENG1VR2ppa25vUFpkRlQtazVRWEhCelNSSWJKSTE4YTJ4NEpaZWV4TFd0dHN5cXA3M20tLVRTdmNWeVJyaHRXSEZ0QWVFSGZFN0hUZDJyUXl5cWVtTFhTNTd2NU8wbE5pS2drdzJLTFdJRHk2aW5vSlY2ME9hUTZ0LVF3NTRoV0VWMkJycVhLUXBOZXYwRk41ZGJvZA?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,6 +333,18 @@
     "summary": "The Information is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2tEWU1XQmk4OEdCcHhKSmF1VkFwMUxLcUJsQTVRY2N3NEhkMXduSUo3bVBBUk1zYUp6Q2p2QWozRHZ5NnJwM2VLSG0yUkJSOV9JMGpoZjl6R3Jsa0UxZnozeGQ1NjI1Z3NobzZMQlpLNjJBVTZSR3plRTJ6T2pCalhKUHVubnBlOENtVTBSN0dOUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Sonnet 5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
     "difficulty": "News"
   },
   {
