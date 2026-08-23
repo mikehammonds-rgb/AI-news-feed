@@ -84,6 +84,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 20, 07:10 PM ET",
+    "publishedAt": "2026-08-20T23:10:35+00:00",
+    "source": "Hostinger",
+    "title": "12 best Cursor alternatives for web development with AI",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oSUg0aWd1MmdMUllWTi00WE5vVm5kZkRkbVJWWTFZc2NWc2w4Z1J0STZWX0k1bnIwbk1uLXJqLU1nS0dJZ3FKRG9FUU5ZeVVhckFVam1sbHFoVlF1VkJWSTU2cld3UDhfa3Yw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 20, 05:46 PM ET",
@@ -117,6 +129,18 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeE1RX0FaeTZ4N25BV05ZYnhqS3I3bVd4aHB2WWI2QUhCV3czRmh2UGxWUjhKNDB5OWNoUldnd002WWFidk5QaXhtVG1Kd29UX2JaR2FxcWNIbGVCNndVVnhRYkF4UlpHejZRTWFVWXdvR013dkU3TWFzbjJIbG9sbDFHYTI2S3I3bFZaQkJTYXg5aVhoMHVtUHVYSHB1dExJTTUzN1poa2I?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 19, 04:52 PM ET",
+    "publishedAt": "2026-08-19T20:52:57+00:00",
+    "source": "StartupHub.ai",
+    "title": "GitHub Copilot's 'My Work' Pane",
+    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObENEU0h0QUxUT3pLSWJsZ0llRXlCYmUwM3NuMjZmeFJxUU9Oa01KNzVpTEdFdGZpb0NTWGRMdXlkMzhtS3ZZS1BmNm1ndHNrLWoxQlJQYU9Cb0YtRFduRmRvYThQOUFTRFBMYnpOX0toanpwRlFDTlF0S2NicnFxMGsxQnA0MFhuajRKLXUzXy04aFdYQlJV?oc=5",
     "difficulty": "News"
   },
   {
@@ -168,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 19, 10:09 AM ET",
-    "publishedAt": "2026-08-19T14:09:34+00:00",
-    "source": "KDnuggets",
-    "title": "How to Answer AI System Design Interview Questions",
-    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWJnOE1YQ2d1TE5CUUFLSVh2dDlFMGV4Q05pQVRyU3FTeHAxd191aWtJYnlZMFJrOExadnZTT2gwUkJlMHpIUmJFZGNVMElGOWczcEZOdVRnNHJpZnl5VGM2eVFNTjJVemE1SGwteUdwRzdsQ2w1R3NUUFAxNFk0N1V3?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 19, 08:15 AM ET",
@@ -218,18 +230,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Aug 18, 04:11 AM ET",
-    "publishedAt": "2026-08-18T08:11:08+00:00",
-    "source": "Cybernews",
-    "title": "GitHub outage hits developers worldwide as Copilot and core services go down",
-    "summary": "Cybernews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXF5WXpOdFQyZlkzcTkyTTFMYlRIc1l3ekltNFpqQWtXS3pEeWdpeVVrbk43OUwtSFZZbEdrb2xDc3ltRG41NUJsYThibmJyLTh2bmlhN3pVamFtV2NWOFlfNm82UEJNZzItcFQyWURFRjBOeTNCUVZ6eUhENUhUNXB3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Aug 17, 01:40 PM ET",
     "publishedAt": "2026-08-17T17:40:10+00:00",
     "source": "GeekWire",
@@ -261,18 +261,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 13, 12:48 PM ET",
-    "publishedAt": "2026-08-13T16:48:00+00:00",
-    "source": "Fortune",
-    "title": "Microsoft begins to merge consumer and enterprise Copilot apps in push for super app",
-    "summary": "Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemhfVVdDSzZQczJQWXR6eG10TzdKTjYzc0trUm9zRV9UWkl4ZzJEaFhDWkYxLTFWQVREZVhrWDVyaWZwQWRiS1MxVWI2bVNDMjRTZk1TVTJQRDBLOEF2Y2t0S3owakQzY29ITmlUazZ1QVN0U3pTbmhRVnlmSzJIUXBGaDk2R2g4OUNnSnFlV2RzWmt1aU5hT3lR?oc=5",
     "difficulty": "News"
   },
   {
@@ -348,39 +336,51 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jul 14, 02:58 PM ET",
-    "publishedAt": "2026-07-14T18:58:56+00:00",
-    "source": "Reply",
-    "title": "AI for Developers: GitHub Copilot & Azure AI Workflow",
-    "summary": "Reply is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Jul 09, 03:00 AM ET",
+    "publishedAt": "2026-07-09T07:00:00+00:00",
+    "source": "The Information",
+    "title": "Cursor Is Developing an AI Agent to Compete With Claude Cowork",
+    "summary": "The Information is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN0N3TUVtM1pkcWlTTDJVeGdzNVBOVUcxWC1aU19wQ0ZhUjE4czlMdTc5RHZGZGp2YkhRSjZtTTVKTGtmOHlOMXRoNFFqN2lzeVZ0MC1fT2pvbWNRakRZY2ppUWF6UnhKUFF0ZTVqa2gyOU5uMUVJZmI4WnVEZFR3UUJ4MVhVQ0F6ZlhqUFdoN0FKUExxaUloYkJZLXUzS1RkU2lTRmhRRnIzMlBpbGdhRy1pNjJ0OXNmOVExMVFyYVYxcmFPZHJRNExnN1NLaFZ2UUp4MUt1Tm4yZk9WSnc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2tEWU1XQmk4OEdCcHhKSmF1VkFwMUxLcUJsQTVRY2N3NEhkMXduSUo3bVBBUk1zYUp6Q2p2QWozRHZ5NnJwM2VLSG0yUkJSOV9JMGpoZjl6R3Jsa0UxZnozeGQ1NjI1Z3NobzZMQlpLNjJBVTZSR3plRTJ6T2pCalhKUHVubnBlOENtVTBSN0dOUQ?oc=5",
     "difficulty": "News"
   },
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 22, 03:00 AM ET",
-    "publishedAt": "2026-06-22T07:00:00+00:00",
-    "source": "The New Stack",
-    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 15, 03:00 AM ET",
-    "publishedAt": "2025-10-15T07:00:00+00:00",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
     "source": "The GitHub Blog",
-    "title": "Copilot: Faster, smarter, and built for how you work now",
+    "title": "Copilot Agent is now available in JetBrains AI Assistant",
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYzVqTTg0TFdzMUZTR2Naa2ttUk9FOWVwVFVKYWV3M19TME9TanI1M0dnMHlscU1IY0VIc1lid2pieDB3bDFoNzg1VG92ZWhPSkdKbC15aGE5MElSNkN1aWRGMEtTbmZ0V2dPLVA4X0VwazdHejhJVHRMZldiM0RCWTZkZGJIUF9OcjYzRlpFRzJ0NWhTckZPMDRXSkdwU1ZaY1QwM25ySGM3MjlaZWJ1Qlg5U2kzVjdqR1ZDejYtRFlEOTRlNEtoOGRXeVk5SW5pckpPQVRaQTNFZVVOMHN3Rnd4V1NsT1E5WHJ5YXZUTTdzSnJQTXZhTk1DUWIxUmtkd1NSX0hzS0lobTlTMmxQTjFRTFBHdW5ubVRVNVBBdEs3cWc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 03:00 AM ET",
+    "publishedAt": "2026-06-16T07:00:00+00:00",
+    "source": "CBS News",
+    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Apr 24, 03:00 AM ET",
+    "publishedAt": "2026-04-24T07:00:00+00:00",
+    "source": "wiz.io",
+    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
     "difficulty": "News"
   }
 ]
