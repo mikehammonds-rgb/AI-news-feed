@@ -14,6 +14,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 23, 09:18 AM ET",
+    "publishedAt": "2026-08-23T13:18:48+00:00",
+    "source": "Startup Fortune",
+    "title": "Anthropic Cuts Claude Opus Prices in Half as Enterprises Balk at the Bill",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREh1VDNaWWYyQjhKVm5PX3loaTFabWFGdVE5RmVYa2Z2bTlDeFdSVHQxbkN4TUFiTHdkWXZ6Sl9sNUVFVTZSZ21JamUycE5ZZEN0Y2pKU2lwNFcteTJxSmh3bThyNi13cFdOTXBFaV91X3dKakp6cG40V2owSy1rSGVzcDZHVFByT2IyNnRyUzFYUVBJWW5wSjF2ZmRBV2l2a3Jj?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 23, 08:03 AM ET",
     "publishedAt": "2026-08-23T12:03:07+00:00",
     "source": "Fox News",
@@ -201,18 +213,6 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3V6UVYwYVZlaHE2Y05hR1NRM2lDYzdZYnhEaVhUN0NSeTFpOHZnYlJxbnY3bFJ1bHNFZkRHQ2RCaG1YLU1jWmRyNlhENVJVTXQxa0JsRjNGUndHcmd6WUt3OG1KUVVuelZPdm9KNXVhMHZPTHd5LVJRcDJCelJhektBMm5RaVV3YzdoZ1l4LU1VWk5UeGtCS3M1S2g1eTFCSGxsazlrRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 19, 12:44 PM ET",
-    "publishedAt": "2026-08-19T16:44:00+00:00",
-    "source": "WIRED",
-    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-    "summary": "WIRED is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnVRS0g1dHJENG1VR2ppa25vUFpkRlQtazVRWEhCelNSSWJKSTE4YTJ4NEpaZWV4TFd0dHN5cXA3M20tLVRTdmNWeVJyaHRXSEZ0QWVFSGZFN0hUZDJyUXl5cWVtTFhTNTd2NU8wbE5pS2drdzJLTFdJRHk2aW5vSlY2ME9hUTZ0LVF3NTRoV0VWMkJycVhLUXBOZXYwRk41ZGJvZA?oc=5",
     "difficulty": "News"
   },
   {
