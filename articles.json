@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 23, 10:04 AM ET",
+    "publishedAt": "2026-08-23T14:04:45+00:00",
+    "source": "WinBuzzer",
+    "title": "OpenAI Cuts GPT-5.6 Sol API Prices by Up to 33% Through November 21",
+    "summary": "WinBuzzer is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEFGRklMTWttS0NGSk1VQlRMc2tocVlkZC14bmtIU1Focy1XQWlucXF3bkhHcWRzTFVDbE9LVG9PMGZFckJCUmpPS3BsR1N4czJGT3A1Y3hRNURRQkxDc0hVLVlfcld6VjRmZWxyNDBoY0xtWURyVHozdDhhY3NVSU9fbkQ0QmYwM3hnNDR2NDJIU0hCaThYc3UxVlZfMVlHZDdFa051NnQwTlljamsyLXhzU2k2UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 23, 08:03 AM ET",
@@ -9,6 +21,18 @@
     "summary": "Fox News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0JKdmN5Tk1IakRtZHBlWDVIN19NZGZ5V0RHZGVsMllwWDN0N3BXdGlhT2Z1eVhya3BfMTJ0ai1mTUNRV1p0SW44YlpTWENPTFlqbDZLcnNmYnRRSHNPeGMyLXBud0w1NEk1a3U1R20yc1IxSjZiY2xyRnhxczBZcWp30gGHAUFVX3lxTE9oR1JhbWl6NTkzNzJ4cVBBRGpnbmQ1TDlMZDBxTWZCdERlNnJQZUh6ZmJaVHBpdE1ZT3lCVjBzdEc2UFU3aVZqUGtpTjVCWWZmRDJaSmpZUGFrYnNvekNUcjV1NUs0T1FhcFRGUDlHSkduckV2Njk1TWtMdzZ5aHIzcWhMazlEcw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 23, 03:54 AM ET",
+    "publishedAt": "2026-08-23T07:54:41+00:00",
+    "source": "the-decoder.com",
+    "title": "How China's gray market sells Claude tokens at a fraction of the price",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYlpkNm9oZy1KOFV5T1JyQ1NadS14TTc3OWRSMVZpQlBzZElWUmJkM2F0N1IyYmNDSWZlWHZBZm5VS1JXUmtCWWdYQ01IRm5iLUZWWWh6a0ZkR1lObXJuakdZX0RlZkZyc2VJRGpwdE52WDhWRkI3cjlwZVo0ZDkyM3NpTG9jQ0JJRGZsT2syNmQ3dDg0LWhpX3NB?oc=5",
     "difficulty": "News"
   },
   {
@@ -194,18 +218,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 19, 12:44 PM ET",
-    "publishedAt": "2026-08-19T16:44:00+00:00",
-    "source": "WIRED",
-    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-    "summary": "WIRED is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdnVRS0g1dHJENG1VR2ppa25vUFpkRlQtazVRWEhCelNSSWJKSTE4YTJ4NEpaZWV4TFd0dHN5cXA3M20tLVRTdmNWeVJyaHRXSEZ0QWVFSGZFN0hUZDJyUXl5cWVtTFhTNTd2NU8wbE5pS2drdzJLTFdJRHk2aW5vSlY2ME9hUTZ0LVF3NTRoV0VWMkJycVhLUXBOZXYwRk41ZGJvZA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 19, 08:15 AM ET",
     "publishedAt": "2026-08-19T12:15:00+00:00",
     "source": "CNET",
@@ -261,18 +273,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 13, 03:00 AM ET",
-    "publishedAt": "2026-08-13T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
     "difficulty": "News"
   },
   {
