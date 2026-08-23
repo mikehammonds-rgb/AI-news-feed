@@ -300,18 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 06, 03:00 AM ET",
-    "publishedAt": "2026-08-06T07:00:00+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Set Up GitHub Copilot: 12 Steps, 70 Min [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14aXFUNjJlMUUzcTRsWUo0ZFAwMnFEbmNfN21aekFhaWZUQTJtU0g5eE14SzdGVW5aS3VkdEZmVngwLUNpVmQtX0x2cjIwSURJcE5OSldCeGdHSnNkR2xudTgyOS0xS2tnM1pJ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 31, 03:00 AM ET",
@@ -369,6 +357,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 16, 03:00 AM ET",
+    "publishedAt": "2026-06-16T07:00:00+00:00",
+    "source": "CBS News",
+    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
+    "summary": "CBS News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   },
   {
