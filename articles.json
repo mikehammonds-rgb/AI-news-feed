@@ -40,9 +40,9 @@
     "label": "Claude Code",
     "time": "Aug 24, 03:13 AM ET",
     "publishedAt": "2026-08-24T07:13:54+00:00",
-    "source": "hindustantimes.com",
+    "source": "Hindustan Times",
     "title": "Claude down? Users report partial outage issue, 'Downgraded performance of my Claude Max bill’ | Hindustan Times",
-    "summary": "hindustantimes.com is reporting this update. Open the article for the full story.",
+    "summary": "Hindustan Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYkR0cXRjeXd2OEJnb1FjNlJvRm9GRHBLeTJiaVdvMXNDcjMtMENiNXJFNzVlWDhQU3BBMEVpRVI4azRpWHZIejhCazFjM1lGZm50Si1icG9md1NVUVFzZXlCTlpZYV82VmJUUWUwNXBkeHlLS2hBNmxwbVBVMEtEMnhSbks2cm5qeXVvdnp3TlVKSW84eUxMX3NmZUVMNDNCMlNfeEhvUWpVY3B4WmJLVThhR19aVmRsUWxWM283RGdLSFhsMWFNX05PN1pPYTR2NE1taVdnemxET1NIcW41eEphQjdkSFZfUm9tZlpuUjhzaE3SAfgBQVVfeXFMT1hLXy1EVDhZZHA4aTY3Nm9FVEowZmNzb0h6UDdjLU5HdDZvTmhaNUJiYkpsVEphdVlMZjhVLU1WMjBFSTE3VHZzYjBWV3c2ZE1DNDRBbXczTmVzXzBUWVRWTFpJZ1B5VXYwdmdXd0w4dWItMW5EYlRSZEdyWjcxamdjeUtnZ1lyU2duLTNWMUxpb1BjUDFuUHROblh1NEhEMHZuTEZBaEJwQmZFM0lhN0ozcjRDU3V6MzZ1enVHbkdfT0I4TGZKMVJoaG9WTHBfblNuREZvMFZGYjlXRUxxVzlGX1BYSUZFTXVUU2QxdU5KRlRBRjB0dDQ?oc=5",
     "difficulty": "News"
@@ -69,18 +69,6 @@
     "summary": "Notebookcheck is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXFobGtjOS1HOEZ0akk5czFEbmtQTmlCZHJMN0JOOUhlRUNqdnBpanZ5a1RQUG9DdEtXTEV1YllGTGt3N3ZkMFZBMS1pYXlQX3lwamNXWjFsUndLaUdVTW5zeXA2TkJIejBrWlBLalc5REs4d013dDdaRmN3QlNwVkUyRXV2ZHltalBfZnd0U2tCc2FteE5Xa1lTdk9WdTNtRFAwTg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 23, 10:33 PM ET",
-    "publishedAt": "2026-08-24T02:33:42+00:00",
-    "source": "36 Kr",
-    "title": "Anthropic Issues Humiliating Public Apology: Solid Evidence Confirms Claude’s Reasoning Capabilities Were Secretly Degraded",
-    "summary": "36 Kr is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85cU9HVUk1OFUyOVlzZmpZalZwYl9LLVhmcUNQT0xqMTNGd1hSNHZrdURhb0ZXcGtFVnItUm9pckRaXzFWc0VxU09NdnBfRGpEWHk0?oc=5",
     "difficulty": "News"
   },
   {
@@ -165,6 +153,18 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2VjFRam5EYXZPYjFsVW1QbER5MDJMWHVqbjF0ZUphSnBnNFJUaTl6eGZULU5VdWVPdTczbnpyT0hUUTBGZXhoS2EtNkpmaWtHUUlJbHVab3l3QUFBZjMxU3c5MmlZdHVSNVdDLUx0aVJtVlNIV2pwMExkRUU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 21, 03:00 AM ET",
+    "publishedAt": "2026-08-21T07:00:00+00:00",
+    "source": "AIMultiple",
+    "title": "AI Coding Benchmark: Claude Code vs Cursor",
+    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wZEJteXo3RGRoYVZDQm5xNWxnMi1jbXo0cW1zWWcwS3dRR3ROMWpGd0hOV0FYQTQyWUlEXzViMjE5NW1VdWNUOE1NWW9LeXBlc3FEeQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,6 +276,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 14, 03:00 AM ET",
+    "publishedAt": "2026-08-14T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "How Claude's text watermarking works",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 13, 03:00 AM ET",
@@ -357,18 +369,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 16, 03:00 AM ET",
-    "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "CBS News",
-    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "CBS News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   },
   {
