@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 23, 10:04 AM ET",
+    "publishedAt": "2026-08-23T14:04:45+00:00",
+    "source": "WinBuzzer",
+    "title": "OpenAI Cuts GPT-5.6 Sol API Prices by Up to 33% Through November 21",
+    "summary": "WinBuzzer is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEFGRklMTWttS0NGSk1VQlRMc2tocVlkZC14bmtIU1Focy1XQWlucXF3bkhHcWRzTFVDbE9LVG9PMGZFckJCUmpPS3BsR1N4czJGT3A1Y3hRNURRQkxDc0hVLVlfcld6VjRmZWxyNDBoY0xtWURyVHozdDhhY3NVSU9fbkQ0QmYwM3hnNDR2NDJIU0hCaThYc3UxVlZfMVlHZDdFa051NnQwTlljamsyLXhzU2k2UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 23, 09:18 AM ET",
@@ -62,13 +74,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 22, 06:11 AM ET",
-    "publishedAt": "2026-08-22T10:11:19+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Get a ChatGPT API Key: 12 Steps, 90 Min [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "time": "Aug 21, 09:35 PM ET",
+    "publishedAt": "2026-08-22T01:35:01+00:00",
+    "source": "Startup Fortune",
+    "title": "OpenAI Cuts GPT-5.6 Sol API Prices After Holding the Line for Months",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qeUZ4TTAtX2pWRjJ3WktaOW1IX2FYYWVKY2xIZ3FxNnFvaHd6amFqVjdabVdMZW9BOXNabGJ1SG85cHNBdENKYXFoNTJ0ay11Q0w3Ylp1bVZWNWItTTZITzBIdWdHQlpm?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTF9mM0RrcnFVdDhvQ2VTNXpzR2VWNW9kU1pmTXQ2N0hlS0czSl9MZGMwMHRORUhabkhRcGVyVm8ydzRDWVg5dzFranE2WERtUFYtek9WTEQ4eEFXaTlVS3BQdkxhNUtGa3hMbU5zOHBKTEJ0akNoVnlxOGJoZG5UN3BVU0xKajY1Z0FSMzJ3c3kzc2ZvM1FZVnppdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -264,18 +276,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 13, 03:00 AM ET",
-    "publishedAt": "2026-08-13T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 13, 03:00 AM ET",
@@ -288,6 +288,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 12, 03:00 AM ET",
+    "publishedAt": "2026-08-12T07:00:00+00:00",
+    "source": "The Hacker News",
+    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 31, 03:00 AM ET",
@@ -297,18 +309,6 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 30, 03:00 AM ET",
-    "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
   },
   {
