@@ -2,6 +2,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Aug 24, 11:43 AM ET",
+    "publishedAt": "2026-08-24T15:43:43+00:00",
+    "source": "Tech Times",
+    "title": "OpenAI Assistants API Shuts Down Tuesday: No Automated Migration, Threads at Risk",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTN3Nmg4NldBczJHbGIxaG5TZXFwMXoyZDFVaEc0S0RWMG9PdHhnaWE0VE1aWWY5UEhJa2pEbGlqczYwU09KV09Wdjl4WHIzcXktM21EWGFWMXVENlVqQ2JIVEZSaWdsclJHUFAtbW5SU1NibThmSEFMUmR3U244N0RpUS1INWRzNG1GWU8xYklHRUItcHNRRkQ0b1lzTWNJZFNDY21SQkhqWlZhWTFaa0ZWYzNDaUVaWWNuMUJRSzBUZHlWbnAwVmZJdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Aug 24, 05:46 AM ET",
     "publishedAt": "2026-08-24T09:46:40+00:00",
     "source": "citybiz",
@@ -21,18 +33,6 @@
     "summary": "The Economic Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNl9hTGVhX1JtbXRwbnkyczVVaHdWZWpfTjBBU1ZGM1RpeGtlc3o2M3EwM280U2lkVk1xZjdSM3NuWk1NVXdqYng0VkdrRzRVU3JCbTNndi1ydjlxbW5lM1liekE0alNjckNuSHNCaFlRM2ZENUo3dG4xTXY3dl9iSjVJdnR3aTZsTUZjTDZZaE5tRHNndmRsamJpWEpqMHpFR3FyeWYzNERxVkdnbXhHY3VjZC04M0pHOWduQzBCdzN3MXhIQXUzWHRvUWZZQ0NPZEhXLVExVVRzeURaOXk2NkEzcHB1TmctYmRVdHJVN3R2Z9IB9wFBVV95cUxOaHdhQzFCX3ZZUFVDRlBGRF9oX2FUcjN2SWg1dUkxWEg5WVZWSTN6QklWSy0zR1lCLWJURWVqSHd1SklwZGxWRjYxS1NVa0pROU1CNFFpZXpJVXdhUk1rMWpfY1hnMlRtcm1qa3phWnlweFJTNWRySTF4S0lZazlEYkpoa1NOVFUtU2FjSkh0MTRmYW5hQUZRcTRTR1QtZVR2NW1nVlZ4WU5VZENRdW1iSy1VU0Zmdkl5a3lId2M0NjB6aHRFVkY3TWxET3U1cGpCN3ozQ3lzRjNZWEJZaC1VWVJUVS02ZTZlNUZlRlJxWVhKM3JacXcw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 24, 03:31 AM ET",
-    "publishedAt": "2026-08-24T07:31:03+00:00",
-    "source": "Arabian Business",
-    "title": "Claude down: Thousands of users face issues with Anthropic’s AI platform",
-    "summary": "Arabian Business is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UNDlwdlRic2pCNWtwa2IxTVZLaEh6V2F2b2l5QVpIa3o0V1dKTWY3RVlvSGJiZGJYLW1yZUw3Y0p0LUlDb1RRa0QtMUo5OERqN1lCWnhTUnMxYTg2bUxFMVZrLVMzZHlxSWVocXhoR2w0d09yWW9POWZlLWtHdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,6 +69,18 @@
     "summary": "Notebookcheck is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXFobGtjOS1HOEZ0akk5czFEbmtQTmlCZHJMN0JOOUhlRUNqdnBpanZ5a1RQUG9DdEtXTEV1YllGTGt3N3ZkMFZBMS1pYXlQX3lwamNXWjFsUndLaUdVTW5zeXA2TkJIejBrWlBLalc5REs4d013dDdaRmN3QlNwVkUyRXV2ZHltalBfZnd0U2tCc2FteE5Xa1lTdk9WdTNtRFAwTg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 23, 10:33 PM ET",
+    "publishedAt": "2026-08-24T02:33:42+00:00",
+    "source": "36 Kr",
+    "title": "Anthropic Issues Humiliating Public Apology: Solid Evidence Confirms Claude’s Reasoning Capabilities Were Secretly Degraded",
+    "summary": "36 Kr is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85cU9HVUk1OFUyOVlzZmpZalZwYl9LLVhmcUNQT0xqMTNGd1hSNHZrdURhb0ZXcGtFVnItUm9pckRaXzFWc0VxU09NdnBfRGpEWHk0?oc=5",
     "difficulty": "News"
   },
   {
@@ -117,18 +129,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qeUZ4TTAtX2pWRjJ3WktaOW1IX2FYYWVKY2xIZ3FxNnFvaHd6amFqVjdabVdMZW9BOXNabGJ1SG85cHNBdENKYXFoNTJ0ay11Q0w3Ylp1bVZWNWItTTZITzBIdWdHQlpm?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 21, 09:35 PM ET",
-    "publishedAt": "2026-08-22T01:35:01+00:00",
-    "source": "Startup Fortune",
-    "title": "OpenAI Cuts GPT-5.6 Sol API Prices After Holding the Line for Months",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTF9mM0RrcnFVdDhvQ2VTNXpzR2VWNW9kU1pmTXQ2N0hlS0czSl9MZGMwMHRORUhabkhRcGVyVm8ydzRDWVg5dzFranE2WERtUFYtek9WTEQ4eEFXaTlVS3BQdkxhNUtGa3hMbU5zOHBKTEJ0akNoVnlxOGJoZG5UN3BVU0xKajY1Z0FSMzJ3c3kzc2ZvM1FZVnppdw?oc=5",
     "difficulty": "News"
   },
   {
