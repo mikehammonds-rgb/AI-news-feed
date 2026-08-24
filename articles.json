@@ -1,5 +1,29 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 24, 05:46 AM ET",
+    "publishedAt": "2026-08-24T09:46:40+00:00",
+    "source": "citybiz",
+    "title": "OpenAI Cuts GPT-5.6 Sol API Pricing 20% for Three Months",
+    "summary": "citybiz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHdKa0JFemxWZE53SEFScE9aQlE4dHgtR2lqY0IwNWxSWW5Ebkk1OUhUN2tZdlphTlo0bklDbHR2dmtVX2VwUWZrNF9aY3hBTW1xS0hfNm1sbHUzN1pOSXlMRDB3aUZlLVkxWmJmbDdkTEx5U05Wb0pLMHpnQ1lHVHYwN2hfdjVnSHdSZlRNdmFRN0hnM1ZEeVp3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 24, 05:23 AM ET",
+    "publishedAt": "2026-08-24T09:23:52+00:00",
+    "source": "analyticsindiamag.com",
+    "title": "Claude for Govt Only Service With 100% Uptime as Outage Exceeds 3 Hours",
+    "summary": "analyticsindiamag.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTnhvYWFGNVRfNVYtOVBJMlQyN0JibkhuemI3QkM2QmtJbjRhOHBib0NmQUZId1hsc0hWTklsOXFQb0doLVNvNlB2ODdMc2pFMUJjVV9GV2hzZFdSMFFqdjA0VDJCYkhhSlI1MXRYN0NUYnpGNTY0YXlpY28xVU5ncjFSWEU5SkFIQlFnTkNMRDRVS2dhemQ3TC00aTMzemhRYlNGQllqNWhJaE50?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 24, 03:38 AM ET",
@@ -26,13 +50,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 24, 03:13 AM ET",
-    "publishedAt": "2026-08-24T07:13:54+00:00",
-    "source": "hindustantimes.com",
-    "title": "Claude down? Users report partial outage issue, 'Downgraded performance of my Claude Max bill’ | Hindustan Times",
-    "summary": "hindustantimes.com is reporting this update. Open the article for the full story.",
+    "time": "Aug 24, 01:57 AM ET",
+    "publishedAt": "2026-08-24T05:57:22+00:00",
+    "source": "SQ Magazine",
+    "title": "Claude is Down : Anthropic Scrambles to Fix The Global Outage",
+    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYkR0cXRjeXd2OEJnb1FjNlJvRm9GRHBLeTJiaVdvMXNDcjMtMENiNXJFNzVlWDhQU3BBMEVpRVI4azRpWHZIejhCazFjM1lGZm50Si1icG9md1NVUVFzZXlCTlpZYV82VmJUUWUwNXBkeHlLS2hBNmxwbVBVMEtEMnhSbks2cm5qeXVvdnp3TlVKSW84eUxMX3NmZUVMNDNCMlNfeEhvUWpVY3B4WmJLVThhR19aVmRsUWxWM283RGdLSFhsMWFNX05PN1pPYTR2NE1taVdnemxET1NIcW41eEphQjdkSFZfUm9tZlpuUjhzaE3SAfgBQVVfeXFMT1hLXy1EVDhZZHA4aTY3Nm9FVEowZmNzb0h6UDdjLU5HdDZvTmhaNUJiYkpsVEphdVlMZjhVLU1WMjBFSTE3VHZzYjBWV3c2ZE1DNDRBbXczTmVzXzBUWVRWTFpJZ1B5VXYwdmdXd0w4dWItMW5EYlRSZEdyWjcxamdjeUtnZ1lyU2duLTNWMUxpb1BjUDFuUHROblh1NEhEMHZuTEZBaEJwQmZFM0lhN0ozcjRDU3V6MzZ1enVHbkdfT0I4TGZKMVJoaG9WTHBfblNuREZvMFZGYjlXRUxxVzlGX1BYSUZFTXVUU2QxdU5KRlRBRjB0dDQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXbk5yMy1GTW5QY0tFbEJ1bk0tUlp3X3ppd2JocmF1Zmg0RjVoWHJJUm0xQ0x6c3RSVmYwczlrMWVYNDE3cllZRmNjeUpMNTFlQlg0eThLSW5JVDM0emFzdHE5cC1oUHlsSVNCR2lRVlphNEdvMVhj?oc=5",
     "difficulty": "News"
   },
   {
@@ -52,9 +76,9 @@
     "label": "Claude Code",
     "time": "Aug 23, 10:33 PM ET",
     "publishedAt": "2026-08-24T02:33:42+00:00",
-    "source": "36Kr",
+    "source": "36 Kr",
     "title": "Anthropic Issues Humiliating Public Apology: Solid Evidence Confirms Claude’s Reasoning Capabilities Were Secretly Degraded",
-    "summary": "36Kr is reporting this update. Open the article for the full story.",
+    "summary": "36 Kr is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85cU9HVUk1OFUyOVlzZmpZalZwYl9LLVhmcUNQT0xqMTNGd1hSNHZrdURhb0ZXcGtFVnItUm9pckRaXzFWc0VxU09NdnBfRGpEWHk0?oc=5",
     "difficulty": "News"
@@ -249,30 +273,6 @@
     "summary": "GeekWire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 14, 03:00 AM ET",
-    "publishedAt": "2026-08-14T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "How Claude's text watermarking works",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 13, 03:00 AM ET",
-    "publishedAt": "2026-08-13T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
     "difficulty": "News"
   },
   {
