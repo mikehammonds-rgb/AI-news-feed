@@ -2,6 +2,30 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 24, 01:57 AM ET",
+    "publishedAt": "2026-08-24T05:57:22+00:00",
+    "source": "SQ Magazine",
+    "title": "Claude is Down : Anthropic Scrambles to Fix The Global Outage",
+    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXbk5yMy1GTW5QY0tFbEJ1bk0tUlp3X3ppd2JocmF1Zmg0RjVoWHJJUm0xQ0x6c3RSVmYwczlrMWVYNDE3cllZRmNjeUpMNTFlQlg0eThLSW5JVDM0emFzdHE5cC1oUHlsSVNCR2lRVlphNEdvMVhj?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 24, 01:31 AM ET",
+    "publishedAt": "2026-08-24T05:31:00+00:00",
+    "source": "Notebookcheck",
+    "title": "Claude faces another outage as errors hit multiple models",
+    "summary": "Notebookcheck is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXFobGtjOS1HOEZ0akk5czFEbmtQTmlCZHJMN0JOOUhlRUNqdnBpanZ5a1RQUG9DdEtXTEV1YllGTGt3N3ZkMFZBMS1pYXlQX3lwamNXWjFsUndLaUdVTW5zeXA2TkJIejBrWlBLalc5REs4d013dDdaRmN3QlNwVkUyRXV2ZHltalBfZnd0U2tCc2FteE5Xa1lTdk9WdTNtRFAwTg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 23, 11:22 PM ET",
     "publishedAt": "2026-08-24T03:22:37+00:00",
     "source": "Memeburn",
@@ -9,6 +33,18 @@
     "summary": "Memeburn is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdnJyUWo1cjFtLWVDdkhEX2U4QzZ1aFROanQyZ19CTGduSEtXbXNJSXptTGlCYWpNUG9XQWVhd19PZXA0YXFGZzdPT0dSemlPVnpvb2JaLUxENklLUlVibkdOdDU3TExqSm9xaW9zYXB4WnRsRDdYUWszUkJmem9XQnNoQWZ1aWQ0U3Rn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 23, 10:38 PM ET",
+    "publishedAt": "2026-08-24T02:38:23+00:00",
+    "source": "Cryptopolitan",
+    "title": "Anthropic and OpenAI subscriptions offer thousands in API-equivalent usage, squeezing AI margins",
+    "summary": "Cryptopolitan is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdHdNamtBUXhVOWJibFZXRFFmdE5YS2hBb3NZd3ZhSGRRM1k4eG5IX21BSTVNd3ZXTGIzYmUwU3lLaW5UaUJlV3czMUlnVF9QN3V1M1l5bUd0QjJpM1FMY1dJT1A3Y1FCaUtQckh5bEh6cXFzTWp5REZKM3VWS1pOdjdGclR4ampiY05Ka0JSQnoxUFg4S2FFeldQclRqc25LMTRGSWNyeF9iazJIQmNibDMwczBhZGE0MmFlTm5rUDhUTDNK?oc=5",
     "difficulty": "News"
   },
   {
@@ -24,15 +60,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 23, 08:24 PM ET",
-    "publishedAt": "2026-08-24T00:24:38+00:00",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 23, 09:07 PM ET",
+    "publishedAt": "2026-08-24T01:07:35+00:00",
     "source": "tech-insider.org",
-    "title": "Claude Sonnet 5 vs Gemini Flash: 4x Price Gap [2026]",
+    "title": "How to Use Claude Sonnet 5: 12 Steps, 90 Min [2026]",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyYkMwbk9hZTBKdnhTLXYwUVhaNnVULXJUTzAydWw5eTJtQ2lZMkxCdG5MMGd6UWFGQ0NHNng0eUttc2tLOENsNjhPVWR0M1EzQVk4UkxOT05YUmF6M1h0Z0VtT2p1b05Gd0p6Z0lxa05mTWc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLSlFVWEVJQ3FkNjdLWjFVLUNLUjd4SkVlZkZucXpQekdxRlFVNjRwN1gxUGxjTjFyMGdFRVJraWxZcTZMQkx2ZHhYV3piSDhUb1ZNd3IwbEtKOEVFcUVwZkVIa2hLNjdZOXhaNA?oc=5",
     "difficulty": "News"
   },
   {
@@ -57,6 +93,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55YUpoeGtyTTRkanNXSWV6eElWd3JPempXZDMyS3JYRHVYV1I0eWVBWl9qMk12dVR0RG50cjVhejRSYjJBODdEb3NjRmlTN3JqcGNycEZ0aWE4cEd4OGgxSHoyTWd1TDBSbzl6TjVn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 22, 11:23 AM ET",
+    "publishedAt": "2026-08-22T15:23:46+00:00",
+    "source": "Android Central",
+    "title": "If you bought a Pixel 11 Pro, you should activate this free perk immediately",
+    "summary": "Android Central is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVGw2Q0pfV2hEa1dNNFNoY3JpMlBrdGwtZTdtbWY4Qzl4ME9ILUczSzBHUi0yUzBldVRoVG80dFRyTktCTGJhNy1PMkpxUFNQYldoVnhUS3hRd1BOdElnb2JTeC1Zdml0c2JaTE90TTNYRVRuT2t5SDViWlRDX0RDSEFUOEtQZDctOWhr?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,18 +153,6 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2VjFRam5EYXZPYjFsVW1QbER5MDJMWHVqbjF0ZUphSnBnNFJUaTl6eGZULU5VdWVPdTczbnpyT0hUUTBGZXhoS2EtNkpmaWtHUUlJbHVab3l3QUFBZjMxU3c5MmlZdHVSNVdDLUx0aVJtVlNIV2pwMExkRUU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 20, 07:47 PM ET",
-    "publishedAt": "2026-08-20T23:47:16+00:00",
-    "source": "The Register",
-    "title": "Google tethers Antigravity to enterprise controls amid AI shakeup",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzVJdVlRbkRsMno5RF9iaHhYeTdJbEZxQnJXQnpFVXhER25XOXVlV2JFNkxIZEc3cFdqc1lmVmU0SVpEZExXMFkzY1hlZVh6aEktM2dqS19VLS1lUmtaU3p2QmQ5eFZveDVRQU9WMHFNZm9WdGpZeEtBdTJoTGZGNDhYRTAybVl1THVWaF9xY2NuZ0RQbkxpRWQteDFNY2xZR3VhQjNvYXp3bDY3YmFxemMzd3EzOEdrVVNDSnphVQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -206,18 +242,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 19, 08:15 AM ET",
-    "publishedAt": "2026-08-19T12:15:00+00:00",
-    "source": "CNET",
-    "title": "What to Know About Anthropic’s New Claude Watermarking on AI-Generated Text and Files",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHdhQlhtMHE3bFBnSU5rUlduM21rb2pha2ZPRHA1QUhiWGhKTDJWcE1KQjJ1eEFxR29JNFlCbWZlSWpjTkRkSFZrN0NYTHN6Z2UtZTM5UEM5Y0FnTTNvRC1lcjZkQmdrMU9OUWRCM2hSQ1lHQlN2T21CNng0WDltQXFCbUtRZEppUkhzVkZ4VEhPYlVqeG8xa2ktLVYwZlFuVUszSEo5Q29YLUVsZ3l2cWQxSWpUNVVqSXJN?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 18, 01:46 PM ET",
     "publishedAt": "2026-08-18T17:46:03+00:00",
     "source": "The New Stack",
@@ -225,18 +249,6 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tWU9hUmxUQ1ltVDA4ckstcVByaGVFTVFmSGpnaDhNVFprYmJsNVNCTVdVZ0JMcFBOTUU1Y1NaNEQzSi0xeXR5aVU3cGdfVW43Ml9YcUNvTWJVTjFBbUxQaA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 18, 01:34 PM ET",
-    "publishedAt": "2026-08-18T17:34:16+00:00",
-    "source": "SQ Magazine",
-    "title": "Claude Down: Anthropic Investigates Multi-Model Errors",
-    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckR4S0wwNU9CMDR6Tnp5N1BUSllncWdMTmJ5VGw5OXR6RGUzalphZG9uYkpFd0NrTkhETWlyVEszRE5mYzhERzJDR0dqZWxSMmZId0lSaUNRUnRJYjQ4Q1ZDT0lUODVEYy1fNUlKa285SXl2OW5kQmNPMFV2NlQwY3QyLWlPZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,18 +273,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 13, 03:00 AM ET",
-    "publishedAt": "2026-08-13T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
     "difficulty": "News"
   },
   {
