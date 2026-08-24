@@ -158,18 +158,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 21, 09:35 PM ET",
-    "publishedAt": "2026-08-22T01:35:01+00:00",
-    "source": "Startup Fortune",
-    "title": "OpenAI Cuts GPT-5.6 Sol API Prices After Holding the Line for Months",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTF9mM0RrcnFVdDhvQ2VTNXpzR2VWNW9kU1pmTXQ2N0hlS0czSl9MZGMwMHRORUhabkhRcGVyVm8ydzRDWVg5dzFranE2WERtUFYtek9WTEQ4eEFXaTlVS3BQdkxhNUtGa3hMbU5zOHBKTEJ0akNoVnlxOGJoZG5UN3BVU0xKajY1Z0FSMzJ3c3kzc2ZvM1FZVnppdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Aug 21, 05:30 PM ET",
     "publishedAt": "2026-08-21T21:30:13+00:00",
     "source": "Reuters",
@@ -225,6 +213,18 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFAzbUgyY293ZV9uTEdfaXJhcGwydW4xMXZmQ1J4RkxLVTdxR2J5MnhxbklrUFdmd0xOMzhsc1hJR2hiVktDWGFJVXlkVnBTblV4Sk4zcEpLbEdOSVFzWnExM1h4alo1eXE0RHV0WldxVUFmYzRDTy1RcFN6TXdiam9TaUJ1OGtyNTctdTBSbE1OM0x4MEV6Sk4zVkJtUHdoakc0ZU9Wa243TjN5dE5HRVlkVmx5YUI0RzJjYzZTM1RLQ2M?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 19, 06:10 PM ET",
+    "publishedAt": "2026-08-19T22:10:46+00:00",
+    "source": "TechCrunch",
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeE1RX0FaeTZ4N25BV05ZYnhqS3I3bVd4aHB2WWI2QUhCV3czRmh2UGxWUjhKNDB5OWNoUldnd002WWFidk5QaXhtVG1Kd29UX2JaR2FxcWNIbGVCNndVVnhRYkF4UlpHejZRTWFVWXdvR013dkU3TWFzbjJIbG9sbDFHYTI2S3I3bFZaQkJTYXg5aVhoMHVtUHVYSHB1dExJTTUzN1poa2I?oc=5",
     "difficulty": "News"
   },
   {
