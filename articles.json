@@ -2,6 +2,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Aug 24, 08:18 PM ET",
+    "publishedAt": "2026-08-25T00:18:06+00:00",
+    "source": "TechGig",
+    "title": "OpenAI Slashes GPT-5.6 Sol API Pricing Over 20% for Developers",
+    "summary": "TechGig is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZDUwUHZsWGMwSDFRYXhNZnMwV1Y1MmFHWFJoTExKZlgzVTlwQkN5ZUVIZ2xwM3dsb3J0UGVBMlpzN0hvX3FBOUVJbEZGaVdDeHd5YlA4c0Q4MHUzeFRDck5TNk9rckM1X29wZ2N0ajJ5TlhBZm14RVB5VGNheFo1VnVELWNyNFFCTF8wTF80VTZ5SEdzRkh5S3BqaDJEMnVi0gGmAUFVX3lxTE9kRGlQcmNXWGNoV2NDU0hPXzIycHRuYU45WkxpVEg4bHhZSlNjOXBjbUItSHBiOGhhVzFZbWRhaEwyUTlKemR2eVN1Y3lkaHY0VzFxV05yVzNlSko0UTdsSG94bUk3bDVwa1czTklITm5LS0hwd0JKQTBsWlYwZHNCakQ4RmI3dWNPRWhfem9JVFVYUkZJcFpyWHVOUXlnaUhRbUFabkE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Aug 24, 01:23 PM ET",
     "publishedAt": "2026-08-24T17:23:30+00:00",
     "source": "tech-insider.org",
@@ -45,18 +57,6 @@
     "summary": "Built In is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TY2tOOEZVaHE4Vy1DUHF6MFRiYjgtb0VGcmJYWVlyZ0dVTE0xczZtY25mR0UwT0JaOHliR0NwRXpvQTctbFVDUm1QREVVOE83YWVaU2xzLVhMRmJyQ0thS1lwMlg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 24, 09:32 AM ET",
-    "publishedAt": "2026-08-24T13:32:49+00:00",
-    "source": "Startup Fortune",
-    "title": "Thomson Reuters Built Its Own AI Model to Loosen Its Grip on Claude",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTlVXzU2NTJoNUVJLVB0SE82T1VnVVZob3Fmam0wMl9LcWNHRTlEOWlCVFE3S2VSNXoyYXBmc2J3bjY2SjgtRFYzejl2ekk5NnAxTzNSbl9wdEtlTnNwczFHVF9JYjNYQnZNcER4T0xQWHlLSlgzMHpKaUl5TzFCZ3ZYMEJJRU1XdmRkSExPcE1XM2M5dDlJck81dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -117,6 +117,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLSlFVWEVJQ3FkNjdLWjFVLUNLUjd4SkVlZkZucXpQekdxRlFVNjRwN1gxUGxjTjFyMGdFRVJraWxZcTZMQkx2ZHhYV3piSDhUb1ZNd3IwbEtKOEVFcUVwZkVIa2hLNjdZOXhaNA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 23, 08:03 AM ET",
+    "publishedAt": "2026-08-23T12:03:07+00:00",
+    "source": "Fox News",
+    "title": "AI agent hacks gym system to move up waitlist",
+    "summary": "Fox News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uUW9KN1dEYzRuYzhoRzhtTEdjZzBIU1lmWk5tbWZaNmFSckZpNDhXWU1xSUxQVjc1WXBEaFZNOG11dExHeDlIQ2RDNnFxcThmTjAtQV85NFZydUlWWmVYQXhlRjk3YXpFc0NCd3VHR2JyZ3ZBZERuNmk2ONIBgAFBVV95cUxNTW1ZRzZOT1h4Z25Sak9TOTZiMDRZckgzZWdfVEtCM0xPM08yemx3cXNsbm1SMjdzeTQwQVZoMEdTUHM5ZndWWVl2UUJ6R2RhQWRXb1lzRUpabHpCSmlFeEtoemEybGdwN0Zia2VMZVpjZ2R0ZHNkR2c0RzBBb3BIQg?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,18 +321,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 12, 03:00 AM ET",
-    "publishedAt": "2026-08-12T07:00:00+00:00",
-    "source": "The Hacker News",
-    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
   },
   {
