@@ -120,18 +120,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 23, 08:03 AM ET",
-    "publishedAt": "2026-08-23T12:03:07+00:00",
-    "source": "Fox News",
-    "title": "AI agent hacks gym system to move up waitlist",
-    "summary": "Fox News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uUW9KN1dEYzRuYzhoRzhtTEdjZzBIU1lmWk5tbWZaNmFSckZpNDhXWU1xSUxQVjc1WXBEaFZNOG11dExHeDlIQ2RDNnFxcThmTjAtQV85NFZydUlWWmVYQXhlRjk3YXpFc0NCd3VHR2JyZ3ZBZERuNmk2ONIBgAFBVV95cUxNTW1ZRzZOT1h4Z25Sak9TOTZiMDRZckgzZWdfVEtCM0xPM08yemx3cXNsbm1SMjdzeTQwQVZoMEdTUHM5ZndWWVl2UUJ6R2RhQWRXb1lzRUpabHpCSmlFeEtoemEybGdwN0Zia2VMZVpjZ2R0ZHNkR2c0RzBBb3BIQg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 22, 09:00 PM ET",
@@ -273,6 +261,18 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tWU9hUmxUQ1ltVDA4ckstcVByaGVFTVFmSGpnaDhNVFprYmJsNVNCTVdVZ0JMcFBOTUU1Y1NaNEQzSi0xeXR5aVU3cGdfVW43Ml9YcUNvTWJVTjFBbUxQaA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 18, 01:34 PM ET",
+    "publishedAt": "2026-08-18T17:34:16+00:00",
+    "source": "SQ Magazine",
+    "title": "Claude Down: Anthropic Investigates Multi-Model Errors",
+    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckR4S0wwNU9CMDR6Tnp5N1BUSllncWdMTmJ5VGw5OXR6RGUzalphZG9uYkpFd0NrTkhETWlyVEszRE5mYzhERzJDR0dqZWxSMmZId0lSaUNRUnRJYjQ4Q1ZDT0lUODVEYy1fNUlKa285SXl2OW5kQmNPMFV2NlQwY3QyLWlPZw?oc=5",
     "difficulty": "News"
   },
   {
