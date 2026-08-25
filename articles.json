@@ -1,9 +1,21 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 25, 12:25 PM ET",
+    "publishedAt": "2026-08-25T16:25:47+00:00",
+    "source": "nokiapoweruser.com",
+    "title": "Is Google Dropping Gemini 4 in September? Here Is What the Data Really Says",
+    "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zWmpvUXd0aFUycU50VUJOczNOWkg3M0YzUDNtWHFjdldPMTN6MzFDal9HLTFUMmx6MUZPYmRSUF8zU1RxX0hrc19oQ083dF9kMk16T1h3S3hDMnM3ZzQwS0FhXzdMQmp3QXlmWjVUVEVOUk1jUXc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 25, 11:02 AM ET",
-    "publishedAt": "2026-08-25T15:02:02+00:00",
+    "time": "Aug 25, 11:01 AM ET",
+    "publishedAt": "2026-08-25T15:01:25+00:00",
     "source": "GitGuardian Blog",
     "title": "Agentic AI Security Comes Down to Access, Not the Trick",
     "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
@@ -72,18 +84,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 24, 05:30 PM ET",
-    "publishedAt": "2026-08-24T21:30:40+00:00",
-    "source": "tech-insider.org",
-    "title": "Mistral AI vs ChatGPT vs Claude: EU Hosting, $0.50 Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tQW5Ha01BekxwYjJUQ1FvTWNKQnFKYTYyaDZ5SURpU1JLQnF1V0NLNEE5cVViYzUxbmladVpVSno4RXpnVlhPeHpqZ1RJTUdocENSMEtUZlRJbTh1eDNwNHVWeDBod1lWd0oxVURta1NvbjA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 24, 11:43 AM ET",
@@ -117,6 +117,18 @@
     "summary": "citybiz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHdKa0JFemxWZE53SEFScE9aQlE4dHgtR2lqY0IwNWxSWW5Ebkk1OUhUN2tZdlphTlo0bklDbHR2dmtVX2VwUWZrNF9aY3hBTW1xS0hfNm1sbHUzN1pOSXlMRDB3aUZlLVkxWmJmbDdkTEx5U05Wb0pLMHpnQ1lHVHYwN2hfdjVnSHdSZlRNdmFRN0hnM1ZEeVp3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 24, 03:13 AM ET",
+    "publishedAt": "2026-08-24T07:13:54+00:00",
+    "source": "Hindustan Times",
+    "title": "Claude down? Users report partial outage issue, 'Downgraded performance of my Claude Max bill",
+    "summary": "Hindustan Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYkR0cXRjeXd2OEJnb1FjNlJvRm9GRHBLeTJiaVdvMXNDcjMtMENiNXJFNzVlWDhQU3BBMEVpRVI4azRpWHZIejhCazFjM1lGZm50Si1icG9md1NVUVFzZXlCTlpZYV82VmJUUWUwNXBkeHlLS2hBNmxwbVBVMEtEMnhSbks2cm5qeXVvdnp3TlVKSW84eUxMX3NmZUVMNDNCMlNfeEhvUWpVY3B4WmJLVThhR19aVmRsUWxWM283RGdLSFhsMWFNX05PN1pPYTR2NE1taVdnemxET1NIcW41eEphQjdkSFZfUm9tZlpuUjhzaE0?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,18 +321,6 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 31, 03:00 AM ET",
-    "publishedAt": "2026-07-31T07:00:00+00:00",
-    "source": "9to5Google",
-    "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
     "difficulty": "News"
   },
   {
