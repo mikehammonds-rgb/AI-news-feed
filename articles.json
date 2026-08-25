@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 25, 02:08 PM ET",
+    "publishedAt": "2026-08-25T18:08:07+00:00",
+    "source": "JD Supra",
+    "title": "AI Insights: Invisible Ink",
+    "summary": "JD Supra is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xQWhyc2lWWGZTeV81RGxnZkdYckluc0tISE00TjdhaDNseG9yeDJ1cWFxUmlVRVBuYUdXMTN5NzBmVndvRVdZTUNGY1pLNWdydmc4dml6NjQzd1VIN0twa1Etd05MRDBsdFlGTlpiTmtkNjJmbzg4?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 25, 12:25 PM ET",
@@ -24,27 +36,27 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 25, 09:48 AM ET",
-    "publishedAt": "2026-08-25T13:48:01+00:00",
-    "source": "Unite.AI",
-    "title": "Bain Joins Anthropic’s Claude Partner Network at Global Premier Tier",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaGF5VW5TaG02VDMyX01xMFlqQ0xPUlA4RUJLZ2tNZEdJN1plZ2h4NXdrcThUc1pwbjFpaDZDMGJvNkhCOHNHSzdQS2cxTkM2bWtfQno3MzF6alFveTdsMmVvNGlhX3hLOUdLMmZJODktZGplcGFlbmNiQTlwQVJ5V1E1Tm9xZEEtSEJRdkpKb3lSeUU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 25, 08:06 AM ET",
-    "publishedAt": "2026-08-25T12:06:19+00:00",
+    "time": "Aug 25, 09:45 AM ET",
+    "publishedAt": "2026-08-25T13:45:51+00:00",
     "source": "Google Cloud Press Corner",
     "title": "NetDocuments Collaborates with Google Cloud on Launch of Gemini Enterprise for Legal",
     "summary": "Google Cloud Press Corner is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTEJuZkx6Z1RfdjZ4ZmRpMXVnbFZaaW5TT2I5VHR4TVgxY1hTUGVEMlJ1cUEweUJpaktZbloxbTJBOVpuOXo0Ry1LbjJfeUo0cVQ3TU00NWdESjBMYjhORFd0VlZYVWl0X3Q2OUtES1R0NjhId3UzQnM3eUNzbG51QlB1LWMxTjlZSVFHTExRakpOZ0NNLThEVldrQ0EwdGFjLWtRb1F0eG1fWTJkMFZHQ1B2SjYtVnp0WGtPckN4d3BBajRVOEp0YlJ4RThFSjA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 25, 08:14 AM ET",
+    "publishedAt": "2026-08-25T12:14:14+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Fable 5 vs Opus 5 vs GPT-5.6 Sol: $1,125 Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lT2hvNTRuTm5IVEt4WG5vV3BMQmxLdmZHX2lubDN4SzRvczBYblBJVFMteHM4V3UtM1l2NFZQYWFvbEZmaFVxdFIwSmlvRkpwc29KQzdOUXNPRWFpcDJyLWhDd0VfUkdlQ0Y3Vzk0MzBaUWtuanFLc1FR?oc=5",
     "difficulty": "News"
   },
   {
@@ -117,18 +129,6 @@
     "summary": "citybiz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHdKa0JFemxWZE53SEFScE9aQlE4dHgtR2lqY0IwNWxSWW5Ebkk1OUhUN2tZdlphTlo0bklDbHR2dmtVX2VwUWZrNF9aY3hBTW1xS0hfNm1sbHUzN1pOSXlMRDB3aUZlLVkxWmJmbDdkTEx5U05Wb0pLMHpnQ1lHVHYwN2hfdjVnSHdSZlRNdmFRN0hnM1ZEeVp3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 24, 03:13 AM ET",
-    "publishedAt": "2026-08-24T07:13:54+00:00",
-    "source": "Hindustan Times",
-    "title": "Claude down? Users report partial outage issue, 'Downgraded performance of my Claude Max bill",
-    "summary": "Hindustan Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYkR0cXRjeXd2OEJnb1FjNlJvRm9GRHBLeTJiaVdvMXNDcjMtMENiNXJFNzVlWDhQU3BBMEVpRVI4azRpWHZIejhCazFjM1lGZm50Si1icG9md1NVUVFzZXlCTlpZYV82VmJUUWUwNXBkeHlLS2hBNmxwbVBVMEtEMnhSbks2cm5qeXVvdnp3TlVKSW84eUxMX3NmZUVMNDNCMlNfeEhvUWpVY3B4WmJLVThhR19aVmRsUWxWM283RGdLSFhsMWFNX05PN1pPYTR2NE1taVdnemxET1NIcW41eEphQjdkSFZfUm9tZlpuUjhzaE0?oc=5",
     "difficulty": "News"
   },
   {
