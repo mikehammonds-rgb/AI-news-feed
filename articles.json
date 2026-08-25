@@ -48,6 +48,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 24, 09:32 AM ET",
+    "publishedAt": "2026-08-24T13:32:49+00:00",
+    "source": "Startup Fortune",
+    "title": "Thomson Reuters Built Its Own AI Model to Loosen Its Grip on Claude",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTlVXzU2NTJoNUVJLVB0SE82T1VnVVZob3Fmam0wMl9LcWNHRTlEOWlCVFE3S2VSNXoyYXBmc2J3bjY2SjgtRFYzejl2ekk5NnAxTzNSbl9wdEtlTnNwczFHVF9JYjNYQnZNcER4T0xQWHlLSlgzMHpKaUl5TzFCZ3ZYMEJJRU1XdmRkSExPcE1XM2M5dDlJck81dw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 24, 06:47 AM ET",
@@ -74,18 +86,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 24, 03:38 AM ET",
-    "publishedAt": "2026-08-24T07:38:32+00:00",
-    "source": "The Economic Times",
-    "title": "Claude down today: Users report issues as Downdetector shows big spike. Here's latest update",
-    "summary": "The Economic Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNl9hTGVhX1JtbXRwbnkyczVVaHdWZWpfTjBBU1ZGM1RpeGtlc3o2M3EwM280U2lkVk1xZjdSM3NuWk1NVXdqYng0VkdrRzRVU3JCbTNndi1ydjlxbW5lM1liekE0alNjckNuSHNCaFlRM2ZENUo3dG4xTXY3dl9iSjVJdnR3aTZsTUZjTDZZaE5tRHNndmRsamJpWEpqMHpFR3FyeWYzNERxVkdnbXhHY3VjZC04M0pHOWduQzBCdzN3MXhIQXUzWHRvUWZZQ0NPZEhXLVExVVRzeURaOXk2NkEzcHB1TmctYmRVdHJVN3R2Z9IB9wFBVV95cUxOaHdhQzFCX3ZZUFVDRlBGRF9oX2FUcjN2SWg1dUkxWEg5WVZWSTN6QklWSy0zR1lCLWJURWVqSHd1SklwZGxWRjYxS1NVa0pROU1CNFFpZXpJVXdhUk1rMWpfY1hnMlRtcm1qa3phWnlweFJTNWRySTF4S0lZazlEYkpoa1NOVFUtU2FjSkh0MTRmYW5hQUZRcTRTR1QtZVR2NW1nVlZ4WU5VZENRdW1iSy1VU0Zmdkl5a3lId2M0NjB6aHRFVkY3TWxET3U1cGpCN3ozQ3lzRjNZWEJZaC1VWVJUVS02ZTZlNUZlRlJxWVhKM3JacXcw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 24, 03:13 AM ET",
     "publishedAt": "2026-08-24T07:13:54+00:00",
     "source": "Hindustan Times",
@@ -93,18 +93,6 @@
     "summary": "Hindustan Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYkR0cXRjeXd2OEJnb1FjNlJvRm9GRHBLeTJiaVdvMXNDcjMtMENiNXJFNzVlWDhQU3BBMEVpRVI4azRpWHZIejhCazFjM1lGZm50Si1icG9md1NVUVFzZXlCTlpZYV82VmJUUWUwNXBkeHlLS2hBNmxwbVBVMEtEMnhSbks2cm5qeXVvdnp3TlVKSW84eUxMX3NmZUVMNDNCMlNfeEhvUWpVY3B4WmJLVThhR19aVmRsUWxWM283RGdLSFhsMWFNX05PN1pPYTR2NE1taVdnemxET1NIcW41eEphQjdkSFZfUm9tZlpuUjhzaE0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 24, 01:57 AM ET",
-    "publishedAt": "2026-08-24T05:57:22+00:00",
-    "source": "SQ Magazine",
-    "title": "Claude is Down : Anthropic Scrambles to Fix The Global Outage",
-    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXbk5yMy1GTW5QY0tFbEJ1bk0tUlp3X3ppd2JocmF1Zmg0RjVoWHJJUm0xQ0x6c3RSVmYwczlrMWVYNDE3cllZRmNjeUpMNTFlQlg0eThLSW5JVDM0emFzdHE5cC1oUHlsSVNCR2lRVlphNEdvMVhj?oc=5",
     "difficulty": "News"
   },
   {
@@ -129,6 +117,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLSlFVWEVJQ3FkNjdLWjFVLUNLUjd4SkVlZkZucXpQekdxRlFVNjRwN1gxUGxjTjFyMGdFRVJraWxZcTZMQkx2ZHhYV3piSDhUb1ZNd3IwbEtKOEVFcUVwZkVIa2hLNjdZOXhaNA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 23, 08:03 AM ET",
+    "publishedAt": "2026-08-23T12:03:07+00:00",
+    "source": "Fox News",
+    "title": "AI agent hacks gym system to move up waitlist",
+    "summary": "Fox News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uUW9KN1dEYzRuYzhoRzhtTEdjZzBIU1lmWk5tbWZaNmFSckZpNDhXWU1xSUxQVjc1WXBEaFZNOG11dExHeDlIQ2RDNnFxcThmTjAtQV85NFZydUlWWmVYQXhlRjk3YXpFc0NCd3VHR2JyZ3ZBZERuNmk2ONIBgAFBVV95cUxNTW1ZRzZOT1h4Z25Sak9TOTZiMDRZckgzZWdfVEtCM0xPM08yemx3cXNsbm1SMjdzeTQwQVZoMEdTUHM5ZndWWVl2UUJ6R2RhQWRXb1lzRUpabHpCSmlFeEtoemEybGdwN0Zia2VMZVpjZ2R0ZHNkR2c0RzBBb3BIQg?oc=5",
     "difficulty": "News"
   },
   {
