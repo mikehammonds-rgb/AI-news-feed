@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 25, 12:39 AM ET",
+    "publishedAt": "2026-08-25T04:39:46+00:00",
+    "source": "HackerNoon",
+    "title": "How to Connect Claude AI to Cisco ACI Using MCP: A Step-by-Step Guide",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVU5TWFtbEMzTDM2ejdBTXdZSzY4YUl3Q0YwTDcwZUkyeGtHN0tNMGVNVEtuenVPNmo3VVBkc3AzRGdEQVFJa2xQNTVlV1JEaUY2OVBMWFA1Z3YxbF8xZDdDUjBVeG9Vd2dDb0JsQ0FXOHdnQUhyS2hVZEctUGhYVUJCdlBXUDYzMVAwZkdWRE9DT3dhVlE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 24, 08:18 PM ET",
@@ -60,18 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 24, 06:47 AM ET",
-    "publishedAt": "2026-08-24T10:47:50+00:00",
-    "source": "incrypted",
-    "title": "Gemini 3.7 Flash Review: What’s New and How to Build a Chrome Extension",
-    "summary": "incrypted is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LWWN4QnZ4QUcydmswYzNsamsxU252U2VsZVFfMHRqRXc2dXFaMEc0NXdjS0dTYzM3OFNCUjNUOC1wc2JXRXgwcDJWR0R2YV9admFKcVVoOGxOOFlheHc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 24, 05:46 AM ET",
@@ -117,18 +117,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLSlFVWEVJQ3FkNjdLWjFVLUNLUjd4SkVlZkZucXpQekdxRlFVNjRwN1gxUGxjTjFyMGdFRVJraWxZcTZMQkx2ZHhYV3piSDhUb1ZNd3IwbEtKOEVFcUVwZkVIa2hLNjdZOXhaNA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 23, 08:03 AM ET",
-    "publishedAt": "2026-08-23T12:03:07+00:00",
-    "source": "Fox News",
-    "title": "AI agent hacks gym system to move up waitlist",
-    "summary": "Fox News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uUW9KN1dEYzRuYzhoRzhtTEdjZzBIU1lmWk5tbWZaNmFSckZpNDhXWU1xSUxQVjc1WXBEaFZNOG11dExHeDlIQ2RDNnFxcThmTjAtQV85NFZydUlWWmVYQXhlRjk3YXpFc0NCd3VHR2JyZ3ZBZERuNmk2ONIBgAFBVV95cUxNTW1ZRzZOT1h4Z25Sak9TOTZiMDRZckgzZWdfVEtCM0xPM08yemx3cXNsbm1SMjdzeTQwQVZoMEdTUHM5ZndWWVl2UUJ6R2RhQWRXb1lzRUpabHpCSmlFeEtoemEybGdwN0Zia2VMZVpjZ2R0ZHNkR2c0RzBBb3BIQg?oc=5",
     "difficulty": "News"
   },
   {
@@ -321,6 +309,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 13, 03:00 AM ET",
+    "publishedAt": "2026-08-13T07:00:00+00:00",
+    "source": "Ars Technica",
+    "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjZPd0hkSXZpM1RMMmo3bHBwLUVOUVp1dHkwTDB0bWdhdFhpV1lROUVrOW9GWmhxSWVpQzhOZmJJbUxGSThqS29XNVJjLV82NVBZY1U1N2lDX0NJOERwaWFWRjNQRlpUY1V3SWk0SXF4U3BxQUFkUEZ1aGxSVS1qY2QwYnZCOS1iYUtwNTdLcUE2RnV6MDYyb3Z1SDhNNFlLTDAyNndPLWtLaUwyWnc?oc=5",
     "difficulty": "News"
   },
   {
