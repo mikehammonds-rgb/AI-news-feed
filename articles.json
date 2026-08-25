@@ -36,6 +36,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 25, 12:40 PM ET",
+    "publishedAt": "2026-08-25T16:40:22+00:00",
+    "source": "TechRepublic",
+    "title": "GitHub Copilot Coding Agent Can Now Use Microsoft Teams Conversations",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWk4UjhfUDB5ZUVPS3BfVFZGRHB4RmZkVXlhdk42OVEteFNSY29SaXhOYlZNcF9PNmIxSEtGSURiRm9LeTBBdko4VUU0OGt1S0l0enVqdGRsM1JqNmVVcy1xUkdFeDV1Z3BPcjc0NzA5RmRSSmdkZWltQ3pJbTNwdkhycFh3eWl1aGsxQTB6STVISXlOelhZdQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 25, 12:25 PM ET",
@@ -192,6 +204,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 21, 03:00 AM ET",
+    "publishedAt": "2026-08-21T07:00:00+00:00",
+    "source": "TechRepublic",
+    "title": "Google Adds New Gemini Models to Vertex AI",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2VjFRam5EYXZPYjFsVW1QbER5MDJMWHVqbjF0ZUphSnBnNFJUaTl6eGZULU5VdWVPdTczbnpyT0hUUTBGZXhoS2EtNkpmaWtHUUlJbHVab3l3QUFBZjMxU3c5MmlZdHVSNVdDLUx0aVJtVlNIV2pwMExkRUU?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 21, 03:00 AM ET",
@@ -314,18 +338,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Jul 31, 03:00 AM ET",
-    "publishedAt": "2026-07-31T07:00:00+00:00",
-    "source": "9to5Google",
-    "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
     "source": "Oracle",
@@ -357,18 +369,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Jun 16, 03:00 AM ET",
-    "publishedAt": "2026-06-16T07:00:00+00:00",
-    "source": "CBS News",
-    "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
-    "summary": "CBS News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOR09uUTY4VnVVM3YwSms1WWFya3ZBcUlINjc1dTExTU81SlZkcnVnZG42YXNuU1VSMVFac2MxckhGTGRzN0g3MW9NWU9pQnVfRGFiZ2t5dzBGVG9RQWtPRnlXTzBPUVFhQkxiRmg1WnlDOVNQb0VwXw?oc=5",
     "difficulty": "News"
   },
   {
