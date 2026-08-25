@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 25, 11:02 AM ET",
+    "publishedAt": "2026-08-25T15:02:02+00:00",
+    "source": "GitGuardian Blog",
+    "title": "Agentic AI Security Comes Down to Access, Not the Trick",
+    "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TRWtLTEhlbHRaalJSejVJR0pRVmdCWjIxR3RBUDdWZ0ZGZ2gxWWt1QzlvdnpRVWlEQmFaY3pyQ183MnVnNm42YzNpaG01ZHBoQkNGMjh4bm9YaDdzWmc2c0RqLXA1MklTeWNRYzczMA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 25, 09:48 AM ET",
     "publishedAt": "2026-08-25T13:48:01+00:00",
     "source": "Unite.AI",
@@ -74,6 +86,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Aug 24, 01:23 PM ET",
+    "publishedAt": "2026-08-24T17:23:30+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Use GPT Image 2 in ChatGPT: 12 Steps, 90 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WMk1RN2FyT2dZcGYwVDhOTFBJaHNfbUItTUpfSk9NUFZsRko0UWpmSGxYREFkRnZsUnMyX19ndjkyVXRhUUZHYWwyY3k0cEtpS0VpdlJZUjBwVkpIS0tCZnBqSWFyRzRRVGRyUFh3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Aug 24, 11:43 AM ET",
     "publishedAt": "2026-08-24T15:43:43+00:00",
     "source": "Tech Times",
@@ -93,30 +117,6 @@
     "summary": "Built In is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TY2tOOEZVaHE4Vy1DUHF6MFRiYjgtb0VGcmJYWVlyZ0dVTE0xczZtY25mR0UwT0JaOHliR0NwRXpvQTctbFVDUm1QREVVOE83YWVaU2xzLVhMRmJyQ0thS1lwMlg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 24, 05:46 AM ET",
-    "publishedAt": "2026-08-24T09:46:40+00:00",
-    "source": "citybiz",
-    "title": "OpenAI Cuts GPT-5.6 Sol API Pricing 20% for Three Months",
-    "summary": "citybiz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHdKa0JFemxWZE53SEFScE9aQlE4dHgtR2lqY0IwNWxSWW5Ebkk1OUhUN2tZdlphTlo0bklDbHR2dmtVX2VwUWZrNF9aY3hBTW1xS0hfNm1sbHUzN1pOSXlMRDB3aUZlLVkxWmJmbDdkTEx5U05Wb0pLMHpnQ1lHVHYwN2hfdjVnSHdSZlRNdmFRN0hnM1ZEeVp3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 24, 03:13 AM ET",
-    "publishedAt": "2026-08-24T07:13:54+00:00",
-    "source": "Hindustan Times",
-    "title": "Claude down? Users report partial outage issue, 'Downgraded performance of my Claude Max bill",
-    "summary": "Hindustan Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYkR0cXRjeXd2OEJnb1FjNlJvRm9GRHBLeTJiaVdvMXNDcjMtMENiNXJFNzVlWDhQU3BBMEVpRVI4azRpWHZIejhCazFjM1lGZm50Si1icG9md1NVUVFzZXlCTlpZYV82VmJUUWUwNXBkeHlLS2hBNmxwbVBVMEtEMnhSbks2cm5qeXVvdnp3TlVKSW84eUxMX3NmZUVMNDNCMlNfeEhvUWpVY3B4WmJLVThhR19aVmRsUWxWM283RGdLSFhsMWFNX05PN1pPYTR2NE1taVdnemxET1NIcW41eEphQjdkSFZfUm9tZlpuUjhzaE0?oc=5",
     "difficulty": "News"
   },
   {
@@ -168,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 21, 12:40 PM ET",
-    "publishedAt": "2026-08-21T16:40:02+00:00",
-    "source": "SemiAnalysis",
-    "title": "Are Open Models Catching Up?",
-    "summary": "SemiAnalysis is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Gb1NMVVZOOUFaTEJWVjFBNEpWSUNQSTJGcWExZ2lrZmszOFFXbGlBQkI4czQxeGdnaVZMUlJickxUa2pVSGh5RGg0dWsyYjNWckk1Q0JnaXplNFVBdmlwTlNtVEpZMkZveWhLTERzRVl1MzA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 21, 03:00 AM ET",
@@ -189,30 +177,6 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2VjFRam5EYXZPYjFsVW1QbER5MDJMWHVqbjF0ZUphSnBnNFJUaTl6eGZULU5VdWVPdTczbnpyT0hUUTBGZXhoS2EtNkpmaWtHUUlJbHVab3l3QUFBZjMxU3c5MmlZdHVSNVdDLUx0aVJtVlNIV2pwMExkRUU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 21, 03:00 AM ET",
-    "publishedAt": "2026-08-21T07:00:00+00:00",
-    "source": "AIMultiple",
-    "title": "AI Coding Benchmark: Claude Code vs Cursor",
-    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wZEJteXo3RGRoYVZDQm5xNWxnMi1jbXo0cW1zWWcwS3dRR3ROMWpGd0hOV0FYQTQyWUlEXzViMjE5NW1VdWNUOE1NWW9LeXBlc3FEeQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 20, 07:10 PM ET",
-    "publishedAt": "2026-08-20T23:10:35+00:00",
-    "source": "Hostinger",
-    "title": "12 best Cursor alternatives for web development with AI",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oSUg0aWd1MmdMUllWTi00WE5vVm5kZkRkbVJWWTFZc2NWc2w4Z1J0STZWX0k1bnIwbk1uLXJqLU1nS0dJZ3FKRG9FUU5ZeVVhckFVam1sbHFoVlF1VkJWSTU2cld3UDhfa3Yw?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,6 +240,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 17, 04:57 AM ET",
+    "publishedAt": "2026-08-17T08:57:13+00:00",
+    "source": "Yahoo Finance",
+    "title": "SpaceX closes $60bn acquisition of AI coding agent Cursor",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcm1hTjA3Z0hNanMxOEFfTzdwZGpkRXE4cUpxT3N5eXBpUk83azBhQk1QVHBRdUt1ck9CRWlhekxQQ09zUjcwOUxXS29FRjduQUNRbHBLcjU5d2hUc3VCZ2lPSDhQMXFXQjNoWmJ4emNlMkFvNkY5QThiUWZSU0pLV05BSWVHbGItblRCX3RFTTdSY1ZCNkt1N3lPUzJnZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 14, 03:00 AM ET",
@@ -285,6 +261,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 13, 03:00 AM ET",
+    "publishedAt": "2026-08-13T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 12, 03:00 AM ET",
-    "publishedAt": "2026-08-12T07:00:00+00:00",
-    "source": "The Hacker News",
-    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Jul 31, 03:00 AM ET",
@@ -321,6 +297,18 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 03:00 AM ET",
+    "publishedAt": "2026-07-30T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -350,13 +338,25 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 30, 03:00 AM ET",
-    "publishedAt": "2026-06-30T07:00:00+00:00",
-    "source": "The GitHub Blog",
-    "title": "Copilot Agent is now available in JetBrains AI Assistant",
-    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "time": "Jul 22, 03:00 AM ET",
+    "publishedAt": "2026-07-22T07:00:00+00:00",
+    "source": "tech-insider.org",
+    "title": "Best AI Coding Assistants 2026: 7 Tools Ranked + Priced",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcHVDWlhTUnQxUFZyXzdETmJwNldybmcxT0ZURjhUS2UzS1kxclZYZ3JlTXRiZy1OTnFWbUJONnUwdDhXZzVQa1hicWxXdTYtZXZFSXhpQ3RYNDlKRGdtaW1zMHBOaGM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 14, 02:58 PM ET",
+    "publishedAt": "2026-07-14T18:58:56+00:00",
+    "source": "Reply",
+    "title": "AI for Developers: GitHub Copilot & Azure AI Workflow",
+    "summary": "Reply is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN0N3TUVtM1pkcWlTTDJVeGdzNVBOVUcxWC1aU19wQ0ZhUjE4czlMdTc5RHZGZGp2YkhRSjZtTTVKTGtmOHlOMXRoNFFqN2lzeVZ0MC1fT2pvbWNRakRZY2ppUWF6UnhKUFF0ZTVqa2gyOU5uMUVJZmI4WnVEZFR3UUJ4MVhVQ0F6ZlhqUFdoN0FKUExxaUloYkJZLXUzS1RkU2lTRmhRRnIzMlBpbGdhRy1pNjJ0OXNmOVExMVFyYVYxcmFPZHJRNExnN1NLaFZ2UUp4MUt1Tm4yZk9WSnc?oc=5",
     "difficulty": "News"
   },
   {
