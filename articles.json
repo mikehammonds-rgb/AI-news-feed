@@ -1,5 +1,53 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 26, 04:00 PM ET",
+    "publishedAt": "2026-08-26T20:00:00+00:00",
+    "source": "VentureBeat",
+    "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHNVM0h3ZEh3dWZScXFOc1BnSURpY1UtdlEzdG5CTTAzQ2phejc5TGZXS3NydFNmTDIyRTZiaEtwWGpLOG1yaGdleUNXY0loQXRyOHZVM2tLWGtoM1ZHVDFITHdTcFBoYVNLa29FTFJrbXF2M3hadDZJYzFWWUE0ZUFzQkNuNUVzczNpYkJsd25uUXh5NlM3a21nRFdpSDhzYVF0by1jdDlUQlhzcmhfbktDTkd3bjBNdFN4WFNLUXo3Rmdo?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 26, 03:27 PM ET",
+    "publishedAt": "2026-08-26T19:27:00+00:00",
+    "source": "Investing.com",
+    "title": "Google unveils flexible billing for Gemini Enterprise AI agents",
+    "summary": "Investing.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWUdfaWNZd25sMFZmclM4SWF3OUF0aU5KUk9ZUzRMSi1GTEt0WnZFYml2a2t1THd3ZlRlT21WNTFxcm1jODFJV2NrQ3RsaXJISjVRQnJhQk5QQ2pNQWs5M2hNNjd2M3JwQ0lSYjUwVzhoSjl2S0dNQXRvRmJkbndleFFfSkRBM3gtV3NIcVQ2eUdKeWc4dWlGSFJaOXFrcjRMMXdXRV9VZGVRQk9TdXZPUWxweHFydU9Pa1p6aFE0LU9kN2c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 26, 03:19 PM ET",
+    "publishedAt": "2026-08-26T19:19:22+00:00",
+    "source": "Ars Technica",
+    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGx5ZU85MkhfYTUweHk3X2NteExrRTRxRUlGOTZ5QVVIalBjcDlVSGhKRkJzV1BuMG5RSm9ZXzhqYlNBMU1HYW9TS0JpZ1F6dGV2a3EyRC1qTk50Z0dxWDJ0MzBZQ1g4OXEzbThidVcxUFRHeWhvLXBUcC1yUUx6ZG9GOFZpVGdxN2h5YmtBTDVFd1ZyY1NSdUV2TDc5cmpZdnctREN1Yw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 26, 03:04 PM ET",
+    "publishedAt": "2026-08-26T19:04:02+00:00",
+    "source": "Neowin",
+    "title": "Google's latest speech-to-text Gemini model offers a platter of new features",
+    "summary": "Neowin is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGg1TENfakZXMm9QOC1JMThRN2tSZVJhRG5SRFdxcTVuSVdRalBKNFVJczV5SVYybGFXU1FPVTRwX2VEaTNsa3dKWE04a1JuX3J2ak95TjczMTY1cUtJTVZnYnJfLV9BeUx5RFlxelNnNVdkam1WamlZei1TLTZyT2VuVGZVRFQtZjhQcTFLWWlNTjJwdm9mQ0tnWGM0Z0pfM0RmSXJ30gGmAUFVX3lxTE9waDVMQ19qRlcyb1A4LUkxOFE3a1JlUmFEblJEV3FxNW5JV1FqUEo0VUlzNXlJVjJsYVdTUU9VNHBfZURpM2xrd0pYTThrUm5fcnZqT3lONzMxNjVxS0lNVmdicl8tX0F5THlEWXF6U2c1V2RqbVZqaVl6LVMtNnJPZW5UZlVEVC1mOFBxMUtZaU1OMnB2b2ZDS2dYYzRnSl8zRGZJcnc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 26, 01:05 PM ET",
@@ -48,34 +96,10 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 26, 12:00 PM ET",
-    "publishedAt": "2026-08-26T16:00:00+00:00",
-    "source": "Android Authority",
-    "title": "Google rolls out Gemini Audio to improve real-time dialogue and speech recognition",
-    "summary": "Android Authority is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03UjBwRC1DWFZGbzNMa1ZrdGxOd2g4M2JXR0RsZjR3WG4zUXRLb0lWRXBCSHpjeXFacWx4eTYtYjkya1ByZDN3YTR0emZCU2otZGFTbnJUQm9ocDduYldpZlRqTlBFd3NrYXdnLWNYSk5odkdtNHIzSDVJdl8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 26, 11:25 AM ET",
-    "publishedAt": "2026-08-26T15:25:19+00:00",
-    "source": "CIO Dive",
-    "title": "Google rolls out flexible billing, cost controls for AI agents",
-    "summary": "CIO Dive is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSjFTZy11ZTR0VlMwOExiRkhIbFZ2NDlSWjJuN3d2czh4eVBqamZOeGVvOWRhTU9vZkhaQ2VBWnBWUHBTVWttNnlPWUw2VlpuTFRLckVuS2VnYlNiSUxNcW5WVEZ2cXpVX09FZGRqcl9FYWpwY0QxbEdRRmFsLTlUZ2NqM1RRb2dWZXRlTk5EVGI?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Aug 26, 08:23 AM ET",
-    "publishedAt": "2026-08-26T12:23:55+00:00",
+    "time": "Aug 26, 11:22 AM ET",
+    "publishedAt": "2026-08-26T15:22:25+00:00",
     "source": "KDnuggets",
     "title": "10 Rules for Getting Better Results from AI Coding Agents",
     "summary": "KDnuggets is reporting this update. Open the article for the full story.",
@@ -108,18 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 26, 04:14 AM ET",
-    "publishedAt": "2026-08-26T08:14:46+00:00",
-    "source": "ababnews.com",
-    "title": "Anthropic Launches Free Claude Academy Courses, Accessible Without Subscription",
-    "summary": "ababnews.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZFZiTDVUWGcxMjh6Um8zeU9oOXpiNnd0QVJKM1pVWUtTUnl3T0hfYk1hWkpWMTAybGUzRmpqeVZheDNUZzA4aXFqU2ZueDdUY01WOGJJTVdtMFpQWkNFVWVqM0RJb0NjNWwwX0ljSFphS3J4?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 26, 04:05 AM ET",
@@ -144,39 +156,27 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 25, 08:30 PM ET",
-    "publishedAt": "2026-08-26T00:30:44+00:00",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 26, 01:11 AM ET",
+    "publishedAt": "2026-08-26T05:11:04+00:00",
     "source": "tech-insider.org",
-    "title": "Claude Opus 5 vs Grok 4.6 vs Gemini 3.1 Pro: $19 Gap [2026]",
+    "title": "Claude vs Perplexity: 5x Context Window Gap [2026]",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWkVkQU8xS2pPWVFZS2RMemJCQ0JFVnZyZFBia28xMlNlWWNPVFB2eHhxdVhBTWJJRFFmaDlOUU9IcGJUWDlBU0phQUhUUEFGRG51NkttME9tMTl0X1dsV2piR2lsQTZOeURZQV8yRExlTE93cFF2U1hYbUFTZGNRUTIxcw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 25, 03:00 PM ET",
-    "publishedAt": "2026-08-25T19:00:10+00:00",
-    "source": "Android Police",
-    "title": "I built an Android journal app in Google AI Studio; its AI spots patterns I'd never see",
-    "summary": "Android Police is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnV1Qi1wNUE2ZmVzcS1aT3plRlc1UUJEMHlVNUdCczhEV1NBOHVvWVNfay1xbjM3amlUeWNrckUxTHVBYlc5LS1mUHJtRHdISkduU0IwR2VHUmxUUHJtZDc2ZVhRY0V2U3FBbGNFSTI5M3BQWVluS2dlNDNCaEhiRlFlWnpoLUhtbXBLdy10MnBiUGF1aDBpSHFwRC1zSFA1WDU0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByQmlMSmZ3UnRTcktRR3hVWHdhSzAwT3lONEtzOW9fdEJkYkwyWmQyWFM5WnJTNnlidjNyQ0F0Z3JycU1TcG5YNXFLSkFKNUhjbWhWTUNJUndLTmd2Y0VEWQ?oc=5",
     "difficulty": "News"
   },
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Aug 25, 11:10 AM ET",
-    "publishedAt": "2026-08-25T15:10:56+00:00",
+    "time": "Aug 25, 11:03 AM ET",
+    "publishedAt": "2026-08-25T15:03:02+00:00",
     "source": "Hostinger",
-    "title": "12 best v0 alternatives to build web apps",
+    "title": "22 best AI coding tools for developers and beginners",
     "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KcUIyLVV1UTBFd3FPR2ktOUVSaHNRbXdMMFE5SmxWd19waWJpZllJRUY3UWZXSlhYRU1wV0pRMmNVOEc0Y1VhbExMNktpcEU1OWFNTXlFNHBzY0hzNWl0NVotb29fZw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jdU5XWjRGYk14R3pZZl9IalZndlhTR2Jibi01TjFqNlhfaFlMQldVS3RUYS1qMFp5dDZvT21scnlINTBWR092QUEwVWI5eU9nWVY2c1h1U3kyOW5hdzZPbzhVYm5uSmhuRG44ZA?oc=5",
     "difficulty": "News"
   },
   {
@@ -225,18 +225,6 @@
     "summary": "citybiz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHdKa0JFemxWZE53SEFScE9aQlE4dHgtR2lqY0IwNWxSWW5Ebkk1OUhUN2tZdlphTlo0bklDbHR2dmtVX2VwUWZrNF9aY3hBTW1xS0hfNm1sbHUzN1pOSXlMRDB3aUZlLVkxWmJmbDdkTEx5U05Wb0pLMHpnQ1lHVHYwN2hfdjVnSHdSZlRNdmFRN0hnM1ZEeVp3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 24, 03:00 AM ET",
-    "publishedAt": "2026-08-24T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,6 +333,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 13, 03:00 AM ET",
+    "publishedAt": "2026-08-13T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
     "difficulty": "News"
   },
   {
