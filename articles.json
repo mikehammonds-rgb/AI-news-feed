@@ -216,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 21, 03:00 AM ET",
-    "publishedAt": "2026-08-21T07:00:00+00:00",
-    "source": "TechRepublic",
-    "title": "Google Adds New Gemini Models to Vertex AI",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2VjFRam5EYXZPYjFsVW1QbER5MDJMWHVqbjF0ZUphSnBnNFJUaTl6eGZULU5VdWVPdTczbnpyT0hUUTBGZXhoS2EtNkpmaWtHUUlJbHVab3l3QUFBZjMxU3c5MmlZdHVSNVdDLUx0aVJtVlNIV2pwMExkRUU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 21, 03:00 AM ET",
@@ -345,6 +333,18 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 31, 03:00 AM ET",
+    "publishedAt": "2026-07-31T07:00:00+00:00",
+    "source": "9to5Google",
+    "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
     "difficulty": "News"
   },
   {
