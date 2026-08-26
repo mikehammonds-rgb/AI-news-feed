@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 26, 06:27 AM ET",
+    "publishedAt": "2026-08-26T10:27:00+00:00",
+    "source": "The Hacker News",
+    "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MSm9vZmN2d25QVmFNTFd6Y2R6VHIyMzlsMGV0dlRVeEhTdlF3Y1REYWhZa0pOVDVybEM3NUItTnRyMTZNTWVzTk5CVjljckpMNVhvanFwSkQ4TUk1c2Raem8zazUtS2ZqSno1SGowSlJrZTc4WjB5eUczekJ6aXc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 26, 04:14 AM ET",
     "publishedAt": "2026-08-26T08:14:46+00:00",
     "source": "ababnews.com",
@@ -45,18 +57,6 @@
     "summary": "Android Police is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnV1Qi1wNUE2ZmVzcS1aT3plRlc1UUJEMHlVNUdCczhEV1NBOHVvWVNfay1xbjM3amlUeWNrckUxTHVBYlc5LS1mUHJtRHdISkduU0IwR2VHUmxUUHJtZDc2ZVhRY0V2U3FBbGNFSTI5M3BQWVluS2dlNDNCaEhiRlFlWnpoLUhtbXBLdy10MnBiUGF1aDBpSHFwRC1zSFA1WDU0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 25, 02:08 PM ET",
-    "publishedAt": "2026-08-25T18:08:07+00:00",
-    "source": "JD Supra",
-    "title": "AI Insights: Invisible Ink",
-    "summary": "JD Supra is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xQWhyc2lWWGZTeV81RGxnZkdYckluc0tISE00TjdhaDNseG9yeDJ1cWFxUmlVRVBuYUdXMTN5NzBmVndvRVdZTUNGY1pLNWdydmc4dml6NjQzd1VIN0twa1Etd05MRDBsdFlGTlpiTmtkNjJmbzg4?oc=5",
     "difficulty": "News"
   },
   {
@@ -129,6 +129,18 @@
     "summary": "citybiz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHdKa0JFemxWZE53SEFScE9aQlE4dHgtR2lqY0IwNWxSWW5Ebkk1OUhUN2tZdlphTlo0bklDbHR2dmtVX2VwUWZrNF9aY3hBTW1xS0hfNm1sbHUzN1pOSXlMRDB3aUZlLVkxWmJmbDdkTEx5U05Wb0pLMHpnQ1lHVHYwN2hfdjVnSHdSZlRNdmFRN0hnM1ZEeVp3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 24, 03:00 AM ET",
+    "publishedAt": "2026-08-24T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,18 +321,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 12, 03:00 AM ET",
-    "publishedAt": "2026-08-12T07:00:00+00:00",
-    "source": "The Hacker News",
-    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
   },
   {
