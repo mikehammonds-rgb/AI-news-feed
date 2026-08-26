@@ -36,6 +36,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 25, 02:08 PM ET",
+    "publishedAt": "2026-08-25T18:08:07+00:00",
+    "source": "JD Supra",
+    "title": "AI Insights: Invisible Ink",
+    "summary": "JD Supra is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xQWhyc2lWWGZTeV81RGxnZkdYckluc0tISE00TjdhaDNseG9yeDJ1cWFxUmlVRVBuYUdXMTN5NzBmVndvRVdZTUNGY1pLNWdydmc4dml6NjQzd1VIN0twa1Etd05MRDBsdFlGTlpiTmtkNjJmbzg4?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 25, 12:40 PM ET",
@@ -48,30 +60,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 25, 12:25 PM ET",
-    "publishedAt": "2026-08-25T16:25:47+00:00",
-    "source": "nokiapoweruser.com",
-    "title": "Is Google Dropping Gemini 4 in September? Here Is What the Data Really Says",
-    "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zWmpvUXd0aFUycU50VUJOczNOWkg3M0YzUDNtWHFjdldPMTN6MzFDal9HLTFUMmx6MUZPYmRSUF8zU1RxX0hrc19oQ083dF9kMk16T1h3S3hDMnM3ZzQwS0FhXzdMQmp3QXlmWjVUVEVOUk1jUXc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 25, 11:03 AM ET",
-    "publishedAt": "2026-08-25T15:03:02+00:00",
-    "source": "Hostinger",
-    "title": "22 best AI coding tools for developers and beginners",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jdU5XWjRGYk14R3pZZl9IalZndlhTR2Jibi01TjFqNlhfaFlMQldVS3RUYS1qMFp5dDZvT21scnlINTBWR092QUEwVWI5eU9nWVY2c1h1U3kyOW5hdzZPbzhVYm5uSmhuRG44ZA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 25, 09:48 AM ET",
@@ -81,30 +69,6 @@
     "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaGF5VW5TaG02VDMyX01xMFlqQ0xPUlA4RUJLZ2tNZEdJN1plZ2h4NXdrcThUc1pwbjFpaDZDMGJvNkhCOHNHSzdQS2cxTkM2bWtfQno3MzF6alFveTdsMmVvNGlhX3hLOUdLMmZJODktZGplcGFlbmNiQTlwQVJ5V1E1Tm9xZEEtSEJRdkpKb3lSeUU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 25, 06:09 AM ET",
-    "publishedAt": "2026-08-25T10:09:36+00:00",
-    "source": "tech-insider.org",
-    "title": "Gemini 3.6 Flash API Tutorial: 12 Steps, 100 Min [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5peFcyNjhycE1hNVdPaVA0V3Atc19fUlNZdWFuSlNZNjI0NkRuQVozMVVkUHlnQ3RsTHB2U1Z3d04zZ093MEZueTlvMF9PRXFva1pkemQ0Y2dQcE5JaThvclB1NzV2OTdxUnNobA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 25, 01:49 AM ET",
-    "publishedAt": "2026-08-25T05:49:07+00:00",
-    "source": "HackerNoon",
-    "title": "How to Connect Claude AI to Cisco ACI Using MCP: A Step-by-Step Guide",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVU5TWFtbEMzTDM2ejdBTXdZSzY4YUl3Q0YwTDcwZUkyeGtHN0tNMGVNVEtuenVPNmo3VVBkc3AzRGdEQVFJa2xQNTVlV1JEaUY2OVBMWFA1Z3YxbF8xZDdDUjBVeG9Vd2dDb0JsQ0FXOHdnQUhyS2hVZEctUGhYVUJCdlBXUDYzMVAwZkdWRE9DT3dhVlE?oc=5",
     "difficulty": "News"
   },
   {
@@ -170,6 +134,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Aug 22, 09:00 PM ET",
+    "publishedAt": "2026-08-23T01:00:24+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Use Google AI Studio: 12 Steps, 100 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55YUpoeGtyTTRkanNXSWV6eElWd3JPempXZDMyS3JYRHVYV1I0eWVBWl9qMk12dVR0RG50cjVhejRSYjJBODdEb3NjRmlTN3JqcGNycEZ0aWE4cEd4OGgxSHoyTWd1TDBSbzl6TjVn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Aug 22, 11:23 AM ET",
     "publishedAt": "2026-08-22T15:23:46+00:00",
     "source": "Android Central",
@@ -213,6 +189,18 @@
     "summary": "SemiAnalysis is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Gb1NMVVZOOUFaTEJWVjFBNEpWSUNQSTJGcWExZ2lrZmszOFFXbGlBQkI4czQxeGdnaVZMUlJickxUa2pVSGh5RGg0dWsyYjNWckk1Q0JnaXplNFVBdmlwTlNtVEpZMkZveWhLTERzRVl1MzA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 21, 03:00 AM ET",
+    "publishedAt": "2026-08-21T07:00:00+00:00",
+    "source": "TechRepublic",
+    "title": "Google Adds New Gemini Models to Vertex AI",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2VjFRam5EYXZPYjFsVW1QbER5MDJMWHVqbjF0ZUphSnBnNFJUaTl6eGZULU5VdWVPdTczbnpyT0hUUTBGZXhoS2EtNkpmaWtHUUlJbHVab3l3QUFBZjMxU3c5MmlZdHVSNVdDLUx0aVJtVlNIV2pwMExkRUU?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +369,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Apr 24, 03:00 AM ET",
+    "publishedAt": "2026-04-24T07:00:00+00:00",
+    "source": "wiz.io",
+    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
     "difficulty": "News"
   }
 ]
