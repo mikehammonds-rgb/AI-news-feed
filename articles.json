@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 26, 04:14 AM ET",
+    "publishedAt": "2026-08-26T08:14:46+00:00",
+    "source": "ababnews.com",
+    "title": "Anthropic Launches Free Claude Academy Courses, Accessible Without Subscription",
+    "summary": "ababnews.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZFZiTDVUWGcxMjh6Um8zeU9oOXpiNnd0QVJKM1pVWUtTUnl3T0hfYk1hWkpWMTAybGUzRmpqeVZheDNUZzA4aXFqU2ZueDdUY01WOGJJTVdtMFpQWkNFVWVqM0RJb0NjNWwwX0ljSFphS3J4?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 25, 08:30 PM ET",
@@ -249,18 +261,6 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3V6UVYwYVZlaHE2Y05hR1NRM2lDYzdZYnhEaVhUN0NSeTFpOHZnYlJxbnY3bFJ1bHNFZkRHQ2RCaG1YLU1jWmRyNlhENVJVTXQxa0JsRjNGUndHcmd6WUt3OG1KUVVuelZPdm9KNXVhMHZPTHd5LVJRcDJCelJhektBMm5RaVV3YzdoZ1l4LU1VWk5UeGtCS3M1S2g1eTFCSGxsazlrRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 18, 01:46 PM ET",
-    "publishedAt": "2026-08-18T17:46:03+00:00",
-    "source": "The New Stack",
-    "title": "A Claude Code skill was eating 200,000 tokens before answering a single question",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tWU9hUmxUQ1ltVDA4ckstcVByaGVFTVFmSGpnaDhNVFprYmJsNVNCTVdVZ0JMcFBOTUU1Y1NaNEQzSi0xeXR5aVU3cGdfVW43Ml9YcUNvTWJVTjFBbUxQaA?oc=5",
     "difficulty": "News"
   },
   {
