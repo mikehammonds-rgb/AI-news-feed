@@ -60,6 +60,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 25, 12:25 PM ET",
+    "publishedAt": "2026-08-25T16:25:47+00:00",
+    "source": "nokiapoweruser.com",
+    "title": "Is Google Dropping Gemini 4 in September? Here Is What the Data Really Says",
+    "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zWmpvUXd0aFUycU50VUJOczNOWkg3M0YzUDNtWHFjdldPMTN6MzFDal9HLTFUMmx6MUZPYmRSUF8zU1RxX0hrc19oQ083dF9kMk16T1h3S3hDMnM3ZzQwS0FhXzdMQmp3QXlmWjVUVEVOUk1jUXc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 25, 09:48 AM ET",
@@ -189,18 +201,6 @@
     "summary": "SemiAnalysis is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Gb1NMVVZOOUFaTEJWVjFBNEpWSUNQSTJGcWExZ2lrZmszOFFXbGlBQkI4czQxeGdnaVZMUlJickxUa2pVSGh5RGg0dWsyYjNWckk1Q0JnaXplNFVBdmlwTlNtVEpZMkZveWhLTERzRVl1MzA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 21, 03:00 AM ET",
-    "publishedAt": "2026-08-21T07:00:00+00:00",
-    "source": "TechRepublic",
-    "title": "Google Adds New Gemini Models to Vertex AI",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2VjFRam5EYXZPYjFsVW1QbER5MDJMWHVqbjF0ZUphSnBnNFJUaTl6eGZULU5VdWVPdTczbnpyT0hUUTBGZXhoS2EtNkpmaWtHUUlJbHVab3l3QUFBZjMxU3c5MmlZdHVSNVdDLUx0aVJtVlNIV2pwMExkRUU?oc=5",
     "difficulty": "News"
   },
   {
