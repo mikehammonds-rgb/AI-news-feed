@@ -72,6 +72,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 25, 08:35 PM ET",
+    "publishedAt": "2026-08-26T00:35:15+00:00",
+    "source": "Hostinger",
+    "title": "12 best v0 alternatives to build web apps",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KcUIyLVV1UTBFd3FPR2ktOUVSaHNRbXdMMFE5SmxWd19waWJpZllJRUY3UWZXSlhYRU1wV0pRMmNVOEc0Y1VhbExMNktpcEU1OWFNTXlFNHBzY0hzNWl0NVotb29fZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 25, 08:30 PM ET",
@@ -93,30 +105,6 @@
     "summary": "Android Police is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnV1Qi1wNUE2ZmVzcS1aT3plRlc1UUJEMHlVNUdCczhEV1NBOHVvWVNfay1xbjM3amlUeWNrckUxTHVBYlc5LS1mUHJtRHdISkduU0IwR2VHUmxUUHJtZDc2ZVhRY0V2U3FBbGNFSTI5M3BQWVluS2dlNDNCaEhiRlFlWnpoLUhtbXBLdy10MnBiUGF1aDBpSHFwRC1zSFA1WDU0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 25, 12:40 PM ET",
-    "publishedAt": "2026-08-25T16:40:22+00:00",
-    "source": "TechRepublic",
-    "title": "GitHub Copilot Coding Agent Can Now Use Microsoft Teams Conversations",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWk4UjhfUDB5ZUVPS3BfVFZGRHB4RmZkVXlhdk42OVEteFNSY29SaXhOYlZNcF9PNmIxSEtGSURiRm9LeTBBdko4VUU0OGt1S0l0enVqdGRsM1JqNmVVcy1xUkdFeDV1Z3BPcjc0NzA5RmRSSmdkZWltQ3pJbTNwdkhycFh3eWl1aGsxQTB6STVISXlOelhZdQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 25, 11:03 AM ET",
-    "publishedAt": "2026-08-25T15:03:02+00:00",
-    "source": "Hostinger",
-    "title": "22 best AI coding tools for developers and beginners",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jdU5XWjRGYk14R3pZZl9IalZndlhTR2Jibi01TjFqNlhfaFlMQldVS3RUYS1qMFp5dDZvT21scnlINTBWR092QUEwVWI5eU9nWVY2c1h1U3kyOW5hdzZPbzhVYm5uSmhuRG44ZA?oc=5",
     "difficulty": "News"
   },
   {
@@ -264,6 +252,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 21, 03:00 AM ET",
+    "publishedAt": "2026-08-21T07:00:00+00:00",
+    "source": "AIMultiple",
+    "title": "AI Coding Benchmark: Claude Code vs Cursor",
+    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wZEJteXo3RGRoYVZDQm5xNWxnMi1jbXo0cW1zWWcwS3dRR3ROMWpGd0hOV0FYQTQyWUlEXzViMjE5NW1VdWNUOE1NWW9LeXBlc3FEeQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 20, 05:46 PM ET",
@@ -273,18 +273,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFAzbUgyY293ZV9uTEdfaXJhcGwydW4xMXZmQ1J4RkxLVTdxR2J5MnhxbklrUFdmd0xOMzhsc1hJR2hiVktDWGFJVXlkVnBTblV4Sk4zcEpLbEdOSVFzWnExM1h4alo1eXE0RHV0WldxVUFmYzRDTy1RcFN6TXdiam9TaUJ1OGtyNTctdTBSbE1OM0x4MEV6Sk4zVkJtUHdoakc0ZU9Wa243TjN5dE5HRVlkVmx5YUI0RzJjYzZTM1RLQ2M?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 19, 04:52 PM ET",
-    "publishedAt": "2026-08-19T20:52:57+00:00",
-    "source": "StartupHub.ai",
-    "title": "GitHub Copilot's 'My Work' Pane",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObENEU0h0QUxUT3pLSWJsZ0llRXlCYmUwM3NuMjZmeFJxUU9Oa01KNzVpTEdFdGZpb0NTWGRMdXlkMzhtS3ZZS1BmNm1ndHNrLWoxQlJQYU9Cb0YtRFduRmRvYThQOUFTRFBMYnpOX0toanpwRlFDTlF0S2NicnFxMGsxQnA0MFhuajRKLXUzXy04aFdYQlJV?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +369,18 @@
     "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "The GitHub Blog",
+    "title": "Copilot Agent is now available in JetBrains AI Assistant",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
     "difficulty": "News"
   }
 ]
