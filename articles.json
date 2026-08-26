@@ -60,6 +60,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 25, 11:10 AM ET",
+    "publishedAt": "2026-08-25T15:10:56+00:00",
+    "source": "Hostinger",
+    "title": "12 best v0 alternatives to build web apps",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KcUIyLVV1UTBFd3FPR2ktOUVSaHNRbXdMMFE5SmxWd19waWJpZllJRUY3UWZXSlhYRU1wV0pRMmNVOEc0Y1VhbExMNktpcEU1OWFNTXlFNHBzY0hzNWl0NVotb29fZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 25, 08:14 AM ET",
@@ -204,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 21, 03:00 AM ET",
-    "publishedAt": "2026-08-21T07:00:00+00:00",
-    "source": "TechRepublic",
-    "title": "Google Adds New Gemini Models to Vertex AI",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2VjFRam5EYXZPYjFsVW1QbER5MDJMWHVqbjF0ZUphSnBnNFJUaTl6eGZULU5VdWVPdTczbnpyT0hUUTBGZXhoS2EtNkpmaWtHUUlJbHVab3l3QUFBZjMxU3c5MmlZdHVSNVdDLUx0aVJtVlNIV2pwMExkRUU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 21, 03:00 AM ET",
@@ -225,18 +225,6 @@
     "summary": "AIMultiple is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wZEJteXo3RGRoYVZDQm5xNWxnMi1jbXo0cW1zWWcwS3dRR3ROMWpGd0hOV0FYQTQyWUlEXzViMjE5NW1VdWNUOE1NWW9LeXBlc3FEeQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 20, 07:10 PM ET",
-    "publishedAt": "2026-08-20T23:10:35+00:00",
-    "source": "Hostinger",
-    "title": "12 best Cursor alternatives for web development with AI",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oSUg0aWd1MmdMUllWTi00WE5vVm5kZkRkbVJWWTFZc2NWc2w4Z1J0STZWX0k1bnIwbk1uLXJqLU1nS0dJZ3FKRG9FUU5ZeVVhckFVam1sbHFoVlF1VkJWSTU2cld3UDhfa3Yw?oc=5",
     "difficulty": "News"
   },
   {
@@ -333,6 +321,18 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 31, 03:00 AM ET",
+    "publishedAt": "2026-07-31T07:00:00+00:00",
+    "source": "9to5Google",
+    "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mXy1jdV9NV0RGZWVlU2ZhYkFBSURRNkRCLUpWOUF5X1ZJQjJHRjN5OXptYmRpTDFuU0tjQW44aGp6YXBmSFRVd1pqMjAxcnNWNzVGUE1NRU16b2tVWGJiLTBZNEF2Zw?oc=5",
     "difficulty": "News"
   },
   {
