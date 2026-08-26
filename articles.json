@@ -12,18 +12,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 25, 03:02 PM ET",
-    "publishedAt": "2026-08-25T19:02:19+00:00",
-    "source": "PPC Land",
-    "title": "X Ads MCP gives Grok and Claude Code 23 tools to run ad campaigns",
-    "summary": "PPC Land is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa3doampfc1Q0em5xOXh6dC1FVm1Cb0FJdDR0a09qV3dqb0J1cDlOZlY4RGdGVks5NE5Ia3dHbklCeGZ0UDRxWFlUWjBURDRBTnE3XzdEVXVfeHBWd0FvOXJQSlFDazFtWmRGZERvUnJyNktteHVyTjE3dld4Z0xCUnNOOU5UZkxoc1hR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 25, 03:00 PM ET",
@@ -60,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 25, 12:25 PM ET",
-    "publishedAt": "2026-08-25T16:25:47+00:00",
-    "source": "nokiapoweruser.com",
-    "title": "Is Google Dropping Gemini 4 in September? Here Is What the Data Really Says",
-    "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zWmpvUXd0aFUycU50VUJOczNOWkg3M0YzUDNtWHFjdldPMTN6MzFDal9HLTFUMmx6MUZPYmRSUF8zU1RxX0hrc19oQ083dF9kMk16T1h3S3hDMnM3ZzQwS0FhXzdMQmp3QXlmWjVUVEVOUk1jUXc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 25, 09:48 AM ET",
@@ -81,6 +57,18 @@
     "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaGF5VW5TaG02VDMyX01xMFlqQ0xPUlA4RUJLZ2tNZEdJN1plZ2h4NXdrcThUc1pwbjFpaDZDMGJvNkhCOHNHSzdQS2cxTkM2bWtfQno3MzF6alFveTdsMmVvNGlhX3hLOUdLMmZJODktZGplcGFlbmNiQTlwQVJ5V1E1Tm9xZEEtSEJRdkpKb3lSeUU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 25, 01:49 AM ET",
+    "publishedAt": "2026-08-25T05:49:07+00:00",
+    "source": "HackerNoon",
+    "title": "How to Connect Claude AI to Cisco ACI Using MCP: A Step-by-Step Guide",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVU5TWFtbEMzTDM2ejdBTXdZSzY4YUl3Q0YwTDcwZUkyeGtHN0tNMGVNVEtuenVPNmo3VVBkc3AzRGdEQVFJa2xQNTVlV1JEaUY2OVBMWFA1Z3YxbF8xZDdDUjBVeG9Vd2dDb0JsQ0FXOHdnQUhyS2hVZEctUGhYVUJCdlBXUDYzMVAwZkdWRE9DT3dhVlE?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,6 +204,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 20, 07:10 PM ET",
+    "publishedAt": "2026-08-20T23:10:35+00:00",
+    "source": "Hostinger",
+    "title": "12 best Cursor alternatives for web development with AI",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oSUg0aWd1MmdMUllWTi00WE5vVm5kZkRkbVJWWTFZc2NWc2w4Z1J0STZWX0k1bnIwbk1uLXJqLU1nS0dJZ3FKRG9FUU5ZeVVhckFVam1sbHFoVlF1VkJWSTU2cld3UDhfa3Yw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 20, 05:46 PM ET",
@@ -225,18 +225,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFAzbUgyY293ZV9uTEdfaXJhcGwydW4xMXZmQ1J4RkxLVTdxR2J5MnhxbklrUFdmd0xOMzhsc1hJR2hiVktDWGFJVXlkVnBTblV4Sk4zcEpLbEdOSVFzWnExM1h4alo1eXE0RHV0WldxVUFmYzRDTy1RcFN6TXdiam9TaUJ1OGtyNTctdTBSbE1OM0x4MEV6Sk4zVkJtUHdoakc0ZU9Wa243TjN5dE5HRVlkVmx5YUI0RzJjYzZTM1RLQ2M?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 19, 04:52 PM ET",
-    "publishedAt": "2026-08-19T20:52:57+00:00",
-    "source": "StartupHub.ai",
-    "title": "GitHub Copilot's 'My Work' Pane",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObENEU0h0QUxUT3pLSWJsZ0llRXlCYmUwM3NuMjZmeFJxUU9Oa01KNzVpTEdFdGZpb0NTWGRMdXlkMzhtS3ZZS1BmNm1ndHNrLWoxQlJQYU9Cb0YtRFduRmRvYThQOUFTRFBMYnpOX0toanpwRlFDTlF0S2NicnFxMGsxQnA0MFhuajRKLXUzXy04aFdYQlJV?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,6 +297,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 13, 03:00 AM ET",
+    "publishedAt": "2026-08-13T07:00:00+00:00",
+    "source": "Ars Technica",
+    "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjZPd0hkSXZpM1RMMmo3bHBwLUVOUVp1dHkwTDB0bWdhdFhpV1lROUVrOW9GWmhxSWVpQzhOZmJJbUxGSThqS29XNVJjLV82NVBZY1U1N2lDX0NJOERwaWFWRjNQRlpUY1V3SWk0SXF4U3BxQUFkUEZ1aGxSVS1qY2QwYnZCOS1iYUtwNTdLcUE2RnV6MDYyb3Z1SDhNNFlLTDAyNndPLWtLaUwyWnc?oc=5",
     "difficulty": "News"
   },
   {
