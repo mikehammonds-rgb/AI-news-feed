@@ -12,15 +12,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 26, 04:05 AM ET",
-    "publishedAt": "2026-08-26T08:05:43+00:00",
-    "source": "TechRepublic",
-    "title": "Microsoft Build: Copilot AI Will Gain ‘Personal Assistant’ and Custom Agent Capabilities",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 26, 12:53 AM ET",
+    "publishedAt": "2026-08-26T04:53:07+00:00",
+    "source": "nokiapoweruser.com",
+    "title": "Is Google Dropping Gemini 4 in September? Here Is What the Data Really Says",
+    "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSV3VPZDBMTG44OWN1WkxsanEzb1RYNzlLVmNzYUE1QWt0dDVyTkRPd2FiQURPLVB1aDZBenhkNjdqNFl3WEs2dG5XLWMwREl2Z1VsUFhydnRucnFWbGRlWXJDN1Y0Skl2X2V1MWVPbnhMVVR2VFd5ag?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zWmpvUXd0aFUycU50VUJOczNOWkg3M0YzUDNtWHFjdldPMTN6MzFDal9HLTFUMmx6MUZPYmRSUF8zU1RxX0hrc19oQ083dF9kMk16T1h3S3hDMnM3ZzQwS0FhXzdMQmp3QXlmWjVUVEVOUk1jUXc?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,18 +312,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 13, 03:00 AM ET",
-    "publishedAt": "2026-08-13T07:00:00+00:00",
-    "source": "Ars Technica",
-    "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjZPd0hkSXZpM1RMMmo3bHBwLUVOUVp1dHkwTDB0bWdhdFhpV1lROUVrOW9GWmhxSWVpQzhOZmJJbUxGSThqS29XNVJjLV82NVBZY1U1N2lDX0NJOERwaWFWRjNQRlpUY1V3SWk0SXF4U3BxQUFkUEZ1aGxSVS1qY2QwYnZCOS1iYUtwNTdLcUE2RnV6MDYyb3Z1SDhNNFlLTDAyNndPLWtLaUwyWnc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 12, 03:00 AM ET",
@@ -381,6 +369,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Apr 24, 03:00 AM ET",
+    "publishedAt": "2026-04-24T07:00:00+00:00",
+    "source": "wiz.io",
+    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
     "difficulty": "News"
   }
 ]
