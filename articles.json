@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 26, 11:25 AM ET",
+    "publishedAt": "2026-08-26T15:25:19+00:00",
+    "source": "CIO Dive",
+    "title": "Google rolls out flexible billing, cost controls for AI agents",
+    "summary": "CIO Dive is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSjFTZy11ZTR0VlMwOExiRkhIbFZ2NDlSWjJuN3d2czh4eVBqamZOeGVvOWRhTU9vZkhaQ2VBWnBWUHBTVWttNnlPWUw2VlpuTFRLckVuS2VnYlNiSUxNcW5WVEZ2cXpVX09FZGRqcl9FYWpwY0QxbEdRRmFsLTlUZ2NqM1RRb2dWZXRlTk5EVGI?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 26, 08:23 AM ET",
@@ -21,6 +33,18 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MSm9vZmN2d25QVmFNTFd6Y2R6VHIyMzlsMGV0dlRVeEhTdlF3Y1REYWhZa0pOVDVybEM3NUItTnRyMTZNTWVzTk5CVjljckpMNVhvanFwSkQ4TUk1c2Raem8zazUtS2ZqSno1SGowSlJrZTc4WjB5eUczekJ6aXc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 26, 06:12 AM ET",
+    "publishedAt": "2026-08-26T10:12:18+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Get a Gemini API Key: 12 Steps, 90 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBicXd4ODlDM3UzcmVBUXJ3VTVpRHFDNU5zWFNYMGlFVmJCQVFtYU9Wck85ODN5N3VQYjhfRzY4Rm82aDVNbG1ZTTZreUYzUTY2TW9JOVE3V0w4VGI5Y1FlNmF0OTNKZkE?oc=5",
     "difficulty": "News"
   },
   {
@@ -62,30 +86,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 26, 12:53 AM ET",
-    "publishedAt": "2026-08-26T04:53:07+00:00",
-    "source": "nokiapoweruser.com",
-    "title": "Is Google Dropping Gemini 4 in September? Here Is What the Data Really Says",
-    "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zWmpvUXd0aFUycU50VUJOczNOWkg3M0YzUDNtWHFjdldPMTN6MzFDal9HLTFUMmx6MUZPYmRSUF8zU1RxX0hrc19oQ083dF9kMk16T1h3S3hDMnM3ZzQwS0FhXzdMQmp3QXlmWjVUVEVOUk1jUXc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 25, 08:35 PM ET",
-    "publishedAt": "2026-08-26T00:35:15+00:00",
-    "source": "Hostinger",
-    "title": "12 best v0 alternatives to build web apps",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KcUIyLVV1UTBFd3FPR2ktOUVSaHNRbXdMMFE5SmxWd19waWJpZllJRUY3UWZXSlhYRU1wV0pRMmNVOEc0Y1VhbExMNktpcEU1OWFNTXlFNHBzY0hzNWl0NVotb29fZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Aug 25, 08:30 PM ET",
     "publishedAt": "2026-08-26T00:30:44+00:00",
     "source": "tech-insider.org",
@@ -105,6 +105,18 @@
     "summary": "Android Police is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnV1Qi1wNUE2ZmVzcS1aT3plRlc1UUJEMHlVNUdCczhEV1NBOHVvWVNfay1xbjM3amlUeWNrckUxTHVBYlc5LS1mUHJtRHdISkduU0IwR2VHUmxUUHJtZDc2ZVhRY0V2U3FBbGNFSTI5M3BQWVluS2dlNDNCaEhiRlFlWnpoLUhtbXBLdy10MnBiUGF1aDBpSHFwRC1zSFA1WDU0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 25, 11:10 AM ET",
+    "publishedAt": "2026-08-25T15:10:56+00:00",
+    "source": "Hostinger",
+    "title": "12 best v0 alternatives to build web apps",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KcUIyLVV1UTBFd3FPR2ktOUVSaHNRbXdMMFE5SmxWd19waWJpZllJRUY3UWZXSlhYRU1wV0pRMmNVOEc0Y1VhbExMNktpcEU1OWFNTXlFNHBzY0hzNWl0NVotb29fZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -194,18 +206,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 22, 09:00 PM ET",
-    "publishedAt": "2026-08-23T01:00:24+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Use Google AI Studio: 12 Steps, 100 Min [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55YUpoeGtyTTRkanNXSWV6eElWd3JPempXZDMyS3JYRHVYV1I0eWVBWl9qMk12dVR0RG50cjVhejRSYjJBODdEb3NjRmlTN3JqcGNycEZ0aWE4cEd4OGgxSHoyTWd1TDBSbzl6TjVn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Aug 22, 11:23 AM ET",
     "publishedAt": "2026-08-22T15:23:46+00:00",
     "source": "Android Central",
@@ -252,27 +252,27 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 21, 03:00 AM ET",
-    "publishedAt": "2026-08-21T07:00:00+00:00",
-    "source": "AIMultiple",
-    "title": "AI Coding Benchmark: Claude Code vs Cursor",
-    "summary": "AIMultiple is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 19, 04:52 PM ET",
+    "publishedAt": "2026-08-19T20:52:57+00:00",
+    "source": "StartupHub.ai",
+    "title": "GitHub Copilot's 'My Work' Pane",
+    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wZEJteXo3RGRoYVZDQm5xNWxnMi1jbXo0cW1zWWcwS3dRR3ROMWpGd0hOV0FYQTQyWUlEXzViMjE5NW1VdWNUOE1NWW9LeXBlc3FEeQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObENEU0h0QUxUT3pLSWJsZ0llRXlCYmUwM3NuMjZmeFJxUU9Oa01KNzVpTEdFdGZpb0NTWGRMdXlkMzhtS3ZZS1BmNm1ndHNrLWoxQlJQYU9Cb0YtRFduRmRvYThQOUFTRFBMYnpOX0toanpwRlFDTlF0S2NicnFxMGsxQnA0MFhuajRKLXUzXy04aFdYQlJV?oc=5",
     "difficulty": "News"
   },
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 20, 05:46 PM ET",
-    "publishedAt": "2026-08-20T21:46:03+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "time": "Aug 19, 03:38 PM ET",
+    "publishedAt": "2026-08-19T19:38:46+00:00",
+    "source": "OpenAI",
+    "title": "Offering Zero Data Retention for frontier models",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFAzbUgyY293ZV9uTEdfaXJhcGwydW4xMXZmQ1J4RkxLVTdxR2J5MnhxbklrUFdmd0xOMzhsc1hJR2hiVktDWGFJVXlkVnBTblV4Sk4zcEpLbEdOSVFzWnExM1h4alo1eXE0RHV0WldxVUFmYzRDTy1RcFN6TXdiam9TaUJ1OGtyNTctdTBSbE1OM0x4MEV6Sk4zVkJtUHdoakc0ZU9Wa243TjN5dE5HRVlkVmx5YUI0RzJjYzZTM1RLQ2M?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94QkJmU0lSZG9WQ2xIeVMxWDhRaHVTZHFzRzZvd1E4WmpCRlNOaVlLNHhNMi01UEVuZHRFVlBwMVh1bHV6bG0zdk9kTU9RTEV3NnNvZkNoTjl3OW1rRmFiQTBGRVZ1UnUzTy1naXFNcmpOSEVGUmpYTE5ZV3l0c3M?oc=5",
     "difficulty": "News"
   },
   {
