@@ -12,6 +12,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 26, 04:05 AM ET",
+    "publishedAt": "2026-08-26T08:05:43+00:00",
+    "source": "TechRepublic",
+    "title": "Microsoft Build: Copilot AI Will Gain ‘Personal Assistant’ and Custom Agent Capabilities",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSV3VPZDBMTG44OWN1WkxsanEzb1RYNzlLVmNzYUE1QWt0dDVyTkRPd2FiQURPLVB1aDZBenhkNjdqNFl3WEs2dG5XLWMwREl2Z1VsUFhydnRucnFWbGRlWXJDN1Y0Skl2X2V1MWVPbnhMVVR2VFd5ag?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 25, 08:30 PM ET",
@@ -57,18 +69,6 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWk4UjhfUDB5ZUVPS3BfVFZGRHB4RmZkVXlhdk42OVEteFNSY29SaXhOYlZNcF9PNmIxSEtGSURiRm9LeTBBdko4VUU0OGt1S0l0enVqdGRsM1JqNmVVcy1xUkdFeDV1Z3BPcjc0NzA5RmRSSmdkZWltQ3pJbTNwdkhycFh3eWl1aGsxQTB6STVISXlOelhZdQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 25, 09:48 AM ET",
-    "publishedAt": "2026-08-25T13:48:01+00:00",
-    "source": "Unite.AI",
-    "title": "Bain Joins Anthropic’s Claude Partner Network at Global Premier Tier",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaGF5VW5TaG02VDMyX01xMFlqQ0xPUlA4RUJLZ2tNZEdJN1plZ2h4NXdrcThUc1pwbjFpaDZDMGJvNkhCOHNHSzdQS2cxTkM2bWtfQno3MzF6alFveTdsMmVvNGlhX3hLOUdLMmZJODktZGplcGFlbmNiQTlwQVJ5V1E1Tm9xZEEtSEJRdkpKb3lSeUU?oc=5",
     "difficulty": "News"
   },
   {
@@ -264,6 +264,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 18, 03:00 AM ET",
+    "publishedAt": "2026-08-18T07:00:00+00:00",
+    "source": "The New Stack",
+    "title": "A Claude Code skill was eating 200,000 tokens before answering a single question",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tWU9hUmxUQ1ltVDA4ckstcVByaGVFTVFmSGpnaDhNVFprYmJsNVNCTVdVZ0JMcFBOTUU1Y1NaNEQzSi0xeXR5aVU3cGdfVW43Ml9YcUNvTWJVTjFBbUxQaA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 17, 03:00 AM ET",
@@ -369,18 +381,6 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Apr 24, 03:00 AM ET",
-    "publishedAt": "2026-04-24T07:00:00+00:00",
-    "source": "wiz.io",
-    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
-    "summary": "wiz.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
     "difficulty": "News"
   }
 ]
