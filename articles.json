@@ -1,5 +1,29 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 29, 04:12 PM ET",
+    "publishedAt": "2026-08-29T20:12:04+00:00",
+    "source": "jetstream.blog",
+    "title": "Google Announces Latest Video Generation AI Model “Gemini Omni 1.1 Flash”",
+    "summary": "jetstream.blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uVTBzRS1YWXBDUUVDbGRiRWxlR2VsWE9YNUpSejI1c1RnejM3OS0wSzRhSjFwWGxZT3VOcXFVaTdZZ0hMdjFXdWMxMlY5VE1YRl9sLW1jdXhrYmZl?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 29, 03:04 PM ET",
+    "publishedAt": "2026-08-29T19:04:54+00:00",
+    "source": "ScienceBlog.com",
+    "title": "A $200 ChatGPT Pro subscription could represent as much as $14,000 a month in equivalent API-priced usage if pushed to its limits, according to SemiAnalysis — a striking illustration of how heavily flat-rate AI plans can subsidise their biggest users",
+    "summary": "ScienceBlog.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnNyNEFyZTRfZ2VUNldBTzR5YWN4V2JzcXQ0Q0g5SmZMeVBOcHR3Um80TFpWOTJIS1dBNU5qdXkzM05hYW9NRUZ3T1owM25QdzhjWldLS2dsQkpWNmR3WGhEZDczLV9MT3VOOHdSdzMxdW4wakt5cVUzSlhzdmFsUUtKQXJWZTdockFwRVhid2Nja0plbWNobF82QVlYRDVVRlNwSVgzVU1pSUs4U3RELW1KWmVOME40bVhtVUlBSzRVcTROV0pSWE1pWUtGbWtVelZFaGVfbDlhaW9GNGJ6WlFrdjZweWIwNVh1dWdnbW5ocEVkYTc1bmNlSmxaWE5rSHY2TWdpX1QtUTJjWm5aWm9JT1paQkpMMFV2QVBzaWtsR1J1ZHoyalFobTkyWTdK?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 29, 11:05 AM ET",
@@ -74,6 +98,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Aug 28, 09:46 PM ET",
+    "publishedAt": "2026-08-29T01:46:12+00:00",
+    "source": "OpenAI",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Aug 28, 09:14 PM ET",
     "publishedAt": "2026-08-29T01:14:00+00:00",
     "source": "Startup Fortune",
@@ -81,18 +117,6 @@
     "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzlIQ24wYk5aUzFqaU1kTFVTb2NtOVpOSW9ZcGpBbEZKbEdvVV8zMlRjeHRLVGk5R0trcU1HTVU0OGF3V0M4bVZhNTdGQnV4Ny1kQnhyampGWmgxc3VNeFZKc2JTdkhkR1J5d0lrb1oyUHJHZC0wUy1uV0ZwQm1QM24tT29lYzlGbkRDNnJwUjlSM3dxYzg0d2hVSWo0QQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 28, 06:01 PM ET",
-    "publishedAt": "2026-08-28T22:01:45+00:00",
-    "source": "Letem světem Applem",
-    "title": "ChatGPT I use it practically every time I get in the car and I love it!",
-    "summary": "Letem světem Applem is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xUFdfUUlRYjI5TXk1ejQxNDNoX3BIWm4yWEU4bzZtWnMwV2ViMDk1c09GTGxOVlFtdVh2MGlBV0c2cjNmM1NkWEw5cWtoa3FBN0pRNWotREo2SUFvbGxrSDVBWkdFcEdKdDB4T3RHTEk?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,18 +129,6 @@
     "summary": "Northeast Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWkxQXR0aWl5aWs2RTJSeTIzc0pSandYb1BNTnIwZ0NTLUFRQjl5b1dCb25wRjd0MTFxdnFfMEtQbWZuSFBIV0xhbzVQblRyTlJhZ0F3MV9ZM3Zfdk5fbEZkZ0V5MTRRdWZPUllRV1RBQnNndFNSSmhHaGVQODZtc3hteG5YMC1LRnk1VzhOWnFBODU1S1BDMFhUNHR2YTQtOWtxLWRRa3dvaW1WYnk3bXNR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 28, 12:33 PM ET",
-    "publishedAt": "2026-08-28T16:33:16+00:00",
-    "source": "Venturebeat",
-    "title": "Meta AI's EvoHarness-RL boosts agent efficiency",
-    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVEZQSk9INGw3UGpYSnRFeXFVaFNPMkxwMU9pRWNqSDY4RkFUcHBleVJMeVFyNjh1anQyaVJoY3R3Q2tmYTRwd08tUUFiaEwwNTlWWWFpTUtEa1F2SjBIbDE2MHFLV2pVQkUwamsyMUdqWGVycGRDenVZclpSOUZSaGlYa2lNalBVUmxsMEF5STB6amctdzUzYi1mdEF6UDVNN3Z4ZUZlVWtrSDZIM2wwTEtWVXpsaDlVOEsyb2szZUtvaE1FWmhyOWxIR3k?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 27, 11:46 PM ET",
-    "publishedAt": "2026-08-28T03:46:12+00:00",
-    "source": "tech-insider.org",
-    "title": "Local AI Beats ChatGPT on Reliability, 20x Cheaper [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdmhEMC1DRGR6QjVOVEpCaVZGRmhxX0tWTUIySGMtcjVyc2gzOTRDcE1lek9NS0VLdkUxT0lEYllBeG1EM2RjbFpMZ0lBdDBoTjlJVGJZS2xzRmFVa3h6Z21PZERlYkI2MF96Tm42eENPa0luMVcwOW1XdjRKMEVQU251ck5YT2s?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 27, 11:23 PM ET",
@@ -180,15 +180,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 27, 03:49 PM ET",
-    "publishedAt": "2026-08-27T19:49:14+00:00",
-    "source": "HPCwire",
-    "title": "Salesforce and Anthropic Launch Claudeforce Enterprise AI Partnership",
-    "summary": "HPCwire is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 27, 07:27 PM ET",
+    "publishedAt": "2026-08-27T23:27:05+00:00",
+    "source": "International Business Times",
+    "title": "Russian Hackers Used SpaceX’s AI Coding Assistant To Conduct Attacks: Report",
+    "summary": "International Business Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVW1XWjlCb0x1LU5GaExUYUdXYXhpaU4xUVlvWHR5aGJlcXF6Z09VbnpHOEJhTHBXTkNrZ0xrTXFQYXRLemJKdkJ1Tkt5ZnlVNERhcFVGbm1xLW5JXzg0ZXhhai01Q2pSTzdrZ0JBdlRBajZrbHRJd1QtQjdxUndTbU1KZUlKUHFSZlNLNGlYREFaZ21DNmZ0VTNpenBxNnI5YzczYjhaRmxwNFFoNm9XaEZB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXpJSUNrOXlMVHlEMVhJY2RaR3AyUE4xZmVTa2o5MkczWWszanpRY0U1UkFZbkt5SVZEV05QOXJJdkkwcUptaFhpNUExVkRhYXMxZExkWGJrX1RfTTkwNUtFLUJmZ2ppTHQtb0tzcmh2UEptaEpER09RbkRGSjhzUXIxOTI2TFU3eFhFREdEdmFINmZYVmFxWGhwTXVBUWpFcVRxREpB?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,18 +213,6 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV3BwUzRIMlphU0ZCdGRQLW1wdkNUSHNEeDUyME50Zlp2QVNRcENyUnRJby1Zak5oSFR1dHFudlpaX29xampXekVWSjRMcGd0WjZjNVlGazhKUndNZzhQTWJQbnZsVERtOGRSdUdSZE8xbE01SmtoeVRzNlJBZE1oWXRNd3FOZmItaUJvcUUwTGlMZWRuWW9OXzc4akladDFVVEpkVXphS1NpZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 27, 12:17 PM ET",
-    "publishedAt": "2026-08-27T16:17:38+00:00",
-    "source": "blog.google",
-    "title": "Gemini Omni 1.1 Flash lets you build with more control",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTJ5X0FOc1pwR0FiZnZ2cV84SDdhbHhZanZpNnFaVDZpbEVhMHNoOThybFpaQmJpUUhrSnEyTlhxOGJsd0FlM1pUNXBnOENQTVFtLXEwcHYzeDRjeDZCTXA3UDh0U2k3YXp4WkpMUXpabE1HSHVIeDVKTWZRVWxjTjJ4UkM2Nnh1dzBCamVMSEU1SWMtWGlUZUFVM3BTa3pn?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,6 +249,18 @@
     "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rZXA5SUhSVXFLMlZTVkVabHZlUU5SQlI1eG42TEowOWVGZ0ZmLWpCNkkzUF82eVAxVUdPbkwzZThQRV9Vdkk2MlNvRnh5alI1YTh3TTktWWNwZU8xVjlsWmxIemJlbFAzSUlrUVBibHVJdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 26, 04:00 PM ET",
+    "publishedAt": "2026-08-26T20:00:00+00:00",
+    "source": "VentureBeat",
+    "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHNVM0h3ZEh3dWZScXFOc1BnSURpY1UtdlEzdG5CTTAzQ2phejc5TGZXS3NydFNmTDIyRTZiaEtwWGpLOG1yaGdleUNXY0loQXRyOHZVM2tLWGtoM1ZHVDFITHdTcFBoYVNLa29FTFJrbXF2M3hadDZJYzFWWUE0ZUFzQkNuNUVzczNpYkJsd25uUXh5NlM3a21nRFdpSDhzYVF0by1jdDlUQlhzcmhfbktDTkd3bjBNdFN4WFNLUXo3Rmdo?oc=5",
     "difficulty": "News"
   },
   {
@@ -360,15 +360,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 17, 03:00 AM ET",
-    "publishedAt": "2026-08-17T07:00:00+00:00",
-    "source": "GeekWire",
-    "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform",
-    "summary": "GeekWire is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 18, 03:00 AM ET",
+    "publishedAt": "2026-08-18T07:00:00+00:00",
+    "source": "The New Stack",
+    "title": "A Claude Code skill was eating 200,000 tokens before answering a single question",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tWU9hUmxUQ1ltVDA4ckstcVByaGVFTVFmSGpnaDhNVFprYmJsNVNCTVdVZ0JMcFBOTUU1Y1NaNEQzSi0xeXR5aVU3cGdfVW43Ml9YcUNvTWJVTjFBbUxQaA?oc=5",
     "difficulty": "News"
   },
   {
