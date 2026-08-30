@@ -27,12 +27,12 @@
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 29, 11:05 AM ET",
-    "publishedAt": "2026-08-29T15:05:00+00:00",
-    "source": "24/7 Wall St.",
+    "publishedAt": "2026-08-29T15:05:10+00:00",
+    "source": "AOL.com",
     "title": "Altman-Musk Feud Escalates as OpenAI Cuts Off Cursor Access After SpaceX Merger",
-    "summary": "24/7 Wall St. is reporting this update. Open the article for the full story.",
+    "summary": "AOL.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR1MzZFo4WkxhWEJyc1ItM1A5ZXpkdEFvZXNzSlBuSXlnamw1c0VKVTB0aUJhXzVsd1FUNjVWUV9rdlNqSTBzSF9aV2hIQ3hiT253b3Fqb3ZhYWwwdk42cjlrTnZOV2ZwTlR3MkppU1dTb2FLYTA4dTVZNkk3bDJBQW9HclR5RWZpZndjZGxkUVhFWDdadnlKTWF1aUFPRmxKclp5bzJiZWE3STRUNjV6YTlJUG9PdUozUzBWNUFQVlc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWlcwV2xOSTJnWDdHN0lXMGtBaXFhUmpZem1qeTRfcmRpTExaYm9ZdE1sUEV1d1pVR0FvVElaM2NKRGhaYjNuNldIVjZHOEhQLWpSTzZ5d1lKdU1VSWx0M3VEaTRqRXlYQktxVWE0WHlCUy1TWC1UaFZhOUpLMGFpWHllWQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -72,6 +72,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 29, 07:11 AM ET",
+    "publishedAt": "2026-08-29T11:11:31+00:00",
+    "source": "Startup Fortune",
+    "title": "OpenAI, Anthropic and Over 100 Firms Warn AI Cyberattacks Are Months Away",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUlScnZONzQwbzVnQmwzS05VVW51Y2NzWHhQLW5FZ2RnMVN2WVUyWFlKcFk3RlhVSXQ0V2R1RUxlZmZaYWZkMHdjZEVWQ1lCNlAxSlVjdXNDbjNaNmh1YXRLV0E0REZzT3Rudlc3Q19IMGRKUlFqUnM1SmRUU01zNGNkUG4wRHhfQ1pnQXNvR1BDaXRWWWlPblFEYXZvREdic0E?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 29, 12:21 AM ET",
@@ -105,6 +117,18 @@
     "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzlIQ24wYk5aUzFqaU1kTFVTb2NtOVpOSW9ZcGpBbEZKbEdvVV8zMlRjeHRLVGk5R0trcU1HTVU0OGF3V0M4bVZhNTdGQnV4Ny1kQnhyampGWmgxc3VNeFZKc2JTdkhkR1J5d0lrb1oyUHJHZC0wUy1uV0ZwQm1QM24tT29lYzlGbkRDNnJwUjlSM3dxYzg0d2hVSWo0QQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 28, 08:56 PM ET",
+    "publishedAt": "2026-08-29T00:56:52+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Use the Gemini App: 13 Steps, 75 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ocUJXVVJiZjhUU2g0Q0hialNyYVJYOEU2VFY1OEhlbzc4ZTdWY3ZCRmFsTmd3WmtpeDJRWnRieFZLQ2M2Y2ZUc0JFSDVNSUlDOUFhZ19tV25DUjdneFdFMnN3dEdhQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,30 +180,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 28, 03:57 AM ET",
-    "publishedAt": "2026-08-28T07:57:56+00:00",
-    "source": "tech-insider.org",
-    "title": "Google Gemini AI Pro & Ultra for Less in 2026: U7BUY Review",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yQlVNdUxZLVRDdDB4NjZfZFJpdmdqX1ZYYXRNX0MxbXlOVV94UGotcTdsZHZTTUZna3NrOFhWMnB1eUFva0RpZjNPYWxJMmdIakRfa2JKZzNuU3c4MGRKbjBrMVY0d1BHeVQyUU1IeHN6bmNRYXVQWXYyYw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 27, 11:46 PM ET",
-    "publishedAt": "2026-08-28T03:46:12+00:00",
-    "source": "tech-insider.org",
-    "title": "Local AI Beats ChatGPT on Reliability, 20x Cheaper [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdmhEMC1DRGR6QjVOVEpCaVZGRmhxX0tWTUIySGMtcjVyc2gzOTRDcE1lek9NS0VLdkUxT0lEYllBeG1EM2RjbFpMZ0lBdDBoTjlJVGJZS2xzRmFVa3h6Z21PZERlYkI2MF96Tm42eENPa0luMVcwOW1XdjRKMEVQU251ck5YT2s?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 27, 11:23 PM ET",
@@ -201,6 +201,18 @@
     "summary": "International Business Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXpJSUNrOXlMVHlEMVhJY2RaR3AyUE4xZmVTa2o5MkczWWszanpRY0U1UkFZbkt5SVZEV05QOXJJdkkwcUptaFhpNUExVkRhYXMxZExkWGJrX1RfTTkwNUtFLUJmZ2ppTHQtb0tzcmh2UEptaEpER09RbkRGSjhzUXIxOTI2TFU3eFhFREdEdmFINmZYVmFxWGhwTXVBUWpFcVRxREpB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 27, 06:09 PM ET",
+    "publishedAt": "2026-08-27T22:09:50+00:00",
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
+    "summary": "Reuters is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -237,18 +249,6 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBldHViQ0pLZllHRF8zTGF5bTQyQUhkd3hDQzZpRGdtMW03T3BnWUJscXI0NWUyOXNnZ2tWRXZnQWQ2RlRnN3dENEpjN21ZN2FXUmVXcEY4TnlRdFlVdEw4Ty1ScExjX2RuOGRhR1hsUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 27, 06:03 AM ET",
-    "publishedAt": "2026-08-27T10:03:00+00:00",
-    "source": "Reuters",
-    "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-    "summary": "Reuters is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
     "difficulty": "News"
   },
   {
