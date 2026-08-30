@@ -1,14 +1,26 @@
 [
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 29, 08:29 PM ET",
-    "publishedAt": "2026-08-30T00:29:42+00:00",
-    "source": "XenoSpectrum",
-    "title": "OpenAI Plans to Cut Off Cursor's Access to Its AI Models, and Personal API Keys Won't Cover Every Gap",
-    "summary": "XenoSpectrum is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 30, 05:49 AM ET",
+    "publishedAt": "2026-08-30T09:49:45+00:00",
+    "source": "tech-insider.org",
+    "title": "Gemini 3.7 Flash Price Cut: 50% Off AI Costs [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XNEFsTWVrOU5SX040cnZDR3kwcTlJOWZpV0M4WFFUaTVmTmxfOU55TVk2aDdVdFJHRzAxY0VTbUNsajlQdG5HeWV6cDVjMU00N1BKMXNDV0tkVDN0MmlhRmt3akhZZw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNDBxeUgzQlJSQl9lMmpvdEtEUlRqSjNWa29xUFRpM0VLUzVVVWxBUEtlZHRUaGhhWThERFNjOVpWcVRfc053Z0RaVUhPajZBd0FUc2U4NHMycThtTmVRRERPeXp1d1lIejNRZjBiTDJZUE1u?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 29, 08:36 PM ET",
+    "publishedAt": "2026-08-30T00:36:10+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Opus 5 vs Sonnet 5 vs Fable 5: 5x Price Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nSTR5QmdYcHpaMi1jUTM3RG1FTEVWWFQ3cU00UWRXQkV2d0xpWFZBR2Fud1dndlN6b0ktb2huRV8zamxtTVRYdmhnMVZ5VWZBMnp4RGpZbkZSLWFpdVZVRGxqTVBQajlEdWlKcVhMMUliTlh6bEYyNkFn?oc=5",
     "difficulty": "News"
   },
   {
@@ -110,18 +122,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Aug 28, 08:56 PM ET",
-    "publishedAt": "2026-08-29T00:56:52+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Use the Gemini App: 13 Steps, 75 Min [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ocUJXVVJiZjhUU2g0Q0hialNyYVJYOEU2VFY1OEhlbzc4ZTdWY3ZCRmFsTmd3WmtpeDJRWnRieFZLQ2M2Y2ZUc0JFSDVNSUlDOUFhZ19tV25DUjdneFdFMnN3dEdhQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Aug 28, 05:49 PM ET",
     "publishedAt": "2026-08-28T21:49:31+00:00",
     "source": "Northeast Times",
@@ -129,6 +129,18 @@
     "summary": "Northeast Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWkxQXR0aWl5aWs2RTJSeTIzc0pSandYb1BNTnIwZ0NTLUFRQjl5b1dCb25wRjd0MTFxdnFfMEtQbWZuSFBIV0xhbzVQblRyTlJhZ0F3MV9ZM3Zfdk5fbEZkZ0V5MTRRdWZPUllRV1RBQnNndFNSSmhHaGVQODZtc3hteG5YMC1LRnk1VzhOWnFBODU1S1BDMFhUNHR2YTQtOWtxLWRRa3dvaW1WYnk3bXNR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 28, 10:58 AM ET",
+    "publishedAt": "2026-08-28T14:58:45+00:00",
+    "source": "Mobile World Live",
+    "title": "OpenAI throws weight behind Thai AI start-ups",
+    "summary": "Mobile World Live is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb1VJNGZGMy1LTGJBaG5vZURtWlFRWWFmaEJYZGIycHhQMjJhZjBWSTN2T0hKajlLZ28yS0Vfemw4d0N5dEJvb215SFA3NHBFU2p0TVFDem9faXktT01uOFNQTDE2Wm9lY3JRVy0yZjR6QzFFa1BobUQ0X1VBSDEtSE1WcHpMaUJ4N0xfZmhfNFgtUUotdmQ4?oc=5",
     "difficulty": "News"
   },
   {
@@ -153,6 +165,18 @@
     "summary": "Technology Org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOE9heWRsckhKUjBrWmYyeEItUmZxRVZfLTJHQlBFV1hGWDA2a0ZxbzFYb2d2Qm5pcGZ1RDd5V0pvdVZiOXFlbHcya19Ka045Si1MSG5FdjdROXREV1k2OTBjNUM1SDNaMjZvdGpwQXB0b1lXbjZwMW1NMWt3b3JFU1Jvb0hfdW5aOXc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 27, 11:46 PM ET",
+    "publishedAt": "2026-08-28T03:46:12+00:00",
+    "source": "tech-insider.org",
+    "title": "Local AI Beats ChatGPT on Reliability, 20x Cheaper [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdmhEMC1DRGR6QjVOVEpCaVZGRmhxX0tWTUIySGMtcjVyc2gzOTRDcE1lek9NS0VLdkUxT0lEYllBeG1EM2RjbFpMZ0lBdDBoTjlJVGJZS2xzRmFVa3h6Z21PZERlYkI2MF96Tm42eENPa0luMVcwOW1XdjRKMEVQU251ck5YT2s?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,18 +336,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 26, 03:00 AM ET",
-    "publishedAt": "2026-08-26T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 25, 12:27 AM ET",
@@ -333,18 +345,6 @@
     "summary": "New Atlas is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWlZoaFl6aEFqWUlSdGh5MU8xdjNwSmxKNUtoT2VQalNGVk9TWlN1QUJRVl9wZmdvcjhqSlg5WW5aTEVPUFZzYWtiZUtxSVVMUEVkQVBXWkZEVFFpZ2NOVWV2RVRheVU3V2F5bzZ1QnVTQmJJUU9hay1zeVh4UHZpY1RBRGdMbmgyN3BqSlVMNXZSazc5QTlyeGMyT2Z2c0U?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 24, 01:31 AM ET",
-    "publishedAt": "2026-08-24T05:31:00+00:00",
-    "source": "Notebookcheck",
-    "title": "Claude faces another outage as errors hit multiple models",
-    "summary": "Notebookcheck is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXFobGtjOS1HOEZ0akk5czFEbmtQTmlCZHJMN0JOOUhlRUNqdnBpanZ5a1RQUG9DdEtXTEV1YllGTGt3N3ZkMFZBMS1pYXlQX3lwamNXWjFsUndLaUdVTW5zeXA2TkJIejBrWlBLalc5REs4d013dDdaRmN3QlNwVkUyRXV2ZHltalBfZnd0U2tCc2FteE5Xa1lTdk9WdTNtRFAwTg?oc=5",
     "difficulty": "News"
   },
   {
