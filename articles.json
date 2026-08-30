@@ -1,14 +1,14 @@
 [
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 29, 04:12 PM ET",
-    "publishedAt": "2026-08-29T20:12:04+00:00",
-    "source": "jetstream.blog",
-    "title": "Google Announces Latest Video Generation AI Model “Gemini Omni 1.1 Flash”",
-    "summary": "jetstream.blog is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 29, 08:29 PM ET",
+    "publishedAt": "2026-08-30T00:29:42+00:00",
+    "source": "XenoSpectrum",
+    "title": "OpenAI Plans to Cut Off Cursor's Access to Its AI Models, and Personal API Keys Won't Cover Every Gap",
+    "summary": "XenoSpectrum is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uVTBzRS1YWXBDUUVDbGRiRWxlR2VsWE9YNUpSejI1c1RnejM3OS0wSzRhSjFwWGxZT3VOcXFVaTdZZ0hMdjFXdWMxMlY5VE1YRl9sLW1jdXhrYmZl?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XNEFsTWVrOU5SX040cnZDR3kwcTlJOWZpV0M4WFFUaTVmTmxfOU55TVk2aDdVdFJHRzAxY0VTbUNsajlQdG5HeWV6cDVjMU00N1BKMXNDV0tkVDN0MmlhRmt3akhZZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -72,25 +72,13 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 29, 07:11 AM ET",
-    "publishedAt": "2026-08-29T11:11:31+00:00",
-    "source": "Startup Fortune",
-    "title": "OpenAI, Anthropic and Over 100 Firms Warn AI Cyberattacks Are Months Away",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUlScnZONzQwbzVnQmwzS05VVW51Y2NzWHhQLW5FZ2RnMVN2WVUyWFlKcFk3RlhVSXQ0V2R1RUxlZmZaYWZkMHdjZEVWQ1lCNlAxSlVjdXNDbjNaNmh1YXRLV0E0REZzT3Rudlc3Q19IMGRKUlFqUnM1SmRUU01zNGNkUG4wRHhfQ1pnQXNvR1BDaXRWWWlPblFEYXZvREdic0E?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 29, 12:21 AM ET",
     "publishedAt": "2026-08-29T04:21:16+00:00",
-    "source": "36Kr",
+    "source": "36 Kr",
     "title": "Breaking News: OpenAI Fully Terminates API Access & Supply to Cursor AI Editor – What This Means for Users",
-    "summary": "36Kr is reporting this update. Open the article for the full story.",
+    "summary": "36 Kr is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lYnlSUzlOLTlCdTVrRFQ0TFFFWnlPZkthRV9ucjNkRlRWU2RjZ1l1a0hIMlpHV2pIQnFEcXdSZzdDSW9MWHl5ZWNWdVJwSnBWaUFB?oc=5",
     "difficulty": "News"
@@ -141,18 +129,6 @@
     "summary": "Northeast Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWkxQXR0aWl5aWs2RTJSeTIzc0pSandYb1BNTnIwZ0NTLUFRQjl5b1dCb25wRjd0MTFxdnFfMEtQbWZuSFBIV0xhbzVQblRyTlJhZ0F3MV9ZM3Zfdk5fbEZkZ0V5MTRRdWZPUllRV1RBQnNndFNSSmhHaGVQODZtc3hteG5YMC1LRnk1VzhOWnFBODU1S1BDMFhUNHR2YTQtOWtxLWRRa3dvaW1WYnk3bXNR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 28, 12:33 PM ET",
-    "publishedAt": "2026-08-28T16:33:16+00:00",
-    "source": "VentureBeat",
-    "title": "Meta AI's EvoHarness-RL boosts agent efficiency",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVEZQSk9INGw3UGpYSnRFeXFVaFNPMkxwMU9pRWNqSDY4RkFUcHBleVJMeVFyNjh1anQyaVJoY3R3Q2tmYTRwd08tUUFiaEwwNTlWWWFpTUtEa1F2SjBIbDE2MHFLV2pVQkUwamsyMUdqWGVycGRDenVZclpSOUZSaGlYa2lNalBVUmxsMEF5STB6amctdzUzYi1mdEF6UDVNN3Z4ZUZlVWtrSDZIM2wwTEtWVXpsaDlVOEsyb2szZUtvaE1FWmhyOWxIR3k?oc=5",
     "difficulty": "News"
   },
   {
@@ -240,6 +216,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 27, 12:17 PM ET",
+    "publishedAt": "2026-08-27T16:17:38+00:00",
+    "source": "blog.google",
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTJ5X0FOc1pwR0FiZnZ2cV84SDdhbHhZanZpNnFaVDZpbEVhMHNoOThybFpaQmJpUUhrSnEyTlhxOGJsd0FlM1pUNXBnOENQTVFtLXEwcHYzeDRjeDZCTXA3UDh0U2k3YXp4WkpMUXpabE1HSHVIeDVKTWZRVWxjTjJ4UkM2Nnh1dzBCamVMSEU1SWMtWGlUZUFVM3BTa3pn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 27, 10:08 AM ET",
@@ -261,6 +249,18 @@
     "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rZXA5SUhSVXFLMlZTVkVabHZlUU5SQlI1eG42TEowOWVGZ0ZmLWpCNkkzUF82eVAxVUdPbkwzZThQRV9Vdkk2MlNvRnh5alI1YTh3TTktWWNwZU8xVjlsWmxIemJlbFAzSUlrUVBibHVJdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 26, 04:00 PM ET",
+    "publishedAt": "2026-08-26T20:00:00+00:00",
+    "source": "VentureBeat",
+    "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHNVM0h3ZEh3dWZScXFOc1BnSURpY1UtdlEzdG5CTTAzQ2phejc5TGZXS3NydFNmTDIyRTZiaEtwWGpLOG1yaGdleUNXY0loQXRyOHZVM2tLWGtoM1ZHVDFITHdTcFBoYVNLa29FTFJrbXF2M3hadDZJYzFWWUE0ZUFzQkNuNUVzczNpYkJsd25uUXh5NlM3a21nRFdpSDhzYVF0by1jdDlUQlhzcmhfbktDTkd3bjBNdFN4WFNLUXo3Rmdo?oc=5",
     "difficulty": "News"
   },
   {
@@ -336,18 +336,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 24, 10:08 AM ET",
-    "publishedAt": "2026-08-24T14:08:14+00:00",
-    "source": "Built In",
-    "title": "How Does Meta’s Muse Code Compare to Other AI Coding Tools?",
-    "summary": "Built In is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TY2tOOEZVaHE4Vy1DUHF6MFRiYjgtb0VGcmJYWVlyZ0dVTE0xczZtY25mR0UwT0JaOHliR0NwRXpvQTctbFVDUm1QREVVOE83YWVaU2xzLVhMRmJyQ0thS1lwMlg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 24, 01:31 AM ET",
@@ -369,6 +357,18 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tWU9hUmxUQ1ltVDA4ckstcVByaGVFTVFmSGpnaDhNVFprYmJsNVNCTVdVZ0JMcFBOTUU1Y1NaNEQzSi0xeXR5aVU3cGdfVW43Ml9YcUNvTWJVTjFBbUxQaA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 17, 03:00 AM ET",
+    "publishedAt": "2026-08-17T07:00:00+00:00",
+    "source": "GeekWire",
+    "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform",
+    "summary": "GeekWire is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
     "difficulty": "News"
   },
   {
