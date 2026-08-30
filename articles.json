@@ -1,5 +1,41 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 30, 01:37 PM ET",
+    "publishedAt": "2026-08-30T17:37:30+00:00",
+    "source": "PPC Land",
+    "title": "Google Ads API assistant v4.0 forces existing users to reinstall",
+    "summary": "PPC Land is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTkR4N2hpRktOVk0zYmhyUFltMUxvNEJrYU5DN2ZfcWJpbEstSlpBaHNxZVdWcHZMeDY5NUhPeW9hSEM3dE56aTU4OGZmNHZ0NUU3ckVObzFYNkI4MFZjRnhuZmdEaUxVaWJSTHVBVmF4c3dreEY3dlVoRDRHUlZrQmwtV0lSaTl0eGc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 30, 01:30 PM ET",
+    "publishedAt": "2026-08-30T17:30:00+00:00",
+    "source": "quasa.io",
+    "title": "GPT-5.6 Sol Output Falls to $20 per Million Tokens—for Three Months",
+    "summary": "quasa.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcy1IRHZPVFY5TUpialk1UnhaSnZsMGd3ZWktaGNlSTdjZk5GM19YZ1JsSDYwcllPOFU3d1FlMkIwQkp6a1Nmc2FiZndSdDAxTVFxQ0E0R3pHMkFOZ0ZlaFdMcmpCbWtuanRJQk5TNE5uakRyLWxIUnhldUMxQlRDUlVsOC1GN3djUmtHMmRwUWR1eGdaeG04?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 30, 09:08 AM ET",
+    "publishedAt": "2026-08-30T13:08:00+00:00",
+    "source": "finance.biggo.com",
+    "title": "Theo: OpenAI's Cursor Ban Is About Protecting Astra, Not Just Musk",
+    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ocTNYUWtYZkozenF3WTZBNXREZll2dkpEYkxpWVRYenZHRjBCcmtxRU5pX1F3QUhMaTBva05tcHJvSi1lM3RfaFFRRHhFcTItVTdCTExqaGdJSXM?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 30, 05:49 AM ET",
@@ -33,18 +69,6 @@
     "summary": "ScienceBlog.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnNyNEFyZTRfZ2VUNldBTzR5YWN4V2JzcXQ0Q0g5SmZMeVBOcHR3Um80TFpWOTJIS1dBNU5qdXkzM05hYW9NRUZ3T1owM25QdzhjWldLS2dsQkpWNmR3WGhEZDczLV9MT3VOOHdSdzMxdW4wakt5cVUzSlhzdmFsUUtKQXJWZTdockFwRVhid2Nja0plbWNobF82QVlYRDVVRlNwSVgzVU1pSUs4U3RELW1KWmVOME40bVhtVUlBSzRVcTROV0pSWE1pWUtGbWtVelZFaGVfbDlhaW9GNGJ6WlFrdjZweWIwNVh1dWdnbW5ocEVkYTc1bmNlSmxaWE5rSHY2TWdpX1QtUTJjWm5aWm9JT1paQkpMMFV2QVBzaWtsR1J1ZHoyalFobTkyWTdK?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 29, 11:05 AM ET",
-    "publishedAt": "2026-08-29T15:05:10+00:00",
-    "source": "AOL.com",
-    "title": "Altman-Musk Feud Escalates as OpenAI Cuts Off Cursor Access After SpaceX Merger",
-    "summary": "AOL.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWlcwV2xOSTJnWDdHN0lXMGtBaXFhUmpZem1qeTRfcmRpTExaYm9ZdE1sUEV1d1pVR0FvVElaM2NKRGhaYjNuNldIVjZHOEhQLWpSTzZ5d1lKdU1VSWx0M3VEaTRqRXlYQktxVWE0WHlCUy1TWC1UaFZhOUpLMGFpWHllWQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -132,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 28, 10:58 AM ET",
-    "publishedAt": "2026-08-28T14:58:45+00:00",
-    "source": "Mobile World Live",
-    "title": "OpenAI throws weight behind Thai AI start-ups",
-    "summary": "Mobile World Live is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb1VJNGZGMy1LTGJBaG5vZURtWlFRWWFmaEJYZGIycHhQMjJhZjBWSTN2T0hKajlLZ28yS0Vfemw4d0N5dEJvb215SFA3NHBFU2p0TVFDem9faXktT01uOFNQTDE2Wm9lY3JRVy0yZjR6QzFFa1BobUQ0X1VBSDEtSE1WcHpMaUJ4N0xfZmhfNFgtUUotdmQ4?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 28, 05:37 AM ET",
@@ -165,18 +177,6 @@
     "summary": "Technology Org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOE9heWRsckhKUjBrWmYyeEItUmZxRVZfLTJHQlBFV1hGWDA2a0ZxbzFYb2d2Qm5pcGZ1RDd5V0pvdVZiOXFlbHcya19Ka045Si1MSG5FdjdROXREV1k2OTBjNUM1SDNaMjZvdGpwQXB0b1lXbjZwMW1NMWt3b3JFU1Jvb0hfdW5aOXc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 27, 11:46 PM ET",
-    "publishedAt": "2026-08-28T03:46:12+00:00",
-    "source": "tech-insider.org",
-    "title": "Local AI Beats ChatGPT on Reliability, 20x Cheaper [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdmhEMC1DRGR6QjVOVEpCaVZGRmhxX0tWTUIySGMtcjVyc2gzOTRDcE1lek9NS0VLdkUxT0lEYllBeG1EM2RjbFpMZ0lBdDBoTjlJVGJZS2xzRmFVa3h6Z21PZERlYkI2MF96Tm42eENPa0luMVcwOW1XdjRKMEVQU251ck5YT2s?oc=5",
     "difficulty": "News"
   },
   {
@@ -280,9 +280,9 @@
     "label": "Claude Code",
     "time": "Aug 26, 04:00 PM ET",
     "publishedAt": "2026-08-26T20:00:00+00:00",
-    "source": "VentureBeat",
+    "source": "Venturebeat",
     "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHNVM0h3ZEh3dWZScXFOc1BnSURpY1UtdlEzdG5CTTAzQ2phejc5TGZXS3NydFNmTDIyRTZiaEtwWGpLOG1yaGdleUNXY0loQXRyOHZVM2tLWGtoM1ZHVDFITHdTcFBoYVNLa29FTFJrbXF2M3hadDZJYzFWWUE0ZUFzQkNuNUVzczNpYkJsd25uUXh5NlM3a21nRFdpSDhzYVF0by1jdDlUQlhzcmhfbktDTkd3bjBNdFN4WFNLUXo3Rmdo?oc=5",
     "difficulty": "News"
@@ -338,18 +338,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 25, 12:27 AM ET",
-    "publishedAt": "2026-08-25T04:27:44+00:00",
-    "source": "New Atlas",
-    "title": "Claude will now watermark all content generated using its tools",
-    "summary": "New Atlas is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWlZoaFl6aEFqWUlSdGh5MU8xdjNwSmxKNUtoT2VQalNGVk9TWlN1QUJRVl9wZmdvcjhqSlg5WW5aTEVPUFZzYWtiZUtxSVVMUEVkQVBXWkZEVFFpZ2NOVWV2RVRheVU3V2F5bzZ1QnVTQmJJUU9hay1zeVh4UHZpY1RBRGdMbmgyN3BqSlVMNXZSazc5QTlyeGMyT2Z2c0U?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 18, 03:00 AM ET",
     "publishedAt": "2026-08-18T07:00:00+00:00",
     "source": "The New Stack",
@@ -381,6 +369,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 12, 03:00 AM ET",
+    "publishedAt": "2026-08-12T07:00:00+00:00",
+    "source": "The Hacker News",
+    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
   }
 ]
