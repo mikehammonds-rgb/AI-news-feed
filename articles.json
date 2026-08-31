@@ -2,6 +2,66 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 31, 09:50 AM ET",
+    "publishedAt": "2026-08-31T13:50:33+00:00",
+    "source": "HackerNoon",
+    "title": "It Took Developers 24 Hours to Build Around Claude's Invisible Watermark",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWRUMUN3aUQxTzR6aTRzRkh6Ym93UjBXWFVmMUd2VkpBaTZkWnNhNEU2dEU2NHU1UlpwRi01b2EzMWpRQ1ZKdG9HQnR4Z2dpT2h5Z3pMajcwbE1Pc3J6YnlzMzFaRDNoMDdzTkh4Q0Y0MDRNMHc5QTBpNTFOVF95Ml9FSEg4ZFlQaUU4eVR2a19DQXc0d0s3ZUxB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 31, 07:47 AM ET",
+    "publishedAt": "2026-08-31T11:47:20+00:00",
+    "source": "Tom's Guide",
+    "title": "OpenAI is leaving Cursor in November — here are your 3 options",
+    "summary": "Tom's Guide is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFdfMHlUTzFnd1ExWDc2TG9fUFpOU1dnWlhLXzhHTk5FcFlmOXhrenRfNnRESlVjVEhyMmJVUjR6WUtTd21VVHlzTW1pSER5UThkTTRUeDBJOUtheFFqU0NQSnlCNnlHa0xhMjIwWWlJOC1JR05STHY5YUNlMWpFU0d4d3AwVjA3cjlyRjhhT2t1bVU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 31, 07:47 AM ET",
+    "publishedAt": "2026-08-31T11:47:00+00:00",
+    "source": "The Hacker News",
+    "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOakJvcmFsZzJydGVBaFEyS0dVbm13MkU3UTdCWkFxdTdpbzVxbHJobTViZ29CeGZ5U0ZCblJaQ0RQT1Q4cnUzbkMyNTRnZDEwVjFYSmJ2eGl6N0pidFZuY2k2aHY3Z2FGcXhRRHpLTkR6bUlYd25DUTJIbXhDRElLaUtJZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 31, 07:31 AM ET",
+    "publishedAt": "2026-08-31T11:31:00+00:00",
+    "source": "The Hacker News",
+    "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDhmbjlyTTFDYVc3aXlGU3ktMmtQOXpzVW5XTHM0S01aMzFQQTlsZkVFNndkOHJwRDZjY2RPcm9fU0ZUUjNTTlRiYW5tWDlhaHBuOGxHV1FxLS15c0RTSHFSU1VPaXFHalRtcUlWbl84RElKcmFmOVFiU1NZUTI2c0RTT1Y?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 31, 05:46 AM ET",
+    "publishedAt": "2026-08-31T09:46:30+00:00",
+    "source": "tech-insider.org",
+    "title": "Two Claude Models Leak as Anthropic Eyes $100B IPO [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1laUFUUktoNDdGODFiM29LdUJLZjNiWWVneGhfQ3hqYWNwQWFXNzROM2hDRUgtZ0pxaktlME9zMXZYZTZWb2t1UkZRd3REQUFnYjdnN0wzTTBIejI4UFFGZ1NWcW15SGFiUDVQUnloS1hkRDgwTkE3MnNUeWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 30, 11:05 PM ET",
     "publishedAt": "2026-08-31T03:05:21+00:00",
     "source": "Startup Fortune",
@@ -9,30 +69,6 @@
     "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1g5R2pzNkpRY3VFOFBJeXR1VnBBNmxMbkJUcTNHdzNleUZDR3gzdTd1a0VqdmlURWVsamtnNTZ2dmpWZjZ0UzV2aVkzOXhvTjM4QlJWMmNuQ3FyT3hoR1VTSjBQaWpqRUtzbEhNSmpwdTllYjRRNktWUnVXSy1obDZ1SXlxaHhybzFsTVoyLUNENVFDUHFPVlBBVXZtdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 30, 09:48 PM ET",
-    "publishedAt": "2026-08-31T01:48:35+00:00",
-    "source": "VOI.ID",
-    "title": "Gemini 3.8 Flash Starts Testing Google, Focuses on Coding and Reduces AI Hallucinations",
-    "summary": "VOI.ID is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BR1BIcWRManFEdWNuX25rbG84bU5VVHZSZDZBTmZXOHl3SlUyYktxU2dMTkRMMWhzSXVId0VSYW1WdzR6QUxEeEYzONIBQkFVX3lxTE9fZGNXMGdUM25LQkdkOWRXTnBjWDM5MnRUSHNoNXpwbDNvcy1pSzFZUlNSeG5jSWtTeEF6UzNQeDc5UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 30, 08:55 PM ET",
-    "publishedAt": "2026-08-31T00:55:36+00:00",
-    "source": "XenoSpectrum",
-    "title": "Anthropic Warns Stolen Login Sessions Let Attackers Drain Claude Users' Usage Limits",
-    "summary": "XenoSpectrum is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YMGlVZzF6UTQ1LUFTUWdsTHh2ZkRNT2NOVXh2UFdDSkYzdEREUmFaMkZEWDJyOXRQM1c4UlhBRVMtTmNlTlBuRXFNQjZEYng3eElQTVNtaTFzTlRkd0xpa0huWXFBb05VWGtYeFBUUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -48,18 +84,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 30, 01:37 PM ET",
-    "publishedAt": "2026-08-30T17:37:47+00:00",
-    "source": "PPC Land",
-    "title": "Google Ads API assistant v4.0 forces existing users to reinstall",
-    "summary": "PPC Land is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTkR4N2hpRktOVk0zYmhyUFltMUxvNEJrYU5DN2ZfcWJpbEstSlpBaHNxZVdWcHZMeDY5NUhPeW9hSEM3dE56aTU4OGZmNHZ0NUU3ckVObzFYNkI4MFZjRnhuZmdEaUxVaWJSTHVBVmF4c3dreEY3dlVoRDRHUlZrQmwtV0lSaTl0eGc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 30, 01:30 PM ET",
@@ -72,6 +96,30 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 30, 11:14 AM ET",
+    "publishedAt": "2026-08-30T15:14:00+00:00",
+    "source": "24/7 Wall St.",
+    "title": "Altman-Musk Feud Escalates as OpenAI Cuts Off Cursor Access After SpaceX Merger",
+    "summary": "24/7 Wall St. is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY25lREx3YWV6Vks1QkNwRjNVSjFGN2E2Sk11VElTYm54QUZaOWxod1VJNG5HYTFmNEFHVW9leWpmejJ6S3hRSm5fUzNtZTgySWljUDFqb3JFM2xxY2FaSkdpOXRGMmxDa0pKZ1B2ZUNEOUFkZUdzTFNMaVFBUDgzT1QzT2U5ZUdvb25XdnlFWG1WUmFwUW9MOG9zVEZTN3RJYmwyd05idWxKM3BnQTJ3V0FWRVFscmtEZFRkOURXQlU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 30, 11:12 AM ET",
+    "publishedAt": "2026-08-30T15:12:49+00:00",
+    "source": "Towards Data Science",
+    "title": "Context Engineering Is Changing. Here’s What It Means for Data Scientists",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2dKRjFZN1hNaVdEZDBsUkhtVnBPanY0eUVwM1VxaGhUZmtBNEswS1BjT2ZGYUUzU0FZU3RFOXJIZjFrOGVjSUVzMzRQS2pHekhscE1QRFpqc3NIelBZVG4tNkRJM1NsUXVPcVY0eGhnSTkzOGc3OVJwdW5hMllkZG9JNWppdFNSbElnNDdRVklmbW01VGhTUUdXZWZWUm9ZZDdfeF9R?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 29, 11:48 PM ET",
@@ -81,18 +129,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94SndNTm5XQmxHdDJ2OS1SZ3VmU3NKTHdnM2d5d3ROSjdNaDVQcG9pSFNQNjQ1QUpYVWd2NDM2dkg5SWFRSlRpMmxOSmV4em9SVl9XZEJ5bGxnUWJTb0xtRXN5X2U3dHBUM1JmVmRaeE5GTlF3WkIzRlJjMVZBUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 29, 08:36 PM ET",
-    "publishedAt": "2026-08-30T00:36:10+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Opus 5 vs Sonnet 5 vs Fable 5: 5x Price Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nSTR5QmdYcHpaMi1jUTM3RG1FTEVWWFQ3cU00UWRXQkV2d0xpWFZBR2Fud1dndlN6b0ktb2huRV8zamxtTVRYdmhnMVZ5VWZBMnp4RGpZbkZSLWFpdVZVRGxqTVBQajlEdWlKcVhMMUliTlh6bEYyNkFn?oc=5",
     "difficulty": "News"
   },
   {
@@ -124,9 +160,9 @@
     "label": "ChatGPT",
     "time": "Aug 29, 09:34 AM ET",
     "publishedAt": "2026-08-29T13:34:46+00:00",
-    "source": "the-decoder.com",
+    "source": "The Decoder",
     "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSW9DTFA5MnJpYkdwbEhseWZmd0NOR2ZhUXVCWTF3NzJIUlB1S2xwOVVPRlg5bFFrVFNmRXljNktNY0RmVTJEc01xMUFKTHoxRlc1aVE1MXJ2Qlhrd0JTaHB5dk14YWZHVElidmZ6MHNPaVVLUkd0dVFXcjNOUFNLV0xiZm1WeGtaYlRFaWo2YUkxSjNJR2FERk9wdm82SmFadUlZMWdZQklKeFlLbFc3eWR0UkZRZw?oc=5",
     "difficulty": "News"
@@ -141,18 +177,6 @@
     "summary": "Buttondown is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWJ1UEY4NjIydnVGaWFxcXJWUE8wdDY2SktHaVZ1NjQ1OFQtYktaR0xYYnlUMWk1UUNHdERZTnpBLTlieUN6V1I3WTRLOUVJNHVKUWp2MFQtMmdDa1dCOFBac2hlXy16ZmQ2UEY3eTVMZGpGalBDcEwySDB3LTlHY3VRYXE0V25KVldNTHlJdnBXbmVsX3Uxag?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 29, 12:21 AM ET",
-    "publishedAt": "2026-08-29T04:21:16+00:00",
-    "source": "36 Kr",
-    "title": "Breaking News: OpenAI Fully Terminates API Access & Supply to Cursor AI Editor – What This Means for Users",
-    "summary": "36 Kr is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lYnlSUzlOLTlCdTVrRFQ0TFFFWnlPZkthRV9ucjNkRlRWU2RjZ1l1a0hIMlpHV2pIQnFEcXdSZzdDSW9MWHl5ZWNWdVJwSnBWaUFB?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,30 +252,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 27, 11:46 PM ET",
-    "publishedAt": "2026-08-28T03:46:12+00:00",
-    "source": "tech-insider.org",
-    "title": "Local AI Beats ChatGPT on Reliability, 20x Cheaper [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdmhEMC1DRGR6QjVOVEpCaVZGRmhxX0tWTUIySGMtcjVyc2gzOTRDcE1lek9NS0VLdkUxT0lEYllBeG1EM2RjbFpMZ0lBdDBoTjlJVGJZS2xzRmFVa3h6Z21PZERlYkI2MF96Tm42eENPa0luMVcwOW1XdjRKMEVQU251ck5YT2s?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 27, 07:27 PM ET",
-    "publishedAt": "2026-08-27T23:27:05+00:00",
-    "source": "International Business Times",
-    "title": "Russian Hackers Used SpaceX’s AI Coding Assistant To Conduct Attacks: Report",
-    "summary": "International Business Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXpJSUNrOXlMVHlEMVhJY2RaR3AyUE4xZmVTa2o5MkczWWszanpRY0U1UkFZbkt5SVZEV05QOXJJdkkwcUptaFhpNUExVkRhYXMxZExkWGJrX1RfTTkwNUtFLUJmZ2ppTHQtb0tzcmh2UEptaEpER09RbkRGSjhzUXIxOTI2TFU3eFhFREdEdmFINmZYVmFxWGhwTXVBUWpFcVRxREpB?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 27, 06:09 PM ET",
@@ -276,39 +276,27 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 27, 01:58 PM ET",
-    "publishedAt": "2026-08-27T17:58:11+00:00",
-    "source": "Anthropic",
-    "title": "Previewing the Model Hardware Standard",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 27, 01:05 PM ET",
     "publishedAt": "2026-08-27T17:05:51+00:00",
-    "source": "the-decoder.com",
+    "source": "The Decoder",
     "title": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV3BwUzRIMlphU0ZCdGRQLW1wdkNUSHNEeDUyME50Zlp2QVNRcENyUnRJby1Zak5oSFR1dHFudlpaX29xampXekVWSjRMcGd0WjZjNVlGazhKUndNZzhQTWJQbnZsVERtOGRSdUdSZE8xbE01SmtoeVRzNlJBZE1oWXRNd3FOZmItaUJvcUUwTGlMZWRuWW9OXzc4akladDFVVEpkVXphS1NpZw?oc=5",
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 27, 10:08 AM ET",
-    "publishedAt": "2026-08-27T14:08:07+00:00",
-    "source": "TechRepublic",
-    "title": "Claude Opus 4.6 Found a Gym API Flaw — Then Exploited It in 9 of 10 Tests",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 27, 12:17 PM ET",
+    "publishedAt": "2026-08-27T16:17:38+00:00",
+    "source": "blog.google",
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBldHViQ0pLZllHRF8zTGF5bTQyQUhkd3hDQzZpRGdtMW03T3BnWUJscXI0NWUyOXNnZ2tWRXZnQWQ2RlRnN3dENEpjN21ZN2FXUmVXcEY4TnlRdFlVdEw4Ty1ScExjX2RuOGRhR1hsUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTJ5X0FOc1pwR0FiZnZ2cV84SDdhbHhZanZpNnFaVDZpbEVhMHNoOThybFpaQmJpUUhrSnEyTlhxOGJsd0FlM1pUNXBnOENQTVFtLXEwcHYzeDRjeDZCTXA3UDh0U2k3YXp4WkpMUXpabE1HSHVIeDVKTWZRVWxjTjJ4UkM2Nnh1dzBCamVMSEU1SWMtWGlUZUFVM3BTa3pn?oc=5",
     "difficulty": "News"
   },
   {
@@ -316,9 +304,9 @@
     "label": "Gemini",
     "time": "Aug 26, 03:19 PM ET",
     "publishedAt": "2026-08-26T19:19:22+00:00",
-    "source": "Ars Technica",
+    "source": "arstechnica.com",
     "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
+    "summary": "arstechnica.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGx5ZU85MkhfYTUweHk3X2NteExrRTRxRUlGOTZ5QVVIalBjcDlVSGhKRkJzV1BuMG5RSm9ZXzhqYlNBMU1HYW9TS0JpZ1F6dGV2a3EyRC1qTk50Z0dxWDJ0MzBZQ1g4OXEzbThidVcxUFRHeWhvLXBUcC1yUUx6ZG9GOFZpVGdxN2h5YmtBTDVFd1ZyY1NSdUV2TDc5cmpZdnctREN1Yw?oc=5",
     "difficulty": "News"
@@ -381,6 +369,18 @@
     "summary": "GeekWire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 14, 03:00 AM ET",
+    "publishedAt": "2026-08-14T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "How Claude's text watermarking works",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
     "difficulty": "News"
   }
 ]
