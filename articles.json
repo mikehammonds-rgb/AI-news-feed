@@ -2,6 +2,42 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 30, 11:05 PM ET",
+    "publishedAt": "2026-08-31T03:05:21+00:00",
+    "source": "Startup Fortune",
+    "title": "Zhipu's GLM-5.3-Flash Undercuts Claude and GPT on Price, Not on Hardware",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1g5R2pzNkpRY3VFOFBJeXR1VnBBNmxMbkJUcTNHdzNleUZDR3gzdTd1a0VqdmlURWVsamtnNTZ2dmpWZjZ0UzV2aVkzOXhvTjM4QlJWMmNuQ3FyT3hoR1VTSjBQaWpqRUtzbEhNSmpwdTllYjRRNktWUnVXSy1obDZ1SXlxaHhybzFsTVoyLUNENVFDUHFPVlBBVXZtdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 30, 09:48 PM ET",
+    "publishedAt": "2026-08-31T01:48:35+00:00",
+    "source": "VOI.ID",
+    "title": "Gemini 3.8 Flash Starts Testing Google, Focuses on Coding and Reduces AI Hallucinations",
+    "summary": "VOI.ID is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BR1BIcWRManFEdWNuX25rbG84bU5VVHZSZDZBTmZXOHl3SlUyYktxU2dMTkRMMWhzSXVId0VSYW1WdzR6QUxEeEYzONIBQkFVX3lxTE9fZGNXMGdUM25LQkdkOWRXTnBjWDM5MnRUSHNoNXpwbDNvcy1pSzFZUlNSeG5jSWtTeEF6UzNQeDc5UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 30, 08:55 PM ET",
+    "publishedAt": "2026-08-31T00:55:36+00:00",
+    "source": "XenoSpectrum",
+    "title": "Anthropic Warns Stolen Login Sessions Let Attackers Drain Claude Users' Usage Limits",
+    "summary": "XenoSpectrum is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YMGlVZzF6UTQ1LUFTUWdsTHh2ZkRNT2NOVXh2UFdDSkYzdEREUmFaMkZEWDJyOXRQM1c4UlhBRVMtTmNlTlBuRXFNQjZEYng3eElQTVNtaTFzTlRkd0xpa0huWXFBb05VWGtYeFBUUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 30, 07:30 PM ET",
     "publishedAt": "2026-08-30T23:30:00+00:00",
     "source": "quasa.io",
@@ -36,27 +72,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 30, 09:08 AM ET",
-    "publishedAt": "2026-08-30T13:08:00+00:00",
-    "source": "finance.biggo.com",
-    "title": "Theo: OpenAI's Cursor Ban Is About Protecting Astra, Not Just Musk",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ocTNYUWtYZkozenF3WTZBNXREZll2dkpEYkxpWVRYenZHRjBCcmtxRU5pX1F3QUhMaTBva05tcHJvSi1lM3RfaFFRRHhFcTItVTdCTExqaGdJSXM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 30, 05:49 AM ET",
-    "publishedAt": "2026-08-30T09:49:45+00:00",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 29, 11:48 PM ET",
+    "publishedAt": "2026-08-30T03:48:13+00:00",
     "source": "tech-insider.org",
-    "title": "Gemini 3.7 Flash Price Cut: 50% Off AI Costs [2026]",
+    "title": "Cursor AI Hack Triggers 23 New AI Agent Risk Rules [2026]",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNDBxeUgzQlJSQl9lMmpvdEtEUlRqSjNWa29xUFRpM0VLUzVVVWxBUEtlZHRUaGhhWThERFNjOVpWcVRfc053Z0RaVUhPajZBd0FUc2U4NHMycThtTmVRRERPeXp1d1lIejNRZjBiTDJZUE1u?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94SndNTm5XQmxHdDJ2OS1SZ3VmU3NKTHdnM2d5d3ROSjdNaDVQcG9pSFNQNjQ1QUpYVWd2NDM2dkg5SWFRSlRpMmxOSmV4em9SVl9XZEJ5bGxnUWJTb0xtRXN5X2U3dHBUM1JmVmRaeE5GTlF3WkIzRlJjMVZBUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,6 +93,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nSTR5QmdYcHpaMi1jUTM3RG1FTEVWWFQ3cU00UWRXQkV2d0xpWFZBR2Fud1dndlN6b0ktb2huRV8zamxtTVRYdmhnMVZ5VWZBMnp4RGpZbkZSLWFpdVZVRGxqTVBQajlEdWlKcVhMMUliTlh6bEYyNkFn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 29, 03:04 PM ET",
+    "publishedAt": "2026-08-29T19:04:54+00:00",
+    "source": "ScienceBlog.com",
+    "title": "A $200 ChatGPT Pro subscription could represent as much as $14,000 a month in equivalent API-priced usage if pushed to its limits, according to SemiAnalysis — a striking illustration of how heavily flat-rate AI plans can subsidise their biggest users",
+    "summary": "ScienceBlog.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnNyNEFyZTRfZ2VUNldBTzR5YWN4V2JzcXQ0Q0g5SmZMeVBOcHR3Um80TFpWOTJIS1dBNU5qdXkzM05hYW9NRUZ3T1owM25QdzhjWldLS2dsQkpWNmR3WGhEZDczLV9MT3VOOHdSdzMxdW4wakt5cVUzSlhzdmFsUUtKQXJWZTdockFwRVhid2Nja0plbWNobF82QVlYRDVVRlNwSVgzVU1pSUs4U3RELW1KWmVOME40bVhtVUlBSzRVcTROV0pSWE1pWUtGbWtVelZFaGVfbDlhaW9GNGJ6WlFrdjZweWIwNVh1dWdnbW5ocEVkYTc1bmNlSmxaWE5rSHY2TWdpX1QtUTJjWm5aWm9JT1paQkpMMFV2QVBzaWtsR1J1ZHoyalFobTkyWTdK?oc=5",
     "difficulty": "News"
   },
   {
@@ -146,6 +182,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Aug 28, 08:56 PM ET",
+    "publishedAt": "2026-08-29T00:56:52+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Use the Gemini App: 13 Steps, 75 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ocUJXVVJiZjhUU2g0Q0hialNyYVJYOEU2VFY1OEhlbzc4ZTdWY3ZCRmFsTmd3WmtpeDJRWnRieFZLQ2M2Y2ZUc0JFSDVNSUlDOUFhZ19tV25DUjdneFdFMnN3dEdhQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Aug 28, 05:49 PM ET",
     "publishedAt": "2026-08-28T21:49:31+00:00",
     "source": "Northeast Times",
@@ -180,15 +228,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 27, 11:23 PM ET",
-    "publishedAt": "2026-08-28T03:23:50+00:00",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 27, 11:46 PM ET",
+    "publishedAt": "2026-08-28T03:46:12+00:00",
     "source": "tech-insider.org",
-    "title": "Cursor AI Hack: Aurora Ransomware Breaches 7 Firms [2026]",
+    "title": "Local AI Beats ChatGPT on Reliability, 20x Cheaper [2026]",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fek1sb0xzMGNJZHFJelNvMkNLallTamxhbTJxS3k1QlVmdndNWGlaUDMyRDF6eUVMMktvd212STNMb0NCTEZ5bG92R0ZaUm43NGhramRlcEdCSENDdEZsQWN6VVRPTjRXY3RuYlhXN0c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdmhEMC1DRGR6QjVOVEpCaVZGRmhxX0tWTUIySGMtcjVyc2gzOTRDcE1lek9NS0VLdkUxT0lEYllBeG1EM2RjbFpMZ0lBdDBoTjlJVGJZS2xzRmFVa3h6Z21PZERlYkI2MF96Tm42eENPa0luMVcwOW1XdjRKMEVQU251ck5YT2s?oc=5",
     "difficulty": "News"
   },
   {
@@ -252,18 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 27, 12:17 PM ET",
-    "publishedAt": "2026-08-27T16:17:38+00:00",
-    "source": "blog.google",
-    "title": "Gemini Omni 1.1 Flash lets you build with more control",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTJ5X0FOc1pwR0FiZnZ2cV84SDdhbHhZanZpNnFaVDZpbEVhMHNoOThybFpaQmJpUUhrSnEyTlhxOGJsd0FlM1pUNXBnOENQTVFtLXEwcHYzeDRjeDZCTXA3UDh0U2k3YXp4WkpMUXpabE1HSHVIeDVKTWZRVWxjTjJ4UkM2Nnh1dzBCamVMSEU1SWMtWGlUZUFVM3BTa3pn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 27, 10:08 AM ET",
@@ -273,18 +309,6 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBldHViQ0pLZllHRF8zTGF5bTQyQUhkd3hDQzZpRGdtMW03T3BnWUJscXI0NWUyOXNnZ2tWRXZnQWQ2RlRnN3dENEpjN21ZN2FXUmVXcEY4TnlRdFlVdEw4Ty1ScExjX2RuOGRhR1hsUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 27, 03:00 AM ET",
-    "publishedAt": "2026-08-27T07:00:00+00:00",
-    "source": "Hostinger",
-    "title": "How to send an email with Claude",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rZXA5SUhSVXFLMlZTVkVabHZlUU5SQlI1eG42TEowOWVGZ0ZmLWpCNkkzUF82eVAxVUdPbkwzZThQRV9Vdkk2MlNvRnh5alI1YTh3TTktWWNwZU8xVjlsWmxIemJlbFAzSUlrUVBibHVJdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -324,18 +348,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 26, 06:27 AM ET",
-    "publishedAt": "2026-08-26T10:27:00+00:00",
-    "source": "The Hacker News",
-    "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MSm9vZmN2d25QVmFNTFd6Y2R6VHIyMzlsMGV0dlRVeEhTdlF3Y1REYWhZa0pOVDVybEM3NUItTnRyMTZNTWVzTk5CVjljckpMNVhvanFwSkQ4TUk1c2Raem8zazUtS2ZqSno1SGowSlJrZTc4WjB5eUczekJ6aXc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 20, 03:00 AM ET",
@@ -369,18 +381,6 @@
     "summary": "GeekWire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 12, 03:00 AM ET",
-    "publishedAt": "2026-08-12T07:00:00+00:00",
-    "source": "The Hacker News",
-    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
   }
 ]
