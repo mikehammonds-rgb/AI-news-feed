@@ -2,8 +2,20 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Aug 30, 07:30 PM ET",
+    "publishedAt": "2026-08-30T23:30:00+00:00",
+    "source": "quasa.io",
+    "title": "ChatGPT Plus or Claude Pro? Coding and Cost Compared",
+    "summary": "quasa.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenNOS3VQelZrbFNzN2ZFNjVkNV9weVlGUThKc3FNTmV6cHpLZUVwNDk1amlrT284SlJjb3A5WnRxdEZlLTlDNUM3ci12TXR4dTR4Ynl2YzlOOUdRcVUwZENfdnJ1TENiNU1jYUhDMEt6QkxuZnppTkd5SUxsQk01eDlyQXgzYldOenNybHNMWGo?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Aug 30, 01:37 PM ET",
-    "publishedAt": "2026-08-30T17:37:30+00:00",
+    "publishedAt": "2026-08-30T17:37:47+00:00",
     "source": "PPC Land",
     "title": "Google Ads API assistant v4.0 forces existing users to reinstall",
     "summary": "PPC Land is reporting this update. Open the article for the full story.",
@@ -57,18 +69,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nSTR5QmdYcHpaMi1jUTM3RG1FTEVWWFQ3cU00UWRXQkV2d0xpWFZBR2Fud1dndlN6b0ktb2huRV8zamxtTVRYdmhnMVZ5VWZBMnp4RGpZbkZSLWFpdVZVRGxqTVBQajlEdWlKcVhMMUliTlh6bEYyNkFn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 29, 03:04 PM ET",
-    "publishedAt": "2026-08-29T19:04:54+00:00",
-    "source": "ScienceBlog.com",
-    "title": "A $200 ChatGPT Pro subscription could represent as much as $14,000 a month in equivalent API-priced usage if pushed to its limits, according to SemiAnalysis — a striking illustration of how heavily flat-rate AI plans can subsidise their biggest users",
-    "summary": "ScienceBlog.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnNyNEFyZTRfZ2VUNldBTzR5YWN4V2JzcXQ0Q0g5SmZMeVBOcHR3Um80TFpWOTJIS1dBNU5qdXkzM05hYW9NRUZ3T1owM25QdzhjWldLS2dsQkpWNmR3WGhEZDczLV9MT3VOOHdSdzMxdW4wakt5cVUzSlhzdmFsUUtKQXJWZTdockFwRVhid2Nja0plbWNobF82QVlYRDVVRlNwSVgzVU1pSUs4U3RELW1KWmVOME40bVhtVUlBSzRVcTROV0pSWE1pWUtGbWtVelZFaGVfbDlhaW9GNGJ6WlFrdjZweWIwNVh1dWdnbW5ocEVkYTc1bmNlSmxaWE5rSHY2TWdpX1QtUTJjWm5aWm9JT1paQkpMMFV2QVBzaWtsR1J1ZHoyalFobTkyWTdK?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 28, 12:33 PM ET",
-    "publishedAt": "2026-08-28T16:33:16+00:00",
-    "source": "Venturebeat",
-    "title": "Meta AI's EvoHarness-RL boosts agent efficiency",
-    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVEZQSk9INGw3UGpYSnRFeXFVaFNPMkxwMU9pRWNqSDY4RkFUcHBleVJMeVFyNjh1anQyaVJoY3R3Q2tmYTRwd08tUUFiaEwwNTlWWWFpTUtEa1F2SjBIbDE2MHFLV2pVQkUwamsyMUdqWGVycGRDenVZclpSOUZSaGlYa2lNalBVUmxsMEF5STB6amctdzUzYi1mdEF6UDVNN3Z4ZUZlVWtrSDZIM2wwTEtWVXpsaDlVOEsyb2szZUtvaE1FWmhyOWxIR3k?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 28, 05:37 AM ET",
@@ -237,6 +225,18 @@
     "summary": "Meduza is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOOG5zZVVpT2dCNV9jeTVpRW5XSnFnRHg2T0dPY3JBT3M3Y0FYdVl5M2hMMnp6M1dLYWZzVV8zWUdwcEx1Z29OVENyLTlmQjZDeW5FM0RGdUtoQXBXT0VIUVp1eTdCckVGQUM1WGpPbUUxTTg0MXV1Ml94WklFVmNLZmM2bFYxNmdQUDBtdFJSRTlyV2phTDdLcFJkN0VCdzZyajJ2bi11eUtVMEVRVEVVTWVha0RjY3lWV1haT3BOMnI5ZVFUWVZpUzNIcXBhRXNmWUpSM2lCbHRIV1RjYWtpRHlHRExIR19BUEUzelRoTUpPVWM0WVhEVjFUc1dEM2JXdTVKWWpuN2JsTXBzZ0VLUkFEdU1lemx5a2NwYnNDekJxZkc2amNlZlhObk5obWY5VklVaXVIUG1qOEXSAcACQVVfeXFMTlp4b0hmckQ1Y1lCN3JZY1VURmJ4dkgwZ2c0SXlRdWNZTUhmT3RrOURZeUhFNVhPOEpCbFY3SU5xT2FqUy1wSUR6TmFEZWN0a2dKeHFzd3JETEZuYmVLSE9qaVdzQ3VYYzE0T0poLW4yOTlSNEIxcVpPV1NMRUg5ZGpwZTVxOVhaWlJiWjdTTlRyVUFXZHZQVGxrTXJvQnBPSERwMERTenZZcGpkRFhkQ1BPVVczaXppekpGT0ZEVjRyVG05Q21jU19FVWQ1N1hBaHZzc2NEVnBiSFJ3UHpDWUVaX3JUNWRHVDh2YnpZMWpyYmdZVF9sSTZmeHZZcDFCWlh6MEJiT1Qwb1MzbUpvdGMtWVA5YzByTzlnZ1NtNkdrRmtQcnRiQVlxRnEwaThYZVNndzVyMU5LUFJXek5JUWg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 27, 01:58 PM ET",
+    "publishedAt": "2026-08-27T17:58:11+00:00",
+    "source": "Anthropic",
+    "title": "Previewing the Model Hardware Standard",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -374,13 +374,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 14, 03:00 AM ET",
-    "publishedAt": "2026-08-14T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "How Claude's text watermarking works",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "time": "Aug 12, 03:00 AM ET",
+    "publishedAt": "2026-08-12T07:00:00+00:00",
+    "source": "The Hacker News",
+    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
   }
 ]
