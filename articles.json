@@ -2,8 +2,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 01, 07:03 AM ET",
-    "publishedAt": "2026-09-01T11:03:03+00:00",
+    "time": "Sep 01, 07:02 AM ET",
+    "publishedAt": "2026-09-01T11:02:21+00:00",
     "source": "UC Today",
     "title": "Gemini for Google Workspace Moves From Copilot to Action",
     "summary": "UC Today is reporting this update. Open the article for the full story.",
@@ -33,18 +33,6 @@
     "summary": "quasa.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkV2V0lzVzhvSE1NZU1TSVR2d3JWNGFNZmxXRUhKTG0zWm94Z2lnSG9aS2ZKeldBYTVwckphTXJuQWRzZUprS2NnRGR4dGdlVEw3TGlkV1FpdkpHSmJfVmgzZlp6VmlPT1Rvb1RfQ3o2ZFVZanAtRFYyT0laWDlVRkV3ajRaZlpINVVVTQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 01, 12:10 AM ET",
-    "publishedAt": "2026-09-01T04:10:04+00:00",
-    "source": "indiantelevision.com",
-    "title": "‘AI timeout’: ChatGPT faces global outage as users report errors and slow responses",
-    "summary": "indiantelevision.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmNGRmtOcHNaeE14bWtNdUJCUVVVZ09FajV4MWpxSVFZQ2hLRG0wSVhFdlF0dlItSXl3ZXl5MlJvb1dKN0RwMm96YmN0Y3JyNEtWYWNmSVJhQ21VeUpJMnc5ZjUzN1NZcmo5aXVnNExMVlQ3NklvcHI5RVNoWUFKVk9LQzVDZEN1Q0ZsSVRhTDZXSm5mWGNLek1rNVF6MmtWX2FhLW54UURpWHRiYmswd1ZrcG0?oc=5",
     "difficulty": "News"
   },
   {
@@ -112,9 +100,9 @@
     "label": "ChatGPT",
     "time": "Aug 31, 07:47 AM ET",
     "publishedAt": "2026-08-31T11:47:20+00:00",
-    "source": "tomsguide.com",
+    "source": "Tom's Guide",
     "title": "OpenAI is leaving Cursor in November — here are your 3 options",
-    "summary": "tomsguide.com is reporting this update. Open the article for the full story.",
+    "summary": "Tom's Guide is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFdfMHlUTzFnd1ExWDc2TG9fUFpOU1dnWlhLXzhHTk5FcFlmOXhrenRfNnRESlVjVEhyMmJVUjR6WUtTd21VVHlzTW1pSER5UThkTTRUeDBJOUtheFFqU0NQSnlCNnlHa0xhMjIwWWlJOC1JR05STHY5YUNlMWpFU0d4d3AwVjA3cjlyRjhhT2t1bVU?oc=5",
     "difficulty": "News"
@@ -124,9 +112,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 31, 07:47 AM ET",
     "publishedAt": "2026-08-31T11:47:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOakJvcmFsZzJydGVBaFEyS0dVbm13MkU3UTdCWkFxdTdpbzVxbHJobTViZ29CeGZ5U0ZCblJaQ0RQT1Q4cnUzbkMyNTRnZDEwVjFYSmJ2eGl6N0pidFZuY2k2aHY3Z2FGcXhRRHpLTkR6bUlYd25DUTJIbXhDRElLaUtJZw?oc=5",
     "difficulty": "News"
@@ -136,9 +124,9 @@
     "label": "Claude Code",
     "time": "Aug 31, 07:31 AM ET",
     "publishedAt": "2026-08-31T11:31:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDhmbjlyTTFDYVc3aXlGU3ktMmtQOXpzVW5XTHM0S01aMzFQQTlsZkVFNndkOHJwRDZjY2RPcm9fU0ZUUjNTTlRiYW5tWDlhaHBuOGxHV1FxLS15c0RTSHFSU1VPaXFHalRtcUlWbl84RElKcmFmOVFiU1NZUTI2c0RTT1Y?oc=5",
     "difficulty": "News"
@@ -168,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 29, 03:04 PM ET",
-    "publishedAt": "2026-08-29T19:04:54+00:00",
-    "source": "ScienceBlog.com",
-    "title": "A $200 ChatGPT Pro subscription could represent as much as $14,000 a month in equivalent API-priced usage if pushed to its limits, according to SemiAnalysis — a striking illustration of how heavily flat-rate AI plans can subsidise their biggest users",
-    "summary": "ScienceBlog.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQSnNyNEFyZTRfZ2VUNldBTzR5YWN4V2JzcXQ0Q0g5SmZMeVBOcHR3Um80TFpWOTJIS1dBNU5qdXkzM05hYW9NRUZ3T1owM25QdzhjWldLS2dsQkpWNmR3WGhEZDczLV9MT3VOOHdSdzMxdW4wakt5cVUzSlhzdmFsUUtKQXJWZTdockFwRVhid2Nja0plbWNobF82QVlYRDVVRlNwSVgzVU1pSUs4U3RELW1KWmVOME40bVhtVUlBSzRVcTROV0pSWE1pWUtGbWtVelZFaGVfbDlhaW9GNGJ6WlFrdjZweWIwNVh1dWdnbW5ocEVkYTc1bmNlSmxaWE5rSHY2TWdpX1QtUTJjWm5aWm9JT1paQkpMMFV2QVBzaWtsR1J1ZHoyalFobTkyWTdK?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Aug 29, 10:30 AM ET",
@@ -204,13 +180,25 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 29, 08:53 AM ET",
+    "publishedAt": "2026-08-29T12:53:55+00:00",
+    "source": "Buttondown",
+    "title": "D.A.D.: OpenAI Cuts Off Cursor After SpaceX Buys It — 8/29",
+    "summary": "Buttondown is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWJ1UEY4NjIydnVGaWFxcXJWUE8wdDY2SktHaVZ1NjQ1OFQtYktaR0xYYnlUMWk1UUNHdERZTnpBLTlieUN6V1I3WTRLOUVJNHVKUWp2MFQtMmdDa1dCOFBac2hlXy16ZmQ2UEY3eTVMZGpGalBDcEwySDB3LTlHY3VRYXE0V25KVldNTHlJdnBXbmVsX3Uxag?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 28, 09:46 PM ET",
     "publishedAt": "2026-08-29T01:46:12+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
     "difficulty": "News"
@@ -220,9 +208,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 28, 09:14 PM ET",
     "publishedAt": "2026-08-29T01:14:00+00:00",
-    "source": "startupfortune.com",
+    "source": "Startup Fortune",
     "title": "Russian Hackers Tricked Cursor's AI Agent Into Breaching Six Companies",
-    "summary": "startupfortune.com is reporting this update. Open the article for the full story.",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzlIQ24wYk5aUzFqaU1kTFVTb2NtOVpOSW9ZcGpBbEZKbEdvVV8zMlRjeHRLVGk5R0trcU1HTVU0OGF3V0M4bVZhNTdGQnV4Ny1kQnhyampGWmgxc3VNeFZKc2JTdkhkR1J5d0lrb1oyUHJHZC0wUy1uV0ZwQm1QM24tT29lYzlGbkRDNnJwUjlSM3dxYzg0d2hVSWo0QQ?oc=5",
     "difficulty": "News"
@@ -264,39 +252,27 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 28, 03:57 AM ET",
+    "publishedAt": "2026-08-28T07:57:56+00:00",
+    "source": "tech-insider.org",
+    "title": "Google Gemini AI Pro & Ultra for Less in 2026: U7BUY Review",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yQlVNdUxZLVRDdDB4NjZfZFJpdmdqX1ZYYXRNX0MxbXlOVV94UGotcTdsZHZTTUZna3NrOFhWMnB1eUFva0RpZjNPYWxJMmdIakRfa2JKZzNuU3c4MGRKbjBrMVY0d1BHeVQyUU1IeHN6bmNRYXVQWXYyYw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 27, 06:09 PM ET",
     "publishedAt": "2026-08-27T22:09:50+00:00",
-    "source": "Reuters",
+    "source": "reuters.com",
     "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-    "summary": "Reuters is reporting this update. Open the article for the full story.",
+    "summary": "reuters.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 27, 03:05 PM ET",
-    "publishedAt": "2026-08-27T19:05:00+00:00",
-    "source": "Meduza",
-    "title": "Reuters: Russian-speaking hackers breached seven companies by tricking the AI agent in Cursor, the coding tool now owned by Elon Musk’s SpaceX, into thinking the attacks were a test",
-    "summary": "Meduza is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOOG5zZVVpT2dCNV9jeTVpRW5XSnFnRHg2T0dPY3JBT3M3Y0FYdVl5M2hMMnp6M1dLYWZzVV8zWUdwcEx1Z29OVENyLTlmQjZDeW5FM0RGdUtoQXBXT0VIUVp1eTdCckVGQUM1WGpPbUUxTTg0MXV1Ml94WklFVmNLZmM2bFYxNmdQUDBtdFJSRTlyV2phTDdLcFJkN0VCdzZyajJ2bi11eUtVMEVRVEVVTWVha0RjY3lWV1haT3BOMnI5ZVFUWVZpUzNIcXBhRXNmWUpSM2lCbHRIV1RjYWtpRHlHRExIR19BUEUzelRoTUpPVWM0WVhEVjFUc1dEM2JXdTVKWWpuN2JsTXBzZ0VLUkFEdU1lemx5a2NwYnNDekJxZkc2amNlZlhObk5obWY5VklVaXVIUG1qOEXSAcACQVVfeXFMTlp4b0hmckQ1Y1lCN3JZY1VURmJ4dkgwZ2c0SXlRdWNZTUhmT3RrOURZeUhFNVhPOEpCbFY3SU5xT2FqUy1wSUR6TmFEZWN0a2dKeHFzd3JETEZuYmVLSE9qaVdzQ3VYYzE0T0poLW4yOTlSNEIxcVpPV1NMRUg5ZGpwZTVxOVhaWlJiWjdTTlRyVUFXZHZQVGxrTXJvQnBPSERwMERTenZZcGpkRFhkQ1BPVVczaXppekpGT0ZEVjRyVG05Q21jU19FVWQ1N1hBaHZzc2NEVnBiSFJ3UHpDWUVaX3JUNWRHVDh2YnpZMWpyYmdZVF9sSTZmeHZZcDFCWlh6MEJiT1Qwb1MzbUpvdGMtWVA5YzByTzlnZ1NtNkdrRmtQcnRiQVlxRnEwaThYZVNndzVyMU5LUFJXek5JUWg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 27, 01:05 PM ET",
-    "publishedAt": "2026-08-27T17:05:51+00:00",
-    "source": "the-decoder.com",
-    "title": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV3BwUzRIMlphU0ZCdGRQLW1wdkNUSHNEeDUyME50Zlp2QVNRcENyUnRJby1Zak5oSFR1dHFudlpaX29xampXekVWSjRMcGd0WjZjNVlGazhKUndNZzhQTWJQbnZsVERtOGRSdUdSZE8xbE01SmtoeVRzNlJBZE1oWXRNd3FOZmItaUJvcUUwTGlMZWRuWW9OXzc4akladDFVVEpkVXphS1NpZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +357,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 12, 03:00 AM ET",
+    "publishedAt": "2026-08-12T07:00:00+00:00",
+    "source": "The Hacker News",
+    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
   }
 ]
