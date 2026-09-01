@@ -1,5 +1,65 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 01, 02:41 PM ET",
+    "publishedAt": "2026-09-01T18:41:21+00:00",
+    "source": "VentureBeat",
+    "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWthd1kzYVd1aVdMV05kS1JTUFFCRGdhalRUOXlyUE5nVVJPMURrSGZ1SzdBMkw2eG5CLTJQZnRPSEp5QzR3T0x1SG9TRlFGa0h3NUVDNVZ6b0U2VGJhcHJPZ2g1MnptckE5dUd1dnZ3REpyMXg3RnQ1eHJCME1JTEhiVVVteFMyTVlWaW56RDZMc2ozV3NtZzc4ODk1NW10MGM4dUNBX0VBLUhPcjR1YW1BUTBjdC1vTHB1cUpyVTFsdmpZRFlnV0RQQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 01, 02:24 PM ET",
+    "publishedAt": "2026-09-01T18:24:00+00:00",
+    "source": "BeInCrypto",
+    "title": "Anthropic Launches Claude Fable 5.1: Can It Stop AI Copycats?",
+    "summary": "BeInCrypto is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51TFZEZ0RPWDBuUWJRbVdKTTAtM1Z0c2xwU3hPNEZJaVZwNlJydEItcTdfWWFtdjhQUnJyZndiRjdFdHQ5WDJWNzZuZnU2dHl2dC1vU1UwRFpPNzdVM3V1cVQ2MlMzRXUxVWlya0szNE13dFE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 01, 01:54 PM ET",
+    "publishedAt": "2026-09-01T17:54:22+00:00",
+    "source": "BleepingComputer",
+    "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
+    "summary": "BleepingComputer is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbTQwVXNqZFMwYXVLTExCRFJVeXJvdUQwbDZJd1dtYWVXVnNLQ2hzUHdnaDgzQ0M2cmVzOFI0QUlvZndJdEY3WHc2NUlzaGQ1WG9yNnZmM1BMZF9DMmxoYWZSRkI1YmdBQkVwWUhnU2h6enBIaGlOV2tPektrRWpQVWV0NUhnNEJsYzVHcnNsSDNDcV9lVVlVWm84Zkw3WEl1QS11TjJMQUxmeXVwTEHSAbMBQVVfeXFMT1NCZzBtQmpkbzhBYTRNV3dXWDNvWUFxVkZoMUo2STRBTGs4dE1idlpMeUtkaWdBMlZUU2JpSWZxRTlUYkQwTE9xMFNDWWEtOEZsYzNMNWVKR0FfQ3paWVVrME12WWRSSG9LYkFKSDNJOGZJb2pfYVEtcFdvWkp1UHZaQ0FUXzIxT3J5ZWE5R3hhZUZSVFRvSmpFb3c1QVlBRG5pMnpOTDdQVHZhTFlaSUM5clE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 01, 12:11 PM ET",
+    "publishedAt": "2026-09-01T16:11:50+00:00",
+    "source": "Tech Times",
+    "title": "Summarizing Website in Claude Code Auto Mode Can Compromise Your Machine; No Fix Planned",
+    "summary": "Tech Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc3p1SGhSbXp4dmt2YnpRWVhvcE44VDNpby1pU2RKS2Vwd1BpYm1fUDRrcHdGSTRUTTNRbVVsNVpfVGtIZkg1dWRoZ1lRQmlRdVdkcFZnZ0RIb1NpRmtOdFZtSDBtelQ1Sjd0MWlZQjc4T2ZKZmRlcEtpT3RYdWxtOGVMc1d2WTQ1cnRiQ3lFYjFmRTFvUDJBaXR0SkY4dzZ2Sm9KNEh5VkNhb1FGSWtFM2hRblByckRpY0NKckRac21CTFdQci00VEZETUxTNUMxQ3hEOGJB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 01, 11:16 AM ET",
+    "publishedAt": "2026-09-01T15:16:07+00:00",
+    "source": "It's Nice That",
+    "title": "The Next Interface: Learn how Google Gemini is rethinking how we design and build for AI",
+    "summary": "It's Nice That is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2pPYWJuR1I3Vjk2SnlPQWlFQVRVa0dlX0l5cWp0cWZIeVVWeEQ1WnBfeFBoOTIzQmxDbG1IY2VFZzBGdjVnUzNrRlBqOGtDTWpqOW9oenI1SDN2VFpUREg5eUFiNVhfejRlQUh5RTJKTEl4azRLRnl5eUlId3lIR25rdmI0X3RheXVsZ25VRi1NX2hScUM5NkNn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 01, 07:02 AM ET",
@@ -38,30 +98,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Aug 31, 02:00 PM ET",
-    "publishedAt": "2026-08-31T18:00:12+00:00",
-    "source": "How-To Geek",
-    "title": "Stop writing prompts for Claude — you can now show it what you want done instead",
-    "summary": "How-To Geek is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UdnMzVmF2WEg5OXliVDViZ2c0Qkg3eW84WnlkY2pwbmNfRUo2WTZkM3RfVU5kLWpfQWFpVGZoZ1ZCejI2LTRrWUJ0X0gtVlBkSVdYQmdKaHRTYTRpVHRFYnc3Si1vd21PLVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 31, 12:27 PM ET",
-    "publishedAt": "2026-08-31T16:27:27+00:00",
-    "source": "TechRepublic",
-    "title": "Google Upgrades Gemini AI Video: What Omni 1.1 Changes for Creators",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOclUzV2ZMRlFLcGJWMS1RZHBHOGR3ZnhGVVhGMWlUT1VheXZvYVZQMnFTRlI2d0k5U19vdzI1dGVmckhkQjFHajNoeFZ1S1hTODllQkJFLU1uTVVEYjN3ZUZvWVJWWTNfalEyQ1NXdzRyQnZCNGJPdTBxTVlYbDNROXZ4UDVRWjUzSVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Aug 31, 11:57 AM ET",
     "publishedAt": "2026-08-31T15:57:39+00:00",
     "source": "saastr.com",
@@ -69,30 +105,6 @@
     "summary": "saastr.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVhQVXk4U0FvaWw5WThieUpXc1NPbWxlVWplVDdsbEFkTEw4Z2NETTFhRmE2ZXVBZUZoZXhiaXNpbkw3d2ttMVBweTNyRDN0US1YOVlpVHo2ajZ5N3VwTjhJNTVnNU8tNUp6M05wY2FVcEY2V0VUbjBxUlNiZjY0dGRPUF9OQzg1bWc3YmRTUDI3MG5KeVpJeGRtMWhvVzVKX3FZaGdaNUw1enU5dTJyeWJOdXE0SWFQN2lxaQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 31, 09:50 AM ET",
-    "publishedAt": "2026-08-31T13:50:33+00:00",
-    "source": "HackerNoon",
-    "title": "It Took Developers 24 Hours to Build Around Claude's Invisible Watermark",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWRUMUN3aUQxTzR6aTRzRkh6Ym93UjBXWFVmMUd2VkpBaTZkWnNhNEU2dEU2NHU1UlpwRi01b2EzMWpRQ1ZKdG9HQnR4Z2dpT2h5Z3pMajcwbE1Pc3J6YnlzMzFaRDNoMDdzTkh4Q0Y0MDRNMHc5QTBpNTFOVF95Ml9FSEg4ZFlQaUU4eVR2a19DQXc0d0s3ZUxB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 31, 09:46 AM ET",
-    "publishedAt": "2026-08-31T13:46:28+00:00",
-    "source": "incrypted",
-    "title": "Claude Academy is Open: How to Learn to Use Claude for Free and Earn Your First Badge",
-    "summary": "incrypted is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WVDg2QzVsRVY4RmptRk5VRkFJSlZPOWRYU2hRSVVvcFNscUdMRnBRcXdNNHpOLUZNQkNkQmNiS011THRCNUVhWjJCN19OSlNyT0ZZeUwtN3I?oc=5",
     "difficulty": "News"
   },
   {
@@ -112,9 +124,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 31, 07:47 AM ET",
     "publishedAt": "2026-08-31T11:47:00+00:00",
-    "source": "The Hacker News",
+    "source": "thehackernews.com",
     "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOakJvcmFsZzJydGVBaFEyS0dVbm13MkU3UTdCWkFxdTdpbzVxbHJobTViZ29CeGZ5U0ZCblJaQ0RQT1Q4cnUzbkMyNTRnZDEwVjFYSmJ2eGl6N0pidFZuY2k2aHY3Z2FGcXhRRHpLTkR6bUlYd25DUTJIbXhDRElLaUtJZw?oc=5",
     "difficulty": "News"
@@ -124,9 +136,9 @@
     "label": "Claude Code",
     "time": "Aug 31, 07:31 AM ET",
     "publishedAt": "2026-08-31T11:31:00+00:00",
-    "source": "The Hacker News",
+    "source": "thehackernews.com",
     "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDhmbjlyTTFDYVc3aXlGU3ktMmtQOXpzVW5XTHM0S01aMzFQQTlsZkVFNndkOHJwRDZjY2RPcm9fU0ZUUjNTTlRiYW5tWDlhaHBuOGxHV1FxLS15c0RTSHFSU1VPaXFHalRtcUlWbl84RElKcmFmOVFiU1NZUTI2c0RTT1Y?oc=5",
     "difficulty": "News"
@@ -136,11 +148,23 @@
     "label": "ChatGPT",
     "time": "Aug 30, 11:14 AM ET",
     "publishedAt": "2026-08-30T15:14:00+00:00",
-    "source": "24/7 Wall St.",
+    "source": "247wallst.com",
     "title": "Altman-Musk Feud Escalates as OpenAI Cuts Off Cursor Access After SpaceX Merger",
-    "summary": "24/7 Wall St. is reporting this update. Open the article for the full story.",
+    "summary": "247wallst.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY25lREx3YWV6Vks1QkNwRjNVSjFGN2E2Sk11VElTYm54QUZaOWxod1VJNG5HYTFmNEFHVW9leWpmejJ6S3hRSm5fUzNtZTgySWljUDFqb3JFM2xxY2FaSkdpOXRGMmxDa0pKZ1B2ZUNEOUFkZUdzTFNMaVFBUDgzT1QzT2U5ZUdvb25XdnlFWG1WUmFwUW9MOG9zVEZTN3RJYmwyd05idWxKM3BnQTJ3V0FWRVFscmtEZFRkOURXQlU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 30, 05:49 AM ET",
+    "publishedAt": "2026-08-30T09:49:45+00:00",
+    "source": "tech-insider.org",
+    "title": "Gemini 3.7 Flash Price Cut: 50% Off AI Costs [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNDBxeUgzQlJSQl9lMmpvdEtEUlRqSjNWa29xUFRpM0VLUzVVVWxBUEtlZHRUaGhhWThERFNjOVpWcVRfc053Z0RaVUhPajZBd0FUc2U4NHMycThtTmVRRERPeXp1d1lIejNRZjBiTDJZUE1u?oc=5",
     "difficulty": "News"
   },
   {
@@ -220,9 +244,9 @@
     "label": "Gemini",
     "time": "Aug 28, 05:49 PM ET",
     "publishedAt": "2026-08-28T21:49:31+00:00",
-    "source": "northeasttimes.com",
+    "source": "Northeast Times",
     "title": "Google’s Gemini Omni 1.1 Flash brings controllable AI video to developers",
-    "summary": "northeasttimes.com is reporting this update. Open the article for the full story.",
+    "summary": "Northeast Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWkxQXR0aWl5aWs2RTJSeTIzc0pSandYb1BNTnIwZ0NTLUFRQjl5b1dCb25wRjd0MTFxdnFfMEtQbWZuSFBIV0xhbzVQblRyTlJhZ0F3MV9ZM3Zfdk5fbEZkZ0V5MTRRdWZPUllRV1RBQnNndFNSSmhHaGVQODZtc3hteG5YMC1LRnk1VzhOWnFBODU1S1BDMFhUNHR2YTQtOWtxLWRRa3dvaW1WYnk3bXNR?oc=5",
     "difficulty": "News"
@@ -252,27 +276,27 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 28, 03:57 AM ET",
-    "publishedAt": "2026-08-28T07:57:56+00:00",
-    "source": "tech-insider.org",
-    "title": "Google Gemini AI Pro & Ultra for Less in 2026: U7BUY Review",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yQlVNdUxZLVRDdDB4NjZfZFJpdmdqX1ZYYXRNX0MxbXlOVV94UGotcTdsZHZTTUZna3NrOFhWMnB1eUFva0RpZjNPYWxJMmdIakRfa2JKZzNuU3c4MGRKbjBrMVY0d1BHeVQyUU1IeHN6bmNRYXVQWXYyYw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 27, 06:09 PM ET",
     "publishedAt": "2026-08-27T22:09:50+00:00",
-    "source": "reuters.com",
+    "source": "Reuters",
     "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-    "summary": "reuters.com is reporting this update. Open the article for the full story.",
+    "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 27, 01:05 PM ET",
+    "publishedAt": "2026-08-27T17:05:51+00:00",
+    "source": "the-decoder.com",
+    "title": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV3BwUzRIMlphU0ZCdGRQLW1wdkNUSHNEeDUyME50Zlp2QVNRcENyUnRJby1Zak5oSFR1dHFudlpaX29xampXekVWSjRMcGd0WjZjNVlGazhKUndNZzhQTWJQbnZsVERtOGRSdUdSZE8xbE01SmtoeVRzNlJBZE1oWXRNd3FOZmItaUJvcUUwTGlMZWRuWW9OXzc4akladDFVVEpkVXphS1NpZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -297,18 +321,6 @@
     "summary": "Ars Technica is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGx5ZU85MkhfYTUweHk3X2NteExrRTRxRUlGOTZ5QVVIalBjcDlVSGhKRkJzV1BuMG5RSm9ZXzhqYlNBMU1HYW9TS0JpZ1F6dGV2a3EyRC1qTk50Z0dxWDJ0MzBZQ1g4OXEzbThidVcxUFRHeWhvLXBUcC1yUUx6ZG9GOFZpVGdxN2h5YmtBTDVFd1ZyY1NSdUV2TDc5cmpZdnctREN1Yw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 26, 01:05 PM ET",
-    "publishedAt": "2026-08-26T17:05:01+00:00",
-    "source": "blog.google",
-    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVdaMzFHdEV4UEVtOUFac1BLQnUwVlg3NTZFa1BXM2xheWt5bkVtSWhNZkdONEJNN1ZtYzgtSnNaNGZRZG05eTEtX3RNaUd1NEZuU2piMHdQZnEyUzNDSWc4OTdQNW1qTkhvNGhNSlFSeGZaQ0Z3eHZzM3BIUEZwQjM5N1hUR3plTVN6c0t2VUl5Ykx0Q0RLcFhB?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,18 +369,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 12, 03:00 AM ET",
-    "publishedAt": "2026-08-12T07:00:00+00:00",
-    "source": "The Hacker News",
-    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5",
     "difficulty": "News"
   }
 ]
