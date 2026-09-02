@@ -1,26 +1,50 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 01, 06:33 PM ET",
-    "publishedAt": "2026-09-01T22:33:01+00:00",
-    "source": "Unite.AI",
-    "title": "Anthropic Debuts Claude Fable 5.1 and Mythos 5.1 With Split Safeguards",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 02, 12:06 AM ET",
+    "publishedAt": "2026-09-02T04:06:00+00:00",
+    "source": "finance.biggo.com",
+    "title": "Google Adds Autonomous Video Analysis to Gemini, Cutting Long-Form Video Costs by Up to 66%",
+    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWRzbDFPazc1OFAwc3M0MzVjMmx6cV9QcjZTTjNpSks3VzQ1Uld1V2hxOGJNZHRaVGd5SUdPek84U0JEWlQ1bDl5U2NiUWg5elRYcDdQT0N2YlRVbGl6RTF0TzBEeFdXNmpWQk53UzMzc3lBclRERVRNcUtCclJJUE13LUU5Q1lkZ29iOXN0TUFsR0pJY0ZF?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wWGdxT0h4OUNUZW44c3VEYTdPRHg0YmJ3THlud3QzQVFKMUc0MzNHMl95SV9JbnJ2TEozZWFfWnRKNVV2R1JVZlJ1ZlN2OXdJa3l1TTB2dUJHcGV3WlM1MFlfQVFROVlyQzN2S01zV3gtRVppb2c?oc=5",
     "difficulty": "News"
   },
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 01, 04:33 PM ET",
-    "publishedAt": "2026-09-01T20:33:08+00:00",
-    "source": "the-decoder.com",
-    "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "time": "Sep 01, 09:44 PM ET",
+    "publishedAt": "2026-09-02T01:44:06+00:00",
+    "source": "NewsCord",
+    "title": "Anthropic Launches Claude Fable 5.1 And Claude Mythos 5.1, Cutting Cache Read Pricing 75%: 12 outlets compared",
+    "summary": "NewsCord is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRnp1eXc3c2lFVmFzbDZLb3p6aU5JN0lqS2F6SDROdGhyVWV4VU1zOHotLXNmQkhxUUNvbHFicUZxcnBYTzBETkdKZ0ViMUlUS2paTkY5TmZZSzcwM29KRE44UWRIcU5CMldPRUR6U3o1R3RxSlRhQW95VHNqYnYyMjNoY2RuZDV3VjV6NmVEQzg0N1B6bEhvSDM4d0ZOUmxjV2owcmZRdm5mUEVNMG9WT0xxYw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZUxfQzk3eUowZmgxM2E4dVoyY0VZbVJEaENsSG9RT3l1NXY4U2huR2c2ZXNYUHZXcVhWOU9fQ204aVlKWGxCa3Q0Nl9aX1hMcm9wc1VQd0RYUEdIQnp4NTgxeHRlT0hZdDJhdEF1TzJkb2dPZG42cks5Z0lFempiMlJVN0RURXVva05VbXpfUm83R1h1OHZJUGNzeHZwZXJFWGVFbDJoN0RvbTZoSlFZMkExTEVpMU80SG1QNEtyMlFwRGpabFBCbk5DZ09NZ0ZBMzROUnhTb3FlSndYZVpveW1laC1wM1Y5cXc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 01, 08:03 PM ET",
+    "publishedAt": "2026-09-02T00:03:32+00:00",
+    "source": "TestingCatalog AI News",
+    "title": "Anthropic launches Claude Fable 5.1 and Mythos 5.1",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNXJxaUtzYjd4SHRCemZwLTdabm92OTg3eXc1YXN0ZnNEVUNsZ005TkJEM2dQa0djRGhlZGN5YTVIRFNzc0JCS3dITXd1ekJEM2dEclo3LVE1WllGTWZLWFZKM3I3WlduRkJ1SEliSHBQcFZ2Vmp2SERPWTVqeWI5UmZFMnN6dmpmX0E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 01, 04:57 PM ET",
+    "publishedAt": "2026-09-01T20:57:43+00:00",
+    "source": "blog.google",
+    "title": "The latest AI news we announced in August 2026",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZGNXVG5UUmlUM1EzRkdxeWlFdEhUWDJKTmxjUk1sejZOT2JpS0h0bGplM0xZUnFLR0tJdERPbEZvUXlabjVKTXJhakdRMzA4UHZTRWhzME8tUE94TDZXc0REQlRCN1h2ZHlBYURDaVhnTXdjaGN2LVpGQXNMNXJEc256WE9odw?oc=5",
     "difficulty": "News"
   },
   {
@@ -38,37 +62,37 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 01, 03:30 PM ET",
-    "publishedAt": "2026-09-01T19:30:00+00:00",
-    "source": "Neowin",
-    "title": "Anthropic launches Claude Fable 5.1 and Mythos 5.1 with lower costs and fewer restrictions",
-    "summary": "Neowin is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdV9CRjZaSzlsTi1rYmdhQzJ1S0F4ejFOLVhvajZBbjh2VDc3NTFCazh5ci1ESW1iTGJXbzRGZzVLdmtOM1FIazNJNlVLVUdZd1lKZmsyTVprR1d3ZEJ0YWNYQndYeGVGclZxZEFzVWxXR3dyOGh6dG9RWWFDUzBKTDR6UTdJSGZmNE84N2tQSGxENU9vN1MxbXFjbkcyVEpIVEUwY011elNUVUFzVm5yMGZxbF9xVWla?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Sep 01, 03:29 PM ET",
     "publishedAt": "2026-09-01T19:29:12+00:00",
-    "source": "Decrypt",
+    "source": "Yahoo Tech",
     "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
-    "summary": "Decrypt is reporting this update. Open the article for the full story.",
+    "summary": "Yahoo Tech is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43bmJ1em1mUk9FdkRMWnJfR1Z3aVJxMG55dUhxUFdkZ2N1d2V6S2dDTm03ZFJoc0N3VTNRc1Qxc0xsaEFPQ3R6c3g1ZGpQNTFyTlRnXzNIQlVpOGdrUUhza1dR0gFqQVVfeXFMTWIyNlU4Y0JxcEdxUVhfR0s5S053Y2RWR1p4eWUtNmg3WDNpc3N5c1hkaFR4aVZCOGRhY0lPM2EtZEhSbDVDNDF3MUhkdVplTF85TkltSFZrYUN4Vy1UMUVHcEQ0dnBSQVdwUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1ZySTRlQTdrTV9vb2ROdzBSU0tRMkhXNGVXNHVaaGRmNDJCMUxoNTJObHFhN0wzTDVaaE16NV9YV0NKVnRoNUJ4VFJMNVpKRkczZUUzZXdvcHVJdHNoeTRhX3hBQW1WZXRJbGd3MEdNTldwVnpCZUVsaVdnMEMwUmd5ZTY3ajg0WHlRUVExcHI?oc=5",
     "difficulty": "News"
   },
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 01, 03:22 PM ET",
-    "publishedAt": "2026-09-01T19:22:00+00:00",
-    "source": "TradingView",
-    "title": "Anthropic Reportedly Rolls Back Data Retention Policy After Customer Pushback — It Also Launches New Claude Models",
-    "summary": "TradingView is reporting this update. Open the article for the full story.",
+    "time": "Sep 01, 03:12 PM ET",
+    "publishedAt": "2026-09-01T19:12:43+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Introducing Claude Fable 5.1 on AWS",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQkNtc0lTSnpCdDB6Vy1ZWWFya0pLZl9raE9FQ0h4OXhvVkxET0YzTEdieGVhbmtWUnZxTWlPYUQ0YXl5ZFBEaktrdklmcUZFTnRZZ01KSWp5V2l4NWJGTi11QkVSLXdrVWZHNnVhYUZOSGJYV1FYbEhvb1ExNktJZUlCdFREdU4tSDlIUGFPLU1xVjQxSHRpOWZ0RHhicGU4ZGlYcTd4OV85Nm94a18zWFFGbmN6OXBEUkEwNHRSYXhRSS1oNkJwV3hsZzdyVk81OWRaaEVIMVRCUmQ4Wkh0U2RhOTdwSk54ZGJaRXlSRkZBSDB1RTJtQ3FqVU1PdjltUk80?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRktHdVJiSWtrU2l4ZnJ6a3R5OXo1QzVoWjF0WjMwTUFkU1hPeGFKRC03UWpMMGNkYzdidTlBWUJacVFpRGxuMDRaNW5xcm9DRmxWSnpyZTNiTHhpb3ZjT2xlV1lJdXIwR2NNUEljcjAxenlKcDhackkyc1dUazdYeDU3SngySEFmcVE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 01, 02:41 PM ET",
+    "publishedAt": "2026-09-01T18:41:21+00:00",
+    "source": "VentureBeat",
+    "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWthd1kzYVd1aVdMV05kS1JTUFFCRGdhalRUOXlyUE5nVVJPMURrSGZ1SzdBMkw2eG5CLTJQZnRPSEp5QzR3T0x1SG9TRlFGa0h3NUVDNVZ6b0U2VGJhcHJPZ2g1MnptckE5dUd1dnZ3REpyMXg3RnQ1eHJCME1JTEhiVVVteFMyTVlWaW56RDZMc2ozV3NtZzc4ODk1NW10MGM4dUNBX0VBLUhPcjR1YW1BUTBjdC1vTHB1cUpyVTFsdmpZRFlnV0RQQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -81,18 +105,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 01, 01:54 PM ET",
-    "publishedAt": "2026-09-01T17:54:22+00:00",
-    "source": "BleepingComputer",
-    "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-    "summary": "BleepingComputer is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbTQwVXNqZFMwYXVLTExCRFJVeXJvdUQwbDZJd1dtYWVXVnNLQ2hzUHdnaDgzQ0M2cmVzOFI0QUlvZndJdEY3WHc2NUlzaGQ1WG9yNnZmM1BMZF9DMmxoYWZSRkI1YmdBQkVwWUhnU2h6enBIaGlOV2tPektrRWpQVWV0NUhnNEJsYzVHcnNsSDNDcV9lVVlVWm84Zkw3WEl1QS11TjJMQUxmeXVwTEHSAbMBQVVfeXFMT1NCZzBtQmpkbzhBYTRNV3dXWDNvWUFxVkZoMUo2STRBTGs4dE1idlpMeUtkaWdBMlZUU2JpSWZxRTlUYkQwTE9xMFNDWWEtOEZsYzNMNWVKR0FfQ3paWVVrME12WWRSSG9LYkFKSDNJOGZJb2pfYVEtcFdvWkp1UHZaQ0FUXzIxT3J5ZWE5R3hhZUZSVFRvSmpFb3c1QVlBRG5pMnpOTDdQVHZhTFlaSUM5clE?oc=5",
     "difficulty": "News"
   },
   {
@@ -112,9 +124,9 @@
     "label": "Gemini",
     "time": "Sep 01, 11:16 AM ET",
     "publishedAt": "2026-09-01T15:16:07+00:00",
-    "source": "It's Nice That",
+    "source": "itsnicethat.com",
     "title": "The Next Interface: Learn how Google Gemini is rethinking how we design and build for AI",
-    "summary": "It's Nice That is reporting this update. Open the article for the full story.",
+    "summary": "itsnicethat.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2pPYWJuR1I3Vjk2SnlPQWlFQVRVa0dlX0l5cWp0cWZIeVVWeEQ1WnBfeFBoOTIzQmxDbG1IY2VFZzBGdjVnUzNrRlBqOGtDTWpqOW9oenI1SDN2VFpUREg5eUFiNVhfejRlQUh5RTJKTEl4azRLRnl5eUlId3lIR25rdmI0X3RheXVsZ25VRi1NX2hScUM5NkNn?oc=5",
     "difficulty": "News"
@@ -129,42 +141,6 @@
     "summary": "UC Today is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMnFsVTdqaWtHSE9odnZDRmtCWDljVDc1a3FSZERPczVhX19qY0x5Z0RzaUEtVGt4VDhuaHJvTDgyOUpoeWkyMUJCb1hfU09XcGpTUTUxbUZHM1NScm5lSFpERjNLSEZ0TWlQcjZOcGh1TVJ3QklLVWhVeGNQMkE0WDZR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 01, 12:37 AM ET",
-    "publishedAt": "2026-09-01T04:37:44+00:00",
-    "source": "quasa.io",
-    "title": "OpenAI Opens Brazil Operation After 215M Daily Messages",
-    "summary": "quasa.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkV2V0lzVzhvSE1NZU1TSVR2d3JWNGFNZmxXRUhKTG0zWm94Z2lnSG9aS2ZKeldBYTVwckphTXJuQWRzZUprS2NnRGR4dGdlVEw3TGlkV1FpdkpHSmJfVmgzZlp6VmlPT1Rvb1RfQ3o2ZFVZanAtRFYyT0laWDlVRkV3ajRaZlpINVVVTQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 31, 12:27 PM ET",
-    "publishedAt": "2026-08-31T16:27:27+00:00",
-    "source": "TechRepublic",
-    "title": "Google Upgrades Gemini AI Video: What Omni 1.1 Changes for Creators",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOclUzV2ZMRlFLcGJWMS1RZHBHOGR3ZnhGVVhGMWlUT1VheXZvYVZQMnFTRlI2d0k5U19vdzI1dGVmckhkQjFHajNoeFZ1S1hTODllQkJFLU1uTVVEYjN3ZUZvWVJWWTNfalEyQ1NXdzRyQnZCNGJPdTBxTVlYbDNROXZ4UDVRWjUzSVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 31, 07:47 AM ET",
-    "publishedAt": "2026-08-31T11:47:20+00:00",
-    "source": "Tom's Guide",
-    "title": "OpenAI is leaving Cursor in November — here are your 3 options",
-    "summary": "Tom's Guide is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFdfMHlUTzFnd1ExWDc2TG9fUFpOU1dnWlhLXzhHTk5FcFlmOXhrenRfNnRESlVjVEhyMmJVUjR6WUtTd21VVHlzTW1pSER5UThkTTRUeDBJOUtheFFqU0NQSnlCNnlHa0xhMjIwWWlJOC1JR05STHY5YUNlMWpFU0d4d3AwVjA3cjlyRjhhT2t1bVU?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 29, 10:30 AM ET",
-    "publishedAt": "2026-08-29T14:30:44+00:00",
-    "source": "MarkTechPost",
-    "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNmtNd1hBcDZTVlBZZUdMR0hhREhoeGpFbGJPcTVoV3l1MTIxZmh5SVhBcXlqbXdBaW5YWWhFTUVIVDU5YkVLY3Z4dDFsU012aW9GcDM5Q1l5ZDZlZGJyZXBNRVJnandtbjBnQmtOdTk3elNGNDlKYmkzSzlZMlI0bEl2T2g2UjVSQmhoRzYzWG93RElWczRGSEUyNUxtQVRiS2NSYlZxOFJxNklFR3Y5ZG5GYnlNYXdVMUNqZVA0OWdoak9UdDBSOFVJQjNFYXZYcEJnLURTdG9RV1d4TFA3b3hHNNIB6AFBVV95cUxQN3l1aHM3THIxeUd4U3FCX2RaUHZMaXNQZmVKbVZEc0gtbVUxVmdvcnhuZzdDc2RwbEFZVXBwcENXWjc2bTk1YjZxMzZhTDYtMUFxVXBqSHd4RDRVQU5hU3kzRkFTZXJTWFlQdFVlX1lzNnhyeU5lN0NTTzczUTJVdUNhTmFCeXNiaFNEWl9YenpXQ3JIcjVaZDFjS2pybVZBMTc5RzdsX0RmSzBFcnNjdGp0LTZwVGdzOEszcUZZSjZaWmpYMTlLMTJVMUhySTBndjlxVUhVMHJOdlhHaWhRTE1vMnNkZXky?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Aug 29, 09:34 AM ET",
@@ -237,18 +201,6 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSW9DTFA5MnJpYkdwbEhseWZmd0NOR2ZhUXVCWTF3NzJIUlB1S2xwOVVPRlg5bFFrVFNmRXljNktNY0RmVTJEc01xMUFKTHoxRlc1aVE1MXJ2Qlhrd0JTaHB5dk14YWZHVElidmZ6MHNPaVVLUkd0dVFXcjNOUFNLV0xiZm1WeGtaYlRFaWo2YUkxSjNJR2FERk9wdm82SmFadUlZMWdZQklKeFlLbFc3eWR0UkZRZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Aug 29, 08:53 AM ET",
-    "publishedAt": "2026-08-29T12:53:55+00:00",
-    "source": "Buttondown",
-    "title": "D.A.D.: OpenAI Cuts Off Cursor After SpaceX Buys It — 8/29",
-    "summary": "Buttondown is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWJ1UEY4NjIydnVGaWFxcXJWUE8wdDY2SktHaVZ1NjQ1OFQtYktaR0xYYnlUMWk1UUNHdERZTnpBLTlieUN6V1I3WTRLOUVJNHVKUWp2MFQtMmdDa1dCOFBac2hlXy16ZmQ2UEY3eTVMZGpGalBDcEwySDB3LTlHY3VRYXE0V25KVldNTHlJdnBXbmVsX3Uxag?oc=5",
     "difficulty": "News"
   },
   {
@@ -304,9 +256,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 28, 05:22 AM ET",
     "publishedAt": "2026-08-28T09:22:01+00:00",
-    "source": "technology.org",
+    "source": "Technology Org",
     "title": "Russian-Speaking Ransomware Crew Used Cursor AI to Break Into Seven Companies",
-    "summary": "technology.org is reporting this update. Open the article for the full story.",
+    "summary": "Technology Org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOE9heWRsckhKUjBrWmYyeEItUmZxRVZfLTJHQlBFV1hGWDA2a0ZxbzFYb2d2Qm5pcGZ1RDd5V0pvdVZiOXFlbHcya19Ka045Si1MSG5FdjdROXREV1k2OTBjNUM1SDNaMjZvdGpwQXB0b1lXbjZwMW1NMWt3b3JFU1Jvb0hfdW5aOXc?oc=5",
     "difficulty": "News"
@@ -350,13 +302,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Aug 20, 03:00 AM ET",
-    "publishedAt": "2026-08-20T07:00:00+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "time": "Aug 19, 03:00 AM ET",
+    "publishedAt": "2026-08-19T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Offering Zero Data Retention for frontier models",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFAzbUgyY293ZV9uTEdfaXJhcGwydW4xMXZmQ1J4RkxLVTdxR2J5MnhxbklrUFdmd0xOMzhsc1hJR2hiVktDWGFJVXlkVnBTblV4Sk4zcEpLbEdOSVFzWnExM1h4alo1eXE0RHV0WldxVUFmYzRDTy1RcFN6TXdiam9TaUJ1OGtyNTctdTBSbE1OM0x4MEV6Sk4zVkJtUHdoakc0ZU9Wa243TjN5dE5HRVlkVmx5YUI0RzJjYzZTM1RLQ2M?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94QkJmU0lSZG9WQ2xIeVMxWDhRaHVTZHFzRzZvd1E4WmpCRlNOaVlLNHhNMi01UEVuZHRFVlBwMVh1bHV6bG0zdk9kTU9RTEV3NnNvZkNoTjl3OW1rRmFiQTBGRVZ1UnUzTy1naXFNcmpOSEVGUmpYTE5ZV3l0c3M?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,6 +321,66 @@
     "summary": "GeekWire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 13, 03:00 AM ET",
+    "publishedAt": "2026-08-13T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 03:00 AM ET",
+    "publishedAt": "2026-07-30T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 29, 03:00 AM ET",
+    "publishedAt": "2026-07-29T07:00:00+00:00",
+    "source": "Business Insider",
+    "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Mar 13, 03:00 AM ET",
+    "publishedAt": "2026-03-13T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "How your data is used to improve model performance",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcEE2OHFVVC1CTkNXdzNFd2huWUtwcW9TRlhNRWd4ZVdWQldtMXl6SUd6MnNXS29BNm5xQmFsUG5waU42OHFfUkpDSUFBOTZPOWh0dkdoRzZGM0RtU2xyZVhVNXExLVE5SWJHQ3RhMW95RlhGTmwxai1QRVpRNnVid2x4YzltUQ?oc=5",
     "difficulty": "News"
   }
 ]
