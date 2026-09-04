@@ -2,13 +2,49 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Sep 03, 10:21 PM ET",
+    "publishedAt": "2026-09-04T02:21:10+00:00",
+    "source": "OpenAI",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 03, 09:53 PM ET",
+    "publishedAt": "2026-09-04T01:53:25+00:00",
+    "source": "NewsNation",
+    "title": "AI services return after morning outage hit Claude, ChatGPT",
+    "summary": "NewsNation is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxNGNJMTVOR1pRc0wwb2hDTjQzVFVEaGxKOFNCTnFqa243ZWRIY280YmJWYklveXNWOWtLbDAwbDRLSGxqTUZkV0h6VExQdXRhNnBRbEZHei1fZjZzOWhSaDJjcUx6YUFjRm9OdWJhZnRDdEpiLWxz0gF8QVVfeXFMTUE0MFJtU2hfUUFnU0lrQWlMM19mRUxsekNGRkZ6Y2kzaEMwUHBXS1AxYV83Rm01bXZXTFpLTXpESld4UEhqMmZBN0plRk1lVWxvWHhfZlVMQ29xRWE3NEpDbFktU3E5ZHdyalNsVEY5N3QzUmtLdFlYUUZBMQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Sep 03, 09:47 PM ET",
     "publishedAt": "2026-09-04T01:47:44+00:00",
-    "source": "marketscale.com",
+    "source": "MarketScale",
     "title": "OpenAI's GPT-6 Astra pitch is to skip integrations and run the software UI itself",
-    "summary": "marketscale.com is reporting this update. Open the article for the full story.",
+    "summary": "MarketScale is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeTl2V1BvTlBVb2lxM3k5TjdzV01jMUZ5X3VSQWtZejBGREZfaW5HZ2JybzFOSVM5VUNwN1lqSnNnSm9QUmUyM203ZkllZFk4NjRzYUY4WjNOSi1NcV9wWnNuNk9pakhUMXpEdDNuN09YclJHTHdqOWdzZ2RocVFJNDRab2pUZWhZWHFRU0hhSmtyNTZwMzlMREZCRlA2dlUwSHpFSm81Qkc5X0puaWdZUXhzQkdFY0xYcmxlWnpwTnhnSm5wOVhJMkZqUFNpRV9zNm10Znc3SldhWUk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 03, 08:17 PM ET",
+    "publishedAt": "2026-09-04T00:17:13+00:00",
+    "source": "tech-insider.org",
+    "title": "ChatGPT, Claude, Gemini Down: Outage Timeline [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sTUhyVUJCSlpYbzBtaGRDbGJRazYxRjhiTG91WTdHalZNWUU1RE9DVl9vV0djWDZYcFRnaHVEanZXUlBmTDVhcjBJVVhLWDNBbjNKLTg4UnNQRnpqemlMNmV5UW5uTFdIbkVPSFhScnVEUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -27,12 +63,24 @@
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 03, 06:08 PM ET",
-    "publishedAt": "2026-09-03T22:08:21+00:00",
+    "publishedAt": "2026-09-03T22:08:12+00:00",
     "source": "Yellow.com",
     "title": "OpenAI Launches GPT-6 Astra, Its Most Capable Model Yet",
     "summary": "Yellow.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yMGo0MTZydEpFV2ItLTB1TnE2NkxZblBucENRZkVaVHRTSVV5VWZFay1XTnFtMnFPUk1OVjQwR1RrLVRHZjl1c29kTVBrbUJfbmpRNw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 03, 06:05 PM ET",
+    "publishedAt": "2026-09-03T22:05:05+00:00",
+    "source": "Investing.com",
+    "title": "OpenAI launches GPT-6 Astra for enterprise users today",
+    "summary": "Investing.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWFnOThTZjRjNUtqQy14YXpELWpYaEdwOHd5WUFlRjJZdjRDZlkzREhZN0hKT1I2cHlZX3ZiTVVCU1lSeENMaHhKTFFjU3NHT1EwWm5ZS0lpRHIwY3BMaVE4ZGhESXRGMmVwSzB0a1c3bVktbUo1QlpXNHJwTDRPOXRUblJmcEMzQUxNRVh4dW95QmlGVEtVSXA3SV9QdG4tV2RWNVNBa0xvQWRlSWVLUG9tY192UQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -45,18 +93,6 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbC1hMkFydngzZzFNOVhaVkRJMWdlamN3WDhjTUNJYXEwZkZ2OEpqdXJ1emNSVnJuajZ0RTlrQWs3bjFGQmt1TllvUUVUWXBaTW1tQnpqUVBQZWdMbU1tRmw4LTg4b1ZrTUFlbVN1VXJNN2gwcHhjNTRXdUQwWFFhTTBfS1pXWDRuOTViTk1POTZQLWJIZUZnY1hEZllCOVpYTHRVQ19TM180VmhOLWdReFFmYw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 03, 02:10 PM ET",
-    "publishedAt": "2026-09-03T18:10:21+00:00",
-    "source": "Investing.com",
-    "title": "OpenAI launches GPT-6 Astra for enterprise users today",
-    "summary": "Investing.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWFnOThTZjRjNUtqQy14YXpELWpYaEdwOHd5WUFlRjJZdjRDZlkzREhZN0hKT1I2cHlZX3ZiTVVCU1lSeENMaHhKTFFjU3NHT1EwWm5ZS0lpRHIwY3BMaVE4ZGhESXRGMmVwSzB0a1c3bVktbUo1QlpXNHJwTDRPOXRUblJmcEMzQUxNRVh4dW95QmlGVEtVSXA3SV9QdG4tV2RWNVNBa0xvQWRlSWVLUG9tY192UQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -76,9 +112,9 @@
     "label": "ChatGPT",
     "time": "Sep 03, 02:00 PM ET",
     "publishedAt": "2026-09-03T18:00:02+00:00",
-    "source": "CNBC",
+    "source": "cnbc.com",
     "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "summary": "cnbc.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUlVPODl5bTBweko3Y1pHY1Y3RzZua3FHak9hVm5aa3hZWmNQcmVrVW1VMHdXME04cDJITVM4TmlBdUZWZ3JIQlgtdUZPMjlEd3pUdmNkV3BsT3FRMTEwNm1GcnRJU2NXeElBYVZhc9IBdEFVX3lxTE9NYUtIZlJ6NHoxSGladzc0bkc5Tm8xWjJkcHdJeHJHeUVfUlZ4b2ZoTC1ueE9HaEI4ZFZoUXAxUldGZHYweTd2ZEhtUkJiaFFid0FZdkdRS2Z1OV9NY2tzb3BKQW5wZGh0SER5aTlOdm9sbWVD?oc=5",
     "difficulty": "News"
@@ -120,25 +156,13 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 03, 09:48 AM ET",
-    "publishedAt": "2026-09-03T13:48:30+00:00",
-    "source": "SQ Magazine",
-    "title": "Claude Services Disrupted as Multiple Models Report Elevated Errors",
-    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xTjlLVHBEOTdndlZVaTJjMGMyd0ZUdmpTcVZLMFJxcUl4WlVySDlWdWthVDFjUHR5Z0tYTGU5VXQxNmY0Zno1dWlGdW5Nczhodmp3dWNERFNERFM1aTA1SWxqbW91LW4zR3hQcWltWDZSazhn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 03, 09:34 AM ET",
     "publishedAt": "2026-09-03T13:34:07+00:00",
-    "source": "helpnetsecurity.com",
+    "source": "Help Net Security",
     "title": "Google’s Gemini 3.8 Flash takes on bigger AI models at a lower cost",
-    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTE1jTnVvZGhWYmd3dzhHUTItNTNGbXBoSG53djFDMkRtVFFBMDU4ZFJvTE1FTmt4TWhOdGsyQWJwOW42M1Y0UVM2X3lwNy13cnB5RFZvaWZ0WF9tY01VQzdvdWc0LXpMXzJzbGs4TXk4SmJpLVE?oc=5",
     "difficulty": "News"
@@ -153,30 +177,6 @@
     "summary": "qz.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBka2M0SWhmeDc0MFBGRHJmZmJzUmdBR0lSamZjX2J2Q0NQRzFGOF9nLVJ2dmhXRzIwdDkxb0lJUGxhQVhZMlA3NVVQeE96bDhkYlRxeHk3UnhPYld2cUxVSE5Mb0dXaXMyQ1g0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 03, 06:13 AM ET",
-    "publishedAt": "2026-09-03T10:13:24+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Build Claude Code Skills: 12 Steps, 90 Min [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pZVhSaFloR1RhdGJXNHpTWGtIWEZfU2lBSUZPUm9sX01MUjI2Qkw5R2xuOUtObmp4aGhoM2JDTFpSdW5zRFBSQjY2MmxwcDZ0UDhicDh3R2pPdl9Bd0lyNlBUcTRLQkUxa0taZW1ITQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 03, 04:30 AM ET",
-    "publishedAt": "2026-09-03T08:30:48+00:00",
-    "source": "Techzine Global",
-    "title": "Google Gemini 3.8 Flash is a better, more autonomous coder",
-    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdXBvME51Y3JfbVphS2Rhdk5YM2swckRvTElqYmFGS1ZndHZvdFJqdjN1cUJLNTAxcE9mcFhFbDE3S0kyYlRVb1BTLXdVNG1LT2YxNTFQZ2ZVbE9uYlBYaENRdi1GbldMNzZIMXdMekZNM3VpSGUzanJBQ1FzYzF2VzdIVk9Fb0pqOUlsTFhGSzQtcHpMYmt3UzFyNFdwSm5kTlE?oc=5",
     "difficulty": "News"
   },
   {
@@ -208,9 +208,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 02, 04:30 PM ET",
     "publishedAt": "2026-09-02T20:30:01+00:00",
-    "source": "CNBC",
+    "source": "cnbc.com",
     "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "summary": "cnbc.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM21LX2w1UUF2N2t0X1ZKaEgzZW5BcEpuV1NhT2ZQelZIclZ3b05RWEEwT3VVWFEtclNHRmxMbXZYUG42bUZ5b0EzQXJqQll0amsxMTJfM2tGS284S0k3YXNtdkpWelFfaWxEbjE3Y2JGbzhhaktxd3B6Qi16SVVlS2FTeDRJbi1qQmFuVXg5WTZoeTctbmZzLXZlTmJ6ZXAw0gGmAUFVX3lxTFBfdmpXaW9SdzVILTE1UGpzZVhtUkwtUm1feGtTc1djeEY3R0NyQkUybVZWNm0xMTFLLW5ubHhHa1V2cE1RalJuWnJHWkpFcEFZVnBfWXdOUWhWcE9xcDdndTJXQzhZeXk0c2NJbkthTFFqOW1WcWwxTWNndDFYQ0JBaWhpaFlkNnRQbXhrdWhybGRwUTlrSDJKcW1Nak96VjZJRExSWUE?oc=5",
     "difficulty": "News"
@@ -225,18 +225,6 @@
     "summary": "Ars Technica is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFlIZmg0d05aalJ6azg1YmtNZVRORUtUd0ZTcGo0VmRjUDVOSGpfdGk2alVQd1hlWnlBbEhOOUsxUW90MHc3WWhxcmhwd1dMd05iUWp1TkZiN1pZOGVfcDVja0RDX2lKTlVBUFd1VllTR0RqV3lpVVJpd2R1U2lDUDdDcmRIejBZZGlZSEdhVE44X0t3TVRWMXg2dEFrdlYydG1xZDhR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 02, 06:20 AM ET",
-    "publishedAt": "2026-09-02T10:20:27+00:00",
-    "source": "OpenAI",
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5",
     "difficulty": "News"
   },
   {
