@@ -2,8 +2,20 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 04, 12:53 PM ET",
-    "publishedAt": "2026-09-04T16:53:04+00:00",
+    "time": "Sep 04, 02:21 PM ET",
+    "publishedAt": "2026-09-04T18:21:00+00:00",
+    "source": "Android Authority",
+    "title": "Gemini hands Lyria 3.5 the mic as the music model makes its debut on the app",
+    "summary": "Android Authority is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRjNfZnVhTWRqWTQycnRXZlpHYkw3djN2Xzd5RlYxVEN4dzh3QmhQQnBNRXZaY0xFeGtScXlkTlNyTWxPX0U4c0oxaG5HMGJpczlfaHR6NGoyYlBsRzBCNVZvZ09oeTF4NXJoMEpTTFlFNnlWa3BIcFo4RWNzMzhLZlVFUk02eU0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 04, 12:52 PM ET",
+    "publishedAt": "2026-09-04T16:52:30+00:00",
     "source": "The Next Web",
     "title": "Google brings its Lyria 3.5 music model to every Gemini user",
     "summary": "The Next Web is reporting this update. Open the article for the full story.",
@@ -12,25 +24,13 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 04, 12:48 PM ET",
-    "publishedAt": "2026-09-04T16:48:17+00:00",
-    "source": "Latest news from Azerbaijan",
-    "title": "Google rolls out Lyria 3.5 across Gemini and API",
-    "summary": "Latest news from Azerbaijan is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UQ3luQUQxUWdBRW12ZTIxYWFwVlo4SkhXUlZ3UVFwaERMVmlqWlN1UjBxangyTXJqSkVwNUxSdTQ1Y2tkTnpSalU1X2ZRZGI1VlJmM1d4elhTanpNaThqdWMzeTFiNnEyUVJZTndZOW1wQ2poSTVv?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 04, 12:25 PM ET",
     "publishedAt": "2026-09-04T16:25:16+00:00",
-    "source": "Healthcare IT News",
+    "source": "healthcareitnews.com",
     "title": "OpenAI launches GPT‑6 Astra model",
-    "summary": "Healthcare IT News is reporting this update. Open the article for the full story.",
+    "summary": "healthcareitnews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUS1Hd2lybDNmZkM3bmRfRWVORVdZU0dSdkpmQVl4eDhnMFNIc0ptc045d0NvYnlSNDVCMEZtRVc4eFdfNEpCZjNFQXZfdGRzTm02elZQdGNyemV6UnMtcGFsNlBpT3ZUUVlJdHJzdkdjWHI3YmJNVWFtWQ?oc=5",
     "difficulty": "News"
@@ -74,6 +74,30 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Sep 04, 09:53 AM ET",
+    "publishedAt": "2026-09-04T13:53:41+00:00",
+    "source": "Thurrott.com",
+    "title": "OpenAI Releases New GPT-6 Astra Frontier Model",
+    "summary": "Thurrott.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcU40Nnd0VFFkRmUzU2gyblFvbDBrSlI2dGFLa3UwOFNjRUNZeERZcndSWFlGVUQwUFQ5R2lWNUlQMXJrWVk5MGRKSnBDWjFwb1ktSG5jYnNTRUpDX3NhTGQtX1Z5ZE5Gd3FkdEY4Rmw3eWdrX3dDR1FBdVNmaW9xYkRYUkxDYjhDSEE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 04, 07:04 AM ET",
+    "publishedAt": "2026-09-04T11:04:19+00:00",
+    "source": "Technology Org",
+    "title": "ChatGPT, Claude and Grok Fail at the Same Time",
+    "summary": "Technology Org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjNOdzZLY3M3SEVNeVNVSE16dlg0cTlQcUh1Mm1SWDRJaklVZkZxVkFuTmJ2b0NGU2RQQ09hRExOQXE5SWNSX2tYTktpUGRTc3BNR3MyNF95R1paSGtxRGtHdUNPdzdPUzVsMjRyMUYtNUJiZmtncnk1UTh1WEdYZzYwVDU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Sep 03, 10:21 PM ET",
     "publishedAt": "2026-09-04T02:21:10+00:00",
     "source": "OpenAI",
@@ -84,15 +108,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 03, 09:47 PM ET",
-    "publishedAt": "2026-09-04T01:47:44+00:00",
-    "source": "MarketScale",
-    "title": "OpenAI's GPT-6 Astra pitch is to skip integrations and run the software UI itself",
-    "summary": "MarketScale is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 03, 07:21 PM ET",
+    "publishedAt": "2026-09-03T23:21:01+00:00",
+    "source": "Skift",
+    "title": "Amadeus Brings Travel Tech Into Claude Code, Cowork",
+    "summary": "Skift is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeTl2V1BvTlBVb2lxM3k5TjdzV01jMUZ5X3VSQWtZejBGREZfaW5HZ2JybzFOSVM5VUNwN1lqSnNnSm9QUmUyM203ZkllZFk4NjRzYUY4WjNOSi1NcV9wWnNuNk9pakhUMXpEdDNuN09YclJHTHdqOWdzZ2RocVFJNDRab2pUZWhZWHFRU0hhSmtyNTZwMzlMREZCRlA2dlUwSHpFSm81Qkc5X0puaWdZUXhzQkdFY0xYcmxlWnpwTnhnSm5wOVhJMkZqUFNpRV9zNm10Znc3SldhWUk?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQjFMRFpHSkxwLXVRaVF1Z1BKb1NzaXZYc1JxQklabjVZZHI1VnRoN3hma3VYeGhaandIUjE1QTdUeHBicm45dHFBS0hhSWdoWmNpcmxLU1JreVpXcGdLc2lud185d2NDbnNuZHNZX0hTdUZUU0Zn?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,6 +144,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 03, 10:48 AM ET",
+    "publishedAt": "2026-09-03T14:48:51+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Claude AI Faces Outage Impacting Mythos 5.1, Fable 5.1, and Opus 5",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2ODF1UzdIT18yTTNLVWxVa0hDN2NRU29YeHhaSTkyQjk2N0tpN3RuVE1fTGd4a01ia3MzenFVd0M4cUozV1FCX2s0SEhhTkRILWVWUGprdU94dlo4d3hTaDRZMNIBaEFVX3lxTE90b3A0VFlDanNlUExnV2YwbDdhZVUtbG9WcnU0MExOOFFaTkpjajFlekJHNDlITEtpQmRjdmJPQmJPcm1aX3hjZlhYV1NBVWNydk93aXlxc1pwbUFtLXJYRkdGbmpSLW5L?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 03, 09:34 AM ET",
@@ -129,6 +165,18 @@
     "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTE1jTnVvZGhWYmd3dzhHUTItNTNGbXBoSG53djFDMkRtVFFBMDU4ZFJvTE1FTmt4TWhOdGsyQWJwOW42M1Y0UVM2X3lwNy13cnB5RFZvaWZ0WF9tY01VQzdvdWc0LXpMXzJzbGs4TXk4SmJpLVE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 03, 06:13 AM ET",
+    "publishedAt": "2026-09-03T10:13:24+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Build Claude Code Skills: 12 Steps, 90 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pZVhSaFloR1RhdGJXNHpTWGtIWEZfU2lBSUZPUm9sX01MUjI2Qkw5R2xuOUtObmp4aGhoM2JDTFpSdW5zRFBSQjY2MmxwcDZ0UDhicDh3R2pPdl9Bd0lyNlBUcTRLQkUxa0taZW1ITQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -148,9 +196,9 @@
     "label": "ChatGPT",
     "time": "Sep 02, 05:22 PM ET",
     "publishedAt": "2026-09-02T21:22:05+00:00",
-    "source": "aws.amazon.com",
+    "source": "Amazon Web Services (AWS)",
     "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference | Artificial Intelligence",
-    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVTJjWG9UblhrQzZ4TWtrZS1fWmhhM2t4YXhObHk5T2tZZVhaMzA1Nno4Y016S3BNYlV1Q3FvdldLY19uZUNmalFFalpzRHlSS0VSank3dVNZZllwSEJsTWM5UEpvaDJhc05BNXdFT3pHZENfcHpveUZ0VnhtRmFzdHZsRHZMbTc0Q0VnNFJRUlphSnY2elhwTjZZSnU5NUw0MklhbFFlZGNHZERXU2o1Y1ltNkcyQnlLeHFpcjEzMlBJNHpzbTNUWnNpTnMxOFhua2RxRS1jSnJIQy1Lc0xn?oc=5",
     "difficulty": "News"
@@ -192,6 +240,30 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 01, 03:12 PM ET",
+    "publishedAt": "2026-09-01T19:12:43+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Introducing Claude Fable 5.1 on AWS | Amazon Web Services",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRktHdVJiSWtrU2l4ZnJ6a3R5OXo1QzVoWjF0WjMwTUFkU1hPeGFKRC03UWpMMGNkYzdidTlBWUJacVFpRGxuMDRaNW5xcm9DRmxWSnpyZTNiTHhpb3ZjT2xlV1lJdXIwR2NNUEljcjAxenlKcDhackkyc1dUazdYeDU3SngySEFmcVE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 01, 02:01 PM ET",
+    "publishedAt": "2026-09-01T18:01:25+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 31, 07:47 AM ET",
@@ -201,6 +273,18 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOakJvcmFsZzJydGVBaFEyS0dVbm13MkU3UTdCWkFxdTdpbzVxbHJobTViZ29CeGZ5U0ZCblJaQ0RQT1Q4cnUzbkMyNTRnZDEwVjFYSmJ2eGl6N0pidFZuY2k2aHY3Z2FGcXhRRHpLTkR6bUlYd25DUTJIbXhDRElLaUtJZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 31, 07:31 AM ET",
+    "publishedAt": "2026-08-31T11:31:00+00:00",
+    "source": "The Hacker News",
+    "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDhmbjlyTTFDYVc3aXlGU3ktMmtQOXpzVW5XTHM0S01aMzFQQTlsZkVFNndkOHJwRDZjY2RPcm9fU0ZUUjNTTlRiYW5tWDlhaHBuOGxHV1FxLS15c0RTSHFSU1VPaXFHalRtcUlWbl84RElKcmFmOVFiU1NZUTI2c0RTT1Y?oc=5",
     "difficulty": "News"
   },
   {
@@ -244,9 +328,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 17, 03:00 AM ET",
     "publishedAt": "2026-08-17T07:00:00+00:00",
-    "source": "GeekWire",
+    "source": "geekwire.com",
     "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform",
-    "summary": "GeekWire is reporting this update. Open the article for the full story.",
+    "summary": "geekwire.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
     "difficulty": "News"
