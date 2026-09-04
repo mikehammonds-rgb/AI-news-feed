@@ -1,26 +1,74 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 04, 07:04 AM ET",
-    "publishedAt": "2026-09-04T11:04:19+00:00",
-    "source": "Technology Org",
-    "title": "ChatGPT, Claude and Grok Fail at the Same Time",
-    "summary": "Technology Org is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 04, 12:53 PM ET",
+    "publishedAt": "2026-09-04T16:53:04+00:00",
+    "source": "The Next Web",
+    "title": "Google brings its Lyria 3.5 music model to every Gemini user",
+    "summary": "The Next Web is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjNOdzZLY3M3SEVNeVNVSE16dlg0cTlQcUh1Mm1SWDRJaklVZkZxVkFuTmJ2b0NGU2RQQ09hRExOQXE5SWNSX2tYTktpUGRTc3BNR3MyNF95R1paSGtxRGtHdUNPdzdPUzVsMjRyMUYtNUJiZmtncnk1UTh1WEdYZzYwVDU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmNYZDdmYWpXV3VLdHlXYWo5ank2NFp5NlBhbUNNUDhLNXU1WnR6YzNzdlNsa0Q0WFNKaDZCZEIwMGJLSk5NRTlUR2NjME9Ia3JvVW9yUDB6OHpIekFKZnJYMUJnODB1S2sxM3hfakFpeTFPclIxQjZjX1NHSndHNlNYbnc3cVA1UGhwb3BfaVQzT3dGRTBSS3JSN0ZfQnhHdXRxUElmakNZc096SnZEMTlBRUVKQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 04, 12:48 PM ET",
+    "publishedAt": "2026-09-04T16:48:17+00:00",
+    "source": "Latest news from Azerbaijan",
+    "title": "Google rolls out Lyria 3.5 across Gemini and API",
+    "summary": "Latest news from Azerbaijan is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UQ3luQUQxUWdBRW12ZTIxYWFwVlo4SkhXUlZ3UVFwaERMVmlqWlN1UjBxangyTXJqSkVwNUxSdTQ1Y2tkTnpSalU1X2ZRZGI1VlJmM1d4elhTanpNaThqdWMzeTFiNnEyUVJZTndZOW1wQ2poSTVv?oc=5",
     "difficulty": "News"
   },
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 04, 02:47 AM ET",
-    "publishedAt": "2026-09-04T06:47:00+00:00",
-    "source": "The Hacker News",
-    "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "time": "Sep 04, 12:25 PM ET",
+    "publishedAt": "2026-09-04T16:25:16+00:00",
+    "source": "Healthcare IT News",
+    "title": "OpenAI launches GPT‑6 Astra model",
+    "summary": "Healthcare IT News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQnlnMTBva2YwLXYzM3RzdFdHY0szU3ByaDRHbGdpeWRGVmhCM1B5bmxwUU5RYVRJTXRSUllPMHpGSnd2VVBmZElzU0FPdzRZSEVNODhXZlBJYjRldXRyRHBzWjB6eGx5MEo3TVlDVWFYVDlzdkxoSEtJOHAzczRnZ2d1VQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUS1Hd2lybDNmZkM3bmRfRWVORVdZU0dSdkpmQVl4eDhnMFNIc0ptc045d0NvYnlSNDVCMEZtRVc4eFdfNEpCZjNFQXZfdGRzTm02elZQdGNyemV6UnMtcGFsNlBpT3ZUUVlJdHJzdkdjWHI3YmJNVWFtWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 04, 12:10 PM ET",
+    "publishedAt": "2026-09-04T16:10:00+00:00",
+    "source": "The Tech Buzz",
+    "title": "Google's Lyria 3.5 Brings AI Music to Gemini",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM19zYWhZcnE2SG5ZYmVTdnFXUTFMaGVhQ1lKWUhUVXB0azNDVlhJSjJqV0RQRkJ5QWZPY0ZlWWpaRU1BWUo5dmZuYkpJbk83UFdBanpVY3BXTkUtWHF5cnJjUFlkWEd4TGRmQ0Z2VmVWZXd1dTVXTnNmUTJUNWZHWFRnQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 04, 12:06 PM ET",
+    "publishedAt": "2026-09-04T16:06:11+00:00",
+    "source": "blog.google",
+    "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0tDakQ1cS1zU2RZTnJTQXpCdkVMR0lPbUVPR0FDclVINm82SXNLVU1rbDJTb2VURmo3TGk3MVNCUXI0aXd1Qm11WGJzemJ1NGVJS3V4STVXQWR0ZGRtclNrM25fMi0wazRxMTNxY2V6NUg2LUttYkR1SmJyTl9QX0lyaHhJZEJaSlU1M2dn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 04, 10:43 AM ET",
+    "publishedAt": "2026-09-04T14:43:52+00:00",
+    "source": "tech-insider.org",
+    "title": "ChatGPT Down Again: 74,000 Reports, Codex Hit Too [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oYTJfMGlBWFhZdHJicktwNWxlZkI0ZkZHY2RITVVaTUdvcEtBYW9RS0Ftb1FqWXRmSnJXS2J3Z2lrUjdqcjZKNldIcnRpa003RDM4cjFDcDhiUWhqbV82bmgxLVZPTURLdzNTOUJIcXg2WVE?oc=5",
     "difficulty": "News"
   },
   {
@@ -40,47 +88,11 @@
     "label": "ChatGPT",
     "time": "Sep 03, 09:47 PM ET",
     "publishedAt": "2026-09-04T01:47:44+00:00",
-    "source": "marketscale.com",
+    "source": "MarketScale",
     "title": "OpenAI's GPT-6 Astra pitch is to skip integrations and run the software UI itself",
-    "summary": "marketscale.com is reporting this update. Open the article for the full story.",
+    "summary": "MarketScale is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeTl2V1BvTlBVb2lxM3k5TjdzV01jMUZ5X3VSQWtZejBGREZfaW5HZ2JybzFOSVM5VUNwN1lqSnNnSm9QUmUyM203ZkllZFk4NjRzYUY4WjNOSi1NcV9wWnNuNk9pakhUMXpEdDNuN09YclJHTHdqOWdzZ2RocVFJNDRab2pUZWhZWHFRU0hhSmtyNTZwMzlMREZCRlA2dlUwSHpFSm81Qkc5X0puaWdZUXhzQkdFY0xYcmxlWnpwTnhnSm5wOVhJMkZqUFNpRV9zNm10Znc3SldhWUk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 03, 07:21 PM ET",
-    "publishedAt": "2026-09-03T23:21:01+00:00",
-    "source": "Skift",
-    "title": "Amadeus Brings Travel Tech Into Claude Code, Cowork",
-    "summary": "Skift is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQjFMRFpHSkxwLXVRaVF1Z1BKb1NzaXZYc1JxQklabjVZZHI1VnRoN3hma3VYeGhaandIUjE1QTdUeHBicm45dHFBS0hhSWdoWmNpcmxLU1JreVpXcGdLc2lud185d2NDbnNuZHNZX0hTdUZUU0Zn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 03, 06:05 PM ET",
-    "publishedAt": "2026-09-03T22:05:05+00:00",
-    "source": "Investing.com",
-    "title": "OpenAI launches GPT-6 Astra for enterprise users today",
-    "summary": "Investing.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWFnOThTZjRjNUtqQy14YXpELWpYaEdwOHd5WUFlRjJZdjRDZlkzREhZN0hKT1I2cHlZX3ZiTVVCU1lSeENMaHhKTFFjU3NHT1EwWm5ZS0lpRHIwY3BMaVE4ZGhESXRGMmVwSzB0a1c3bVktbUo1QlpXNHJwTDRPOXRUblJmcEMzQUxNRVh4dW95QmlGVEtVSXA3SV9QdG4tV2RWNVNBa0xvQWRlSWVLUG9tY192UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 03, 02:24 PM ET",
-    "publishedAt": "2026-09-03T18:24:55+00:00",
-    "source": "The Register",
-    "title": "True AI-pocalypse as ChatGPT, Claude, and Grok all go down at once",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbC1hMkFydngzZzFNOVhaVkRJMWdlamN3WDhjTUNJYXEwZkZ2OEpqdXJ1emNSVnJuajZ0RTlrQWs3bjFGQmt1TllvUUVUWXBaTW1tQnpqUVBQZWdMbU1tRmw4LTg4b1ZrTUFlbVN1VXJNN2gwcHhjNTRXdUQwWFFhTTBfS1pXWDRuOTViTk1POTZQLWJIZUZnY1hEZllCOVpYTHRVQ19TM180VmhOLWdReFFmYw?oc=5",
     "difficulty": "News"
   },
   {
@@ -110,42 +122,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 03, 12:28 PM ET",
-    "publishedAt": "2026-09-03T16:28:51+00:00",
-    "source": "Mashable",
-    "title": "ChatGPT, Claude, Gemini down: What we know about the AI outages",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4bXRac3oxOVlUVU45Y3JvTXhuVkhkX3JPb3BraElNZ0VVeWd4cVMtank0RWZ1QS1DeUtrakdtZTF2SE1LTF9qX0RlRWVfTUxFOF9fR0ZXYUZTbktVWFh3UEJtZGRqOXFkR0lScnhJR3dOYk1Ebmc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 03, 11:25 AM ET",
-    "publishedAt": "2026-09-03T15:25:00+00:00",
-    "source": "New York Post",
-    "title": "ChatGPT, Claude and Gemini are all down as thousands of users experience outages",
-    "summary": "New York Post is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTA4UmE1MUpzMVFlWDNrZG9rSUJsSFl0a3dHanNJWlo5dWJxREc5cFo3UnQxRS1reHRCX01FbWJQeDd6Ulp1WlZPQmhIek81QUhlV0lleWE1M2ZieGhpM2trbkhaTmtPbVR0ZlFpN2lhWEhpWTNNQk9rTUlKblBtTzMxUU5HV2ptSGFxaTUxYmZYM0tiQ1ZSb1ZOTU11VWUzYlpnU1ZIYk9SaUlIc1dxR3lWd0hqQ2dHX3Jv?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 03, 10:48 AM ET",
-    "publishedAt": "2026-09-03T14:48:51+00:00",
-    "source": "CyberSecurityNews",
-    "title": "Claude AI Faces Outage Impacting Mythos 5.1, Fable 5.1, and Opus 5",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2ODF1UzdIT18yTTNLVWxVa0hDN2NRU29YeHhaSTkyQjk2N0tpN3RuVE1fTGd4a01ia3MzenFVd0M4cUozV1FCX2s0SEhhTkRILWVWUGprdU94dlo4d3hTaDRZMNIBaEFVX3lxTE90b3A0VFlDanNlUExnV2YwbDdhZVUtbG9WcnU0MExOOFFaTkpjajFlekJHNDlITEtpQmRjdmJPQmJPcm1aX3hjZlhYV1NBVWNydk93aXlxc1pwbUFtLXJYRkdGbmpSLW5L?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Sep 03, 09:34 AM ET",
     "publishedAt": "2026-09-03T13:34:07+00:00",
     "source": "Help Net Security",
@@ -153,18 +129,6 @@
     "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTE1jTnVvZGhWYmd3dzhHUTItNTNGbXBoSG53djFDMkRtVFFBMDU4ZFJvTE1FTmt4TWhOdGsyQWJwOW42M1Y0UVM2X3lwNy13cnB5RFZvaWZ0WF9tY01VQzdvdWc0LXpMXzJzbGs4TXk4SmJpLVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 03, 07:58 AM ET",
-    "publishedAt": "2026-09-03T11:58:19+00:00",
-    "source": "qz.com",
-    "title": "Google launches Gemini 3.8 Flash and Gemini 3.8 Flash Cyber",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBka2M0SWhmeDc0MFBGRHJmZmJzUmdBR0lSamZjX2J2Q0NQRzFGOF9nLVJ2dmhXRzIwdDkxb0lJUGxhQVhZMlA3NVVQeE96bDhkYlRxeHk3UnhPYld2cUxVSE5Mb0dXaXMyQ1g0?oc=5",
     "difficulty": "News"
   },
   {
@@ -184,9 +148,9 @@
     "label": "ChatGPT",
     "time": "Sep 02, 05:22 PM ET",
     "publishedAt": "2026-09-02T21:22:05+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "aws.amazon.com",
     "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVTJjWG9UblhrQzZ4TWtrZS1fWmhhM2t4YXhObHk5T2tZZVhaMzA1Nno4Y016S3BNYlV1Q3FvdldLY19uZUNmalFFalpzRHlSS0VSank3dVNZZllwSEJsTWM5UEpvaDJhc05BNXdFT3pHZENfcHpveUZ0VnhtRmFzdHZsRHZMbTc0Q0VnNFJRUlphSnY2elhwTjZZSnU5NUw0MklhbFFlZGNHZERXU2o1Y1ltNkcyQnlLeHFpcjEzMlBJNHpzbTNUWnNpTnMxOFhua2RxRS1jSnJIQy1Lc0xn?oc=5",
     "difficulty": "News"
@@ -201,18 +165,6 @@
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM21LX2w1UUF2N2t0X1ZKaEgzZW5BcEpuV1NhT2ZQelZIclZ3b05RWEEwT3VVWFEtclNHRmxMbXZYUG42bUZ5b0EzQXJqQll0amsxMTJfM2tGS284S0k3YXNtdkpWelFfaWxEbjE3Y2JGbzhhaktxd3B6Qi16SVVlS2FTeDRJbi1qQmFuVXg5WTZoeTctbmZzLXZlTmJ6ZXAw0gGmAUFVX3lxTFBfdmpXaW9SdzVILTE1UGpzZVhtUkwtUm1feGtTc1djeEY3R0NyQkUybVZWNm0xMTFLLW5ubHhHa1V2cE1RalJuWnJHWkpFcEFZVnBfWXdOUWhWcE9xcDdndTJXQzhZeXk0c2NJbkthTFFqOW1WcWwxTWNndDFYQ0JBaWhpaFlkNnRQbXhrdWhybGRwUTlrSDJKcW1Nak96VjZJRExSWUE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 02, 03:59 PM ET",
-    "publishedAt": "2026-09-02T19:59:26+00:00",
-    "source": "The Register",
-    "title": "With Gemini 3.8 Flash, Google reminds everyone it's still in the race",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVZaZUx6a0VBTzBKVG9DTENKUW5nTm5mcDVpYUppN3ktSElJWmRQVkQ3M2hadlF2dHcwWEVPZjJYQ0R3a09WTHhGc0hONVk2bVRZYkdyMnkxS3NJdEp2RVA5R0Qwai1mTjFTRllKeGZtNS1DenlidXNLSjlaNk92RUxHUDlUYktibHctUUZpVS1mcFVkOWktdUlvUnBDMnFGT1N3MC1tQWtINUxma04zOThJcXJ4ZThhVFdhbTBRaF8?oc=5",
     "difficulty": "News"
   },
   {
@@ -240,30 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 01, 02:01 PM ET",
-    "publishedAt": "2026-09-01T18:01:25+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 01, 01:02 PM ET",
-    "publishedAt": "2026-09-01T17:02:52+00:00",
-    "source": "blog.google",
-    "title": "Introducing agentic video understanding with Gemini",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYnNBZEhrNTRRREhoaG5BSGhQMUM2dUU4WWpHQ1gyZTdWQUZMNVlqZk5jV0lMTEl5Ujduby1XOHhTZjB6aXNLQlkxeWdzcDhRUkVQQnRTbzVPalZfYUwzNUF2VGpCTWZHV3lYUWg2cWVrejhhN1NTeDNBV1Zza2lVeERqeFFWQmFkRG5uLWxyY2MwVHFvdDRKa2tyUl9Kb19Oa2Y3UUhMUkdXWW4y?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 31, 07:47 AM ET",
@@ -276,18 +204,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 31, 07:31 AM ET",
-    "publishedAt": "2026-08-31T11:31:00+00:00",
-    "source": "The Hacker News",
-    "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDhmbjlyTTFDYVc3aXlGU3ktMmtQOXpzVW5XTHM0S01aMzFQQTlsZkVFNndkOHJwRDZjY2RPcm9fU0ZUUjNTTlRiYW5tWDlhaHBuOGxHV1FxLS15c0RTSHFSU1VPaXFHalRtcUlWbl84RElKcmFmOVFiU1NZUTI2c0RTT1Y?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 29, 11:48 PM ET",
@@ -297,18 +213,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94SndNTm5XQmxHdDJ2OS1SZ3VmU3NKTHdnM2d5d3ROSjdNaDVQcG9pSFNQNjQ1QUpYVWd2NDM2dkg5SWFRSlRpMmxOSmV4em9SVl9XZEJ5bGxnUWJTb0xtRXN5X2U3dHBUM1JmVmRaeE5GTlF3WkIzRlJjMVZBUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 28, 09:14 PM ET",
-    "publishedAt": "2026-08-29T01:14:00+00:00",
-    "source": "Startup Fortune",
-    "title": "Russian Hackers Tricked Cursor's AI Agent Into Breaching Six Companies",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzlIQ24wYk5aUzFqaU1kTFVTb2NtOVpOSW9ZcGpBbEZKbEdvVV8zMlRjeHRLVGk5R0trcU1HTVU0OGF3V0M4bVZhNTdGQnV4Ny1kQnhyampGWmgxc3VNeFZKc2JTdkhkR1J5d0lrb1oyUHJHZC0wUy1uV0ZwQm1QM24tT29lYzlGbkRDNnJwUjlSM3dxYzg0d2hVSWo0QQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,6 +273,18 @@
     "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "The GitHub Blog",
+    "title": "Copilot Agent is now available in JetBrains AI Assistant",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
     "difficulty": "News"
   }
 ]
