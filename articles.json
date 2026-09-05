@@ -1,5 +1,41 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 05, 02:34 PM ET",
+    "publishedAt": "2026-09-05T18:34:31+00:00",
+    "source": "The Next Web",
+    "title": "California is deciding who may verify AI, and one investigation already cost $400,000 in tokens",
+    "summary": "The Next Web is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeHN2Qktsell5LUQxSURPWjNnWWJxTzNjajk5VmJ4NjZlWjdKREpudlJUMFZlclFuNUU3MXplS2czOW5iRUE0NkZOMEpaeHBoWnFRdnl0UGZsbmdnUlhQUFo2T3JNWG0zbnFVd3N0eUJscGdTZ2JmenVOd2NMeWRjYk1obUphdmdzdzF3ZFVpc0lXMUJkZ0EtZFVrT05FbDJaMnd4NmZfY1ozZThSaFc4ZmxuT3hLNk82Wmt4bjVsdUNEYjRnWU5lN1pRZVVwNzJQWkdVMVB6Z2ZDTFZLTmtIZGJHTVpmZlhr?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 05, 01:47 PM ET",
+    "publishedAt": "2026-09-05T17:47:33+00:00",
+    "source": "We Rave You",
+    "title": "Google brings Lyria 3.5 AI music generation to Gemini",
+    "summary": "We Rave You is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zc0dsVWl0SWwzdGtUZHU2OUFCM0MyOUZxR0xfUHJTS3J1Q3FlMS1EVEZxWmZTVnR4ZWM5Z3ZiSGs2WjJfdFNsdk5PWWVTVUpuXy1hRlRYbXdxelQ3YjFMVmpQQ1hfc3ZseHJwNWRqMXQyWklMWmdzWXlabjNTVlU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 05, 08:12 AM ET",
+    "publishedAt": "2026-09-05T12:12:51+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Opus 4.8 vs GPT-5.6 Sol for Coding: 69.2% vs 64.6% [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRMWppRWMwUUF2WjJBdTRJdjVZZllTSG80alFmTnNyanhUOHlDUFA1OHFqcjRxUExwNTU2NHZqVl9qRy0taWItR2p3RmZhM3lOT2p4ckhxNzdZNmhZMW44RFlMQ3hvWG4xTjVYODkxdXMxVVV2dGJJ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 05, 06:52 AM ET",
@@ -48,27 +84,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 04, 09:58 PM ET",
-    "publishedAt": "2026-09-05T01:58:04+00:00",
-    "source": "digitaltrends.com",
-    "title": "Google brings its best AI music model Lyria 3.5 to the Gemini app",
-    "summary": "digitaltrends.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWNpczBtRkR1aVFndGZySGk4V01Ubm4yRUczdXZrbzJkR1Vmc2NVMmRZTWJCeFFIdE9KeTlfQ0NqaFd2elJqY1dJdjQxWGJicVMzdlg5SkZuMlBqSTEwLU5ieVJ4aDNoSXNhbzd5NWRsdG5UOUFjS3ZsLVNkeWJoUGMwNW10LXBHR3p3YTc1TWlxakFBRUozYXlhcUVkSm91aWVNamRFNmJBQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 04, 08:54 PM ET",
-    "publishedAt": "2026-09-05T00:54:15+00:00",
-    "source": "shattered.io",
-    "title": "OpenAI’s Astra Ships With 100% Exploit Score [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "time": "Sep 04, 12:25 PM ET",
+    "publishedAt": "2026-09-04T16:25:16+00:00",
+    "source": "healthcareitnews.com",
+    "title": "OpenAI launches GPT‑6 Astra model",
+    "summary": "healthcareitnews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SRHktQlFRT29SNnl0STNuYllxNVZjd3JBX2prUnVpNGxRVHdSSl96NnZlRERJRGZuSG4zbDdnUHJoVnh4QTBUV1pvSWdTcjNMWDhVSzR6d19yd2FVOWdIUXZJUGJxeFFiY29Kb0dxNGFJUjg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUS1Hd2lybDNmZkM3bmRfRWVORVdZU0dSdkpmQVl4eDhnMFNIc0ptc045d0NvYnlSNDVCMEZtRVc4eFdfNEpCZjNFQXZfdGRzTm02elZQdGNyemV6UnMtcGFsNlBpT3ZUUVlJdHJzdkdjWHI3YmJNVWFtWQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -93,18 +117,6 @@
     "summary": "Skift is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQjFMRFpHSkxwLXVRaVF1Z1BKb1NzaXZYc1JxQklabjVZZHI1VnRoN3hma3VYeGhaandIUjE1QTdUeHBicm45dHFBS0hhSWdoWmNpcmxLU1JreVpXcGdLc2lud185d2NDbnNuZHNZX0hTdUZUU0Zn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 03, 02:00 PM ET",
-    "publishedAt": "2026-09-03T18:00:12+00:00",
-    "source": "VentureBeat",
-    "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnROVEdOT3E2dnZXYkIzUWtIckZfZDNLV1QzdHpiUDJheDI5cU9qX25MSlo4dURZMlcwR1hUU0lhNHY3VVk3Z3M1UkZQMDB5RjRjcldsVUZKNnFXR2QyS2FObElZWk5fcU5PN3FWSktTemFqcmhiRnZJVy15N3FKZlBNQ0tNTlh0Wm9naUdR?oc=5",
     "difficulty": "News"
   },
   {
@@ -153,18 +165,6 @@
     "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTE1jTnVvZGhWYmd3dzhHUTItNTNGbXBoSG53djFDMkRtVFFBMDU4ZFJvTE1FTmt4TWhOdGsyQWJwOW42M1Y0UVM2X3lwNy13cnB5RFZvaWZ0WF9tY01VQzdvdWc0LXpMXzJzbGs4TXk4SmJpLVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 03, 06:13 AM ET",
-    "publishedAt": "2026-09-03T10:13:24+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Build Claude Code Skills: 12 Steps, 90 Min [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pZVhSaFloR1RhdGJXNHpTWGtIWEZfU2lBSUZPUm9sX01MUjI2Qkw5R2xuOUtObmp4aGhoM2JDTFpSdW5zRFBSQjY2MmxwcDZ0UDhicDh3R2pPdl9Bd0lyNlBUcTRLQkUxa0taZW1ITQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -268,9 +268,9 @@
     "label": "Claude Code",
     "time": "Sep 01, 02:01 PM ET",
     "publishedAt": "2026-09-01T18:01:25+00:00",
-    "source": "Anthropic",
+    "source": "anthropic.com",
     "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
     "difficulty": "News"
