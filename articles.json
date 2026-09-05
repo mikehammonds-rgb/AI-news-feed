@@ -74,30 +74,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 04, 06:13 PM ET",
-    "publishedAt": "2026-09-04T22:13:55+00:00",
-    "source": "testingcatalog.com",
-    "title": "OpenAI launches GPT-6 Astra across ChatGPT and API",
-    "summary": "testingcatalog.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTThWREN4MGxvVVN2NV9xUE5vYUI3MFhCX2x0Z0tvclg5V1lVcWVMRGNLRlFORkk1RWFncUswWExfQlNqSDhpa2N4M1ZMY2JYbndBMUhWdERHMS1zc3MydmsteXhXWUR6cHh1OFJLN29JT1NGZ0owUURJRk1vRXo4ektaa2ZDU3RGUEE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 04, 12:52 PM ET",
-    "publishedAt": "2026-09-04T16:52:30+00:00",
-    "source": "The Next Web",
-    "title": "Google brings its Lyria 3.5 music model to every Gemini user",
-    "summary": "The Next Web is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmNYZDdmYWpXV3VLdHlXYWo5ank2NFp5NlBhbUNNUDhLNXU1WnR6YzNzdlNsa0Q0WFNKaDZCZEIwMGJLSk5NRTlUR2NjME9Ia3JvVW9yUDB6OHpIekFKZnJYMUJnODB1S2sxM3hfakFpeTFPclIxQjZjX1NHSndHNlNYbnc3cVA1UGhwb3BfaVQzT3dGRTBSS3JSN0ZfQnhHdXRxUElmakNZc096SnZEMTlBRUVKQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Sep 04, 12:25 PM ET",
     "publishedAt": "2026-09-04T16:25:16+00:00",
     "source": "Healthcare IT News",
@@ -105,6 +81,18 @@
     "summary": "Healthcare IT News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUS1Hd2lybDNmZkM3bmRfRWVORVdZU0dSdkpmQVl4eDhnMFNIc0ptc045d0NvYnlSNDVCMEZtRVc4eFdfNEpCZjNFQXZfdGRzTm02elZQdGNyemV6UnMtcGFsNlBpT3ZUUVlJdHJzdkdjWHI3YmJNVWFtWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 04, 12:06 PM ET",
+    "publishedAt": "2026-09-04T16:06:11+00:00",
+    "source": "blog.google",
+    "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0tDakQ1cS1zU2RZTnJTQXpCdkVMR0lPbUVPR0FDclVINm82SXNLVU1rbDJTb2VURmo3TGk3MVNCUXI0aXd1Qm11WGJzemJ1NGVJS3V4STVXQWR0ZGRtclNrM25fMi0wazRxMTNxY2V6NUg2LUttYkR1SmJyTl9QX0lyaHhJZEJaSlU1M2dn?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,6 +168,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 02, 08:02 PM ET",
+    "publishedAt": "2026-09-03T00:02:35+00:00",
+    "source": "VentureBeat",
+    "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHpNUnplNkRkbUhZNFNRbXpENzJfdzFKelp1akdHeEhWMXRJZTVfU0R6clE5WUc2S2U0N2E0ZGZCaFlMczNybUdTdUc0UmtvQXF0dDVGWUlzUmxJN3NZNENaY2dVLW4wREtCTFF3YzAyUGJ4WUhFT2tfYUZNVE0yZDhqaDFkZUtJd3BnZVFhaW1COHBDRG12OXZHVVFyejBLSDNQWmU0UjNFUWRVZ0tGdll2SUxaM1FscHVHTg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 02, 05:22 PM ET",
@@ -201,6 +201,18 @@
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM21LX2w1UUF2N2t0X1ZKaEgzZW5BcEpuV1NhT2ZQelZIclZ3b05RWEEwT3VVWFEtclNHRmxMbXZYUG42bUZ5b0EzQXJqQll0amsxMTJfM2tGS284S0k3YXNtdkpWelFfaWxEbjE3Y2JGbzhhaktxd3B6Qi16SVVlS2FTeDRJbi1qQmFuVXg5WTZoeTctbmZzLXZlTmJ6ZXAw0gGmAUFVX3lxTFBfdmpXaW9SdzVILTE1UGpzZVhtUkwtUm1feGtTc1djeEY3R0NyQkUybVZWNm0xMTFLLW5ubHhHa1V2cE1RalJuWnJHWkpFcEFZVnBfWXdOUWhWcE9xcDdndTJXQzhZeXk0c2NJbkthTFFqOW1WcWwxTWNndDFYQ0JBaWhpaFlkNnRQbXhrdWhybGRwUTlrSDJKcW1Nak96VjZJRExSWUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 02, 04:14 PM ET",
+    "publishedAt": "2026-09-02T20:14:18+00:00",
+    "source": "The New Stack",
+    "title": "Your next OpenAI API timeout might not be a timeout at all",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UYkY0Yy1jUS1BWXdHOFZYMk04UF9sM04ycFBOYWRQRk1xRi15X2FmNDBlam1wbW1DVUtoWmZLdWpzNUNzdmt1d2UwelNRRVFmVURGTURrWVc1dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,18 +273,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 01, 01:02 PM ET",
-    "publishedAt": "2026-09-01T17:02:52+00:00",
-    "source": "blog.google",
-    "title": "Introducing agentic video understanding with Gemini",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYnNBZEhrNTRRREhoaG5BSGhQMUM2dUU4WWpHQ1gyZTdWQUZMNVlqZk5jV0lMTEl5Ujduby1XOHhTZjB6aXNLQlkxeWdzcDhRUkVQQnRTbzVPalZfYUwzNUF2VGpCTWZHV3lYUWg2cWVrejhhN1NTeDNBV1Zza2lVeERqeFFWQmFkRG5uLWxyY2MwVHFvdDRKa2tyUl9Kb19Oa2Y3UUhMUkdXWW4y?oc=5",
     "difficulty": "News"
   },
   {
