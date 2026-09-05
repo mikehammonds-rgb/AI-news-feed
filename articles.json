@@ -1,17 +1,5 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 05, 04:12 PM ET",
-    "publishedAt": "2026-09-05T20:12:00+00:00",
-    "source": "quasa.io",
-    "title": "ChatGPT, Claude and Grok’s Overlapping Outages",
-    "summary": "quasa.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUVFoMHlPd1pnaGlPalNjcmFnRHRZeGZqWnNpNzR4b3h2djhDLVBSa21uQkxKTWJ5bmtmZ2xObWwtTVAzdkRXMnppczZPNjc0MFNXUldQc1VrSWZsejhxRmw2c2ZYNEVRay1vWU9PY1NnRjh0Vy1iZVRxWTVHY1VicDFPdXFpN3FTRlFvVWotdEhYUU96RHBuN1JfOA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 05, 02:34 PM ET",
@@ -86,18 +74,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 05, 12:37 AM ET",
-    "publishedAt": "2026-09-05T04:37:25+00:00",
-    "source": "MarkTechPost",
-    "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjc1MUt3SThMMVl5WWVGSi0tRGJuX0FQZnhCdjdBZFBzSzI3S0llWGcxdXhyWThlQUVReEtUWk5VZEduTVRlMllUMWZkQTNuT2lTbnlzb1B2VFpPMnpwVVRfdDU2cWhsQkQ3TlZOdWtLY1ZDN3pFMDQ4N0FEeVFzUVBoREdvaWQ5OWpNQVFuWmxqWmViOTA1MFdrdVNmRUt40gGgAUFVX3lxTFAyNzUxS3dJOEwxWXlZZUZKLS1EYm5fQVBmeEJ2N0FkUHNLMjdLSWVYZzF1eHJZOGVBRVF4S1RaTlVkR25NVGUyWVQxZmRBM25PaVNueXNvUHZUWk8yenBVVF90NTZxaGxCRDdOVk51a0tjVkM3ekUwNDg3QUR5UXNRUGhER29pZDk5ak1BUW5abGpaZWI5MDUwV2t1U2ZFS3g?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Sep 04, 12:06 PM ET",
     "publishedAt": "2026-09-04T16:06:11+00:00",
     "source": "blog.google",
@@ -112,9 +88,9 @@
     "label": "ChatGPT",
     "time": "Sep 03, 02:00 PM ET",
     "publishedAt": "2026-09-03T18:00:12+00:00",
-    "source": "Venturebeat",
+    "source": "VentureBeat",
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
-    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnROVEdOT3E2dnZXYkIzUWtIckZfZDNLV1QzdHpiUDJheDI5cU9qX25MSlo4dURZMlcwR1hUU0lhNHY3VVk3Z3M1UkZQMDB5RjRjcldsVUZKNnFXR2QyS2FObElZWk5fcU5PN3FWSktTemFqcmhiRnZJVy15N3FKZlBNQ0tNTlh0Wm9naUdR?oc=5",
     "difficulty": "News"
@@ -144,6 +120,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 03, 11:30 AM ET",
+    "publishedAt": "2026-09-03T15:30:00+00:00",
+    "source": "Lifehacker",
+    "title": "I Tried Gemini 3.8 Flash, Google’s Latest AI Upgrade, and It (Mostly) Lives Up to the Hype",
+    "summary": "Lifehacker is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nVTYzcDdRSDM2anoxajBBS0pUV0dqeEdPWGJ2emFfLU0tNkZrMHlwMmFRZUpGUjRJdHZvTlZUYXMydDhJUGlSYkN5b282QXhIeThaUVZMNXdheWFJSjZWWHIzZ0pYTXpDYktOZEs0di1DcFg4dEE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 03, 10:48 AM ET",
@@ -153,6 +141,18 @@
     "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2ODF1UzdIT18yTTNLVWxVa0hDN2NRU29YeHhaSTkyQjk2N0tpN3RuVE1fTGd4a01ia3MzenFVd0M4cUozV1FCX2s0SEhhTkRILWVWUGprdU94dlo4d3hTaDRZMNIBaEFVX3lxTE90b3A0VFlDanNlUExnV2YwbDdhZVUtbG9WcnU0MExOOFFaTkpjajFlekJHNDlITEtpQmRjdmJPQmJPcm1aX3hjZlhYV1NBVWNydk93aXlxc1pwbUFtLXJYRkdGbmpSLW5L?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 03, 09:48 AM ET",
+    "publishedAt": "2026-09-03T13:48:30+00:00",
+    "source": "SQ Magazine",
+    "title": "Claude Services Disrupted as Multiple Models Report Elevated Errors",
+    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xTjlLVHBEOTdndlZVaTJjMGMyd0ZUdmpTcVZLMFJxcUl4WlVySDlWdWthVDFjUHR5Z0tYTGU5VXQxNmY0Zno1dWlGdW5Nczhodmp3dWNERFNERFM1aTA1SWxqbW91LW4zR3hQcWltWDZSazhn?oc=5",
     "difficulty": "News"
   },
   {
@@ -172,9 +172,9 @@
     "label": "Gemini",
     "time": "Sep 02, 08:02 PM ET",
     "publishedAt": "2026-09-03T00:02:35+00:00",
-    "source": "Venturebeat",
+    "source": "VentureBeat",
     "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
-    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHpNUnplNkRkbUhZNFNRbXpENzJfdzFKelp1akdHeEhWMXRJZTVfU0R6clE5WUc2S2U0N2E0ZGZCaFlMczNybUdTdUc0UmtvQXF0dDVGWUlzUmxJN3NZNENaY2dVLW4wREtCTFF3YzAyUGJ4WUhFT2tfYUZNVE0yZDhqaDFkZUtJd3BnZVFhaW1COHBDRG12OXZHVVFyejBLSDNQWmU0UjNFUWRVZ0tGdll2SUxaM1FscHVHTg?oc=5",
     "difficulty": "News"
@@ -352,9 +352,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 17, 03:00 AM ET",
     "publishedAt": "2026-08-17T07:00:00+00:00",
-    "source": "Yahoo Finance",
+    "source": "finance.yahoo.com",
     "title": "SpaceX closes $60bn acquisition of AI coding agent Cursor",
-    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "summary": "finance.yahoo.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcm1hTjA3Z0hNanMxOEFfTzdwZGpkRXE4cUpxT3N5eXBpUk83azBhQk1QVHBRdUt1ck9CRWlhekxQQ09zUjcwOUxXS29FRjduQUNRbHBLcjU5d2hUc3VCZ2lPSDhQMXFXQjNoWmJ4emNlMkFvNkY5QThiUWZSU0pLV05BSWVHbGItblRCX3RFTTdSY1ZCNkt1N3lPUzJnZw?oc=5",
     "difficulty": "News"
