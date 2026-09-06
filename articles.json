@@ -2,8 +2,8 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 06, 04:37 PM ET",
-    "publishedAt": "2026-09-06T20:37:26+00:00",
+    "time": "Sep 06, 06:39 PM ET",
+    "publishedAt": "2026-09-06T22:39:17+00:00",
     "source": "OpenAI",
     "title": "GPT-6 Astra: A new generation of intelligence",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
@@ -21,18 +21,6 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2Z0TnFtZUpfcVlkSXhZVWxIaVVuNTR4TXhXbEhPS3QxZjdQZF82STFocU1EeEc2VzVjbXpDbGpxYVBBdEV5WWUzUVE1cmRidV9pLUpnOUlWZ2xaSExFNlBxTnFMT0NySFRkckVadkdwRzJ6RlNVZjlTbks5bktzSG5ISnR0LXR2cGI4QVNxNzRuOHdSNm1xLUtPRWVSNkdMdEt3N3JaV3UxTTJlbDVNMUFSNlp4cGM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 06, 06:11 AM ET",
-    "publishedAt": "2026-09-06T10:11:14+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Use GPT-6 Astra API: 1M Context in 12 Steps [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvVGlZdFE4eG1tX0FtT01qZU0xb3FPTF9DT0U5MUlBUWp3U0VVV3lfd3N4emJoVlFpU05hVl85amtvazlKcGZLWDU3WlFnS2RGMElIZV9rRWFJUGxLSk9GR1h3UTNEQ2lm?oc=5",
     "difficulty": "News"
   },
   {
@@ -84,18 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 04, 04:12 AM ET",
-    "publishedAt": "2026-09-04T08:12:32+00:00",
-    "source": "Mashable",
-    "title": "ChatGPT, Claude, Gemini down: What we know about the AI outages (updated)",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4bXRac3oxOVlUVU45Y3JvTXhuVkhkX3JPb3BraElNZ0VVeWd4cVMtank0RWZ1QS1DeUtrakdtZTF2SE1LTF9qX0RlRWVfTUxFOF9fR0ZXYUZTbktVWFh3UEJtZGRqOXFkR0lScnhJR3dOYk1Ebmc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 03, 07:21 PM ET",
@@ -144,6 +120,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 03, 09:48 AM ET",
+    "publishedAt": "2026-09-03T13:48:30+00:00",
+    "source": "SQ Magazine",
+    "title": "Claude Services Disrupted as Multiple Models Report Elevated Errors",
+    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xTjlLVHBEOTdndlZVaTJjMGMyd0ZUdmpTcVZLMFJxcUl4WlVySDlWdWthVDFjUHR5Z0tYTGU5VXQxNmY0Zno1dWlGdW5Nczhodmp3dWNERFNERFM1aTA1SWxqbW91LW4zR3hQcWltWDZSazhn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 03, 09:34 AM ET",
@@ -170,11 +158,23 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Sep 03, 03:00 AM ET",
+    "publishedAt": "2026-09-03T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Sep 02, 05:22 PM ET",
     "publishedAt": "2026-09-02T21:22:05+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "aws.amazon.com",
     "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVTJjWG9UblhrQzZ4TWtrZS1fWmhhM2t4YXhObHk5T2tZZVhaMzA1Nno4Y016S3BNYlV1Q3FvdldLY19uZUNmalFFalpzRHlSS0VSank3dVNZZllwSEJsTWM5UEpvaDJhc05BNXdFT3pHZENfcHpveUZ0VnhtRmFzdHZsRHZMbTc0Q0VnNFJRUlphSnY2elhwTjZZSnU5NUw0MklhbFFlZGNHZERXU2o1Y1ltNkcyQnlLeHFpcjEzMlBJNHpzbTNUWnNpTnMxOFhua2RxRS1jSnJIQy1Lc0xn?oc=5",
     "difficulty": "News"
@@ -220,9 +220,9 @@
     "label": "ChatGPT",
     "time": "Sep 02, 05:05 AM ET",
     "publishedAt": "2026-09-02T09:05:40+00:00",
-    "source": "healthapiguy.substack.com",
+    "source": "Health API Guy",
     "title": "August Monthly Review: ChatGPT In Epic",
-    "summary": "healthapiguy.substack.com is reporting this update. Open the article for the full story.",
+    "summary": "Health API Guy is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zQ2pSM0NYWWpwb08zVWJYYkpaNXVCZjVRZ0ZZOUJVTVlaa0RmUHRENHhhd3FLOE12eG9OLXU5VE1seFNGODR0cjhXbTdLN2VRVGJ1SjhrbThENm5TSWtfMVVzZ1pXa2VuNlJXZExTeDYwWm1pLWdF?oc=5",
     "difficulty": "News"
@@ -244,9 +244,9 @@
     "label": "Claude Code",
     "time": "Sep 01, 03:12 PM ET",
     "publishedAt": "2026-09-01T19:12:43+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "aws.amazon.com",
     "title": "Introducing Claude Fable 5.1 on AWS | Amazon Web Services",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRktHdVJiSWtrU2l4ZnJ6a3R5OXo1QzVoWjF0WjMwTUFkU1hPeGFKRC03UWpMMGNkYzdidTlBWUJacVFpRGxuMDRaNW5xcm9DRmxWSnpyZTNiTHhpb3ZjT2xlV1lJdXIwR2NNUEljcjAxenlKcDhackkyc1dUazdYeDU3SngySEFmcVE?oc=5",
     "difficulty": "News"
