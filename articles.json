@@ -2,13 +2,25 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 07, 04:44 PM ET",
-    "publishedAt": "2026-09-07T20:44:02+00:00",
-    "source": "openai.com",
+    "time": "Sep 07, 07:13 PM ET",
+    "publishedAt": "2026-09-07T23:13:41+00:00",
+    "source": "OpenAI",
     "title": "GPT-6 Astra: A new generation of intelligence",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 07, 04:53 PM ET",
+    "publishedAt": "2026-09-07T20:53:24+00:00",
+    "source": "eGamers.io",
+    "title": "Lyria 3.5 lands in the Gemini app — but Google keeps its training data secret",
+    "summary": "eGamers.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnNsOVlCNFhpbGhpOG1SaExkXzdlSWVyZUw1WVp5N1hXalJaUjNzNERSQ3E2b3k0TnlSbXU4aTN2VF9lLWFaaXpYalJRZGFyRFZDR2hwUUdYbjdNc0VPSC04YXBwNGxXa0p4QU9UamVTZDg5NkRnbzlDX0ZFdjltSDBDenFnMWhxNGJHZFJoLTc1dzVWQTZsWG5ZQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -28,9 +40,9 @@
     "label": "ChatGPT",
     "time": "Sep 07, 03:27 AM ET",
     "publishedAt": "2026-09-07T07:27:48+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "Supporting independent journalism in Ukraine",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ed3RKR3hpRXRwNEdzXzZ4ZkQ4WjZzWTRVT05aSzE4U2lpb2JhXzJ4MkRhVUU2ZVYteUpydTRhMFdyZTM3bUxQeE5HQVFPazJBVGsxQzZrX2FVQ19HcmNEa2RXOU1uWGtYQ1lhamJ1U2RjTVJFSGU3Rk53?oc=5",
     "difficulty": "News"
@@ -57,6 +69,18 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2Z0TnFtZUpfcVlkSXhZVWxIaVVuNTR4TXhXbEhPS3QxZjdQZF82STFocU1EeEc2VzVjbXpDbGpxYVBBdEV5WWUzUVE1cmRidV9pLUpnOUlWZ2xaSExFNlBxTnFMT0NySFRkckVadkdwRzJ6RlNVZjlTbks5bktzSG5ISnR0LXR2cGI4QVNxNzRuOHdSNm1xLUtPRWVSNkdMdEt3N3JaV3UxTTJlbDVNMUFSNlp4cGM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 04, 12:25 PM ET",
+    "publishedAt": "2026-09-04T16:25:16+00:00",
+    "source": "Healthcare IT News",
+    "title": "OpenAI launches GPT‑6 Astra model",
+    "summary": "Healthcare IT News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUS1Hd2lybDNmZkM3bmRfRWVORVdZU0dSdkpmQVl4eDhnMFNIc0ptc045d0NvYnlSNDVCMEZtRVc4eFdfNEpCZjNFQXZfdGRzTm02elZQdGNyemV6UnMtcGFsNlBpT3ZUUVlJdHJzdkdjWHI3YmJNVWFtWQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -112,9 +136,9 @@
     "label": "Gemini",
     "time": "Sep 03, 09:34 AM ET",
     "publishedAt": "2026-09-03T13:34:07+00:00",
-    "source": "helpnetsecurity.com",
+    "source": "Help Net Security",
     "title": "Google’s Gemini 3.8 Flash takes on bigger AI models at a lower cost",
-    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTE1jTnVvZGhWYmd3dzhHUTItNTNGbXBoSG53djFDMkRtVFFBMDU4ZFJvTE1FTmt4TWhOdGsyQWJwOW42M1Y0UVM2X3lwNy13cnB5RFZvaWZ0WF9tY01VQzdvdWc0LXpMXzJzbGs4TXk4SmJpLVE?oc=5",
     "difficulty": "News"
@@ -165,30 +189,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVTJjWG9UblhrQzZ4TWtrZS1fWmhhM2t4YXhObHk5T2tZZVhaMzA1Nno4Y016S3BNYlV1Q3FvdldLY19uZUNmalFFalpzRHlSS0VSank3dVNZZllwSEJsTWM5UEpvaDJhc05BNXdFT3pHZENfcHpveUZ0VnhtRmFzdHZsRHZMbTc0Q0VnNFJRUlphSnY2elhwTjZZSnU5NUw0MklhbFFlZGNHZERXU2o1Y1ltNkcyQnlLeHFpcjEzMlBJNHpzbTNUWnNpTnMxOFhua2RxRS1jSnJIQy1Lc0xn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 02, 04:14 PM ET",
-    "publishedAt": "2026-09-02T20:14:18+00:00",
-    "source": "The New Stack",
-    "title": "Your next OpenAI API timeout might not be a timeout at all",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UYkY0Yy1jUS1BWXdHOFZYMk04UF9sM04ycFBOYWRQRk1xRi15X2FmNDBlam1wbW1DVUtoWmZLdWpzNUNzdmt1d2UwelNRRVFmVURGTURrWVc1dw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 02, 03:59 PM ET",
-    "publishedAt": "2026-09-02T19:59:26+00:00",
-    "source": "The Register",
-    "title": "With Gemini 3.8 Flash, Google reminds everyone it's still in the race",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVZaZUx6a0VBTzBKVG9DTENKUW5nTm5mcDVpYUppN3ktSElJWmRQVkQ3M2hadlF2dHcwWEVPZjJYQ0R3a09WTHhGc0hONVk2bVRZYkdyMnkxS3NJdEp2RVA5R0Qwai1mTjFTRllKeGZtNS1DenlidXNLSjlaNk92RUxHUDlUYktibHctUUZpVS1mcFVkOWktdUlvUnBDMnFGT1N3MC1tQWtINUxma04zOThJcXJ4ZThhVFdhbTBRaF8?oc=5",
     "difficulty": "News"
   },
   {
