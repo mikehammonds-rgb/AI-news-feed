@@ -2,11 +2,11 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 07, 01:25 PM ET",
-    "publishedAt": "2026-09-07T17:25:36+00:00",
-    "source": "OpenAI",
+    "time": "Sep 07, 04:44 PM ET",
+    "publishedAt": "2026-09-07T20:44:02+00:00",
+    "source": "openai.com",
     "title": "GPT-6 Astra: A new generation of intelligence",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
     "difficulty": "News"
@@ -16,9 +16,9 @@
     "label": "ChatGPT",
     "time": "Sep 07, 04:05 AM ET",
     "publishedAt": "2026-09-07T08:05:50+00:00",
-    "source": "startuphub.ai",
+    "source": "StartupHub.ai",
     "title": "OpenAI WAN-IFRA AIRPPU Ukraine AI initiative",
-    "summary": "startuphub.ai is reporting this update. Open the article for the full story.",
+    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelVyWEx2WWs1X2IxY0phQWEycjZYQV9fQ3d0bndGaEZOZW56dXpYUldDY01yNXhiZkZkZEp3VHM3YUxXa3NBZ1A2ZkdIZlBJdExMeWdmVmNhUjRmMjl4U19MeHdSMnJrVndOQ0NqU0VfQUNCbEt1VWhZSnZOVlROR2t5RzJITWhoSkY0d0NPREZCbGJrb3BwdnFKbDZYVjhkbXZnTGVwX1Vpc2M?oc=5",
     "difficulty": "News"
@@ -28,23 +28,11 @@
     "label": "ChatGPT",
     "time": "Sep 07, 03:27 AM ET",
     "publishedAt": "2026-09-07T07:27:48+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "Supporting independent journalism in Ukraine",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ed3RKR3hpRXRwNEdzXzZ4ZkQ4WjZzWTRVT05aSzE4U2lpb2JhXzJ4MkRhVUU2ZVYteUpydTRhMFdyZTM3bUxQeE5HQVFPazJBVGsxQzZrX2FVQ19HcmNEa2RXOU1uWGtYQ1lhamJ1U2RjTVJFSGU3Rk53?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 07, 02:23 AM ET",
-    "publishedAt": "2026-09-07T06:23:06+00:00",
-    "source": "blockhead.co",
-    "title": "OpenAI Launches GPT-6 Astra, Says Its Most Capable Model Yet Might Be AGI",
-    "summary": "blockhead.co is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1Rzc2xlZjNMMGw1bXV0RVFQNXl5cU9OdFJ6cnU4Mng0NUh2VTdZUV8zeHRlejJpYXo1N0Y3emxSZlI2U0JXMDBZaUpkbnBoMXg4NTFOc0Mwb1BfemNpSHVyRnYtUkpjNFVhSnBoSEdUdFh0T0JvMGFSQnhrRnFKNlEyNnZYTU5HUjZaVXVEV0pCMUNCMmFabU1mUEc0TTB4WFdDTFpSWUF5bEJvZ3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -81,18 +69,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0tDakQ1cS1zU2RZTnJTQXpCdkVMR0lPbUVPR0FDclVINm82SXNLVU1rbDJTb2VURmo3TGk3MVNCUXI0aXd1Qm11WGJzemJ1NGVJS3V4STVXQWR0ZGRtclNrM25fMi0wazRxMTNxY2V6NUg2LUttYkR1SmJyTl9QX0lyaHhJZEJaSlU1M2dn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 03, 07:21 PM ET",
-    "publishedAt": "2026-09-03T23:21:01+00:00",
-    "source": "skift.com",
-    "title": "Amadeus Brings Travel Tech Into Claude Code, Cowork",
-    "summary": "skift.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQjFMRFpHSkxwLXVRaVF1Z1BKb1NzaXZYc1JxQklabjVZZHI1VnRoN3hma3VYeGhaandIUjE1QTdUeHBicm45dHFBS0hhSWdoWmNpcmxLU1JreVpXcGdLc2lud185d2NDbnNuZHNZX0hTdUZUU0Zn?oc=5",
     "difficulty": "News"
   },
   {
@@ -136,11 +112,23 @@
     "label": "Gemini",
     "time": "Sep 03, 09:34 AM ET",
     "publishedAt": "2026-09-03T13:34:07+00:00",
-    "source": "Help Net Security",
+    "source": "helpnetsecurity.com",
     "title": "Google’s Gemini 3.8 Flash takes on bigger AI models at a lower cost",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTE1jTnVvZGhWYmd3dzhHUTItNTNGbXBoSG53djFDMkRtVFFBMDU4ZFJvTE1FTmt4TWhOdGsyQWJwOW42M1Y0UVM2X3lwNy13cnB5RFZvaWZ0WF9tY01VQzdvdWc0LXpMXzJzbGs4TXk4SmJpLVE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 03, 08:29 AM ET",
+    "publishedAt": "2026-09-03T12:29:33+00:00",
+    "source": "qz.com",
+    "title": "Anthropic is giving retailers blueprints to build AI shopping agents for the holidays",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSUd6R3IyYlNDZXpHb1c4clJOd3k3RWpwbFBvUmxtbktrdXVFOWFlY1NSLWgwYll4T19yTGF5SDl3T3N6aE92ZnpmOHQ0WjRlcktha1pfZTRHYVpoR0l6S2pXajhLQmgwWnY1YWxGSFBUZkwtUWdxV010V0xURXVZWlhJTko2dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -177,6 +165,18 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVTJjWG9UblhrQzZ4TWtrZS1fWmhhM2t4YXhObHk5T2tZZVhaMzA1Nno4Y016S3BNYlV1Q3FvdldLY19uZUNmalFFalpzRHlSS0VSank3dVNZZllwSEJsTWM5UEpvaDJhc05BNXdFT3pHZENfcHpveUZ0VnhtRmFzdHZsRHZMbTc0Q0VnNFJRUlphSnY2elhwTjZZSnU5NUw0MklhbFFlZGNHZERXU2o1Y1ltNkcyQnlLeHFpcjEzMlBJNHpzbTNUWnNpTnMxOFhua2RxRS1jSnJIQy1Lc0xn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 02, 04:14 PM ET",
+    "publishedAt": "2026-09-02T20:14:18+00:00",
+    "source": "The New Stack",
+    "title": "Your next OpenAI API timeout might not be a timeout at all",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UYkY0Yy1jUS1BWXdHOFZYMk04UF9sM04ycFBOYWRQRk1xRi15X2FmNDBlam1wbW1DVUtoWmZLdWpzNUNzdmt1d2UwelNRRVFmVURGTURrWVc1dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -292,9 +292,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 28, 03:00 AM ET",
     "publishedAt": "2026-08-28T07:00:00+00:00",
-    "source": "reuters.com",
+    "source": "Reuters",
     "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-    "summary": "reuters.com is reporting this update. Open the article for the full story.",
+    "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
     "difficulty": "News"
