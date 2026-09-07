@@ -2,8 +2,8 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 06, 06:39 PM ET",
-    "publishedAt": "2026-09-06T22:39:17+00:00",
+    "time": "Sep 06, 08:42 PM ET",
+    "publishedAt": "2026-09-07T00:42:31+00:00",
     "source": "OpenAI",
     "title": "GPT-6 Astra: A new generation of intelligence",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
@@ -72,6 +72,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 03, 09:47 PM ET",
+    "publishedAt": "2026-09-04T01:47:44+00:00",
+    "source": "MarketScale",
+    "title": "OpenAI's GPT-6 Astra pitch is to skip integrations and run the software UI itself",
+    "summary": "MarketScale is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeTl2V1BvTlBVb2lxM3k5TjdzV01jMUZ5X3VSQWtZejBGREZfaW5HZ2JybzFOSVM5VUNwN1lqSnNnSm9QUmUyM203ZkllZFk4NjRzYUY4WjNOSi1NcV9wWnNuNk9pakhUMXpEdDNuN09YclJHTHdqOWdzZ2RocVFJNDRab2pUZWhZWHFRU0hhSmtyNTZwMzlMREZCRlA2dlUwSHpFSm81Qkc5X0puaWdZUXhzQkdFY0xYcmxlWnpwTnhnSm5wOVhJMkZqUFNpRV9zNm10Znc3SldhWUk?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 03, 07:21 PM ET",
@@ -112,9 +124,9 @@
     "label": "Claude Code",
     "time": "Sep 03, 10:39 AM ET",
     "publishedAt": "2026-09-03T14:39:32+00:00",
-    "source": "CyberSecurityNews",
+    "source": "cybersecuritynews.com",
     "title": "Claude AI Faces Outage Impacting Mythos 5.1, Fable 5.1, and Opus 5",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "summary": "cybersecuritynews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2ODF1UzdIT18yTTNLVWxVa0hDN2NRU29YeHhaSTkyQjk2N0tpN3RuVE1fTGd4a01ia3MzenFVd0M4cUozV1FCX2s0SEhhTkRILWVWUGprdU94dlo4d3hTaDRZMNIBaEFVX3lxTE90b3A0VFlDanNlUExnV2YwbDdhZVUtbG9WcnU0MExOOFFaTkpjajFlekJHNDlITEtpQmRjdmJPQmJPcm1aX3hjZlhYV1NBVWNydk93aXlxc1pwbUFtLXJYRkdGbmpSLW5L?oc=5",
     "difficulty": "News"
@@ -158,37 +170,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 03, 03:00 AM ET",
-    "publishedAt": "2026-09-03T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Sep 02, 05:22 PM ET",
     "publishedAt": "2026-09-02T21:22:05+00:00",
-    "source": "aws.amazon.com",
+    "source": "Amazon Web Services (AWS)",
     "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference | Artificial Intelligence",
-    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVTJjWG9UblhrQzZ4TWtrZS1fWmhhM2t4YXhObHk5T2tZZVhaMzA1Nno4Y016S3BNYlV1Q3FvdldLY19uZUNmalFFalpzRHlSS0VSank3dVNZZllwSEJsTWM5UEpvaDJhc05BNXdFT3pHZENfcHpveUZ0VnhtRmFzdHZsRHZMbTc0Q0VnNFJRUlphSnY2elhwTjZZSnU5NUw0MklhbFFlZGNHZERXU2o1Y1ltNkcyQnlLeHFpcjEzMlBJNHpzbTNUWnNpTnMxOFhua2RxRS1jSnJIQy1Lc0xn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 02, 04:30 PM ET",
-    "publishedAt": "2026-09-02T20:30:01+00:00",
-    "source": "CNBC",
-    "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM21LX2w1UUF2N2t0X1ZKaEgzZW5BcEpuV1NhT2ZQelZIclZ3b05RWEEwT3VVWFEtclNHRmxMbXZYUG42bUZ5b0EzQXJqQll0amsxMTJfM2tGS284S0k3YXNtdkpWelFfaWxEbjE3Y2JGbzhhaktxd3B6Qi16SVVlS2FTeDRJbi1qQmFuVXg5WTZoeTctbmZzLXZlTmJ6ZXAw0gGmAUFVX3lxTFBfdmpXaW9SdzVILTE1UGpzZVhtUkwtUm1feGtTc1djeEY3R0NyQkUybVZWNm0xMTFLLW5ubHhHa1V2cE1RalJuWnJHWkpFcEFZVnBfWXdOUWhWcE9xcDdndTJXQzhZeXk0c2NJbkthTFFqOW1WcWwxTWNndDFYQ0JBaWhpaFlkNnRQbXhrdWhybGRwUTlrSDJKcW1Nak96VjZJRExSWUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -244,9 +232,9 @@
     "label": "Claude Code",
     "time": "Sep 01, 03:12 PM ET",
     "publishedAt": "2026-09-01T19:12:43+00:00",
-    "source": "aws.amazon.com",
+    "source": "Amazon Web Services (AWS)",
     "title": "Introducing Claude Fable 5.1 on AWS | Amazon Web Services",
-    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRktHdVJiSWtrU2l4ZnJ6a3R5OXo1QzVoWjF0WjMwTUFkU1hPeGFKRC03UWpMMGNkYzdidTlBWUJacVFpRGxuMDRaNW5xcm9DRmxWSnpyZTNiTHhpb3ZjT2xlV1lJdXIwR2NNUEljcjAxenlKcDhackkyc1dUazdYeDU3SngySEFmcVE?oc=5",
     "difficulty": "News"
@@ -314,8 +302,8 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Aug 27, 06:09 PM ET",
-    "publishedAt": "2026-08-27T22:09:50+00:00",
+    "time": "Aug 28, 03:00 AM ET",
+    "publishedAt": "2026-08-28T07:00:00+00:00",
     "source": "Reuters",
     "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
     "summary": "Reuters is reporting this update. Open the article for the full story.",
@@ -333,6 +321,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVdaMzFHdEV4UEVtOUFac1BLQnUwVlg3NTZFa1BXM2xheWt5bkVtSWhNZkdONEJNN1ZtYzgtSnNaNGZRZG05eTEtX3RNaUd1NEZuU2piMHdQZnEyUzNDSWc4OTdQNW1qTkhvNGhNSlFSeGZaQ0Z3eHZzM3BIUEZwQjM5N1hUR3plTVN6c0t2VUl5Ykx0Q0RLcFhB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 26, 03:00 AM ET",
+    "publishedAt": "2026-08-26T07:00:00+00:00",
+    "source": "Built In",
+    "title": "How Does Meta’s Muse Code Compare to Other AI Coding Tools?",
+    "summary": "Built In is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TY2tOOEZVaHE4Vy1DUHF6MFRiYjgtb0VGcmJYWVlyZ0dVTE0xczZtY25mR0UwT0JaOHliR0NwRXpvQTctbFVDUm1QREVVOE83YWVaU2xzLVhMRmJyQ0thS1lwMlg?oc=5",
     "difficulty": "News"
   },
   {
