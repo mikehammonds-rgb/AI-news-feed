@@ -2,8 +2,8 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 07, 07:13 PM ET",
-    "publishedAt": "2026-09-07T23:13:41+00:00",
+    "time": "Sep 07, 09:18 PM ET",
+    "publishedAt": "2026-09-08T01:18:13+00:00",
     "source": "OpenAI",
     "title": "GPT-6 Astra: A new generation of intelligence",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
@@ -96,6 +96,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 03, 07:21 PM ET",
+    "publishedAt": "2026-09-03T23:21:01+00:00",
+    "source": "Skift",
+    "title": "Amadeus Brings Travel Tech Into Claude Code, Cowork",
+    "summary": "Skift is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQjFMRFpHSkxwLXVRaVF1Z1BKb1NzaXZYc1JxQklabjVZZHI1VnRoN3hma3VYeGhaandIUjE1QTdUeHBicm45dHFBS0hhSWdoWmNpcmxLU1JreVpXcGdLc2lud185d2NDbnNuZHNZX0hTdUZUU0Zn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 03, 02:00 PM ET",
@@ -136,23 +148,11 @@
     "label": "Gemini",
     "time": "Sep 03, 09:34 AM ET",
     "publishedAt": "2026-09-03T13:34:07+00:00",
-    "source": "Help Net Security",
+    "source": "helpnetsecurity.com",
     "title": "Google’s Gemini 3.8 Flash takes on bigger AI models at a lower cost",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTE1jTnVvZGhWYmd3dzhHUTItNTNGbXBoSG53djFDMkRtVFFBMDU4ZFJvTE1FTmt4TWhOdGsyQWJwOW42M1Y0UVM2X3lwNy13cnB5RFZvaWZ0WF9tY01VQzdvdWc0LXpMXzJzbGs4TXk4SmJpLVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 03, 08:29 AM ET",
-    "publishedAt": "2026-09-03T12:29:33+00:00",
-    "source": "qz.com",
-    "title": "Anthropic is giving retailers blueprints to build AI shopping agents for the holidays",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSUd6R3IyYlNDZXpHb1c4clJOd3k3RWpwbFBvUmxtbktrdXVFOWFlY1NSLWgwYll4T19yTGF5SDl3T3N6aE92ZnpmOHQ0WjRlcktha1pfZTRHYVpoR0l6S2pXajhLQmgwWnY1YWxGSFBUZkwtUWdxV010V0xURXVZWlhJTko2dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,13 +192,25 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 02, 04:14 PM ET",
+    "publishedAt": "2026-09-02T20:14:18+00:00",
+    "source": "The New Stack",
+    "title": "Your next OpenAI API timeout might not be a timeout at all",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UYkY0Yy1jUS1BWXdHOFZYMk04UF9sM04ycFBOYWRQRk1xRi15X2FmNDBlam1wbW1DVUtoWmZLdWpzNUNzdmt1d2UwelNRRVFmVURGTURrWVc1dw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 02, 02:13 PM ET",
     "publishedAt": "2026-09-02T18:13:54+00:00",
-    "source": "Ars Technica",
+    "source": "arstechnica.com",
     "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
+    "summary": "arstechnica.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdFlIZmg0d05aalJ6azg1YmtNZVRORUtUd0ZTcGo0VmRjUDVOSGpfdGk2alVQd1hlWnlBbEhOOUsxUW90MHc3WWhxcmhwd1dMd05iUWp1TkZiN1pZOGVfcDVja0RDX2lKTlVBUFd1VllTR0RqV3lpVVJpd2R1U2lDUDdDcmRIejBZZGlZSEdhVE44X0t3TVRWMXg2dEFrdlYydG1xZDhR?oc=5",
     "difficulty": "News"
@@ -314,18 +326,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Aug 26, 03:00 AM ET",
-    "publishedAt": "2026-08-26T07:00:00+00:00",
-    "source": "Built In",
-    "title": "How Does Meta’s Muse Code Compare to Other AI Coding Tools?",
-    "summary": "Built In is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TY2tOOEZVaHE4Vy1DUHF6MFRiYjgtb0VGcmJYWVlyZ0dVTE0xczZtY25mR0UwT0JaOHliR0NwRXpvQTctbFVDUm1QREVVOE83YWVaU2xzLVhMRmJyQ0thS1lwMlg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Aug 17, 03:00 AM ET",
     "publishedAt": "2026-08-17T07:00:00+00:00",
     "source": "GeekWire",
@@ -357,6 +357,18 @@
     "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jul 08, 03:00 AM ET",
+    "publishedAt": "2026-07-08T07:00:00+00:00",
+    "source": "wiz.io",
+    "title": "GhostApproval: A Trust Boundary Gap in AI Coding Assistants",
+    "summary": "wiz.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlNtRGVxSU9oRFVoUnBpQzZQVW1fbnBESVdydENXMjd1TEttT0I3cW92ZEZ3c1dwbUJvRFJnOUE1UWd6TVRVUTM5QzFoZVJzY09Da1MzOE82c0laRHBuWUttLWI4UDBoR19SeUJUNEYxYVZrTVFnZDNoNlFZV3pMR2I4SHIyVGZwS2c?oc=5",
     "difficulty": "News"
   }
 ]
