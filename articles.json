@@ -2,13 +2,25 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 09, 04:58 PM ET",
-    "publishedAt": "2026-09-09T20:58:52+00:00",
+    "time": "Sep 09, 07:22 PM ET",
+    "publishedAt": "2026-09-09T23:22:08+00:00",
     "source": "OpenAI",
     "title": "GPT-6 Astra: A new generation of intelligence",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 09, 05:47 PM ET",
+    "publishedAt": "2026-09-09T21:47:05+00:00",
+    "source": "OpenAI",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -48,25 +60,13 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 09, 05:51 AM ET",
-    "publishedAt": "2026-09-09T09:51:59+00:00",
-    "source": "The Cryptonomist",
-    "title": "ChatGPT Images Update Enhances AI Image Generation Speed",
-    "summary": "The Cryptonomist is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xZ0xIRHBoRDFFc1ctSkdfeXUzS3N6Z3JFWXZBRlFnZEJQRDJLS2R5RWNWSGVNdzdmZ0VLcmFzUXhZQjhsZ1VFYUhqRzNTT2RkQVl4ZzBWdnZldzduZTFGSm9fOFVwak1pMXJTRw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 09, 04:54 AM ET",
     "publishedAt": "2026-09-09T08:54:53+00:00",
-    "source": "Steel Curtain Network",
+    "source": "steelcurtainnetwork.com",
     "title": "Streaming the Claude Opus 5 API: First Tokens, Not Last Words",
-    "summary": "Steel Curtain Network is reporting this update. Open the article for the full story.",
+    "summary": "steelcurtainnetwork.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWtNTmIwZGNjd0puMmhqLXVlM2p4UnJUdUhHRkp0V2hqbEZNaDdvUmZiUG9rSGc4QzlWN1E3QURuS19CdVdNTEVxcmZUY21VeTdWSTdBVXFVLVAtUE1SWjFFSWRVWkNTSF9mUWpqMjJFN1d1OHcwM1V1UVpJUEFBTVZ6VW1LdDJTQTh2dWk2V0dEU0tFSTlYXzZsd3ktUUVqWVk0?oc=5",
     "difficulty": "News"
@@ -93,18 +93,6 @@
     "summary": "Crowdfund Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUVQya2ZjOFNqVkt1SDdBLU5lZXdldlp4bGJTeVQyVXVsbExYRkhDeVc2aVFSOHFUX0o3bG11UEpfLW1td1lnT1hGcFlGa3dHTko0cG5FOXpXdUxHNTFZa01BelhjWUJWRDVzZzZsSDVQdHV3SmZiUG9ZSldVSWhnQkNNREVWUkdlS2lBaE9FZmptYTBYV1FHbG5tMVhJVkpZY0hIdjhHdFF2NXFxT3lMcGhNRTY4VjdOdkI4TmdZQlo?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 08, 08:53 PM ET",
-    "publishedAt": "2026-09-09T00:53:29+00:00",
-    "source": "Startup Fortune",
-    "title": "Hackers Are Draining Claude Subscribers Usage Without Stealing a Password",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNF83SGpYVzNoWHFaRzRoaTNkVFhsdGFxY2NGRGExWnd3SVQzd3dGNkFDbi01SGNydTFFcm0wdjUzRy1fR0E0ckloQ1lZOHJFWnd4Y0g3TmVCengzMFU2VW9WbzdWVTl5M0FXWnpQZDUwaFZydjNiMFp4Q2tfSlN1R3NzSWprOThIbS0wTTBaN1Y0bXpHcy1WLTZOWUhoNXEtOHZn?oc=5",
     "difficulty": "News"
   },
   {
@@ -153,18 +141,6 @@
     "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3A1NzBwS0tzZzhCelRMQlBjMjFVeWtfUTFrTUNmZDhaY1lDTHQzend0RmlJOHppOUVrWi1QQ2Jzd3RkWEw3dFphOFp6c19SZ0hwMUNEMGU0dkZrdkdXZC1kVTNCbEZnZE5nSndqYTlqVkZPM0pWRGlDYWJTcVV5ZXFPYURVNE8wOXNWMUxOVDBqckdlXzAyak53bVBlZC1hSmdUSkFYX1BTVmFaMFlSVkN3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 08, 02:40 PM ET",
-    "publishedAt": "2026-09-08T18:40:46+00:00",
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT Images 2.5",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
     "difficulty": "News"
   },
   {
@@ -230,6 +206,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Sep 05, 06:52 AM ET",
+    "publishedAt": "2026-09-05T10:52:28+00:00",
+    "source": "Dealroom",
+    "title": "Google DeepMind brings Lyria 3.5 to Gemini products",
+    "summary": "Dealroom is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjVjWC1nTndrc2tVeTJIbF96VlE3MjlwTmZ3b3VINFZVa0tWR1UzUk1PVXkwU0Z5U2w3UzJNRzdmaVR6Q0hDdmJQcDdidm5WUU93R2FNeExucHNXQWs0VGpiejNmSHFnVFNtRDU4Tk1GOVFFeWRGTjYtSnBYN2dBQjZsWFRMTkVQNEZGS3NR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Sep 04, 12:06 PM ET",
     "publishedAt": "2026-09-04T16:06:11+00:00",
     "source": "blog.google",
@@ -256,11 +244,23 @@
     "label": "Gemini",
     "time": "Sep 03, 09:34 AM ET",
     "publishedAt": "2026-09-03T13:34:07+00:00",
-    "source": "Help Net Security",
+    "source": "helpnetsecurity.com",
     "title": "Google’s Gemini 3.8 Flash takes on bigger AI models at a lower cost",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTE1jTnVvZGhWYmd3dzhHUTItNTNGbXBoSG53djFDMkRtVFFBMDU4ZFJvTE1FTmt4TWhOdGsyQWJwOW42M1Y0UVM2X3lwNy13cnB5RFZvaWZ0WF9tY01VQzdvdWc0LXpMXzJzbGs4TXk4SmJpLVE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 02, 05:22 PM ET",
+    "publishedAt": "2026-09-02T21:22:05+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference | Artificial Intelligence",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVTJjWG9UblhrQzZ4TWtrZS1fWmhhM2t4YXhObHk5T2tZZVhaMzA1Nno4Y016S3BNYlV1Q3FvdldLY19uZUNmalFFalpzRHlSS0VSank3dVNZZllwSEJsTWM5UEpvaDJhc05BNXdFT3pHZENfcHpveUZ0VnhtRmFzdHZsRHZMbTc0Q0VnNFJRUlphSnY2elhwTjZZSnU5NUw0MklhbFFlZGNHZERXU2o1Y1ltNkcyQnlLeHFpcjEzMlBJNHpzbTNUWnNpTnMxOFhua2RxRS1jSnJIQy1Lc0xn?oc=5",
     "difficulty": "News"
   },
   {
@@ -336,6 +336,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 26, 03:00 AM ET",
+    "publishedAt": "2026-08-26T07:00:00+00:00",
+    "source": "salesforce.com",
+    "title": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM",
+    "summary": "salesforce.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklqU2RlQWZLY3c5dG9uaF83Z0xHSHNuQzNHSGZOTWw3c2wzSmtGTE45VzlWaF80R2tON1JfcFhFVC1walRFUmRyVDA1UkdoQ3pydUdKc1hPTm9SQTV0akl4aWV6NlVqR3ZtSEhCYjJlRTJTOTJYWHU2aDJIWjl0c21ReTJDRVlKb0pwRVE3MTJLdUdVeE9tSGJuQ2hoN3RBbFMtTGJrdw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 17, 03:00 AM ET",
@@ -345,18 +357,6 @@
     "summary": "GeekWire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 30, 03:00 AM ET",
-    "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "Oracle",
-    "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "Oracle is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
   },
   {
