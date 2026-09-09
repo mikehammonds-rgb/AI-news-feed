@@ -2,11 +2,11 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 09, 01:00 AM ET",
-    "publishedAt": "2026-09-09T05:00:55+00:00",
-    "source": "OpenAI",
+    "time": "Sep 09, 05:55 AM ET",
+    "publishedAt": "2026-09-09T09:55:12+00:00",
+    "source": "openai.com",
     "title": "GPT-6 Astra: A new generation of intelligence",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
     "difficulty": "News"
@@ -14,13 +14,25 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 08, 09:12 PM ET",
-    "publishedAt": "2026-09-09T01:12:36+00:00",
-    "source": "On Pattison",
-    "title": "Claude Opus 5 Tool Use: Wiring It Into an Agent, and Watching the Bill",
-    "summary": "On Pattison is reporting this update. Open the article for the full story.",
+    "time": "Sep 09, 04:54 AM ET",
+    "publishedAt": "2026-09-09T08:54:53+00:00",
+    "source": "Steel Curtain Network",
+    "title": "Streaming the Claude Opus 5 API: First Tokens, Not Last Words",
+    "summary": "Steel Curtain Network is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWDV2VWdxNnJUcjZnSGlsenE3Snc5Q0JxazZGUmxqNHdnSDZvUmVCXzhUbThQTHg3Z3d6MmhiTlZfMmFEWk5mbURjLUlHZGphY2o3bWRxcDBRTUw4eUVwdDVrYkhCME5UR0pndnBkeXJ4MVNPWVlTNF9PcjJpdGcwTF9Ucm56T2R5b0tGRXQ1UTZsald5MEZKdDludDA5U1RIT0NDTzE0ZE5Edw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWtNTmIwZGNjd0puMmhqLXVlM2p4UnJUdUhHRkp0V2hqbEZNaDdvUmZiUG9rSGc4QzlWN1E3QURuS19CdVdNTEVxcmZUY21VeTdWSTdBVXFVLVAtUE1SWjFFSWRVWkNTSF9mUWpqMjJFN1d1OHcwM1V1UVpJUEFBTVZ6VW1LdDJTQTh2dWk2V0dEU0tFSTlYXzZsd3ktUUVqWVk0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 09, 03:00 AM ET",
+    "publishedAt": "2026-09-09T07:00:09+00:00",
+    "source": "SitePoint",
+    "title": "Mastering Claude and ChatGPT: Developers Guide to Advanced Prompting",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMlAySkVzWmdETUszaFFZZjdncDdkWlRJT3hPQVZobEhXSUpxdFJYLXRCdmlqS1Z2QVN5RjBaYXg4NW1UWTFtQWRNNGR1WTI2ODJvRDF2NGFpdEVvZzM2a3N6azJqVHdac19ESG5zZU5ZdDhELVE4dHFfcDJTTFE4VTFPQnlYZmZQT1d2YkN5dDNlQkpuTTNkcjRR?oc=5",
     "difficulty": "News"
   },
   {
@@ -33,6 +45,18 @@
     "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNF83SGpYVzNoWHFaRzRoaTNkVFhsdGFxY2NGRGExWnd3SVQzd3dGNkFDbi01SGNydTFFcm0wdjUzRy1fR0E0ckloQ1lZOHJFWnd4Y0g3TmVCengzMFU2VW9WbzdWVTl5M0FXWnpQZDUwaFZydjNiMFp4Q2tfSlN1R3NzSWprOThIbS0wTTBaN1Y0bXpHcy1WLTZOWUhoNXEtOHZn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 08, 05:45 PM ET",
+    "publishedAt": "2026-09-08T21:45:08+00:00",
+    "source": "tech-insider.org",
+    "title": "ChatGPT vs Claude vs Gemini Agent Mode: 19-Point Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Cc2R1Um5IckZhcHZGUk5Td0dlazhNaF9va0RKVmhicG1iRWVkRDNic05zWk9DVzFaQW5ldTJjcnRXWjhoVkFvUFpRMkREVVB5cDFUSG5fWWdBSXZDUnpodnY4UzU2LU1hS1QtV19sRWdjUjZaTU1GaG9wdGs?oc=5",
     "difficulty": "News"
   },
   {
@@ -98,25 +122,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 08, 02:40 PM ET",
-    "publishedAt": "2026-09-08T18:40:46+00:00",
-    "source": "OpenAI",
+    "time": "Sep 08, 02:35 PM ET",
+    "publishedAt": "2026-09-08T18:35:46+00:00",
+    "source": "openai.com",
     "title": "Introducing ChatGPT Images 2.5",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 08, 06:29 AM ET",
-    "publishedAt": "2026-09-08T10:29:34+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Managed Agents Setup: 12 Steps, $0.08/Hr [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iVE41RGtSdmpnTFZxM0dGRjlrWjZmdnlWSzhHUWVPSlZEQTdQbXNjaDBudmlXYnhDc3diVU80OUZqdGdWZ2czX1BHcGxZOFh6dWlOcXA1dFpBSmhiYXpPc2o2M1QzSWRncWc?oc=5",
     "difficulty": "News"
   },
   {
@@ -194,13 +206,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 03, 09:48 AM ET",
-    "publishedAt": "2026-09-03T13:48:30+00:00",
-    "source": "SQ Magazine",
-    "title": "Claude Services Disrupted as Multiple Models Report Elevated Errors",
-    "summary": "SQ Magazine is reporting this update. Open the article for the full story.",
+    "time": "Sep 03, 10:39 AM ET",
+    "publishedAt": "2026-09-03T14:39:32+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Claude AI Faces Outage Impacting Mythos 5.1, Fable 5.1, and Opus 5",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xTjlLVHBEOTdndlZVaTJjMGMyd0ZUdmpTcVZLMFJxcUl4WlVySDlWdWthVDFjUHR5Z0tYTGU5VXQxNmY0Zno1dWlGdW5Nczhodmp3dWNERFNERFM1aTA1SWxqbW91LW4zR3hQcWltWDZSazhn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2ODF1UzdIT18yTTNLVWxVa0hDN2NRU29YeHhaSTkyQjk2N0tpN3RuVE1fTGd4a01ia3MzenFVd0M4cUozV1FCX2s0SEhhTkRILWVWUGprdU94dlo4d3hTaDRZMNIBaEFVX3lxTE90b3A0VFlDanNlUExnV2YwbDdhZVUtbG9WcnU0MExOOFFaTkpjajFlekJHNDlITEtpQmRjdmJPQmJPcm1aX3hjZlhYV1NBVWNydk93aXlxc1pwbUFtLXJYRkdGbmpSLW5L?oc=5",
     "difficulty": "News"
   },
   {
@@ -266,8 +278,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 01, 01:02 PM ET",
-    "publishedAt": "2026-09-01T17:02:52+00:00",
+    "time": "Sep 01, 03:00 AM ET",
+    "publishedAt": "2026-09-01T07:00:00+00:00",
     "source": "blog.google",
     "title": "Introducing agentic video understanding with Gemini",
     "summary": "blog.google is reporting this update. Open the article for the full story.",
@@ -276,27 +288,27 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 31, 07:47 AM ET",
-    "publishedAt": "2026-08-31T11:47:00+00:00",
-    "source": "The Hacker News",
-    "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOakJvcmFsZzJydGVBaFEyS0dVbm13MkU3UTdCWkFxdTdpbzVxbHJobTViZ29CeGZ5U0ZCblJaQ0RQT1Q4cnUzbkMyNTRnZDEwVjFYSmJ2eGl6N0pidFZuY2k2aHY3Z2FGcXhRRHpLTkR6bUlYd25DUTJIbXhDRElLaUtJZw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 31, 03:00 AM ET",
     "publishedAt": "2026-08-31T07:00:00+00:00",
-    "source": "The Hacker News",
+    "source": "thehackernews.com",
     "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDhmbjlyTTFDYVc3aXlGU3ktMmtQOXpzVW5XTHM0S01aMzFQQTlsZkVFNndkOHJwRDZjY2RPcm9fU0ZUUjNTTlRiYW5tWDlhaHBuOGxHV1FxLS15c0RTSHFSU1VPaXFHalRtcUlWbl84RElKcmFmOVFiU1NZUTI2c0RTT1Y?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 31, 03:00 AM ET",
+    "publishedAt": "2026-08-31T07:00:00+00:00",
+    "source": "thehackernews.com",
+    "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOakJvcmFsZzJydGVBaFEyS0dVbm13MkU3UTdCWkFxdTdpbzVxbHJobTViZ29CeGZ5U0ZCblJaQ0RQT1Q4cnUzbkMyNTRnZDEwVjFYSmJ2eGl6N0pidFZuY2k2aHY3Z2FGcXhRRHpLTkR6bUlYd25DUTJIbXhDRElLaUtJZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -316,23 +328,11 @@
     "label": "Codex / LLM Code",
     "time": "Aug 28, 03:00 AM ET",
     "publishedAt": "2026-08-28T07:00:00+00:00",
-    "source": "Reuters",
+    "source": "reuters.com",
     "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-    "summary": "Reuters is reporting this update. Open the article for the full story.",
+    "summary": "reuters.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Aug 18, 03:00 AM ET",
-    "publishedAt": "2026-08-18T07:00:00+00:00",
-    "source": "The New Stack",
-    "title": "A Claude Code skill was eating 200,000 tokens before answering a single question",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tWU9hUmxUQ1ltVDA4ckstcVByaGVFTVFmSGpnaDhNVFprYmJsNVNCTVdVZ0JMcFBOTUU1Y1NaNEQzSi0xeXR5aVU3cGdfVW43Ml9YcUNvTWJVTjFBbUxQaA?oc=5",
     "difficulty": "News"
   },
   {
