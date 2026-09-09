@@ -2,8 +2,8 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 09, 10:35 AM ET",
-    "publishedAt": "2026-09-09T14:35:49+00:00",
+    "time": "Sep 09, 02:15 PM ET",
+    "publishedAt": "2026-09-09T18:15:39+00:00",
     "source": "OpenAI",
     "title": "GPT-6 Astra: A new generation of intelligence",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
@@ -12,15 +12,27 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 09, 09:52 AM ET",
-    "publishedAt": "2026-09-09T13:52:05+00:00",
-    "source": "Crowdfund Insider",
-    "title": "Anthropic Unveils Claude Commerce Agents, Partners With Visa And Mastercard",
-    "summary": "Crowdfund Insider is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 09, 01:04 PM ET",
+    "publishedAt": "2026-09-09T17:04:46+00:00",
+    "source": "TechTarget",
+    "title": "GitHub tests multi-model routing with HydraFusion",
+    "summary": "TechTarget is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUVQya2ZjOFNqVkt1SDdBLU5lZXdldlp4bGJTeVQyVXVsbExYRkhDeVc2aVFSOHFUX0o3bG11UEpfLW1td1lnT1hGcFlGa3dHTko0cG5FOXpXdUxHNTFZa01BelhjWUJWRDVzZzZsSDVQdHV3SmZiUG9ZSldVSWhnQkNNREVWUkdlS2lBaE9FZmptYTBYV1FHbG5tMVhJVkpZY0hIdjhHdFF2NXFxT3lMcGhNRTY4VjdOdkI4TmdZQlo?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRVJSYnY0Ry1LQ2FQVHVPQ293VWU1ckdlYzlzemdwNlQ0WVMwaU8xXzFrTHN6c2Nldi12Zmg2MFp1OWRDd0VLcWNYMFJOWmZHZGZzdC1PcVlsUm5XMHZ2cDV2cUlSc0l5ZGtWckxSRUJOUFZOTnBlS3VRTEtWMlBaMzBqNWIzZEJMdHQ4X0JYUk5SS185QUJRMzhXbUpBOG9YaWx2bG5hRE9vZUNUMHc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 09, 10:52 AM ET",
+    "publishedAt": "2026-09-09T14:52:48+00:00",
+    "source": "TechRepublic",
+    "title": "Best Claude Alternatives for Business: Microsoft Copilot vs Google Gemini in 2026",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTd2Uk1QeDMzVm02OEtuYzU0VGl0S1NJajhURmtBV0FsanplbWE3Vk91NTJsa2t4dmw3cGxZWEdPRG1sek5GYUJHYzFIdDF2UFVQb2FPZTl3MHZYRXVXZ0VCZmZ3OUFSSzlMRTN5NmlUUldhRHBGVnJib1Q1V3V0Uk9LWQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -28,9 +40,9 @@
     "label": "ChatGPT",
     "time": "Sep 09, 05:51 AM ET",
     "publishedAt": "2026-09-09T09:51:59+00:00",
-    "source": "en.cryptonomist.ch",
+    "source": "The Cryptonomist",
     "title": "ChatGPT Images Update Enhances AI Image Generation Speed",
-    "summary": "en.cryptonomist.ch is reporting this update. Open the article for the full story.",
+    "summary": "The Cryptonomist is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xZ0xIRHBoRDFFc1ctSkdfeXUzS3N6Z3JFWXZBRlFnZEJQRDJLS2R5RWNWSGVNdzdmZ0VLcmFzUXhZQjhsZ1VFYUhqRzNTT2RkQVl4ZzBWdnZldzduZTFGSm9fOFVwak1pMXJTRw?oc=5",
     "difficulty": "News"
@@ -52,11 +64,23 @@
     "label": "Claude Code",
     "time": "Sep 09, 03:00 AM ET",
     "publishedAt": "2026-09-09T07:00:09+00:00",
-    "source": "SitePoint",
+    "source": "sitepoint.com",
     "title": "Mastering Claude and ChatGPT: Developers Guide to Advanced Prompting",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "summary": "sitepoint.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMlAySkVzWmdETUszaFFZZjdncDdkWlRJT3hPQVZobEhXSUpxdFJYLXRCdmlqS1Z2QVN5RjBaYXg4NW1UWTFtQWRNNGR1WTI2ODJvRDF2NGFpdEVvZzM2a3N6azJqVHdac19ESG5zZU5ZdDhELVE4dHFfcDJTTFE4VTFPQnlYZmZQT1d2YkN5dDNlQkpuTTNkcjRR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 09, 01:50 AM ET",
+    "publishedAt": "2026-09-09T05:50:38+00:00",
+    "source": "Crowdfund Insider",
+    "title": "Anthropic Unveils Claude Commerce Agents, Partners With Visa And Mastercard",
+    "summary": "Crowdfund Insider is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUVQya2ZjOFNqVkt1SDdBLU5lZXdldlp4bGJTeVQyVXVsbExYRkhDeVc2aVFSOHFUX0o3bG11UEpfLW1td1lnT1hGcFlGa3dHTko0cG5FOXpXdUxHNTFZa01BelhjWUJWRDVzZzZsSDVQdHV3SmZiUG9ZSldVSWhnQkNNREVWUkdlS2lBaE9FZmptYTBYV1FHbG5tMVhJVkpZY0hIdjhHdFF2NXFxT3lMcGhNRTY4VjdOdkI4TmdZQlo?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,18 +93,6 @@
     "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNF83SGpYVzNoWHFaRzRoaTNkVFhsdGFxY2NGRGExWnd3SVQzd3dGNkFDbi01SGNydTFFcm0wdjUzRy1fR0E0ckloQ1lZOHJFWnd4Y0g3TmVCengzMFU2VW9WbzdWVTl5M0FXWnpQZDUwaFZydjNiMFp4Q2tfSlN1R3NzSWprOThIbS0wTTBaN1Y0bXpHcy1WLTZOWUhoNXEtOHZn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 08, 05:45 PM ET",
-    "publishedAt": "2026-09-08T21:45:08+00:00",
-    "source": "tech-insider.org",
-    "title": "ChatGPT vs Claude vs Gemini Agent Mode: 19-Point Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Cc2R1Um5IckZhcHZGUk5Td0dlazhNaF9va0RKVmhicG1iRWVkRDNic05zWk9DVzFaQW5ldTJjcnRXWjhoVkFvUFpRMkREVVB5cDFUSG5fWWdBSXZDUnpodnY4UzU2LU1hS1QtV19sRWdjUjZaTU1GaG9wdGs?oc=5",
     "difficulty": "News"
   },
   {
@@ -124,9 +136,9 @@
     "label": "ChatGPT",
     "time": "Sep 08, 03:30 PM ET",
     "publishedAt": "2026-09-08T19:30:02+00:00",
-    "source": "unite.ai",
+    "source": "Unite.AI",
     "title": "OpenAI Releases ChatGPT Images 2.5 With Sketch and Two New API Models",
-    "summary": "unite.ai is reporting this update. Open the article for the full story.",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmloMS11ZXBoeDNxcld1aEk2ZUNfR1Qyd25UaGdxWVRVYml4a1o3a0FGY3ZndW5GWmtINUZwaVZYakNnRGVuUXlUejFSRVNLM2puaWdhSUZ5N1lTZWxxeTNxQ25pVWE0WnlXZHJZbG5UREFQZE1nZlZjSXdxYWVFSkx2aWc0TDhWVlBhdnJsLVFiTC1paXc?oc=5",
     "difficulty": "News"
@@ -134,13 +146,25 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 08, 02:50 PM ET",
-    "publishedAt": "2026-09-08T18:50:00+00:00",
-    "source": "9to5Mac",
-    "title": "OpenAI releases ChatGPT Images 2.5 with ‘sharper details’ and ‘more precise editing’",
-    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
+    "time": "Sep 08, 02:35 PM ET",
+    "publishedAt": "2026-09-08T18:35:46+00:00",
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT Images 2.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3A1NzBwS0tzZzhCelRMQlBjMjFVeWtfUTFrTUNmZDhaY1lDTHQzend0RmlJOHppOUVrWi1QQ2Jzd3RkWEw3dFphOFp6c19SZ0hwMUNEMGU0dkZrdkdXZC1kVTNCbEZnZE5nSndqYTlqVkZPM0pWRGlDYWJTcVV5ZXFPYURVNE8wOXNWMUxOVDBqckdlXzAyak53bVBlZC1hSmdUSkFYX1BTVmFaMFlSVkN3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 08, 06:29 AM ET",
+    "publishedAt": "2026-09-08T10:29:34+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Managed Agents Setup: 12 Steps, $0.08/Hr [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iVE41RGtSdmpnTFZxM0dGRjlrWjZmdnlWSzhHUWVPSlZEQTdQbXNjaDBudmlXYnhDc3diVU80OUZqdGdWZ2czX1BHcGxZOFh6dWlOcXA1dFpBSmhiYXpPc2o2M1QzSWRncWc?oc=5",
     "difficulty": "News"
   },
   {
@@ -172,9 +196,9 @@
     "label": "Gemini",
     "time": "Sep 06, 03:31 AM ET",
     "publishedAt": "2026-09-06T07:31:16+00:00",
-    "source": "PPC Land",
+    "source": "ppc.land",
     "title": "Google's Lyria 3.5 puts full-length AI songs in Gemini and the API",
-    "summary": "PPC Land is reporting this update. Open the article for the full story.",
+    "summary": "ppc.land is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN1FQZnZYekNnY2xfRjA1V3E5WDAtdE1kLTdocENWUF81T2ktNnVIelA0elI1aUF1QmowVXdJLTl4YWQ5c3FtTmFiQ1RRN21JbTR1R1FxVlhhVkYwZFQ0amVDelBVN3lSdjBfZGY5X1Y5MFc3N3dpazljVmVaUW5SX0pYczVBTmxZU1E4?oc=5",
     "difficulty": "News"
@@ -237,18 +261,6 @@
     "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTE1jTnVvZGhWYmd3dzhHUTItNTNGbXBoSG53djFDMkRtVFFBMDU4ZFJvTE1FTmt4TWhOdGsyQWJwOW42M1Y0UVM2X3lwNy13cnB5RFZvaWZ0WF9tY01VQzdvdWc0LXpMXzJzbGs4TXk4SmJpLVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 02, 08:02 PM ET",
-    "publishedAt": "2026-09-03T00:02:35+00:00",
-    "source": "VentureBeat",
-    "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHpNUnplNkRkbUhZNFNRbXpENzJfdzFKelp1akdHeEhWMXRJZTVfU0R6clE5WUc2S2U0N2E0ZGZCaFlMczNybUdTdUc0UmtvQXF0dDVGWUlzUmxJN3NZNENaY2dVLW4wREtCTFF3YzAyUGJ4WUhFT2tfYUZNVE0yZDhqaDFkZUtJd3BnZVFhaW1COHBDRG12OXZHVVFyejBLSDNQWmU0UjNFUWRVZ0tGdll2SUxaM1FscHVHTg?oc=5",
     "difficulty": "News"
   },
   {
@@ -340,23 +352,11 @@
     "label": "Codex / LLM Code",
     "time": "Aug 17, 03:00 AM ET",
     "publishedAt": "2026-08-17T07:00:00+00:00",
-    "source": "GeekWire",
+    "source": "geekwire.com",
     "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform",
-    "summary": "GeekWire is reporting this update. Open the article for the full story.",
+    "summary": "geekwire.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 17, 03:00 AM ET",
-    "publishedAt": "2026-08-17T07:00:00+00:00",
-    "source": "Yahoo Finance",
-    "title": "SpaceX closes $60bn acquisition of AI coding agent Cursor",
-    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcm1hTjA3Z0hNanMxOEFfTzdwZGpkRXE4cUpxT3N5eXBpUk83azBhQk1QVHBRdUt1ck9CRWlhekxQQ09zUjcwOUxXS29FRjduQUNRbHBLcjU5d2hUc3VCZ2lPSDhQMXFXQjNoWmJ4emNlMkFvNkY5QThiUWZSU0pLV05BSWVHbGItblRCX3RFTTdSY1ZCNkt1N3lPUzJnZw?oc=5",
     "difficulty": "News"
   },
   {
