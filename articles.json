@@ -2,8 +2,8 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 09, 07:22 PM ET",
-    "publishedAt": "2026-09-09T23:22:08+00:00",
+    "time": "Sep 09, 09:18 PM ET",
+    "publishedAt": "2026-09-10T01:18:37+00:00",
     "source": "OpenAI",
     "title": "GPT-6 Astra: A new generation of intelligence",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
@@ -12,15 +12,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 09, 05:47 PM ET",
-    "publishedAt": "2026-09-09T21:47:05+00:00",
-    "source": "OpenAI",
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 09, 01:28 PM ET",
+    "publishedAt": "2026-09-09T17:28:07+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Use Nano Banana 2 API: 13 Steps, $0.067/Image [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WRGEzaVJYOUc5dHVkRmNxS0lQY0c0WXBYZ0k5WVFGSGhqaHJKVnRoWkxlZVZJX0p1QnBmaWdkX0Fvem41LUNQVHA4VURYQ2J4T2pmQ2hPR1hvcXNEREdOVEowbzE3NnVtU2VZ?oc=5",
     "difficulty": "News"
   },
   {
@@ -48,25 +48,13 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 09, 10:52 AM ET",
-    "publishedAt": "2026-09-09T14:52:48+00:00",
-    "source": "TechRepublic",
-    "title": "Best Claude Alternatives for Business: Microsoft Copilot vs Google Gemini in 2026",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTd2Uk1QeDMzVm02OEtuYzU0VGl0S1NJajhURmtBV0FsanplbWE3Vk91NTJsa2t4dmw3cGxZWEdPRG1sek5GYUJHYzFIdDF2UFVQb2FPZTl3MHZYRXVXZ0VCZmZ3OUFSSzlMRTN5NmlUUldhRHBGVnJib1Q1V3V0Uk9LWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 09, 04:54 AM ET",
     "publishedAt": "2026-09-09T08:54:53+00:00",
-    "source": "steelcurtainnetwork.com",
+    "source": "Steel Curtain Network",
     "title": "Streaming the Claude Opus 5 API: First Tokens, Not Last Words",
-    "summary": "steelcurtainnetwork.com is reporting this update. Open the article for the full story.",
+    "summary": "Steel Curtain Network is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWtNTmIwZGNjd0puMmhqLXVlM2p4UnJUdUhHRkp0V2hqbEZNaDdvUmZiUG9rSGc4QzlWN1E3QURuS19CdVdNTEVxcmZUY21VeTdWSTdBVXFVLVAtUE1SWjFFSWRVWkNTSF9mUWpqMjJFN1d1OHcwM1V1UVpJUEFBTVZ6VW1LdDJTQTh2dWk2V0dEU0tFSTlYXzZsd3ktUUVqWVk0?oc=5",
     "difficulty": "News"
@@ -100,9 +88,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 08, 05:41 PM ET",
     "publishedAt": "2026-09-08T21:41:00+00:00",
-    "source": "The Tech Buzz",
+    "source": "techbuzz.ai",
     "title": "Cognition Hits $48B Valuation in AI Coding Race",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "summary": "techbuzz.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnlsdUNHNThHTHJ2cTVzUVVCYWNtVGVwUnBYWW5KVVBkSi0xZGdleThnUHFTSldEdVhHSUhvRnBwS1RCRGtCdE84QUxZMWF4aE9xbjk0ODFTM1lmOUFLR3BXSXlGYkpyVnpEV09ja1psQ2lvWTdrOGFmQzc0b2hRbDZzd1duZw?oc=5",
     "difficulty": "News"
@@ -124,9 +112,9 @@
     "label": "ChatGPT",
     "time": "Sep 08, 03:30 PM ET",
     "publishedAt": "2026-09-08T19:30:02+00:00",
-    "source": "unite.ai",
+    "source": "Unite.AI",
     "title": "OpenAI Releases ChatGPT Images 2.5 With Sketch and Two New API Models",
-    "summary": "unite.ai is reporting this update. Open the article for the full story.",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmloMS11ZXBoeDNxcld1aEk2ZUNfR1Qyd25UaGdxWVRVYml4a1o3a0FGY3ZndW5GWmtINUZwaVZYakNnRGVuUXlUejFSRVNLM2puaWdhSUZ5N1lTZWxxeTNxQ25pVWE0WnlXZHJZbG5UREFQZE1nZlZjSXdxYWVFSkx2aWc0TDhWVlBhdnJsLVFiTC1paXc?oc=5",
     "difficulty": "News"
@@ -141,6 +129,18 @@
     "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3A1NzBwS0tzZzhCelRMQlBjMjFVeWtfUTFrTUNmZDhaY1lDTHQzend0RmlJOHppOUVrWi1QQ2Jzd3RkWEw3dFphOFp6c19SZ0hwMUNEMGU0dkZrdkdXZC1kVTNCbEZnZE5nSndqYTlqVkZPM0pWRGlDYWJTcVV5ZXFPYURVNE8wOXNWMUxOVDBqckdlXzAyak53bVBlZC1hSmdUSkFYX1BTVmFaMFlSVkN3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 08, 02:40 PM ET",
+    "publishedAt": "2026-09-08T18:40:46+00:00",
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT Images 2.5",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
     "difficulty": "News"
   },
   {
@@ -196,23 +196,11 @@
     "label": "Gemini",
     "time": "Sep 06, 02:18 AM ET",
     "publishedAt": "2026-09-06T06:18:14+00:00",
-    "source": "weraveyou.com",
+    "source": "We Rave You",
     "title": "Google brings Lyria 3.5 AI music generation to Gemini",
-    "summary": "weraveyou.com is reporting this update. Open the article for the full story.",
+    "summary": "We Rave You is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zc0dsVWl0SWwzdGtUZHU2OUFCM0MyOUZxR0xfUHJTS3J1Q3FlMS1EVEZxWmZTVnR4ZWM5Z3ZiSGs2WjJfdFNsdk5PWWVTVUpuXy1hRlRYbXdxelQ3YjFMVmpQQ1hfc3ZseHJwNWRqMXQyWklMWmdzWXlabjNTVlU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 05, 06:52 AM ET",
-    "publishedAt": "2026-09-05T10:52:28+00:00",
-    "source": "Dealroom",
-    "title": "Google DeepMind brings Lyria 3.5 to Gemini products",
-    "summary": "Dealroom is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjVjWC1nTndrc2tVeTJIbF96VlE3MjlwTmZ3b3VINFZVa0tWR1UzUk1PVXkwU0Z5U2w3UzJNRzdmaVR6Q0hDdmJQcDdidm5WUU93R2FNeExucHNXQWs0VGpiejNmSHFnVFNtRDU4Tk1GOVFFeWRGTjYtSnBYN2dBQjZsWFRMTkVQNEZGS3NR?oc=5",
     "difficulty": "News"
   },
   {
@@ -244,9 +232,9 @@
     "label": "Gemini",
     "time": "Sep 03, 09:34 AM ET",
     "publishedAt": "2026-09-03T13:34:07+00:00",
-    "source": "helpnetsecurity.com",
+    "source": "Help Net Security",
     "title": "Google’s Gemini 3.8 Flash takes on bigger AI models at a lower cost",
-    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTE1jTnVvZGhWYmd3dzhHUTItNTNGbXBoSG53djFDMkRtVFFBMDU4ZFJvTE1FTmt4TWhOdGsyQWJwOW42M1Y0UVM2X3lwNy13cnB5RFZvaWZ0WF9tY01VQzdvdWc0LXpMXzJzbGs4TXk4SmJpLVE?oc=5",
     "difficulty": "News"
@@ -340,11 +328,23 @@
     "label": "Claude Code",
     "time": "Aug 26, 03:00 AM ET",
     "publishedAt": "2026-08-26T07:00:00+00:00",
-    "source": "salesforce.com",
+    "source": "Salesforce",
     "title": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM",
-    "summary": "salesforce.com is reporting this update. Open the article for the full story.",
+    "summary": "Salesforce is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklqU2RlQWZLY3c5dG9uaF83Z0xHSHNuQzNHSGZOTWw3c2wzSmtGTE45VzlWaF80R2tON1JfcFhFVC1walRFUmRyVDA1UkdoQ3pydUdKc1hPTm9SQTV0akl4aWV6NlVqR3ZtSEhCYjJlRTJTOTJYWHU2aDJIWjl0c21ReTJDRVlKb0pwRVE3MTJLdUdVeE9tSGJuQ2hoN3RBbFMtTGJrdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 26, 03:00 AM ET",
+    "publishedAt": "2026-08-26T07:00:00+00:00",
+    "source": "Ars Technica",
+    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGx5ZU85MkhfYTUweHk3X2NteExrRTRxRUlGOTZ5QVVIalBjcDlVSGhKRkJzV1BuMG5RSm9ZXzhqYlNBMU1HYW9TS0JpZ1F6dGV2a3EyRC1qTk50Z0dxWDJ0MzBZQ1g4OXEzbThidVcxUFRHeWhvLXBUcC1yUUx6ZG9GOFZpVGdxN2h5YmtBTDVFd1ZyY1NSdUV2TDc5cmpZdnctREN1Yw?oc=5",
     "difficulty": "News"
   },
   {
