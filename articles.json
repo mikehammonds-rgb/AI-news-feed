@@ -2,11 +2,11 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 09, 09:18 PM ET",
-    "publishedAt": "2026-09-10T01:18:37+00:00",
-    "source": "OpenAI",
+    "time": "Sep 10, 12:24 AM ET",
+    "publishedAt": "2026-09-10T04:24:38+00:00",
+    "source": "openai.com",
     "title": "GPT-6 Astra: A new generation of intelligence",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
     "difficulty": "News"
@@ -14,13 +14,37 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 09, 01:28 PM ET",
-    "publishedAt": "2026-09-09T17:28:07+00:00",
+    "time": "Sep 09, 09:01 PM ET",
+    "publishedAt": "2026-09-10T01:01:07+00:00",
     "source": "tech-insider.org",
-    "title": "How to Use Nano Banana 2 API: 13 Steps, $0.067/Image [2026]",
+    "title": "How to Use Gemini 3.8 Flash: 12 Steps, $0.75/M [2026]",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WRGEzaVJYOUc5dHVkRmNxS0lQY0c0WXBYZ0k5WVFGSGhqaHJKVnRoWkxlZVZJX0p1QnBmaWdkX0Fvem41LUNQVHA4VURYQ2J4T2pmQ2hPR1hvcXNEREdOVEowbzE3NnVtU2VZ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HYUg1a21LV0R6R1BpMlZHcWNVN3k5MXJ2dUdBY3pVSFo3M3MzVXNtS3gyRTF5aTMzYkJBX0M2Y1pXYWt5Q0d1cU1oVUhRTExUdmo0ZmV5QTFLaGtvNWV6UWNjbW40c1BOODZBMW9n?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 09, 05:47 PM ET",
+    "publishedAt": "2026-09-09T21:47:05+00:00",
+    "source": "openai.com",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 09, 05:27 PM ET",
+    "publishedAt": "2026-09-09T21:27:26+00:00",
+    "source": "tech-insider.org",
+    "title": "ChatGPT vs Claude vs Gemini: 35K-Report Outage Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWVRSEZKS2tFclFxX19nSEVFSHNyNVpKdzQ2bFk5VUt0SkdCQUpnSzNySnd1dGdIdHZEellQai1GMVVtZjJvQXdNaGRXcWxjWFgxV2p4Mm96RnQ1azZLdUtWdHQ0NlZ4MUpkMGlmd0tBVmlWSVJOYlVwOWRLX2huMUJpaG9CMkk?oc=5",
     "difficulty": "News"
   },
   {
@@ -33,30 +57,6 @@
     "summary": "TechTarget is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRVJSYnY0Ry1LQ2FQVHVPQ293VWU1ckdlYzlzemdwNlQ0WVMwaU8xXzFrTHN6c2Nldi12Zmg2MFp1OWRDd0VLcWNYMFJOWmZHZGZzdC1PcVlsUm5XMHZ2cDV2cUlSc0l5ZGtWckxSRUJOUFZOTnBlS3VRTEtWMlBaMzBqNWIzZEJMdHQ4X0JYUk5SS185QUJRMzhXbUpBOG9YaWx2bG5hRE9vZUNUMHc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 09, 11:47 AM ET",
-    "publishedAt": "2026-09-09T15:47:00+00:00",
-    "source": "Coursera",
-    "title": "AI Coding Explained: Tools, Benefits, and Limitations",
-    "summary": "Coursera is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GSkhiTWhUWm1OV29KMTRzdGE3Z284Q1dlVXhHT0o2aXBRdlMwVnpHMDVyWWVaNEo2b212SHFUSUJOUEFJRjd1ZU5pUE5rSnNYMGc0cWZn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 09, 04:54 AM ET",
-    "publishedAt": "2026-09-09T08:54:53+00:00",
-    "source": "Steel Curtain Network",
-    "title": "Streaming the Claude Opus 5 API: First Tokens, Not Last Words",
-    "summary": "Steel Curtain Network is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWtNTmIwZGNjd0puMmhqLXVlM2p4UnJUdUhHRkp0V2hqbEZNaDdvUmZiUG9rSGc4QzlWN1E3QURuS19CdVdNTEVxcmZUY21VeTdWSTdBVXFVLVAtUE1SWjFFSWRVWkNTSF9mUWpqMjJFN1d1OHcwM1V1UVpJUEFBTVZ6VW1LdDJTQTh2dWk2V0dEU0tFSTlYXzZsd3ktUUVqWVk0?oc=5",
     "difficulty": "News"
   },
   {
@@ -88,9 +88,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 08, 05:41 PM ET",
     "publishedAt": "2026-09-08T21:41:00+00:00",
-    "source": "techbuzz.ai",
+    "source": "The Tech Buzz",
     "title": "Cognition Hits $48B Valuation in AI Coding Race",
-    "summary": "techbuzz.ai is reporting this update. Open the article for the full story.",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnlsdUNHNThHTHJ2cTVzUVVCYWNtVGVwUnBYWW5KVVBkSi0xZGdleThnUHFTSldEdVhHSUhvRnBwS1RCRGtCdE84QUxZMWF4aE9xbjk0ODFTM1lmOUFLR3BXSXlGYkpyVnpEV09ja1psQ2lvWTdrOGFmQzc0b2hRbDZzd1duZw?oc=5",
     "difficulty": "News"
@@ -132,30 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 08, 02:40 PM ET",
-    "publishedAt": "2026-09-08T18:40:46+00:00",
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT Images 2.5",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 08, 06:29 AM ET",
-    "publishedAt": "2026-09-08T10:29:34+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Managed Agents Setup: 12 Steps, $0.08/Hr [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iVE41RGtSdmpnTFZxM0dGRjlrWjZmdnlWSzhHUWVPSlZEQTdQbXNjaDBudmlXYnhDc3diVU80OUZqdGdWZ2czX1BHcGxZOFh6dWlOcXA1dFpBSmhiYXpPc2o2M1QzSWRncWc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Sep 08, 05:22 AM ET",
@@ -165,6 +141,18 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDlKNmJLOG0tUzBYR3k2VXhCM0hYQm5nUWZSaFl6LWQyTVpwZkxnUHdGWTh3NjhtMDJwcE9mZXh3alRQcTJPSG9DeTRldlJyRWZUdTNzd243NUdmQVFmV2tJb1F0STg1eDJWNjUxY1Zvdk1SbDk0MmpTOF9KLTBSVkFxb0Q5SHN1Z3FDMEJVWTVMbXcwUUEw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 08, 12:28 AM ET",
+    "publishedAt": "2026-09-08T04:28:10+00:00",
+    "source": "PCMag Middle East",
+    "title": "Fable 5.1 Fixed Its Worst Flaws, But I’m Still Sticking With Opus",
+    "summary": "PCMag Middle East is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUJHRTBYaW1kX01admpwdU0xbzVBc2tLQmNoR2R6Nzh1NE5HcU5uY3p5RDNtZkVtcWhldl9Eb3RweFM2aWlnd1Nma3d3eDh2RF9xenNTMG1FYUg2VGVaTjd4QnlPRHgwdmJhZTFrbE0tU3ZodTAtd2o5bzFzNlRCeXkyQW9VQ0NQNUxMLVZxeHF1QnluZnlxeVk0VQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -336,15 +324,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Aug 26, 03:00 AM ET",
-    "publishedAt": "2026-08-26T07:00:00+00:00",
-    "source": "Ars Technica",
-    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 18, 03:00 AM ET",
+    "publishedAt": "2026-08-18T07:00:00+00:00",
+    "source": "TechCrunch",
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGx5ZU85MkhfYTUweHk3X2NteExrRTRxRUlGOTZ5QVVIalBjcDlVSGhKRkJzV1BuMG5RSm9ZXzhqYlNBMU1HYW9TS0JpZ1F6dGV2a3EyRC1qTk50Z0dxWDJ0MzBZQ1g4OXEzbThidVcxUFRHeWhvLXBUcC1yUUx6ZG9GOFZpVGdxN2h5YmtBTDVFd1ZyY1NSdUV2TDc5cmpZdnctREN1Yw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMGFUOGdYUlZUMVlaeU1xQnY2X1ZxMFItc181SW9fRERDejh0QVdYdG03a2p3NUVOX2MzQUdDOE51bWxfUzdHOE9ZWGc2VGxEcUdSRnBObnZtMDNUQjlGQ2ZYUzJvX21vVXVGbXFfQTlfSnRQdl9mM19NTDNmbmpoQ2hfYlcxSEJGV0dFTWE2ZjRZX2dSVmd3WkVlVzRFWk44S2tfSkpKVDI3Vm8?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,6 +345,18 @@
     "summary": "GeekWire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 03:00 AM ET",
+    "publishedAt": "2026-07-30T07:00:00+00:00",
+    "source": "Oracle",
+    "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
+    "summary": "Oracle is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
   },
   {
