@@ -2,11 +2,11 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 10, 12:24 AM ET",
-    "publishedAt": "2026-09-10T04:24:38+00:00",
-    "source": "openai.com",
+    "time": "Sep 10, 07:38 AM ET",
+    "publishedAt": "2026-09-10T11:38:08+00:00",
+    "source": "OpenAI",
     "title": "GPT-6 Astra: A new generation of intelligence",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
     "difficulty": "News"
@@ -28,23 +28,23 @@
     "label": "ChatGPT",
     "time": "Sep 09, 05:47 PM ET",
     "publishedAt": "2026-09-09T21:47:05+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 09, 05:27 PM ET",
-    "publishedAt": "2026-09-09T21:27:26+00:00",
-    "source": "tech-insider.org",
-    "title": "ChatGPT vs Claude vs Gemini: 35K-Report Outage Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 09, 01:30 PM ET",
+    "publishedAt": "2026-09-09T17:30:15+00:00",
+    "source": "Startup Fortune",
+    "title": "OpenAI Cuts ChatGPT Image Generation Time in Half With Images 2.5",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWVRSEZKS2tFclFxX19nSEVFSHNyNVpKdzQ2bFk5VUt0SkdCQUpnSzNySnd1dGdIdHZEellQai1GMVVtZjJvQXdNaGRXcWxjWFgxV2p4Mm96RnQ1azZLdUtWdHQ0NlZ4MUpkMGlmd0tBVmlWSVJOYlVwOWRLX2huMUJpaG9CMkk?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR2pRelljZzQ2ODAxdTlfeFh2VTktT2szNU92eVMwckxCdW02dU1qeFh0eWdVMk9NX2s4X25jV1hibWxnTDl0WTRXYTduSnBEcUpIME9TR09oTC11V2NiVlh5VjNUMjUydUlmd2ttWXVkS2JvZUxNMm9reHdJRGlFVWZUSGhVVTM0OGgyODB5VXJvb1Q4M0hr?oc=5",
     "difficulty": "News"
   },
   {
@@ -132,6 +132,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 08, 06:29 AM ET",
+    "publishedAt": "2026-09-08T10:29:34+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Managed Agents Setup: 12 Steps, $0.08/Hr [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iVE41RGtSdmpnTFZxM0dGRjlrWjZmdnlWSzhHUWVPSlZEQTdQbXNjaDBudmlXYnhDc3diVU80OUZqdGdWZ2czX1BHcGxZOFh6dWlOcXA1dFpBSmhiYXpPc2o2M1QzSWRncWc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Sep 08, 05:22 AM ET",
@@ -141,18 +153,6 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDlKNmJLOG0tUzBYR3k2VXhCM0hYQm5nUWZSaFl6LWQyTVpwZkxnUHdGWTh3NjhtMDJwcE9mZXh3alRQcTJPSG9DeTRldlJyRWZUdTNzd243NUdmQVFmV2tJb1F0STg1eDJWNjUxY1Zvdk1SbDk0MmpTOF9KLTBSVkFxb0Q5SHN1Z3FDMEJVWTVMbXcwUUEw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 08, 12:28 AM ET",
-    "publishedAt": "2026-09-08T04:28:10+00:00",
-    "source": "PCMag Middle East",
-    "title": "Fable 5.1 Fixed Its Worst Flaws, But I’m Still Sticking With Opus",
-    "summary": "PCMag Middle East is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUJHRTBYaW1kX01admpwdU0xbzVBc2tLQmNoR2R6Nzh1NE5HcU5uY3p5RDNtZkVtcWhldl9Eb3RweFM2aWlnd1Nma3d3eDh2RF9xenNTMG1FYUg2VGVaTjd4QnlPRHgwdmJhZTFrbE0tU3ZodTAtd2o5bzFzNlRCeXkyQW9VQ0NQNUxMLVZxeHF1QnluZnlxeVk0VQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,30 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 03, 09:34 AM ET",
-    "publishedAt": "2026-09-03T13:34:07+00:00",
-    "source": "Help Net Security",
-    "title": "Google’s Gemini 3.8 Flash takes on bigger AI models at a lower cost",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTE1jTnVvZGhWYmd3dzhHUTItNTNGbXBoSG53djFDMkRtVFFBMDU4ZFJvTE1FTmt4TWhOdGsyQWJwOW42M1Y0UVM2X3lwNy13cnB5RFZvaWZ0WF9tY01VQzdvdWc0LXpMXzJzbGs4TXk4SmJpLVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 02, 05:22 PM ET",
-    "publishedAt": "2026-09-02T21:22:05+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVTJjWG9UblhrQzZ4TWtrZS1fWmhhM2t4YXhObHk5T2tZZVhaMzA1Nno4Y016S3BNYlV1Q3FvdldLY19uZUNmalFFalpzRHlSS0VSank3dVNZZllwSEJsTWM5UEpvaDJhc05BNXdFT3pHZENfcHpveUZ0VnhtRmFzdHZsRHZMbTc0Q0VnNFJRUlphSnY2elhwTjZZSnU5NUw0MklhbFFlZGNHZERXU2o1Y1ltNkcyQnlLeHFpcjEzMlBJNHpzbTNUWnNpTnMxOFhua2RxRS1jSnJIQy1Lc0xn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 02, 05:05 AM ET",
@@ -261,6 +237,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 01, 03:00 AM ET",
+    "publishedAt": "2026-09-01T07:00:00+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Introducing Claude Fable 5.1 on AWS | Amazon Web Services",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRktHdVJiSWtrU2l4ZnJ6a3R5OXo1QzVoWjF0WjMwTUFkU1hPeGFKRC03UWpMMGNkYzdidTlBWUJacVFpRGxuMDRaNW5xcm9DRmxWSnpyZTNiTHhpb3ZjT2xlV1lJdXIwR2NNUEljcjAxenlKcDhackkyc1dUazdYeDU3SngySEFmcVE?oc=5",
     "difficulty": "News"
   },
   {
@@ -324,6 +312,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Aug 26, 03:00 AM ET",
+    "publishedAt": "2026-08-26T07:00:00+00:00",
+    "source": "Ars Technica",
+    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGx5ZU85MkhfYTUweHk3X2NteExrRTRxRUlGOTZ5QVVIalBjcDlVSGhKRkJzV1BuMG5RSm9ZXzhqYlNBMU1HYW9TS0JpZ1F6dGV2a3EyRC1qTk50Z0dxWDJ0MzBZQ1g4OXEzbThidVcxUFRHeWhvLXBUcC1yUUx6ZG9GOFZpVGdxN2h5YmtBTDVFd1ZyY1NSdUV2TDc5cmpZdnctREN1Yw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 18, 03:00 AM ET",
@@ -340,9 +340,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 17, 03:00 AM ET",
     "publishedAt": "2026-08-17T07:00:00+00:00",
-    "source": "GeekWire",
+    "source": "geekwire.com",
     "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform",
-    "summary": "GeekWire is reporting this update. Open the article for the full story.",
+    "summary": "geekwire.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
     "difficulty": "News"
