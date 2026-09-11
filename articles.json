@@ -2,13 +2,61 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 10, 11:35 PM ET",
-    "publishedAt": "2026-09-11T03:35:56+00:00",
+    "time": "Sep 11, 04:40 AM ET",
+    "publishedAt": "2026-09-11T08:40:03+00:00",
     "source": "OpenAI",
     "title": "GPT-6 Astra: A new generation of intelligence",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 11, 04:29 AM ET",
+    "publishedAt": "2026-09-11T08:29:59+00:00",
+    "source": "OpenAI",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 11, 04:13 AM ET",
+    "publishedAt": "2026-09-11T08:13:21+00:00",
+    "source": "the-decoder.com",
+    "title": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONzl3aXZCbzljWDRickNLejJmcUY4WkprN2NmOGFvc0dWSlVuWUxpalAyVzM4ZE9mSzJjVWNHVmhPN2xQMnZyYy1MMXFIb0hwUFQwTmpITTM0MTVrZkhlOHlrMS1Pb0UyVzNSWm84WkM1aU5jZ3I3YnEtR3NZVjhLZnoxMjlDano2THVhOF9MNHIyM3pTWmRvdVhwU2RVemppeHV4ZzdYQ0htcE5I?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 11, 02:11 AM ET",
+    "publishedAt": "2026-09-11T06:11:53+00:00",
+    "source": "Firstpost",
+    "title": "DeepSeek and Moonshot allegedly used Claude to answer their customers’ AI queries: Report",
+    "summary": "Firstpost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUdIcDhOdDNidzh0dXB0bUhYN28tZDhaclZGanJaUHQ3ZHRNcXI4UUFKWFh6ZDdfOTdha3pnRTdhMUlkTldRNjBYcEFPaFRmalQyNndtckdMVVFzY3BITkd4ajgwTHJEckxVRjkxZEg0VjBlT2R0Mllrb01GOW5tZGNGeWVTS1l1YzF6QTJUNzFZNnVzZXgtS1pYZFJVdWZwakczaTJvOWxKaFgxR3R2MUR2bjhCWmdlOG5CV0NoaTRmalYxTFlTZEpqc0vSAdIBQVVfeXFMUFRHbzBYMXFqRnM1SFpGQjY5aXN4S28tOW1qZ0N3YklOYkIwcjd0Tk1JcEt5VFp0b0pZbk5EcWVobDBfeW9HM01IX0hEUXktRXF6MFNuUU9lS2hqZUFtS2xEMmRwY1ZCbmlUUWV3eHZMbFpteTV6UHM2b2FqcG5nMzIyV052M0ZpRDNoQkZ5SGZPdHRHU2dnaFhBTjFjVkdBOUZYN3RNU0hBRy1aUzhPNjVGdTlZNnpkN2tnclJNaElyUWtKNVdQNlQ5Z1FsUVd1aHF3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 10, 08:59 PM ET",
+    "publishedAt": "2026-09-11T00:59:26+00:00",
+    "source": "tech-insider.org",
+    "title": "OpenAI AgentKit Setup: Agents SDK in 12 Steps [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10WHZXMW9MWmVOT2VZalNwZkE0QmJqMkt0QjBPMDVGQWxSTTlJX0dNU3FYRWpVeGhMdWNzaDhvcFBGcmN3dTZycmdFWUhvS216OGtvNXQwNEdIUU9SSXNkSVAxcEJZM0lPTlExanRDcklwblpX?oc=5",
     "difficulty": "News"
   },
   {
@@ -21,6 +69,18 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkhFaHlFYXJfS3JaSTExS09keElia1VlUElfUHYxYU9aTHRoNnE1SDhKZ3NMQUVVd3pMODExdEdDYTJWc0N6TURidXlNdnZRSnNRM01iSGJSNUROSnA3a0pja09qZ01VdlR1OFpQNTlqTUpYVGtYZGFLSEZ1a3JoT2NiMjJnQVpYSk51Vm9kQlkzVTFzLXh0NmF3THQ4Q2wyc1M4Q0taOFRMVThrY09VTkVKcnRUV1gzRDdqRUxTTFBqbzVZemtUTnBvQ3BadFFDYURHTkhib1g?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 10, 05:29 PM ET",
+    "publishedAt": "2026-09-10T21:29:25+00:00",
+    "source": "tech-insider.org",
+    "title": "ChatGPT Plus vs Claude Pro vs Perplexity: €211 Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORlZyRUpLU3lLaHhVQ0lFY0hkY2hHVFMtTHdiQmJGbEtGQkFMcm5jNHB6Y3dkNkJJSFpiM0dnWExTV0cwNzVxM2dVZGhwa1RzajdvTGNpQk51SzR6aVY5UzBxSWNLODdkM2VQeFhJVFFmNG9zM1hJZDR4N0hBLWYwd0Vhdnc?oc=5",
     "difficulty": "News"
   },
   {
@@ -48,27 +108,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 10, 04:12 PM ET",
-    "publishedAt": "2026-09-10T20:12:46+00:00",
-    "source": "The New Stack",
-    "title": "OpenAI split a voice model’s brain. Then one team deleted 23,000 lines of code.",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 10, 04:05 PM ET",
+    "publishedAt": "2026-09-10T20:05:59+00:00",
+    "source": "PPC Land",
+    "title": "SerpApi packages its Google search API as a one-click Claude Desktop tool",
+    "summary": "PPC Land is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ORm5zVWhYR29RRjI5UEplZ0NBbWNkaFkwYjRZemNsa3RRNmRROVdLRzNpSWRoUGZXQmxTUS0xLUJtaGxLRjI3R3NGVXhJSFZBVll4bDRNdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 10, 03:29 PM ET",
-    "publishedAt": "2026-09-10T19:29:00+00:00",
-    "source": "Investing.com",
-    "title": "OpenAI launches Agents API in public beta for developers",
-    "summary": "Investing.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU0hwb1Bvd2d5RUlhMXdzSG51TEV6c19hWkdBakRSWEFldkdaUmdkLU9YZUw5NjliZHlHaFY0aTNSVlRBZnBMaDZYX0RCajVITnJudXdSakpCbk15UVpud1gzRS05TS1vaUR1bVcwRjFKZU1zZ1RabUUxbmZJenpROEJZOTZTeEpkTVdRX2puc1ZRLWthWkl1eFEtVERYc0ZIMDBmTHk5cUFzaWVuY1hNNC1UaW50c19yWEtIaHI3bTI3NHU0?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX0lLQWFhdUV5WHFzY0JFS2lhcEhjU1hQZjdObG5QNGY5ZEliUWV4Q1JSeHV1elhkZkVDajhLSmZCbEVZcTNSbTBwMWNiOWtyMmoxcmNFS2UyNXB2WlVIN2p1aGUtRkxSYUFMcWhobG9aT1o4X015RXdOSXY1WVQ4WVRBb1RhYkZlV1BfYXJ0UWR0RzloVnc?oc=5",
     "difficulty": "News"
   },
   {
@@ -86,13 +134,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 10, 01:49 PM ET",
-    "publishedAt": "2026-09-10T17:49:19+00:00",
-    "source": "the-decoder.com",
-    "title": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "time": "Sep 10, 01:32 PM ET",
+    "publishedAt": "2026-09-10T17:32:01+00:00",
+    "source": "Unite.AI",
+    "title": "OpenAI’s GPT-Live-1 Arrives in the API at $0.05 Per Minute",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZW52M1ZxdGowVndBNEZqWnRoQ1BiekxDUDVGdE1OdzBNSmVTbXNEa3lBMUx1SkZScGd0UzlHRHhLcDFqZ1AzUEdhV01KXzRCdTBhV3N1blkwbzJUbUZFWTdJVlRjVEQwd3NMV2NOZE84cnpGNTFyNm1VbllFWVRoU3hfTmpuSGlwSncwZXhlOUdUVmNJVXBsMGRNb0lqMXFiUS1RbG9LbjhKQkRtNXJ5Y0N3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQVc4UGxXUjR1WUJsdzNFZ19zYnU5c1p6YmNtb1l3VEFfWE5pTjc1alZ3ZGlDdU81YjMyN0R5SjdxVVB3WElXeWhjTW9KQ05URkVhM1YwelMtYVRmTThPVDBRMlJVVXY1V05UT2JZOGtFLTdZeXRYN1B2a1J1cGtGQ2FrV3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -132,39 +180,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 10, 06:13 AM ET",
-    "publishedAt": "2026-09-10T10:13:52+00:00",
-    "source": "Blockchain Council",
-    "title": "How to Use Claude Fable 5.1 for Free",
-    "summary": "Blockchain Council is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTGpSTkNiclVQdl9fcThUQWtYR3VHbHdYUFRqLXJtTlNCVjRuOVdpZ1Jrd0JkeUh2SGtVb3VzSDFWdmRfZDVVd2JjbVgwNFE2cEoxX3pTQVhWR1doUFhSYnZGY25SQmpGZnhDUTNxYzNVYmtKZVZadEc1SEdqajJiSGFBRGp5VDV3Z0E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 09, 10:06 PM ET",
-    "publishedAt": "2026-09-10T02:06:10+00:00",
-    "source": "PPC Land",
-    "title": "SerpApi packages its Google search API as a one-click Claude Desktop tool",
-    "summary": "PPC Land is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX0lLQWFhdUV5WHFzY0JFS2lhcEhjU1hQZjdObG5QNGY5ZEliUWV4Q1JSeHV1elhkZkVDajhLSmZCbEVZcTNSbTBwMWNiOWtyMmoxcmNFS2UyNXB2WlVIN2p1aGUtRkxSYUFMcWhobG9aT1o4X015RXdOSXY1WVQ4WVRBb1RhYkZlV1BfYXJ0UWR0RzloVnc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 09, 09:01 PM ET",
-    "publishedAt": "2026-09-10T01:01:07+00:00",
+    "time": "Sep 09, 01:28 PM ET",
+    "publishedAt": "2026-09-09T17:28:07+00:00",
     "source": "tech-insider.org",
-    "title": "How to Use Gemini 3.8 Flash: 12 Steps, $0.75/M [2026]",
+    "title": "How to Use Nano Banana 2 API: 13 Steps, $0.067/Image [2026]",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HYUg1a21LV0R6R1BpMlZHcWNVN3k5MXJ2dUdBY3pVSFo3M3MzVXNtS3gyRTF5aTMzYkJBX0M2Y1pXYWt5Q0d1cU1oVUhRTExUdmo0ZmV5QTFLaGtvNWV6UWNjbW40c1BOODZBMW9n?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WRGEzaVJYOUc5dHVkRmNxS0lQY0c0WXBYZ0k5WVFGSGhqaHJKVnRoWkxlZVZJX0p1QnBmaWdkX0Fvem41LUNQVHA4VURYQ2J4T2pmQ2hPR1hvcXNEREdOVEowbzE3NnVtU2VZ?oc=5",
     "difficulty": "News"
   },
   {
@@ -177,18 +201,6 @@
     "summary": "TechTarget is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRVJSYnY0Ry1LQ2FQVHVPQ293VWU1ckdlYzlzemdwNlQ0WVMwaU8xXzFrTHN6c2Nldi12Zmg2MFp1OWRDd0VLcWNYMFJOWmZHZGZzdC1PcVlsUm5XMHZ2cDV2cUlSc0l5ZGtWckxSRUJOUFZOTnBlS3VRTEtWMlBaMzBqNWIzZEJMdHQ4X0JYUk5SS185QUJRMzhXbUpBOG9YaWx2bG5hRE9vZUNUMHc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 09, 12:58 PM ET",
-    "publishedAt": "2026-09-09T16:58:33+00:00",
-    "source": "OpenAI",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,18 +225,6 @@
     "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnlsdUNHNThHTHJ2cTVzUVVCYWNtVGVwUnBYWW5KVVBkSi0xZGdleThnUHFTSldEdVhHSUhvRnBwS1RCRGtCdE84QUxZMWF4aE9xbjk0ODFTM1lmOUFLR3BXSXlGYkpyVnpEV09ja1psQ2lvWTdrOGFmQzc0b2hRbDZzd1duZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 08, 06:29 AM ET",
-    "publishedAt": "2026-09-08T10:29:34+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Managed Agents Setup: 12 Steps, $0.08/Hr [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iVE41RGtSdmpnTFZxM0dGRjlrWjZmdnlWSzhHUWVPSlZEQTdQbXNjaDBudmlXYnhDc3diVU80OUZqdGdWZ2czX1BHcGxZOFh6dWlOcXA1dFpBSmhiYXpPc2o2M1QzSWRncWc?oc=5",
     "difficulty": "News"
   },
   {
