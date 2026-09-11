@@ -2,13 +2,49 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 11, 12:57 PM ET",
-    "publishedAt": "2026-09-11T16:57:16+00:00",
+    "time": "Sep 11, 01:55 PM ET",
+    "publishedAt": "2026-09-11T17:55:03+00:00",
+    "source": "The New Stack",
+    "title": "OpenAI’s safety system is already cutting off API responses mid-task",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvcVo2ZmJsa3BmQ1FmVEw3VEU1bk9CaVREOFdMbFQ1VVFPd1d5UXoySzh3OEpHTjZrZXBrZndXNkJPUDBkVGRXcW84Mk10OEtETko3aXI5ZmVmc2Y4Mjd1cU91QQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 11, 01:47 PM ET",
+    "publishedAt": "2026-09-11T17:47:26+00:00",
     "source": "OpenAI",
     "title": "GPT-6 Astra: A new generation of intelligence",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 11, 01:31 PM ET",
+    "publishedAt": "2026-09-11T17:31:24+00:00",
+    "source": "OpenAI",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 11, 01:13 PM ET",
+    "publishedAt": "2026-09-11T17:13:01+00:00",
+    "source": "Pasquale Pillitteri",
+    "title": "GPT-Live-1 arrives in the API at $0.05 a minute, OpenAI's voice model",
+    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11MUMyV0JfRU1CUzlnTHlIeXFPQk5QTG80UlVjaG1Od3dtREZ3OVlTRUMtNUhxVk5mTmc4TG00QVY0R1VGQlJReUJwTVRkUi1oLTRaVGlwMDJUeTl3cWFsMnNfZlpxTkpnMHMyNzI1WFZEdEllMUhMQzQ3VQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -38,18 +74,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 11, 10:30 AM ET",
-    "publishedAt": "2026-09-11T14:30:26+00:00",
-    "source": "OpenAI",
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Sep 11, 09:20 AM ET",
     "publishedAt": "2026-09-11T13:20:28+00:00",
     "source": "bloomingbit",
@@ -57,6 +81,18 @@
     "summary": "bloomingbit is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NT1Z0M0pjdVdSUHNKbHJESnM1RS1DUEhLRkJ4OFN1dlNfcVhmNnVqeGVlcU9EdkxYTTJlc1paX0lUamhZQ0dzV0RQcVhRTkVvV1FNOQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 11, 06:44 AM ET",
+    "publishedAt": "2026-09-11T10:44:34+00:00",
+    "source": "Vocal",
+    "title": "The $200 Button Went Gray: OpenAI’s Quiet Admission That AI Agents Broke the Subscription Model",
+    "summary": "Vocal is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHc3SFlqcjh5alZaajFBT01wc0R4aFlSRlRCS3RtWFhzM1dVSjFENHpadzFzUW1PT1FKcDFXaFBYNUY1VFlvS2daQmlELVlFV3otWGhjOFRHYlB0Vk9PVTZyT3Nob01hdk9ubmdxbHNLR1U2bHVFdWI2Y2lUWU5rZm40MkpxRVBEOHFYUmhnQV83WXdGWWVMRmdvQV94dFhBcGtXRG9WXzlrb01LZHpHVjRwM19odw?oc=5",
     "difficulty": "News"
   },
   {
@@ -96,39 +132,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 10, 06:59 PM ET",
-    "publishedAt": "2026-09-10T22:59:00+00:00",
-    "source": "The Register",
-    "title": "OpenAI arms devs with AI conversation tool that can talk and listen at the same time",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 11, 02:11 AM ET",
+    "publishedAt": "2026-09-11T06:11:53+00:00",
+    "source": "Firstpost",
+    "title": "DeepSeek and Moonshot allegedly used Claude to answer their customers’ AI queries: Report",
+    "summary": "Firstpost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkhFaHlFYXJfS3JaSTExS09keElia1VlUElfUHYxYU9aTHRoNnE1SDhKZ3NMQUVVd3pMODExdEdDYTJWc0N6TURidXlNdnZRSnNRM01iSGJSNUROSnA3a0pja09qZ01VdlR1OFpQNTlqTUpYVGtYZGFLSEZ1a3JoT2NiMjJnQVpYSk51Vm9kQlkzVTFzLXh0NmF3THQ4Q2wyc1M4Q0taOFRMVThrY09VTkVKcnRUV1gzRDdqRUxTTFBqbzVZemtUTnBvQ3BadFFDYURHTkhib1g?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 10, 05:21 PM ET",
-    "publishedAt": "2026-09-10T21:21:58+00:00",
-    "source": "MarkTechPost",
-    "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVEttVTM4UHFvaXh1bGFWVGgzaEFjczJDYnQ1ODhDTFgwYVd1cEpOaHIxdmRqU2JDRWZkSlRLdmVXdTcwTFloa2J5SHVrVlN0TS1uVHo0eFRyVlFPYWNXdjBOS3JQMGl0VkdHVXhaWFVlSDkwQlRyZjgyUjh3UEgwemVfQk9QamxmanFKYUE0OFFxMkVWVHBXOHRMbWF0RzIxeVdKOFN0MGFDMnFWUF8tQzZiOTJKLWxoc0ZISjJ6aWI5YVlOT0E0VFV5VEXSAdIBQVVfeXFMTzYyQl9GbUJEb3lrd2dRclFCUkVFSjk1eW1TOEJwR3A1SWQxOXA3WE42NzZ0b2ZqTXhRak1jTWFmajhPeDZsUG40SVlEa1FJdXlWcWtIUF9BN1Z1TUU0bWZxdTM4SWpNNk9oZTI3MUE1UzN0RHkteHNURldYZUtyUGZtbTFFdXVkRDQ4eVY4aHdVNk5mdG5HOXRlb3lIc1dFMDNHX2htWktvMXhjSUpIWVA2RHh4Z0tZOWRVaHIya2NHLVM0Rnl4SHFqRGpXWExZaDNR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 10, 05:08 PM ET",
-    "publishedAt": "2026-09-10T21:08:19+00:00",
-    "source": "Seeking Alpha",
-    "title": "OpenAI ups its agentic game as it releases new Data agent and Agents API",
-    "summary": "Seeking Alpha is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRHYzOVRVOHpZOFdzclJIU0JMeVREWVFGTzZ1cjJTUVI2UVVMbWNNZ3BxT25kQjMtNW00YVlhazMwSEp4eGdmdFhmeFhxeHZEQTU5Y3VsMXFTYUtjMkxWNS1iMXhkazRBVGE2NnM1T2g2OEw5bmowQ3Zab3NvMmFsSFRBcnVkZjFET3NCQ3Bod3ZtRXRpb21LU0dTdXlDN2xiNUREcG5lTnZqUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUdIcDhOdDNidzh0dXB0bUhYN28tZDhaclZGanJaUHQ3ZHRNcXI4UUFKWFh6ZDdfOTdha3pnRTdhMUlkTldRNjBYcEFPaFRmalQyNndtckdMVVFzY3BITkd4ajgwTHJEckxVRjkxZEg0VjBlT2R0Mllrb01GOW5tZGNGeWVTS1l1YzF6QTJUNzFZNnVzZXgtS1pYZFJVdWZwakczaTJvOWxKaFgxR3R2MUR2bjhCWmdlOG5CV0NoaTRmalYxTFlTZEpqc0vSAdIBQVVfeXFMUFRHbzBYMXFqRnM1SFpGQjY5aXN4S28tOW1qZ0N3YklOYkIwcjd0Tk1JcEt5VFp0b0pZbk5EcWVobDBfeW9HM01IX0hEUXktRXF6MFNuUU9lS2hqZUFtS2xEMmRwY1ZCbmlUUWV3eHZMbFpteTV6UHM2b2FqcG5nMzIyV052M0ZpRDNoQkZ5SGZPdHRHU2dnaFhBTjFjVkdBOUZYN3RNU0hBRy1aUzhPNjVGdTlZNnpkN2tnclJNaElyUWtKNVdQNlQ5Z1FsUVd1aHF3?oc=5",
     "difficulty": "News"
   },
   {
@@ -136,9 +148,9 @@
     "label": "Claude Code",
     "time": "Sep 10, 04:05 PM ET",
     "publishedAt": "2026-09-10T20:05:59+00:00",
-    "source": "ppc.land",
+    "source": "PPC Land",
     "title": "SerpApi packages its Google search API as a one-click Claude Desktop tool",
-    "summary": "ppc.land is reporting this update. Open the article for the full story.",
+    "summary": "PPC Land is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX0lLQWFhdUV5WHFzY0JFS2lhcEhjU1hQZjdObG5QNGY5ZEliUWV4Q1JSeHV1elhkZkVDajhLSmZCbEVZcTNSbTBwMWNiOWtyMmoxcmNFS2UyNXB2WlVIN2p1aGUtRkxSYUFMcWhobG9aT1o4X015RXdOSXY1WVQ4WVRBb1RhYkZlV1BfYXJ0UWR0RzloVnc?oc=5",
     "difficulty": "News"
@@ -170,18 +182,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 10, 12:23 PM ET",
-    "publishedAt": "2026-09-10T16:23:00+00:00",
-    "source": "Breakingthenews.net",
-    "title": "Google rolls out Gemini app for Windows",
-    "summary": "Breakingthenews.net is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDBwMW9qQlBXb1ZnQ291NEZjNV9xVGI5VlJKYk5MYzlUMDE4aFpIMjlBWVM2UlVIYTNBTk4yMXpfRDJXalByYUdzNEhUN1BuUEU0V1hCNkFOT0V6MHpJWVdZRklHMkhhajJFODJoeE5pQTZYZC15TUU5SW1jNGVmcFZvMnpUeFJ5OWUwcg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Sep 09, 09:01 PM ET",
     "publishedAt": "2026-09-10T01:01:07+00:00",
     "source": "tech-insider.org",
@@ -201,30 +201,6 @@
     "summary": "TechTarget is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRVJSYnY0Ry1LQ2FQVHVPQ293VWU1ckdlYzlzemdwNlQ0WVMwaU8xXzFrTHN6c2Nldi12Zmg2MFp1OWRDd0VLcWNYMFJOWmZHZGZzdC1PcVlsUm5XMHZ2cDV2cUlSc0l5ZGtWckxSRUJOUFZOTnBlS3VRTEtWMlBaMzBqNWIzZEJMdHQ4X0JYUk5SS185QUJRMzhXbUpBOG9YaWx2bG5hRE9vZUNUMHc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 09, 11:47 AM ET",
-    "publishedAt": "2026-09-09T15:47:00+00:00",
-    "source": "Coursera",
-    "title": "AI Coding Explained: Tools, Benefits, and Limitations",
-    "summary": "Coursera is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GSkhiTWhUWm1OV29KMTRzdGE3Z284Q1dlVXhHT0o2aXBRdlMwVnpHMDVyWWVaNEo2b212SHFUSUJOUEFJRjd1ZU5pUE5rSnNYMGc0cWZn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 09, 03:00 AM ET",
-    "publishedAt": "2026-09-09T07:00:09+00:00",
-    "source": "SitePoint",
-    "title": "Mastering Claude and ChatGPT: Developers Guide to Advanced Prompting",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMlAySkVzWmdETUszaFFZZjdncDdkWlRJT3hPQVZobEhXSUpxdFJYLXRCdmlqS1Z2QVN5RjBaYXg4NW1UWTFtQWRNNGR1WTI2ODJvRDF2NGFpdEVvZzM2a3N6azJqVHdac19ESG5zZU5ZdDhELVE4dHFfcDJTTFE4VTFPQnlYZmZQT1d2YkN5dDNlQkpuTTNkcjRR?oc=5",
     "difficulty": "News"
   },
   {
@@ -273,6 +249,18 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2Z0TnFtZUpfcVlkSXhZVWxIaVVuNTR4TXhXbEhPS3QxZjdQZF82STFocU1EeEc2VzVjbXpDbGpxYVBBdEV5WWUzUVE1cmRidV9pLUpnOUlWZ2xaSExFNlBxTnFMT0NySFRkckVadkdwRzJ6RlNVZjlTbks5bktzSG5ISnR0LXR2cGI4QVNxNzRuOHdSNm1xLUtPRWVSNkdMdEt3N3JaV3UxTTJlbDVNMUFSNlp4cGM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 03, 03:00 AM ET",
+    "publishedAt": "2026-09-03T07:00:00+00:00",
+    "source": "Help Net Security",
+    "title": "Google’s Gemini 3.8 Flash takes on bigger AI models at a lower cost",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTE1jTnVvZGhWYmd3dzhHUTItNTNGbXBoSG53djFDMkRtVFFBMDU4ZFJvTE1FTmt4TWhOdGsyQWJwOW42M1Y0UVM2X3lwNy13cnB5RFZvaWZ0WF9tY01VQzdvdWc0LXpMXzJzbGs4TXk4SmJpLVE?oc=5",
     "difficulty": "News"
   },
   {
@@ -345,6 +333,18 @@
     "summary": "geekwire.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 17, 03:00 AM ET",
+    "publishedAt": "2026-08-17T07:00:00+00:00",
+    "source": "Yahoo Finance",
+    "title": "SpaceX closes $60bn acquisition of AI coding agent Cursor",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcm1hTjA3Z0hNanMxOEFfTzdwZGpkRXE4cUpxT3N5eXBpUk83azBhQk1QVHBRdUt1ck9CRWlhekxQQ09zUjcwOUxXS29FRjduQUNRbHBLcjU5d2hUc3VCZ2lPSDhQMXFXQjNoWmJ4emNlMkFvNkY5QThiUWZSU0pLV05BSWVHbGItblRCX3RFTTdSY1ZCNkt1N3lPUzJnZw?oc=5",
     "difficulty": "News"
   },
   {
