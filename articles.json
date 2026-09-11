@@ -2,8 +2,8 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 11, 04:40 AM ET",
-    "publishedAt": "2026-09-11T08:40:03+00:00",
+    "time": "Sep 11, 09:15 AM ET",
+    "publishedAt": "2026-09-11T13:15:21+00:00",
     "source": "OpenAI",
     "title": "GPT-6 Astra: A new generation of intelligence",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
@@ -14,13 +14,49 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 11, 04:29 AM ET",
-    "publishedAt": "2026-09-11T08:29:59+00:00",
+    "time": "Sep 11, 08:23 AM ET",
+    "publishedAt": "2026-09-11T12:23:49+00:00",
+    "source": "InfoWorld",
+    "title": "OpenAI launches managed Agents API to simplify enterprise AI agent development",
+    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3hlSGlCVWx4TGM3Nllyd2xkVUhkdmtFYk1IVW9GYVBSUmxzenhjTU9YcUctQkk5R1YybVphSTB1LVNBa3ZBdExSR1IzTnAyLWJoaWJ0VzN2MGc2OU5YVDNTT001NUFfQ25IN0VxeDlnM092TkctU1Z1ajlKZzZLX3R3ajI0dWxkLXV1WVRDcks3eF9nWkZkRzhIaFpFNGhBTWd2aXBTVXBtWGg0T2M5UmM5ZzdObTFwMHFhMWFqMklhakU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 11, 07:28 AM ET",
+    "publishedAt": "2026-09-11T11:28:42+00:00",
     "source": "OpenAI",
     "title": "GPT-6 Astra: The next generation in intelligence for work",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 11, 06:27 AM ET",
+    "publishedAt": "2026-09-11T10:27:38+00:00",
+    "source": "Hindustan Times",
+    "title": "ChatGPT AI photo trend: Step-by-step guide to make retro photos for WhatsApp, Instagram | India News",
+    "summary": "Hindustan Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRXV2WmgyUURRLVY1dzVyZl9ocUwzZTBQeEFQbmZiNGkxdzRIUVhnd19Lcm51WUlzYUpKUk1GalRBb2gyMFVSNHJYblZ5Tk5pSHlPSW5uQkdZT0xyUFFnaW9UbHVESmo3MkRYOXVnRHJkZVhzNXNOVmVnM0ZaQUdDeEpfVGsteTFpZ3B3d1A3YkFVR2ZYUlBZRUtqc3l4TmpUTWlsZHhSZEMwS0VQaGR1Z3hYZ3hiTndzeUFzaWNCY0FEZDJteEZLSVhwVUg0djhqR1ktaUdoRUJDRWRLUjMyV21TNFNnOTROdzctZmpZWnBaRXAzTmNrbHVlTzDSAYICQVVfeXFMUExnOTFBTzFKejVKM2lGYV90NUxOd0w2RWxacldtRW85dW9hWFBTaFJ4YjNuMng0c2V2bXgtTDk3eXc3ZUV2anB4UnljUG53OVYzclFqZml1UmhNQ1IzZ1R5YTFFTldYVTE5N0xGSmxtVEJIVzNSenZISmU0RlJpMzVKS2NoclB0NmdBLUpPa3lhc1VfdjBLRVBCWFhKNkM5X3lrNzZ0aVBLWDk1RVRqUk5CWk8xZjgzcDFLN2hXRlZObHJxbEdNRDdWb1Y5SndHa0R0SjJUR29RbzdDeWpkSmhLMHhDWVZqWjdCdnZvZjJtUjRUS0VBYnRfNXEtc0VTNVR3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 11, 04:47 AM ET",
+    "publishedAt": "2026-09-11T08:47:07+00:00",
+    "source": "SecurityWeek",
+    "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
+    "summary": "SecurityWeek is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0p3QjJPOTI3UmQzNHlXMkVfaDlrT2h5OVU2S0M3Mmw3eWtIWkpYVXVhWU9VbWRSSmdUR1pPWFpMVkNDNHhwLThVVy13QzBoY0oxWmN5dE9FOUhCX1JuckpVVUlLOUI1R2xzc3F0d0RiREtkYUw3X0pCS1k5Mzlic1ZPUHZSc1ByVE5ycFBESDhJdnJfTDhMbXk2QnFoUW16bzZPSkVR0gGrAUFVX3lxTE9hY2pzZXdTT2tQMVlXQlVia2VGcEQyQW5DLWxOX0duMXF0QXB6dVRVWFgyWDRMekdBSUJJc0owY3lWYjNHekdaNzZjX3k3U1pUWUxMRmpJSW44WW93b29rWjJGdWhjUlczdWVSYkpVUXVKcXBWSjg3eEs1QmRTTlhUbzEtOUdwQl9YU2NkTUtkSGpvVGY0WWhHTFQ4YThjNklXQlkwMEFxTUF4dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -33,18 +69,6 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONzl3aXZCbzljWDRickNLejJmcUY4WkprN2NmOGFvc0dWSlVuWUxpalAyVzM4ZE9mSzJjVWNHVmhPN2xQMnZyYy1MMXFIb0hwUFQwTmpITTM0MTVrZkhlOHlrMS1Pb0UyVzNSWm84WkM1aU5jZ3I3YnEtR3NZVjhLZnoxMjlDano2THVhOF9MNHIyM3pTWmRvdVhwU2RVemppeHV4ZzdYQ0htcE5I?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 11, 02:11 AM ET",
-    "publishedAt": "2026-09-11T06:11:53+00:00",
-    "source": "Firstpost",
-    "title": "DeepSeek and Moonshot allegedly used Claude to answer their customers’ AI queries: Report",
-    "summary": "Firstpost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUdIcDhOdDNidzh0dXB0bUhYN28tZDhaclZGanJaUHQ3ZHRNcXI4UUFKWFh6ZDdfOTdha3pnRTdhMUlkTldRNjBYcEFPaFRmalQyNndtckdMVVFzY3BITkd4ajgwTHJEckxVRjkxZEg0VjBlT2R0Mllrb01GOW5tZGNGeWVTS1l1YzF6QTJUNzFZNnVzZXgtS1pYZFJVdWZwakczaTJvOWxKaFgxR3R2MUR2bjhCWmdlOG5CV0NoaTRmalYxTFlTZEpqc0vSAdIBQVVfeXFMUFRHbzBYMXFqRnM1SFpGQjY5aXN4S28tOW1qZ0N3YklOYkIwcjd0Tk1JcEt5VFp0b0pZbk5EcWVobDBfeW9HM01IX0hEUXktRXF6MFNuUU9lS2hqZUFtS2xEMmRwY1ZCbmlUUWV3eHZMbFpteTV6UHM2b2FqcG5nMzIyV052M0ZpRDNoQkZ5SGZPdHRHU2dnaFhBTjFjVkdBOUZYN3RNU0hBRy1aUzhPNjVGdTlZNnpkN2tnclJNaElyUWtKNVdQNlQ5Z1FsUVd1aHF3?oc=5",
     "difficulty": "News"
   },
   {
@@ -88,23 +112,11 @@
     "label": "ChatGPT",
     "time": "Sep 10, 05:21 PM ET",
     "publishedAt": "2026-09-10T21:21:58+00:00",
-    "source": "MarkTechPost",
+    "source": "marktechpost.com",
     "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "summary": "marktechpost.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVEttVTM4UHFvaXh1bGFWVGgzaEFjczJDYnQ1ODhDTFgwYVd1cEpOaHIxdmRqU2JDRWZkSlRLdmVXdTcwTFloa2J5SHVrVlN0TS1uVHo0eFRyVlFPYWNXdjBOS3JQMGl0VkdHVXhaWFVlSDkwQlRyZjgyUjh3UEgwemVfQk9QamxmanFKYUE0OFFxMkVWVHBXOHRMbWF0RzIxeVdKOFN0MGFDMnFWUF8tQzZiOTJKLWxoc0ZISjJ6aWI5YVlOT0E0VFV5VEXSAdIBQVVfeXFMTzYyQl9GbUJEb3lrd2dRclFCUkVFSjk1eW1TOEJwR3A1SWQxOXA3WE42NzZ0b2ZqTXhRak1jTWFmajhPeDZsUG40SVlEa1FJdXlWcWtIUF9BN1Z1TUU0bWZxdTM4SWpNNk9oZTI3MUE1UzN0RHkteHNURldYZUtyUGZtbTFFdXVkRDQ4eVY4aHdVNk5mdG5HOXRlb3lIc1dFMDNHX2htWktvMXhjSUpIWVA2RHh4Z0tZOWRVaHIya2NHLVM0Rnl4SHFqRGpXWExZaDNR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 10, 05:08 PM ET",
-    "publishedAt": "2026-09-10T21:08:19+00:00",
-    "source": "Seeking Alpha",
-    "title": "OpenAI ups its agentic game as it releases new Data agent and Agents API",
-    "summary": "Seeking Alpha is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRHYzOVRVOHpZOFdzclJIU0JMeVREWVFGTzZ1cjJTUVI2UVVMbWNNZ3BxT25kQjMtNW00YVlhazMwSEp4eGdmdFhmeFhxeHZEQTU5Y3VsMXFTYUtjMkxWNS1iMXhkazRBVGE2NnM1T2g2OEw5bmowQ3Zab3NvMmFsSFRBcnVkZjFET3NCQ3Bod3ZtRXRpb21LU0dTdXlDN2xiNUREcG5lTnZqUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -266,18 +278,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 02, 03:00 AM ET",
-    "publishedAt": "2026-09-02T07:00:00+00:00",
-    "source": "The Register",
-    "title": "With Gemini 3.8 Flash, Google reminds everyone it's still in the race",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVZaZUx6a0VBTzBKVG9DTENKUW5nTm5mcDVpYUppN3ktSElJWmRQVkQ3M2hadlF2dHcwWEVPZjJYQ0R3a09WTHhGc0hONVk2bVRZYkdyMnkxS3NJdEp2RVA5R0Qwai1mTjFTRllKeGZtNS1DenlidXNLSjlaNk92RUxHUDlUYktibHctUUZpVS1mcFVkOWktdUlvUnBDMnFGT1N3MC1tQWtINUxma04zOThJcXJ4ZThhVFdhbTBRaF8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Sep 01, 03:00 AM ET",
     "publishedAt": "2026-09-01T07:00:00+00:00",
     "source": "blog.google",
@@ -328,9 +328,9 @@
     "label": "Gemini",
     "time": "Aug 26, 03:00 AM ET",
     "publishedAt": "2026-08-26T07:00:00+00:00",
-    "source": "Ars Technica",
+    "source": "arstechnica.com",
     "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-    "summary": "Ars Technica is reporting this update. Open the article for the full story.",
+    "summary": "arstechnica.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGx5ZU85MkhfYTUweHk3X2NteExrRTRxRUlGOTZ5QVVIalBjcDlVSGhKRkJzV1BuMG5RSm9ZXzhqYlNBMU1HYW9TS0JpZ1F6dGV2a3EyRC1qTk50Z0dxWDJ0MzBZQ1g4OXEzbThidVcxUFRHeWhvLXBUcC1yUUx6ZG9GOFZpVGdxN2h5YmtBTDVFd1ZyY1NSdUV2TDc5cmpZdnctREN1Yw?oc=5",
     "difficulty": "News"
@@ -340,9 +340,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 17, 03:00 AM ET",
     "publishedAt": "2026-08-17T07:00:00+00:00",
-    "source": "GeekWire",
+    "source": "geekwire.com",
     "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform",
-    "summary": "GeekWire is reporting this update. Open the article for the full story.",
+    "summary": "geekwire.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
     "difficulty": "News"
