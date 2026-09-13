@@ -2,8 +2,8 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 12, 07:39 PM ET",
-    "publishedAt": "2026-09-12T23:39:31+00:00",
+    "time": "Sep 13, 01:38 AM ET",
+    "publishedAt": "2026-09-13T05:38:42+00:00",
     "source": "OpenAI",
     "title": "GPT-6 Astra: The next generation in intelligence for work",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
@@ -14,13 +14,25 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 12, 05:35 PM ET",
-    "publishedAt": "2026-09-12T21:35:00+00:00",
-    "source": "finance.biggo.com",
-    "title": "OpenAI Unveils Codex Execution Technology 'Harness' — Igniting Agent Infrastructure Competition",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
+    "time": "Sep 12, 10:54 PM ET",
+    "publishedAt": "2026-09-13T02:54:43+00:00",
+    "source": "quasa.io",
+    "title": "OpenAI’s Agents API Moves Orchestration Into One Call—but It Is Still Beta",
+    "summary": "quasa.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQekxqUnFqMko0U3NnSDhrRWhkd2pwbUV3UjdjUXBxMTh0R3RCV1M1R0trTnBOMXkyNmF3RWk4ZGdpNGxVZFllczg4MTBaXzhrZ1hfR0w5eTRBc0YzN3BiYTJlUFJ6YTBKVDNZZkdjMGp6M3VQYUE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2ZjLXpuQ1hBcE00VVZ0ay05NzFwSjVVaHJWbjBGZUx5UW5IcUlYaDA5WnFLNUJ2R2pwZVp2TGVDNXFzWTV3Wk0xU0JiRzdDUkRmRVdVVWYxZkVGb29VUWZfV21Nalh4d2NtUXQ2NWJLOWo0TXgxRnQ4b0ZCWFJhaDBIa3o2cVB0V2hURzZmYmd3ZUtndkdmX2xZTE9FdlQyMnc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 12, 10:05 AM ET",
+    "publishedAt": "2026-09-12T14:05:22+00:00",
+    "source": "StartupHub.ai",
+    "title": "ChatGPT for Finance, Agents API and Uber Context",
+    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0d0VEhfRTJ2Y1locDl4dURreTN3Z2IzZmdWYkhXQXhWN2JaY2VRTDE3S1o5RElBT1F5WnRLTkk3V1VLeHRTYnAxMkQ2akFocVBib2w4ZlZGZEdzY2xmbjF4MUlncld4VXE0V2dxZXBuUzduLTduN2I0Wi03Z3lndjdMN01XVGxnVS10ZTF4NUVfQS02QjdyYXl4c0pVbXkwc2FWWnlIcXJnSzlLNlFwT0hlR1A?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,18 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 10, 05:21 PM ET",
-    "publishedAt": "2026-09-10T21:21:58+00:00",
-    "source": "MarkTechPost",
-    "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVEttVTM4UHFvaXh1bGFWVGgzaEFjczJDYnQ1ODhDTFgwYVd1cEpOaHIxdmRqU2JDRWZkSlRLdmVXdTcwTFloa2J5SHVrVlN0TS1uVHo0eFRyVlFPYWNXdjBOS3JQMGl0VkdHVXhaWFVlSDkwQlRyZjgyUjh3UEgwemVfQk9QamxmanFKYUE0OFFxMkVWVHBXOHRMbWF0RzIxeVdKOFN0MGFDMnFWUF8tQzZiOTJKLWxoc0ZISjJ6aWI5YVlOT0E0VFV5VEXSAdIBQVVfeXFMTzYyQl9GbUJEb3lrd2dRclFCUkVFSjk1eW1TOEJwR3A1SWQxOXA3WE42NzZ0b2ZqTXhRak1jTWFmajhPeDZsUG40SVlEa1FJdXlWcWtIUF9BN1Z1TUU0bWZxdTM4SWpNNk9oZTI3MUE1UzN0RHkteHNURldYZUtyUGZtbTFFdXVkRDQ4eVY4aHdVNk5mdG5HOXRlb3lIc1dFMDNHX2htWktvMXhjSUpIWVA2RHh4Z0tZOWRVaHIya2NHLVM0Rnl4SHFqRGpXWExZaDNR?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 10, 01:10 PM ET",
@@ -144,25 +144,13 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 10, 01:05 PM ET",
-    "publishedAt": "2026-09-10T17:05:05+00:00",
-    "source": "OpenAI",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 10, 12:42 PM ET",
     "publishedAt": "2026-09-10T16:42:57+00:00",
-    "source": "AI Magazine",
+    "source": "aimagazine.com",
     "title": "How Claude AI Commerce Agents are Transforming Retail",
-    "summary": "AI Magazine is reporting this update. Open the article for the full story.",
+    "summary": "aimagazine.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0xKQnJqT1ZkSVJvazdhWHBTYmhtOEJNUXJYZkdsZWFsX05jQmZJRVFyeHZXSTI4QkJkVktDWDlHRGlVZXJJUEFZcGN4U0JuS2w1TmxfLXVoMU5yQXVFRDZxVWh4dm1KVjlVT3ZlRXhyNHBfTGNqOUlHZXhMX19RMkNYS2ZzVGpp?oc=5",
     "difficulty": "News"
@@ -177,6 +165,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HYUg1a21LV0R6R1BpMlZHcWNVN3k5MXJ2dUdBY3pVSFo3M3MzVXNtS3gyRTF5aTMzYkJBX0M2Y1pXYWt5Q0d1cU1oVUhRTExUdmo0ZmV5QTFLaGtvNWV6UWNjbW40c1BOODZBMW9n?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 09, 06:56 PM ET",
+    "publishedAt": "2026-09-09T22:56:16+00:00",
+    "source": "OpenAI",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
     "difficulty": "News"
   },
   {
@@ -256,9 +256,9 @@
     "label": "ChatGPT",
     "time": "Sep 02, 03:00 AM ET",
     "publishedAt": "2026-09-02T07:00:00+00:00",
-    "source": "healthapiguy.substack.com",
+    "source": "Health API Guy",
     "title": "August Monthly Review: ChatGPT In Epic",
-    "summary": "healthapiguy.substack.com is reporting this update. Open the article for the full story.",
+    "summary": "Health API Guy is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zQ2pSM0NYWWpwb08zVWJYYkpaNXVCZjVRZ0ZZOUJVTVlaa0RmUHRENHhhd3FLOE12eG9OLXU5VE1seFNGODR0cjhXbTdLN2VRVGJ1SjhrbThENm5TSWtfMVVzZ1pXa2VuNlJXZExTeDYwWm1pLWdF?oc=5",
     "difficulty": "News"
@@ -316,9 +316,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 28, 03:00 AM ET",
     "publishedAt": "2026-08-28T07:00:00+00:00",
-    "source": "Reuters",
+    "source": "reuters.com",
     "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-    "summary": "Reuters is reporting this update. Open the article for the full story.",
+    "summary": "reuters.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
     "difficulty": "News"
