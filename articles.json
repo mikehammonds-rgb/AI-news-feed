@@ -2,8 +2,8 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 13, 07:39 AM ET",
-    "publishedAt": "2026-09-13T11:39:31+00:00",
+    "time": "Sep 13, 10:41 AM ET",
+    "publishedAt": "2026-09-13T14:41:04+00:00",
     "source": "OpenAI",
     "title": "GPT-6 Astra: The next generation in intelligence for work",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
@@ -12,12 +12,36 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 13, 06:12 AM ET",
+    "publishedAt": "2026-09-13T10:12:28+00:00",
+    "source": "tech-insider.org",
+    "title": "OpenAI Agents API: Build AI Agents in 12 Steps [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvRjlOS0xLVkFUOW5IXzlueGlCMEN2S1FXVm1RZWpPVEJtRFl0NFg1Mmd2VkZ3UHlTNmgwa2VwTWxWNFdVT2V2alp4QmszR3hOeUUxYTR2X1JObzBCVEYyc3hoVjRwQzEz?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 13, 05:59 AM ET",
+    "publishedAt": "2026-09-13T09:59:19+00:00",
+    "source": "gHacks",
+    "title": "Anthropic Says Hackers Abused Claude to Scan 1.8 Million Android Apps for Secrets",
+    "summary": "gHacks is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2xtcjZvQ1VGbWRidmFNZjZXSnhEM0VzVWpCdjZoNDdNbXdMaG1jOFJzdVpqWnFzV21IRUN5dExQSEs1M3dka3o1ZzJOUnRLVWpVd2hXZlFIUG1aUjlScm5QUExjWUs1RFE4WUhGU19IWlJKUkE3Y3lsRktrcHQ3Z2xLMHM0Q25TbHpkTFlkdkg5M1Z5QlNheWVfR3FYd05CLTJzcTdUUmNtVzhLaDVRTV81R3RwalE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 13, 05:19 AM ET",
     "publishedAt": "2026-09-13T09:19:28+00:00",
     "source": "shattered.io",
-    "title": "Anthropic 4th Claude Cyber Breach: What Happened [2026]",
+    "title": "Anthropic Reveals 4th Claude Cyber Breach [2026]",
     "summary": "shattered.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WU3hzRWpvZEhrVVRDRUVqZnlWbVRKQjlRUXhFbnZPMENUeWJMTGN0QmNXb1dYNTFwZHdzenl2NGhpUS1sYzM1UlZSZnVxc2l0aThZVXB6QXFuYjA0aHlxZFR5c3MxcVlFT2hIUQ?oc=5",
@@ -36,18 +60,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 12, 10:05 AM ET",
-    "publishedAt": "2026-09-12T14:05:22+00:00",
-    "source": "StartupHub.ai",
-    "title": "ChatGPT for Finance, Agents API and Uber Context",
-    "summary": "StartupHub.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0d0VEhfRTJ2Y1locDl4dURreTN3Z2IzZmdWYkhXQXhWN2JaY2VRTDE3S1o5RElBT1F5WnRLTkk3V1VLeHRTYnAxMkQ2akFocVBib2w4ZlZGZEdzY2xmbjF4MUlncld4VXE0V2dxZXBuUzduLTduN2I0Wi03Z3lndjdMN01XVGxnVS10ZTF4NUVfQS02QjdyYXl4c0pVbXkwc2FWWnlIcXJnSzlLNlFwT0hlR1A?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 12, 06:21 AM ET",
@@ -60,25 +72,13 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 12, 06:07 AM ET",
-    "publishedAt": "2026-09-12T10:07:34+00:00",
-    "source": "Hostinger",
-    "title": "How to send an email with Claude",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rZXA5SUhSVXFLMlZTVkVabHZlUU5SQlI1eG42TEowOWVGZ0ZmLWpCNkkzUF82eVAxVUdPbkwzZThQRV9Vdkk2MlNvRnh5alI1YTh3TTktWWNwZU8xVjlsWmxIemJlbFAzSUlrUVBibHVJdw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 11, 01:55 PM ET",
     "publishedAt": "2026-09-11T17:55:03+00:00",
-    "source": "thenewstack.io",
+    "source": "The New Stack",
     "title": "OpenAI’s safety system is already cutting off API responses mid-task",
-    "summary": "thenewstack.io is reporting this update. Open the article for the full story.",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvcVo2ZmJsa3BmQ1FmVEw3VEU1bk9CaVREOFdMbFQ1VVFPd1d5UXoySzh3OEpHTjZrZXBrZndXNkJPUDBkVGRXcW84Mk10OEtETko3aXI5ZmVmc2Y4Mjd1cU91QQ?oc=5",
     "difficulty": "News"
@@ -148,9 +148,9 @@
     "label": "Claude Code",
     "time": "Sep 10, 01:10 PM ET",
     "publishedAt": "2026-09-10T17:10:27+00:00",
-    "source": "Anthropic",
+    "source": "anthropic.com",
     "title": "Detecting and countering misuse of AI: September 2026",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
     "difficulty": "News"
@@ -165,18 +165,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 10, 12:23 PM ET",
-    "publishedAt": "2026-09-10T16:23:00+00:00",
-    "source": "Breakingthenews.net",
-    "title": "Google rolls out Gemini app for Windows",
-    "summary": "Breakingthenews.net is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDBwMW9qQlBXb1ZnQ291NEZjNV9xVGI5VlJKYk5MYzlUMDE4aFpIMjlBWVM2UlVIYTNBTk4yMXpfRDJXalByYUdzNEhUN1BuUEU0V1hCNkFOT0V6MHpJWVdZRklHMkhhajJFODJoeE5pQTZYZC15TUU5SW1jNGVmcFZvMnpUeFJ5OWUwcg?oc=5",
     "difficulty": "News"
   },
   {
@@ -220,9 +208,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 08, 05:41 PM ET",
     "publishedAt": "2026-09-08T21:41:00+00:00",
-    "source": "techbuzz.ai",
+    "source": "The Tech Buzz",
     "title": "Cognition Hits $48B Valuation in AI Coding Race",
-    "summary": "techbuzz.ai is reporting this update. Open the article for the full story.",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnlsdUNHNThHTHJ2cTVzUVVCYWNtVGVwUnBYWW5KVVBkSi0xZGdleThnUHFTSldEdVhHSUhvRnBwS1RCRGtCdE84QUxZMWF4aE9xbjk0ODFTM1lmOUFLR3BXSXlGYkpyVnpEV09ja1psQ2lvWTdrOGFmQzc0b2hRbDZzd1duZw?oc=5",
     "difficulty": "News"
@@ -242,11 +230,23 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Sep 04, 03:00 AM ET",
+    "publishedAt": "2026-09-04T07:00:00+00:00",
+    "source": "blog.google",
+    "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0tDakQ1cS1zU2RZTnJTQXpCdkVMR0lPbUVPR0FDclVINm82SXNLVU1rbDJTb2VURmo3TGk3MVNCUXI0aXd1Qm11WGJzemJ1NGVJS3V4STVXQWR0ZGRtclNrM25fMi0wazRxMTNxY2V6NUg2LUttYkR1SmJyTl9QX0lyaHhJZEJaSlU1M2dn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Sep 03, 03:00 AM ET",
     "publishedAt": "2026-09-03T07:00:00+00:00",
-    "source": "Help Net Security",
+    "source": "helpnetsecurity.com",
     "title": "Google’s Gemini 3.8 Flash takes on bigger AI models at a lower cost",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RTE1jTnVvZGhWYmd3dzhHUTItNTNGbXBoSG53djFDMkRtVFFBMDU4ZFJvTE1FTmt4TWhOdGsyQWJwOW42M1Y0UVM2X3lwNy13cnB5RFZvaWZ0WF9tY01VQzdvdWc0LXpMXzJzbGs4TXk4SmJpLVE?oc=5",
     "difficulty": "News"
@@ -256,11 +256,23 @@
     "label": "ChatGPT",
     "time": "Sep 02, 03:00 AM ET",
     "publishedAt": "2026-09-02T07:00:00+00:00",
-    "source": "healthapiguy.substack.com",
+    "source": "Health API Guy",
     "title": "August Monthly Review: ChatGPT In Epic",
-    "summary": "healthapiguy.substack.com is reporting this update. Open the article for the full story.",
+    "summary": "Health API Guy is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zQ2pSM0NYWWpwb08zVWJYYkpaNXVCZjVRZ0ZZOUJVTVlaa0RmUHRENHhhd3FLOE12eG9OLXU5VE1seFNGODR0cjhXbTdLN2VRVGJ1SjhrbThENm5TSWtfMVVzZ1pXa2VuNlJXZExTeDYwWm1pLWdF?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 02, 03:00 AM ET",
+    "publishedAt": "2026-09-02T07:00:00+00:00",
+    "source": "Venturebeat",
+    "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+    "summary": "Venturebeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHpNUnplNkRkbUhZNFNRbXpENzJfdzFKelp1akdHeEhWMXRJZTVfU0R6clE5WUc2S2U0N2E0ZGZCaFlMczNybUdTdUc0UmtvQXF0dDVGWUlzUmxJN3NZNENaY2dVLW4wREtCTFF3YzAyUGJ4WUhFT2tfYUZNVE0yZDhqaDFkZUtJd3BnZVFhaW1COHBDRG12OXZHVVFyejBLSDNQWmU0UjNFUWRVZ0tGdll2SUxaM1FscHVHTg?oc=5",
     "difficulty": "News"
   },
   {
@@ -273,18 +285,6 @@
     "summary": "The Register is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVZaZUx6a0VBTzBKVG9DTENKUW5nTm5mcDVpYUppN3ktSElJWmRQVkQ3M2hadlF2dHcwWEVPZjJYQ0R3a09WTHhGc0hONVk2bVRZYkdyMnkxS3NJdEp2RVA5R0Qwai1mTjFTRllKeGZtNS1DenlidXNLSjlaNk92RUxHUDlUYktibHctUUZpVS1mcFVkOWktdUlvUnBDMnFGT1N3MC1tQWtINUxma04zOThJcXJ4ZThhVFdhbTBRaF8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 02, 03:00 AM ET",
-    "publishedAt": "2026-09-02T07:00:00+00:00",
-    "source": "VentureBeat",
-    "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHpNUnplNkRkbUhZNFNRbXpENzJfdzFKelp1akdHeEhWMXRJZTVfU0R6clE5WUc2S2U0N2E0ZGZCaFlMczNybUdTdUc0UmtvQXF0dDVGWUlzUmxJN3NZNENaY2dVLW4wREtCTFF3YzAyUGJ4WUhFT2tfYUZNVE0yZDhqaDFkZUtJd3BnZVFhaW1COHBDRG12OXZHVVFyejBLSDNQWmU0UjNFUWRVZ0tGdll2SUxaM1FscHVHTg?oc=5",
     "difficulty": "News"
   },
   {
