@@ -2,6 +2,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Sep 15, 05:36 PM ET",
+    "publishedAt": "2026-09-15T21:36:03+00:00",
+    "source": "TestingCatalog AI News",
+    "title": "Google rolled out Gemini 3.8 Live and Extended Thinking",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWszY1BwUlJvZG1GQzVVQ1E4d2RiVlpJN1BobFJfZVU5d29MR1hwZ2dlTTVWaDBtek1XejNKRURYNWFZcWgtTmFSaWRuV0FWU3hsTkpmUjlaSTJqZHd1UTZWR0xxY1hmLTlKdjRfNjFHYVJ3NHNuYjIxZjYzemhwRWxPTEFIdHh5NkVWeVNMTmw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Sep 15, 04:08 PM ET",
     "publishedAt": "2026-09-15T20:08:07+00:00",
     "source": "shattered.io",
@@ -28,9 +40,9 @@
     "label": "Gemini",
     "time": "Sep 15, 03:34 PM ET",
     "publishedAt": "2026-09-15T19:34:56+00:00",
-    "source": "Thurrott.com",
+    "source": "thurrott.com",
     "title": "Google Announces Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "summary": "Thurrott.com is reporting this update. Open the article for the full story.",
+    "summary": "thurrott.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFBDZEhRbWZ3YVhZT3VGZ1dUVHpLdUlWR0ZvaXBRRTUtOHZCV2gycnJqb2dzbG5Ya3NCS1NqRkF6TkFLM1JPWEhvbm4yUmVmQVptV19aMWZWcXFRZ0cxZEdVRUJFWDlnRlVpbFZpYTFWa05yUVZGcW9FTGZVVUVsRVdTdTBCdGM3T3RQVWN6ZkRnM2VHbzBWSHNSS3NYaW82SXI1RGRGelowVWx4dkdFM2sxbDBXZkdv?oc=5",
     "difficulty": "News"
@@ -84,18 +96,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 15, 12:48 PM ET",
-    "publishedAt": "2026-09-15T16:48:15+00:00",
-    "source": "Hostinger",
-    "title": "How to set up OpenClaw: managed and self-hosted methods",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XNDh6NmhXd01fR05hakY2QzlTTUZCaHQxNXZibEtTNnlsU0t4M1FhX09QWmU0SE9veHFUN1VYeE81ZE9BNHVmcU5mX2RHb0RKbi03U3BKaThXSGdXd0hFVGswcXhWUElCQ1E?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 15, 11:25 AM ET",
@@ -129,6 +129,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFaUpVN2dkS2xfNS15T3ZXTUk3SjEwakU5aXVSSFZ3V0VSVW5fVlFMUlNUYnZtczdjNkVKR1JiUzRWNmpSdWhwOGRrRzFLUjdJNkxLMEVVcW9LYVNqb19yWmRueVNIRHh0Q3dHT21CSGlqRlY3Ync?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 14, 08:15 PM ET",
+    "publishedAt": "2026-09-15T00:15:02+00:00",
+    "source": "sweetwaterreporter.com",
+    "title": "CometAPI Adds OpenAI’s GPT-6 Astra API to Its Multi-Model Developer Platform",
+    "summary": "sweetwaterreporter.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPMEpiR0hyczgzN0NWQURsVmVwN0NxcXBLdFlHa1lEYVViMnZsN2MwZDJxRnFsX2tlX29wY3o0aW1UTEpickRaZVpYd2xSOFZMYXo4dEdFTDBvcGY5Y2d3QVZ6UENjUGJwLVN6cWhCZHd5VnA0SnNlbERBVEctX0ttY1lxUk1XdVctYW9TVDFUczE0RGU1U1ZRQUR4WG8zMFlXZ0tZam1jcXpCQjN4V2w2SUhNVnBpSU96Y3Q2eVBEMlFMNG1fYTdPMkF5eDdwSGYwb1p6cHFLeWZxdHE4T0dGdWthTEtEVWNfT1ZiTUkyOEVFYXktcjFkRXNmYUJMMm5ZZ1k2enlRbzB2Mmk0VVhWT3BzZEItSkdybXRSaA?oc=5",
     "difficulty": "News"
   },
   {
@@ -184,9 +196,9 @@
     "label": "ChatGPT",
     "time": "Sep 11, 01:55 PM ET",
     "publishedAt": "2026-09-11T17:55:03+00:00",
-    "source": "thenewstack.io",
+    "source": "The New Stack",
     "title": "OpenAI’s safety system is already cutting off API responses mid-task",
-    "summary": "thenewstack.io is reporting this update. Open the article for the full story.",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvcVo2ZmJsa3BmQ1FmVEw3VEU1bk9CaVREOFdMbFQ1VVFPd1d5UXoySzh3OEpHTjZrZXBrZndXNkJPUDBkVGRXcW84Mk10OEtETko3aXI5ZmVmc2Y4Mjd1cU91QQ?oc=5",
     "difficulty": "News"
@@ -256,9 +268,9 @@
     "label": "ChatGPT",
     "time": "Sep 10, 01:05 PM ET",
     "publishedAt": "2026-09-10T17:05:05+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
     "difficulty": "News"
@@ -268,9 +280,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 09, 11:47 AM ET",
     "publishedAt": "2026-09-09T15:47:00+00:00",
-    "source": "coursera.org",
+    "source": "Coursera",
     "title": "AI Coding Explained: Tools, Benefits, and Limitations",
-    "summary": "coursera.org is reporting this update. Open the article for the full story.",
+    "summary": "Coursera is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GSkhiTWhUWm1OV29KMTRzdGE3Z284Q1dlVXhHT0o2aXBRdlMwVnpHMDVyWWVaNEo2b212SHFUSUJOUEFJRjd1ZU5pUE5rSnNYMGc0cWZn?oc=5",
     "difficulty": "News"
@@ -297,18 +309,6 @@
     "summary": "Health API Guy is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zQ2pSM0NYWWpwb08zVWJYYkpaNXVCZjVRZ0ZZOUJVTVlaa0RmUHRENHhhd3FLOE12eG9OLXU5VE1seFNGODR0cjhXbTdLN2VRVGJ1SjhrbThENm5TSWtfMVVzZ1pXa2VuNlJXZExTeDYwWm1pLWdF?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 01, 03:00 AM ET",
-    "publishedAt": "2026-09-01T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Introducing agentic video understanding with Gemini",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYnNBZEhrNTRRREhoaG5BSGhQMUM2dUU4WWpHQ1gyZTdWQUZMNVlqZk5jV0lMTEl5Ujduby1XOHhTZjB6aXNLQlkxeWdzcDhRUkVQQnRTbzVPalZfYUwzNUF2VGpCTWZHV3lYUWg2cWVrejhhN1NTeDNBV1Zza2lVeERqeFFWQmFkRG5uLWxyY2MwVHFvdDRKa2tyUl9Kb19Oa2Y3UUhMUkdXWW4y?oc=5",
     "difficulty": "News"
   },
   {
@@ -340,9 +340,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 28, 03:00 AM ET",
     "publishedAt": "2026-08-28T07:00:00+00:00",
-    "source": "Reuters",
+    "source": "reuters.com",
     "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-    "summary": "Reuters is reporting this update. Open the article for the full story.",
+    "summary": "reuters.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
     "difficulty": "News"
