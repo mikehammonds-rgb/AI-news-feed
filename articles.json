@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 16, 05:00 PM ET",
+    "publishedAt": "2026-09-16T21:00:00+00:00",
+    "source": "Business Model Analyst",
+    "title": "Anthropic Business Model: How Claude Makes Money on a Product That Expires in Eight Weeks",
+    "summary": "Business Model Analyst is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15c2g3QWFDZm9WUWFOUDFVX1hpTFdReUIwWElkMmE1Qkp0RG85d2hPT19XdFVwWFQ0cHJYME5nckhaeFFMZ01RNTJSQmZVLUM0SzBJQUV5UUlERzRwZEw2Z01namZqdlZpRlE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 16, 04:08 PM ET",
@@ -12,13 +24,25 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 16, 03:03 PM ET",
+    "publishedAt": "2026-09-16T19:03:37+00:00",
+    "source": "OpenAI",
+    "title": "How to connect AI usage to business value",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5TXotNTNJTDR6cEF0WVYwejk5RG90ZUVNbVZaNjBWYkxpVk9wVHZ3STFVWEhOclU4QWVtbEpZcUF6X09CWU9od3FhTGJLU3hCYjdINFhyWW1Ldzk3dGpia1N1RTdNUVd4Unp5ZGxDVll1VkRDNXc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Sep 16, 07:56 AM ET",
     "publishedAt": "2026-09-16T11:56:16+00:00",
-    "source": "memeburn.com",
+    "source": "Memeburn",
     "title": "9 Best AI Coding Tools in 2026: IDEs, Agents, & Copilots Compared",
-    "summary": "memeburn.com is reporting this update. Open the article for the full story.",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQlY0TjY5aFBTMjMyX04wZjFoRm1leXI4NFpWTm8xLWxZcWswLUJBbmNBc0gzN242YWh2MHBLNHA2X0hZNmlDa0twZXpfaGZmZmtEQQ?oc=5",
     "difficulty": "News"
@@ -33,6 +57,18 @@
     "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnlFdGRDOHBPTldVYjVRSjlKMEpQOVJHX1dxdFdtUExVWnlkb2xrZGZrc2ZrdmNxSlVNSkhORnhTb2M5djZZNGZKWUZ5Ulo2c21QX1dPSmMyblkxMV9LMTdTenYxWHJORUQ5ejZlWElGU21JeE41Ym80b0dYSkJtYUFya29vMFNR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 16, 05:19 AM ET",
+    "publishedAt": "2026-09-16T09:19:15+00:00",
+    "source": "CryptoRank",
+    "title": "OpenAI Formalizes the Codex Harness as a Managed API, Betting That Enterprises Want Orchestration Without the Overhead",
+    "summary": "CryptoRank is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVWk1WXNiSVA3YkZ4VEs0Ujgwb0piOG1hWnNzRkpWeC1CYmdRX21MT3c3WmpobmN5VUs1Q1kyS0h3anJzWWR6aUV3MlRHX2dqbi00eE9WS0ptZFhvRkpxTmFMSE91dG83SDJIV19IQmItZnRQOHhKVkE3MUZ1dmNIRTIwN1l1NlZMbTU0Mi1xRkhvRlF5Y1Rqb0FYanZIdkRrdmhsaHYxXzduSHk3bHNRRl9rc0U4NW5oTF9LNmFaajBqUk94a2RkTVZKZE1uS0ZDRTZaX1pJZXpockMwUjg0TXU5Q0lZNENSamgw?oc=5",
     "difficulty": "News"
   },
   {
@@ -57,18 +93,6 @@
     "summary": "MEXC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeG1mU3FvSF90U0FKdXJkMkxrcEtyNWdXTzZiMkh2YU1IaVN2Sk1pdk9NckJHR3F2ZW5fZ3p5Z2hkRVFaTkI4LWtUWl9ua3pVQ2oxTm5kRjlSVG1GRVBScFcxc2NLbzBuSVdfNkcyN1pWM1BKTmNJRGtuTDhmT2ttd2VWa0FfSzhkbmxMekNod3J5dUZRMlpwMVBmQUJESWFLSTNYUWI4RmIzZVlxcjJmNThVcWpPMW50c1E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 16, 04:26 AM ET",
-    "publishedAt": "2026-09-16T08:26:45+00:00",
-    "source": "forkast.news",
-    "title": "OpenAI Formalizes the Codex Harness as a Managed API, Betting That Enterprises Want Orchestration Without the Overhead",
-    "summary": "forkast.news is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON19RNS1Rc05DQTQtQ1dZRDNIM3loTGMzY0NtRUF2QVo3YUNyU01zUmpoS3h0bmgyMFhBc29VMWNubWhQbUVsSXNMOEpLVzZZbEdFblFPMGR4ZExXeHlTeGl3UmpybDZRRkRGT2ZtT0l6UEo5Zm5mZXgtbFJCelZ3WVlOSExmbmszaG5aN204S2g2RjVkU3dEZFJ0OWU4Mnk2amw5VmhyLWRuRXdoOVlxV3dRMjlxNEFNVlZYdDBqVGs0WS1RM1hscTZOR1F6NFVwTmhkTTB3?oc=5",
     "difficulty": "News"
   },
   {
@@ -110,13 +134,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 15, 08:10 PM ET",
-    "publishedAt": "2026-09-16T00:10:21+00:00",
-    "source": "Moomoo",
-    "title": "Google (GOOGL.US) has unveiled the Gemini 3.8 Live dual-model system, ushering in an era of \"real-time reasoning during conversation\" for voice AI, with benchmark scores surpassing those of OpenAI and xAI.",
-    "summary": "Moomoo is reporting this update. Open the article for the full story.",
+    "time": "Sep 15, 03:58 PM ET",
+    "publishedAt": "2026-09-15T19:58:55+00:00",
+    "source": "Seeking Alpha",
+    "title": "Google releases new Gemini models built to improve conversing capabilities of voice agents",
+    "summary": "Seeking Alpha is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcTdjM295NmZ2TzRvNmNKMVY1U0ZMVk90VWpOTGM5bkVYay1rT0xIMUVvZFVGX0plSWk2dXYwakM4U2dJY0pZakJ3UERRV3NIMTR6bEE5QTRyd1JWUUZsVTY1RzdxR1hyQkhtVzVfdVJRcTJkSWR3OVFHU2RNczhyZDBlZTA0aTdMTXZFcHkwNHhZdkJsUmhzWDFn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXdPVl9VcXJwMk1CMzJfYlFvVXA3QTdZZGxnZXNoR2VScFNBQ1dWeGI5VzhhTHdiWWdqWTBVN3Z0eXVRMEliSUpHQ0RLNnl1NmhPcGVYM0c2UVowWHVPSmpXazFiUFdqdDZlVXdDUVlNZGM5Ti15cFd6T0loMERTQ184d2NieVJhQlRRUjZ4RFBjd1Q5MUVJOFFzWVFPaWVGWHN0OXRNdlVZZ0lubUsyRlB2NDltVEF5el9sNDNxVXFfeVE4cUU4?oc=5",
     "difficulty": "News"
   },
   {
@@ -134,6 +158,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Sep 15, 01:24 PM ET",
+    "publishedAt": "2026-09-15T17:24:01+00:00",
+    "source": "Unite.AI",
+    "title": "Google Launches Gemini 3.8 Live and Extended Thinking Voice Models",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUlpROFFsRDdMbkZrUkJ2QlVDWUlyTTBvcGdmNzFhR3lnNVE5RndMQkRYTXVzbjZIS0pfaXAzSnZvZjJZV3dEbUVMNEtHdHlFYlhhd19PMUJLcmZBMUJuNFJFelZOaExMN3JVV3JIMU5jNVRYdUR1aHVDLWxZbDFjT1VJXy1vR3dCRmxpeUdfaUNZdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Sep 15, 01:11 PM ET",
     "publishedAt": "2026-09-15T17:11:39+00:00",
     "source": "blog.google",
@@ -141,18 +177,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 15, 01:07 PM ET",
-    "publishedAt": "2026-09-15T17:07:08+00:00",
-    "source": "blog.google",
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZTNBTjVVXzE2ZXpJdkoxcHo2cTNVVG1pZEs0dXhMU0d4dnNzcU5iZWppYkJMeVpCeWZVQ3dKSzVzZXNoeTltY3RJaXJtckQ2LXZnWlpGQ1V4Yi1HZUdjdFdPMUFua18weUpTazgweFp5YnlVTjB2RVJiTnVFMllTUThtQVlrT3liYnd1dmhfUGxiRHZOb3pub1dGR3pXbk9UMnZzV1hZdF96UUVLcTdWanZVc2YtaGtkZXNzY1ZCQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -165,6 +189,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFaUpVN2dkS2xfNS15T3ZXTUk3SjEwakU5aXVSSFZ3V0VSVW5fVlFMUlNUYnZtczdjNkVKR1JiUzRWNmpSdWhwOGRrRzFLUjdJNkxLMEVVcW9LYVNqb19yWmRueVNIRHh0Q3dHT21CSGlqRlY3Ync?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 15, 05:56 AM ET",
+    "publishedAt": "2026-09-15T09:56:59+00:00",
+    "source": "Hostinger",
+    "title": "How to use your ChatGPT subscription in Managed OpenClaw",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVBJTVZOSW0wSGx6VkY3dV9OTnZQT3Rzc0dsZ08yNmE2NktnNzRpMkptQW9ZbHdLMFdZVURoOEhwclJGLWt0MjJ6YnAzNGMzaHhNZUFsYk51cVQwb0lLOXJGR3NETGZ2Qy1DMTN6VmRaRXZTU1ZFTTZBU3lnYThQOHJ0U3kzZ1dpdWstZUZabEtWcHNZd0E?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,18 +228,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 14, 07:48 AM ET",
-    "publishedAt": "2026-09-14T11:48:50+00:00",
-    "source": "thenextweb.com",
-    "title": "OpenAI agents attacked RubyGems in May, two months before Hugging Face",
-    "summary": "thenextweb.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXhtc1RXQzVSTlBvM1pHUVEzdkRPazJISHVQWnA4SzcwQ1B3QzRYd29QNElkVmNLMTFwS2l6Y2NHcEJ3NDAybkRYVnpZSnFpZVNlcFAzbTdRRXhOY251anYyLUJ6ZUd2ajk2U0d5bmFkNWFucVZ2UFB6cGFVeDZhamJnQjdxdw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 14, 07:40 AM ET",
@@ -213,42 +237,6 @@
     "summary": "DataDrivenInvestor is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlMtblBia0dhSVIyLUZlTXZYZDVpRFgwaXlDb0lmVE5JU01yVHJHd2dDRFEzRzRYYTlFcUgwRkx0d3dKc2ptSjUyTi1iSXgydWpCdDFaai1EbVczRDNUc0hXaTNhWGw5R1J0ZjJsaC1tclU4U3RyUUUyTkd1ZS05WFJLY0FEeFVKZUNnazlqZm1iMklCa3BOVURCU0xKZ0p0dEVVakJRUlN3eVpV?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 14, 07:04 AM ET",
-    "publishedAt": "2026-09-14T11:04:04+00:00",
-    "source": "Rescana",
-    "title": "Active Exploitation Alert: Threat Actors Abuse Anthropic Claude AI to Extract Secrets from 1.8M Android Apps in Major Credential Theft Campaign",
-    "summary": "Rescana is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNXzF3LVkzVW56SFFOb09nbC0wYmtmdzkzekFwdUF4cFF1dXdpUzQ0UnRYUXQ3d000N091UV9nbi1yRmgybUZoRHM3ZWt6Y0MtMWpfWnEyWDllNkxOS201WEwzeDdEcHRUbC1NcnIxTGZ3ZjJnbkU3OFlYbHpBakhzVWJjdVpZX1doazNzQ05rd2xWQjNnZGx1YjJNLWpqTHVpUmExTUpKaW9OMy1nZmdFMzVFMnFWSGh2bUw0dzE3dGtYU0FXVmdZMVNodTFoa2hyZVQxMGtnby00MDZCODNMbHhPdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 11, 01:55 PM ET",
-    "publishedAt": "2026-09-11T17:55:03+00:00",
-    "source": "The New Stack",
-    "title": "OpenAI’s safety system is already cutting off API responses mid-task",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvcVo2ZmJsa3BmQ1FmVEw3VEU1bk9CaVREOFdMbFQ1VVFPd1d5UXoySzh3OEpHTjZrZXBrZndXNkJPUDBkVGRXcW84Mk10OEtETko3aXI5ZmVmc2Y4Mjd1cU91QQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 11, 12:15 PM ET",
-    "publishedAt": "2026-09-11T16:15:00+00:00",
-    "source": "The Hacker News",
-    "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMMVJKbnJua1o4S0pnako5MlpKNFNyVnFlTFFTYVhsM3VQS0EwSXVBczd4YjNVeDJUZE96RlQzc0dMdGZ6c3RDSHFRVm1yTGt6NzgxaHR4aWZnUzBNSDN3cFc3ZXVlMy1JT1BVdzVHTDlZc2NQN0FIY015X0V0NXM?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,6 +300,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 31, 03:00 AM ET",
+    "publishedAt": "2026-08-31T07:00:00+00:00",
+    "source": "The Hacker News",
+    "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDhmbjlyTTFDYVc3aXlGU3ktMmtQOXpzVW5XTHM0S01aMzFQQTlsZkVFNndkOHJwRDZjY2RPcm9fU0ZUUjNTTlRiYW5tWDlhaHBuOGxHV1FxLS15c0RTSHFSU1VPaXFHalRtcUlWbl84RElKcmFmOVFiU1NZUTI2c0RTT1Y?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 31, 03:00 AM ET",
@@ -350,13 +350,13 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Aug 17, 03:00 AM ET",
-    "publishedAt": "2026-08-17T07:00:00+00:00",
-    "source": "GeekWire",
-    "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform",
-    "summary": "GeekWire is reporting this update. Open the article for the full story.",
+    "time": "Aug 28, 03:00 AM ET",
+    "publishedAt": "2026-08-28T07:00:00+00:00",
+    "source": "eSecurity Planet",
+    "title": "Russian-Speaking Hackers Used Cursor AI in Attacks on Seven Companies, Report Says",
+    "summary": "eSecurity Planet is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeC1NWm84ODlRcTY0QUVfYkxhaHVUbFhPOUEwRTM2T2ZaSHdpcGFpYVFtQ2thY2FnMXE3ZndNU3FScXFjMWZPZWtUT3NvdE8xSldoNDNnX0pSRnI0RU13NjJkdWxQYVJ5UVpLWkpXR2czRVdnOXdnb3Y1RXYxWG50RThzUDlLb2ZB?oc=5",
     "difficulty": "News"
   },
   {
