@@ -2,13 +2,49 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 16, 10:57 PM ET",
-    "publishedAt": "2026-09-17T02:57:54+00:00",
-    "source": "OpenAI",
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "time": "Sep 17, 02:22 AM ET",
+    "publishedAt": "2026-09-17T06:22:19+00:00",
+    "source": "TechStock²",
+    "title": "OpenAI Discloses Six Model-Misalignment Cases as New API Monitor Goes Live",
+    "summary": "TechStock² is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPREdReTJjZVozVW5BaUo4OVhHZllrTDBqU1hsbWVON2YtSndSMFFYQndjdkY0aFQ2SVMxR19xTlBhbS1YbXQtUG1ZX3RmeW5Hcldfam9IU0xiZk92ZWNpWHVITkxwQ0pfN0pRS3FxVEE2MzB0YXc1WWpVbG1DbkljM2JtOFNpS3lXMzN4MGV4RVlSVU1JQ3NTMFMyTQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 17, 12:16 AM ET",
+    "publishedAt": "2026-09-17T04:16:00+00:00",
+    "source": "The Statesman",
+    "title": "OpenAI’s startling AI safety disclosure: Models hid errors, used exposed API key and took unauthorised actions",
+    "summary": "The Statesman is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLTRqZ0pZR2N6cXVwODZWWTcxek80VXV1aVdDb3FEbUxEZHRQX1RnXzNWUUFNZUR5a0sxWmdHeEpwbXdwLXBNSU1US1prSHd0dUpCT1Bmb2hqZFVjZmduTU9vNUczbmFkeGlqaDhnZUhndTZ3QjBBeXJWVTIwQl96ZjV5c2dZbUc0a2EtaF9KNHJ2MlJ2c0lZRlNZRTVobTdjb1AtaFFnN0ZwdEJObU4zTXdVLXNoaGxkc1UxR2NwbW5wQlZmVFRZb3FfTFZpQXFrVjI3V1lMV2xtVjhsTnVGazJsbjBLVHdEUmZ1ckZlYmlTSk55RlE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 16, 08:04 PM ET",
+    "publishedAt": "2026-09-17T00:04:02+00:00",
+    "source": "HackerNoon",
+    "title": "A Practical Guide to Claude Code Logs, Metrics, and Traces",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMEFmUmQza0Fwc1dRY1lzMGVoREJEVW50QzlJZHdmbS1DNWxaY0t0NmpER2s1U3hYeTNuN3FzUVB2NlF5WlZMQ25LbzBFYW1CN2JxRHBHRkdaYlpCcE00RTBQa1J2Q1dPWGliQm5ZdFZQclRCS3VOaGtOLXBwRHRvSVVYeWNzZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 16, 05:02 PM ET",
+    "publishedAt": "2026-09-16T21:02:00+00:00",
+    "source": "Notebookcheck",
+    "title": "Claude Opus 5 starts appearing on free accounts, but only for three messages",
+    "summary": "Notebookcheck is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzBVenloSk9aWmdXa2JySXhyelVuQTdkWXNoSW9CUkloRkstMW1Fd3drRnFfT0xic3YxdWZxbzJhQlFVSG85bk14Mk9NYzhrTEhhbnF3NDRSRWdaZVlZVlE4cmxSMWRwS2RQcVhvVEh2MVVjSmJqVkxlbzI1Q3pZU0lCT0cwZk1aM052eHl0NlpkREFfcHg0TFVld2JYZEN0dk1PUFE4aWpsWWNaaURpTVJvMHBhemJUU3VYOQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -16,23 +52,11 @@
     "label": "Claude Code",
     "time": "Sep 16, 05:00 PM ET",
     "publishedAt": "2026-09-16T21:00:00+00:00",
-    "source": "businessmodelanalyst.com",
+    "source": "Business Model Analyst",
     "title": "Anthropic Business Model: How Claude Makes Money on a Product That Expires in Eight Weeks",
-    "summary": "businessmodelanalyst.com is reporting this update. Open the article for the full story.",
+    "summary": "Business Model Analyst is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15c2g3QWFDZm9WUWFOUDFVX1hpTFdReUIwWElkMmE1Qkp0RG85d2hPT19XdFVwWFQ0cHJYME5nckhaeFFMZ01RNTJSQmZVLUM0SzBJQUV5UUlERzRwZEw2Z01namZqdlZpRlE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 16, 04:08 PM ET",
-    "publishedAt": "2026-09-16T20:08:05+00:00",
-    "source": "Pasquale Pillitteri",
-    "title": "Google Launches Gemini 3.8 Live, the Audio AI at $1.38 an Hour",
-    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GSFNMUXRlTHcyM0lDa0ZFV01oOWk4d2U2ZHRMUWZlQ3A0SVloRElGbnhKZWdydVVWX3lXRXk3cHpVZ290dS1reDZXaHA0MGtwdTE2U0tHNjlxdG9OS1BkQVl3NjNKYzVKTVpBMHMzZm1IU3VwY3VmZ092NA?oc=5",
     "difficulty": "News"
   },
   {
@@ -48,18 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 16, 01:51 PM ET",
-    "publishedAt": "2026-09-16T17:51:30+00:00",
-    "source": "ghacks.net",
-    "title": "Apple May Let Users Replace Siri With Claude or ChatGPT",
-    "summary": "ghacks.net is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOenJIWWZJNHF3UU81VGhGNG1vbk8xMUliYTdsTjF2VHZFdmlzazZzUE1sUWR2dXc3LUp0T1dGVzZZSkRRd3dpc0M5SzlMS09ma1d0MnRicXVZY1paWXVTb1A4T1dhbTF3TV91Q1BaYmFab1BkZlEzMENod1ZxeFpfU3JRcDQwYkhhc0xlMmQxZDZ3c3Vq?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Sep 16, 07:56 AM ET",
@@ -69,42 +81,6 @@
     "summary": "Memeburn is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQlY0TjY5aFBTMjMyX04wZjFoRm1leXI4NFpWTm8xLWxZcWswLUJBbmNBc0gzN242YWh2MHBLNHA2X0hZNmlDa0twZXpfaGZmZmtEQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 16, 05:19 AM ET",
-    "publishedAt": "2026-09-16T09:19:45+00:00",
-    "source": "MEXC",
-    "title": "Are You Overpaying for Claude Code? Claude Code Subscription Price vs API Price",
-    "summary": "MEXC is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamsyWmE0Vklvd0NBbFoxU1BHelhwaHN2a1dsRlpfWjd1aDZ6Q1R2Z28tSUV3YTV1WkNxWnU1cXlFNUQtYW9XaDJ0V0o3MlVQc2pETXBUU3NWMUFJTWg1R1Y5WEZGaU5jNzVfVzRGdkdBNGEycmJvX2N3OG5IeVczSVc1dzJyVkZTQ0d5UzVVdHVQWms5QTd6d19aanlfUm9NMHVURTRTQXlSWnl0NWxSVkhtRWo?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 16, 05:19 AM ET",
-    "publishedAt": "2026-09-16T09:19:15+00:00",
-    "source": "CryptoRank",
-    "title": "OpenAI Formalizes the Codex Harness as a Managed API, Betting That Enterprises Want Orchestration Without the Overhead",
-    "summary": "CryptoRank is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVWk1WXNiSVA3YkZ4VEs0Ujgwb0piOG1hWnNzRkpWeC1CYmdRX21MT3c3WmpobmN5VUs1Q1kyS0h3anJzWWR6aUV3MlRHX2dqbi00eE9WS0ptZFhvRkpxTmFMSE91dG83SDJIV19IQmItZnRQOHhKVkE3MUZ1dmNIRTIwN1l1NlZMbTU0Mi1xRkhvRlF5Y1Rqb0FYanZIdkRrdmhsaHYxXzduSHk3bHNRRl9rc0U4NW5oTF9LNmFaajBqUk94a2RkTVZKZE1uS0ZDRTZaX1pJZXpockMwUjg0TXU5Q0lZNENSamgw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 16, 03:39 AM ET",
-    "publishedAt": "2026-09-16T07:39:59+00:00",
-    "source": "HackerNoon",
-    "title": "You Can Now Run Claude Code for $0. Here's the Exact Setup That Actually Works.",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQl9PejlSR05iV2hoY3Z2My1CNFpJV01OVG1YY3MxQWZSZ0tXM1JhSzJsVmFuVDJOeUR3a1RWMmp4M1MxQjV4a3REdVZJeHhzT3JpVlRzbDdrRlVWN3o1aENzWGNVMkMzNm1rNVZBQ3JZNUtBVkpIbnB3bGw4XzdXRGIyb2J1TXh5aHlDbnVlVmx6NUxUX3hWRWk5SjFTUGpf?oc=5",
     "difficulty": "News"
   },
   {
@@ -129,6 +105,18 @@
     "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWszY1BwUlJvZG1GQzVVQ1E4d2RiVlpJN1BobFJfZVU5d29MR1hwZ2dlTTVWaDBtek1XejNKRURYNWFZcWgtTmFSaWRuV0FWU3hsTkpmUjlaSTJqZHd1UTZWR0xxY1hmLTlKdjRfNjFHYVJ3NHNuYjIxZjYzemhwRWxPTEFIdHh5NkVWeVNMTmw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 15, 04:25 PM ET",
+    "publishedAt": "2026-09-15T20:25:52+00:00",
+    "source": "shattered.io",
+    "title": "Gemini 3.8 Live & Extended Thinking: Google Voice AI [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FZDRjU2VNcTR1UUZyTHJ1NWg0QkxQdnFOb21FOWxXeXJVTmItbTJNQWxXT0Ztd3VRN2ROajZOVmVMY2NwcTYzZ3FqMFRDMUY5YUp5VDlicTlFUWRjc3Vyb0FQLUNlOUZEc3RuMW9qMWllckZaWHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -208,9 +196,9 @@
     "label": "ChatGPT",
     "time": "Sep 15, 06:05 AM ET",
     "publishedAt": "2026-09-15T10:05:57+00:00",
-    "source": "hostinger.com",
+    "source": "Hostinger",
     "title": "How to use your ChatGPT subscription in Managed OpenClaw",
-    "summary": "hostinger.com is reporting this update. Open the article for the full story.",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVBJTVZOSW0wSGx6VkY3dV9OTnZQT3Rzc0dsZ08yNmE2NktnNzRpMkptQW9ZbHdLMFdZVURoOEhwclJGLWt0MjJ6YnAzNGMzaHhNZUFsYk51cVQwb0lLOXJGR3NETGZ2Qy1DMTN6VmRaRXZTU1ZFTTZBU3lnYThQOHJ0U3kzZ1dpdWstZUZabEtWcHNZd0E?oc=5",
     "difficulty": "News"
@@ -220,23 +208,11 @@
     "label": "Claude Code",
     "time": "Sep 15, 03:00 AM ET",
     "publishedAt": "2026-09-15T07:00:00+00:00",
-    "source": "hostinger.com",
+    "source": "Hostinger",
     "title": "How to send an email with Claude",
-    "summary": "hostinger.com is reporting this update. Open the article for the full story.",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rZXA5SUhSVXFLMlZTVkVabHZlUU5SQlI1eG42TEowOWVGZ0ZmLWpCNkkzUF82eVAxVUdPbkwzZThQRV9Vdkk2MlNvRnh5alI1YTh3TTktWWNwZU8xVjlsWmxIemJlbFAzSUlrUVBibHVJdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 14, 08:15 PM ET",
-    "publishedAt": "2026-09-15T00:15:02+00:00",
-    "source": "wkow.com",
-    "title": "CometAPI Adds OpenAI’s GPT-6 Astra API to Its Multi-Model Developer Platform",
-    "summary": "wkow.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSDRiMFNlenlKLTdKTHZWQkVFaWVGTlE3ZUVLOW1aYVZ6U2Q4c25Ga3Fubl9vWjRrZnJFSGY5SkRQUExrNVRVT3JDSmJtRW1RSHRPMVNaMDZxQ01YTFVIRU9CaEpTVS1OUVAyUFhQcUxVTERKX3ZxOEZyOVNWbVJEbDdTVEJjVGMwWmh4aUNwckE1MnBSYWsxQkg3Yng4YzNYbU1sNGxHMFQ0aU5nY0JqVEZyeWRCTXhZRnB4VHlMRTJKZmxqWmkwOUpSUkwtbVB1N1hRNWlSVkNGUHR5R1ZkMDRxZnFNWF8teEFRVzNIOElNdzdIOUFmQTR3aWlyNmRPa2doeElkY0Qtdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -244,23 +220,35 @@
     "label": "Claude Code",
     "time": "Sep 14, 09:00 AM ET",
     "publishedAt": "2026-09-14T13:00:14+00:00",
-    "source": "MakeUseOf",
+    "source": "makeuseof.com",
     "title": "We don't need Claude Code anymore and the best replacement is free",
-    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
+    "summary": "makeuseof.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZS1pZUstQkJBdmtXZmxWWU9vS0E2U1pEU1UyZk8wOG95UFo3aHZkdkJjR1hoazNQQVk5ZldmNVBJcHBkc1VxSWZuUE15c2dEUWlwbHF3WVZxTTNfc25qU3BLeF9YT2J0UFpQaS1YXzB6N0NQTTJ0aFVlb0FEN09wekpKZDlFYXhnZlI4VHg2OA?oc=5",
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 14, 07:48 AM ET",
+    "publishedAt": "2026-09-14T11:48:50+00:00",
+    "source": "The Next Web",
+    "title": "OpenAI agents attacked RubyGems in May, two months before Hugging Face",
+    "summary": "The Next Web is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXhtc1RXQzVSTlBvM1pHUVEzdkRPazJISHVQWnA4SzcwQ1B3QzRYd29QNElkVmNLMTFwS2l6Y2NHcEJ3NDAybkRYVnpZSnFpZVNlcFAzbTdRRXhOY251anYyLUJ6ZUd2ajk2U0d5bmFkNWFucVZ2UFB6cGFVeDZhamJnQjdxdw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 14, 07:40 AM ET",
-    "publishedAt": "2026-09-14T11:40:19+00:00",
-    "source": "DataDrivenInvestor",
-    "title": "I Asked Claude Where to Invest $10,000. Here’s What Happened | by Kevin Meneses González | Sep, 2026",
-    "summary": "DataDrivenInvestor is reporting this update. Open the article for the full story.",
+    "time": "Sep 12, 06:21 AM ET",
+    "publishedAt": "2026-09-12T10:21:09+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Use Claude Fable 5.1 API: 12 Steps, 90 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlMtblBia0dhSVIyLUZlTXZYZDVpRFgwaXlDb0lmVE5JU01yVHJHd2dDRFEzRzRYYTlFcUgwRkx0d3dKc2ptSjUyTi1iSXgydWpCdDFaai1EbVczRDNUc0hXaTNhWGw5R1J0ZjJsaC1tclU4U3RyUUUyTkd1ZS05WFJLY0FEeFVKZUNnazlqZm1iMklCa3BOVURCU0xKZ0p0dEVVakJRUlN3eVpV?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PdGUya0dGZU03R0o2WHBaa0pOYVdQMU1lSV9NZV9Rb3YyMldfT0loLThnUFl4aEQ0bUk3Ni1LdDQxaDRyb2JhdFRiODk4WTQ5Z1JQSFpPYXBPLWNDbWNtcjVxeDZmY05Ic2tYMUZZOA?oc=5",
     "difficulty": "News"
   },
   {
@@ -273,6 +261,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 10, 01:05 PM ET",
+    "publishedAt": "2026-09-10T17:05:05+00:00",
+    "source": "OpenAI",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,6 +312,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Aug 31, 03:00 AM ET",
+    "publishedAt": "2026-08-31T07:00:00+00:00",
+    "source": "The Hacker News",
+    "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDhmbjlyTTFDYVc3aXlGU3ktMmtQOXpzVW5XTHM0S01aMzFQQTlsZkVFNndkOHJwRDZjY2RPcm9fU0ZUUjNTTlRiYW5tWDlhaHBuOGxHV1FxLS15c0RTSHFSU1VPaXFHalRtcUlWbl84RElKcmFmOVFiU1NZUTI2c0RTT1Y?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 31, 03:00 AM ET",
@@ -340,9 +352,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 28, 03:00 AM ET",
     "publishedAt": "2026-08-28T07:00:00+00:00",
-    "source": "reuters.com",
+    "source": "Reuters",
     "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-    "summary": "reuters.com is reporting this update. Open the article for the full story.",
+    "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
     "difficulty": "News"
