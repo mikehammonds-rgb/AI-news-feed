@@ -1,12 +1,36 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 18, 01:34 PM ET",
+    "publishedAt": "2026-09-18T17:34:44+00:00",
+    "source": "memeburn.com",
+    "title": "Gemini 3.8 Live: Google Still Trails OpenAI, Anthropic",
+    "summary": "memeburn.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OWjBGOGx3dktSWFVja2ZGblN4TnpvNGNucGY2TkdZQ2ZtSEx2akFxSW5MclZYeF9WRWJvamo4dHp3OEQxLTZ6QnBjODE0ZUFnQ3pkYThqSWxPUlZNNW9scXl3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 18, 11:44 AM ET",
+    "publishedAt": "2026-09-18T15:44:00+00:00",
+    "source": "The Times of India",
+    "title": "Meet Harsh Jaiswal, Mohan Pedhapati and Rahul Maini: 3 Indian-origin researchers who used Claude to breac",
+    "summary": "The Times of India is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOYmhmOGlVWkhVUFF0VHFlTTRqV09SREN6RWZCdnBUN093bWd2Z2hldWp6MFdxVTMxak5WVTFRYnM3aWpSUWJlZ2FPbGx1d3M5MjE5TU5VMlNEeHJ5TndZN01sWU5vRlFYNmc4WUFPM1oyd2N3QW9CcXBLUjhGbTByeThuOXdJcEhuWTRuNFVldEctWFhIajBVRVZQMnk4QzhUM2JMd1dxM1c0ejUwOVozM21jeXFnTHdsTXI2MFZ4X2dzdGVldktFN1ZPcDNlaDJLLWtGMlRsVzUzWHFOUlNkV05FOWpuS3c2RThjdWpBV0R5Ym9ubnBzT1AtZ183SG4wdWttYnhyQVVtb3Y4MVRLNWx0MWFjSVJRc0ZrekQ2d2FwQjAxdUUxdHdNbWdudHPSAbQCQVVfeXFMTXllUWNkVzcwUjBnMWdTR0Y2UHR1R21oWXBicnpRWi1WUmNJVWFSbjA5QTY4cm5QeXdfMXJmTjFqeWVsaHRmbnI5eDN2bmZobDlLdTBtNXVCQmd5cG5HbWpRS2lCdWw5RnJVRm1kS2FFeEJUS0UzdUttQnFDdEZIeDhRTHdXNEZJam5SVFlKaVp1RThrc0p6aE5YNlhzRFZnYWRlRTZoT0c5dndRamlpbkprS2VURXZ4WEIxMEM1aE0zZVM4Ty1JTWwzeF83UmxzQW9MN3RUQ3RVWEFQczBZOU43emUzTWJaRVNXZS0wY3VlMGVKSDd5dVZUVUJqX3VhQ3hTQ1d3cTBQNUV4UHpOeE45cC1tRTBKbVdENEtDdy1XNWM5Y3hBM2VVMnpmNnlfeTVkS3A?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 18, 06:19 AM ET",
     "publishedAt": "2026-09-18T10:19:04+00:00",
-    "source": "Legal Cheek",
+    "source": "legalcheek.com",
     "title": "Top US law firms back OpenAI’s new legal platform",
-    "summary": "Legal Cheek is reporting this update. Open the article for the full story.",
+    "summary": "legalcheek.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONmkyaXBYMHpMWXFnWEdXay1sTE10b1BmSmtQdWR2WDJHSV9CN0M2SlUtRXpoOTItdjJOSERqYmZ1M3NJcy1zV1pUWDhSUWNVY043LVhqRnM3TDFjWm1vdzVOZEdUVi1QcWVtR0JRZlROZHJRWmNJSDdOUXF1QlNzVUx1MFlCRHlMMnVrLQ?oc=5",
     "difficulty": "News"
@@ -21,18 +45,6 @@
     "summary": "gbhackers.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOS3RScFlid19WNVR1V3h4Tjg0MWtuOHhDaVZzSWp1ZGxSa09Yb2c0SkVUT2pfMURlX1huUW9yYWZzSVo1Q2NHQjdQMFM1UG1yTnl4emJ0Rm5PUHRIXzFGZVVVdjdHTVBuVlBvLVg3cXJKMFp1R1HSAXtBVV95cUxNY3NRUzBxQkYyQlFYUnFKLTBLZjByNjBvQUpKSGNnRWZpRU5fX3AyOWZXamlzdUV0YlA4U01mSmxzaDNNX1dGaHpBeFk4eG5VLU0zSVlhNDY0VWNHT3ZzSjM2WEZ2OTBhNWF4eFFKV0xyamQ5OXIxalptcTQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 17, 07:17 PM ET",
-    "publishedAt": "2026-09-17T23:17:00+00:00",
-    "source": "SiliconANGLE",
-    "title": "OpenAI launches Astra for Law, a GPT-6 configuration for legal research",
-    "summary": "SiliconANGLE is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczQ0RGFOcFI1eUpLMkxlUFY3WFdpWExrc2Z4Z2dIWEo2WkdIOEdVREkwRDBRMklpZGVtaHJnQ3M5X3pJR1pJS2JnY24wX3dwUUpmUG1pM0sxeXlrbHc0YlNQaVlCWUZfUzRJcDhGMXZjX2FSYkV0NEVpandZVURaeWh4ZE4yZHBrYTRnOUtYenZKQXVBc3FXSFFiZjF6b0tlTTdjbUNYWmtyWEE?oc=5",
     "difficulty": "News"
   },
   {
@@ -64,9 +76,9 @@
     "label": "Claude Code",
     "time": "Sep 17, 02:00 PM ET",
     "publishedAt": "2026-09-17T18:00:13+00:00",
-    "source": "How-To Geek",
+    "source": "howtogeek.com",
     "title": "I built a hybrid AI setup that keeps my data local but lets me use Claude for hard jobs",
-    "summary": "How-To Geek is reporting this update. Open the article for the full story.",
+    "summary": "howtogeek.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUYtVVJsV0phV2ZDakVRQzRUS0tPZ2dYRVRKSkkxX18zcjhCZ1pqOF9IMy0zYkY0ZFI1R3NVZUtrWEZSUXJSWEYtZGwzRS1LX1VseXZJZDlYT185UmhMQ2VfNFZNMDBYcmNWRnlBRXJMOEJiNEk0ZV8zNEhGRjFRQWxmQXp5c29HaWxrN3BiaDZ5RGJ3aXc?oc=5",
     "difficulty": "News"
@@ -96,18 +108,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 17, 12:00 PM ET",
-    "publishedAt": "2026-09-17T16:00:50+00:00",
-    "source": "extremetech.com",
-    "title": "Google Launches New Voice AI Models for Building Real-Time Conversational Apps",
-    "summary": "extremetech.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1hZZ01OU0ZLS3NlR3JqOWRmc1BrVl9CM2VHbkZaazdnS3R5dlVYVm1TeEVZOVJpdFFURmJnY2MzWGI5bHdZZmVMTWxKQ25lU0tueU1KVjBBZC1VTEhqMnhmUVZDb2dlMExHVEhJMC1UOFNqN19GSjFwVzFGUXJPYmNQcWhmdDQxd0toRl9MbTJYYzA0a1Q3QlEwNXNiNkdsbU83Q0YzZmdrOW90aDU0MQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 17, 11:45 AM ET",
@@ -124,23 +124,11 @@
     "label": "Gemini",
     "time": "Sep 17, 06:52 AM ET",
     "publishedAt": "2026-09-17T10:52:05+00:00",
-    "source": "techrepublic.com",
+    "source": "TechRepublic",
     "title": "Google Launches Gemini 3.8 Live Models That Can Reason While They Talk",
-    "summary": "techrepublic.com is reporting this update. Open the article for the full story.",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tZDFwZWtINEZBcVc4T3VCWnNaajB2VmNldm82MENRclhhcXlIRTlaUV9Fdkk0am1qTV80UTJIYW9GR3MwazI5MDdIN3lTbTRHdzFsTUNKYmpiVWRjWjgtSm5EeWFsaG1feXN4aW5pankwSWs?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 16, 05:00 PM ET",
-    "publishedAt": "2026-09-16T21:00:00+00:00",
-    "source": "Business Model Analyst",
-    "title": "Anthropic Business Model: How Claude Makes Money on a Product That Expires in Eight Weeks",
-    "summary": "Business Model Analyst is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15c2g3QWFDZm9WUWFOUDFVX1hpTFdReUIwWElkMmE1Qkp0RG85d2hPT19XdFVwWFQ0cHJYME5nckhaeFFMZ01RNTJSQmZVLUM0SzBJQUV5UUlERzRwZEw2Z01namZqdlZpRlE?oc=5",
     "difficulty": "News"
   },
   {
@@ -160,9 +148,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 16, 07:56 AM ET",
     "publishedAt": "2026-09-16T11:56:16+00:00",
-    "source": "Memeburn",
+    "source": "memeburn.com",
     "title": "9 Best AI Coding Tools in 2026: IDEs, Agents, & Copilots Compared",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "summary": "memeburn.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQlY0TjY5aFBTMjMyX04wZjFoRm1leXI4NFpWTm8xLWxZcWswLUJBbmNBc0gzN242YWh2MHBLNHA2X0hZNmlDa0twZXpfaGZmZmtEQQ?oc=5",
     "difficulty": "News"
@@ -252,6 +240,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 15, 06:12 AM ET",
+    "publishedAt": "2026-09-15T10:12:30+00:00",
+    "source": "tech-insider.org",
+    "title": "OpenAI Realtime API: gpt-live-1 Setup in 12 Steps [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFaUpVN2dkS2xfNS15T3ZXTUk3SjEwakU5aXVSSFZ3V0VSVW5fVlFMUlNUYnZtczdjNkVKR1JiUzRWNmpSdWhwOGRrRzFLUjdJNkxLMEVVcW9LYVNqb19yWmRueVNIRHh0Q3dHT21CSGlqRlY3Ync?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 15, 03:00 AM ET",
@@ -268,9 +268,9 @@
     "label": "Claude Code",
     "time": "Sep 14, 09:00 AM ET",
     "publishedAt": "2026-09-14T13:00:14+00:00",
-    "source": "MakeUseOf",
+    "source": "makeuseof.com",
     "title": "We don't need Claude Code anymore and the best replacement is free",
-    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
+    "summary": "makeuseof.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZS1pZUstQkJBdmtXZmxWWU9vS0E2U1pEU1UyZk8wOG95UFo3aHZkdkJjR1hoazNQQVk5ZldmNVBJcHBkc1VxSWZuUE15c2dEUWlwbHF3WVZxTTNfc25qU3BLeF9YT2J0UFpQaS1YXzB6N0NQTTJ0aFVlb0FEN09wekpKZDlFYXhnZlI4VHg2OA?oc=5",
     "difficulty": "News"
@@ -292,9 +292,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 09, 11:47 AM ET",
     "publishedAt": "2026-09-09T15:47:00+00:00",
-    "source": "Coursera",
+    "source": "coursera.org",
     "title": "AI Coding Explained: Tools, Benefits, and Limitations",
-    "summary": "Coursera is reporting this update. Open the article for the full story.",
+    "summary": "coursera.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GSkhiTWhUWm1OV29KMTRzdGE3Z284Q1dlVXhHT0o2aXBRdlMwVnpHMDVyWWVaNEo2b212SHFUSUJOUEFJRjd1ZU5pUE5rSnNYMGc0cWZn?oc=5",
     "difficulty": "News"
@@ -364,9 +364,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 25, 03:00 AM ET",
     "publishedAt": "2026-08-25T07:00:00+00:00",
-    "source": "techrepublic.com",
+    "source": "TechRepublic",
     "title": "GitHub Copilot Coding Agent Can Now Use Microsoft Teams Conversations",
-    "summary": "techrepublic.com is reporting this update. Open the article for the full story.",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXRwa2lEWTJSZkM5Sk1WX3Nzd0RQaEdrYlBkZkI3UzhxQ0tjcXVLelUtbWFUcmtWdXRycHZxYW5NUnNyYVRSUmhPTk91WFdUNS00NFAya2plb3NkckFJVVNwOW5hLWZhNUFveElYWHg3bThkNDVpQXdYVUVqVGw5cUxqTWdPbEI2bE9OUlFjQnZyWnVI?oc=5",
     "difficulty": "News"
