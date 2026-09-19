@@ -1,5 +1,29 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 19, 06:07 AM ET",
+    "publishedAt": "2026-09-19T10:07:56+00:00",
+    "source": "forkast.news",
+    "title": "Anthropic Gave Claude a Shopping Brain. It Deliberately Left Out the Wallet.",
+    "summary": "forkast.news is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNmlneUh3MUZjQ2kxWG8tbVYtX01iNENqUlhFeHZQNWlBNlB3bWJGU2Q5dm9Xd3UtWm16MmN6ZVV6TnRqeGplSi01WWhPQXVqdWNId2pEbk9VV3pDbF9qbkJ6ejJRWnFSR1JXdGdEblRrUl9fTHNuZ0RKckxYcVJfaFA5bWtTU19ZVUI5Xzd2R3lJRC10czVoSTR5Qko?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 19, 12:51 AM ET",
+    "publishedAt": "2026-09-19T04:51:27+00:00",
+    "source": "tech-insider.org",
+    "title": "GPT Store vs Claude Skills vs Gemini Gems: 159K Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xNzJ0elNJQ1MtRGtGdjVRMzBpWEYwWnM2QUdvclpfY3VYdlExTzR1ZllkamdmSUlXSGRzaW43TzNvX1NoQm8wNUFTYXdILThqVzBrU2tkWmxYWXlBYzlZdVJpOC1uTVVzQ056clRjdF9QNWU5YUNWazRETFg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 18, 03:39 PM ET",
@@ -9,18 +33,6 @@
     "summary": "ALM Corp is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11OTlOS3NlVXRDeFczdllMX0lqRDh6X083LV9sdVlTbFBkOS0yZXYwc2lNTEN5SkUyNHpYWm1ta1lNYTZMMjBkTi1MWGY1NEoxV1NBQ0tnRVFXZWpwTHBHRUVNYjF4NmVwU2ZLNC1HdDFLRk05enc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 18, 01:34 PM ET",
-    "publishedAt": "2026-09-18T17:34:44+00:00",
-    "source": "Memeburn",
-    "title": "Gemini 3.8 Live: Google Still Trails OpenAI, Anthropic",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OWjBGOGx3dktSWFVja2ZGblN4TnpvNGNucGY2TkdZQ2ZtSEx2akFxSW5MclZYeF9WRWJvamo4dHp3OEQxLTZ6QnBjODE0ZUFnQ3pkYThqSWxPUlZNNW9scXl3?oc=5",
     "difficulty": "News"
   },
   {
@@ -45,18 +57,6 @@
     "summary": "The Times of India is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOYmhmOGlVWkhVUFF0VHFlTTRqV09SREN6RWZCdnBUN093bWd2Z2hldWp6MFdxVTMxak5WVTFRYnM3aWpSUWJlZ2FPbGx1d3M5MjE5TU5VMlNEeHJ5TndZN01sWU5vRlFYNmc4WUFPM1oyd2N3QW9CcXBLUjhGbTByeThuOXdJcEhuWTRuNFVldEctWFhIajBVRVZQMnk4QzhUM2JMd1dxM1c0ejUwOVozM21jeXFnTHdsTXI2MFZ4X2dzdGVldktFN1ZPcDNlaDJLLWtGMlRsVzUzWHFOUlNkV05FOWpuS3c2RThjdWpBV0R5Ym9ubnBzT1AtZ183SG4wdWttYnhyQVVtb3Y4MVRLNWx0MWFjSVJRc0ZrekQ2d2FwQjAxdUUxdHdNbWdudHPSAbQCQVVfeXFMTXllUWNkVzcwUjBnMWdTR0Y2UHR1R21oWXBicnpRWi1WUmNJVWFSbjA5QTY4cm5QeXdfMXJmTjFqeWVsaHRmbnI5eDN2bmZobDlLdTBtNXVCQmd5cG5HbWpRS2lCdWw5RnJVRm1kS2FFeEJUS0UzdUttQnFDdEZIeDhRTHdXNEZJam5SVFlKaVp1RThrc0p6aE5YNlhzRFZnYWRlRTZoT0c5dndRamlpbkprS2VURXZ4WEIxMEM1aE0zZVM4Ty1JTWwzeF83UmxzQW9MN3RUQ3RVWEFQczBZOU43emUzTWJaRVNXZS0wY3VlMGVKSDd5dVZUVUJqX3VhQ3hTQ1d3cTBQNUV4UHpOeE45cC1tRTBKbVdENEtDdy1XNWM5Y3hBM2VVMnpmNnlfeTVkS3A?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 18, 08:15 AM ET",
-    "publishedAt": "2026-09-18T12:15:08+00:00",
-    "source": "tech-insider.org",
-    "title": "Muse Spark vs GPT-6 Astra vs Claude Fable 5.1 [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GUmtSV25GV2xtZUZCNWdMZEIyakpkSHVhbzFpaHNBVHNnX1Ywck1GWnVnVE1WSUsxWmUzMGNpVkl2bmd0akg2NnBneXpobjdod1JiaFlPbTJnS29UamxzOVNwM0RNOFlkd3VrLTRJWEVnS2gtTXZqVHUyZHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -206,6 +206,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Sep 15, 01:24 PM ET",
+    "publishedAt": "2026-09-15T17:24:01+00:00",
+    "source": "Unite.AI",
+    "title": "Google Launches Gemini 3.8 Live and Extended Thinking Voice Models",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUlpROFFsRDdMbkZrUkJ2QlVDWUlyTTBvcGdmNzFhR3lnNVE5RndMQkRYTXVzbjZIS0pfaXAzSnZvZjJZV3dEbUVMNEtHdHlFYlhhd19PMUJLcmZBMUJuNFJFelZOaExMN3JVV3JIMU5jNVRYdUR1aHVDLWxZbDFjT1VJXy1vR3dCRmxpeUdfaUNZdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Sep 15, 01:11 PM ET",
     "publishedAt": "2026-09-15T17:11:39+00:00",
     "source": "blog.google",
@@ -264,25 +276,13 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 14, 07:40 AM ET",
-    "publishedAt": "2026-09-14T11:40:19+00:00",
-    "source": "DataDrivenInvestor",
-    "title": "I Asked Claude Where to Invest $10,000. Here’s What Happened | by Kevin Meneses González | Sep, 2026",
-    "summary": "DataDrivenInvestor is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlMtblBia0dhSVIyLUZlTXZYZDVpRFgwaXlDb0lmVE5JU01yVHJHd2dDRFEzRzRYYTlFcUgwRkx0d3dKc2ptSjUyTi1iSXgydWpCdDFaai1EbVczRDNUc0hXaTNhWGw5R1J0ZjJsaC1tclU4U3RyUUUyTkd1ZS05WFJLY0FEeFVKZUNnazlqZm1iMklCa3BOVURCU0xKZ0p0dEVVakJRUlN3eVpV?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Sep 09, 03:00 AM ET",
     "publishedAt": "2026-09-09T07:00:00+00:00",
-    "source": "Coursera",
+    "source": "coursera.org",
     "title": "AI Coding Explained: Tools, Benefits, and Limitations",
-    "summary": "Coursera is reporting this update. Open the article for the full story.",
+    "summary": "coursera.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GSkhiTWhUWm1OV29KMTRzdGE3Z284Q1dlVXhHT0o2aXBRdlMwVnpHMDVyWWVaNEo2b212SHFUSUJOUEFJRjd1ZU5pUE5rSnNYMGc0cWZn?oc=5",
     "difficulty": "News"
@@ -328,9 +328,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 28, 03:00 AM ET",
     "publishedAt": "2026-08-28T07:00:00+00:00",
-    "source": "Reuters",
+    "source": "reuters.com",
     "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-    "summary": "Reuters is reporting this update. Open the article for the full story.",
+    "summary": "reuters.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
     "difficulty": "News"
