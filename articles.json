@@ -48,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 18, 11:44 AM ET",
-    "publishedAt": "2026-09-18T15:44:00+00:00",
-    "source": "The Times of India",
-    "title": "Meet Harsh Jaiswal, Mohan Pedhapati and Rahul Maini: 3 Indian-origin researchers who used Claude to breac",
-    "summary": "The Times of India is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOYmhmOGlVWkhVUFF0VHFlTTRqV09SREN6RWZCdnBUN093bWd2Z2hldWp6MFdxVTMxak5WVTFRYnM3aWpSUWJlZ2FPbGx1d3M5MjE5TU5VMlNEeHJ5TndZN01sWU5vRlFYNmc4WUFPM1oyd2N3QW9CcXBLUjhGbTByeThuOXdJcEhuWTRuNFVldEctWFhIajBVRVZQMnk4QzhUM2JMd1dxM1c0ejUwOVozM21jeXFnTHdsTXI2MFZ4X2dzdGVldktFN1ZPcDNlaDJLLWtGMlRsVzUzWHFOUlNkV05FOWpuS3c2RThjdWpBV0R5Ym9ubnBzT1AtZ183SG4wdWttYnhyQVVtb3Y4MVRLNWx0MWFjSVJRc0ZrekQ2d2FwQjAxdUUxdHdNbWdudHPSAbQCQVVfeXFMTXllUWNkVzcwUjBnMWdTR0Y2UHR1R21oWXBicnpRWi1WUmNJVWFSbjA5QTY4cm5QeXdfMXJmTjFqeWVsaHRmbnI5eDN2bmZobDlLdTBtNXVCQmd5cG5HbWpRS2lCdWw5RnJVRm1kS2FFeEJUS0UzdUttQnFDdEZIeDhRTHdXNEZJam5SVFlKaVp1RThrc0p6aE5YNlhzRFZnYWRlRTZoT0c5dndRamlpbkprS2VURXZ4WEIxMEM1aE0zZVM4Ty1JTWwzeF83UmxzQW9MN3RUQ3RVWEFQczBZOU43emUzTWJaRVNXZS0wY3VlMGVKSDd5dVZUVUJqX3VhQ3hTQ1d3cTBQNUV4UHpOeE45cC1tRTBKbVdENEtDdy1XNWM5Y3hBM2VVMnpmNnlfeTVkS3A?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 17, 05:47 PM ET",
@@ -76,9 +64,9 @@
     "label": "ChatGPT",
     "time": "Sep 17, 02:46 PM ET",
     "publishedAt": "2026-09-17T18:46:43+00:00",
-    "source": "USA Today",
+    "source": "usatoday.com",
     "title": "ZenMux Launches GPT-6 Astra API Access Through Unified Platform",
-    "summary": "USA Today is reporting this update. Open the article for the full story.",
+    "summary": "usatoday.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFJJV01wTUhVcjc2dTdfZ0dNY090dF9nWDk2VEdCSHVXMUZtekRJZjlGejZPYjJ1NWhWQ0NXUUZKMk94dVRBb1pLNEQzQ0F6d3dpa2doY1JIWVZYbXBBV25mYW5FUFFjM1cyM0N5SGxtZWRwVXNjdnp5REtQVTk5QTM4d2FlNjVfYlBWY2JKVHNpNUtfT0FMY2JhaTBkZjR2OFkyQmNIaTR1SVNQejVrdGJJR2V6Zw?oc=5",
     "difficulty": "News"
@@ -136,9 +124,9 @@
     "label": "Gemini",
     "time": "Sep 17, 06:52 AM ET",
     "publishedAt": "2026-09-17T10:52:05+00:00",
-    "source": "TechRepublic",
+    "source": "techrepublic.com",
     "title": "Google Launches Gemini 3.8 Live Models That Can Reason While They Talk",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "summary": "techrepublic.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tZDFwZWtINEZBcVc4T3VCWnNaajB2VmNldm82MENRclhhcXlIRTlaUV9Fdkk0am1qTV80UTJIYW9GR3MwazI5MDdIN3lTbTRHdzFsTUNKYmpiVWRjWjgtSm5EeWFsaG1feXN4aW5pankwSWs?oc=5",
     "difficulty": "News"
@@ -276,13 +264,25 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 14, 07:40 AM ET",
+    "publishedAt": "2026-09-14T11:40:19+00:00",
+    "source": "DataDrivenInvestor",
+    "title": "I Asked Claude Where to Invest $10,000. Here’s What Happened | by Kevin Meneses González | Sep, 2026",
+    "summary": "DataDrivenInvestor is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlMtblBia0dhSVIyLUZlTXZYZDVpRFgwaXlDb0lmVE5JU01yVHJHd2dDRFEzRzRYYTlFcUgwRkx0d3dKc2ptSjUyTi1iSXgydWpCdDFaai1EbVczRDNUc0hXaTNhWGw5R1J0ZjJsaC1tclU4U3RyUUUyTkd1ZS05WFJLY0FEeFVKZUNnazlqZm1iMklCa3BOVURCU0xKZ0p0dEVVakJRUlN3eVpV?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Sep 09, 03:00 AM ET",
     "publishedAt": "2026-09-09T07:00:00+00:00",
-    "source": "coursera.org",
+    "source": "Coursera",
     "title": "AI Coding Explained: Tools, Benefits, and Limitations",
-    "summary": "coursera.org is reporting this update. Open the article for the full story.",
+    "summary": "Coursera is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GSkhiTWhUWm1OV29KMTRzdGE3Z284Q1dlVXhHT0o2aXBRdlMwVnpHMDVyWWVaNEo2b212SHFUSUJOUEFJRjd1ZU5pUE5rSnNYMGc0cWZn?oc=5",
     "difficulty": "News"
@@ -292,9 +292,9 @@
     "label": "ChatGPT",
     "time": "Sep 02, 03:00 AM ET",
     "publishedAt": "2026-09-02T07:00:00+00:00",
-    "source": "Health API Guy",
+    "source": "healthapiguy.substack.com",
     "title": "August Monthly Review: ChatGPT In Epic",
-    "summary": "Health API Guy is reporting this update. Open the article for the full story.",
+    "summary": "healthapiguy.substack.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zQ2pSM0NYWWpwb08zVWJYYkpaNXVCZjVRZ0ZZOUJVTVlaa0RmUHRENHhhd3FLOE12eG9OLXU5VE1seFNGODR0cjhXbTdLN2VRVGJ1SjhrbThENm5TSWtfMVVzZ1pXa2VuNlJXZExTeDYwWm1pLWdF?oc=5",
     "difficulty": "News"
@@ -328,9 +328,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 28, 03:00 AM ET",
     "publishedAt": "2026-08-28T07:00:00+00:00",
-    "source": "reuters.com",
+    "source": "Reuters",
     "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-    "summary": "reuters.com is reporting this update. Open the article for the full story.",
+    "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
     "difficulty": "News"
@@ -350,13 +350,13 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Aug 17, 03:00 AM ET",
-    "publishedAt": "2026-08-17T07:00:00+00:00",
-    "source": "GeekWire",
-    "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform",
-    "summary": "GeekWire is reporting this update. Open the article for the full story.",
+    "time": "Aug 25, 03:00 AM ET",
+    "publishedAt": "2026-08-25T07:00:00+00:00",
+    "source": "techrepublic.com",
+    "title": "GitHub Copilot Coding Agent Can Now Use Microsoft Teams Conversations",
+    "summary": "techrepublic.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXRwa2lEWTJSZkM5Sk1WX3Nzd0RQaEdrYlBkZkI3UzhxQ0tjcXVLelUtbWFUcmtWdXRycHZxYW5NUnNyYVRSUmhPTk91WFdUNS00NFAya2plb3NkckFJVVNwOW5hLWZhNUFveElYWHg3bThkNDVpQXdYVUVqVGw5cUxqTWdPbEI2bE9OUlFjQnZyWnVI?oc=5",
     "difficulty": "News"
   },
   {
