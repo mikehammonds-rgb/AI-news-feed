@@ -28,11 +28,23 @@
     "label": "ChatGPT",
     "time": "Sep 18, 04:18 PM ET",
     "publishedAt": "2026-09-18T20:18:46+00:00",
-    "source": "citybiz.co",
+    "source": "citybiz",
     "title": "OpenAI Launches Astra for Law With Specialized Legal Research and Firm Controls",
-    "summary": "citybiz.co is reporting this update. Open the article for the full story.",
+    "summary": "citybiz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWV3ZjNaYXp3LXBpaFpSQk55aGxQUEM1dThObmM3YWVwX3N1VjJadU4yMGw4TEFOZlZXU3FtV1MxUGpETGNhYmVLQk1YX1VJY1pOTWJaVmUyS3MwRVpHU0ZVZno0V2luNXZXRkF3OV9IZVBGcHEtTE5lamVUZXgzRFdGRFVCdVpVNXRtd2lGTjZUaEtwd3lYdV9TUnkyOTd2ZktXWHdBZUQzV2lKUU5LZVg1VUV2U2NTblE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 18, 12:37 PM ET",
+    "publishedAt": "2026-09-18T16:37:17+00:00",
+    "source": "forkast.news",
+    "title": "Google’s Gemini 3.8 Thinks Out Loud — And That Changes How AI Earns Trust",
+    "summary": "forkast.news is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLXh2bGwyVTN3T3BiVlhCUlQ0QVBRZUNpLV9STWF0d1plTFJWbHhLdHhzUllrc2JYOXg4dGYtaHBRLVEwY1JwblN0TXFWblFVcDhDVkV5ZE1hZUphaEp1VFB2cEVfZlZEcWRHWFh5RVl6bzc4aVFyQmJlZGJrelAteWtGcllrVnFSdnYzWWVlMExGa0NPdzg4?oc=5",
     "difficulty": "News"
   },
   {
@@ -40,9 +52,9 @@
     "label": "ChatGPT",
     "time": "Sep 17, 05:47 PM ET",
     "publishedAt": "2026-09-17T21:47:01+00:00",
-    "source": "unite.ai",
+    "source": "Unite.AI",
     "title": "OpenAI Applies Mitigation as Elevated Error Rates Hit API Models",
-    "summary": "unite.ai is reporting this update. Open the article for the full story.",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWFGempUSi0xeGFleUFoMHBIa0JYSUNfVlJ6UTVfZ3dPWERtYTVqX1VjVmVKREoweF9BUGZWQlJlb25VUzZwbE9Xd1g3NmFjOHJxZng4V3pBWW5teFlJLXYwNkNoaEo0RGtzSFN3V2QzUUsyLW1VOElRVVZQZkdsdUp2dUgzX0FJa2h2U1BoMA?oc=5",
     "difficulty": "News"
@@ -98,18 +110,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 17, 10:13 AM ET",
-    "publishedAt": "2026-09-17T14:13:15+00:00",
-    "source": "Analytics Insight",
-    "title": "Google Gemini API: How to Get an API Key and Start Using it in 2026",
-    "summary": "Analytics Insight is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNFZrbHZWb081Q1FpTVhaUW9jc2MtWGdJQUg0OUc4ZWZkXy1aZy1oWklFY0luZUE2ZVJIMXItR2JQc3BjR0lRejVmNVN0TGhjWHZJa21LaWU5UFkwTWdkWlQ4YWJ1d3REc0FrRWJDR1ZXcXBEaWJPQUtpTWVXVGRxTG5vMk9xdVFrNXNWRXFXNmQzV2VZVGtNVVcxakJxTU5OTzFpbksxYkp1UTJNUG96MjhVanEwMjEzd3RrdWRlTWlVclZaSzhhYTQxTjVUZ9IBzgFBVV95cUxQNFZrbHZWb081Q1FpTVhaUW9jc2MtWGdJQUg0OUc4ZWZkXy1aZy1oWklFY0luZUE2ZVJIMXItR2JQc3BjR0lRejVmNVN0TGhjWHZJa21LaWU5UFkwTWdkWlQ4YWJ1d3REc0FrRWJDR1ZXcXBEaWJPQUtpTWVXVGRxTG5vMk9xdVFrNXNWRXFXNmQzV2VZVGtNVVcxakJxTU5OTzFpbksxYkp1UTJNUG96MjhVanEwMjEzd3RrdWRlTWlVclZaSzhhYTQxTjVUZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Sep 17, 06:52 AM ET",
     "publishedAt": "2026-09-17T10:52:05+00:00",
     "source": "TechRepublic",
@@ -129,18 +129,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5TXotNTNJTDR6cEF0WVYwejk5RG90ZUVNbVZaNjBWYkxpVk9wVHZ3STFVWEhOclU4QWVtbEpZcUF6X09CWU9od3FhTGJLU3hCYjdINFhyWW1Ldzk3dGpia1N1RTdNUVd4Unp5ZGxDVll1VkRDNXc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 16, 10:37 AM ET",
-    "publishedAt": "2026-09-16T14:37:05+00:00",
-    "source": "TradingView",
-    "title": "Bring TradingView to Claude with the new MCP Server: public beta available for paid plans",
-    "summary": "TradingView is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZjA2VTlKZzAtOXJkTENrTHlVOWh1bGRCMHoxa3FLUmN4eWVCVkFuUUFUOGRqcEhLOXM2dG9DOG8yXzktN29TVklmV1lhelA4ZmJ5d2FLYW1UaW5sajRfUVRDLTBaNUFCeU5vTDlZTEhmRTJHbFJzeUZwMFV3QkZFNF9rOA?oc=5",
     "difficulty": "News"
   },
   {
@@ -206,13 +194,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 15, 01:24 PM ET",
-    "publishedAt": "2026-09-15T17:24:01+00:00",
-    "source": "unite.ai",
-    "title": "Google Launches Gemini 3.8 Live and Extended Thinking Voice Models",
-    "summary": "unite.ai is reporting this update. Open the article for the full story.",
+    "time": "Sep 15, 02:26 PM ET",
+    "publishedAt": "2026-09-15T18:26:42+00:00",
+    "source": "the-decoder.com",
+    "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUlpROFFsRDdMbkZrUkJ2QlVDWUlyTTBvcGdmNzFhR3lnNVE5RndMQkRYTXVzbjZIS0pfaXAzSnZvZjJZV3dEbUVMNEtHdHlFYlhhd19PMUJLcmZBMUJuNFJFelZOaExMN3JVV3JIMU5jNVRYdUR1aHVDLWxZbDFjT1VJXy1vR3dCRmxpeUdfaUNZdw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlNfRk1mUFVONnBqdWFQLWVtSFJZbmFySTF1MXhRanFna20wNV9lMnA2NjhvNTBWSzVGS2tDUlhrdUhZQnhkYTZTRnRXVEt4RUpFZGY1c3RIcEt5X0l0dWRSTjBpV2xpYkhncjhUMWpNN1hOZC14akFpdEo4blBBOE1tMF84OThUdFBwOS1Jb1hmWTFYWTlBOEJlbHptR1hYQkdNS3p2cGY0MF93NXR1a1Fn?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,15 +264,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 09, 03:00 AM ET",
-    "publishedAt": "2026-09-09T07:00:00+00:00",
-    "source": "Coursera",
-    "title": "AI Coding Explained: Tools, Benefits, and Limitations",
-    "summary": "Coursera is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 14, 07:40 AM ET",
+    "publishedAt": "2026-09-14T11:40:19+00:00",
+    "source": "DataDrivenInvestor",
+    "title": "I Asked Claude Where to Invest $10,000. Here’s What Happened | by Kevin Meneses González | Sep, 2026",
+    "summary": "DataDrivenInvestor is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GSkhiTWhUWm1OV29KMTRzdGE3Z284Q1dlVXhHT0o2aXBRdlMwVnpHMDVyWWVaNEo2b212SHFUSUJOUEFJRjd1ZU5pUE5rSnNYMGc0cWZn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlMtblBia0dhSVIyLUZlTXZYZDVpRFgwaXlDb0lmVE5JU01yVHJHd2dDRFEzRzRYYTlFcUgwRkx0d3dKc2ptSjUyTi1iSXgydWpCdDFaai1EbVczRDNUc0hXaTNhWGw5R1J0ZjJsaC1tclU4U3RyUUUyTkd1ZS05WFJLY0FEeFVKZUNnazlqZm1iMklCa3BOVURCU0xKZ0p0dEVVakJRUlN3eVpV?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,13 +288,25 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 02, 03:00 AM ET",
+    "publishedAt": "2026-09-02T07:00:00+00:00",
+    "source": "Hostinger",
+    "title": "22 best AI coding tools for developers and beginners",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jdU5XWjRGYk14R3pZZl9IalZndlhTR2Jibi01TjFqNlhfaFlMQldVS3RUYS1qMFp5dDZvT21scnlINTBWR092QUEwVWI5eU9nWVY2c1h1U3kyOW5hdzZPbzhVYm5uSmhuRG44ZA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 31, 03:00 AM ET",
     "publishedAt": "2026-08-31T07:00:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDhmbjlyTTFDYVc3aXlGU3ktMmtQOXpzVW5XTHM0S01aMzFQQTlsZkVFNndkOHJwRDZjY2RPcm9fU0ZUUjNTTlRiYW5tWDlhaHBuOGxHV1FxLS15c0RTSHFSU1VPaXFHalRtcUlWbl84RElKcmFmOVFiU1NZUTI2c0RTT1Y?oc=5",
     "difficulty": "News"
@@ -316,9 +316,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 31, 03:00 AM ET",
     "publishedAt": "2026-08-31T07:00:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOakJvcmFsZzJydGVBaFEyS0dVbm13MkU3UTdCWkFxdTdpbzVxbHJobTViZ29CeGZ5U0ZCblJaQ0RQT1Q4cnUzbkMyNTRnZDEwVjFYSmJ2eGl6N0pidFZuY2k2aHY3Z2FGcXhRRHpLTkR6bUlYd25DUTJIbXhDRElLaUtJZw?oc=5",
     "difficulty": "News"
@@ -328,9 +328,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 28, 03:00 AM ET",
     "publishedAt": "2026-08-28T07:00:00+00:00",
-    "source": "reuters.com",
+    "source": "Reuters",
     "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-    "summary": "reuters.com is reporting this update. Open the article for the full story.",
+    "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
     "difficulty": "News"
