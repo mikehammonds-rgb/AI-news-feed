@@ -1,5 +1,17 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 20, 08:32 AM ET",
+    "publishedAt": "2026-09-20T12:32:03+00:00",
+    "source": "Memeburn",
+    "title": "10 Best AI Tools for Developers in 2026",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yYXhmTHVLOWxSOFlqcWRLWllZYS1KcWluR1lBYUdOOHE5UHIwb3BfZEo2cVg4aVlCZ2JDd2c5cHVNLWJGeUY3dmw5UmRfNUJLbFVBS2hnbE5kd0doSEhR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 20, 04:10 AM ET",
@@ -16,9 +28,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 20, 01:04 AM ET",
     "publishedAt": "2026-09-20T05:04:25+00:00",
-    "source": "memeburn.com",
+    "source": "Memeburn",
     "title": "10 Best Vibe Coding Tools in 2026: Compared & Tested",
-    "summary": "memeburn.com is reporting this update. Open the article for the full story.",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KQWdoamRQWjY1Ml9pMG9aaEJDeURPeXBqS21hV29WZnBkQmVCdGg3aHJWVFRTWGRqdUQ2cU8wNHZVcXladVU5S3hET3ZDempTQ0oyMVpUZw?oc=5",
     "difficulty": "News"
@@ -33,18 +45,6 @@
     "summary": "forkast.news is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNmlneUh3MUZjQ2kxWG8tbVYtX01iNENqUlhFeHZQNWlBNlB3bWJGU2Q5dm9Xd3UtWm16MmN6ZVV6TnRqeGplSi01WWhPQXVqdWNId2pEbk9VV3pDbF9qbkJ6ejJRWnFSR1JXdGdEblRrUl9fTHNuZ0RKckxYcVJfaFA5bWtTU19ZVUI5Xzd2R3lJRC10czVoSTR5Qko?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 19, 12:51 AM ET",
-    "publishedAt": "2026-09-19T04:51:27+00:00",
-    "source": "tech-insider.org",
-    "title": "GPT Store vs Claude Skills vs Gemini Gems: 159K Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xNzJ0elNJQ1MtRGtGdjVRMzBpWEYwWnM2QUdvclpfY3VYdlExTzR1ZllkamdmSUlXSGRzaW43TzNvX1NoQm8wNUFTYXdILThqVzBrU2tkWmxYWXlBYzlZdVJpOC1uTVVzQ056clRjdF9QNWU5YUNWazRETFg?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,6 +69,18 @@
     "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWFGempUSi0xeGFleUFoMHBIa0JYSUNfVlJ6UTVfZ3dPWERtYTVqX1VjVmVKREoweF9BUGZWQlJlb25VUzZwbE9Xd1g3NmFjOHJxZng4V3pBWW5teFlJLXYwNkNoaEo0RGtzSFN3V2QzUUsyLW1VOElRVVZQZkdsdUp2dUgzX0FJa2h2U1BoMA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 17, 02:46 PM ET",
+    "publishedAt": "2026-09-17T18:46:43+00:00",
+    "source": "USA Today",
+    "title": "ZenMux Launches GPT-6 Astra API Access Through Unified Platform",
+    "summary": "USA Today is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFJJV01wTUhVcjc2dTdfZ0dNY090dF9nWDk2VEdCSHVXMUZtekRJZjlGejZPYjJ1NWhWQ0NXUUZKMk94dVRBb1pLNEQzQ0F6d3dpa2doY1JIWVZYbXBBV25mYW5FUFFjM1cyM0N5SGxtZWRwVXNjdnp5REtQVTk5QTM4d2FlNjVfYlBWY2JKVHNpNUtfT0FMY2JhaTBkZjR2OFkyQmNIaTR1SVNQejVrdGJJR2V6Zw?oc=5",
     "difficulty": "News"
   },
   {
@@ -124,9 +136,9 @@
     "label": "Gemini",
     "time": "Sep 17, 06:52 AM ET",
     "publishedAt": "2026-09-17T10:52:05+00:00",
-    "source": "TechRepublic",
+    "source": "techrepublic.com",
     "title": "Google Launches Gemini 3.8 Live Models That Can Reason While They Talk",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "summary": "techrepublic.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tZDFwZWtINEZBcVc4T3VCWnNaajB2VmNldm82MENRclhhcXlIRTlaUV9Fdkk0am1qTV80UTJIYW9GR3MwazI5MDdIN3lTbTRHdzFsTUNKYmpiVWRjWjgtSm5EeWFsaG1feXN4aW5pankwSWs?oc=5",
     "difficulty": "News"
@@ -140,7 +152,7 @@
     "title": "12 best Cursor alternatives for web development with AI",
     "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOWVUZWR6VkdKNUNhVzI0d25DNV8ySnRISkpDbDl1QVhoRy02ejVWSU5WWEZXa1NHSVRnckRWMUI1aVg1TDRyMG5fZ0lTRXdPNzZ2RWQ5aDJvMUlkeGVLWjdqMEJvRUk?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oSUg0aWd1MmdMUllWTi00WE5vVm5kZkRkbVJWWTFZc2NWc2w4Z1J0STZWX0k1bnIwbk1uLXJqLU1nS0dJZ3FKRG9FUU5ZeVVhckFVam1sbHFoVlF1VkJWSTU2cld3UDhfa3Yw?oc=5",
     "difficulty": "News"
   },
   {
@@ -148,23 +160,11 @@
     "label": "ChatGPT",
     "time": "Sep 16, 03:03 PM ET",
     "publishedAt": "2026-09-16T19:03:37+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "How to connect AI usage to business value",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5TXotNTNJTDR6cEF0WVYwejk5RG90ZUVNbVZaNjBWYkxpVk9wVHZ3STFVWEhOclU4QWVtbEpZcUF6X09CWU9od3FhTGJLU3hCYjdINFhyWW1Ldzk3dGpia1N1RTdNUVd4Unp5ZGxDVll1VkRDNXc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 16, 09:00 AM ET",
-    "publishedAt": "2026-09-16T13:00:00+00:00",
-    "source": "openai.com",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,6 +288,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 10, 03:00 AM ET",
+    "publishedAt": "2026-09-10T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Sep 09, 03:00 AM ET",
@@ -300,25 +312,13 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 02, 03:00 AM ET",
-    "publishedAt": "2026-09-02T07:00:00+00:00",
-    "source": "Health API Guy",
-    "title": "August Monthly Review: ChatGPT In Epic",
-    "summary": "Health API Guy is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zQ2pSM0NYWWpwb08zVWJYYkpaNXVCZjVRZ0ZZOUJVTVlaa0RmUHRENHhhd3FLOE12eG9OLXU5VE1seFNGODR0cjhXbTdLN2VRVGJ1SjhrbThENm5TSWtfMVVzZ1pXa2VuNlJXZExTeDYwWm1pLWdF?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 31, 03:00 AM ET",
     "publishedAt": "2026-08-31T07:00:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDhmbjlyTTFDYVc3aXlGU3ktMmtQOXpzVW5XTHM0S01aMzFQQTlsZkVFNndkOHJwRDZjY2RPcm9fU0ZUUjNTTlRiYW5tWDlhaHBuOGxHV1FxLS15c0RTSHFSU1VPaXFHalRtcUlWbl84RElKcmFmOVFiU1NZUTI2c0RTT1Y?oc=5",
     "difficulty": "News"
@@ -364,9 +364,9 @@
     "label": "ChatGPT",
     "time": "Jul 29, 03:00 AM ET",
     "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "businessinsider.com",
+    "source": "Business Insider",
     "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
