@@ -1,5 +1,17 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 20, 01:04 AM ET",
+    "publishedAt": "2026-09-20T05:04:25+00:00",
+    "source": "Memeburn",
+    "title": "10 Best Vibe Coding Tools in 2026: Compared & Tested",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KQWdoamRQWjY1Ml9pMG9aaEJDeURPeXBqS21hV29WZnBkQmVCdGg3aHJWVFRTWGRqdUQ2cU8wNHZVcXladVU5S3hET3ZDempTQ0oyMVpUZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 19, 06:07 AM ET",
@@ -24,18 +36,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 18, 04:18 PM ET",
-    "publishedAt": "2026-09-18T20:18:46+00:00",
-    "source": "citybiz",
-    "title": "OpenAI Launches Astra for Law With Specialized Legal Research and Firm Controls",
-    "summary": "citybiz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWV3ZjNaYXp3LXBpaFpSQk55aGxQUEM1dThObmM3YWVwX3N1VjJadU4yMGw4TEFOZlZXU3FtV1MxUGpETGNhYmVLQk1YX1VJY1pOTWJaVmUyS3MwRVpHU0ZVZno0V2luNXZXRkF3OV9IZVBGcHEtTE5lamVUZXgzRFdGRFVCdVpVNXRtd2lGTjZUaEtwd3lYdV9TUnkyOTd2ZktXWHdBZUQzV2lKUU5LZVg1VUV2U2NTblE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 18, 03:39 PM ET",
@@ -52,11 +52,23 @@
     "label": "ChatGPT",
     "time": "Sep 17, 05:47 PM ET",
     "publishedAt": "2026-09-17T21:47:01+00:00",
-    "source": "Unite.AI",
+    "source": "unite.ai",
     "title": "OpenAI Applies Mitigation as Elevated Error Rates Hit API Models",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "summary": "unite.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWFGempUSi0xeGFleUFoMHBIa0JYSUNfVlJ6UTVfZ3dPWERtYTVqX1VjVmVKREoweF9BUGZWQlJlb25VUzZwbE9Xd1g3NmFjOHJxZng4V3pBWW5teFlJLXYwNkNoaEo0RGtzSFN3V2QzUUsyLW1VOElRVVZQZkdsdUp2dUgzX0FJa2h2U1BoMA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 17, 02:46 PM ET",
+    "publishedAt": "2026-09-17T18:46:43+00:00",
+    "source": "USA Today",
+    "title": "ZenMux Launches GPT-6 Astra API Access Through Unified Platform",
+    "summary": "USA Today is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFJJV01wTUhVcjc2dTdfZ0dNY090dF9nWDk2VEdCSHVXMUZtekRJZjlGejZPYjJ1NWhWQ0NXUUZKMk94dVRBb1pLNEQzQ0F6d3dpa2doY1JIWVZYbXBBV25mYW5FUFFjM1cyM0N5SGxtZWRwVXNjdnp5REtQVTk5QTM4d2FlNjVfYlBWY2JKVHNpNUtfT0FMY2JhaTBkZjR2OFkyQmNIaTR1SVNQejVrdGJJR2V6Zw?oc=5",
     "difficulty": "News"
   },
   {
@@ -100,9 +112,9 @@
     "label": "ChatGPT",
     "time": "Sep 17, 11:45 AM ET",
     "publishedAt": "2026-09-17T15:45:29+00:00",
-    "source": "securityweek.com",
+    "source": "SecurityWeek",
     "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
-    "summary": "securityweek.com is reporting this update. Open the article for the full story.",
+    "summary": "SecurityWeek is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMTZjejNmNDJVTDBUb29aNnNOWG5GRENnR1VvWnRxN0p4SkJ4ci15TzNfdl9GanR0bTZVMEVDLVFnSFJjd3cxVF9vV1ZuX0sxMzFYLWcwM3ZzbWIzLVRXajVGMHBKeWRiWlNmOXBWcERIVzRJT1Vqb1plUkdxRzVVYkJTRENnZFRZcUxmU29HWEtTQWJCcEk4VVZ4MGRBVGlIZm5matIBqgFBVV95cUxPWVdkcnFVUnNFZ0hPV1JzNVN5Mm03ZDFId180bExrcjFtaDJ4Y0hEQVRidjRyZ1FEOU40UVJsNWttT1RxM2pNTUZzMTNqbU53ZWFOeW1ubkhaVEs0U2VVeTlfLTZMVlZYcXdZYWhvYVhueWJwSEpKOHZEMUp6VlZNRGsxdXFtZkU2YzZuZ0x2VmdHSVE1SkZFX1lJMmlYa2NOdkpGMjFraHlrZw?oc=5",
     "difficulty": "News"
@@ -117,6 +129,18 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tZDFwZWtINEZBcVc4T3VCWnNaajB2VmNldm82MENRclhhcXlIRTlaUV9Fdkk0am1qTV80UTJIYW9GR3MwazI5MDdIN3lTbTRHdzFsTUNKYmpiVWRjWjgtSm5EeWFsaG1feXN4aW5pankwSWs?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 17, 03:00 AM ET",
+    "publishedAt": "2026-09-17T07:00:00+00:00",
+    "source": "Hostinger",
+    "title": "12 best Cursor alternatives for web development with AI",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOWVUZWR6VkdKNUNhVzI0d25DNV8ySnRISkpDbDl1QVhoRy02ejVWSU5WWEZXa1NHSVRnckRWMUI1aVg1TDRyMG5fZ0lTRXdPNzZ2RWQ5aDJvMUlkeGVLWjdqMEJvRUk?oc=5",
     "difficulty": "News"
   },
   {
@@ -141,18 +165,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 16, 07:56 AM ET",
-    "publishedAt": "2026-09-16T11:56:16+00:00",
-    "source": "Memeburn",
-    "title": "9 Best AI Coding Tools in 2026: IDEs, Agents, & Copilots Compared",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQlY0TjY5aFBTMjMyX04wZjFoRm1leXI4NFpWTm8xLWxZcWswLUJBbmNBc0gzN242YWh2MHBLNHA2X0hZNmlDa0twZXpfaGZmZmtEQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -196,9 +208,9 @@
     "label": "Gemini",
     "time": "Sep 15, 01:24 PM ET",
     "publishedAt": "2026-09-15T17:24:01+00:00",
-    "source": "Unite.AI",
+    "source": "unite.ai",
     "title": "Google Launches Gemini 3.8 Live and Extended Thinking Voice Models",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "summary": "unite.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUlpROFFsRDdMbkZrUkJ2QlVDWUlyTTBvcGdmNzFhR3lnNVE5RndMQkRYTXVzbjZIS0pfaXAzSnZvZjJZV3dEbUVMNEtHdHlFYlhhd19PMUJLcmZBMUJuNFJFelZOaExMN3JVV3JIMU5jNVRYdUR1aHVDLWxZbDFjT1VJXy1vR3dCRmxpeUdfaUNZdw?oc=5",
     "difficulty": "News"
@@ -276,6 +288,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 09, 03:00 AM ET",
+    "publishedAt": "2026-09-09T07:00:00+00:00",
+    "source": "Coursera",
+    "title": "AI Coding Explained: Tools, Benefits, and Limitations",
+    "summary": "Coursera is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GSkhiTWhUWm1OV29KMTRzdGE3Z284Q1dlVXhHT0o2aXBRdlMwVnpHMDVyWWVaNEo2b212SHFUSUJOUEFJRjd1ZU5pUE5rSnNYMGc0cWZn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 02, 03:00 AM ET",
@@ -288,18 +312,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 02, 03:00 AM ET",
-    "publishedAt": "2026-09-02T07:00:00+00:00",
-    "source": "Hostinger",
-    "title": "22 best AI coding tools for developers and beginners",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jdU5XWjRGYk14R3pZZl9IalZndlhTR2Jibi01TjFqNlhfaFlMQldVS3RUYS1qMFp5dDZvT21scnlINTBWR092QUEwVWI5eU9nWVY2c1h1U3kyOW5hdzZPbzhVYm5uSmhuRG44ZA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Aug 31, 03:00 AM ET",
@@ -309,18 +321,6 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDhmbjlyTTFDYVc3aXlGU3ktMmtQOXpzVW5XTHM0S01aMzFQQTlsZkVFNndkOHJwRDZjY2RPcm9fU0ZUUjNTTlRiYW5tWDlhaHBuOGxHV1FxLS15c0RTSHFSU1VPaXFHalRtcUlWbl84RElKcmFmOVFiU1NZUTI2c0RTT1Y?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 31, 03:00 AM ET",
-    "publishedAt": "2026-08-31T07:00:00+00:00",
-    "source": "The Hacker News",
-    "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOakJvcmFsZzJydGVBaFEyS0dVbm13MkU3UTdCWkFxdTdpbzVxbHJobTViZ29CeGZ5U0ZCblJaQ0RQT1Q4cnUzbkMyNTRnZDEwVjFYSmJ2eGl6N0pidFZuY2k2aHY3Z2FGcXhRRHpLTkR6bUlYd25DUTJIbXhDRElLaUtJZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -340,9 +340,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 28, 03:00 AM ET",
     "publishedAt": "2026-08-28T07:00:00+00:00",
-    "source": "eSecurity Planet",
+    "source": "esecurityplanet.com",
     "title": "Russian-Speaking Hackers Used Cursor AI in Attacks on Seven Companies, Report Says",
-    "summary": "eSecurity Planet is reporting this update. Open the article for the full story.",
+    "summary": "esecurityplanet.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeC1NWm84ODlRcTY0QUVfYkxhaHVUbFhPOUEwRTM2T2ZaSHdpcGFpYVFtQ2thY2FnMXE3ZndNU3FScXFjMWZPZWtUT3NvdE8xSldoNDNnX0pSRnI0RU13NjJkdWxQYVJ5UVpLWkpXR2czRVdnOXdnb3Y1RXYxWG50RThzUDlLb2ZB?oc=5",
     "difficulty": "News"
@@ -350,13 +350,13 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Aug 25, 03:00 AM ET",
-    "publishedAt": "2026-08-25T07:00:00+00:00",
-    "source": "TechRepublic",
-    "title": "GitHub Copilot Coding Agent Can Now Use Microsoft Teams Conversations",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "time": "Aug 17, 03:00 AM ET",
+    "publishedAt": "2026-08-17T07:00:00+00:00",
+    "source": "GeekWire",
+    "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform",
+    "summary": "GeekWire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXRwa2lEWTJSZkM5Sk1WX3Nzd0RQaEdrYlBkZkI3UzhxQ0tjcXVLelUtbWFUcmtWdXRycHZxYW5NUnNyYVRSUmhPTk91WFdUNS00NFAya2plb3NkckFJVVNwOW5hLWZhNUFveElYWHg3bThkNDVpQXdYVUVqVGw5cUxqTWdPbEI2bE9OUlFjQnZyWnVI?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
     "difficulty": "News"
   },
   {
