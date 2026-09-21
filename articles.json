@@ -1,14 +1,50 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 21, 01:05 PM ET",
+    "publishedAt": "2026-09-21T17:05:01+00:00",
+    "source": "OpenAI",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVSkFfdW9HeG91ZzhvYk5RVTJqNm1OSG1hYml5SS01TWFRTnBfVzdYZjJTNmc1b3FCZ1IxWUUxcUJyNEFReGV0dHVUb3F2UF9Kck5NN1Z3NlNMcmpQSjEzRTZlZzJjZ0hjMVQ5TGxoWWROWWtadGVmSWlTd204ZkU?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 21, 06:28 AM ET",
-    "publishedAt": "2026-09-21T10:28:37+00:00",
-    "source": "mixed-news.com",
+    "time": "Sep 21, 12:08 PM ET",
+    "publishedAt": "2026-09-21T16:08:35+00:00",
+    "source": "MIXED Reality News",
     "title": "Claude Code stops charging API users for auto mode's safety checks, and now reads AGENTS.md",
-    "summary": "mixed-news.com is reporting this update. Open the article for the full story.",
+    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGs3WWlhSjZCRkZyUnhOVVE3TzhTT2d6QWhvSUVfNXI3ZWZPRDRmQnJNc3dTNWt6MnlEUlU3Nzk1QkVqa1FRc2w2bk8xT0s3TjhJQ0U5aUQ4dHJvNHNRX3lhNks1M1JxYlB5dnlUTWh5NjRTeHdNQ2ZBSVYwcllNWm51WG5xM09mRml4NlBFamY?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 21, 06:33 AM ET",
+    "publishedAt": "2026-09-21T10:33:07+00:00",
+    "source": "gbhackers.com",
+    "title": "New Remus Infostealer Steals OpenAI and Anthropic API Tokens, Passwords and Crypto Wallets",
+    "summary": "gbhackers.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uOEs5Y1FwZVVwMDNDWFlURTJKX2oxalpIa3RoaVBBdjdKSUpuQjA4MDNaT2ZKVGxWY0U1QzYwU2xPT1FWNGhZZXJHX0g2VzdjR0xoWmZLXzlPc01Gc2fSAWNBVV95cUxOMm5hU01TSW9YUDdjQXhaSGYzWGpBSlV5SHRaYWNkT0EwN1JHMUhoWWRpUnJOTDBoZWtqekpfTjljb05ncE1hWlBIUzhuR0JCUDk2SlRZelllQ2NZVXBTX0xDSnM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 21, 06:08 AM ET",
+    "publishedAt": "2026-09-21T10:08:52+00:00",
+    "source": "tech-insider.org",
+    "title": "Gemini 3.8 Flash API: Full Setup Tutorial in 10 Steps [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5WjhLYnVqWEtteS1FWVdQa05Ram1PNEcyRS1CbXNqVDY0Y2tXZl96NTZkdXk5QkRvU0ZFeWFWNHl4Zi1jcUpLOU96UzFZX1NPd2RPZlN5U00zMzk4NWc3cVllaEtEVG1ra29kSEhKSzNFYVM3?oc=5",
     "difficulty": "News"
   },
   {
@@ -88,9 +124,9 @@
     "label": "ChatGPT",
     "time": "Sep 20, 04:10 AM ET",
     "publishedAt": "2026-09-20T08:10:45+00:00",
-    "source": "mixed-news.com",
+    "source": "MIXED Reality News",
     "title": "OpenAI says one of its models used a leaked API key and invented data in training",
-    "summary": "mixed-news.com is reporting this update. Open the article for the full story.",
+    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEZra2tYTEExVENkSDU5ckY4T0R6YUZOdE1aSld3eFp6THAtN3F6QUN0cXhUYTc0bUo5TkE5MDc5TFZYTGZRR1hONFZueV9xTE5qMVdGb3BRNUhBaTZsT3Y1LVZPNnlhbGJib2o5NmxPb2xWRFVNUzZfS3F2MXJOQ1VfUTI3QkNyQVlFdHgyNVRjLXp6?oc=5",
     "difficulty": "News"
@@ -108,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 18, 03:39 PM ET",
-    "publishedAt": "2026-09-18T19:39:56+00:00",
-    "source": "ALM Corp",
-    "title": "Google Search Live Now Runs on Gemini 3.8 Live",
-    "summary": "ALM Corp is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11OTlOS3NlVXRDeFczdllMX0lqRDh6X083LV9sdVlTbFBkOS0yZXYwc2lNTEN5SkUyNHpYWm1ta1lNYTZMMjBkTi1MWGY1NEoxV1NBQ0tnRVFXZWpwTHBHRUVNYjF4NmVwU2ZLNC1HdDFLRk05enc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 17, 05:47 PM ET",
@@ -134,23 +158,11 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 17, 02:46 PM ET",
-    "publishedAt": "2026-09-17T18:46:43+00:00",
-    "source": "USA Today",
-    "title": "ZenMux Launches GPT-6 Astra API Access Through Unified Platform",
-    "summary": "USA Today is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFJJV01wTUhVcjc2dTdfZ0dNY090dF9nWDk2VEdCSHVXMUZtekRJZjlGejZPYjJ1NWhWQ0NXUUZKMk94dVRBb1pLNEQzQ0F6d3dpa2doY1JIWVZYbXBBV25mYW5FUFFjM1cyM0N5SGxtZWRwVXNjdnp5REtQVTk5QTM4d2FlNjVfYlBWY2JKVHNpNUtfT0FMY2JhaTBkZjR2OFkyQmNIaTR1SVNQejVrdGJJR2V6Zw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Sep 17, 01:36 PM ET",
     "publishedAt": "2026-09-17T17:36:16+00:00",
-    "source": "CyberSecurityNews",
+    "source": "cybersecuritynews.com",
     "title": "OpenAI Models Searched for Leaked API Keys and Uploaded Files Without Permission",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "summary": "cybersecuritynews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90UjB2Y2ZPRTJCeDR3UGdjZzdrNURzMFBteHZvVk12dUZXU3oyTHRNTmFsMmY3dUJHUXdSMk96MEhjd2NXRkdjU1drVU81RGF2N0NjTXpiM0E2d0ZWS0JZOVVwaEdzeUZLTVHSAW9BVV95cUxOekl5eGhTWHhud21hellaRGY0cTk4Vnl5VjB3S3hlT3JuRTVxeDEtQlNJdm1SYjA4TEhiQl9XdTZfZGJVNFRQN3QzaDA3cDFZUG9GT2xXNnZuYmkwX1hEMzBYUi01TnJKNWVqLTdKSE0?oc=5",
     "difficulty": "News"
@@ -192,25 +204,13 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 16, 03:03 PM ET",
-    "publishedAt": "2026-09-16T19:03:37+00:00",
-    "source": "OpenAI",
-    "title": "How to connect AI usage to business value",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5TXotNTNJTDR6cEF0WVYwejk5RG90ZUVNbVZaNjBWYkxpVk9wVHZ3STFVWEhOclU4QWVtbEpZcUF6X09CWU9od3FhTGJLU3hCYjdINFhyWW1Ldzk3dGpia1N1RTdNUVd4Unp5ZGxDVll1VkRDNXc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Sep 16, 07:56 AM ET",
     "publishedAt": "2026-09-16T11:56:16+00:00",
-    "source": "memeburn.com",
+    "source": "Memeburn",
     "title": "9 Best AI Coding Tools in 2026: IDEs, Agents, & Copilots Compared",
-    "summary": "memeburn.com is reporting this update. Open the article for the full story.",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQlY0TjY5aFBTMjMyX04wZjFoRm1leXI4NFpWTm8xLWxZcWswLUJBbmNBc0gzN242YWh2MHBLNHA2X0hZNmlDa0twZXpfaGZmZmtEQQ?oc=5",
     "difficulty": "News"
@@ -230,13 +230,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 15, 03:58 PM ET",
-    "publishedAt": "2026-09-15T19:58:55+00:00",
-    "source": "Seeking Alpha",
-    "title": "Google releases new Gemini models built to improve conversing capabilities of voice agents",
-    "summary": "Seeking Alpha is reporting this update. Open the article for the full story.",
+    "time": "Sep 15, 01:24 PM ET",
+    "publishedAt": "2026-09-15T17:24:01+00:00",
+    "source": "Unite.AI",
+    "title": "Google Launches Gemini 3.8 Live and Extended Thinking Voice Models",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXdPVl9VcXJwMk1CMzJfYlFvVXA3QTdZZGxnZXNoR2VScFNBQ1dWeGI5VzhhTHdiWWdqWTBVN3Z0eXVRMEliSUpHQ0RLNnl1NmhPcGVYM0c2UVowWHVPSmpXazFiUFdqdDZlVXdDUVlNZGM5Ti15cFd6T0loMERTQ184d2NieVJhQlRRUjZ4RFBjd1Q5MUVJOFFzWVFPaWVGWHN0OXRNdlVZZ0lubUsyRlB2NDltVEF5el9sNDNxVXFfeVE4cUU4?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUlpROFFsRDdMbkZrUkJ2QlVDWUlyTTBvcGdmNzFhR3lnNVE5RndMQkRYTXVzbjZIS0pfaXAzSnZvZjJZV3dEbUVMNEtHdHlFYlhhd19PMUJLcmZBMUJuNFJFelZOaExMN3JVV3JIMU5jNVRYdUR1aHVDLWxZbDFjT1VJXy1vR3dCRmxpeUdfaUNZdw?oc=5",
     "difficulty": "News"
   },
   {
