@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 20, 07:34 PM ET",
+    "publishedAt": "2026-09-20T23:34:00+00:00",
+    "source": "quasa.io",
+    "title": "Anthropic Opens Biology Beta With 30-Day Flagged-Data Retention",
+    "summary": "quasa.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejA1VTNKNWhGLXpWWm5kUDd3X2NjX1NHZmxsSVVRR2VKZzI3aEZlU0UwZ0YyTmhGWUZSUFFsRlJlb18tSU5SOEd4TUw1QVhNNHFPMXhrUDBGS3hJX0hfNFhPbXl6OHJMMmNsS2RuRFNUeVBkN1hoaXVjQ0ZSLXAybHhpRGNhd3ptUW1mQXl4eE93NUNkUzRZenFiY0swWjYw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Sep 20, 09:56 AM ET",
@@ -17,7 +29,7 @@
     "time": "Sep 20, 08:09 AM ET",
     "publishedAt": "2026-09-20T12:09:20+00:00",
     "source": "tech-insider.org",
-    "title": "Claude Fable vs GPT-5.6 Sol vs GLM-5.3 SWE-Bench Verified",
+    "title": "Claude Fable 5.1 vs GPT-5.6 Sol vs GLM-5.3: 96% SWE [2026]",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ocU5oSExOYkk2OUcta0k1NUR2ck0zdDV3b2l2UmN0V2V4NDEtRGxoZXZGcDRTeWVDSTR2MXJ6R1NaazM2cTdlRkZ4WHJ4VVotS1YtVHVVaklZTmRiek5hM3hDMFZ0SFB2U000MkJKdzllYWZnZ2kxYkt0QkV5Zw?oc=5",
@@ -40,9 +52,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 20, 01:04 AM ET",
     "publishedAt": "2026-09-20T05:04:25+00:00",
-    "source": "Memeburn",
+    "source": "memeburn.com",
     "title": "10 Best Vibe Coding Tools in 2026: Compared & Tested",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "summary": "memeburn.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KQWdoamRQWjY1Ml9pMG9aaEJDeURPeXBqS21hV29WZnBkQmVCdGg3aHJWVFRTWGRqdUQ2cU8wNHZVcXladVU5S3hET3ZDempTQ0oyMVpUZw?oc=5",
     "difficulty": "News"
@@ -124,11 +136,23 @@
     "label": "Claude Code",
     "time": "Sep 17, 01:34 PM ET",
     "publishedAt": "2026-09-17T17:34:30+00:00",
-    "source": "Anthropic",
+    "source": "anthropic.com",
     "title": "Introducing the Life Sciences Verification Program",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tdEtSOC1PRVFaSWU5TmlaMEtiZjRMdDdJLWg1bVIyUzlUTUV0UHZVa1Z3Y2JYeVVVLVEyeGZIQnVHR01tdC04X2x5Vk5LNDRKa3VyWnB2Vks0U3JpZDNNemZxczNDOFBNeGxrQnViOFNJQVU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 17, 11:54 AM ET",
+    "publishedAt": "2026-09-17T15:54:24+00:00",
+    "source": "SecurityWeek",
+    "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+    "summary": "SecurityWeek is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWVdkcnFVUnNFZ0hPV1JzNVN5Mm03ZDFId180bExrcjFtaDJ4Y0hEQVRidjRyZ1FEOU40UVJsNWttT1RxM2pNTUZzMTNqbU53ZWFOeW1ubkhaVEs0U2VVeTlfLTZMVlZYcXdZYWhvYVhueWJwSEpKOHZEMUp6VlZNRGsxdXFtZkU2YzZuZ0x2VmdHSVE1SkZFX1lJMmlYa2NOdkpGMjFraHlrZ9IBqgFBVV95cUxPWVdkcnFVUnNFZ0hPV1JzNVN5Mm03ZDFId180bExrcjFtaDJ4Y0hEQVRidjRyZ1FEOU40UVJsNWttT1RxM2pNTUZzMTNqbU53ZWFOeW1ubkhaVEs0U2VVeTlfLTZMVlZYcXdZYWhvYVhueWJwSEpKOHZEMUp6VlZNRGsxdXFtZkU2YzZuZ0x2VmdHSVE1SkZFX1lJMmlYa2NOdkpGMjFraHlrZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,18 +180,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 17, 03:00 AM ET",
-    "publishedAt": "2026-09-17T07:00:00+00:00",
-    "source": "Hostinger",
-    "title": "12 best Cursor alternatives for web development with AI",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOWVUZWR6VkdKNUNhVzI0d25DNV8ySnRISkpDbDl1QVhoRy02ejVWSU5WWEZXa1NHSVRnckRWMUI1aVg1TDRyMG5fZ0lTRXdPNzZ2RWQ5aDJvMUlkeGVLWjdqMEJvRUk?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 16, 03:03 PM ET",
@@ -189,18 +201,6 @@
     "summary": "TradingView is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZjA2VTlKZzAtOXJkTENrTHlVOWh1bGRCMHoxa3FLUmN4eWVCVkFuUUFUOGRqcEhLOXM2dG9DOG8yXzktN29TVklmV1lhelA4ZmJ5d2FLYW1UaW5sajRfUVRDLTBaNUFCeU5vTDlZTEhmRTJHbFJzeUZwMFV3QkZFNF9rOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 16, 05:19 AM ET",
-    "publishedAt": "2026-09-16T09:19:15+00:00",
-    "source": "CryptoRank",
-    "title": "OpenAI Formalizes the Codex Harness as a Managed API, Betting That Enterprises Want Orchestration Without the Overhead",
-    "summary": "CryptoRank is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVWk1WXNiSVA3YkZ4VEs0Ujgwb0piOG1hWnNzRkpWeC1CYmdRX21MT3c3WmpobmN5VUs1Q1kyS0h3anJzWWR6aUV3MlRHX2dqbi00eE9WS0ptZFhvRkpxTmFMSE91dG83SDJIV19IQmItZnRQOHhKVkE3MUZ1dmNIRTIwN1l1NlZMbTU0Mi1xRkhvRlF5Y1Rqb0FYanZIdkRrdmhsaHYxXzduSHk3bHNRRl9rc0U4NW5oTF9LNmFaajBqUk94a2RkTVZKZE1uS0ZDRTZaX1pJZXpockMwUjg0TXU5Q0lZNENSamgw?oc=5",
     "difficulty": "News"
   },
   {
@@ -312,15 +312,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 08, 03:00 AM ET",
-    "publishedAt": "2026-09-08T07:00:00+00:00",
-    "source": "TechCrunch",
-    "title": "Hackers are stealing Claude tokens from subscribers",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 09, 03:00 AM ET",
+    "publishedAt": "2026-09-09T07:00:00+00:00",
+    "source": "Coursera",
+    "title": "AI Coding Explained: Tools, Benefits, and Limitations",
+    "summary": "Coursera is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcFN1eC1oMzV1dzFjYVRNY3ZhTkpfOExWUVk5OEVXd0U3VlFwYlUzRk4ySlFCd0d2aVVJTnFOekw5VnRHLWdaVVFKYXJXUXJKT2ZPZmNwT3RmODJsc3F0WFZjXzYwa25XUEs3LUpRVGNXeUxYbjNfRFVELTFfVFg3OXdjY2RuNUhYQWtPYUYwRQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GSkhiTWhUWm1OV29KMTRzdGE3Z284Q1dlVXhHT0o2aXBRdlMwVnpHMDVyWWVaNEo2b212SHFUSUJOUEFJRjd1ZU5pUE5rSnNYMGc0cWZn?oc=5",
     "difficulty": "News"
   },
   {
@@ -328,9 +328,9 @@
     "label": "Claude Code",
     "time": "Aug 31, 03:00 AM ET",
     "publishedAt": "2026-08-31T07:00:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDhmbjlyTTFDYVc3aXlGU3ktMmtQOXpzVW5XTHM0S01aMzFQQTlsZkVFNndkOHJwRDZjY2RPcm9fU0ZUUjNTTlRiYW5tWDlhaHBuOGxHV1FxLS15c0RTSHFSU1VPaXFHalRtcUlWbl84RElKcmFmOVFiU1NZUTI2c0RTT1Y?oc=5",
     "difficulty": "News"
