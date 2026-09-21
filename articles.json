@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 20, 10:31 PM ET",
+    "publishedAt": "2026-09-21T02:31:21+00:00",
+    "source": "Basic Tutorials",
+    "title": "Gemini 3.8 Live: Google Introduces Language AI That Thinks and Speaks Simultaneously",
+    "summary": "Basic Tutorials is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkhMN2plemJHd3hOQ2ZZZ0o1MmZWRW5FaW5aVHRrVjJMMUNGOXhkUTRBYzFyQ1JKMGJJQ1RvbFpVWHFydGFhdExyVXhINWk3UlhUenhwei1FNnQ0SzYyTGE5dW9aLWZSei0xeE5IZHY2c0F4SlJqREFRZkVQSDZ4ek9uN2tRRXJUUVRjbG42eU5BdnZ6RW9tT3ZLNWZtRzF4bHRqTzZFM2M5LUMwNU56LW56aG9ZcFRJ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 20, 07:34 PM ET",
@@ -50,18 +62,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Sep 20, 01:04 AM ET",
-    "publishedAt": "2026-09-20T05:04:25+00:00",
-    "source": "memeburn.com",
-    "title": "10 Best Vibe Coding Tools in 2026: Compared & Tested",
-    "summary": "memeburn.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KQWdoamRQWjY1Ml9pMG9aaEJDeURPeXBqS21hV29WZnBkQmVCdGg3aHJWVFRTWGRqdUQ2cU8wNHZVcXladVU5S3hET3ZDempTQ0oyMVpUZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Sep 19, 12:14 AM ET",
     "publishedAt": "2026-09-19T04:14:49+00:00",
     "source": "Hostinger",
@@ -96,6 +96,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 17, 04:45 PM ET",
+    "publishedAt": "2026-09-17T20:45:04+00:00",
+    "source": "MarkTechPost",
+    "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVkRDWENsX2daLXRENUFaNDVhQ1JHNnVra2x6ZzFnSU5kT2pncVZ5T1V5QTBUaDVKLVVKb2tHNzZKakNJMzdEdmJDUExGRUtGVFh4NXNsdkJ5cTJrd1o5ZWk1QUktd08zR0VFNVBNRlhjSWVnMHIya1d0TlBlLUprTVozanowT0pFRjNxNmd0cHRvdkQ1OUpLb2k1b0VRUFRkYVF3cGVYQnItbjBEdGEyejFkMmJ5VzlUbUtWcFJDMnhDbjZxbUVqbV9GN2R2ejBxQmN3NGJROHBKeVNCYWdmQTc0eDd5SkE0Sl9aamZwUdIB9AFBVV95cUxOYldva1B5YU0tUlE3RjJsem9SajUzNnF6Rm1peEgyWW1qUDQ2by16SW52cEZHU0pBT0YwMWdfd1FVUXN1cm93S2Vlb2R0NkJNMlBKVkhmWExWTmVCQWV4U05Ed0NMVDdMdzdLY3ZabjNjbEI0MDlEaEdvN0VHaElkQ1lXb2RMTmIwSjhNM295b05VUk1jSHBhQzEtT0hqRlhSU3g5NmlxUTNnVS1yczhld2dpN2xMcExReGs4VFNyUWlSUzJCTTcyaUFLZFNwbDRaUy1yZmE5a1JZRHVfa2FyU3REV1NHZzhjYTdLX3ZxaG1qVTdR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 17, 02:46 PM ET",
@@ -124,9 +136,9 @@
     "label": "ChatGPT",
     "time": "Sep 17, 01:36 PM ET",
     "publishedAt": "2026-09-17T17:36:16+00:00",
-    "source": "CyberSecurityNews",
+    "source": "cybersecuritynews.com",
     "title": "OpenAI Models Searched for Leaked API Keys and Uploaded Files Without Permission",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "summary": "cybersecuritynews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90UjB2Y2ZPRTJCeDR3UGdjZzdrNURzMFBteHZvVk12dUZXU3oyTHRNTmFsMmY3dUJHUXdSMk96MEhjd2NXRkdjU1drVU81RGF2N0NjTXpiM0E2d0ZWS0JZOVVwaEdzeUZLTVHSAW9BVV95cUxOekl5eGhTWHhud21hellaRGY0cTk4Vnl5VjB3S3hlT3JuRTVxeDEtQlNJdm1SYjA4TEhiQl9XdTZfZGJVNFRQN3QzaDA3cDFZUG9GT2xXNnZuYmkwX1hEMzBYUi01TnJKNWVqLTdKSE0?oc=5",
     "difficulty": "News"
@@ -136,9 +148,9 @@
     "label": "Claude Code",
     "time": "Sep 17, 01:34 PM ET",
     "publishedAt": "2026-09-17T17:34:30+00:00",
-    "source": "anthropic.com",
+    "source": "Anthropic",
     "title": "Introducing the Life Sciences Verification Program",
-    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tdEtSOC1PRVFaSWU5TmlaMEtiZjRMdDdJLWg1bVIyUzlUTUV0UHZVa1Z3Y2JYeVVVLVEyeGZIQnVHR01tdC04X2x5Vk5LNDRKa3VyWnB2Vks0U3JpZDNNemZxczNDOFBNeGxrQnViOFNJQVU?oc=5",
     "difficulty": "News"
@@ -158,18 +170,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 17, 10:13 AM ET",
-    "publishedAt": "2026-09-17T14:13:15+00:00",
-    "source": "Analytics Insight",
-    "title": "Google Gemini API: How to Get an API Key and Start Using it in 2026",
-    "summary": "Analytics Insight is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNFZrbHZWb081Q1FpTVhaUW9jc2MtWGdJQUg0OUc4ZWZkXy1aZy1oWklFY0luZUE2ZVJIMXItR2JQc3BjR0lRejVmNVN0TGhjWHZJa21LaWU5UFkwTWdkWlQ4YWJ1d3REc0FrRWJDR1ZXcXBEaWJPQUtpTWVXVGRxTG5vMk9xdVFrNXNWRXFXNmQzV2VZVGtNVVcxakJxTU5OTzFpbksxYkp1UTJNUG96MjhVanEwMjEzd3RrdWRlTWlVclZaSzhhYTQxTjVUZ9IBzgFBVV95cUxQNFZrbHZWb081Q1FpTVhaUW9jc2MtWGdJQUg0OUc4ZWZkXy1aZy1oWklFY0luZUE2ZVJIMXItR2JQc3BjR0lRejVmNVN0TGhjWHZJa21LaWU5UFkwTWdkWlQ4YWJ1d3REc0FrRWJDR1ZXcXBEaWJPQUtpTWVXVGRxTG5vMk9xdVFrNXNWRXFXNmQzV2VZVGtNVVcxakJxTU5OTzFpbksxYkp1UTJNUG96MjhVanEwMjEzd3RrdWRlTWlVclZaSzhhYTQxTjVUZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Sep 17, 06:52 AM ET",
     "publishedAt": "2026-09-17T10:52:05+00:00",
     "source": "TechRepublic",
@@ -177,6 +177,18 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tZDFwZWtINEZBcVc4T3VCWnNaajB2VmNldm82MENRclhhcXlIRTlaUV9Fdkk0am1qTV80UTJIYW9GR3MwazI5MDdIN3lTbTRHdzFsTUNKYmpiVWRjWjgtSm5EeWFsaG1feXN4aW5pankwSWs?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 16, 05:00 PM ET",
+    "publishedAt": "2026-09-16T21:00:00+00:00",
+    "source": "Business Model Analyst",
+    "title": "Anthropic Business Model: How Claude Makes Money on a Product That Expires in Eight Weeks",
+    "summary": "Business Model Analyst is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15c2g3QWFDZm9WUWFOUDFVX1hpTFdReUIwWElkMmE1Qkp0RG85d2hPT19XdFVwWFQ0cHJYME5nckhaeFFMZ01RNTJSQmZVLUM0SzBJQUV5UUlERzRwZEw2Z01namZqdlZpRlE?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,15 +204,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 16, 10:37 AM ET",
-    "publishedAt": "2026-09-16T14:37:05+00:00",
-    "source": "TradingView",
-    "title": "Bring TradingView to Claude with the new MCP Server: public beta available for paid plans",
-    "summary": "TradingView is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 16, 07:56 AM ET",
+    "publishedAt": "2026-09-16T11:56:16+00:00",
+    "source": "Memeburn",
+    "title": "9 Best AI Coding Tools in 2026: IDEs, Agents, & Copilots Compared",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZjA2VTlKZzAtOXJkTENrTHlVOWh1bGRCMHoxa3FLUmN4eWVCVkFuUUFUOGRqcEhLOXM2dG9DOG8yXzktN29TVklmV1lhelA4ZmJ5d2FLYW1UaW5sajRfUVRDLTBaNUFCeU5vTDlZTEhmRTJHbFJzeUZwMFV3QkZFNF9rOA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQlY0TjY5aFBTMjMyX04wZjFoRm1leXI4NFpWTm8xLWxZcWswLUJBbmNBc0gzN242YWh2MHBLNHA2X0hZNmlDa0twZXpfaGZmZmtEQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -208,9 +220,9 @@
     "label": "Gemini",
     "time": "Sep 16, 02:59 AM ET",
     "publishedAt": "2026-09-16T06:59:00+00:00",
-    "source": "Techzine Global",
+    "source": "techzine.eu",
     "title": "Google focuses on fast, smart speech with Gemini 3.8 Live",
-    "summary": "Techzine Global is reporting this update. Open the article for the full story.",
+    "summary": "techzine.eu is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWpBNzR5cUxZM1AxUnRBNXNvb19GaGhpT0hZLVAwTUpTVEhyaWQxdzRtS1lOSUJMUkU1d2xGaklvajBOWVNtSXpXVjhYeW1ydThoVFZ2S19IcHVKWEFMUVExM0dYeDZldzZxRlI3c1F6dHlWV0dxaUtxMFhobWVIem1qelBFTUVxZFF2ZWJHaWlfX21KQ1liVkV1Y2QzZ2dVNFJYakthdWl2UQ?oc=5",
     "difficulty": "News"
@@ -225,18 +237,6 @@
     "summary": "Seeking Alpha is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXdPVl9VcXJwMk1CMzJfYlFvVXA3QTdZZGxnZXNoR2VScFNBQ1dWeGI5VzhhTHdiWWdqWTBVN3Z0eXVRMEliSUpHQ0RLNnl1NmhPcGVYM0c2UVowWHVPSmpXazFiUFdqdDZlVXdDUVlNZGM5Ti15cFd6T0loMERTQ184d2NieVJhQlRRUjZ4RFBjd1Q5MUVJOFFzWVFPaWVGWHN0OXRNdlVZZ0lubUsyRlB2NDltVEF5el9sNDNxVXFfeVE4cUU4?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 15, 01:24 PM ET",
-    "publishedAt": "2026-09-15T17:24:01+00:00",
-    "source": "Unite.AI",
-    "title": "Google Launches Gemini 3.8 Live and Extended Thinking Voice Models",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUlpROFFsRDdMbkZrUkJ2QlVDWUlyTTBvcGdmNzFhR3lnNVE5RndMQkRYTXVzbjZIS0pfaXAzSnZvZjJZV3dEbUVMNEtHdHlFYlhhd19PMUJLcmZBMUJuNFJFelZOaExMN3JVV3JIMU5jNVRYdUR1aHVDLWxZbDFjT1VJXy1vR3dCRmxpeUdfaUNZdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 14, 07:40 AM ET",
-    "publishedAt": "2026-09-14T11:40:19+00:00",
-    "source": "DataDrivenInvestor",
-    "title": "I Asked Claude Where to Invest $10,000. Here’s What Happened | by Kevin Meneses González | Sep, 2026",
-    "summary": "DataDrivenInvestor is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlMtblBia0dhSVIyLUZlTXZYZDVpRFgwaXlDb0lmVE5JU01yVHJHd2dDRFEzRzRYYTlFcUgwRkx0d3dKc2ptSjUyTi1iSXgydWpCdDFaai1EbVczRDNUc0hXaTNhWGw5R1J0ZjJsaC1tclU4U3RyUUUyTkd1ZS05WFJLY0FEeFVKZUNnazlqZm1iMklCa3BOVURCU0xKZ0p0dEVVakJRUlN3eVpV?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 10, 03:00 AM ET",
@@ -314,13 +302,13 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Sep 09, 03:00 AM ET",
-    "publishedAt": "2026-09-09T07:00:00+00:00",
-    "source": "Coursera",
-    "title": "AI Coding Explained: Tools, Benefits, and Limitations",
-    "summary": "Coursera is reporting this update. Open the article for the full story.",
+    "time": "Sep 08, 03:00 AM ET",
+    "publishedAt": "2026-09-08T07:00:00+00:00",
+    "source": "DevOps.com",
+    "title": "GitHub’s New Copilot Feature Takes the Guesswork Out of Picking AI Models",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GSkhiTWhUWm1OV29KMTRzdGE3Z284Q1dlVXhHT0o2aXBRdlMwVnpHMDVyWWVaNEo2b212SHFUSUJOUEFJRjd1ZU5pUE5rSnNYMGc0cWZn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDlKNmJLOG0tUzBYR3k2VXhCM0hYQm5nUWZSaFl6LWQyTVpwZkxnUHdGWTh3NjhtMDJwcE9mZXh3alRQcTJPSG9DeTRldlJyRWZUdTNzd243NUdmQVFmV2tJb1F0STg1eDJWNjUxY1Zvdk1SbDk0MmpTOF9KLTBSVkFxb0Q5SHN1Z3FDMEJVWTVMbXcwUUEw?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,6 +345,18 @@
     "summary": "GeekWire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 03:00 AM ET",
+    "publishedAt": "2026-07-30T07:00:00+00:00",
+    "source": "Oracle",
+    "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
+    "summary": "Oracle is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
   },
   {
