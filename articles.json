@@ -2,6 +2,66 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Sep 22, 06:43 PM ET",
+    "publishedAt": "2026-09-22T22:43:14+00:00",
+    "source": "macobserver.com",
+    "title": "Claude Opus 5.5 cuts flagship AI pricing by 20%",
+    "summary": "macobserver.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uakt0cTM1MElTVUtud2ZRTGFiNTdFNV9aVW5pdVhQdVdCQ256SXBIS205WFZWYk5IRnJFdUd3V056N1dadWx1WE9JZHlqTkdGc2llVjA1ZlJIV01LVFV1U0l4bFNEWlpIR1lCeTlENW43Y2Vf?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 22, 05:45 PM ET",
+    "publishedAt": "2026-09-22T21:45:00+00:00",
+    "source": "Mashable",
+    "title": "Anthropic launches Claude Opus 5.5: Benchmarks, pricing, safety",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3kyT0JlSC1QNUhOT0RtQ0VZVzFRSF9IZVE1TlhmY3RMU012NENzcm9IVXdXM0NQMmZRVVRxV0d4QmgyUHBCWXRsQ1J3OGhCZ1JPUGhJOG1ZYTdXcTBLVG5PQ1NHUzB6WEVlZFl6U2tDcUdqVkYzSndmOGxlREwtd05Fb1VIUnZpT2d3bDhKWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 22, 04:42 PM ET",
+    "publishedAt": "2026-09-22T20:42:11+00:00",
+    "source": "TestingCatalog AI News",
+    "title": "Anthropic launches Claude Opus 5.5 with lower API costs",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY21wamJpdDdjLXhBU1cxUlNwVUJXNHlRYkRRdC1fUjZWZ1ZtUkpzd3IzaEdDcklwS29BVVdUeEF6VGdINW9WRm1oSnowei1rYzU5VTZFS3NYYVlhcklRbzhsUEFyRGl4NFlYbm5vOFJPWTBERkdpOFZHWDAwajE2UktxdUVxMEFUSWdRWExZNnI?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 22, 04:40 PM ET",
+    "publishedAt": "2026-09-22T20:40:03+00:00",
+    "source": "Yahoo Finance",
+    "title": "OpenAI Introduces GPT-6 Sol And Luna, Slashing API Prices 50% To Bring Advanced AI To More Users",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMG9KM1dYMzdNZUpQRHQycW9XWXFSaU9nZzBQWUFrUmVPbVdTcHloakVjR3ZKaVhNcEZTbmxSSGxyMmFtSm15Ym1qWl90RU5XalZaMGlqLXZsa0xyc1RnTlpRUThSMld1T3psX0ZIUUZ3bXF5MnBmcDV5X1lUVEt4ZHBkNHd2d0pVZDJZUzB1RjhpeGduZmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 22, 04:39 PM ET",
+    "publishedAt": "2026-09-22T20:39:00+00:00",
+    "source": "NewsCord",
+    "title": "OpenAI Launches GPT-6 Sol And GPT-6 Luna With Half-Price API Costs: 11 outlets compared",
+    "summary": "NewsCord is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmZwVXlDMG5EVGtPV1ZWVWJvOS1PNDQ1dVFmZkF0RnlUSUZHWWZ3ck1LSGxrcHFyd2NwbXpWc3Q3RGVETVE5aUVIanpsc3psVm00bVphdDVRVFFDOVVRX0FXVW1nRlhLSHBkQTE3WUFlcXZpc2YyX3d2UW93QlRRVnl1QlFJYUd0Rm5nY1NMZUlFT3RSaEhJMEkxOGF6aGVaZndlbWtnbVRMWDRWcnNPUFVWRExNMi05WlR1aEM5TDhqb0VaNWQ1N0RMM203a09ESERhSGc5OA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Sep 22, 04:03 PM ET",
     "publishedAt": "2026-09-22T20:03:34+00:00",
     "source": "Anthropic",
@@ -16,9 +76,9 @@
     "label": "ChatGPT",
     "time": "Sep 22, 03:57 PM ET",
     "publishedAt": "2026-09-22T19:57:01+00:00",
-    "source": "bbntimes.com",
+    "source": "BBN Times",
     "title": "OpenAI Unveils GPT-6 Sol and Luna, Slashing API Prices by 50% While Cutting Error Rates in Half",
-    "summary": "bbntimes.com is reporting this update. Open the article for the full story.",
+    "summary": "BBN Times is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbUVKdlQwWG8zajFZSWtIRU1ocDVQRWl2bllBY3F6YUdWNm5JWEd0cFF4WnJiYzc0dm41OVJlWmRDYjlVVEl0ZG1aYTBkUDZrcWRSNXhUTUN0cFItU1VRU3RHenJOeE95OXZXQ1FtZnBPSEIxSXczYVZsc0t4ZnRCQmxEMTJiaEczbFdzaUpXR3pNTUJ5UWdlZVpmZVlFWHFISnZMZ29aazZKajVJYTRhWlp3ZFJZZ2g2al93Skg5WGU5UWRYOGx0MQ?oc=5",
     "difficulty": "News"
@@ -36,15 +96,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 22, 03:14 PM ET",
-    "publishedAt": "2026-09-22T19:14:08+00:00",
-    "source": "The Next Web",
-    "title": "OpenAI cuts GPT-6 prices in half with Sol and Luna",
-    "summary": "The Next Web is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 22, 03:09 PM ET",
+    "publishedAt": "2026-09-22T19:09:00+00:00",
+    "source": "Android Authority",
+    "title": "Google Play Store looks like it's working on a special home for your vibe-coded apps",
+    "summary": "Android Authority is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sQTF1djB1ZDFTVlRiU2RvbFJhLVduTXkxOWVCR09jSEZ0Q1FEbmlWWjlYcTVBSk5QVWpsQWx2N2IxZVc1RGp1TXN3UU5kMnZJeTl6UnkwQldsUGJzSUNGSG9kVXRTVmM2M3JmdmNYQ1Q?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RY2JZLTZXWk5JM2xIVDZzME1aTC1kTDViQ0Zaa2dZR25zdkJJX3Z2aDNmV0YzNUJDbXJMLUI2TlljMW5kT2xJRTF4ckFFMEJVcXdhbV9ycFljNWotZE5QWEFuY094YU5zMFY5MUE1eG01MlFfNmMw?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,30 +129,6 @@
     "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcml5V2NScmlDMmg0VXdZR3AyXzJlTHlzRnJ5S05mMHNxQ2ZjSmwwV2tVcWx5RXE4V3JJWWh3MXlKdXdlNno4MVAwaGdXcVVJYm9TNGx5bWgxZjM1dm1VR0ppRGNsRTVZc1UwVkJuRmIwLTFoYnJkUE9sU0taS3Z2dVd6X1VwMEc3SVlJNDhyWWtSMGdlRC01VGQ0bngtWDhLY2ZzSUU3SWFJcnNSRldWdnVHejRKdV9GOEhOUzNiUFFHQmd4Mko0ZjctT0k0STJzVm93?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 22, 02:59 PM ET",
-    "publishedAt": "2026-09-22T18:59:35+00:00",
-    "source": "MarkTechPost",
-    "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vSFlRZGlkXzdTbF9uUFBwQk5TTEExMUc4bHh0NmREWUJyQ3AybE1hUElKNHE4eEsteUVOWmFlUGpVTVRDM0hpY3FpdDhRM0JYb0U3aWxCcFFiMXBaeDh1YlU0WlNza1BESFl4UWVMUDhDc1dsYjRIODY1NmNBYknSAYQBQVVfeXFMTnBUU1gxVWVFaXNxN3NIU3FOWjc3cTVnZE9iRVZJN04wUFFRZVZFLXkzaV9DcmNyeEFQdWp1RHRyRURqWU01NzlRZ3RCWmtoNklPRHRsb2FTMzBIN19ReUxSeEloZzB4TUM4Y1lpYW9RWnNaR0NfLTVraTVqcjd0M29IUXEx?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 22, 02:58 PM ET",
-    "publishedAt": "2026-09-22T18:58:39+00:00",
-    "source": "Tech My Money",
-    "title": "Claude Opus 5.5 Cuts Prices and Matches Fable 5.1 on Most Work",
-    "summary": "Tech My Money is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjhvM3hrdWh5VlhQS0FfR2ZfYzdOT2xnUFdDc0tBTWhCM0Rnb1hMYjRMU3R3SF9ScjMxQTY5V2wxeHdLS2RKcVRBdnVMRWV3ek4yQ0xXR2t4eW5sOVp1eHpHX3NIc0N3VXA4dVRRdGdaVnlsS1BWMjhtVloyNDVGY3cwaTE2NWVWak5YYXBqaDBUQk84NmhVNHc3SlhKUE3SAZ8BQVVfeXFMTnY4bzN4a3VoeVZYUEtBX0dmX2M3Tk9sZ1BXQ3NLQU1oQjNEZ29YTGI0TFN0d0hfUnIzMUE2OVdsMXh3S0tkSnFUQXZ1TEVld3pOMkNMV0dreHlubDladXh6R19zSHNDd1VwOHVUUXRnWlZ5bEtQVjI4bVZaMjQ1RmN3MGkxNjVlVmpOWGFwamgwVEJPODZoVTR3N0pYSlBN?oc=5",
     "difficulty": "News"
   },
   {
@@ -132,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 22, 02:00 PM ET",
-    "publishedAt": "2026-09-22T18:00:00+00:00",
-    "source": "TechCrunch",
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbkJzRWtNeU8tQkl1WUZlc19BYWctaC1iak9JWFozN1Q4Y1dPOFVHS3R0MDlLUi1vUmNTVk50Q2gxYmYtbWxxQUZ3Y0FEUDFPTXoyV0l5MHo0a2RLems0QXRabHgwNnNYc2h2LWRyT0RCa2p3MzYyNg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 22, 01:28 PM ET",
@@ -177,18 +201,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqeFZZNGFXYVVYblBIbWhvaU1fQVZjYUYtQ29ialdiODZqZjVjXzk4Z004VkhsT2NSamtHeVNib2YzeGdmRnZCeGgzaHJ2ZVpoLTlEa0lyM0FvRWlGX1lnSGotSjdwRDZa?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 21, 10:36 PM ET",
-    "publishedAt": "2026-09-22T02:36:23+00:00",
-    "source": "quasa.io",
-    "title": "Anthropic Opens Verified Claude Biology Access",
-    "summary": "quasa.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMXZ2dk8td3pBNVhwNzVsWjY5MUY0b3VmaDhwa1BvSlBCYlRTZFYwLWpmV2wzWnlrdHppeHp0VGZXcGpWcEFKWmRwODl2TW01YVNNMWF4SlFjdVAtcTZFb3oxUG40VG03TWZIdlZZYTgyZWpodUhiWnhmYjgxQVZzWnlKQlZCUjZfQWNxQm1GQ2o3elB4SDh2WXhPOVI1dnc?oc=5",
     "difficulty": "News"
   },
   {
@@ -237,18 +249,6 @@
     "summary": "ALM Corp is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11OTlOS3NlVXRDeFczdllMX0lqRDh6X083LV9sdVlTbFBkOS0yZXYwc2lNTEN5SkUyNHpYWm1ta1lNYTZMMjBkTi1MWGY1NEoxV1NBQ0tnRVFXZWpwTHBHRUVNYjF4NmVwU2ZLNC1HdDFLRk05enc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 18, 12:37 PM ET",
-    "publishedAt": "2026-09-18T16:37:17+00:00",
-    "source": "forkast.news",
-    "title": "Google’s Gemini 3.8 Thinks Out Loud — And That Changes How AI Earns Trust",
-    "summary": "forkast.news is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLXh2bGwyVTN3T3BiVlhCUlQ0QVBRZUNpLV9STWF0d1plTFJWbHhLdHhzUllrc2JYOXg4dGYtaHBRLVEwY1JwblN0TXFWblFVcDhDVkV5ZE1hZUphaEp1VFB2cEVfZlZEcWRHWFh5RVl6bzc4aVFyQmJlZGJrelAteWtGcllrVnFSdnYzWWVlMExGa0NPdzg4?oc=5",
     "difficulty": "News"
   },
   {
@@ -304,9 +304,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 09, 03:00 AM ET",
     "publishedAt": "2026-09-09T07:00:00+00:00",
-    "source": "coursera.org",
+    "source": "Coursera",
     "title": "AI Coding Explained: Tools, Benefits, and Limitations",
-    "summary": "coursera.org is reporting this update. Open the article for the full story.",
+    "summary": "Coursera is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GSkhiTWhUWm1OV29KMTRzdGE3Z284Q1dlVXhHT0o2aXBRdlMwVnpHMDVyWWVaNEo2b212SHFUSUJOUEFJRjd1ZU5pUE5rSnNYMGc0cWZn?oc=5",
     "difficulty": "News"
