@@ -2,25 +2,37 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 22, 06:43 PM ET",
-    "publishedAt": "2026-09-22T22:43:14+00:00",
-    "source": "macobserver.com",
-    "title": "Claude Opus 5.5 cuts flagship AI pricing by 20%",
-    "summary": "macobserver.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uakt0cTM1MElTVUtud2ZRTGFiNTdFNV9aVW5pdVhQdVdCQ256SXBIS205WFZWYk5IRnJFdUd3V056N1dadWx1WE9JZHlqTkdGc2llVjA1ZlJIV01LVFV1U0l4bFNEWlpIR1lCeTlENW43Y2Vf?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 22, 05:45 PM ET",
-    "publishedAt": "2026-09-22T21:45:00+00:00",
+    "time": "Sep 22, 07:30 PM ET",
+    "publishedAt": "2026-09-22T23:30:59+00:00",
     "source": "Mashable",
     "title": "Anthropic launches Claude Opus 5.5: Benchmarks, pricing, safety",
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3kyT0JlSC1QNUhOT0RtQ0VZVzFRSF9IZVE1TlhmY3RMU012NENzcm9IVXdXM0NQMmZRVVRxV0d4QmgyUHBCWXRsQ1J3OGhCZ1JPUGhJOG1ZYTdXcTBLVG5PQ1NHUzB6WEVlZFl6U2tDcUdqVkYzSndmOGxlREwtd05Fb1VIUnZpT2d3bDhKWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 22, 07:25 PM ET",
+    "publishedAt": "2026-09-22T23:25:46+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Opus 5.5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 22, 06:43 PM ET",
+    "publishedAt": "2026-09-22T22:43:14+00:00",
+    "source": "The Mac Observer",
+    "title": "Claude Opus 5.5 cuts flagship AI pricing by 20%",
+    "summary": "The Mac Observer is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uakt0cTM1MElTVUtud2ZRTGFiNTdFNV9aVW5pdVhQdVdCQ256SXBIS205WFZWYk5IRnJFdUd3V056N1dadWx1WE9JZHlqTkdGc2llVjA1ZlJIV01LVFV1U0l4bFNEWlpIR1lCeTlENW43Y2Vf?oc=5",
     "difficulty": "News"
   },
   {
@@ -60,25 +72,13 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 22, 04:03 PM ET",
-    "publishedAt": "2026-09-22T20:03:34+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Opus 5.5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 22, 03:57 PM ET",
     "publishedAt": "2026-09-22T19:57:01+00:00",
-    "source": "BBN Times",
+    "source": "bbntimes.com",
     "title": "OpenAI Unveils GPT-6 Sol and Luna, Slashing API Prices by 50% While Cutting Error Rates in Half",
-    "summary": "BBN Times is reporting this update. Open the article for the full story.",
+    "summary": "bbntimes.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbUVKdlQwWG8zajFZSWtIRU1ocDVQRWl2bllBY3F6YUdWNm5JWEd0cFF4WnJiYzc0dm41OVJlWmRDYjlVVEl0ZG1aYTBkUDZrcWRSNXhUTUN0cFItU1VRU3RHenJOeE95OXZXQ1FtZnBPSEIxSXczYVZsc0t4ZnRCQmxEMTJiaEczbFdzaUpXR3pNTUJ5UWdlZVpmZVlFWHFISnZMZ29aazZKajVJYTRhWlp3ZFJZZ2g2al93Skg5WGU5UWRYOGx0MQ?oc=5",
     "difficulty": "News"
@@ -129,6 +129,18 @@
     "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcml5V2NScmlDMmg0VXdZR3AyXzJlTHlzRnJ5S05mMHNxQ2ZjSmwwV2tVcWx5RXE4V3JJWWh3MXlKdXdlNno4MVAwaGdXcVVJYm9TNGx5bWgxZjM1dm1VR0ppRGNsRTVZc1UwVkJuRmIwLTFoYnJkUE9sU0taS3Z2dVd6X1VwMEc3SVlJNDhyWWtSMGdlRC01VGQ0bngtWDhLY2ZzSUU3SWFJcnNSRldWdnVHejRKdV9GOEhOUzNiUFFHQmd4Mko0ZjctT0k0STJzVm93?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 22, 02:22 PM ET",
+    "publishedAt": "2026-09-22T18:22:46+00:00",
+    "source": "developers.googleblog.com",
+    "title": "Colab is now part of your Google AI plan",
+    "summary": "developers.googleblog.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUtPNFJ1eVc0RjJHQ0F5TkJ1ZW1DTEdRcEpkd2Y0Wk91UmtuUEFEQmh4MTFObDlfWUhyZXVxbFlsRGtTQ2dsT2Zyb3BFc3lCcUtPUi1veGNqc3hSNTNIWndtOW1zSUpYR2FHNFBqdkVDSS1Tb2tYODZPbGs0TngzVg?oc=5",
     "difficulty": "News"
   },
   {
@@ -230,6 +242,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Sep 20, 01:04 AM ET",
+    "publishedAt": "2026-09-20T05:04:25+00:00",
+    "source": "Memeburn",
+    "title": "10 Best Vibe Coding Tools in 2026: Compared & Tested",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KQWdoamRQWjY1Ml9pMG9aaEJDeURPeXBqS21hV29WZnBkQmVCdGg3aHJWVFRTWGRqdUQ2cU8wNHZVcXladVU5S3hET3ZDempTQ0oyMVpUZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Sep 19, 12:14 AM ET",
     "publishedAt": "2026-09-19T04:14:49+00:00",
     "source": "Hostinger",
@@ -242,18 +266,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 18, 03:39 PM ET",
-    "publishedAt": "2026-09-18T19:39:56+00:00",
-    "source": "ALM Corp",
-    "title": "Google Search Live Now Runs on Gemini 3.8 Live",
-    "summary": "ALM Corp is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11OTlOS3NlVXRDeFczdllMX0lqRDh6X083LV9sdVlTbFBkOS0yZXYwc2lNTEN5SkUyNHpYWm1ta1lNYTZMMjBkTi1MWGY1NEoxV1NBQ0tnRVFXZWpwTHBHRUVNYjF4NmVwU2ZLNC1HdDFLRk05enc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Sep 17, 06:52 AM ET",
     "publishedAt": "2026-09-17T10:52:05+00:00",
     "source": "TechRepublic",
@@ -261,18 +273,6 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tZDFwZWtINEZBcVc4T3VCWnNaajB2VmNldm82MENRclhhcXlIRTlaUV9Fdkk0am1qTV80UTJIYW9GR3MwazI5MDdIN3lTbTRHdzFsTUNKYmpiVWRjWjgtSm5EeWFsaG1feXN4aW5pankwSWs?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 16, 07:56 AM ET",
-    "publishedAt": "2026-09-16T11:56:16+00:00",
-    "source": "Memeburn",
-    "title": "9 Best AI Coding Tools in 2026: IDEs, Agents, & Copilots Compared",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQlY0TjY5aFBTMjMyX04wZjFoRm1leXI4NFpWTm8xLWxZcWswLUJBbmNBc0gzN242YWh2MHBLNHA2X0hZNmlDa0twZXpfaGZmZmtEQQ?oc=5",
     "difficulty": "News"
   },
   {
