@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 23, 06:04 PM ET",
+    "publishedAt": "2026-09-23T22:04:30+00:00",
+    "source": "Kingy AI",
+    "title": "Claude Opus 5.5 vs Fable 5.1: Is Fable Still Worth the Premium?",
+    "summary": "Kingy AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92dDNpcVdWcGNHZzgweEpiLW8yZjJGNTRaQXF1Y3llT05yeTdtTmwzNmhYaUZyR05QblY2eVVUZEdvS0NpVGpvU3Vqd3dLYU1aa1NhcWd2RUxoRGg3bEUtMQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 23, 04:55 PM ET",
@@ -120,18 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 23, 06:49 AM ET",
-    "publishedAt": "2026-09-23T10:49:54+00:00",
-    "source": "HackerNoon",
-    "title": "You Don’t Have to Leave Claude Code to Use DeepSeek",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15NVY4TTRhZlJKWHhsUm5QMS1NbU1UbXpwWUllaUNzVzdOajFWR1hoQ013bHY3OGhIVFptU0Noc1Zua003cUFTWUdTS1pKTlpBa055dUVtT3NpVkNYWlhWNzFjekptaTE3SGRJN2c2aHR4WV9SQ0tKRzRjQXltUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 23, 06:08 AM ET",
@@ -172,9 +172,9 @@
     "label": "ChatGPT",
     "time": "Sep 23, 03:39 AM ET",
     "publishedAt": "2026-09-23T07:39:53+00:00",
-    "source": "technology.org",
+    "source": "Technology Org",
     "title": "OpenAI GPT-6 Sol and Luna Cut API Prices in Half",
-    "summary": "technology.org is reporting this update. Open the article for the full story.",
+    "summary": "Technology Org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTHctQnEtSFdEZWRuaG1makFBLVQtUmpIZTlIbklWalk4aEhLY3FBT19PU2lJS2NabFNmNXBvZGotMjdFUUlWWVdEb3R4eWdTcUoycUVVU1I5MkdieWZoTlVXSVFmZjUyd0VGWjZ1ZjNjTTVMVW11Yk5qT2VUTXBrZHI0aUtBQQ?oc=5",
     "difficulty": "News"
@@ -304,9 +304,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 16, 07:56 AM ET",
     "publishedAt": "2026-09-16T11:56:16+00:00",
-    "source": "memeburn.com",
+    "source": "Memeburn",
     "title": "9 Best AI Coding Tools in 2026: IDEs, Agents, & Copilots Compared",
-    "summary": "memeburn.com is reporting this update. Open the article for the full story.",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zQlY0TjY5aFBTMjMyX04wZjFoRm1leXI4NFpWTm8xLWxZcWswLUJBbmNBc0gzN242YWh2MHBLNHA2X0hZNmlDa0twZXpfaGZmZmtEQQ?oc=5",
     "difficulty": "News"
@@ -364,9 +364,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 17, 03:00 AM ET",
     "publishedAt": "2026-08-17T07:00:00+00:00",
-    "source": "geekwire.com",
+    "source": "GeekWire",
     "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform",
-    "summary": "geekwire.com is reporting this update. Open the article for the full story.",
+    "summary": "GeekWire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
     "difficulty": "News"
