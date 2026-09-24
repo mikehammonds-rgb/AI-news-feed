@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 23, 09:52 PM ET",
+    "publishedAt": "2026-09-24T01:52:00+00:00",
+    "source": "Tech in Asia",
+    "title": "Google launches Gemini TTS with voice replication",
+    "summary": "Tech in Asia is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLTdSZ2c2RVBZQm5WZGE5cEpTel9DaHBRV1FoUGkzQzA0ay1jbWlBTzYtQWVSc3pwemwwazVuVmFaRVNtUVZrck5TOGtNN216Q2lqNzRja3V6c3I5UExmV0pHODBVQmpIUTRwZU5VbXZaLVg0YWlGWVJXbGFFbW0ySlpB?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 23, 06:04 PM ET",
@@ -9,18 +21,6 @@
     "summary": "Kingy AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92dDNpcVdWcGNHZzgweEpiLW8yZjJGNTRaQXF1Y3llT05yeTdtTmwzNmhYaUZyR05QblY2eVVUZEdvS0NpVGpvU3Vqd3dLYU1aa1NhcWd2RUxoRGg3bEUtMQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 23, 04:55 PM ET",
-    "publishedAt": "2026-09-23T20:55:00+00:00",
-    "source": "finance.biggo.com",
-    "title": "Alphabet Unveils Two Gemini Voice Models With Custom Voice Design and Multi-Speaker Dialogue",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4RHdHUW9aVmYxbF9FZ3E0aVo3VDVJQ0dvV2NlemhHQjFyREdKNmdZQUlrUkU4TWNFaHhqYXVLUUZLa0xKUGNReHpuVWw3TW9SMnBoWEFhN18tXzlsNXcycllRNXBTTC1MUExuLUVfT3lQcjRTV2c?oc=5",
     "difficulty": "News"
   },
   {
@@ -158,30 +158,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 23, 03:56 AM ET",
-    "publishedAt": "2026-09-23T07:56:00+00:00",
-    "source": "gHacks",
-    "title": "OpenAI Launches GPT-6 Sol and Luna With 50% Lower API Pricing Than GPT-5.6",
-    "summary": "gHacks is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcER0aUFxUDVCLTlTRE5FdFRMb1EzM3FEQlhiMldMb1ZJYzZmVFJ4d05JNFpqUVhuVVdSczRzTUVGVV8wZjlXNkEtOXJSTzY0aGJBbEVnSjFxdUhqaUtzdjMxSy1weUIwVnRUMzE5LTZVV1lzalRCNFNmNVozZ3JLOGZxY1g0ZjBjekdvWExZM09jWUdDeUxzeW14Y25NMmZ3bFFBZnpLSTEwZFZn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 23, 03:39 AM ET",
-    "publishedAt": "2026-09-23T07:39:53+00:00",
-    "source": "Technology Org",
-    "title": "OpenAI GPT-6 Sol and Luna Cut API Prices in Half",
-    "summary": "Technology Org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTHctQnEtSFdEZWRuaG1makFBLVQtUmpIZTlIbklWalk4aEhLY3FBT19PU2lJS2NabFNmNXBvZGotMjdFUUlWWVdEb3R4eWdTcUoycUVVU1I5MkdieWZoTlVXSVFmZjUyd0VGWjZ1ZjNjTTVMVW11Yk5qT2VUTXBrZHI0aUtBQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Sep 23, 02:08 AM ET",
     "publishedAt": "2026-09-23T06:08:00+00:00",
     "source": "Techzine Global",
@@ -218,13 +194,25 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 22, 05:00 PM ET",
-    "publishedAt": "2026-09-22T21:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "time": "Sep 22, 03:06 PM ET",
+    "publishedAt": "2026-09-22T19:06:04+00:00",
+    "source": "Pulse 2.0",
+    "title": "OpenAI Launches GPT-6 Sol And Luna With 50% Lower API Pricing",
+    "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wdTN1MVdkb2tJZGZldm1KNFhaQUt5bUJPbU1zTDkyeTR2U0R2Nzh1ZXpIZ3lhSTBMSVJJSlM5ZFhRY2Z5UTNJSXpnQm42aEl4QlM4a1RNMnZVaTYzX1pwTlNYZknSAWpBVV95cUxNNjhkNkJFaGlrV2RWb1ZfSF9yOTJCWEhzS2F4dFdUZi0xR2N4dTNDRnctdFp6eXk1SHpwYmxMOFM3UV9ERkRXNlJwUUphVFp3Ti1ONzBlTFVVRS1RN3V4aUZIblFKNU42eDh3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 22, 02:23 PM ET",
+    "publishedAt": "2026-09-22T18:23:57+00:00",
+    "source": "cnbc.com",
+    "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+    "summary": "cnbc.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5",
     "difficulty": "News"
   },
   {
@@ -249,6 +237,18 @@
     "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTktvX19jdFJXNk1zWk9uQ01FWm84c1dhWGZMaWlkeFpKRHdlVUtnRUZRdjBueGlXTUlteFI1Z2diRHhsUHdYTmlKZ0hnMHZNdm9LUDZWdGlXc3VZSlpfakQyZ1BDQ1BuSUJlTFEwMlpXN3Zlb3JPLWFjT0k2YW9XQTVIcVIxYWUtM01hR3VaR05lVHFoTUJkQjdOUWVuSnJXbUJpRV9kSnBxQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 22, 02:07 PM ET",
+    "publishedAt": "2026-09-22T18:07:05+00:00",
+    "source": "openai.com",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
     "difficulty": "News"
   },
   {
