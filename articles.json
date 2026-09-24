@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 24, 07:36 AM ET",
+    "publishedAt": "2026-09-24T11:36:08+00:00",
+    "source": "techrepublic.com",
+    "title": "GPT-6 Sol vs Claude Opus 5.5: Coding, Pricing, and AI Agents",
+    "summary": "techrepublic.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aQjJnYlViYUw0LU1QMDFCbTgzNUhJTHoxNWpSdGg2ZlU2OEh2RWhKdzBTMHFsYzA3aVQyak9NLUN1Q1l5SHh5VWJrb21fQTJnSmk1Y2o1LXl4alJMMkJsclAwVHpxZnJJODdfWXFpRTVYaWdiUkpjN2pxYw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 24, 04:02 AM ET",
@@ -45,18 +57,6 @@
     "summary": "shattered.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GLUdFNnNRYkZ6NVBpR21xTV9xMmdlQUdGS2FvZVJSS09zUm0xYlp5QXpEYjl1VklCSV9qc2lKVklaRWplWU5yN3pfak9LYjNPSUdiOHhlLVNLMGdpdDVkV1MwMDZmb2FZbzZJUw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 24, 01:31 AM ET",
-    "publishedAt": "2026-09-24T05:31:11+00:00",
-    "source": "quasa.io",
-    "title": "Claude Opens Vetted Biology Access With 30-Day Retention",
-    "summary": "quasa.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNnViU1hKaThRS0dSRDB6WUJJcWVaeGRibHpSRUw5Vkx6aDZadzkwcTl3bEptcmczeTY3UVBURm94c0Nsc1h4MkRTYllobTBZeHQ3MDA1cS03UmpkcGhySDYzVzRiWWRyQ255ajBHbnZkTkhUd1dJQm9iZ2QyeXMwYXk3TVQ1Zkc4YWdBRUlB?oc=5",
     "difficulty": "News"
   },
   {
@@ -168,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 23, 01:18 AM ET",
-    "publishedAt": "2026-09-23T05:18:36+00:00",
-    "source": "MarkTechPost",
-    "title": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUxrQWtZa29UdVA4OVV2NnhUaG1tV0N6TmNneU9PWnNfbm03c1pSX0l5MWlsNVpleFNPa21tTGpuTjlIeTZKMXhrT2dLSWVsNXBPNlhVN2huZTljS3JpQlJZd0tVd2ZMc1B4cUxSRGY2MmNBVGZ1WElFaVVneDNxZm4xbF9HUDNwUWI5RlFuQ3NXckhxbFpRVWtRd2ROWmdHMGhEQzZfSUVEWktIYzRQbFFlY9IBuAFBVV95cUxPaFFpQUxPNVdfV0NUSVc3bTh4Mm9pQktkV2w3OHZhbWZXcWZ4MUpKN2VZeTBZVmxHR0JabTRITHAwYUw1M2J5QWJ3dTNVS1BsNEdpOVVKYnNENVRxT2FHWkZfVnpWNXo1Zm42Mjk4MnN2dzMtQ2tXRTFTOS02RXRmODJaSFFEQ1JOUFpWN2NheVl4ZlFoSjB6Z3dBMUdFcVoxbzVxUnZxSm5JbFB3X2xWaGxwRGp3eFZs?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 22, 07:25 PM ET",
@@ -189,6 +177,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 22, 04:40 PM ET",
+    "publishedAt": "2026-09-22T20:40:03+00:00",
+    "source": "Yahoo Finance",
+    "title": "OpenAI Introduces GPT-6 Sol And Luna, Slashing API Prices 50% To Bring Advanced AI To More Users",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMG9KM1dYMzdNZUpQRHQycW9XWXFSaU9nZzBQWUFrUmVPbVdTcHloakVjR3ZKaVhNcEZTbmxSSGxyMmFtSm15Ym1qWl90RU5XalZaMGlqLXZsa0xyc1RnTlpRUThSMld1T3psX0ZIUUZ3bXF5MnBmcDV5X1lUVEt4ZHBkNHd2d0pVZDJZUzB1RjhpeGduZmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -208,9 +208,9 @@
     "label": "Claude Code",
     "time": "Sep 22, 02:23 PM ET",
     "publishedAt": "2026-09-22T18:23:57+00:00",
-    "source": "CNBC",
+    "source": "cnbc.com",
     "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "summary": "cnbc.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5",
     "difficulty": "News"
@@ -244,9 +244,9 @@
     "label": "Claude Code",
     "time": "Sep 22, 01:28 PM ET",
     "publishedAt": "2026-09-22T17:28:01+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "aws.amazon.com",
     "title": "Claude Opus 5.5 is now available on AWS | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF84Y3BrZ1ZCZC1FLWwtVi1VcGJBU0xpQmpKSlBsenowckNCRnFsa2FkdmRDb25oTGx0Q0VXbG02MFh0NUg5NlptUmdTcDU2WmdONERITlZlVFNSZzNjakw4dE4yQWUtbHlqQ041VlRnZU8yUVZmejd6bVl1QmlZaXIxc09nbXNQT1lfNU1Eaw?oc=5",
     "difficulty": "News"
@@ -352,9 +352,9 @@
     "label": "Codex / LLM Code",
     "time": "Aug 17, 03:00 AM ET",
     "publishedAt": "2026-08-17T07:00:00+00:00",
-    "source": "GeekWire",
+    "source": "geekwire.com",
     "title": "GitHub outage disrupts developers worldwide in latest setback for Microsoft coding platform",
-    "summary": "GeekWire is reporting this update. Open the article for the full story.",
+    "summary": "geekwire.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHZaWWpickU1VEhJWGMzTkdIWFpOWndic3hHeGZJcmRocmI2Q1ZZUDI0Ni1KWU5oNEpsTG5DVUdtb1dsQ1MzMEUtM2FEaENjczNwc0tldDFCcUZqMXJweTMxUDF3dFhXeThYR01MckhKZ2tJVi14bWNTZUdBdXQ2cm5PanB4MVFFMU83VXVjWmhEcVBFYThfSnNxX01NRVNseFRqbGVadEx3OHBYNmVmSUtORU9jc3R3YTNrdzBiOA?oc=5",
     "difficulty": "News"
