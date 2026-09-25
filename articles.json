@@ -1,14 +1,26 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 25, 11:58 AM ET",
-    "publishedAt": "2026-09-25T15:58:57+00:00",
-    "source": "PPC Land",
-    "title": "Claude gains 540% in visits with 0.46% from paid traffic, Similarweb finds",
-    "summary": "PPC Land is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 25, 04:11 PM ET",
+    "publishedAt": "2026-09-25T20:11:23+00:00",
+    "source": "CIO Dive",
+    "title": "Microsoft retools Copilot with coding, AI agent capabilities",
+    "summary": "CIO Dive is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkFWSVpOcU92UVRjTEY5Qy04d1dhaDJqU3U4eWZGblRaUFpNVDZ0LVJWejRucWJaclhxRW1MNXNybzdROFBVRjRmNHg2Nnh3Q1pkRVl0T1BsZzdtYTM1X3VJdHBRV0dTdGJhc2wzM3phWUlRZ0N1VE5DNjhNUjZYZzdZZERzMjhsTmxvRjN2eDdSLTA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 25, 11:25 AM ET",
+    "publishedAt": "2026-09-25T15:25:08+00:00",
+    "source": "NDTV",
+    "title": "Microsoft Revamps Copilot, Introduces Coding Tool, Always-On AI Agent",
+    "summary": "NDTV is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcWVjWGROU0ZVZWFOU0c0SlRBR0JJc3VJLWJmRXhENkZjWkpUUWZGLVZKUHp6YVBUeWJCdm5OdnNWTmtQQjlFVXUtQ2NNUHpIaGlGcWZfY3d0bFRuNWlpOTdqY1lSMlU4WnVFT25sR3RzUllFNjFnOVduOUVxbllIa0pBN2xsNllMLTJ4eUI3Z1FrOGdrekJrM19aMUttd1JkSkZzTVg5dE9saUtp0gG0AUFVX3lxTE1CeGNONU1KdVExX2g5SUdaSmFVOTFxT1pNd0tBUE5vWnhkcG43WEVWRks1Nk5WbVRoMXpMRk1NRHlXMkNEZnYzaFRiOTZIVEx6Q2JHZXJsX3NzeVdBcndZeTFRQXR6aG1SX1JFRkxwWVV0RjJfVVNzLXphVzVQVnlnU0FwQmtmbmRqQmIweGRVZW5lN3hkaFZTNXZXaERlajVObGp0NlNrSG5jR1EzcEV2eVdaRg?oc=5",
     "difficulty": "News"
   },
   {
@@ -28,9 +40,9 @@
     "label": "Gemini",
     "time": "Sep 25, 10:49 AM ET",
     "publishedAt": "2026-09-25T14:49:42+00:00",
-    "source": "sitepoint.com",
+    "source": "SitePoint",
     "title": "Gemini 3.8 Flash Reasoning Effort & Latency Tuning in TypeScript",
-    "summary": "sitepoint.com is reporting this update. Open the article for the full story.",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSDEtc3ZKemxqUXpJdENBRklNaVg2QWZrZUZqblJ6U1ZVclE4RnVxTVN0cjkxQnVodDlNZ3JUUzVMV2lCTUplMjk1YUVBT1dOYkZoekhLUnRQSVZvdzdqd2NmRGpieXpXZlhYeEFzZGc0X3hla2RzVFU4VXUyd2hXbUc1cDRRYnBmREJCdkhyOU9pQUNsbkRvUURlUUtMd3l0ZmRWaA?oc=5",
     "difficulty": "News"
@@ -41,22 +53,10 @@
     "time": "Sep 25, 10:37 AM ET",
     "publishedAt": "2026-09-25T14:37:13+00:00",
     "source": "tech-insider.org",
-    "title": "GitHub Copilot vs Cursor vs Claude Code 2026 Compared",
+    "title": "GitHub Copilot vs Cursor vs Claude Code: 1,762 Elo Gap [2026]",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wVG9KSGowZ1cxU2pLMlBYY2hKOTVubERvVzg2RzR3UEJkeGF0Y19pd2IxcFN3ZzhYVXp1UDhwVHNUdFVzdC1lMUZCb3ZwdHloSGRuSG9fMDZjeUxwS1hCLTdJZGl3eE9IRHJqS3BJT3RrTGgwOUxEcWpR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 25, 10:09 AM ET",
-    "publishedAt": "2026-09-25T14:09:15+00:00",
-    "source": "BNN Bloomberg",
-    "title": "Microsoft revamps Copilot with code generation, agentic AI tools",
-    "summary": "BNN Bloomberg is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUkJ4WFNVbnQySnpIZzAwR1VtSXh4ZGxqdDVsMVBVS1VCX29wWXAzc2s5MFN1WEdrZWdJSXVYRC1MaWtGMlB1ejNVTGQydUNaS1VLSXBwZG9kRTJPT2J4bjQ4ZTgySmJtcDNkOTlSQ3ZZLXhHVmNpN3RYSllyWEZwZ0U1eXhqRXljcUtHQlo0aFh2UlpoZFc5ZzBuMUxERmVhcDhyV1oyRzQ3YUpwbFJMbjJCV295NEV2TnhHWnpGRGtzVms?oc=5",
     "difficulty": "News"
   },
   {
@@ -84,6 +84,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 25, 08:17 AM ET",
+    "publishedAt": "2026-09-25T12:17:36+00:00",
+    "source": "Petri IT Knowledgebase",
+    "title": "Microsoft Copilot App Gets Home, Code, and Autopilot Features to Expand Automation",
+    "summary": "Petri IT Knowledgebase is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tekxkUTRDS08zQVBkM1Jjb2ZncDhBc05qbUxBQU5GbG1MdUZWZE1LdnpDRUliX2w1S2hIU2JFVzU4VzNLa3BvaTFjMXdDVlJJeUw1ZFJja1VtaDI4cTYyNXhFb1dEWFZuZW5WcHg1RQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 25, 08:00 AM ET",
@@ -93,18 +105,6 @@
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaE56cEZlT0tlaGw5Mno4QUZnTUFKT3Jod2ZQZEZsSmtxVWg0Vy10M2hwMU1acjNqamZ4LXZ6cS1nNkI2aURrRklYaEFmVVVvZEhWUURVOWhfcEwtZUVDck04WGhuX2ZZd0Rsa0dfMnlhNHExQlVsdDVmOF95V2_SAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 25, 03:43 AM ET",
-    "publishedAt": "2026-09-25T07:43:38+00:00",
-    "source": "Slator",
-    "title": "Google Launches New Models for Dubbing, ‘Creative’ Voices",
-    "summary": "Slator is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94ZTNFWUFVQVZOYTZQXzlRRlNrS1ZySXk2eWs2ZkVvc3VvX1BhRS1WYWhabWZxdFAtQ0JhUHlNN3VHdTN6bjVaZkJ3U28xT3VNQU5LRGxLT2dhWDNfY1k4LVRHeFk?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,51 +120,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 24, 07:46 AM ET",
-    "publishedAt": "2026-09-24T11:46:55+00:00",
-    "source": "TechRepublic",
-    "title": "GPT-6 Sol vs Claude Opus 5.5: Coding, Pricing, and AI Agents",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aQjJnYlViYUw0LU1QMDFCbTgzNUhJTHoxNWpSdGg2ZlU2OEh2RWhKdzBTMHFsYzA3aVQyak9NLUN1Q1l5SHh5VWJrb21fQTJnSmk1Y2o1LXl4alJMMkJsclAwVHpxZnJJODdfWXFpRTVYaWdiUkpjN2pxYw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 23, 08:10 PM ET",
-    "publishedAt": "2026-09-24T00:10:18+00:00",
-    "source": "tech-insider.org",
-    "title": "Anthropic Engineer Explains Why Claude Writing Got Worse [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnpTRGFzS1Y3TDV1YjlHYlk5dU5wS0pTeDNqcUhjQ2lHSVktNkI5dTl3aE55OWJ1Wm1pYW5lYUw5cVcwbDRfVmJCanlBT0ktRk9oNkN6blZFNHRGZWFka2JOWWtqOEx0VF9hMF8tUnlNWmt5UHZVanVGaEMyM0lGSmU0R2Y?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 23, 03:13 PM ET",
-    "publishedAt": "2026-09-23T19:13:13+00:00",
-    "source": "Oracle Blogs",
-    "title": "Connect Claude to your Oracle Integration tools",
-    "summary": "Oracle Blogs is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTRqTlZNY3BWVmZNX3NZWVdObW5OTktfNzBCVW91ODVwWjUtTWFXbWlDblN1d1Z1NmVRb3FrYzNBMXN2WXZkLU9ES3RjWFh1QkxhNFctS2tZT1JyZFBlNWFkeXhHLXQzZy10UEpiWG10YkNaa2JUTFFXU0l2cU1MVnlYVlRmclhHdHZYdA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 23, 01:22 PM ET",
-    "publishedAt": "2026-09-23T17:22:46+00:00",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 24, 01:37 AM ET",
+    "publishedAt": "2026-09-24T05:37:33+00:00",
     "source": "shattered.io",
-    "title": "Claude Opus 5.5: Free Plan Excluded, Pro Gets It [2026]",
+    "title": "Gemini 3.8 Flash TTS Lets You Design AI Voices From Text",
     "summary": "shattered.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KVzFFeHpwWHI4NkljdnA1OEI0VmZCZUFPZnVxR2loVk5SdDUzTWx2YzlPZ1YzNzROLWEtYkwxZUxuemgtcG5Tc3ktU05WWFlkTXRUU205TW1vX2hTU0xwSnJtbDI5SHNFVnBfWUFn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GLUdFNnNRYkZ6NVBpR21xTV9xMmdlQUdGS2FvZVJSS09zUm0xYlp5QXpEYjl1VklCSV9qc2lKVklaRWplWU5yN3pfak9LYjNPSUdiOHhlLVNLMGdpdDVkV1MwMDZmb2FZbzZJUw?oc=5",
     "difficulty": "News"
   },
   {
@@ -240,30 +204,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 22, 07:25 PM ET",
-    "publishedAt": "2026-09-22T23:25:46+00:00",
-    "source": "anthropic.com",
-    "title": "Introducing Claude Opus 5.5",
-    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 22, 03:14 PM ET",
-    "publishedAt": "2026-09-22T19:14:08+00:00",
-    "source": "The Next Web",
-    "title": "OpenAI cuts GPT-6 prices in half with Sol and Luna",
-    "summary": "The Next Web is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sQTF1djB1ZDFTVlRiU2RvbFJhLVduTXkxOWVCR09jSEZ0Q1FEbmlWWjlYcTVBSk5QVWpsQWx2N2IxZVc1RGp1TXN3UU5kMnZJeTl6UnkwQldsUGJzSUNGSG9kVXRTVmM2M3JmdmNYQ1Q?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 22, 03:06 PM ET",
@@ -273,18 +213,6 @@
     "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wdTN1MVdkb2tJZGZldm1KNFhaQUt5bUJPbU1zTDkyeTR2U0R2Nzh1ZXpIZ3lhSTBMSVJJSlM5ZFhRY2Z5UTNJSXpnQm42aEl4QlM4a1RNMnZVaTYzX1pwTlNYZknSAWpBVV95cUxNNjhkNkJFaGlrV2RWb1ZfSF9yOTJCWEhzS2F4dFdUZi0xR2N4dTNDRnctdFp6eXk1SHpwYmxMOFM3UV9ERkRXNlJwUUphVFp3Ti1ONzBlTFVVRS1RN3V4aUZIblFKNU42eDh3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 22, 03:05 PM ET",
-    "publishedAt": "2026-09-22T19:05:41+00:00",
-    "source": "VentureBeat",
-    "title": "Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcml5V2NScmlDMmg0VXdZR3AyXzJlTHlzRnJ5S05mMHNxQ2ZjSmwwV2tVcWx5RXE4V3JJWWh3MXlKdXdlNno4MVAwaGdXcVVJYm9TNGx5bWgxZjM1dm1VR0ppRGNsRTVZc1UwVkJuRmIwLTFoYnJkUE9sU0taS3Z2dVd6X1VwMEc3SVlJNDhyWWtSMGdlRC01VGQ0bngtWDhLY2ZzSUU3SWFJcnNSRldWdnVHejRKdV9GOEhOUzNiUFFHQmd4Mko0ZjctT0k0STJzVm93?oc=5",
     "difficulty": "News"
   },
   {
@@ -316,23 +244,23 @@
     "label": "ChatGPT",
     "time": "Sep 22, 02:22 PM ET",
     "publishedAt": "2026-09-22T18:22:38+00:00",
-    "source": "VentureBeat",
+    "source": "venturebeat.com",
     "title": "OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTktvX19jdFJXNk1zWk9uQ01FWm84c1dhWGZMaWlkeFpKRHdlVUtnRUZRdjBueGlXTUlteFI1Z2diRHhsUHdYTmlKZ0hnMHZNdm9LUDZWdGlXc3VZSlpfakQyZ1BDQ1BuSUJlTFEwMlpXN3Zlb3JPLWFjT0k2YW9XQTVIcVIxYWUtM01hR3VaR05lVHFoTUJkQjdOUWVuSnJXbUJpRV9kSnBxQQ?oc=5",
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 22, 01:28 PM ET",
-    "publishedAt": "2026-09-22T17:28:01+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Claude Opus 5.5 is now available on AWS | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 21, 01:05 PM ET",
+    "publishedAt": "2026-09-21T17:05:01+00:00",
+    "source": "OpenAI",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF84Y3BrZ1ZCZC1FLWwtVi1VcGJBU0xpQmpKSlBsenowckNCRnFsa2FkdmRDb25oTGx0Q0VXbG02MFh0NUg5NlptUmdTcDU2WmdONERITlZlVFNSZzNjakw4dE4yQWUtbHlqQ041VlRnZU8yUVZmejd6bVl1QmlZaXIxc09nbXNQT1lfNU1Eaw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVSkFfdW9HeG91ZzhvYk5RVTJqNm1OSG1hYml5SS01TWFRTnBfVzdYZjJTNmc1b3FCZ1IxWUUxcUJyNEFReGV0dHVUb3F2UF9Kck5NN1Z3NlNMcmpQSjEzRTZlZzJjZ0hjMVQ5TGxoWWROWWtadGVmSWlTd204ZkU?oc=5",
     "difficulty": "News"
   },
   {
@@ -348,18 +276,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 18, 03:00 AM ET",
-    "publishedAt": "2026-09-18T07:00:00+00:00",
-    "source": "Hostinger",
-    "title": "22 best AI coding tools for developers and beginners",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qOW40ZHIyQ2U5czJSTkJhc05SQUJISE0tM0pFLWUzcUdjVVlyUjFxeDBqei1tdjNDQmY2RnZWNmhhVUlNQ0FJU2hKdk9BY0dpanNWRVlDdXdGTno3NzJtNEN5OXQtYmhYNjRvTw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 15, 03:00 AM ET",
@@ -369,18 +285,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 28, 03:00 AM ET",
-    "publishedAt": "2026-08-28T07:00:00+00:00",
-    "source": "Reuters",
-    "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-    "summary": "Reuters is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
     "difficulty": "News"
   }
 ]
