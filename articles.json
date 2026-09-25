@@ -12,27 +12,27 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 25, 11:25 AM ET",
-    "publishedAt": "2026-09-25T15:25:08+00:00",
-    "source": "NDTV",
-    "title": "Microsoft Revamps Copilot, Introduces Coding Tool, Always-On AI Agent",
-    "summary": "NDTV is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcWVjWGROU0ZVZWFOU0c0SlRBR0JJc3VJLWJmRXhENkZjWkpUUWZGLVZKUHp6YVBUeWJCdm5OdnNWTmtQQjlFVXUtQ2NNUHpIaGlGcWZfY3d0bFRuNWlpOTdqY1lSMlU4WnVFT25sR3RzUllFNjFnOVduOUVxbllIa0pBN2xsNllMLTJ4eUI3Z1FrOGdrekJrM19aMUttd1JkSkZzTVg5dE9saUtp0gG0AUFVX3lxTE1CeGNONU1KdVExX2g5SUdaSmFVOTFxT1pNd0tBUE5vWnhkcG43WEVWRks1Nk5WbVRoMXpMRk1NRHlXMkNEZnYzaFRiOTZIVEx6Q2JHZXJsX3NzeVdBcndZeTFRQXR6aG1SX1JFRkxwWVV0RjJfVVNzLXphVzVQVnlnU0FwQmtmbmRqQmIweGRVZW5lN3hkaFZTNXZXaERlajVObGp0NlNrSG5jR1EzcEV2eVdaRg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 25, 11:14 AM ET",
-    "publishedAt": "2026-09-25T15:14:14+00:00",
+    "time": "Sep 25, 02:39 PM ET",
+    "publishedAt": "2026-09-25T18:39:57+00:00",
     "source": "MIXED Reality News",
     "title": "OpenAI halves GPT-6 Sol and Luna API prices, and says Sol beats Opus 5 at 9% of the cost",
     "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbVpkVWtpSHVZdGVxSktJODFocnFscFhyR0RocGV4YWd2a250OHdFQUFQS1dlSUxGTXhaOEhKSzhkT3dRQ3hGRlBMTzlLR1lFWi1yb19FeVFEX2dBYjZiN3lSeUFQNWxJN3FscjAzTlhMd1VFU0dzVDZkVlBCM2gydW9Vb2E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 25, 01:54 PM ET",
+    "publishedAt": "2026-09-25T17:54:46+00:00",
+    "source": "PPC Land",
+    "title": "Claude gains 540% in visits with 0.46% from paid traffic, Similarweb finds",
+    "summary": "PPC Land is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkFWSVpOcU92UVRjTEY5Qy04d1dhaDJqU3U4eWZGblRaUFpNVDZ0LVJWejRucWJaclhxRW1MNXNybzdROFBVRjRmNHg2Nnh3Q1pkRVl0T1BsZzdtYTM1X3VJdHBRV0dTdGJhc2wzM3phWUlRZ0N1VE5DNjhNUjZYZzdZZERzMjhsTmxvRjN2eDdSLTA?oc=5",
     "difficulty": "News"
   },
   {
@@ -62,6 +62,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Sep 25, 09:51 AM ET",
+    "publishedAt": "2026-09-25T13:51:28+00:00",
+    "source": "Reuters",
+    "title": "Microsoft revamps Copilot with code generation, agentic AI tools",
+    "summary": "Reuters is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Sep 25, 08:58 AM ET",
     "publishedAt": "2026-09-25T12:58:53+00:00",
     "source": "qz.com",
@@ -74,23 +86,11 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Sep 25, 08:35 AM ET",
-    "publishedAt": "2026-09-25T12:35:00+00:00",
-    "source": "finance.biggo.com",
-    "title": "Microsoft Overhauls Copilot Into AI Work Hub With Coding and Autonomous Agents",
-    "summary": "finance.biggo.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QUEk1SXQ3R2Jua0RRZ2t1ak16dGNpcGhnRW0zZlpnTVRlRUpRYzJ2M3gzUFVtcFduYnBzR094SnIxM3ZiZFVOVi0wQklMSmcyUmluTkNIQkdCYXRfUHBTWVpFLWdwbi1wQXJCTi0taktwS0hJckE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Sep 25, 08:17 AM ET",
     "publishedAt": "2026-09-25T12:17:36+00:00",
-    "source": "Petri IT Knowledgebase",
+    "source": "petri.com",
     "title": "Microsoft Copilot App Gets Home, Code, and Autopilot Features to Expand Automation",
-    "summary": "Petri IT Knowledgebase is reporting this update. Open the article for the full story.",
+    "summary": "petri.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tekxkUTRDS08zQVBkM1Jjb2ZncDhBc05qbUxBQU5GbG1MdUZWZE1LdnpDRUliX2w1S2hIU2JFVzU4VzNLa3BvaTFjMXdDVlJJeUw1ZFJja1VtaDI4cTYyNXhFb1dEWFZuZW5WcHg1RQ?oc=5",
     "difficulty": "News"
@@ -110,6 +110,18 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
+    "time": "Sep 25, 08:00 AM ET",
+    "publishedAt": "2026-09-25T12:00:00+00:00",
+    "source": "VentureBeat",
+    "title": "Microsoft revamps its Copilot AI with a persistent Autopilot agent and hosting for AI-generated apps",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXltN1FUMFM3NTk1Zlp4TXFjRGt6SzBEdjI1Uk5EVE1NRnpHRTFMZGNqaFY3ZXRKajZnVUtWNG5ablJjS1NleUdzMm9oX2o2NEFRUjFPZk9hdWFpd1Zxa003VHdoNXB6ZC1fYmpUcXcxNTVOYVdSQVdyNlNHRUlLbDN4UDBDdlA5RF9kMFVGbHpvOW1FV2hIcmNvUjFCazlMY2c0amtONndWWEhsRTdIaE1Ya05EaF9QV3ZnS3ZWZERVSll5SUZZT2ZZd081UFl2?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
     "time": "Sep 24, 11:00 AM ET",
     "publishedAt": "2026-09-24T15:00:53+00:00",
     "source": "GitGuardian Blog",
@@ -117,6 +129,18 @@
     "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XRDg2SC1pcVpaQkVDX1N6V2tmR1NSUFN4QVpmUnpVM3d4M0tabEFrUW1vaUlhOWRrLWQwUk1RS0hXc2gwSHM5MnRCdXQxVWxpVWcxdTVfbFFwekdWTkRlN3FoSVVrRThHTVhMV1hacDAwRmV5?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 24, 07:46 AM ET",
+    "publishedAt": "2026-09-24T11:46:55+00:00",
+    "source": "TechRepublic",
+    "title": "GPT-6 Sol vs Claude Opus 5.5: Coding, Pricing, and AI Agents",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aQjJnYlViYUw0LU1QMDFCbTgzNUhJTHoxNWpSdGg2ZlU2OEh2RWhKdzBTMHFsYzA3aVQyak9NLUN1Q1l5SHh5VWJrb21fQTJnSmk1Y2o1LXl4alJMMkJsclAwVHpxZnJJODdfWXFpRTVYaWdiUkpjN2pxYw?oc=5",
     "difficulty": "News"
   },
   {
@@ -129,6 +153,42 @@
     "summary": "shattered.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GLUdFNnNRYkZ6NVBpR21xTV9xMmdlQUdGS2FvZVJSS09zUm0xYlp5QXpEYjl1VklCSV9qc2lKVklaRWplWU5yN3pfak9LYjNPSUdiOHhlLVNLMGdpdDVkV1MwMDZmb2FZbzZJUw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 23, 08:10 PM ET",
+    "publishedAt": "2026-09-24T00:10:18+00:00",
+    "source": "tech-insider.org",
+    "title": "Anthropic Engineer Explains Why Claude Writing Got Worse [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnpTRGFzS1Y3TDV1YjlHYlk5dU5wS0pTeDNqcUhjQ2lHSVktNkI5dTl3aE55OWJ1Wm1pYW5lYUw5cVcwbDRfVmJCanlBT0ktRk9oNkN6blZFNHRGZWFka2JOWWtqOEx0VF9hMF8tUnlNWmt5UHZVanVGaEMyM0lGSmU0R2Y?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 23, 03:13 PM ET",
+    "publishedAt": "2026-09-23T19:13:13+00:00",
+    "source": "Oracle Blogs",
+    "title": "Connect Claude to your Oracle Integration tools",
+    "summary": "Oracle Blogs is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTRqTlZNY3BWVmZNX3NZWVdObW5OTktfNzBCVW91ODVwWjUtTWFXbWlDblN1d1Z1NmVRb3FrYzNBMXN2WXZkLU9ES3RjWFh1QkxhNFctS2tZT1JyZFBlNWFkeXhHLXQzZy10UEpiWG10YkNaa2JUTFFXU0l2cU1MVnlYVlRmclhHdHZYdA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 23, 01:22 PM ET",
+    "publishedAt": "2026-09-23T17:22:46+00:00",
+    "source": "shattered.io",
+    "title": "Claude Opus 5.5: Free Plan Excluded, Pro Gets It [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KVzFFeHpwWHI4NkljdnA1OEI0VmZCZUFPZnVxR2loVk5SdDUzTWx2YzlPZ1YzNzROLWEtYkwxZUxuemgtcG5Tc3ktU05WWFlkTXRUU205TW1vX2hTU0xwSnJtbDI5SHNFVnBfWUFn?oc=5",
     "difficulty": "News"
   },
   {
@@ -184,9 +244,9 @@
     "label": "ChatGPT",
     "time": "Sep 23, 07:13 AM ET",
     "publishedAt": "2026-09-23T11:13:51+00:00",
-    "source": "Yahoo Finance",
+    "source": "finance.yahoo.com",
     "title": "OpenAI cuts GPT-6 Sol and Luna API prices by 50%",
-    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "summary": "finance.yahoo.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0RpV1NkOHd2cGFfbHJmOTBDdEVFdC04TXZ4dVZsOTFXaEE4VHBsMzhUZTdwZ3F2TnRiMEdlWkRQUHZ4SEdlLXB3R1E4VXJ4U1dRSFhMQTltNmQtclJLUG9FXzhORmUxbFBmVmhHX2tzbW9RdkxFRHE3d3Nrbm15c2M3RzBiaDlkRlFMQl93?oc=5",
     "difficulty": "News"
@@ -201,6 +261,30 @@
     "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdkVYTVVZWVlhcmNLYXh2ZVZKeW1Nb3pOSDVqUnAxdXJhaGctUmJrTWViNlJtOEw0Sk91SU5FT0tNRE5sOVA2MDJPemR1RGwtS2xSZFR1VFEtaVJtVVI1N1E2WjdYWWY3QmJNSG1xMDBhTjZ4SDF4NTNiX3lpR2VxWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 22, 07:25 PM ET",
+    "publishedAt": "2026-09-22T23:25:46+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Opus 5.5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 22, 03:14 PM ET",
+    "publishedAt": "2026-09-22T19:14:08+00:00",
+    "source": "The Next Web",
+    "title": "OpenAI cuts GPT-6 prices in half with Sol and Luna",
+    "summary": "The Next Web is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sQTF1djB1ZDFTVlRiU2RvbFJhLVduTXkxOWVCR09jSEZ0Q1FEbmlWWjlYcTVBSk5QVWpsQWx2N2IxZVc1RGp1TXN3UU5kMnZJeTl6UnkwQldsUGJzSUNGSG9kVXRTVmM2M3JmdmNYQ1Q?oc=5",
     "difficulty": "News"
   },
   {
@@ -244,23 +328,23 @@
     "label": "ChatGPT",
     "time": "Sep 22, 02:22 PM ET",
     "publishedAt": "2026-09-22T18:22:38+00:00",
-    "source": "venturebeat.com",
+    "source": "VentureBeat",
     "title": "OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more",
-    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTktvX19jdFJXNk1zWk9uQ01FWm84c1dhWGZMaWlkeFpKRHdlVUtnRUZRdjBueGlXTUlteFI1Z2diRHhsUHdYTmlKZ0hnMHZNdm9LUDZWdGlXc3VZSlpfakQyZ1BDQ1BuSUJlTFEwMlpXN3Zlb3JPLWFjT0k2YW9XQTVIcVIxYWUtM01hR3VaR05lVHFoTUJkQjdOUWVuSnJXbUJpRV9kSnBxQQ?oc=5",
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 21, 01:05 PM ET",
-    "publishedAt": "2026-09-21T17:05:01+00:00",
-    "source": "OpenAI",
-    "title": "Expanding OpenAI Academy with new learning paths",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 22, 01:28 PM ET",
+    "publishedAt": "2026-09-22T17:28:01+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Claude Opus 5.5 is now available on AWS | Artificial Intelligence",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVSkFfdW9HeG91ZzhvYk5RVTJqNm1OSG1hYml5SS01TWFRTnBfVzdYZjJTNmc1b3FCZ1IxWUUxcUJyNEFReGV0dHVUb3F2UF9Kck5NN1Z3NlNMcmpQSjEzRTZlZzJjZ0hjMVQ5TGxoWWROWWtadGVmSWlTd204ZkU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF84Y3BrZ1ZCZC1FLWwtVi1VcGJBU0xpQmpKSlBsenowckNCRnFsa2FkdmRDb25oTGx0Q0VXbG02MFh0NUg5NlptUmdTcDU2WmdONERITlZlVFNSZzNjakw4dE4yQWUtbHlqQ041VlRnZU8yUVZmejd6bVl1QmlZaXIxc09nbXNQT1lfNU1Eaw?oc=5",
     "difficulty": "News"
   },
   {
