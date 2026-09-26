@@ -1,5 +1,41 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 26, 12:27 PM ET",
+    "publishedAt": "2026-09-26T16:27:32+00:00",
+    "source": "Substack",
+    "title": "AI Week in Review 26.09.26",
+    "summary": "Substack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xc0tjQ1ZEc2FPRjVFZmpTQ24zWGtXTk9Bc0tFX3lNNWJzRWxVcHNaQ3duSEY2YjJXbFUzazd4Zm03Ml9NMFViTk93OUEwd2N1ZzNkY25rMEFTLTFjVFNIX1BiRzE1NWlpTno3cGJ3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 26, 10:25 AM ET",
+    "publishedAt": "2026-09-26T14:25:48+00:00",
+    "source": "tech-insider.org",
+    "title": "1Password for Claude: AI Agent Logins in 13 Steps [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUFtUS1iVmU3amFCMFZyOG1zQVNXdTZwa3dBU0VyZlhwa3lQeVpqa3JFaTJ1Yk5kQnNuTlZ1c19RcUpLSmY1OEIyTm9DN3dfN2dYWmY4MVd4Z3QzNlZDMTNTdE0waFZ6ZnhJN1MwZU02cnVCNkFDYTlzVXVKRkRqVlg1OA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 26, 08:26 AM ET",
+    "publishedAt": "2026-09-26T12:26:33+00:00",
+    "source": "TestingCatalog AI News",
+    "title": "OpenAI prepares to expand Ultrafast API to more users",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYThrclNaMkw2dVJfV29ib1NoTzBXaVJKMk9UWDRxcHhBaXlNV0JFd3RRdFFLSS1SWTU2LXpESXE5QkFCU2Y0QkxSQmRhR0Z4Y2JkT2M1YXZBand3Wmh1bW9QVk9xaEFNYkxVM3hicDh1OFZxN040ODNxSzNvWWZqSGdnWGhXYXpTMThqaWpB?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 25, 10:11 PM ET",
@@ -21,30 +57,6 @@
     "summary": "CIO Dive is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 25, 02:39 PM ET",
-    "publishedAt": "2026-09-25T18:39:57+00:00",
-    "source": "MIXED Reality News",
-    "title": "OpenAI halves GPT-6 Sol and Luna API prices, and says Sol beats Opus 5 at 9% of the cost",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbVpkVWtpSHVZdGVxSktJODFocnFscFhyR0RocGV4YWd2a250OHdFQUFQS1dlSUxGTXhaOEhKSzhkT3dRQ3hGRlBMTzlLR1lFWi1yb19FeVFEX2dBYjZiN3lSeUFQNWxJN3FscjAzTlhMd1VFU0dzVDZkVlBCM2gydW9Vb2E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 25, 01:54 PM ET",
-    "publishedAt": "2026-09-25T17:54:46+00:00",
-    "source": "PPC Land",
-    "title": "Claude gains 540% in visits with 0.46% from paid traffic, Similarweb finds",
-    "summary": "PPC Land is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkFWSVpOcU92UVRjTEY5Qy04d1dhaDJqU3U4eWZGblRaUFpNVDZ0LVJWejRucWJaclhxRW1MNXNybzdROFBVRjRmNHg2Nnh3Q1pkRVl0T1BsZzdtYTM1X3VJdHBRV0dTdGJhc2wzM3phWUlRZ0N1VE5DNjhNUjZYZzdZZERzMjhsTmxvRjN2eDdSLTA?oc=5",
     "difficulty": "News"
   },
   {
@@ -112,9 +124,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 08:00 AM ET",
     "publishedAt": "2026-09-25T12:00:00+00:00",
-    "source": "VentureBeat",
+    "source": "venturebeat.com",
     "title": "Microsoft revamps its Copilot AI with a persistent Autopilot agent and hosting for AI-generated apps",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXltN1FUMFM3NTk1Zlp4TXFjRGt6SzBEdjI1Uk5EVE1NRnpHRTFMZGNqaFY3ZXRKajZnVUtWNG5ablJjS1NleUdzMm9oX2o2NEFRUjFPZk9hdWFpd1Zxa003VHdoNXB6ZC1fYmpUcXcxNTVOYVdSQVdyNlNHRUlLbDN4UDBDdlA5RF9kMFVGbHpvOW1FV2hIcmNvUjFCazlMY2c0amtONndWWEhsRTdIaE1Ya05EaF9QV3ZnS3ZWZERVSll5SUZZT2ZZd081UFl2?oc=5",
     "difficulty": "News"
@@ -129,6 +141,18 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRV9LZktVQ1p4UWJpSWtJb0ZFS0lvZkpwVTRsOW1mT3M0dkZWYk45UUg1bldiU3pkMXJyd3pSMG82Mkw2VkFmS2xjZlFqYTlNQ0owVUNwVXFPV29aS0ZpNjRzYnVpRVREaUZMdUhjYlp0R3o4cm5pYW03UVBCVG02cllBbw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 24, 12:13 PM ET",
+    "publishedAt": "2026-09-24T16:13:02+00:00",
+    "source": "AI News",
+    "title": "Google launches Gemini 3.8 Flash TTS voice models",
+    "summary": "AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGg5UmJGSXh4WkktcWhJLWFRcUJBcjdTYldEeTh3akJycjFuZXpmWk9FUDJtUVA5WU9ieWoxVkUtbHZTcThNZ29XbkoweVMxWWQ1NS1wN1lQTk82UGg2ZVZ1dEsxWGZteF9lcVBvSTJOb2hZQ3pUZlBELTZpbFpqOEJEZ0FXb3RoV2piQVJseVJyY1h0?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,25 +180,13 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 23, 08:10 PM ET",
-    "publishedAt": "2026-09-24T00:10:18+00:00",
-    "source": "tech-insider.org",
-    "title": "Anthropic Engineer Explains Why Claude Writing Got Worse [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnpTRGFzS1Y3TDV1YjlHYlk5dU5wS0pTeDNqcUhjQ2lHSVktNkI5dTl3aE55OWJ1Wm1pYW5lYUw5cVcwbDRfVmJCanlBT0ktRk9oNkN6blZFNHRGZWFka2JOWWtqOEx0VF9hMF8tUnlNWmt5UHZVanVGaEMyM0lGSmU0R2Y?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 23, 04:20 PM ET",
     "publishedAt": "2026-09-23T20:20:12+00:00",
-    "source": "marktechpost.com",
+    "source": "MarkTechPost",
     "title": "Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt-Based Voice Design",
-    "summary": "marktechpost.com is reporting this update. Open the article for the full story.",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWdaM19nci0wb0hYZkMyazNqYzctaHRERjFGOHJqSzJxcnN1c0dUMEplM0NOb1ZQMFpUNG5WUjBFOElCQTVQQTNtR0hXcTBXZjhOTk5TalQ5UGppSWpxTjBTZFZDaS14SDJ4bEZ6YTJnZ3FPYXFsLXN2SURhUzVwZDF1UGFvMG9DZ2NUS1BWZEJQVms1RFFNdUpEa3NxYVY2R3VNOUU5dWhaYTFVNDQ0bmxpT3BLcVduajJTNDFsci0wUFA5Z1HSAcsBQVVfeXFMTk1FdFVpX3dPTjBMSC1yOVhERFNSZEhIQnFCbDZEX3BQb0tuenBsak5tbnNlYWNGUEJaelNsbDhYeU1pYy1uMDREb2pZcHo3X281aG4wWWlEQm1qMlN6T19WdGxzR1dEWW1GRjVlTS1OWTZackRGX29BN2lDdXpmMmFXTENvMDVnWk12SzdKR2Z1WkRzVG1HTE1vMWh6WXVOOTRXUjhaUk13X3prNHFjOXBLYkM1bUphUGJ0NXg0S2xBaTJQMU5QNDdIWkk?oc=5",
     "difficulty": "News"
@@ -302,6 +314,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Sep 22, 03:05 PM ET",
+    "publishedAt": "2026-09-22T19:05:41+00:00",
+    "source": "venturebeat.com",
+    "title": "Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price",
+    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcml5V2NScmlDMmg0VXdZR3AyXzJlTHlzRnJ5S05mMHNxQ2ZjSmwwV2tVcWx5RXE4V3JJWWh3MXlKdXdlNno4MVAwaGdXcVVJYm9TNGx5bWgxZjM1dm1VR0ppRGNsRTVZc1UwVkJuRmIwLTFoYnJkUE9sU0taS3Z2dVd6X1VwMEc3SVlJNDhyWWtSMGdlRC01VGQ0bngtWDhLY2ZzSUU3SWFJcnNSRldWdnVHejRKdV9GOEhOUzNiUFFHQmd4Mko0ZjctT0k0STJzVm93?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Sep 22, 02:23 PM ET",
     "publishedAt": "2026-09-22T18:23:57+00:00",
     "source": "CNBC",
@@ -328,9 +352,9 @@
     "label": "ChatGPT",
     "time": "Sep 22, 02:22 PM ET",
     "publishedAt": "2026-09-22T18:22:38+00:00",
-    "source": "VentureBeat",
+    "source": "venturebeat.com",
     "title": "OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "summary": "venturebeat.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTktvX19jdFJXNk1zWk9uQ01FWm84c1dhWGZMaWlkeFpKRHdlVUtnRUZRdjBueGlXTUlteFI1Z2diRHhsUHdYTmlKZ0hnMHZNdm9LUDZWdGlXc3VZSlpfakQyZ1BDQ1BuSUJlTFEwMlpXN3Zlb3JPLWFjT0k2YW9XQTVIcVIxYWUtM01hR3VaR05lVHFoTUJkQjdOUWVuSnJXbUJpRV9kSnBxQQ?oc=5",
     "difficulty": "News"
@@ -345,30 +369,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF84Y3BrZ1ZCZC1FLWwtVi1VcGJBU0xpQmpKSlBsenowckNCRnFsa2FkdmRDb25oTGx0Q0VXbG02MFh0NUg5NlptUmdTcDU2WmdONERITlZlVFNSZzNjakw4dE4yQWUtbHlqQ041VlRnZU8yUVZmejd6bVl1QmlZaXIxc09nbXNQT1lfNU1Eaw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 21, 06:08 AM ET",
-    "publishedAt": "2026-09-21T10:08:52+00:00",
-    "source": "tech-insider.org",
-    "title": "Gemini 3.8 Flash API: Full Setup Tutorial in 10 Steps [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5WjhLYnVqWEtteS1FWVdQa05Ram1PNEcyRS1CbXNqVDY0Y2tXZl96NTZkdXk5QkRvU0ZFeWFWNHl4Zi1jcUpLOU96UzFZX1NPd2RPZlN5U00zMzk4NWc3cVllaEtEVG1ra29kSEhKSzNFYVM3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 15, 03:00 AM ET",
-    "publishedAt": "2026-09-15T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
     "difficulty": "News"
   }
 ]
