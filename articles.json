@@ -2,11 +2,47 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 27, 05:22 AM ET",
-    "publishedAt": "2026-09-27T09:22:30+00:00",
-    "source": "mixed-news.com",
+    "time": "Sep 27, 12:49 PM ET",
+    "publishedAt": "2026-09-27T16:49:26+00:00",
+    "source": "Mashable",
+    "title": "Anthropic launches Claude Opus 5.5: Benchmarks, pricing, safety",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3kyT0JlSC1QNUhOT0RtQ0VZVzFRSF9IZVE1TlhmY3RMU012NENzcm9IVXdXM0NQMmZRVVRxV0d4QmgyUHBCWXRsQ1J3OGhCZ1JPUGhJOG1ZYTdXcTBLVG5PQ1NHUzB6WEVlZFl6U2tDcUdqVkYzSndmOGxlREwtd05Fb1VIUnZpT2d3bDhKWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 27, 11:40 AM ET",
+    "publishedAt": "2026-09-27T15:40:38+00:00",
+    "source": "Pasquale Pillitteri",
+    "title": "Claude Code Stops Cutting You Off Mid-Task at the 5-Hour Limit",
+    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHltOFhmSEgzelNmdDJzVUprYWVWRTlDN0x4NFdCUmxvMWluMW5rRndyYUxzb0xDUzJoYVV4VTN4TGxYUWJKUnNSMzJGLUFidHpIcGlaek9zelVNQ2ZTek91MW5DdUpyNzNOSUJQbXBXVDdNWEJubmZ1ZG9TWG5yMDVXU1ZDcC1fWWc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 27, 06:12 AM ET",
+    "publishedAt": "2026-09-27T10:12:57+00:00",
+    "source": "tech-insider.org",
+    "title": "Set Up OpenAI Embeddings API: 13 Steps, 90 Min [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbWQxWXZrRzdGZGc4UG0yUlFMd0FpNE5NdHZJbFdocERxQ2hSOXVobklWV0g2QmJLX2d2VHNUOUhGbkg1Y0xDQWxyUm4wUzVuc0JJN25zNHZ1MW9HR1c2UWw0OUJ2cF9ycVE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 27, 05:24 AM ET",
+    "publishedAt": "2026-09-27T09:24:33+00:00",
+    "source": "MIXED Reality News",
     "title": "Anthropic now bills for refused Claude API requests, in three of five categories",
-    "summary": "mixed-news.com is reporting this update. Open the article for the full story.",
+    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOTBQdVhFMDNLc2dqZWVvdEpMTlNrYzhXc1BrVXNmQ0FZZm8wNkwwUFFuUlFlZnFhWG1pUjhCaXNpeFhBNk5EQlBhZlRYajl1SkFHd0lXaDFZTTA2a0ZNQlR6S0F5Y2FLMXAyZHBuUFFiUFh5c3pVdm40NjhucHhBZlRaTmxHcDl2SmlFMFNCM1M?oc=5",
     "difficulty": "News"
@@ -36,30 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 26, 01:48 PM ET",
-    "publishedAt": "2026-09-26T17:48:45+00:00",
-    "source": "tech-insider.org",
-    "title": "Veo 3.1 API Setup: Migrate From Sora 2 in 12 Steps [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NTEJJM3pLMGFiZzdSbVRka0VDUzVaVXFhR1prOE9iTlZkcnUyRFpDblhpc2k0aGo5RzdRTmxVNmJjVDdFTVVTNEhiN1F3WWp4dWtqeV96aXMxMzVCVkppRUE3Qm12bXcyLS15dVVBaVp3dmM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 26, 10:46 AM ET",
-    "publishedAt": "2026-09-26T14:46:29+00:00",
-    "source": "tech-insider.org",
-    "title": "Muse Code vs Claude Code vs Cursor: AI Coding Agents 2026",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9janRLZTdhakhFNEdzVmo4RXI0cUtWX3JmTGo5MXJva1I1R3Rhay1od0kyZFExYTZzRkRIeFAwdEhYa2xqeFV3WHoxZWFmUnd6VnhETTljcUY3MzdEVjNWejM5MTZPMmNzQ19IMGRYczNhV3M?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Sep 25, 04:11 PM ET",
@@ -77,7 +89,7 @@
     "time": "Sep 25, 10:37 AM ET",
     "publishedAt": "2026-09-25T14:37:13+00:00",
     "source": "tech-insider.org",
-    "title": "GitHub Copilot vs Cursor vs Claude Code 2026 Compared",
+    "title": "GitHub Copilot vs Cursor vs Claude Code: 1,762 Elo Gap [2026]",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wVG9KSGowZ1cxU2pLMlBYY2hKOTVubERvVzg2RzR3UEJkeGF0Y19pd2IxcFN3ZzhYVXp1UDhwVHNUdFVzdC1lMUZCb3ZwdHloSGRuSG9fMDZjeUxwS1hCLTdJZGl3eE9IRHJqS3BJT3RrTGgwOUxEcWpR?oc=5",
@@ -112,9 +124,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 08:17 AM ET",
     "publishedAt": "2026-09-25T12:17:36+00:00",
-    "source": "petri.com",
+    "source": "Petri IT Knowledgebase",
     "title": "Microsoft Copilot App Gets Home, Code, and Autopilot Features to Expand Automation",
-    "summary": "petri.com is reporting this update. Open the article for the full story.",
+    "summary": "Petri IT Knowledgebase is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tekxkUTRDS08zQVBkM1Jjb2ZncDhBc05qbUxBQU5GbG1MdUZWZE1LdnpDRUliX2w1S2hIU2JFVzU4VzNLa3BvaTFjMXdDVlJJeUw1ZFJja1VtaDI4cTYyNXhFb1dEWFZuZW5WcHg1RQ?oc=5",
     "difficulty": "News"
@@ -144,6 +156,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 24, 12:20 PM ET",
+    "publishedAt": "2026-09-24T16:20:14+00:00",
+    "source": "TechRepublic",
+    "title": "5 Best Claude Code Alternatives for 2026: Codex, Copilot and More",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRV9LZktVQ1p4UWJpSWtJb0ZFS0lvZkpwVTRsOW1mT3M0dkZWYk45UUg1bldiU3pkMXJyd3pSMG82Mkw2VkFmS2xjZlFqYTlNQ0owVUNwVXFPV29aS0ZpNjRzYnVpRVREaUZMdUhjYlp0R3o4cm5pYW03UVBCVG02cllBbw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 24, 12:13 PM ET",
@@ -170,6 +194,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Sep 24, 04:02 AM ET",
+    "publishedAt": "2026-09-24T08:02:00+00:00",
+    "source": "Android Authority",
+    "title": "Gemini can now clone your voice and perform scripts like an actor",
+    "summary": "Android Authority is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWRua2xLOWM2UHlwYzZkMmt5Q05vODhBR2VGQktsMlVEbGREaFphTGhrclNlMmZtbEtXNURrMVhKbXRCNk9HektCYUZzTWJpQW9zeTRvU25xZzVMSE5wTUhDLW5sdWFJQ0cwdG5KLUg0di1qanQ3c2NENVN2TnJHN3M0LWZybkMyZGt2Yk5B?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Sep 24, 01:37 AM ET",
     "publishedAt": "2026-09-24T05:37:33+00:00",
     "source": "shattered.io",
@@ -180,39 +216,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 23, 04:20 PM ET",
-    "publishedAt": "2026-09-23T20:20:12+00:00",
-    "source": "marktechpost.com",
-    "title": "Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt-Based Voice Design",
-    "summary": "marktechpost.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWdaM19nci0wb0hYZkMyazNqYzctaHRERjFGOHJqSzJxcnN1c0dUMEplM0NOb1ZQMFpUNG5WUjBFOElCQTVQQTNtR0hXcTBXZjhOTk5TalQ5UGppSWpxTjBTZFZDaS14SDJ4bEZ6YTJnZ3FPYXFsLXN2SURhUzVwZDF1UGFvMG9DZ2NUS1BWZEJQVms1RFFNdUpEa3NxYVY2R3VNOUU5dWhaYTFVNDQ0bmxpT3BLcVduajJTNDFsci0wUFA5Z1HSAcsBQVVfeXFMTk1FdFVpX3dPTjBMSC1yOVhERFNSZEhIQnFCbDZEX3BQb0tuenBsak5tbnNlYWNGUEJaelNsbDhYeU1pYy1uMDREb2pZcHo3X281aG4wWWlEQm1qMlN6T19WdGxzR1dEWW1GRjVlTS1OWTZackRGX29BN2lDdXpmMmFXTENvMDVnWk12SzdKR2Z1WkRzVG1HTE1vMWh6WXVOOTRXUjhaUk13X3prNHFjOXBLYkM1bUphUGJ0NXg0S2xBaTJQMU5QNDdIWkk?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 23, 03:13 PM ET",
-    "publishedAt": "2026-09-23T19:13:13+00:00",
-    "source": "blogs.oracle.com",
-    "title": "Connect Claude to your Oracle Integration tools",
-    "summary": "blogs.oracle.com is reporting this update. Open the article for the full story.",
+    "time": "Sep 23, 08:10 PM ET",
+    "publishedAt": "2026-09-24T00:10:18+00:00",
+    "source": "tech-insider.org",
+    "title": "Anthropic Engineer Explains Why Claude Writing Got Worse [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTRqTlZNY3BWVmZNX3NZWVdObW5OTktfNzBCVW91ODVwWjUtTWFXbWlDblN1d1Z1NmVRb3FrYzNBMXN2WXZkLU9ES3RjWFh1QkxhNFctS2tZT1JyZFBlNWFkeXhHLXQzZy10UEpiWG10YkNaa2JUTFFXU0l2cU1MVnlYVlRmclhHdHZYdA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 23, 01:22 PM ET",
-    "publishedAt": "2026-09-23T17:22:46+00:00",
-    "source": "shattered.io",
-    "title": "Claude Opus 5.5: Free Plan Excluded, Pro Gets It [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KVzFFeHpwWHI4NkljdnA1OEI0VmZCZUFPZnVxR2loVk5SdDUzTWx2YzlPZ1YzNzROLWEtYkwxZUxuemgtcG5Tc3ktU05WWFlkTXRUU205TW1vX2hTU0xwSnJtbDI5SHNFVnBfWUFn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnpTRGFzS1Y3TDV1YjlHYlk5dU5wS0pTeDNqcUhjQ2lHSVktNkI5dTl3aE55OWJ1Wm1pYW5lYUw5cVcwbDRfVmJCanlBT0ktRk9oNkN6blZFNHRGZWFka2JOWWtqOEx0VF9hMF8tUnlNWmt5UHZVanVGaEMyM0lGSmU0R2Y?oc=5",
     "difficulty": "News"
   },
   {
@@ -280,9 +292,9 @@
     "label": "ChatGPT",
     "time": "Sep 23, 06:08 AM ET",
     "publishedAt": "2026-09-23T10:08:26+00:00",
-    "source": "helpnetsecurity.com",
+    "source": "Help Net Security",
     "title": "GPT-6 Sol and Luna arrive with 50% lower API prices",
-    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdkVYTVVZWVlhcmNLYXh2ZVZKeW1Nb3pOSDVqUnAxdXJhaGctUmJrTWViNlJtOEw0Sk91SU5FT0tNRE5sOVA2MDJPemR1RGwtS2xSZFR1VFEtaVJtVVI1N1E2WjdYWWY3QmJNSG1xMDBhTjZ4SDF4NTNiX3lpR2VxWQ?oc=5",
     "difficulty": "News"
@@ -302,18 +314,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 22, 03:14 PM ET",
-    "publishedAt": "2026-09-22T19:14:08+00:00",
-    "source": "The Next Web",
-    "title": "OpenAI cuts GPT-6 prices in half with Sol and Luna",
-    "summary": "The Next Web is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sQTF1djB1ZDFTVlRiU2RvbFJhLVduTXkxOWVCR09jSEZ0Q1FEbmlWWjlYcTVBSk5QVWpsQWx2N2IxZVc1RGp1TXN3UU5kMnZJeTl6UnkwQldsUGJzSUNGSG9kVXRTVmM2M3JmdmNYQ1Q?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Sep 22, 03:06 PM ET",
     "publishedAt": "2026-09-22T19:06:04+00:00",
     "source": "Pulse 2.0",
@@ -321,18 +321,6 @@
     "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wdTN1MVdkb2tJZGZldm1KNFhaQUt5bUJPbU1zTDkyeTR2U0R2Nzh1ZXpIZ3lhSTBMSVJJSlM5ZFhRY2Z5UTNJSXpnQm42aEl4QlM4a1RNMnZVaTYzX1pwTlNYZknSAWpBVV95cUxNNjhkNkJFaGlrV2RWb1ZfSF9yOTJCWEhzS2F4dFdUZi0xR2N4dTNDRnctdFp6eXk1SHpwYmxMOFM3UV9ERkRXNlJwUUphVFp3Ti1ONzBlTFVVRS1RN3V4aUZIblFKNU42eDh3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 22, 03:05 PM ET",
-    "publishedAt": "2026-09-22T19:05:41+00:00",
-    "source": "VentureBeat",
-    "title": "Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcml5V2NScmlDMmg0VXdZR3AyXzJlTHlzRnJ5S05mMHNxQ2ZjSmwwV2tVcWx5RXE4V3JJWWh3MXlKdXdlNno4MVAwaGdXcVVJYm9TNGx5bWgxZjM1dm1VR0ppRGNsRTVZc1UwVkJuRmIwLTFoYnJkUE9sU0taS3Z2dVd6X1VwMEc3SVlJNDhyWWtSMGdlRC01VGQ0bngtWDhLY2ZzSUU3SWFJcnNSRldWdnVHejRKdV9GOEhOUzNiUFFHQmd4Mko0ZjctT0k0STJzVm93?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +369,18 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF84Y3BrZ1ZCZC1FLWwtVi1VcGJBU0xpQmpKSlBsenowckNCRnFsa2FkdmRDb25oTGx0Q0VXbG02MFh0NUg5NlptUmdTcDU2WmdONERITlZlVFNSZzNjakw4dE4yQWUtbHlqQ041VlRnZU8yUVZmejd6bVl1QmlZaXIxc09nbXNQT1lfNU1Eaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 03:00 AM ET",
+    "publishedAt": "2026-07-30T07:00:00+00:00",
+    "source": "Oracle",
+    "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
+    "summary": "Oracle is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
   }
 ]
