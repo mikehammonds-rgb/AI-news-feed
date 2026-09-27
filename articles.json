@@ -1,5 +1,41 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 26, 11:35 PM ET",
+    "publishedAt": "2026-09-27T03:35:58+00:00",
+    "source": "Kingy AI",
+    "title": "GPT-6 Astra vs Claude Opus 5.5: Benchmarks, Costs and Which to Choose",
+    "summary": "Kingy AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TYzhYaDdjTzBHV2pnQjBkMi1WYldVMzlLaFVtREd4bjZvWmZhV0xSQlNQNThvb3NESnVLMUNlcmxYYmE2MmNZd2Z4TVdFY3EtY1NpdUwteTVBRWloN0Zwb1liQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 26, 08:52 PM ET",
+    "publishedAt": "2026-09-27T00:52:25+00:00",
+    "source": "shattered.io",
+    "title": "OpenAI Nears GPT-6 Cyber After Astra’s 100% Score [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJVDc1U3lybEZPazFOcWRhWWdpdVV0cURSa0pRMXFZX3U1XzZqcmVvWGl5TDNHZHAxa2ZGUUo2cW0tV0ppMm5tNkZscmJidGQ1S21fc1ZoZ0hLU3JoYTdnelJjVnZLUE9kTTZ0dA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 26, 08:16 PM ET",
+    "publishedAt": "2026-09-27T00:16:46+00:00",
+    "source": "MIXED Reality News",
+    "title": "Anthropic now bills for refused Claude API requests, in three of five categories",
+    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOTBQdVhFMDNLc2dqZWVvdEpMTlNrYzhXc1BrVXNmQ0FZZm8wNkwwUFFuUlFlZnFhWG1pUjhCaXNpeFhBNk5EQlBhZlRYajl1SkFHd0lXaDFZTTA2a0ZNQlR6S0F5Y2FLMXAyZHBuUFFiUFh5c3pVdm40NjhucHhBZlRaTmxHcDl2SmlFMFNCM1M?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 26, 01:48 PM ET",
@@ -100,9 +136,9 @@
     "label": "Claude Code",
     "time": "Sep 25, 08:00 AM ET",
     "publishedAt": "2026-09-25T12:00:02+00:00",
-    "source": "CNBC",
+    "source": "cnbc.com",
     "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "summary": "cnbc.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaE56cEZlT0tlaGw5Mno4QUZnTUFKT3Jod2ZQZEZsSmtxVWg0Vy10M2hwMU1acjNqamZ4LXZ6cS1nNkI2aURrRklYaEFmVVVvZEhWUURVOWhfcEwtZUVDck04WGhuX2ZZd0Rsa0dfMnlhNHExQlVsdDVmOF95V2_SAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5",
     "difficulty": "News"
@@ -268,9 +304,9 @@
     "label": "ChatGPT",
     "time": "Sep 23, 06:08 AM ET",
     "publishedAt": "2026-09-23T10:08:26+00:00",
-    "source": "helpnetsecurity.com",
+    "source": "Help Net Security",
     "title": "GPT-6 Sol and Luna arrive with 50% lower API prices",
-    "summary": "helpnetsecurity.com is reporting this update. Open the article for the full story.",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdkVYTVVZWVlhcmNLYXh2ZVZKeW1Nb3pOSDVqUnAxdXJhaGctUmJrTWViNlJtOEw0Sk91SU5FT0tNRE5sOVA2MDJPemR1RGwtS2xSZFR1VFEtaVJtVVI1N1E2WjdYWWY3QmJNSG1xMDBhTjZ4SDF4NTNiX3lpR2VxWQ?oc=5",
     "difficulty": "News"
@@ -300,37 +336,13 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 22, 03:06 PM ET",
-    "publishedAt": "2026-09-22T19:06:04+00:00",
-    "source": "pulse2.com",
-    "title": "OpenAI Launches GPT-6 Sol And Luna With 50% Lower API Pricing",
-    "summary": "pulse2.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wdTN1MVdkb2tJZGZldm1KNFhaQUt5bUJPbU1zTDkyeTR2U0R2Nzh1ZXpIZ3lhSTBMSVJJSlM5ZFhRY2Z5UTNJSXpnQm42aEl4QlM4a1RNMnZVaTYzX1pwTlNYZknSAWpBVV95cUxNNjhkNkJFaGlrV2RWb1ZfSF9yOTJCWEhzS2F4dFdUZi0xR2N4dTNDRnctdFp6eXk1SHpwYmxMOFM3UV9ERkRXNlJwUUphVFp3Ti1ONzBlTFVVRS1RN3V4aUZIblFKNU42eDh3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 22, 03:05 PM ET",
-    "publishedAt": "2026-09-22T19:05:41+00:00",
-    "source": "VentureBeat",
-    "title": "Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcml5V2NScmlDMmg0VXdZR3AyXzJlTHlzRnJ5S05mMHNxQ2ZjSmwwV2tVcWx5RXE4V3JJWWh3MXlKdXdlNno4MVAwaGdXcVVJYm9TNGx5bWgxZjM1dm1VR0ppRGNsRTVZc1UwVkJuRmIwLTFoYnJkUE9sU0taS3Z2dVd6X1VwMEc3SVlJNDhyWWtSMGdlRC01VGQ0bngtWDhLY2ZzSUU3SWFJcnNSRldWdnVHejRKdV9GOEhOUzNiUFFHQmd4Mko0ZjctT0k0STJzVm93?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 22, 02:23 PM ET",
     "publishedAt": "2026-09-22T18:23:57+00:00",
-    "source": "CNBC",
+    "source": "cnbc.com",
     "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "summary": "cnbc.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5",
     "difficulty": "News"
@@ -340,9 +352,9 @@
     "label": "Gemini",
     "time": "Sep 22, 02:22 PM ET",
     "publishedAt": "2026-09-22T18:22:46+00:00",
-    "source": "developers.googleblog.com",
+    "source": "blog.google",
     "title": "Colab is now part of your Google AI plan",
-    "summary": "developers.googleblog.com is reporting this update. Open the article for the full story.",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUtPNFJ1eVc0RjJHQ0F5TkJ1ZW1DTEdRcEpkd2Y0Wk91UmtuUEFEQmh4MTFObDlfWUhyZXVxbFlsRGtTQ2dsT2Zyb3BFc3lCcUtPUi1veGNqc3hSNTNIWndtOW1zSUpYR2FHNFBqdkVDSS1Tb2tYODZPbGs0TngzVg?oc=5",
     "difficulty": "News"
