@@ -1,12 +1,96 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 28, 04:47 PM ET",
+    "publishedAt": "2026-09-28T20:47:16+00:00",
+    "source": "WinBuzzer",
+    "title": "Anthropic Launches Claude Sonnet 5.5, Promises Cheaper Tasks",
+    "summary": "WinBuzzer is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGh1MGprTXR2WHFWc1Y5UjVjZ3laWFd6cElCa3JCZFFHRmRJZnBJT0tGNG1hc0pidUsxbURsa2lNaGQ1dmw3eWRGclJJX2tFbkk1OEcxd3UwRGNQVDAxdTUzM1B3M3RZZHdWRlZTN09JZUpXVS1CUGRMVFFJb3FNbUdMU1RYSURKZ1o2ckt1SzAxeUFBRG1PU2cxYWdab01oSXJORDNyUDl0TDZfVXByRGdXeWg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 28, 04:43 PM ET",
+    "publishedAt": "2026-09-28T20:43:12+00:00",
+    "source": "Pulse 2.0",
+    "title": "Polyfork Wins $500,000 Build With Gemini XPRIZE After Building AI-Powered 3D Model Business In 90 Days",
+    "summary": "Pulse 2.0 is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOazNaU2J6NjYwcUJNYmhTRHAxZWtyQXFvNjNQeVNoOEgxbDRjOTN5V3MtSU9WdUlZdnRFaXdMeXJJOXhib2prdjJwdmgwYVZld2JiT19WWVBiRlZPbnYyZnYxN3VfaFgwcG1jTnd4eE1NbUN3VlNsTXl6aFZWNVZXTE9MSWtxbW12dGg2eTlSVmlWRmtmTHdjV3Q4VGdRZk9JRl9hTVFiX1k2VFpnUDNHNDRPS0JBNjI3VzgyddIBwgFBVV95cUxNQVJfQXBua3N3b2kzTzZVcGRaaFZCNEVWVUNsSzZiSi1ENW9Fb3B4MkJzS191SW8waHd0UXVscnZfTkllakNTNkFTN2tENlV4Qy1Yb1FudTRGclVaN2NYV1kzTzVaenpYRWMtd2tlMm5NT0lLTUhWdF91ZDVHQXYwajBETjJKR1FlYlo0WXdEUVRreDlNVTRIQ3ZrMkRxeHpaTUp3b0RDRmlpaHlqTFZmYW5WVFpEWV9hd1Nua0lCSG9aZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 28, 04:02 PM ET",
+    "publishedAt": "2026-09-28T20:02:50+00:00",
+    "source": "blog.google",
+    "title": "See what 4 builders are making with Gemini 3.8 Flash",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcE43ODZ4dV80TkdQZ3dFTWdQWm5lQzNpS2lOWFl4TEJDeFAwNDRwcjFFakNna1RkTXZEZ3lLNmxtRWZzei1ab20wZFBHQTJSX0w1M2ZPWkNvQ3hsZXZwdmNlRzY5Q04xSDE5ajRVTkNYVnF4QkF2aUdJSlFqNXlJeXpqcXN4UkRRR3FaSVVJSHBtWnRfc2xTc0gtSWxxbk1KUkE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 28, 03:06 PM ET",
+    "publishedAt": "2026-09-28T19:06:20+00:00",
+    "source": "Kingy AI",
+    "title": "Claude Sonnet 5.5: Specs, Benchmarks, Pricing and the Real Cost per Task",
+    "summary": "Kingy AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oMkNabjZmeTQyeTRGV0JSTVFFNDBXdWl5eC10UmJ2TThUWERVRWY1S3hKdFlCdXRnQXI2TW1hMEZxLTlUTjUzYVB1YllIWThodms0SU1OVS1GSUp6Mkt1bktiSGdWYkdYVG1lTENTazZFa3c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 28, 02:57 PM ET",
+    "publishedAt": "2026-09-28T18:57:13+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Introducing Claude Sonnet 5.5 on AWS",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWJ3ekhzN2tpWXc4b1VNZURYcGR2RWp3ZGRVNzRZY0VDX0wwYmduVHBYZ0swZzFGR1dSN3J1dWlGeWwwUGVMVTE3anpGclN3cjlVenNtalBlVmhYNEVvOF85aVN3NTlSZFNxb1lkcjdlRF9LQ0V2V3VhVjJHeEZtTF9kQk11TXRPcHdj?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 28, 02:00 PM ET",
+    "publishedAt": "2026-09-28T18:00:00+00:00",
+    "source": "VentureBeat",
+    "title": "Anthropic launches Claude Sonnet 5.5 with 30% cost reduction per-task due to faster speeds and fewer tool calls",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObWtGY0Q3OEZkcHlLU0w0clBFNzJuN0dpakxXQllCVUw0NXZDMklhb2ppUDViQUViNjBzUE1LY2R1anNTaW82TzBxQTQ0RHFyaUJzbVFoUS0zWV9sdVdhWFIzQjRCdXFTanVCVkgyVHhpVDk3eTh3Xy1peTBzWVZjQk5JckxIMW1SRGNLOGI5dkFLX2s5SVA1a0NWalNfVm10R1B4dEhkdkFhN2VBa1FvY0p3cmNFd0tsX2xTcFUxZGRELW5TeVR2Zkl1cFE2RjhrUmlKNXBmUG9kQ0N1N1E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 28, 01:38 PM ET",
+    "publishedAt": "2026-09-28T17:38:00+00:00",
+    "source": "The Hacker News",
+    "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSEV0a0pORTAwUnJ6a1BfbHJsanFramZTWUZ5cVJpbzh3RmJzM2FXMFNkVXJIZFg2Ny1CTzFiYWJPbkJEanpqZ1UxN1VmbW9tbzM4LVlvOWFRcndfNm9TTG5hYUhCTHpxeGdEZW50Z2pabjJfb2l4Q0ZaeTBOZTQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 28, 11:37 AM ET",
     "publishedAt": "2026-09-28T15:37:23+00:00",
-    "source": "ALM Corp",
+    "source": "almcorp.com",
     "title": "Google Rolls Out Gemini 3.8 Flash and a New Cybersecurity-Focused Model",
-    "summary": "ALM Corp is reporting this update. Open the article for the full story.",
+    "summary": "almcorp.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94LVo5bUZfWDZOOXZNTmVramJJd3g4QXBwX1p4LUFrM1I5NWpSbl9ZY0N5UTJqTUVBNFotREM5YjFWYl9WZWVhdXpaZkl0YVNyUXFueEx5ZWV4MTh1bFE1OW9Ickl4MEhYR0o5WkNvUTJhT3V5N0FuQ3ZqY2E?oc=5",
     "difficulty": "News"
@@ -81,30 +165,6 @@
     "summary": "SaasRise is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV3pQYWRZZV9BeUgyNWpTRVQtU1NYd2JyczVZcGd6UmJFZDR1Tm9ZMGRYUWxsa0RESnJiUTBnWTNvZmVfUG03cnc4ZmI2TjlsS2NfOEJCcUxOb2lYOTdsSWdtODZVclAwc2NxdEF4YmNOUHhDVzB6enFaUDBtNzBVYnFJa1Qzd09EdzZQLUx2eTRBQUxZZTR1bEdHM3lDLXZfWExyNVNSTzBVQ3REQUE2bUhDd2F0RWhuV1hCbVVZbE9kVkZyUFFkN0lINFZ0dEJSYi1FaEdTYTFFT1BRV1E?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 27, 06:00 PM ET",
-    "publishedAt": "2026-09-27T22:00:17+00:00",
-    "source": "xda-developers.com",
-    "title": "I stopped paying for multiple AI coding tools and built one setup that can use Claude, GPT, Gemini, and local models",
-    "summary": "xda-developers.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakpQR2g3SDBxSUMzUHdCOGlMYXlEY2IyX00wbGJqZ3F0T3V4aVptS1lsREZveDFKWW9TUXczY3NmTWZxdEdSaFlONlJ4azFYVFZSamx6SGFQYkEyejc1dFpSX2lvTjdidURHVjFpd2QtVnk2NTNzQVgzQVpoLUhaTzBaNDYxdFdQWmxkU25ldDgzVHhKUkk4Q3dUM1hJNUtlOVJ1d09uYUVVWkpHdmNDRWJ1U0NHX3ljVFJ3VmZidWlYbWs5TU13?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 27, 04:09 PM ET",
-    "publishedAt": "2026-09-27T20:09:55+00:00",
-    "source": "finchannel",
-    "title": "Best AI Tools to Make Money in 2026: ChatGPT, Claude, AI Agents and Automation",
-    "summary": "finchannel is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV0otTE1PUXBGU05pYWgzSmVuRnFUQ2kyMWZJSTh2YmJaNUpxa3NlTGpraG9BZVJVbExTT0tuZFFPYnlDbXlJS0M1MHdZc05QWjVWYnRhN2VEcTJGM283Z1Vhalc3bzlrZWgyTS1IVXdLMm1iYmk0TF9HRmlSSG53UVFBbXJDSy1tN243aU5TVkt6X1BEV1hfb0dDbDVPRDhibFp4RU1yQzlub0tHQU1HRlZEUnVNV29pMlVfcEtyUTJVMF9ua1o1LU15am5yRFlCaEFOLV9UREl4dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,30 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 24, 01:37 AM ET",
-    "publishedAt": "2026-09-24T05:37:33+00:00",
-    "source": "shattered.io",
-    "title": "Gemini 3.8 Flash TTS Lets You Design AI Voices From Text",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GLUdFNnNRYkZ6NVBpR21xTV9xMmdlQUdGS2FvZVJSS09zUm0xYlp5QXpEYjl1VklCSV9qc2lKVklaRWplWU5yN3pfak9LYjNPSUdiOHhlLVNLMGdpdDVkV1MwMDZmb2FZbzZJUw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 23, 08:10 PM ET",
-    "publishedAt": "2026-09-24T00:10:18+00:00",
-    "source": "tech-insider.org",
-    "title": "Anthropic Engineer Explains Why Claude Writing Got Worse [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnpTRGFzS1Y3TDV1YjlHYlk5dU5wS0pTeDNqcUhjQ2lHSVktNkI5dTl3aE55OWJ1Wm1pYW5lYUw5cVcwbDRfVmJCanlBT0ktRk9oNkN6blZFNHRGZWFka2JOWWtqOEx0VF9hMF8tUnlNWmt5UHZVanVGaEMyM0lGSmU0R2Y?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 23, 03:13 PM ET",
@@ -336,18 +372,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 22, 02:22 PM ET",
-    "publishedAt": "2026-09-22T18:22:46+00:00",
-    "source": "blog.google",
-    "title": "Colab is now part of your Google AI plan",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUtPNFJ1eVc0RjJHQ0F5TkJ1ZW1DTEdRcEpkd2Y0Wk91UmtuUEFEQmh4MTFObDlfWUhyZXVxbFlsRGtTQ2dsT2Zyb3BFc3lCcUtPUi1veGNqc3hSNTNIWndtOW1zSUpYR2FHNFBqdkVDSS1Tb2tYODZPbGs0TngzVg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 22, 02:22 PM ET",
@@ -357,30 +381,6 @@
     "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTktvX19jdFJXNk1zWk9uQ01FWm84c1dhWGZMaWlkeFpKRHdlVUtnRUZRdjBueGlXTUlteFI1Z2diRHhsUHdYTmlKZ0hnMHZNdm9LUDZWdGlXc3VZSlpfakQyZ1BDQ1BuSUJlTFEwMlpXN3Zlb3JPLWFjT0k2YW9XQTVIcVIxYWUtM01hR3VaR05lVHFoTUJkQjdOUWVuSnJXbUJpRV9kSnBxQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 22, 01:28 PM ET",
-    "publishedAt": "2026-09-22T17:28:01+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Claude Opus 5.5 is now available on AWS | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF84Y3BrZ1ZCZC1FLWwtVi1VcGJBU0xpQmpKSlBsenowckNCRnFsa2FkdmRDb25oTGx0Q0VXbG02MFh0NUg5NlptUmdTcDU2WmdONERITlZlVFNSZzNjakw4dE4yQWUtbHlqQ041VlRnZU8yUVZmejd6bVl1QmlZaXIxc09nbXNQT1lfNU1Eaw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Jul 30, 03:00 AM ET",
-    "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "Oracle",
-    "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "Oracle is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
   }
 ]
