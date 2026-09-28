@@ -4,9 +4,9 @@
     "label": "Gemini",
     "time": "Sep 27, 06:00 PM ET",
     "publishedAt": "2026-09-27T22:00:17+00:00",
-    "source": "xda-developers.com",
+    "source": "XDA",
     "title": "I stopped paying for multiple AI coding tools and built one setup that can use Claude, GPT, Gemini, and local models",
-    "summary": "xda-developers.com is reporting this update. Open the article for the full story.",
+    "summary": "XDA is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakpQR2g3SDBxSUMzUHdCOGlMYXlEY2IyX00wbGJqZ3F0T3V4aVptS1lsREZveDFKWW9TUXczY3NmTWZxdEdSaFlONlJ4azFYVFZSamx6SGFQYkEyejc1dFpSX2lvTjdidURHVjFpd2QtVnk2NTNzQVgzQVpoLUhaTzBaNDYxdFdQWmxkU25ldDgzVHhKUkk4Q3dUM1hJNUtlOVJ1d09uYUVVWkpHdmNDRWJ1U0NHX3ljVFJ3VmZidWlYbWs5TU13?oc=5",
     "difficulty": "News"
@@ -33,18 +33,6 @@
     "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3kyT0JlSC1QNUhOT0RtQ0VZVzFRSF9IZVE1TlhmY3RMU012NENzcm9IVXdXM0NQMmZRVVRxV0d4QmgyUHBCWXRsQ1J3OGhCZ1JPUGhJOG1ZYTdXcTBLVG5PQ1NHUzB6WEVlZFl6U2tDcUdqVkYzSndmOGxlREwtd05Fb1VIUnZpT2d3bDhKWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 27, 11:40 AM ET",
-    "publishedAt": "2026-09-27T15:40:38+00:00",
-    "source": "Pasquale Pillitteri",
-    "title": "Claude Code Stops Cutting You Off Mid-Task at the 5-Hour Limit",
-    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHltOFhmSEgzelNmdDJzVUprYWVWRTlDN0x4NFdCUmxvMWluMW5rRndyYUxzb0xDUzJoYVV4VTN4TGxYUWJKUnNSMzJGLUFidHpIcGlaek9zelVNQ2ZTek91MW5DdUpyNzNOSUJQbXBXVDdNWEJubmZ1ZG9TWG5yMDVXU1ZDcC1fWWc?oc=5",
     "difficulty": "News"
   },
   {
@@ -93,6 +81,30 @@
     "summary": "Kingy AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RWjNyYW51WWNnOEsyckhmQmVnZFZJcFN5bXltek9YUHlveFR0Vk9FM1RiQzg2OUlPa3pQMlJ1aXhvNE1COXNQRGQ1VmtGd2tUNU96R28zcjdRZ0Zo?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 26, 05:06 PM ET",
+    "publishedAt": "2026-09-26T21:06:08+00:00",
+    "source": "gHacks",
+    "title": "Anthropic Offers Up to $250 in Free Claude Code Cloud Credits to Pro and Max Subscribers",
+    "summary": "gHacks is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcjl4WGw3RGpBenhGOFh4dDZ3ajFJeThrNmtfUWhJZ21TUG1yWGx0TWZGYkdrRW8tVHREWTlEM2pCZ1dWUTFwb3VESURaTTRzUElUemR0dDd2TnhwcDVpOHp0b3FKQTlPYnlnUS1XWHlobTdadEVOamN3X3MyWTJsMi1VQ2Q1UHd1MlJIUlVQZ09UeExJUDd2ZkZlUWl2UEpRRG5JSUVSWXVuSW93WWVPQmFsMnlvcDlnRk94aWwxQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 25, 05:02 PM ET",
+    "publishedAt": "2026-09-25T21:02:33+00:00",
+    "source": "The Cyber Express",
+    "title": "8000+ ChatGPT API Keys Left Exposed Across GitHub Repos",
+    "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
     "difficulty": "News"
   },
   {
@@ -184,9 +196,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 08:00 AM ET",
     "publishedAt": "2026-09-25T12:00:00+00:00",
-    "source": "The Verge",
+    "source": "theverge.com",
     "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-    "summary": "The Verge is reporting this update. Open the article for the full story.",
+    "summary": "theverge.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOelNRbmg1M1hCMU9DVVZMYjdic0Yzb1RDb1RuYmg1MG40NHpZQml2eWZSM0JVMEFoQVdxczN5TjhKS0JSeVhiUnFSSjN0cHpIUHFyel9BU3NLb1c2VVhxN19WS2I5cE9mb21NSVIzYml6VEJkdjR0WnVXVTFKUWljSVYwMFpCWHhwenpkRzA3MDM?oc=5",
     "difficulty": "News"
@@ -196,9 +208,9 @@
     "label": "Gemini",
     "time": "Sep 24, 12:13 PM ET",
     "publishedAt": "2026-09-24T16:13:02+00:00",
-    "source": "AI News",
+    "source": "artificialintelligence-news.com",
     "title": "Google launches Gemini 3.8 Flash TTS voice models",
-    "summary": "AI News is reporting this update. Open the article for the full story.",
+    "summary": "artificialintelligence-news.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGg5UmJGSXh4WkktcWhJLWFRcUJBcjdTYldEeTh3akJycjFuZXpmWk9FUDJtUVA5WU9ieWoxVkUtbHZTcThNZ29XbkoweVMxWWQ1NS1wN1lQTk82UGg2ZVZ1dEsxWGZteF9lcVBvSTJOb2hZQ3pUZlBELTZpbFpqOEJEZ0FXb3RoV2piQVJseVJyY1h0?oc=5",
     "difficulty": "News"
@@ -309,18 +321,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 22, 03:14 PM ET",
-    "publishedAt": "2026-09-22T19:14:08+00:00",
-    "source": "The Next Web",
-    "title": "OpenAI cuts GPT-6 prices in half with Sol and Luna",
-    "summary": "The Next Web is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sQTF1djB1ZDFTVlRiU2RvbFJhLVduTXkxOWVCR09jSEZ0Q1FEbmlWWjlYcTVBSk5QVWpsQWx2N2IxZVc1RGp1TXN3UU5kMnZJeTl6UnkwQldsUGJzSUNGSG9kVXRTVmM2M3JmdmNYQ1Q?oc=5",
     "difficulty": "News"
   },
   {
