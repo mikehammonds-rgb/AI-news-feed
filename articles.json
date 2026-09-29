@@ -1,5 +1,17 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 28, 05:43 PM ET",
+    "publishedAt": "2026-09-28T21:43:09+00:00",
+    "source": "Channel Dive",
+    "title": "Microsoft retools Copilot",
+    "summary": "Channel Dive is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS09SYTV4Mk9pRXpveU05dUFoMzhuRDJISFFuY25UTGhwdVNZbkk5UjVrV0hTTkpIeWhhTUhMemJXb20wY1N3MlBDOHhFTnJhMnhyWlpjMUppeXgtd3lqOVZBdENiSEgzc1IzR3U3YTNsVmUxNnVSc19KM3dtMkpETWpZRWMwb1lKaG1pLXJLUGhtZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 28, 04:47 PM ET",
@@ -38,13 +50,25 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Sep 28, 03:26 PM ET",
+    "publishedAt": "2026-09-28T19:26:23+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Sonnet 5.5 Leak: 2M Context Claim [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LNjdiNXJ3bFgzdEZUZGdBRXNHY1hQamNzQTUxSDBCTks5TGtJTE92TWxWNDc3NXcxSlRlOFVtQWlyeFVpdzBDbGljQkNwcWgzc0lDc2RHVmVweUtNdllVWTJoVExoNlRzX0lwSHFfeUJUMjJ3a09B?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Sep 28, 03:06 PM ET",
     "publishedAt": "2026-09-28T19:06:20+00:00",
     "source": "Kingy AI",
-    "title": "Claude Sonnet 5.5: Specs, Benchmarks, Pricing and the Real Cost per Task",
+    "title": "Claude Sonnet 5.5 vs Opus 5.5: Prices, Token Use and Benchmarks",
     "summary": "Kingy AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oMkNabjZmeTQyeTRGV0JSTVFFNDBXdWl5eC10UmJ2TThUWERVRWY1S3hKdFlCdXRnQXI2TW1hMEZxLTlUTjUzYVB1YllIWThodms0SU1OVS1GSUp6Mkt1bktiSGdWYkdYVG1lTENTazZFa3c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ad2V2czBGMkZ5WU9kRVRTZmZFQUNQaGxVOG5fWldjeEd1bF8yWHpfNU5vWEJTbndETHBZblcxVzFEcUxhcXFXa3Zpb296NWpZVnYwZnBoa1NTdkZfVFhsaVZ3?oc=5",
     "difficulty": "News"
   },
   {
@@ -76,9 +100,9 @@
     "label": "Gemini",
     "time": "Sep 28, 01:38 PM ET",
     "publishedAt": "2026-09-28T17:38:00+00:00",
-    "source": "The Hacker News",
+    "source": "thehackernews.com",
     "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSEV0a0pORTAwUnJ6a1BfbHJsanFramZTWUZ5cVJpbzh3RmJzM2FXMFNkVXJIZFg2Ny1CTzFiYWJPbkJEanpqZ1UxN1VmbW9tbzM4LVlvOWFRcndfNm9TTG5hYUhCTHpxeGdEZW50Z2pabjJfb2l4Q0ZaeTBOZTQ?oc=5",
     "difficulty": "News"
@@ -88,9 +112,9 @@
     "label": "Gemini",
     "time": "Sep 28, 11:37 AM ET",
     "publishedAt": "2026-09-28T15:37:23+00:00",
-    "source": "almcorp.com",
+    "source": "ALM Corp",
     "title": "Google Rolls Out Gemini 3.8 Flash and a New Cybersecurity-Focused Model",
-    "summary": "almcorp.com is reporting this update. Open the article for the full story.",
+    "summary": "ALM Corp is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94LVo5bUZfWDZOOXZNTmVramJJd3g4QXBwX1p4LUFrM1I5NWpSbl9ZY0N5UTJqTUVBNFotREM5YjFWYl9WZWVhdXpaZkl0YVNyUXFueEx5ZWV4MTh1bFE1OW9Ickl4MEhYR0o5WkNvUTJhT3V5N0FuQ3ZqY2E?oc=5",
     "difficulty": "News"
@@ -112,9 +136,9 @@
     "label": "ChatGPT",
     "time": "Sep 28, 08:17 AM ET",
     "publishedAt": "2026-09-28T12:17:42+00:00",
-    "source": "Geeky Gadgets",
+    "source": "geeky-gadgets.com",
     "title": "Always-on OpenAI O Agent May Fully Automate Your Emails",
-    "summary": "Geeky Gadgets is reporting this update. Open the article for the full story.",
+    "summary": "geeky-gadgets.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HS2U5c0VvTGVodXhGN3lST1RrRWtwak52aUV0VE1WWXJQV19vRWgxOG40d3MxN2hoUm10MU9Tb19NM3NDcWdNOVQzUXFiU3l4SlA2RnptYmpLVmdVbDBKdVJHTi1qMkhY?oc=5",
     "difficulty": "News"
@@ -173,22 +197,10 @@
     "time": "Sep 27, 06:12 AM ET",
     "publishedAt": "2026-09-27T10:12:57+00:00",
     "source": "tech-insider.org",
-    "title": "Set Up OpenAI Embeddings API: 13 Steps, 90 Min [2026]",
+    "title": "OpenAI Embeddings API Setup: 13 Steps [2026]",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbWQxWXZrRzdGZGc4UG0yUlFMd0FpNE5NdHZJbFdocERxQ2hSOXVobklWV0g2QmJLX2d2VHNUOUhGbkg1Y0xDQWxyUm4wUzVuc0JJN25zNHZ1MW9HR1c2UWw0OUJ2cF9ycVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 27, 05:24 AM ET",
-    "publishedAt": "2026-09-27T09:24:33+00:00",
-    "source": "MIXED Reality News",
-    "title": "Anthropic now bills for refused Claude API requests, in three of five categories",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOTBQdVhFMDNLc2dqZWVvdEpMTlNrYzhXc1BrVXNmQ0FZZm8wNkwwUFFuUlFlZnFhWG1pUjhCaXNpeFhBNk5EQlBhZlRYajl1SkFHd0lXaDFZTTA2a0ZNQlR6S0F5Y2FLMXAyZHBuUFFiUFh5c3pVdm40NjhucHhBZlRaTmxHcDl2SmlFMFNCM1M?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,18 +225,6 @@
     "summary": "The Cyber Express is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTtIBeEFVX3lxTE13QXVfZ01FTW04d0Q4SkVObU9wc3dPRWFCREhQQzFBYUpudzZ6aTNucVAwT25aWlFrTFBRQmlxcUZSYl9SS1AtZXBhbjFLRkZVeVpUcnIzQ1REblViQ0doWlEzVnA3UFJxYWFhMjEteEROX1BtaGtUTg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 25, 04:11 PM ET",
-    "publishedAt": "2026-09-25T20:11:23+00:00",
-    "source": "CIO Dive",
-    "title": "Microsoft retools Copilot with coding, AI agent capabilities",
-    "summary": "CIO Dive is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
     "difficulty": "News"
   },
   {
