@@ -1,26 +1,38 @@
 [
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 30, 06:25 AM ET",
-    "publishedAt": "2026-09-30T10:25:45+00:00",
-    "source": "OpenAI",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 30, 04:50 AM ET",
-    "publishedAt": "2026-09-30T08:50:16+00:00",
+    "time": "Sep 30, 07:09 AM ET",
+    "publishedAt": "2026-09-30T11:09:43+00:00",
     "source": "MIXED Reality News",
     "title": "Claude Sonnet 5.5 breaks Sonnet 5 code in five ways, and one fails silently",
     "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSGplNGg4aERiNE9YSm90SE1CZkNuMkFxWk5feFJCdnptTjhqdnpKZHNLNVhhMWFRSXMzV2NsdXR1VDBCdHhuREw5WW1NV2pUZmVGaHJvOHpxYmJkQVBDTnBObmdyVExQWHpfc0NGYlV6dUd0MlpiX2Njb2JlT0wyRHJQdktSQlNZd0E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 30, 06:55 AM ET",
+    "publishedAt": "2026-09-30T10:55:02+00:00",
+    "source": "cybersecuritynews.com",
+    "title": "Security Teams Can Now Monitor Claude Chats, Files and AI Agent Activity",
+    "summary": "cybersecuritynews.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11ZU10Z3ZCWDF4WWxyeF9KSTZIZ2FBTi16QURURU42UGVoWmVPN0VlMEpJc3EzcXUyMjlLV0VjTXVXWlNLeV9fNjBlNUVtRHFiNWk2ZDAyZnhxMW5JRFFuVGJ1bWlaZlVDaktSNDB5a0I4ZFFyVWo5ZzY2bWREd9IBgwFBVV95cUxNX2VmdlZkckRiX0JYM0IzUWVTMWdUVjNtZF9GaVNZY0tHWHZkN3k5SmtVUFotN1lyb2VmZUJ1N093b0pvaGN0UEpyTk10ZFdaQWJuN3FzZW1xbmVLVmNBM0lEUjNtYWs2T19Va01LMlhkeExGRHhiRF9mYVBwa2VpOUxpWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 30, 06:02 AM ET",
+    "publishedAt": "2026-09-30T10:02:47+00:00",
+    "source": "Techgenyz",
+    "title": "OpenAI GPT-6.1 Sol Claims Strong Results for Much Less Than the Usual API Cost",
+    "summary": "Techgenyz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOUxuRThQNEVfRTZlTUZCN3JTREdnRzZXQ3VmTl9HdmlyUGJRSUdwLWZGQThKTy1uclcyd0M3WFA5MWVzS1BWUm50WXpKWmhtXy0zWkJoSVFSbEVkQnZRLXBUdHlyenJKb21SRTV0cTRTVHVoNFRJWjdlMXZ6YjdMaA?oc=5",
     "difficulty": "News"
   },
   {
@@ -36,18 +48,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 30, 01:51 AM ET",
-    "publishedAt": "2026-09-30T05:51:36+00:00",
-    "source": "mashable.com",
-    "title": "Claude down: Why it says account temporarily unable to authenticate",
-    "summary": "mashable.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkxYUVlxU2VBc0tySVZmeGlETGN0d19iVjFkUFFuSlpYWHhIOTh2dmRuTDZtek16cmRYdk1SYS1VMS0xaVRhUm4ydzlNNnpyUHkzZGVOLWQwaWRmQUt6SjR0Zkt3N0lOQmRHUkFoY25kU1VDaVA0VnVnMVlVZjhxV3FpRVhKZmhxN25yWDRFUlI?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 30, 01:17 AM ET",
@@ -60,12 +60,24 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 11:37 PM ET",
+    "publishedAt": "2026-09-30T03:37:36+00:00",
+    "source": "opentools.ai",
+    "title": "OpenAI adds computer use to Agents API; developers still control website access",
+    "summary": "opentools.ai is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNclVSMGtkdGhESm1oVWlhSlRXaWNrd2c0ZllfTU9fSXJ3Ql82eUhOWDBjU0FZU1ZJR05BWVA0dWdjRDZxbmZHME8xUFpUOXNCdWdzX0s3TUFIcXZtVGthX2hjcjBMQWI2WmtvWjVndVVaUWdfbVhMMlZVdUtWX1MxWUJmcVpoblU?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 29, 09:13 PM ET",
     "publishedAt": "2026-09-30T01:13:12+00:00",
     "source": "Amazon Web Services (AWS)",
-    "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
+    "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore | Artificial Intelligence",
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWTNtMXgtdWtVVEVOMFNNSll4UHpvS3h6Um9ld3FGVTA2SzF6UnZrWXo0QmdOaWVyV0ttQnc2OGRXSHozWkxMa1B0MlBIT3hhMEN5TkNmdVJMSUJOVXB1N2p3LVI4S0dJdVhZR3pma2JaclMxMTUtS0pneDU0YlRoWlA3Yk1HcGlyd0xLUExTUmtrYVAya1RrNzJkaEZFNmRxNXg3eHB2WWp1V0JyeFIzMDBCaEJGNmh0d2VUXzRTNmo1Wk9seFR6ODRURC04RmV0WDNDWEsyYw?oc=5",
@@ -98,47 +110,11 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 29, 03:01 PM ET",
-    "publishedAt": "2026-09-29T19:01:19+00:00",
-    "source": "OpenTools",
-    "title": "OpenAI's Decisions API gives Luna a smaller job: choose from answers you define",
-    "summary": "OpenTools is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnRheHZheXBDS0paWlA2UFpFX2pEU1o0Tm5tQUstRmNEX3BJN3QzNHFXOGFDY2tjTURoa3VwYmpHUUFBMUZ3QWxFMXh6VXRETDdmOERTbkZEVi1DRmhKdzRKS0d0MzlSSWl4aVpWUEdiNkNMTlUwbUFNTDc3TUhqemJpYko0M0NPMmc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 02:58 PM ET",
-    "publishedAt": "2026-09-29T18:58:08+00:00",
-    "source": "VentureBeat",
-    "title": "OpenAI's GPT-6.1 Sol offers Astra-like performance at 1/5th price. A new Ultrafast tier clocks at 300 tokens per second.",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYkE5VU9HNktoV0tZWnpVYVNIN3oybHk2ZDVxelV1Q1lFRWJiNW9aS1RoVmNwYkRsai1KcVR4NzJXMGhpRWJhU196OHNDWEljc0xoaVNKVTNncUU3elFiYVZJLUFjQTZ6TUxNMkRRckNTLUxCdWgzT1FoRVNvbTBOYmFzczBBNmhJTUs2U1h0WENMLUx3OVd3UUFySmR0MUIzVUR1VTVuUUp3S0UtNkRld3BVbUNwcjhDUGt6N0doVzM0cWRjbTlESXFHaTRqS1hFZWp3RU51cXNPRmJYbzcxUlh3LVdUbmc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 01:20 PM ET",
-    "publishedAt": "2026-09-29T17:20:18+00:00",
-    "source": "the-decoder.com",
-    "title": "OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY2N6Vk12TjNERXlvemxYWGw2bDkxYXltb3BZQkpjTmpUZzNtYkt1MHQ1SDNLRFpHWklCVnJxSjRBazNObENNVGtQellYMzlhU3J6NDhhTUNwOGh5ZmV2ZmVBejg4dVBNR2ZnVHVUSk41QjE1eXc1U0w1TF9vTk9BLXZfemJPNFJ1NExJeEU0RHFUYXQ0ZzgzTEtHY1VYV1lnZzVaT2pRTHVoS1NUNEM4MHhwTHdYMHpT?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Sep 29, 01:18 PM ET",
     "publishedAt": "2026-09-29T17:18:06+00:00",
-    "source": "The New Stack",
+    "source": "thenewstack.io",
     "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "summary": "thenewstack.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
     "difficulty": "News"
@@ -158,11 +134,23 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Sep 29, 11:40 AM ET",
+    "publishedAt": "2026-09-29T15:40:00+00:00",
+    "source": "Mashable",
+    "title": "Claude down: Why it says account temporarily unable to authenticate",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkxYUVlxU2VBc0tySVZmeGlETGN0d19iVjFkUFFuSlpYWHhIOTh2dmRuTDZtek16cmRYdk1SYS1VMS0xaVRhUm4ydzlNNnpyUHkzZGVOLWQwaWRmQUt6SjR0Zkt3N0lOQmRHUkFoY25kU1VDaVA0VnVnMVlVZjhxV3FpRVhKZmhxN25yWDRFUlI?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Sep 29, 11:11 AM ET",
     "publishedAt": "2026-09-29T15:11:02+00:00",
-    "source": "Unite.AI",
+    "source": "unite.ai",
     "title": "Anthropic Reports Service Disruption Across Claude.ai, Code, Cowork and API",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "summary": "unite.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZm5uNXFULTRXd05ESjFWN3lLY25qeUdPMktYM2RqVzZoZ0VGNjBoSFZRaFY5Qm03TjZnTlMyQmIzUnhMUVpiNGMtU19IMVNzNWg4TkUyRWlRczZha3RPSk9hYzZ3RXVDYzdxNUx6MXBXam9UblZuZ1lJaGN1WXFXT29Tb0dwaDRzM2xkdk40N3NmWDhXekF5OGZuRQ?oc=5",
     "difficulty": "News"
@@ -177,6 +165,30 @@
     "summary": "NDTV Profit is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFpaXzhOOE80RFBHaWlyYXNBSWdIMUNzb1Iwak9YQVRiaE95Zjc2SEVWU1pZWmxINV9CcURmeF9XRDFlb3dmR3oxbVgwWGljU0JqaXhuckFtOUdtcks3UnFScUhnVnFUWEY4VUpZcWNOQlJnaGdJdl9ReXFtUzhJZ3hDdmxMZXplaUo5cUxNaUZ4SkgtUTVhSnJPTEZDbFl5SlV0TFpXYWoxMHRWS3AyWmpVWTFma0RGWkdpUERiMXFTbG9IMWl2Z0tuYjN4MzTSAdcBQVVfeXFMTmlJZ2Y4VG41TnJwOTNzV1IzQVAtMVlQQXRMdHNSbGhSYXpvZGNzX3BoVU9tTENQbjJqak1vRnJLaGFFbGFia2h6MjNDN3ItdDlQTWJzMTgzb2lEcksxWkZtRFZLUUdQQVY2UTMzRGgwZFdhd2VhcHkwNmZRTERVQ2xGZUM2NVVkQnlSNFhkT25faS1yc0l2bkY0Q04xelJTTlZoZVhIRmFPTGxPc0dORjRSSkNOekxQNHVDbUdKd1NFUFcyQ2l1TXBBSGhheDB2b1NTcVB1ZzQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 06:25 AM ET",
+    "publishedAt": "2026-09-29T10:25:08+00:00",
+    "source": "the-decoder.com",
+    "title": "OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHhsRk9DNFZWUWFjQ2dlX0pYQUE3dm85UTA5eXZkYXl0SllMQUFwbFItbHB5RmFfejFmTkFCbFFQQlE1TVFKMXRqWl9pWThNNE0tRXFBRHhJR0FmVUxtYWJNWUNjTnZJMWtKVW00WkVkOFRtc1BoM3V2UHRGS3RsX2NmVFVUV2ZESjg2UjNlY1dnWW15THdrWmt6TmVWUE5seUVVT1ZGZmpRQXd3OGdueFdWSGhEdmZnZExUcl9ndmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 03:00 AM ET",
+    "publishedAt": "2026-09-29T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -196,9 +208,9 @@
     "label": "Gemini",
     "time": "Sep 28, 01:38 PM ET",
     "publishedAt": "2026-09-28T17:38:00+00:00",
-    "source": "The Hacker News",
+    "source": "thehackernews.com",
     "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSEV0a0pORTAwUnJ6a1BfbHJsanFramZTWUZ5cVJpbzh3RmJzM2FXMFNkVXJIZFg2Ny1CTzFiYWJPbkJEanpqZ1UxN1VmbW9tbzM4LVlvOWFRcndfNm9TTG5hYUhCTHpxeGdEZW50Z2pabjJfb2l4Q0ZaeTBOZTQ?oc=5",
     "difficulty": "News"
@@ -256,9 +268,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 09:51 AM ET",
     "publishedAt": "2026-09-25T13:51:28+00:00",
-    "source": "reuters.com",
+    "source": "Reuters",
     "title": "Microsoft revamps Copilot with code generation, agentic AI tools",
-    "summary": "reuters.com is reporting this update. Open the article for the full story.",
+    "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
     "difficulty": "News"
@@ -352,9 +364,9 @@
     "label": "Gemini",
     "time": "Sep 23, 11:44 AM ET",
     "publishedAt": "2026-09-23T15:44:01+00:00",
-    "source": "Unite.AI",
+    "source": "unite.ai",
     "title": "Google Rolls Out Gemini 3.8 Speech Models In API And AI Studio",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "summary": "unite.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdU9LS1RmS1h0ejVOekphVlRtbGxCb3VXUXdpaEhSS3JjbHhYM1l4OTBpb01EX2VSSF9PM0x5Q2g3ZUt5WVBmRlJtSFdQMTFFSVFkLXFXeU1feFRlekZSZEpEQVA4dnF0UkxKbHlWamtoWUpZc21pUE0wNEpzN0lqd0NPc1lSTUtOQ3dxSg?oc=5",
     "difficulty": "News"
