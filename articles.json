@@ -1,5 +1,41 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 30, 03:47 PM ET",
+    "publishedAt": "2026-09-30T19:47:23+00:00",
+    "source": "The News International",
+    "title": "OpenAI’s new API to give AI agents a watchdog",
+    "summary": "The News International is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeFFvWXd3d3F2YzlGRkJfQ2ZudUZINk43ak5zVzhhbVBXMmcyQ1pGT3VhS1BYS2VsVmxnWnRyN3FSeURuUWx3SDhPU2VrRDdxcHBWV0NWamw2N3JEdlJsUkJqVWRVOGxSMm5tZlJFMVJNMmdKLXRZYXdDVDAtSC1ENm1ZT3Fkd1Q4YXJRSHpTc9IBiwFBVV95cUxOMmZCNkFwSmZ2MmVDTFBTRFk2UzdMNmhUVlZpeW9JdEtENThXMkgzSmljYjk3TEI4UUlKSHREQ0R4bUxvQzFFWTlnT2ZUWC1uRlMtcmZHYk45T19PQmItUlFwcUExTERhRi1LZ0dPdE5WQTlLVFZuc1VpZWs3aTVEX0hMM001dEhEQUQ0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 30, 03:00 PM ET",
+    "publishedAt": "2026-09-30T19:00:57+00:00",
+    "source": "TechCrunch",
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2FtdGtxQTNoRnBrUWhFS3J4ZnExeThrRDhVbldnRVpQcTRjMldvb2ZFNkJ5R2tVOHRfT0pteDhvbkFTYmpOYVR4SVNhSUltLXl2anl6TWhFZjZyRGdmUmNPMnk4NnBySFhlN2RrU2dYWThSbFFJc3dRaVc5dDJLWkdsX0NQSmwtNURrdlhfOVFtcFhPZ1NWcXJERFp1bUJ4YmxLRjBzVUU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 30, 01:05 PM ET",
+    "publishedAt": "2026-09-30T17:05:46+00:00",
+    "source": "Technobezz",
+    "title": "OpenAI Reports Elevated Latency for Some API Requests",
+    "summary": "Technobezz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90eHVqX3kwdFNWT1VqczRqWUlXaFRaNkVGd3hjV2tYTk5GdlUyN3pHQWl4eENGamc2bW1iOHNJNkRQZUd6UHJKVHRRVHlrYTNZMFk2VTJ1a1hISE9tRnlBcWJVWlVpNmhKQ1hDNXJZTERLUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 30, 07:09 AM ET",
@@ -16,23 +52,11 @@
     "label": "Claude Code",
     "time": "Sep 30, 06:55 AM ET",
     "publishedAt": "2026-09-30T10:55:02+00:00",
-    "source": "cybersecuritynews.com",
+    "source": "CyberSecurityNews",
     "title": "Security Teams Can Now Monitor Claude Chats, Files and AI Agent Activity",
-    "summary": "cybersecuritynews.com is reporting this update. Open the article for the full story.",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11ZU10Z3ZCWDF4WWxyeF9KSTZIZ2FBTi16QURURU42UGVoWmVPN0VlMEpJc3EzcXUyMjlLV0VjTXVXWlNLeV9fNjBlNUVtRHFiNWk2ZDAyZnhxMW5JRFFuVGJ1bWlaZlVDaktSNDB5a0I4ZFFyVWo5ZzY2bWREd9IBgwFBVV95cUxNX2VmdlZkckRiX0JYM0IzUWVTMWdUVjNtZF9GaVNZY0tHWHZkN3k5SmtVUFotN1lyb2VmZUJ1N093b0pvaGN0UEpyTk10ZFdaQWJuN3FzZW1xbmVLVmNBM0lEUjNtYWs2T19Va01LMlhkeExGRHhiRF9mYVBwa2VpOUxpWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 30, 06:02 AM ET",
-    "publishedAt": "2026-09-30T10:02:47+00:00",
-    "source": "Techgenyz",
-    "title": "OpenAI GPT-6.1 Sol Claims Strong Results for Much Less Than the Usual API Cost",
-    "summary": "Techgenyz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOUxuRThQNEVfRTZlTUZCN3JTREdnRzZXQ3VmTl9HdmlyUGJRSUdwLWZGQThKTy1uclcyd0M3WFA5MWVzS1BWUm50WXpKWmhtXy0zWkJoSVFSbEVkQnZRLXBUdHlyenJKb21SRTV0cTRTVHVoNFRJWjdlMXZ6YjdMaA?oc=5",
     "difficulty": "News"
   },
   {
@@ -60,18 +84,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 11:37 PM ET",
-    "publishedAt": "2026-09-30T03:37:36+00:00",
-    "source": "opentools.ai",
-    "title": "OpenAI adds computer use to Agents API; developers still control website access",
-    "summary": "opentools.ai is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNclVSMGtkdGhESm1oVWlhSlRXaWNrd2c0ZllfTU9fSXJ3Ql82eUhOWDBjU0FZU1ZJR05BWVA0dWdjRDZxbmZHME8xUFpUOXNCdWdzX0s3TUFIcXZtVGthX2hjcjBMQWI2WmtvWjVndVVaUWdfbVhMMlZVdUtWX1MxWUJmcVpoblU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 29, 09:13 PM ET",
@@ -81,18 +93,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWTNtMXgtdWtVVEVOMFNNSll4UHpvS3h6Um9ld3FGVTA2SzF6UnZrWXo0QmdOaWVyV0ttQnc2OGRXSHozWkxMa1B0MlBIT3hhMEN5TkNmdVJMSUJOVXB1N2p3LVI4S0dJdVhZR3pma2JaclMxMTUtS0pneDU0YlRoWlA3Yk1HcGlyd0xLUExTUmtrYVAya1RrNzJkaEZFNmRxNXg3eHB2WWp1V0JyeFIzMDBCaEJGNmh0d2VUXzRTNmo1Wk9seFR6ODRURC04RmV0WDNDWEsyYw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 05:16 PM ET",
-    "publishedAt": "2026-09-29T21:16:51+00:00",
-    "source": "Technobezz",
-    "title": "OpenAI Reports Elevated Errors Across ChatGPT, Codex, and the API",
-    "summary": "Technobezz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13S180QnN0TXdPaHVoMDBPRG5xVWNlWkVrNGd0SXJOTTZ1YW5yTlItUEVxdV85MDgxWWMtSGZsRWlHR3d4VE00VjdsRTVIdTd2ZmowdjkzREMzcHJNS2FMUl80SjM0ZmZESFY1LVMyZGdodw?oc=5",
     "difficulty": "News"
   },
   {
@@ -112,9 +112,9 @@
     "label": "ChatGPT",
     "time": "Sep 29, 01:18 PM ET",
     "publishedAt": "2026-09-29T17:18:06+00:00",
-    "source": "thenewstack.io",
+    "source": "The New Stack",
     "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
-    "summary": "thenewstack.io is reporting this update. Open the article for the full story.",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
     "difficulty": "News"
@@ -122,13 +122,25 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 29, 01:15 PM ET",
-    "publishedAt": "2026-09-29T17:15:00+00:00",
-    "source": "TechCrunch",
-    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "time": "Sep 29, 01:10 PM ET",
+    "publishedAt": "2026-09-29T17:10:11+00:00",
+    "source": "OpenAI",
+    "title": "DevDay 2026 Recap",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQWVQbnQ4T1JxTThBNDRkX3V4SnBhVFBhR192dE1ZUEd5Q0JPbmJsTVpxZDBZQU0yQlRYck1lYm8zMTRPVkQ4dERMU3VkOTdHemljTkxQY2ZZOVRRLUhzc2x1S2xuV1N3R2F4dG95YnpBWUpmWWwwSXR2cnhaSHlwak9BU2d4VEh2andiTjZwMWhvTTNQRHlncXhaWng1U29haWhvcUxmQ3VMUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 01:10 PM ET",
+    "publishedAt": "2026-09-29T17:10:11+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-6.1 Sol",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fNFpCaXpwdjNfd3pjTWZ6X1ljNS03RTNaS2k2UE5LZ1ZnbHJVVWstREg4UWdKWjg3Y3FpT1JJTS1OOVA2SjR5WXBoZ3ZXX0ZTek9td3p3SHVsOHRSM0E?oc=5",
     "difficulty": "News"
   },
   {
@@ -148,9 +160,9 @@
     "label": "Claude Code",
     "time": "Sep 29, 11:11 AM ET",
     "publishedAt": "2026-09-29T15:11:02+00:00",
-    "source": "unite.ai",
+    "source": "Unite.AI",
     "title": "Anthropic Reports Service Disruption Across Claude.ai, Code, Cowork and API",
-    "summary": "unite.ai is reporting this update. Open the article for the full story.",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZm5uNXFULTRXd05ESjFWN3lLY25qeUdPMktYM2RqVzZoZ0VGNjBoSFZRaFY5Qm03TjZnTlMyQmIzUnhMUVpiNGMtU19IMVNzNWg4TkUyRWlRczZha3RPSk9hYzZ3RXVDYzdxNUx6MXBXam9UblZuZ1lJaGN1WXFXT29Tb0dwaDRzM2xkdk40N3NmWDhXekF5OGZuRQ?oc=5",
     "difficulty": "News"
@@ -180,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 03:00 AM ET",
-    "publishedAt": "2026-09-29T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 28, 04:02 PM ET",
@@ -208,9 +208,9 @@
     "label": "Gemini",
     "time": "Sep 28, 01:38 PM ET",
     "publishedAt": "2026-09-28T17:38:00+00:00",
-    "source": "thehackernews.com",
+    "source": "The Hacker News",
     "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-    "summary": "thehackernews.com is reporting this update. Open the article for the full story.",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSEV0a0pORTAwUnJ6a1BfbHJsanFramZTWUZ5cVJpbzh3RmJzM2FXMFNkVXJIZFg2Ny1CTzFiYWJPbkJEanpqZ1UxN1VmbW9tbzM4LVlvOWFRcndfNm9TTG5hYUhCTHpxeGdEZW50Z2pabjJfb2l4Q0ZaeTBOZTQ?oc=5",
     "difficulty": "News"
@@ -316,9 +316,9 @@
     "label": "Claude Code",
     "time": "Sep 25, 08:00 AM ET",
     "publishedAt": "2026-09-25T12:00:02+00:00",
-    "source": "CNBC",
+    "source": "cnbc.com",
     "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "summary": "cnbc.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaE56cEZlT0tlaGw5Mno4QUZnTUFKT3Jod2ZQZEZsSmtxVWg0Vy10M2hwMU1acjNqamZ4LXZ6cS1nNkI2aURrRklYaEFmVVVvZEhWUURVOWhfcEwtZUVDck04WGhuX2ZZd0Rsa0dfMnlhNHExQlVsdDVmOF95V2_SAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5",
     "difficulty": "News"
@@ -338,35 +338,11 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 24, 12:13 PM ET",
-    "publishedAt": "2026-09-24T16:13:02+00:00",
-    "source": "AI News",
-    "title": "Google launches Gemini 3.8 Flash TTS voice models",
-    "summary": "AI News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGg5UmJGSXh4WkktcWhJLWFRcUJBcjdTYldEeTh3akJycjFuZXpmWk9FUDJtUVA5WU9ieWoxVkUtbHZTcThNZ29XbkoweVMxWWQ1NS1wN1lQTk82UGg2ZVZ1dEsxWGZteF9lcVBvSTJOb2hZQ3pUZlBELTZpbFpqOEJEZ0FXb3RoV2piQVJseVJyY1h0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 23, 11:44 AM ET",
-    "publishedAt": "2026-09-23T15:44:21+00:00",
-    "source": "Seeking Alpha",
-    "title": "Google unveils new Gemini 3.8 Flash TTS, Gemini 3.8 Flash-Lite TTS AI models (GOOG:NASDAQ)",
-    "summary": "Seeking Alpha is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHRISG1vU0F4SF9zM255VjA4RkM5X2hEb21FUFZvVVdnMVh0QVQ4OGZOZThPajJaSTRQNHJkRWFQd013XzdBUnNvNTZwcEFIMjVWTFR4czhwUVh6eTJMSkhuMG5HU05KWGROZlFjNG93NWxXVmJ5UTJTb05ZTXpWckk3MS1FVVBZMTZoZVBac3RNeU9fdElHUG5lekp2cWNyWFJ6Q3FUbHhMY2xqWVFkWGwtYw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Sep 23, 11:44 AM ET",
     "publishedAt": "2026-09-23T15:44:01+00:00",
-    "source": "unite.ai",
+    "source": "Unite.AI",
     "title": "Google Rolls Out Gemini 3.8 Speech Models In API And AI Studio",
-    "summary": "unite.ai is reporting this update. Open the article for the full story.",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdU9LS1RmS1h0ejVOekphVlRtbGxCb3VXUXdpaEhSS3JjbHhYM1l4OTBpb01EX2VSSF9PM0x5Q2g3ZUt5WVBmRlJtSFdQMTFFSVFkLXFXeU1feFRlekZSZEpEQVA4dnF0UkxKbHlWamtoWUpZc21pUE0wNEpzN0lqd0NPc1lSTUtOQ3dxSg?oc=5",
     "difficulty": "News"
@@ -381,6 +357,30 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpTWDNZcWVYandkVlNIa1E5TWFsSG81NU5ST3Q1cGt1Z2xmUXdWRnEzb19zMjVfakoxdDNEVTlzdEJhUzFLanV2dlFaVTZ4a2RjRFMxTXlqUVpNaFFONVZzeGlHcnBwRTlWNlpMektVMlZ4RlJhVlN3X0k1NG0xSklibWpqLUVBUEJjSFVWOTZMWE1ZYllGMUVxbWlSV3c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 15, 03:00 AM ET",
+    "publishedAt": "2026-09-15T07:00:00+00:00",
+    "source": "tech-insider.org",
+    "title": "Google Launches Gemini 3.8 Live: 82.6 Voice AI Score [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wUEcxTS1ScFp2OTBVTngyeElKcUROa0RHVjlNXzltcE9salpMa2FKNklwcUkwUUdENURaR0NIamdYNWdFVmpkOTNXTEJJZXBBUmw0T3g3ZUVhbksyaWh1TWIxRnhwMjc2Q0FySmljYkhCV3dtSnVRU2M2RQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Jul 30, 03:00 AM ET",
+    "publishedAt": "2026-07-30T07:00:00+00:00",
+    "source": "Oracle",
+    "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
+    "summary": "Oracle is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
   }
 ]
