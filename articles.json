@@ -1,5 +1,41 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 02, 12:15 PM ET",
+    "publishedAt": "2026-10-02T16:15:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 02, 12:05 PM ET",
+    "publishedAt": "2026-10-02T16:05:23+00:00",
+    "source": "MIXED Reality News",
+    "title": "Claude Code 2.1.287 adds mods, and Anthropic says they can read your API key",
+    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94VHo1THdydmxIUUUzc1pZNFFQdHk4d2JwazVlbHQ0SjZZZnhCbndpQ09TSXluZ09tMVlMZVQyUXdCc0o0WWMtODB6Qy1tSHlYM2lGVndRcUpOU0VVUWVoWnBDeUVVbEJ5M2ZwaHVDWU5GTGF0eUhtaHpmNHA4QQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 02, 11:06 AM ET",
+    "publishedAt": "2026-10-02T15:06:01+00:00",
+    "source": "blog.google",
+    "title": "The latest AI news we announced in September 2026",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzhIUnNPaFVfR0U3TGVCM1AwRnY0Rk15UnVkM1Y5ajNPYUtXWE1mOE5OMjNNM1ZsN2czZS1iOUY5VVRkTnc3ZWhVVUdPUFZHTngtTFl0VjZjREpFbGRWV2VhV19ucVZhN2hra21IcFZISHNZcF81bHQ1Ti1kbnhhcll5a3dzNTl2aGpuZDhB?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 02, 06:30 AM ET",
@@ -12,10 +48,34 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 02, 06:14 AM ET",
+    "publishedAt": "2026-10-02T10:14:17+00:00",
+    "source": "Quantum Zeitgeist",
+    "title": "OpenAI’s GPT-6 Astra Ultrafast Runs 8x Faster On NVIDIA Blackwell GPUs",
+    "summary": "Quantum Zeitgeist is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fYnFYUEVUR2VzaG1DSEtVNVY4UW5fZ2llcFkyN2o5bUhaNUNqX044a3VuNXdLaUZLUF9RQnNqUHdtNnF2aVJoYjFBVE9mUXZfQjQ0X0t3bURHV0dESGhjQUpzbkNxaU5kcXdvLUJRRVZUdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 02, 04:22 AM ET",
+    "publishedAt": "2026-10-02T08:22:35+00:00",
+    "source": "tech-insider.org",
+    "title": "GitGuardian ggshield Setup: Block AI Coding Leaks in 13 Steps [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2RQeEhXSGpGaGc3Sk5VX1BaVHhfbXAxWGJqdDBZajlaMGdVQzN2TVJKY2lsaTk2aVZXOHVPQmF1dXBIUFR4VUJwdWh1bDNYcnR1elRKRW52dUU2bHJzdk9nbUV1clRaZ3llelFlWjBNR1hPSE5taTZrU25OZHFaR1FTSQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 02, 02:47 AM ET",
-    "publishedAt": "2026-10-02T06:47:15+00:00",
+    "time": "Oct 02, 03:33 AM ET",
+    "publishedAt": "2026-10-02T07:33:45+00:00",
     "source": "Geeky Gadgets",
     "title": "Gemini Notebook for AI Research Workflows: Upgrade from NotebookLM Today",
     "summary": "Geeky Gadgets is reporting this update. Open the article for the full story.",
@@ -48,30 +108,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 01, 12:32 PM ET",
-    "publishedAt": "2026-10-01T16:32:23+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Implementing Multi-Environment Access for Claude Platform on AWS",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVG5TYWs2eXVfekFmcGJKUS03a0RMSFh1NnBJa2Fjb0JEbnlvZTVlRGNZMVctYUhsb18wNkQ2ejZSRkhWQW1VUksxUmU3b3FPN0REWnJmSTU5T3FvYlJtV05ZeHpCM2lLRS1WVFNQeVk4RzJEbjRJSGxUa0llU183YkV0ejR5ZWVsc0lXS1dyOWV6d2ZwQjFTbDV6Wk9RS05zWDdNdmF0ZEt6bElGX3VEQw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 01, 12:06 PM ET",
-    "publishedAt": "2026-10-01T16:06:40+00:00",
-    "source": "OpenAI",
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMzROamdoS05xQklLa1NpU2s4UEtLWUR4WUhFTTZPUDd0TnlGeEpQbmtBVWV4WDdWSDQtckxMNDRrUlZQMUdJWXN6YXNtWkxiRGVuaG0zcF8xb3piUUttMnZnd2tWQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 01, 07:49 AM ET",
@@ -84,15 +120,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 30, 08:26 PM ET",
-    "publishedAt": "2026-10-01T00:26:28+00:00",
-    "source": "Startup Fortune",
-    "title": "OpenAI's new Decisions API looks a lot like its answer to a rival's Jev model",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 30, 09:12 PM ET",
+    "publishedAt": "2026-10-01T01:12:59+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Use Claude Sonnet 5.5: Setup Guide [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVjRSX25xd25ic19QWlB3aExHWWpweEZaeTZkVnhxam9QWVZFaXhrLXJQblNEcmROQU04WHYweHFsRzA2cVpYckJISGtXM0NSek5BLXcxM04zYWxXbGwxUmNBY3d4RlBsWUktWlI2WWFiWUpPOXB3V0tzNmhfbUZHRDkySkdZazJtRkZfOTB4YjdKSFFkSnFScDVFN3dDNlB5c0lsdVNn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnMDl0TGNjRGRrWkRwZ3ZvS2FRY3o4bV9Ob2ZRZG5BdGQyQlRDNnBLT2hJdlBXN2YzU1BRbnM3S1NSb3VMcTJLVDVITlRQVkhDQ3lNd2pUZWdYZ1IxSzU0ZlVqY2lpUWNPOU5OZWw2aw?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,6 +156,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 29, 09:13 PM ET",
+    "publishedAt": "2026-09-30T01:13:14+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India | Artificial Intelligence",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNDBCeFdKTDNQTi0xMGpCdFFnVF9LenRTZzNwNUhJNW5PaXRNSTB1OWt0d0FQckxib2t0QnZmSnd0akxXcWg1YXBBem8wQUdjdFc3eGNtdDJzT1A1d21YUndOdHBrVTAzWDVQWkk4RFBqeklYaHdLSTZOUFViNTRKVk1jLTBRM0s5c0ZVSHE4RnJvUDd5SURNbDRWaUp0REczOE1MS2tSVG1uQi00YXJpSHFJU1J0bF9EYTM5aUwzLUZvVFl5YlE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 29, 09:00 PM ET",
@@ -132,25 +180,13 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 29, 03:36 PM ET",
-    "publishedAt": "2026-09-29T19:36:34+00:00",
-    "source": "technobezz.com",
-    "title": "Claude reports elevated errors across claude.ai, Claude Code, Claude Cowork and the Claude API",
-    "summary": "technobezz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IakQ1VjdVUVd3NldTYXhLeXpRN2J3MmtJUDZ1Y21aak5aUzBUMU5BcUtCaExKTWlNTXpDWmgtLVF1bkFacUFaQ3dFeFpFcDV5LWNRQ3Vxakt6am1GNklKQ2pscWppT1VCamRmVmpqNWxZUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 29, 03:01 PM ET",
     "publishedAt": "2026-09-29T19:01:19+00:00",
-    "source": "OpenTools",
+    "source": "opentools.ai",
     "title": "OpenAI's Decisions API gives Luna a smaller job: choose from answers you define",
-    "summary": "OpenTools is reporting this update. Open the article for the full story.",
+    "summary": "opentools.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnRheHZheXBDS0paWlA2UFpFX2pEU1o0Tm5tQUstRmNEX3BJN3QzNHFXOGFDY2tjTURoa3VwYmpHUUFBMUZ3QWxFMXh6VXRETDdmOERTbkZEVi1DRmhKdzRKS0d0MzlSSWl4aVpWUEdiNkNMTlUwbUFNTDc3TUhqemJpYko0M0NPMmc?oc=5",
     "difficulty": "News"
@@ -173,10 +209,10 @@
     "time": "Sep 29, 01:10 PM ET",
     "publishedAt": "2026-09-29T17:10:11+00:00",
     "source": "OpenAI",
-    "title": "Introducing GPT-6.1 Sol",
+    "title": "DevDay 2026 Recap",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fNFpCaXpwdjNfd3pjTWZ6X1ljNS03RTNaS2k2UE5LZ1ZnbHJVVWstREg4UWdKWjg3Y3FpT1JJTS1OOVA2SjR5WXBoZ3ZXX0ZTek9td3p3SHVsOHRSM0E?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
     "difficulty": "News"
   },
   {
@@ -189,6 +225,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX212WWhHNWgzWkdtSlZTV3hiU3ZVdmJoUnJPMl92MVlMd1VadHJrbXJ3RjFvdXJib3dueWk0eUFwY25DallZUTJGd1J2MWRTRkFZcWNoa1g3YVBzaEdKbmF5TE1HakN0cnI5emUwdVlKeTZPY2o5R3RheG54R0E2ODVVZXpVUGZ3MDFVQ0h3bDh0UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 29, 11:40 AM ET",
+    "publishedAt": "2026-09-29T15:40:00+00:00",
+    "source": "Mashable",
+    "title": "Claude down: Why it says account temporarily unable to authenticate",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkxYUVlxU2VBc0tySVZmeGlETGN0d19iVjFkUFFuSlpYWHhIOTh2dmRuTDZtek16cmRYdk1SYS1VMS0xaVRhUm4ydzlNNnpyUHkzZGVOLWQwaWRmQUt6SjR0Zkt3N0lOQmRHUkFoY25kU1VDaVA0VnVnMVlVZjhxV3FpRVhKZmhxN25yWDRFUlI?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,30 +261,6 @@
     "summary": "NDTV Profit is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFpaXzhOOE80RFBHaWlyYXNBSWdIMUNzb1Iwak9YQVRiaE95Zjc2SEVWU1pZWmxINV9CcURmeF9XRDFlb3dmR3oxbVgwWGljU0JqaXhuckFtOUdtcks3UnFScUhnVnFUWEY4VUpZcWNOQlJnaGdJdl9ReXFtUzhJZ3hDdmxMZXplaUo5cUxNaUZ4SkgtUTVhSnJPTEZDbFl5SlV0TFpXYWoxMHRWS3AyWmpVWTFma0RGWkdpUERiMXFTbG9IMWl2Z0tuYjN4MzTSAdcBQVVfeXFMTmlJZ2Y4VG41TnJwOTNzV1IzQVAtMVlQQXRMdHNSbGhSYXpvZGNzX3BoVU9tTENQbjJqak1vRnJLaGFFbGFia2h6MjNDN3ItdDlQTWJzMTgzb2lEcksxWkZtRFZLUUdQQVY2UTMzRGgwZFdhd2VhcHkwNmZRTERVQ2xGZUM2NVVkQnlSNFhkT25faS1yc0l2bkY0Q04xelJTTlZoZVhIRmFPTGxPc0dORjRSSkNOekxQNHVDbUdKd1NFUFcyQ2l1TXBBSGhheDB2b1NTcVB1ZzQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 29, 10:42 AM ET",
-    "publishedAt": "2026-09-29T14:42:30+00:00",
-    "source": "Mashable",
-    "title": "Claude down: Why it says account temporarily unable to authenticate",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkxYUVlxU2VBc0tySVZmeGlETGN0d19iVjFkUFFuSlpYWHhIOTh2dmRuTDZtek16cmRYdk1SYS1VMS0xaVRhUm4ydzlNNnpyUHkzZGVOLWQwaWRmQUt6SjR0Zkt3N0lOQmRHUkFoY25kU1VDaVA0VnVnMVlVZjhxV3FpRVhKZmhxN25yWDRFUlI?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 29, 10:38 AM ET",
-    "publishedAt": "2026-09-29T14:38:54+00:00",
-    "source": "digitaltrends.com",
-    "title": "Anthropic’s Claude is having a major breakdown today (Update 3: All services restored)",
-    "summary": "digitaltrends.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLUltc3pZMHRNb2dRWFBVdU9ZSnNiZHd2V2FiYkt6SVAzTHdCNDZGajA1OUt0cnI4M0hibVZwZ3ZfUE9NR19OZ2F6OEhWX1BBcE5HdDM4RDFyaEMzbUl5OTNyUGpVLWV4dy05NXlpbklMN0o3cHNZQXhVUDV6QUZyR2lJbmNDX0V2X19ZZmlQQUVQWXQ3bmlB?oc=5",
     "difficulty": "News"
   },
   {
@@ -268,23 +292,11 @@
     "label": "Codex / LLM Code",
     "time": "Sep 28, 05:43 PM ET",
     "publishedAt": "2026-09-28T21:43:09+00:00",
-    "source": "channeldive.com",
+    "source": "Channel Dive",
     "title": "Microsoft retools Copilot",
-    "summary": "channeldive.com is reporting this update. Open the article for the full story.",
+    "summary": "Channel Dive is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS09SYTV4Mk9pRXpveU05dUFoMzhuRDJISFFuY25UTGhwdVNZbkk5UjVrV0hTTkpIeWhhTUhMemJXb20wY1N3MlBDOHhFTnJhMnhyWlpjMUppeXgtd3lqOVZBdENiSEgzc1IzR3U3YTNsVmUxNnVSc19KM3dtMkpETWpZRWMwb1lKaG1pLXJLUGhtZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 25, 10:37 AM ET",
-    "publishedAt": "2026-09-25T14:37:13+00:00",
-    "source": "tech-insider.org",
-    "title": "GitHub Copilot vs Cursor vs Claude Code: 1,762 Elo Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wVG9KSGowZ1cxU2pLMlBYY2hKOTVubERvVzg2RzR3UEJkeGF0Y19pd2IxcFN3ZzhYVXp1UDhwVHNUdFVzdC1lMUZCb3ZwdHloSGRuSG9fMDZjeUxwS1hCLTdJZGl3eE9IRHJqS3BJT3RrTGgwOUxEcWpR?oc=5",
     "difficulty": "News"
   },
   {
@@ -338,18 +350,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 23, 11:44 AM ET",
-    "publishedAt": "2026-09-23T15:44:01+00:00",
-    "source": "Unite.AI",
-    "title": "Google Rolls Out Gemini 3.8 Speech Models In API And AI Studio",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdU9LS1RmS1h0ejVOekphVlRtbGxCb3VXUXdpaEhSS3JjbHhYM1l4OTBpb01EX2VSSF9PM0x5Q2g3ZUt5WVBmRlJtSFdQMTFFSVFkLXFXeU1feFRlekZSZEpEQVA4dnF0UkxKbHlWamtoWUpZc21pUE0wNEpzN0lqd0NPc1lSTUtOQ3dxSg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Sep 23, 03:00 AM ET",
     "publishedAt": "2026-09-23T07:00:00+00:00",
     "source": "blog.google",
@@ -364,9 +364,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 18, 03:00 AM ET",
     "publishedAt": "2026-09-18T07:00:00+00:00",
-    "source": "Hostinger",
+    "source": "hostinger.com",
     "title": "22 best AI coding tools for developers and beginners",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "summary": "hostinger.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SLUNVZ000YkpxdV9JMGpXaFE5cmpaWDBEdGg4ZW1Rb3I0dEQzOHlNNk9lc0VDU3AzXzNCd1FOZEwzaExGWEFpbFlKYm00LW1ITjJVdUFjenZldVF3Q1hxaml5TERyV29qblJiZA?oc=5",
     "difficulty": "News"
