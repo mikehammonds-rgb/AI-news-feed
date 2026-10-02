@@ -2,6 +2,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Oct 02, 03:14 PM ET",
+    "publishedAt": "2026-10-02T19:14:52+00:00",
+    "source": "MIXED Reality News",
+    "title": "OpenAI's Agents API gets a hosted browser, and one approval covers a whole site",
+    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VSHF5OVBOeEdvLXpyOF9uQnM2S19vbnFySkxuaXJHbDA1LWhKczNSeTlyWXpkb2k1MjI5NEljRUFHbEhUemlweG0tVEVTbXlUdEtIVzZoQmJCbzFnSmVVbWl5MDZpLUpwR2stajdJdm85NzlzVE5tOEU4a3ZNUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Oct 02, 12:15 PM ET",
     "publishedAt": "2026-10-02T16:15:00+00:00",
     "source": "OpenAI",
@@ -45,18 +57,6 @@
     "summary": "Android Police is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWHVuZk9BaWFRQUdiUENrM3pXSzd5dkdadThMSXdyMXNMdTBYWWk1aWMtelJyNjlMZFJuTVB2elh4T0pYTWUtOU1rT3p5alpuamtIQkVTRnVGMVBHUjBWcUwwcVhWZVNTQzRHcnlHYUVnVGd1Y1QyVERGLWF2bkpuMkNPZms4RDVwVGNEemtHQy1yc0l3Zm1udjdzTTF1M055Zy12SW90MA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 02, 06:14 AM ET",
-    "publishedAt": "2026-10-02T10:14:17+00:00",
-    "source": "Quantum Zeitgeist",
-    "title": "OpenAI’s GPT-6 Astra Ultrafast Runs 8x Faster On NVIDIA Blackwell GPUs",
-    "summary": "Quantum Zeitgeist is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fYnFYUEVUR2VzaG1DSEtVNVY4UW5fZ2llcFkyN2o5bUhaNUNqX044a3VuNXdLaUZLUF9RQnNqUHdtNnF2aVJoYjFBVE9mUXZfQjQ0X0t3bURHV0dESGhjQUpzbkNxaU5kcXdvLUJRRVZUdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,18 +105,6 @@
     "summary": "NVIDIA Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KcU1JWEFGdV96M2o5aF9HdU14SzRNTU5PVWh3RnRQUUJTa3RZT05YZkJNTHZ0RnpveXBhODdoSnNxcU1DSmg2dUFpWGV6c2FPR1FoV3B4QnB2MWJkXzhNbWdTdjVZaW5adDV2SlFYWXAwQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 01, 07:49 AM ET",
-    "publishedAt": "2026-10-01T11:49:45+00:00",
-    "source": "MIXED Reality News",
-    "title": "Gemini 3.8 Flash TTS clones a voice from 30 seconds, but AI Studio blocks it in the UK",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUZYeUk0SU5WN0VoWm5ncVZicm8xQ3ZmMnRjZVlDSVoxUGVvLW5mSVJYcFRNNDhKVnF3dmFNUFBZaVdaeDJzcVM2bnpUVG5NeVJaeHlpdGUzTmZGME0tVG50Nm1oQnRzRlVRemtwQ0hiRzVYOVo1WF9fRmxSQnpDMV9QQTg?oc=5",
     "difficulty": "News"
   },
   {
@@ -182,11 +170,23 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Sep 29, 08:47 PM ET",
+    "publishedAt": "2026-09-30T00:47:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing dots",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Sep 29, 03:01 PM ET",
     "publishedAt": "2026-09-29T19:01:19+00:00",
-    "source": "opentools.ai",
+    "source": "OpenTools",
     "title": "OpenAI's Decisions API gives Luna a smaller job: choose from answers you define",
-    "summary": "opentools.ai is reporting this update. Open the article for the full story.",
+    "summary": "OpenTools is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnRheHZheXBDS0paWlA2UFpFX2pEU1o0Tm5tQUstRmNEX3BJN3QzNHFXOGFDY2tjTURoa3VwYmpHUUFBMUZ3QWxFMXh6VXRETDdmOERTbkZEVi1DRmhKdzRKS0d0MzlSSWl4aVpWUEdiNkNMTlUwbUFNTDc3TUhqemJpYko0M0NPMmc?oc=5",
     "difficulty": "News"
@@ -201,18 +201,6 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 01:10 PM ET",
-    "publishedAt": "2026-09-29T17:10:11+00:00",
-    "source": "OpenAI",
-    "title": "DevDay 2026 Recap",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
     "difficulty": "News"
   },
   {
@@ -284,7 +272,7 @@
     "title": "Microsoft revamps Copilot into AI ‘super app’ with coding tools, always-on agent",
     "summary": "The Indian Express is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMTRYVHlfVGRuMktHT3NqU0VLU2RrNnFodTMwQ2Vld3hLTEZ4QmZjMXFyS3dNVjAxWmo5RG1KTHhzVm5mbHptWHIwSFVVeDk2WVdiOHhSa3JlTGdaZUNENERELTd3UTRxTE1EUFdiNnpNYzRXTFB4OGxxSzRtMlZGWnJDczZMR09WMklqR2tMLUZQd0JCT2wwUGJhM2taUk51ZkVjMXQ3RkxEbk5Vdm9VQXVtZlotcEVU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMTRYVHlfVGRuMktHT3NqU0VLU2RrNnFodTMwQ2Vld3hLTEZ4QmZjMXFyS3dNVjAxWmo5RG1KTHhzVm5mbHptWHIwSFVVeDk2WVdiOHhSa3JlTGdaZUNENERELTd3UTRxTE1EUFdiNnpNYzRXTFB4OGxxSzRtMlZGWnJDczZMR09WMklqR2tMLUZQd0JCT2wwUGJhM2taUk51ZkVjMXQ3RkxEbk5Vdm9VQXVtZlotcEVU0gG_AUFVX3lxTE1SOFRjTi1HR283TWpubWJIOU5FbzFxN21yZWhMMDlmaGxkdHlQMjNKQzc3V3dWR1NHaVJYZTVoMkFWTnhMaURFdGstWFlwVFp5eU12YzRQZ1ZQRTh2dFFETTlkYUFEVVUxSG1vdE1KUWd0MlFNLXRXM3dVVjZWODM2ejR3dXdHR2xiaWkzdTU4YkRfZU50Vl9mQzVoS0VKTjBxMGNpMzRaX2RHYnBYLVdvMjZDMHdNdnV3d2N1dkhF?oc=5",
     "difficulty": "News"
   },
   {
@@ -292,9 +280,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 28, 05:43 PM ET",
     "publishedAt": "2026-09-28T21:43:09+00:00",
-    "source": "Channel Dive",
+    "source": "channeldive.com",
     "title": "Microsoft retools Copilot",
-    "summary": "Channel Dive is reporting this update. Open the article for the full story.",
+    "summary": "channeldive.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS09SYTV4Mk9pRXpveU05dUFoMzhuRDJISFFuY25UTGhwdVNZbkk5UjVrV0hTTkpIeWhhTUhMemJXb20wY1N3MlBDOHhFTnJhMnhyWlpjMUppeXgtd3lqOVZBdENiSEgzc1IzR3U3YTNsVmUxNnVSc19KM3dtMkpETWpZRWMwb1lKaG1pLXJLUGhtZw?oc=5",
     "difficulty": "News"
@@ -364,11 +352,23 @@
     "label": "Codex / LLM Code",
     "time": "Sep 18, 03:00 AM ET",
     "publishedAt": "2026-09-18T07:00:00+00:00",
-    "source": "hostinger.com",
+    "source": "Hostinger",
     "title": "22 best AI coding tools for developers and beginners",
-    "summary": "hostinger.com is reporting this update. Open the article for the full story.",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SLUNVZ000YkpxdV9JMGpXaFE5cmpaWDBEdGg4ZW1Rb3I0dEQzOHlNNk9lc0VDU3AzXzNCd1FOZEwzaExGWEFpbFlKYm00LW1ITjJVdUFjenZldVF3Q1hxaml5TERyV29qblJiZA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 15, 03:00 AM ET",
+    "publishedAt": "2026-09-15T07:00:00+00:00",
+    "source": "blog.google",
+    "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
     "difficulty": "News"
   },
   {
