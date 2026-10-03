@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 03, 04:57 PM ET",
+    "publishedAt": "2026-10-03T20:57:00+00:00",
+    "source": "9to5Google",
+    "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04R1J3UHRCTHp2S0FSeTd6YUllLS1TYVZvMDFSeVZraUFnZDJxdjk5Rm9Pd3o0Zlk3NEp2WkhOSXQ1aTVTdGJRb2NXaktIRlM1YmVqeHprdWVobkpPTXBiVkVzRFloWC1DamlXbmZB?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 03, 05:29 AM ET",
@@ -14,23 +26,11 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Oct 02, 08:24 PM ET",
-    "publishedAt": "2026-10-03T00:24:57+00:00",
-    "source": "MIXED Reality News",
-    "title": "Your ChatGPT Plus allowance now runs 16 other apps, but each one gets a limit",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNmhYMjIzc2FTX1U3SHVfNV8xRDBOSWszZFpVUjZsQllNRWk5MTJ2T1dmc3licDJaWkNTd1FTbDlQc0ZfSDQ5VmRibzdxNGlHejMweXN1SmxqZ2V6X1h6b0thTzJHYXU4ZFgyaHhOaV9wU3pTdTFwa1Y4SFNJaXhKa3N3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Oct 02, 12:15 PM ET",
     "publishedAt": "2026-10-02T16:15:00+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "Introducing GPT-6 Sol and Luna",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
     "difficulty": "News"
@@ -105,6 +105,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnMDl0TGNjRGRrWkRwZ3ZvS2FRY3o4bV9Ob2ZRZG5BdGQyQlRDNnBLT2hJdlBXN2YzU1BRbnM3S1NSb3VMcTJLVDVITlRQVkhDQ3lNd2pUZWdYZ1IxSzU0ZlVqY2lpUWNPOU5OZWw2aw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 30, 08:26 PM ET",
+    "publishedAt": "2026-10-01T00:26:28+00:00",
+    "source": "Startup Fortune",
+    "title": "OpenAI's new Decisions API looks a lot like its answer to a rival's Jev model",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVjRSX25xd25ic19QWlB3aExHWWpweEZaeTZkVnhxam9QWVZFaXhrLXJQblNEcmROQU04WHYweHFsRzA2cVpYckJISGtXM0NSek5BLXcxM04zYWxXbGwxUmNBY3d4RlBsWUktWlI2WWFiWUpPOXB3V0tzNmhfbUZHRDkySkdZazJtRkZfOTB4YjdKSFFkSnFScDVFN3dDNlB5c0lsdVNn?oc=5",
     "difficulty": "News"
   },
   {
@@ -184,9 +196,9 @@
     "label": "ChatGPT",
     "time": "Sep 29, 01:10 PM ET",
     "publishedAt": "2026-09-29T17:10:11+00:00",
-    "source": "OpenAI",
+    "source": "openai.com",
     "title": "DevDay 2026 Recap",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "summary": "openai.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
     "difficulty": "News"
@@ -256,9 +268,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 28, 05:43 PM ET",
     "publishedAt": "2026-09-28T21:43:09+00:00",
-    "source": "Channel Dive",
+    "source": "channeldive.com",
     "title": "Microsoft retools Copilot",
-    "summary": "Channel Dive is reporting this update. Open the article for the full story.",
+    "summary": "channeldive.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS09SYTV4Mk9pRXpveU05dUFoMzhuRDJISFFuY25UTGhwdVNZbkk5UjVrV0hTTkpIeWhhTUhMemJXb20wY1N3MlBDOHhFTnJhMnhyWlpjMUppeXgtd3lqOVZBdENiSEgzc1IzR3U3YTNsVmUxNnVSc19KM3dtMkpETWpZRWMwb1lKaG1pLXJLUGhtZw?oc=5",
     "difficulty": "News"
@@ -280,9 +292,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 09:51 AM ET",
     "publishedAt": "2026-09-25T13:51:28+00:00",
-    "source": "reuters.com",
+    "source": "Reuters",
     "title": "Microsoft revamps Copilot with code generation, agentic AI tools",
-    "summary": "reuters.com is reporting this update. Open the article for the full story.",
+    "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
     "difficulty": "News"
@@ -304,9 +316,9 @@
     "label": "Claude Code",
     "time": "Sep 25, 08:00 AM ET",
     "publishedAt": "2026-09-25T12:00:02+00:00",
-    "source": "CNBC",
+    "source": "cnbc.com",
     "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "summary": "cnbc.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaE56cEZlT0tlaGw5Mno4QUZnTUFKT3Jod2ZQZEZsSmtxVWg0Vy10M2hwMU1acjNqamZ4LXZ6cS1nNkI2aURrRklYaEFmVVVvZEhWUURVOWhfcEwtZUVDck04WGhuX2ZZd0Rsa0dfMnlhNHExQlVsdDVmOF95V2_SAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5",
     "difficulty": "News"
@@ -316,23 +328,11 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "blogs.microsoft.com",
+    "source": "The Official Microsoft Blog",
     "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "summary": "blogs.microsoft.com is reporting this update. Open the article for the full story.",
+    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 23, 11:44 AM ET",
-    "publishedAt": "2026-09-23T15:44:01+00:00",
-    "source": "Unite.AI",
-    "title": "Google Rolls Out Gemini 3.8 Speech Models In API And AI Studio",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdU9LS1RmS1h0ejVOekphVlRtbGxCb3VXUXdpaEhSS3JjbHhYM1l4OTBpb01EX2VSSF9PM0x5Q2g3ZUt5WVBmRlJtSFdQMTFFSVFkLXFXeU1feFRlekZSZEpEQVA4dnF0UkxKbHlWamtoWUpZc21pUE0wNEpzN0lqd0NPc1lSTUtOQ3dxSg?oc=5",
     "difficulty": "News"
   },
   {
@@ -340,9 +340,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 18, 03:00 AM ET",
     "publishedAt": "2026-09-18T07:00:00+00:00",
-    "source": "hostinger.com",
+    "source": "Hostinger",
     "title": "22 best AI coding tools for developers and beginners",
-    "summary": "hostinger.com is reporting this update. Open the article for the full story.",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SLUNVZ000YkpxdV9JMGpXaFE5cmpaWDBEdGg4ZW1Rb3I0dEQzOHlNNk9lc0VDU3AzXzNCd1FOZEwzaExGWEFpbFlKYm00LW1ITjJVdUFjenZldVF3Q1hxaml5TERyV29qblJiZA?oc=5",
     "difficulty": "News"
