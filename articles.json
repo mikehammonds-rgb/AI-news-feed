@@ -12,18 +12,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 02, 08:44 PM ET",
-    "publishedAt": "2026-10-03T00:44:45+00:00",
-    "source": "jetstream.blog",
-    "title": "Google AI Updates: September 2026",
-    "summary": "jetstream.blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wc3h5NHNlMlpaYjBrYkxobTh3VlR1aFp3eEJnSDV6YU5adEJjWFNMTXRYQW92Vm1meTBDTERTYVJmWHJTbk4tZDhGRXBYUm53d293ak1lcGMxZzVVRmpiMFZTVzltYXhkZ0VF?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 02, 08:24 PM ET",
@@ -33,6 +21,18 @@
     "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNmhYMjIzc2FTX1U3SHVfNV8xRDBOSWszZFpVUjZsQllNRWk5MTJ2T1dmc3licDJaWkNTd1FTbDlQc0ZfSDQ5VmRibzdxNGlHejMweXN1SmxqZ2V6X1h6b0thTzJHYXU4ZFgyaHhOaV9wU3pTdTFwa1Y4SFNJaXhKa3N3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 02, 12:15 PM ET",
+    "publishedAt": "2026-10-02T16:15:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -170,18 +170,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 29, 08:47 PM ET",
-    "publishedAt": "2026-09-30T00:47:00+00:00",
-    "source": "OpenAI",
-    "title": "Introducing dots",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Sep 29, 03:01 PM ET",
     "publishedAt": "2026-09-29T19:01:19+00:00",
     "source": "OpenTools",
@@ -230,25 +218,25 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 29, 11:40 AM ET",
-    "publishedAt": "2026-09-29T15:40:00+00:00",
-    "source": "Mashable",
-    "title": "Claude down: Why it says account temporarily unable to authenticate",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "time": "Sep 29, 11:11 AM ET",
+    "publishedAt": "2026-09-29T15:11:02+00:00",
+    "source": "Unite.AI",
+    "title": "Anthropic Reports Service Disruption Across Claude.ai, Code, Cowork and API",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkxYUVlxU2VBc0tySVZmeGlETGN0d19iVjFkUFFuSlpYWHhIOTh2dmRuTDZtek16cmRYdk1SYS1VMS0xaVRhUm4ydzlNNnpyUHkzZGVOLWQwaWRmQUt6SjR0Zkt3N0lOQmRHUkFoY25kU1VDaVA0VnVnMVlVZjhxV3FpRVhKZmhxN25yWDRFUlI?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZm5uNXFULTRXd05ESjFWN3lLY25qeUdPMktYM2RqVzZoZ0VGNjBoSFZRaFY5Qm03TjZnTlMyQmIzUnhMUVpiNGMtU19IMVNzNWg4TkUyRWlRczZha3RPSk9hYzZ3RXVDYzdxNUx6MXBXam9UblZuZ1lJaGN1WXFXT29Tb0dwaDRzM2xkdk40N3NmWDhXekF5OGZuRQ?oc=5",
     "difficulty": "News"
   },
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 29, 11:11 AM ET",
-    "publishedAt": "2026-09-29T15:11:02+00:00",
-    "source": "unite.ai",
-    "title": "Anthropic Reports Service Disruption Across Claude.ai, Code, Cowork and API",
-    "summary": "unite.ai is reporting this update. Open the article for the full story.",
+    "time": "Sep 29, 10:42 AM ET",
+    "publishedAt": "2026-09-29T14:42:30+00:00",
+    "source": "Mashable",
+    "title": "Claude down: Why it says account temporarily unable to authenticate",
+    "summary": "Mashable is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZm5uNXFULTRXd05ESjFWN3lLY25qeUdPMktYM2RqVzZoZ0VGNjBoSFZRaFY5Qm03TjZnTlMyQmIzUnhMUVpiNGMtU19IMVNzNWg4TkUyRWlRczZha3RPSk9hYzZ3RXVDYzdxNUx6MXBXam9UblZuZ1lJaGN1WXFXT29Tb0dwaDRzM2xkdk40N3NmWDhXekF5OGZuRQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkxYUVlxU2VBc0tySVZmeGlETGN0d19iVjFkUFFuSlpYWHhIOTh2dmRuTDZtek16cmRYdk1SYS1VMS0xaVRhUm4ydzlNNnpyUHkzZGVOLWQwaWRmQUt6SjR0Zkt3N0lOQmRHUkFoY25kU1VDaVA0VnVnMVlVZjhxV3FpRVhKZmhxN25yWDRFUlI?oc=5",
     "difficulty": "News"
   },
   {
@@ -336,6 +324,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 23, 11:44 AM ET",
+    "publishedAt": "2026-09-23T15:44:01+00:00",
+    "source": "Unite.AI",
+    "title": "Google Rolls Out Gemini 3.8 Speech Models In API And AI Studio",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdU9LS1RmS1h0ejVOekphVlRtbGxCb3VXUXdpaEhSS3JjbHhYM1l4OTBpb01EX2VSSF9PM0x5Q2g3ZUt5WVBmRlJtSFdQMTFFSVFkLXFXeU1feFRlekZSZEpEQVA4dnF0UkxKbHlWamtoWUpZc21pUE0wNEpzN0lqd0NPc1lSTUtOQ3dxSg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Sep 18, 03:00 AM ET",
@@ -364,9 +364,9 @@
     "label": "Gemini",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "Oracle",
+    "source": "oracle.com",
     "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "Oracle is reporting this update. Open the article for the full story.",
+    "summary": "oracle.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
@@ -376,9 +376,9 @@
     "label": "ChatGPT",
     "time": "Jul 29, 03:00 AM ET",
     "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "businessinsider.com",
+    "source": "Business Insider",
     "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
