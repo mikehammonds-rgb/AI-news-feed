@@ -60,18 +60,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 02, 04:22 AM ET",
-    "publishedAt": "2026-10-02T08:22:35+00:00",
-    "source": "tech-insider.org",
-    "title": "GitGuardian ggshield Setup: Block AI Coding Leaks in 13 Steps [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2RQeEhXSGpGaGc3Sk5VX1BaVHhfbXAxWGJqdDBZajlaMGdVQzN2TVJKY2lsaTk2aVZXOHVPQmF1dXBIUFR4VUJwdWh1bDNYcnR1elRKRW52dUU2bHJzdk9nbUV1clRaZ3llelFlWjBNR1hPSE5taTZrU25OZHFaR1FTSQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 01, 07:53 PM ET",
@@ -276,13 +264,25 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 25, 10:37 AM ET",
+    "publishedAt": "2026-09-25T14:37:13+00:00",
+    "source": "tech-insider.org",
+    "title": "GitHub Copilot vs Cursor vs Claude Code: 1,762 Elo Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wVG9KSGowZ1cxU2pLMlBYY2hKOTVubERvVzg2RzR3UEJkeGF0Y19pd2IxcFN3ZzhYVXp1UDhwVHNUdFVzdC1lMUZCb3ZwdHloSGRuSG9fMDZjeUxwS1hCLTdJZGl3eE9IRHJqS3BJT3RrTGgwOUxEcWpR?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Sep 25, 09:51 AM ET",
     "publishedAt": "2026-09-25T13:51:28+00:00",
-    "source": "Reuters",
+    "source": "reuters.com",
     "title": "Microsoft revamps Copilot with code generation, agentic AI tools",
-    "summary": "Reuters is reporting this update. Open the article for the full story.",
+    "summary": "reuters.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
     "difficulty": "News"
@@ -316,9 +316,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "The Official Microsoft Blog",
+    "source": "blogs.microsoft.com",
     "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
+    "summary": "blogs.microsoft.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
     "difficulty": "News"
@@ -340,9 +340,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 18, 03:00 AM ET",
     "publishedAt": "2026-09-18T07:00:00+00:00",
-    "source": "Hostinger",
+    "source": "hostinger.com",
     "title": "22 best AI coding tools for developers and beginners",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "summary": "hostinger.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SLUNVZ000YkpxdV9JMGpXaFE5cmpaWDBEdGg4ZW1Rb3I0dEQzOHlNNk9lc0VDU3AzXzNCd1FOZEwzaExGWEFpbFlKYm00LW1ITjJVdUFjenZldVF3Q1hxaml5TERyV29qblJiZA?oc=5",
     "difficulty": "News"
@@ -364,9 +364,9 @@
     "label": "Gemini",
     "time": "Jul 30, 03:00 AM ET",
     "publishedAt": "2026-07-30T07:00:00+00:00",
-    "source": "oracle.com",
+    "source": "Oracle",
     "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-    "summary": "oracle.com is reporting this update. Open the article for the full story.",
+    "summary": "Oracle is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
