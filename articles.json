@@ -1,5 +1,29 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 04, 02:37 PM ET",
+    "publishedAt": "2026-10-04T18:37:24+00:00",
+    "source": "startupfortune.com",
+    "title": "Reddit is cutting off free API and RSS access while keeping Google and OpenAI paying",
+    "summary": "startupfortune.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUg3eVBubDA3TzlhdWpSM0hPcEp4MEthdEc1VWY3QVh4YWZodUpvcUVSaFNETkRtOGEyY0Fjek1pLVVMR0tKal81RXFTZ3hqYTI5THVrakZ5ZDRGZlhhT1haRTd5X1dJYUQ1VVFEZ1VuWjZXZFI0a1I1QXU0QUVDdU02NmtzTlJ6Z09wN2d0ZnlqdE5ubDY3R3ZlOGNkTUV6RlI4a2dINFBpSGdMbDJ4NlBB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 04, 02:18 PM ET",
+    "publishedAt": "2026-10-04T18:18:43+00:00",
+    "source": "Pasquale Pillitteri",
+    "title": "Claude Reports a Threat to Police and a Florida Woman Is Arrested",
+    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUJIYlE4SGhWY19KbG04S1BDRWc5b3Jic3RFMzM3cVBvN0MtNEI0R0s2V3hpZXVWd1RoTHJWMHM1RmFDRHhHQU1XaXVuaUhzQ3ZXazN0enBSbEtfM0dZT3BNRmVkbTJIVVRtLU9OM2VLamdWUU5BNGtTbnlJXzRjS0pFUVZNRlJSS3gySW1fZVMteHB1eUUyQ3pSUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 04, 10:13 AM ET",
@@ -21,18 +45,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDcVJyQ1p5QmV6dEc2MG9aR3k3R2RSMDdPaXc0Q1N3Z1RyalRzQjdsOFJCY2ttT3VVMDc1ZXFlaTl6MzJSalJaUHZtdmF2c05Lc0xEYTh2Qjh6WEN3dTJFLVVtY0dRR05naHZDZGE4MjlwaHJSU3pV?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 03, 09:04 PM ET",
-    "publishedAt": "2026-10-04T01:04:39+00:00",
-    "source": "quasa.io",
-    "title": "Claude Code vs Codex CLI: Scores and Task Costs",
-    "summary": "quasa.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDJmN3BWbWpOUVZ1OWZXbHhkajVHaDFYN0xFY3BnQnA4ZnMySXFVUXhGajFoOWdXTlBDc0x4RGYybVB0M004UWtKN0lwcVVKazdud2RoQ3pjWXh2b0RGZS03YWRxMEJickRMM1NNcGFvVFB1SE54dUphLWo3S1d2bTFsLWQ3VmFIcDY5YzltbENJb3pkd3FQN2p3?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,18 +117,6 @@
     "summary": "NVIDIA Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KcU1JWEFGdV96M2o5aF9HdU14SzRNTU5PVWh3RnRQUUJTa3RZT05YZkJNTHZ0RnpveXBhODdoSnNxcU1DSmg2dUFpWGV6c2FPR1FoV3B4QnB2MWJkXzhNbWdTdjVZaW5adDV2SlFYWXAwQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 01, 12:06 PM ET",
-    "publishedAt": "2026-10-01T16:06:40+00:00",
-    "source": "OpenAI",
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMzROamdoS05xQklLa1NpU2s4UEtLWUR4WUhFTTZPUDd0TnlGeEpQbmtBVWV4WDdWSDQtckxMNDRrUlZQMUdJWXN6YXNtWkxiRGVuaG0zcF8xb3piUUttMnZnd2tWQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,6 +216,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 01:10 PM ET",
+    "publishedAt": "2026-09-29T17:10:11+00:00",
+    "source": "OpenAI",
+    "title": "DevDay 2026 Recap",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 29, 11:46 AM ET",
@@ -232,9 +244,9 @@
     "label": "Claude Code",
     "time": "Sep 29, 10:42 AM ET",
     "publishedAt": "2026-09-29T14:42:30+00:00",
-    "source": "Mashable",
+    "source": "mashable.com",
     "title": "Claude down: Why it says account temporarily unable to authenticate",
-    "summary": "Mashable is reporting this update. Open the article for the full story.",
+    "summary": "mashable.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkxYUVlxU2VBc0tySVZmeGlETGN0d19iVjFkUFFuSlpYWHhIOTh2dmRuTDZtek16cmRYdk1SYS1VMS0xaVRhUm4ydzlNNnpyUHkzZGVOLWQwaWRmQUt6SjR0Zkt3N0lOQmRHUkFoY25kU1VDaVA0VnVnMVlVZjhxV3FpRVhKZmhxN25yWDRFUlI?oc=5",
     "difficulty": "News"
@@ -304,9 +316,9 @@
     "label": "Claude Code",
     "time": "Sep 25, 08:00 AM ET",
     "publishedAt": "2026-09-25T12:00:02+00:00",
-    "source": "CNBC",
+    "source": "cnbc.com",
     "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "summary": "cnbc.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaE56cEZlT0tlaGw5Mno4QUZnTUFKT3Jod2ZQZEZsSmtxVWg0Vy10M2hwMU1acjNqamZ4LXZ6cS1nNkI2aURrRklYaEFmVVVvZEhWUURVOWhfcEwtZUVDck04WGhuX2ZZd0Rsa0dfMnlhNHExQlVsdDVmOF95V2_SAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5",
     "difficulty": "News"
@@ -316,9 +328,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "ciodive.com",
+    "source": "CIO Dive",
     "title": "Microsoft retools Copilot with coding, AI agent capabilities",
-    "summary": "ciodive.com is reporting this update. Open the article for the full story.",
+    "summary": "CIO Dive is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
     "difficulty": "News"
@@ -328,23 +340,11 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "The Official Microsoft Blog",
+    "source": "blogs.microsoft.com",
     "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
+    "summary": "blogs.microsoft.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 22, 03:00 AM ET",
-    "publishedAt": "2026-09-22T07:00:00+00:00",
-    "source": "VentureBeat",
-    "title": "OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTktvX19jdFJXNk1zWk9uQ01FWm84c1dhWGZMaWlkeFpKRHdlVUtnRUZRdjBueGlXTUlteFI1Z2diRHhsUHdYTmlKZ0hnMHZNdm9LUDZWdGlXc3VZSlpfakQyZ1BDQ1BuSUJlTFEwMlpXN3Zlb3JPLWFjT0k2YW9XQTVIcVIxYWUtM01hR3VaR05lVHFoTUJkQjdOUWVuSnJXbUJpRV9kSnBxQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -376,9 +376,9 @@
     "label": "ChatGPT",
     "time": "Jul 29, 03:00 AM ET",
     "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "Business Insider",
+    "source": "businessinsider.com",
     "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "Business Insider is reporting this update. Open the article for the full story.",
+    "summary": "businessinsider.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
