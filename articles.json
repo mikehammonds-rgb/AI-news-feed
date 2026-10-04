@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 03, 09:04 PM ET",
+    "publishedAt": "2026-10-04T01:04:06+00:00",
+    "source": "quasa.io",
+    "title": "Claude Code vs Codex CLI: Scores and Task Costs",
+    "summary": "quasa.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDJmN3BWbWpOUVZ1OWZXbHhkajVHaDFYN0xFY3BnQnA4ZnMySXFVUXhGajFoOWdXTlBDc0x4RGYybVB0M004UWtKN0lwcVVKazdud2RoQ3pjWXh2b0RGZS03YWRxMEJickRMM1NNcGFvVFB1SE54dUphLWo3S1d2bTFsLWQ3VmFIcDY5YzltbENJb3pkd3FQN2p3?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 03, 04:57 PM ET",
@@ -9,6 +21,18 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04R1J3UHRCTHp2S0FSeTd6YUllLS1TYVZvMDFSeVZraUFnZDJxdjk5Rm9Pd3o0Zlk3NEp2WkhOSXQ1aTVTdGJRb2NXaktIRlM1YmVqeHprdWVobkpPTXBiVkVzRFloWC1DamlXbmZB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 03, 01:26 PM ET",
+    "publishedAt": "2026-10-03T17:26:12+00:00",
+    "source": "tech-insider.org",
+    "title": "Nano Banana 2 API: Migrate From Imagen 4 in 13 Steps [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mNUdWb2M4ZmJNVm03OGthN29wRkYxOW9ob3lLRHZyV1JjVGxNRkloaGZTXzJDOVI2QVBVbHBmazJkcVF0Qm5EMjAydjB0MUJ6NU8yV2MxUzE1Y3dXS1B5WThMYWk3dlFDR3pKSWpMTDRPSkw1VDNPNkpRZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -28,9 +52,9 @@
     "label": "ChatGPT",
     "time": "Oct 02, 12:15 PM ET",
     "publishedAt": "2026-10-02T16:15:00+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "Introducing GPT-6 Sol and Luna",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
     "difficulty": "News"
@@ -88,9 +112,9 @@
     "label": "Claude Code",
     "time": "Oct 01, 03:00 AM ET",
     "publishedAt": "2026-10-01T07:00:00+00:00",
-    "source": "DemandSage",
+    "source": "demandsage.com",
     "title": "Claude AI Statistics [2026] — Active Users Data",
-    "summary": "DemandSage is reporting this update. Open the article for the full story.",
+    "summary": "demandsage.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FeVBua29OcjFhdC15MVZoa0hZOVVqcFNBNWV3aVl0bVdCWk5VMzlrMW9yY0FuMTg1emRGbE5kbm5VUWZETkIwRDFxMmF1aFA5aDlOek1UTmtWa25G?oc=5",
     "difficulty": "News"
@@ -156,18 +180,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 29, 09:00 PM ET",
-    "publishedAt": "2026-09-30T01:00:59+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Use Gemini 3.8 Live: 12 Steps, 90 Min [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZMlhPS2NVU3NDRHFrTExZVXFxSmZTNUI0RkpUcTJmQWp0d1V5U1I2MDJYR1Bxa0lhaWJobVJjZDFvRFppbnhMTk1VamJmZ0laQkZEc2lGc1dqSE1hemVDbXRJZVZIY2dCMjNMSmZKQUUzdw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 29, 03:01 PM ET",
@@ -196,9 +208,9 @@
     "label": "ChatGPT",
     "time": "Sep 29, 01:10 PM ET",
     "publishedAt": "2026-09-29T17:10:11+00:00",
-    "source": "openai.com",
+    "source": "OpenAI",
     "title": "DevDay 2026 Recap",
-    "summary": "openai.com is reporting this update. Open the article for the full story.",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
     "difficulty": "News"
@@ -213,18 +225,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX212WWhHNWgzWkdtSlZTV3hiU3ZVdmJoUnJPMl92MVlMd1VadHJrbXJ3RjFvdXJib3dueWk0eUFwY25DallZUTJGd1J2MWRTRkFZcWNoa1g3YVBzaEdKbmF5TE1HakN0cnI5emUwdVlKeTZPY2o5R3RheG54R0E2ODVVZXpVUGZ3MDFVQ0h3bDh0UQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 29, 11:11 AM ET",
-    "publishedAt": "2026-09-29T15:11:02+00:00",
-    "source": "Unite.AI",
-    "title": "Anthropic Reports Service Disruption Across Claude.ai, Code, Cowork and API",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZm5uNXFULTRXd05ESjFWN3lLY25qeUdPMktYM2RqVzZoZ0VGNjBoSFZRaFY5Qm03TjZnTlMyQmIzUnhMUVpiNGMtU19IMVNzNWg4TkUyRWlRczZha3RPSk9hYzZ3RXVDYzdxNUx6MXBXam9UblZuZ1lJaGN1WXFXT29Tb0dwaDRzM2xkdk40N3NmWDhXekF5OGZuRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -268,9 +268,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 28, 05:43 PM ET",
     "publishedAt": "2026-09-28T21:43:09+00:00",
-    "source": "channeldive.com",
+    "source": "Channel Dive",
     "title": "Microsoft retools Copilot",
-    "summary": "channeldive.com is reporting this update. Open the article for the full story.",
+    "summary": "Channel Dive is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS09SYTV4Mk9pRXpveU05dUFoMzhuRDJISFFuY25UTGhwdVNZbkk5UjVrV0hTTkpIeWhhTUhMemJXb20wY1N3MlBDOHhFTnJhMnhyWlpjMUppeXgtd3lqOVZBdENiSEgzc1IzR3U3YTNsVmUxNnVSc19KM3dtMkpETWpZRWMwb1lKaG1pLXJLUGhtZw?oc=5",
     "difficulty": "News"
@@ -316,9 +316,9 @@
     "label": "Claude Code",
     "time": "Sep 25, 08:00 AM ET",
     "publishedAt": "2026-09-25T12:00:02+00:00",
-    "source": "cnbc.com",
+    "source": "CNBC",
     "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-    "summary": "cnbc.com is reporting this update. Open the article for the full story.",
+    "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaE56cEZlT0tlaGw5Mno4QUZnTUFKT3Jod2ZQZEZsSmtxVWg0Vy10M2hwMU1acjNqamZ4LXZ6cS1nNkI2aURrRklYaEFmVVVvZEhWUURVOWhfcEwtZUVDck04WGhuX2ZZd0Rsa0dfMnlhNHExQlVsdDVmOF95V2_SAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5",
     "difficulty": "News"
