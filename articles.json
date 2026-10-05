@@ -40,9 +40,9 @@
     "label": "Gemini",
     "time": "Oct 04, 10:13 AM ET",
     "publishedAt": "2026-10-04T14:13:29+00:00",
-    "source": "mezha.net",
+    "source": "Межа. Новини України.",
     "title": "Google Limits Gemini Models for Free and AI Plus Users, Adds Deep Think to AI Pro",
-    "summary": "mezha.net is reporting this update. Open the article for the full story.",
+    "summary": "Межа. Новини України. is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tVjJfbS1oSllFbEd4QzRLVTZLZTNIclR3R3pQV0o1ZExrS2M2Q083MzgyeGQza190dWtlWjNkNmxYUGtUUlhsS0RiRzFXel9EQXg5RWlfS2UxcklVZDJsZjFIc0dKbnZ4Z3NtNkVLSWFPZw?oc=5",
     "difficulty": "News"
@@ -89,10 +89,10 @@
     "time": "Oct 02, 12:15 PM ET",
     "publishedAt": "2026-10-02T16:15:00+00:00",
     "source": "OpenAI",
-    "title": "Introducing GPT-6 Sol and Luna",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
     "difficulty": "News"
   },
   {
@@ -196,9 +196,9 @@
     "label": "ChatGPT",
     "time": "Sep 29, 03:01 PM ET",
     "publishedAt": "2026-09-29T19:01:19+00:00",
-    "source": "OpenTools",
+    "source": "opentools.ai",
     "title": "OpenAI's Decisions API gives Luna a smaller job: choose from answers you define",
-    "summary": "OpenTools is reporting this update. Open the article for the full story.",
+    "summary": "opentools.ai is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnRheHZheXBDS0paWlA2UFpFX2pEU1o0Tm5tQUstRmNEX3BJN3QzNHFXOGFDY2tjTURoa3VwYmpHUUFBMUZ3QWxFMXh6VXRETDdmOERTbkZEVi1DRmhKdzRKS0d0MzlSSWl4aVpWUEdiNkNMTlUwbUFNTDc3TUhqemJpYko0M0NPMmc?oc=5",
     "difficulty": "News"
@@ -208,9 +208,9 @@
     "label": "ChatGPT",
     "time": "Sep 29, 01:18 PM ET",
     "publishedAt": "2026-09-29T17:18:06+00:00",
-    "source": "The New Stack",
+    "source": "thenewstack.io",
     "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "summary": "thenewstack.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
     "difficulty": "News"
@@ -225,18 +225,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 29, 11:46 AM ET",
-    "publishedAt": "2026-09-29T15:46:00+00:00",
-    "source": "Anthropic",
-    "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX212WWhHNWgzWkdtSlZTV3hiU3ZVdmJoUnJPMl92MVlMd1VadHJrbXJ3RjFvdXJib3dueWk0eUFwY25DallZUTJGd1J2MWRTRkFZcWNoa1g3YVBzaEdKbmF5TE1HakN0cnI5emUwdVlKeTZPY2o5R3RheG54R0E2ODVVZXpVUGZ3MDFVQ0h3bDh0UQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -314,8 +302,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 25, 08:00 AM ET",
-    "publishedAt": "2026-09-25T12:00:02+00:00",
+    "time": "Sep 25, 03:00 AM ET",
+    "publishedAt": "2026-09-25T07:00:00+00:00",
     "source": "CNBC",
     "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
     "summary": "CNBC is reporting this update. Open the article for the full story.",
@@ -345,6 +333,18 @@
     "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 22, 03:00 AM ET",
+    "publishedAt": "2026-09-22T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Opus 5.5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
     "difficulty": "News"
   },
   {
