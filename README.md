@@ -1,17 +1,9 @@
-# AI Developer News Feed
+# AI OS News Data
 
-A GitHub Pages dashboard for tracking AI developer news across ChatGPT/OpenAI,
-Claude/Anthropic, Gemini/Google AI, and coding-agent tools like Codex, Copilot,
-and Cursor.
+This repository supplies the expandable AI news widget in [AI OS](https://morning-ai-os.the-unlimite-3666.chatgpt.site/). AI OS is the dashboard; the former standalone GitHub Pages dashboard is retired.
 
-The feed is refreshed by a scheduled GitHub Action every 30 minutes. The updater
-pulls Google News RSS results, cleans low-signal titles, deduplicates articles,
-and writes the latest data to `articles.json` and `feed-info.json`.
+The existing GitHub Action continues collecting news every 30 minutes. It pulls Google News RSS results, cleans low-signal titles, deduplicates articles, and writes `articles.json` and `feed-info.json`.
 
-## Features
+AI OS reads these JSON files directly from the repository's main branch. GitHub Pages is not required for the news widget. Keep the updater, workflow, article data, metadata and repository available.
 
-- Search and category filters
-- Local saved-article list
-- Source labels and article timestamps
-- Static GitHub Pages deployment
-- Scheduled feed updates through GitHub Actions
+The old Pages entry point redirects to AI OS for existing bookmarks. AI OS retains its private access settings.
