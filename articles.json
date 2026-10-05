@@ -1,14 +1,50 @@
 [
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 04, 08:27 PM ET",
-    "publishedAt": "2026-10-05T00:27:09+00:00",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 05, 09:11 AM ET",
+    "publishedAt": "2026-10-05T13:11:47+00:00",
+    "source": "nokiapoweruser.com",
+    "title": "Major Google Gemini Shakeup: Older Models Deprecated, Fast Modes Pulled as Gemini 4 Argon Nears",
+    "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdXBCYlVjZ19rTVo4aFd0VVdjQVFHV1JfSmx5bFNtdXlVbjJLMnB3STlBZGVsTkVrSzg0S3pTMkpZcUNpZ1M2cHFhSGFDbEkzV1BVQkRMd0RlWWVQT1RPZHJuWFlib00ySlVRa0NEUXJBR1JvQV80M1NSUzVkeXRHaUh4WmJWS1d1ZmZOcUdMZWRXYllwZlFNdXBZWHI?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 05, 08:48 AM ET",
+    "publishedAt": "2026-10-05T12:48:17+00:00",
+    "source": "MakeUseOf",
+    "title": "Google's new paywall will remove Gemini's advanced models from free accounts",
+    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2JjdTdWZ050eUhSaDlEMVN4UVV2OW15czNwUXotRFE5RU1ndmVwel9PTWJJaGNuWVhUbUdPeGtPZWhVVUpTNFZSR21WSTFDOEFLNk5fYmFBVk5fRHBsSWpfUDFLQUNFRkxnNnFMYmdOOHFSTE1DTGhBRU1zYkxCTTdkZ3NweDdtWVA2UHBPQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 05, 06:15 AM ET",
+    "publishedAt": "2026-10-05T10:15:41+00:00",
     "source": "tech-insider.org",
-    "title": "GPT-6 Luna vs Sonnet 5.5 vs Grok 4.7: 20x Price Gap [2026]",
+    "title": "Claude Sonnet 5.5 API Setup: 13 Steps, Full Pricing",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdUhROVIwWUhvajU3bl9DWnlHLU11Z2VzRlB0Q0Y2Y1oySkt5TERJZ3dEcExYVkhsdlJrRVYyLTFSdnl0S3lPS2VOTFVyU3dvTVVsenl2dlZNamJlTjFrRXY5UkV2R2xGLURqdEZJSFdEb2hnUHhqS01qSmZVYlpZcmJ0VQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmY2F6ZHluWE8tZEVaVHNwdGQ0dTN6SWlyYnY1Xy14Mlp4Sjd5SExRTmpwcTIxb1RyaE1peWdYVm82Umo5amJLWmFoZEpmUlRtc1JWMWNReDZ0bDZDVWVjUFEzQlJMUlZ4aUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 05, 04:14 AM ET",
+    "publishedAt": "2026-10-05T08:14:44+00:00",
+    "source": "DevOps.com",
+    "title": "Open Source Mod Brings Rate Limits, Costs and CI Status Into View for Claude Code Users",
+    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3Z6N2RBbGsxaG1TeENwUndhTHVQbFhrdDkzZWpKcFdKcXlPSzYxenJfc1kxZXBTY1YzUHphQjR2RW9jZzFXajFIakZUVVpzMUdoeUdfYjJqZnU0MnNjajRZYzlIYkxGVEd6UTMzUnVlOGkxbm5SSktoTmY4Zlg5QzU3a3JTV3pDWDBZZ3pocFJCT1FfekoxSzQxXzNyS3lvNjYwSWJLemhGdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -24,42 +60,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 04, 02:18 PM ET",
-    "publishedAt": "2026-10-04T18:18:43+00:00",
-    "source": "Pasquale Pillitteri",
-    "title": "Claude Reports a Threat to Police and a Florida Woman Is Arrested",
-    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUJIYlE4SGhWY19KbG04S1BDRWc5b3Jic3RFMzM3cVBvN0MtNEI0R0s2V3hpZXVWd1RoTHJWMHM1RmFDRHhHQU1XaXVuaUhzQ3ZXazN0enBSbEtfM0dZT3BNRmVkbTJIVVRtLU9OM2VLamdWUU5BNGtTbnlJXzRjS0pFUVZNRlJSS3gySW1fZVMteHB1eUUyQ3pSUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 04, 10:13 AM ET",
-    "publishedAt": "2026-10-04T14:13:29+00:00",
-    "source": "Межа. Новини України.",
-    "title": "Google Limits Gemini Models for Free and AI Plus Users, Adds Deep Think to AI Pro",
-    "summary": "Межа. Новини України. is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tVjJfbS1oSllFbEd4QzRLVTZLZTNIclR3R3pQV0o1ZExrS2M2Q083MzgyeGQza190dWtlWjNkNmxYUGtUUlhsS0RiRzFXel9EQXg5RWlfS2UxcklVZDJsZjFIc0dKbnZ4Z3NtNkVLSWFPZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 04, 05:48 AM ET",
-    "publishedAt": "2026-10-04T09:48:06+00:00",
-    "source": "tech-insider.org",
-    "title": "Google Cuts Free Gemini to 1 Model Starting Oct. 9 [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDcVJyQ1p5QmV6dEc2MG9aR3k3R2RSMDdPaXc0Q1N3Z1RyalRzQjdsOFJCY2ttT3VVMDc1ZXFlaTl6MzJSalJaUHZtdmF2c05Lc0xEYTh2Qjh6WEN3dTJFLVVtY0dRR05naHZDZGE4MjlwaHJSU3pV?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 03, 04:57 PM ET",
@@ -69,6 +69,18 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04R1J3UHRCTHp2S0FSeTd6YUllLS1TYVZvMDFSeVZraUFnZDJxdjk5Rm9Pd3o0Zlk3NEp2WkhOSXQ1aTVTdGJRb2NXaktIRlM1YmVqeHprdWVobkpPTXBiVkVzRFloWC1DamlXbmZB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 02, 08:59 PM ET",
+    "publishedAt": "2026-10-03T00:59:22+00:00",
+    "source": "tech-insider.org",
+    "title": "How to Use Gemini 4 Argon: 12 Steps, $2/M Tokens [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiMjBtZVVrOTZremZpS1V4Y1pxaG94TUF0VDQwU2dwU2Q4YTVkbWdtQk9PeVZWQlk4LUZJZ1Fqa2FNNU5uMUNfRUNCampoQy0yLVlJM1g0X0dFazJfVUhOa240TVRNd1A5OTVN?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 30, 04:06 PM ET",
-    "publishedAt": "2026-09-30T20:06:23+00:00",
-    "source": "blog.google",
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 30, 03:00 PM ET",
@@ -196,9 +196,9 @@
     "label": "ChatGPT",
     "time": "Sep 29, 03:01 PM ET",
     "publishedAt": "2026-09-29T19:01:19+00:00",
-    "source": "opentools.ai",
+    "source": "OpenTools",
     "title": "OpenAI's Decisions API gives Luna a smaller job: choose from answers you define",
-    "summary": "opentools.ai is reporting this update. Open the article for the full story.",
+    "summary": "OpenTools is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnRheHZheXBDS0paWlA2UFpFX2pEU1o0Tm5tQUstRmNEX3BJN3QzNHFXOGFDY2tjTURoa3VwYmpHUUFBMUZ3QWxFMXh6VXRETDdmOERTbkZEVi1DRmhKdzRKS0d0MzlSSWl4aVpWUEdiNkNMTlUwbUFNTDc3TUhqemJpYko0M0NPMmc?oc=5",
     "difficulty": "News"
@@ -208,9 +208,9 @@
     "label": "ChatGPT",
     "time": "Sep 29, 01:18 PM ET",
     "publishedAt": "2026-09-29T17:18:06+00:00",
-    "source": "thenewstack.io",
+    "source": "The New Stack",
     "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
-    "summary": "thenewstack.io is reporting this update. Open the article for the full story.",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
     "difficulty": "News"
@@ -230,8 +230,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 29, 10:42 AM ET",
-    "publishedAt": "2026-09-29T14:42:30+00:00",
+    "time": "Sep 29, 11:40 AM ET",
+    "publishedAt": "2026-09-29T15:40:00+00:00",
     "source": "Mashable",
     "title": "Claude down: Why it says account temporarily unable to authenticate",
     "summary": "Mashable is reporting this update. Open the article for the full story.",
@@ -261,18 +261,6 @@
     "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHhsRk9DNFZWUWFjQ2dlX0pYQUE3dm85UTA5eXZkYXl0SllMQUFwbFItbHB5RmFfejFmTkFCbFFQQlE1TVFKMXRqWl9pWThNNE0tRXFBRHhJR0FmVUxtYWJNWUNjTnZJMWtKVW00WkVkOFRtc1BoM3V2UHRGS3RsX2NmVFVUV2ZESjg2UjNlY1dnWW15THdrWmt6TmVWUE5seUVVT1ZGZmpRQXd3OGdueFdWSGhEdmZnZExUcl9ndmc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 25, 10:37 AM ET",
-    "publishedAt": "2026-09-25T14:37:13+00:00",
-    "source": "tech-insider.org",
-    "title": "GitHub Copilot vs Cursor vs Claude Code: 1,762 Elo Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wVG9KSGowZ1cxU2pLMlBYY2hKOTVubERvVzg2RzR3UEJkeGF0Y19pd2IxcFN3ZzhYVXp1UDhwVHNUdFVzdC1lMUZCb3ZwdHloSGRuSG9fMDZjeUxwS1hCLTdJZGl3eE9IRHJqS3BJT3RrTGgwOUxEcWpR?oc=5",
     "difficulty": "News"
   },
   {
@@ -321,6 +309,18 @@
     "summary": "CIO Dive is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 25, 03:00 AM ET",
+    "publishedAt": "2026-09-25T07:00:00+00:00",
+    "source": "tech-insider.org",
+    "title": "GitHub Copilot vs Cursor vs Claude Code 2026 Compared",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wVG9KSGowZ1cxU2pLMlBYY2hKOTVubERvVzg2RzR3UEJkeGF0Y19pd2IxcFN3ZzhYVXp1UDhwVHNUdFVzdC1lMUZCb3ZwdHloSGRuSG9fMDZjeUxwS1hCLTdJZGl3eE9IRHJqS3BJT3RrTGgwOUxEcWpR?oc=5",
     "difficulty": "News"
   },
   {
