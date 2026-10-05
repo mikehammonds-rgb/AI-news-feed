@@ -1,9 +1,93 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 05, 04:46 PM ET",
+    "publishedAt": "2026-10-05T20:46:00+00:00",
+    "source": "9to5Mac",
+    "title": "OpenAI details new text watermarking system for ChatGPT, Codex, and the API",
+    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ2VFM19BWG1nOWVZeU1CdU9BMTY0OElWRkNDU1JRYzZpdmFNRlVRcElMRkRiNm90X2hWSDJvZ2NiV1VPeVFvZHVjekM5ZVlBTXdDRV8tVUstbXdyUnZMS2c2QXFydFdnZUpSZlo2aTdtQWRrbVpEOXY3eU9pX2p2RUxvaWwtTktRRXRvYjhmdEJMeTFBeFhzdHhVc2FETXNjU3dWTzRwYzZpT2xBeTY5NVNkZDBFaTFBV0RPcHBHR19hZHM?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 05, 09:11 AM ET",
-    "publishedAt": "2026-10-05T13:11:47+00:00",
+    "time": "Oct 05, 04:37 PM ET",
+    "publishedAt": "2026-10-05T20:37:30+00:00",
+    "source": "Andreessen Horowitz",
+    "title": "The Top 100 Gen AI Consumer Apps — 7th Edition",
+    "summary": "Andreessen Horowitz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OUzc4QXRVTjdmRWNxUmVTZFI0Y1YyR0FqQTZxd0dqWGlKT1dPTVpucUItTXA2OTFjSXdlYTFGOHVYU29EcUpVcDFMSQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 05, 03:34 PM ET",
+    "publishedAt": "2026-10-05T19:34:13+00:00",
+    "source": "The New Stack",
+    "title": "OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YcVlZSTdJM09ibS1LUHVOUl9BYlZYVWxkTjRFc2ZRY2pxcERwWVRFd2xyNXJLckZaWnJIdDUxYkJQVzZHRUlJU2lsR0ZNQVpQeTlJcXREUjBuNVRNT2U0OEpn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 05, 01:41 PM ET",
+    "publishedAt": "2026-10-05T17:41:13+00:00",
+    "source": "NDTV Profit",
+    "title": "Gemini AI Paywall: Google Restricts Free Users To Flash-Lite Model From October 9",
+    "summary": "NDTV Profit is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN21LWXJWR0JkTFpPXzl3OVlQMGlpdndhQTlxalZIczc4NWFtaVR1bDBCSk8wSVRUOVZSNlhGUFQyUG8tbGZ0RlpHWnlwNEJGZFV1NFFmQVNrTDN2SksxQnNzVWt3YUkwMng1QWVCZjJEdWk1eU9DdHAtSjFfMzd0cHNiMkJ1VVM5Rkk5azEzRm1ma1FKVl9NRmxQcmJjSXpmVEVpTmdFNlBvQW52b0tvX2VOWXFQNnpXZC10RW1vazJ3dVF0WXfSAc4BQVVfeXFMUEZtZUNQR2N1VzV3R2k3V2NvaC1vSTJwd0ZXVXk0cHdCeXcyN2FkVE53VUFXZnduNG13M2Y1VGhHRVB4QjNfZ0NRcG0taTIyWUI2RkhJU2tITHU5dW5tcXhVSno5TDRTYnRjVUF5OGdNVGVuNi1HaW96emQ4TnhJeHp0ZHVPX1FZbzBNdEJxVkNUa0xBQVRfMG81eDdfVkhTVVEyV3JzVkRMWFVhbnF0VEl4b2N0SlM3b2owNWd3TjZHNmU0dXl1TlNpeWJVbmc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 05, 01:38 PM ET",
+    "publishedAt": "2026-10-05T17:38:23+00:00",
+    "source": "the-decoder.com",
+    "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
+    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzMydWVjQmp6S1lVWlZodGx0dm5KS3dJbzR5R0M4M0hoVUEtdmxlSzJuMzlVSnpjOFhFSjhNakhtOGl1WFd4TFd0dmpFbTJHZ2U1bkctUkJJSXphUWtEN2twOThGa2M0RmlLSDVUN0hBV3RNQ0V2dDJ0ai1mZEdsaHk1bnozN09XLWpTX05XTm5nZnQxWldGVGkwQVNHcGR2ZmFxd2lSaUNHRUY1akd4V2lfdzJLQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 05, 11:49 AM ET",
+    "publishedAt": "2026-10-05T15:49:52+00:00",
+    "source": "mixed-news.com",
+    "title": "OpenVision 2.14.0 runs Ray-Ban Meta glasses on a ChatGPT subscription, not API credits",
+    "summary": "mixed-news.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3ZPZFRwWlVxaHVjTEw5bVFPUmhDNndhWFVjVlg0WmJHWXp4d25ZVm9hX3p6U3Vjc0JBeFcxNmFrRzRPQXBBSDR6SzhwZDUwVlJuNzByY09XQUUyUllPNHd0eFlHY25seGpfQ0ZweDFxSFFiMXk2RWRmbmJ4TGkta1J5WkpsOXM5VjJ1N1FTMXotNDhuYXc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 05, 11:12 AM ET",
+    "publishedAt": "2026-10-05T15:12:28+00:00",
+    "source": "OpenAI",
+    "title": "Our approach to EU text provenance rules",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 05, 09:19 AM ET",
+    "publishedAt": "2026-10-05T13:19:42+00:00",
     "source": "nokiapoweruser.com",
     "title": "Major Google Gemini Shakeup: Older Models Deprecated, Fast Modes Pulled as Gemini 4 Argon Nears",
     "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
@@ -48,18 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 04, 02:37 PM ET",
-    "publishedAt": "2026-10-04T18:37:24+00:00",
-    "source": "Startup Fortune",
-    "title": "Reddit is cutting off free API and RSS access while keeping Google and OpenAI paying",
-    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUg3eVBubDA3TzlhdWpSM0hPcEp4MEthdEc1VWY3QVh4YWZodUpvcUVSaFNETkRtOGEyY0Fjek1pLVVMR0tKal81RXFTZ3hqYTI5THVrakZ5ZDRGZlhhT1haRTd5X1dJYUQ1VVFEZ1VuWjZXZFI0a1I1QXU0QUVDdU02NmtzTlJ6Z09wN2d0ZnlqdE5ubDY3R3ZlOGNkTUV6RlI4a2dINFBpSGdMbDJ4NlBB?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 03, 04:57 PM ET",
@@ -72,39 +144,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 02, 08:59 PM ET",
-    "publishedAt": "2026-10-03T00:59:22+00:00",
-    "source": "tech-insider.org",
-    "title": "How to Use Gemini 4 Argon: 12 Steps, $2/M Tokens [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiMjBtZVVrOTZremZpS1V4Y1pxaG94TUF0VDQwU2dwU2Q4YTVkbWdtQk9PeVZWQlk4LUZJZ1Fqa2FNNU5uMUNfRUNCampoQy0yLVlJM1g0X0dFazJfVUhOa240TVRNd1A5OTVN?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 02, 12:25 PM ET",
     "publishedAt": "2026-10-02T16:25:34+00:00",
-    "source": "MIXED Reality News",
+    "source": "mixed-news.com",
     "title": "Claude Code 2.1.287 adds mods, and Anthropic says they can read your API key",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
+    "summary": "mixed-news.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94VHo1THdydmxIUUUzc1pZNFFQdHk4d2JwazVlbHQ0SjZZZnhCbndpQ09TSXluZ09tMVlMZVQyUXdCc0o0WWMtODB6Qy1tSHlYM2lGVndRcUpOU0VVUWVoWnBDeUVVbEJ5M2ZwaHVDWU5GTGF0eUhtaHpmNHA4QQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 02, 12:15 PM ET",
-    "publishedAt": "2026-10-02T16:15:00+00:00",
-    "source": "OpenAI",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
     "difficulty": "News"
   },
   {
@@ -124,9 +172,9 @@
     "label": "Gemini",
     "time": "Oct 02, 06:30 AM ET",
     "publishedAt": "2026-10-02T10:30:10+00:00",
-    "source": "Android Police",
+    "source": "androidpolice.com",
     "title": "I built the perfect to-do app with Gemini; I just talk about my day, and it sorts the rest",
-    "summary": "Android Police is reporting this update. Open the article for the full story.",
+    "summary": "androidpolice.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWHVuZk9BaWFRQUdiUENrM3pXSzd5dkdadThMSXdyMXNMdTBYWWk1aWMtelJyNjlMZFJuTVB2elh4T0pYTWUtOU1rT3p5alpuamtIQkVTRnVGMVBHUjBWcUwwcVhWZVNTQzRHcnlHYUVnVGd1Y1QyVERGLWF2bkpuMkNPZms4RDVwVGNEemtHQy1yc0l3Zm1udjdzTTF1M055Zy12SW90MA?oc=5",
     "difficulty": "News"
@@ -144,25 +192,13 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 01, 07:49 AM ET",
-    "publishedAt": "2026-10-01T11:49:45+00:00",
-    "source": "MIXED Reality News",
-    "title": "Gemini 3.8 Flash TTS clones a voice from 30 seconds, but AI Studio blocks it in the UK",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUZYeUk0SU5WN0VoWm5ncVZicm8xQ3ZmMnRjZVlDSVoxUGVvLW5mSVJYcFRNNDhKVnF3dmFNUFBZaVdaeDJzcVM2bnpUVG5NeVJaeHlpdGUzTmZGME0tVG50Nm1oQnRzRlVRemtwQ0hiRzVYOVo1WF9fRmxSQnpDMV9QQTg?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 01, 03:00 AM ET",
     "publishedAt": "2026-10-01T07:00:00+00:00",
-    "source": "DemandSage",
+    "source": "demandsage.com",
     "title": "Claude AI Statistics [2026] — Active Users Data",
-    "summary": "DemandSage is reporting this update. Open the article for the full story.",
+    "summary": "demandsage.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FeVBua29OcjFhdC15MVZoa0hZOVVqcFNBNWV3aVl0bVdCWk5VMzlrMW9yY0FuMTg1emRGbE5kbm5VUWZETkIwRDFxMmF1aFA5aDlOek1UTmtWa25G?oc=5",
     "difficulty": "News"
@@ -184,35 +220,11 @@
     "label": "Claude Code",
     "time": "Sep 29, 09:13 PM ET",
     "publishedAt": "2026-09-30T01:13:14+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "aws.amazon.com",
     "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "aws.amazon.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNDBCeFdKTDNQTi0xMGpCdFFnVF9LenRTZzNwNUhJNW5PaXRNSTB1OWt0d0FQckxib2t0QnZmSnd0akxXcWg1YXBBem8wQUdjdFc3eGNtdDJzT1A1d21YUndOdHBrVTAzWDVQWkk4RFBqeklYaHdLSTZOUFViNTRKVk1jLTBRM0s5c0ZVSHE4RnJvUDd5SURNbDRWaUp0REczOE1MS2tSVG1uQi00YXJpSHFJU1J0bF9EYTM5aUwzLUZvVFl5YlE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 03:01 PM ET",
-    "publishedAt": "2026-09-29T19:01:19+00:00",
-    "source": "OpenTools",
-    "title": "OpenAI's Decisions API gives Luna a smaller job: choose from answers you define",
-    "summary": "OpenTools is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnRheHZheXBDS0paWlA2UFpFX2pEU1o0Tm5tQUstRmNEX3BJN3QzNHFXOGFDY2tjTURoa3VwYmpHUUFBMUZ3QWxFMXh6VXRETDdmOERTbkZEVi1DRmhKdzRKS0d0MzlSSWl4aVpWUEdiNkNMTlUwbUFNTDc3TUhqemJpYko0M0NPMmc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 01:18 PM ET",
-    "publishedAt": "2026-09-29T17:18:06+00:00",
-    "source": "The New Stack",
-    "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
     "difficulty": "News"
   },
   {
@@ -230,8 +242,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Sep 29, 11:40 AM ET",
-    "publishedAt": "2026-09-29T15:40:00+00:00",
+    "time": "Sep 29, 10:42 AM ET",
+    "publishedAt": "2026-09-29T14:42:30+00:00",
     "source": "Mashable",
     "title": "Claude down: Why it says account temporarily unable to authenticate",
     "summary": "Mashable is reporting this update. Open the article for the full story.",
@@ -249,18 +261,6 @@
     "summary": "Digital Trends is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLUltc3pZMHRNb2dRWFBVdU9ZSnNiZHd2V2FiYkt6SVAzTHdCNDZGajA1OUt0cnI4M0hibVZwZ3ZfUE9NR19OZ2F6OEhWX1BBcE5HdDM4RDFyaEMzbUl5OTNyUGpVLWV4dy05NXlpbklMN0o3cHNZQXhVUDV6QUZyR2lJbmNDX0V2X19ZZmlQQUVQWXQ3bmlB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 06:25 AM ET",
-    "publishedAt": "2026-09-29T10:25:08+00:00",
-    "source": "the-decoder.com",
-    "title": "OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHhsRk9DNFZWUWFjQ2dlX0pYQUE3dm85UTA5eXZkYXl0SllMQUFwbFItbHB5RmFfejFmTkFCbFFQQlE1TVFKMXRqWl9pWThNNE0tRXFBRHhJR0FmVUxtYWJNWUNjTnZJMWtKVW00WkVkOFRtc1BoM3V2UHRGS3RsX2NmVFVUV2ZESjg2UjNlY1dnWW15THdrWmt6TmVWUE5seUVVT1ZGZmpRQXd3OGdueFdWSGhEdmZnZExUcl9ndmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -328,9 +328,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "The Official Microsoft Blog",
+    "source": "blogs.microsoft.com",
     "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
+    "summary": "blogs.microsoft.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
     "difficulty": "News"
