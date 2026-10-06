@@ -1,26 +1,62 @@
 [
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 05, 07:26 PM ET",
-    "publishedAt": "2026-10-05T23:26:15+00:00",
-    "source": "Andreessen Horowitz",
-    "title": "The Top 100 Gen AI Consumer Apps — 7th Edition",
-    "summary": "Andreessen Horowitz is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 06, 12:30 AM ET",
+    "publishedAt": "2026-10-06T04:30:23+00:00",
+    "source": "PCMag Middle East",
+    "title": "OpenAI to Add Watermarks on ChatGPT's Text Outputs, But Only in the EU",
+    "summary": "PCMag Middle East is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OUzc4QXRVTjdmRWNxUmVTZFI0Y1YyR0FqQTZxd0dqWGlKT1dPTVpucUItTXA2OTFjSXdlYTFGOHVYU29EcUpVcDFMSQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEVNSWh6cGZJMGZGbXJzREw3ekU3U1UwUDFQZlFaY2ZlM2tpLWtsLVlVS2tHQ09zTE9SLTZfLTdua1J3NnlvNlZvSDU3MmFOSTYzUndvaFpENVhEb09oOFhkalR4LVBrN0dpcS1HVkhEdWkyS25HNW1ZbEw5S0hYTnZZRGxCQnRrX2Zrc1dwZUo1UVBzbHJISjJmaWVjbk5qVjlv?oc=5",
     "difficulty": "News"
   },
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 05, 06:06 PM ET",
-    "publishedAt": "2026-10-05T22:06:34+00:00",
-    "source": "The New Stack",
+    "time": "Oct 06, 12:19 AM ET",
+    "publishedAt": "2026-10-06T04:19:47+00:00",
+    "source": "Kingy AI",
+    "title": "Claude Sonnet 5.5 Medium vs High vs Max: Which Effort Setting Is Worth the Cost?",
+    "summary": "Kingy AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QNDBHSXhLejJPWDlJeXNXNDEwODEtNFdxNkR4VzZTYU40bFFGSXdWaUNpWGNXLUhuZTZIdXZyN0lkZjF0b2dvQkdaQmpaal9RMEtQRHhueHpuZ3VlZG9oZWYwWG4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 05, 09:51 PM ET",
+    "publishedAt": "2026-10-06T01:51:56+00:00",
+    "source": "thenewstack.io",
     "title": "OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "summary": "thenewstack.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YcVlZSTdJM09ibS1LUHVOUl9BYlZYVWxkTjRFc2ZRY2pxcERwWVRFd2xyNXJLckZaWnJIdDUxYkJQVzZHRUlJU2lsR0ZNQVpQeTlJcXREUjBuNVRNT2U0OEpn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 05, 09:07 PM ET",
+    "publishedAt": "2026-10-06T01:07:32+00:00",
+    "source": "Search Engine Journal",
+    "title": "OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In",
+    "summary": "Search Engine Journal is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFJwa0lvNDdzVkJ5WkRyWVRyb1gtbDVjWHdhRTFSTkRtRWFoQkVaMGRfUlhvT0hxaHlfZzNsVW5fOG9LOGxsM1dLeGNDOWU5bm96dFp4dm80b1VRSXdmOENpSVo3MU9vdTJCSGVMaTVWaDN5TFktcTdiMkx1N01DY3Z0YUFZdWZWd3hYUHZIbUNRLWs0N2VTa2poWllpaXhOVjNtRUlB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 05, 08:28 PM ET",
+    "publishedAt": "2026-10-06T00:28:50+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Agent SDK vs AgentKit vs ADK: 3.6x Star Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlpWa2lsOTdfY2NVZWZQbFRXd3dQZndGVHpjRmEzZGhiZGtkUHJaN0E4Q3kyNmZORjdBUG90WGFZSS1HZWpnbGJrdHZiMklUcGpDN1cwRXJSYjJZM0stTnZ3d21IM0NqLVhpNFQzYkdSLU1uTzYyRms1eUhzYkpSd1prLU81QlgtbFBv?oc=5",
     "difficulty": "News"
   },
   {
@@ -32,7 +68,7 @@
     "title": "OpenAI details new text watermarking system for ChatGPT, Codex, and the API",
     "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ2VFM19BWG1nOWVZeU1CdU9BMTY0OElWRkNDU1JRYzZpdmFNRlVRcElMRkRiNm90X2hWSDJvZ2NiV1VPeVFvZHVjekM5ZVlBTXdDRV8tVUstbXdyUnZMS2c2QXFydFdnZUpSZlo2aTdtQWRrbVpEOXY3eU9pX2p2RUxvaWwtTktRRXRvYjhmdEJMeTFBeFhzdHhVc2FETXNjU3dWTzRwYzZpT2xBeTY5NVNkZDBFaTFBV0RPcHBHR19hZHM?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORU5BV0lERk9wVFgtdUhpWHIwVXZNRVZhYnhjTzJDNEpJanZ6NFJIZ09FU0g5RDBKOFB2VHBrTGRmN3lWMVlDSmZhak84M29xRUswaE1qYkRIZTQ1VVJ0QWRlVGIxYjdjaDkybG9FcTV2cFFPYXh0UDlVMGNjdG9QMjhGX1FEamlwN1hSWTJ0cUI5VXRVMUgxYmQ4THcwRnNnY3dLU3hfZEE?oc=5",
     "difficulty": "News"
   },
   {
@@ -52,35 +88,11 @@
     "label": "Claude Code",
     "time": "Oct 05, 04:01 PM ET",
     "publishedAt": "2026-10-05T20:01:09+00:00",
-    "source": "newsletter.semianalysis.com",
+    "source": "SemiAnalysis",
     "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-    "summary": "newsletter.semianalysis.com is reporting this update. Open the article for the full story.",
+    "summary": "SemiAnalysis is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1obmlsblJmOTI4SDVYR1hzd3lzNEVkM0JONGV0ZUJjZXpWRjdzaW85cjNIclpLZXJVbzQyU0VkbFVzX3VuM0M5VkZ2MlowRG1DaVc0ZllobllaLTBDaFlrSllvRmpqZVBMS0E2b1NNRkdwMkNnT0xxSFhn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 05, 02:38 PM ET",
-    "publishedAt": "2026-10-05T18:38:45+00:00",
-    "source": "FourWeekMBA",
-    "title": "OpenAI Opens Text Watermarking, Plans EU ChatGPT Rollout",
-    "summary": "FourWeekMBA is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb193Q0hUNlVpQlUyWmwxQXQ3andYNEIyVHhSQkctT3Z3UG5uQkxCeTkwU01VbXktLVZNM3FNcmhZNmJ0TS0zSndwZUJCaEJhaDFVeTdtaEd0eWdiTVp0WlgzZ3RWc2VWTThyR0NrbklwdE5sYlo1ZDVoWThRVElFVlAwaXhYaHBlM2x3bA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 05, 02:04 PM ET",
-    "publishedAt": "2026-10-05T18:04:52+00:00",
-    "source": "MIXED Reality News",
-    "title": "OpenVision 2.14.0 runs Ray-Ban Meta glasses on a ChatGPT subscription, not API credits",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3ZPZFRwWlVxaHVjTEw5bVFPUmhDNndhWFVjVlg0WmJHWXp4d25ZVm9hX3p6U3Vjc0JBeFcxNmFrRzRPQXBBSDR6SzhwZDUwVlJuNzByY09XQUUyUllPNHd0eFlHY25seGpfQ0ZweDFxSFFiMXk2RWRmbmJ4TGkta1J5WkpsOXM5VjJ1N1FTMXotNDhuYXc?oc=5",
     "difficulty": "News"
   },
   {
@@ -122,6 +134,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Oct 05, 09:19 AM ET",
+    "publishedAt": "2026-10-05T13:19:42+00:00",
+    "source": "nokiapoweruser.com",
+    "title": "Major Google Gemini Shakeup: Older Models Deprecated, Fast Modes Pulled as Gemini 4 Argon Nears",
+    "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdXBCYlVjZ19rTVo4aFd0VVdjQVFHV1JfSmx5bFNtdXlVbjJLMnB3STlBZGVsTkVrSzg0S3pTMkpZcUNpZ1M2cHFhSGFDbEkzV1BVQkRMd0RlWWVQT1RPZHJuWFlib00ySlVRa0NEUXJBR1JvQV80M1NSUzVkeXRHaUh4WmJWS1d1ZmZOcUdMZWRXYllwZlFNdXBZWHI?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Oct 05, 08:48 AM ET",
     "publishedAt": "2026-10-05T12:48:17+00:00",
     "source": "MakeUseOf",
@@ -129,30 +153,6 @@
     "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2JjdTdWZ050eUhSaDlEMVN4UVV2OW15czNwUXotRFE5RU1ndmVwel9PTWJJaGNuWVhUbUdPeGtPZWhVVUpTNFZSR21WSTFDOEFLNk5fYmFBVk5fRHBsSWpfUDFLQUNFRkxnNnFMYmdOOHFSTE1DTGhBRU1zYkxCTTdkZ3NweDdtWVA2UHBPQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 05, 06:15 AM ET",
-    "publishedAt": "2026-10-05T10:15:41+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Sonnet 5.5 API Setup: 13 Steps, Full Pricing",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmY2F6ZHluWE8tZEVaVHNwdGQ0dTN6SWlyYnY1Xy14Mlp4Sjd5SExRTmpwcTIxb1RyaE1peWdYVm82Umo5amJLWmFoZEpmUlRtc1JWMWNReDZ0bDZDVWVjUFEzQlJMUlZ4aUE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 05, 04:14 AM ET",
-    "publishedAt": "2026-10-05T08:14:44+00:00",
-    "source": "DevOps.com",
-    "title": "Open Source Mod Brings Rate Limits, Costs and CI Status Into View for Claude Code Users",
-    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3Z6N2RBbGsxaG1TeENwUndhTHVQbFhrdDkzZWpKcFdKcXlPSzYxenJfc1kxZXBTY1YzUHphQjR2RW9jZzFXajFIakZUVVpzMUdoeUdfYjJqZnU0MnNjajRZYzlIYkxGVEd6UTMzUnVlOGkxbm5SSktoTmY4Zlg5QzU3a3JTV3pDWDBZZ3pocFJCT1FfekoxSzQxXzNyS3lvNjYwSWJLemhGdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -184,9 +184,9 @@
     "label": "Claude Code",
     "time": "Oct 02, 12:25 PM ET",
     "publishedAt": "2026-10-02T16:25:34+00:00",
-    "source": "MIXED Reality News",
+    "source": "mixed-news.com",
     "title": "Claude Code 2.1.287 adds mods, and Anthropic says they can read your API key",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
+    "summary": "mixed-news.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94VHo1THdydmxIUUUzc1pZNFFQdHk4d2JwazVlbHQ0SjZZZnhCbndpQ09TSXluZ09tMVlMZVQyUXdCc0o0WWMtODB6Qy1tSHlYM2lGVndRcUpOU0VVUWVoWnBDeUVVbEJ5M2ZwaHVDWU5GTGF0eUhtaHpmNHA4QQ?oc=5",
     "difficulty": "News"
@@ -218,6 +218,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Oct 01, 12:32 PM ET",
+    "publishedAt": "2026-10-01T16:32:23+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Implementing Multi-Environment Access for Claude Platform on AWS | Amazon Web Services",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVG5TYWs2eXVfekFmcGJKUS03a0RMSFh1NnBJa2Fjb0JEbnlvZTVlRGNZMVctYUhsb18wNkQ2ejZSRkhWQW1VUksxUmU3b3FPN0REWnJmSTU5T3FvYlJtV05ZeHpCM2lLRS1WVFNQeVk4RzJEbjRJSGxUa0llU183YkV0ejR5ZWVsc0lXS1dyOWV6d2ZwQjFTbDV6Wk9RS05zWDdNdmF0ZEt6bElGX3VEQw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Oct 01, 03:00 AM ET",
     "publishedAt": "2026-10-01T07:00:00+00:00",
     "source": "DemandSage",
@@ -225,18 +237,6 @@
     "summary": "DemandSage is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FeVBua29OcjFhdC15MVZoa0hZOVVqcFNBNWV3aVl0bVdCWk5VMzlrMW9yY0FuMTg1emRGbE5kbm5VUWZETkIwRDFxMmF1aFA5aDlOek1UTmtWa25G?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 29, 09:13 PM ET",
-    "publishedAt": "2026-09-30T01:13:14+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNDBCeFdKTDNQTi0xMGpCdFFnVF9LenRTZzNwNUhJNW5PaXRNSTB1OWt0d0FQckxib2t0QnZmSnd0akxXcWg1YXBBem8wQUdjdFc3eGNtdDJzT1A1d21YUndOdHBrVTAzWDVQWkk4RFBqeklYaHdLSTZOUFViNTRKVk1jLTBRM0s5c0ZVSHE4RnJvUDd5SURNbDRWaUp0REczOE1MS2tSVG1uQi00YXJpSHFJU1J0bF9EYTM5aUwzLUZvVFl5YlE?oc=5",
     "difficulty": "News"
   },
   {
@@ -292,9 +292,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "CIO Dive",
+    "source": "ciodive.com",
     "title": "Microsoft retools Copilot with coding, AI agent capabilities",
-    "summary": "CIO Dive is reporting this update. Open the article for the full story.",
+    "summary": "ciodive.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
     "difficulty": "News"
@@ -304,9 +304,9 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "blogs.microsoft.com",
+    "source": "The Official Microsoft Blog",
     "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "summary": "blogs.microsoft.com is reporting this update. Open the article for the full story.",
+    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
     "difficulty": "News"
@@ -328,9 +328,9 @@
     "label": "Claude Code",
     "time": "Sep 22, 03:00 AM ET",
     "publishedAt": "2026-09-22T07:00:00+00:00",
-    "source": "Anthropic",
+    "source": "anthropic.com",
     "title": "Introducing Claude Opus 5.5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
     "difficulty": "News"
