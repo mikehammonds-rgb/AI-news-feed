@@ -1,5 +1,65 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 06, 12:00 PM ET",
+    "publishedAt": "2026-10-06T16:00:00+00:00",
+    "source": "TechCrunch",
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUw1T3diMDBtTXdtdnJ1bk5DdUpfUWtuYzJaVjF2M0lUMjJkeXYxZUN0bEQ5bU45OGM5OXZXUzJGZFJKSHhRaHRlbk80dnZlMEpNaGZfT1JfWmhnRmtpMGJ0dWNlaFRNd0FWVUNQVGRoeVhJVmk5clNPMkRZWmNnLUZSRmlZeXN5bEtvNW51WmlSazMxcHhPODdIV2lZYnNyWDBRUk1nRW5KMklkaHpwSFQ5M0NOS2l2dlow?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 06, 10:58 AM ET",
+    "publishedAt": "2026-10-06T14:58:33+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Code vs Codex: Benchmarks, Pricing [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JVGhYbFc1Y1E0SFN2bXBpdlpiTnE5MTJ0czNzcWFnVUtKWGRlSVN1M0JSSmE5dHpmeG5QRVlJUjJhUFNPV1FxR0J5MnFybWszb2h5ZWR1ZTZSSENpUm1HZDlaUllZYTJmbmtkRUZrTXhxQWRfYnZN?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 06, 10:24 AM ET",
+    "publishedAt": "2026-10-06T14:24:31+00:00",
+    "source": "blog.google",
+    "title": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXk1MkxVaC1ITnBDLXc5YWtOOXpNaVFSQ3NES1NHNlVZXzYxVTZkb2djOWtxUU9GdF9TSVNTOEhXQ2h3bWphVHJ0WS1vbFBTR1hkQ2NFeGtFMnl3dVl0ZkVYUmtCbmNnWXBqUkxMWm92TWdva3F1UW1HYnB1bl93NlpkcmZLYzdLMHlxTktFX29LV19wTTVWNkpKSDlyZGs?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 06, 07:24 AM ET",
+    "publishedAt": "2026-10-06T11:24:14+00:00",
+    "source": "Incrypted",
+    "title": "Google Opens Gemini Omni to Everyone: A Step-by-Step Guide to Creating Free Videos in Vids",
+    "summary": "Incrypted is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmQ2VLaFdQYkxFbmxjOXVkWmoyTDJMVDN3c3F1eG4yclZMZWctay04b3hrZG9OTko4N0p0VHU2QTVVUGRudWRfZUJJRXNsdGdfSTV1Q1A1Z1lnYW1fcThrOVZCNWZMZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 06, 06:11 AM ET",
+    "publishedAt": "2026-10-06T10:11:34+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude Opus 5.5 API Setup: 13 Steps, $4/$20 per 1M [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43ZEVjdzZSbTk4WTFtYVE5YWpMMTZxMEY4cjFYWnNyZUJQMm5tQkR6MHVTS3JNYUg3QU05VEVNV2l2NE96eVJDRWpEMF81eDIyWW91RnQ2Q0RtYjVHWlNTWlo4ZTlSaEE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 06, 12:30 AM ET",
@@ -28,9 +88,9 @@
     "label": "Claude Code",
     "time": "Oct 05, 09:51 PM ET",
     "publishedAt": "2026-10-06T01:51:56+00:00",
-    "source": "thenewstack.io",
+    "source": "The New Stack",
     "title": "OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default",
-    "summary": "thenewstack.io is reporting this update. Open the article for the full story.",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YcVlZSTdJM09ibS1LUHVOUl9BYlZYVWxkTjRFc2ZRY2pxcERwWVRFd2xyNXJLckZaWnJIdDUxYkJQVzZHRUlJU2lsR0ZNQVpQeTlJcXREUjBuNVRNT2U0OEpn?oc=5",
     "difficulty": "News"
@@ -45,18 +105,6 @@
     "summary": "Search Engine Journal is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFJwa0lvNDdzVkJ5WkRyWVRyb1gtbDVjWHdhRTFSTkRtRWFoQkVaMGRfUlhvT0hxaHlfZzNsVW5fOG9LOGxsM1dLeGNDOWU5bm96dFp4dm80b1VRSXdmOENpSVo3MU9vdTJCSGVMaTVWaDN5TFktcTdiMkx1N01DY3Z0YUFZdWZWd3hYUHZIbUNRLWs0N2VTa2poWllpaXhOVjNtRUlB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 05, 08:28 PM ET",
-    "publishedAt": "2026-10-06T00:28:50+00:00",
-    "source": "tech-insider.org",
-    "title": "Claude Agent SDK vs AgentKit vs ADK: 3.6x Star Gap [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlpWa2lsOTdfY2NVZWZQbFRXd3dQZndGVHpjRmEzZGhiZGtkUHJaN0E4Q3kyNmZORjdBUG90WGFZSS1HZWpnbGJrdHZiMklUcGpDN1cwRXJSYjJZM0stTnZ3d21IM0NqLVhpNFQzYkdSLU1uTzYyRms1eUhzYkpSd1prLU81QlgtbFBv?oc=5",
     "difficulty": "News"
   },
   {
@@ -96,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 05, 01:41 PM ET",
-    "publishedAt": "2026-10-05T17:41:13+00:00",
-    "source": "NDTV Profit",
-    "title": "Gemini AI Paywall: Google Restricts Free Users To Flash-Lite Model From October 9",
-    "summary": "NDTV Profit is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN21LWXJWR0JkTFpPXzl3OVlQMGlpdndhQTlxalZIczc4NWFtaVR1bDBCSk8wSVRUOVZSNlhGUFQyUG8tbGZ0RlpHWnlwNEJGZFV1NFFmQVNrTDN2SksxQnNzVWt3YUkwMng1QWVCZjJEdWk1eU9DdHAtSjFfMzd0cHNiMkJ1VVM5Rkk5azEzRm1ma1FKVl9NRmxQcmJjSXpmVEVpTmdFNlBvQW52b0tvX2VOWXFQNnpXZC10RW1vazJ3dVF0WXfSAc4BQVVfeXFMUEZtZUNQR2N1VzV3R2k3V2NvaC1vSTJwd0ZXVXk0cHdCeXcyN2FkVE53VUFXZnduNG13M2Y1VGhHRVB4QjNfZ0NRcG0taTIyWUI2RkhJU2tITHU5dW5tcXhVSno5TDRTYnRjVUF5OGdNVGVuNi1HaW96emQ4TnhJeHp0ZHVPX1FZbzBNdEJxVkNUa0xBQVRfMG81eDdfVkhTVVEyV3JzVkRMWFVhbnF0VEl4b2N0SlM3b2owNWd3TjZHNmU0dXl1TlNpeWJVbmc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 05, 01:38 PM ET",
@@ -129,18 +165,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 05, 09:19 AM ET",
-    "publishedAt": "2026-10-05T13:19:42+00:00",
-    "source": "nokiapoweruser.com",
-    "title": "Major Google Gemini Shakeup: Older Models Deprecated, Fast Modes Pulled as Gemini 4 Argon Nears",
-    "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdXBCYlVjZ19rTVo4aFd0VVdjQVFHV1JfSmx5bFNtdXlVbjJLMnB3STlBZGVsTkVrSzg0S3pTMkpZcUNpZ1M2cHFhSGFDbEkzV1BVQkRMd0RlWWVQT1RPZHJuWFlib00ySlVRa0NEUXJBR1JvQV80M1NSUzVkeXRHaUh4WmJWS1d1ZmZOcUdMZWRXYllwZlFNdXBZWHI?oc=5",
     "difficulty": "News"
   },
   {
@@ -177,6 +201,18 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiMjBtZVVrOTZremZpS1V4Y1pxaG94TUF0VDQwU2dwU2Q4YTVkbWdtQk9PeVZWQlk4LUZJZ1Fqa2FNNU5uMUNfRUNCampoQy0yLVlJM1g0X0dFazJfVUhOa240TVRNd1A5OTVN?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 02, 12:37 PM ET",
+    "publishedAt": "2026-10-02T16:37:53+00:00",
+    "source": "TechRepublic",
+    "title": "AMD Launches Ross AI Assistant for Embedded Development",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEkzaWNGTFpvQmtvY2RXUi13TGJFWV9yVXBjSHVuVFI0QUp6WWJraTUzbnVQanlTVFRmelZXMDN2R0ltQVNIWkRzdFBsVzBaVWd4MTE1Um4zUlVFci1rZU05eEhqMEgzS0xRY3A1OVIxNko2VmFJX1Y2U1Mya2dDMA?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,30 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 01, 03:00 AM ET",
-    "publishedAt": "2026-10-01T07:00:00+00:00",
-    "source": "DemandSage",
-    "title": "Claude AI Statistics [2026] — Active Users Data",
-    "summary": "DemandSage is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FeVBua29OcjFhdC15MVZoa0hZOVVqcFNBNWV3aVl0bVdCWk5VMzlrMW9yY0FuMTg1emRGbE5kbm5VUWZETkIwRDFxMmF1aFA5aDlOek1UTmtWa25G?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 29, 10:42 AM ET",
-    "publishedAt": "2026-09-29T14:42:30+00:00",
-    "source": "mashable.com",
-    "title": "Claude down: Why it says account temporarily unable to authenticate",
-    "summary": "mashable.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkxYUVlxU2VBc0tySVZmeGlETGN0d19iVjFkUFFuSlpYWHhIOTh2dmRuTDZtek16cmRYdk1SYS1VMS0xaVRhUm4ydzlNNnpyUHkzZGVOLWQwaWRmQUt6SjR0Zkt3N0lOQmRHUkFoY25kU1VDaVA0VnVnMVlVZjhxV3FpRVhKZmhxN25yWDRFUlI?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Sep 25, 09:51 AM ET",
@@ -261,18 +273,6 @@
     "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 25, 08:58 AM ET",
-    "publishedAt": "2026-09-25T12:58:53+00:00",
-    "source": "qz.com",
-    "title": "Microsoft is relaunching Copilot as a unified app combining coding and autonomous AI agents",
-    "summary": "qz.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LbXJvWGxkSC1BX3lFYWpkaE1HVFE4eHNZMG9hcUp1LWJOOGFCempXQWV1VWdObEpvNWUybjNZVlN5dVhrQkdkeHdMUnVycDVOME9lWWZZRDIwWWthWTlkQl9Od1JGOUdlT0dULWRvQk93d3VOYlRj?oc=5",
     "difficulty": "News"
   },
   {
@@ -292,23 +292,11 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "ciodive.com",
+    "source": "CIO Dive",
     "title": "Microsoft retools Copilot with coding, AI agent capabilities",
-    "summary": "ciodive.com is reporting this update. Open the article for the full story.",
+    "summary": "CIO Dive is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 25, 03:00 AM ET",
-    "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "The Official Microsoft Blog",
-    "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
     "difficulty": "News"
   },
   {
@@ -317,10 +305,34 @@
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
     "source": "tech-insider.org",
-    "title": "GitHub Copilot vs Cursor vs Claude Code 2026 Compared",
+    "title": "GitHub Copilot vs Cursor vs Claude Code: 1,762 Elo Gap [2026]",
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wVG9KSGowZ1cxU2pLMlBYY2hKOTVubERvVzg2RzR3UEJkeGF0Y19pd2IxcFN3ZzhYVXp1UDhwVHNUdFVzdC1lMUZCb3ZwdHloSGRuSG9fMDZjeUxwS1hCLTdJZGl3eE9IRHJqS3BJT3RrTGgwOUxEcWpR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 25, 03:00 AM ET",
+    "publishedAt": "2026-09-25T07:00:00+00:00",
+    "source": "blogs.microsoft.com",
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "summary": "blogs.microsoft.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 25, 03:00 AM ET",
+    "publishedAt": "2026-09-25T07:00:00+00:00",
+    "source": "qz.com",
+    "title": "Microsoft is relaunching Copilot as a unified app combining coding and autonomous AI agents",
+    "summary": "qz.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LbXJvWGxkSC1BX3lFYWpkaE1HVFE4eHNZMG9hcUp1LWJOOGFCempXQWV1VWdObEpvNWUybjNZVlN5dVhrQkdkeHdMUnVycDVOME9lWWZZRDIwWWthWTlkQl9Od1JGOUdlT0dULWRvQk93d3VOYlRj?oc=5",
     "difficulty": "News"
   },
   {
@@ -328,9 +340,9 @@
     "label": "Claude Code",
     "time": "Sep 22, 03:00 AM ET",
     "publishedAt": "2026-09-22T07:00:00+00:00",
-    "source": "anthropic.com",
+    "source": "Anthropic",
     "title": "Introducing Claude Opus 5.5",
-    "summary": "anthropic.com is reporting this update. Open the article for the full story.",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
     "difficulty": "News"
@@ -357,18 +369,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 29, 03:00 AM ET",
-    "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "Business Insider",
-    "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "Business Insider is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
   }
 ]
