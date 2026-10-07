@@ -2,8 +2,68 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 07, 09:54 AM ET",
-    "publishedAt": "2026-10-07T13:54:33+00:00",
+    "time": "Oct 07, 02:53 PM ET",
+    "publishedAt": "2026-10-07T18:53:45+00:00",
+    "source": "The Decoder",
+    "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLTlVLUtxSHZoWEktZ1llZ2ktc2hZMXNJeU9VRFBhZkRpeG1JQ3hlZU5td2R5YktlamNjWnVpVjJDS0s0SXV0QXBGYUFzREo1NVJiUlVKWndvOC0wY0dCWXVGNEZmX3dCUE1ldkxFS3pCbHN1TGk2czZMOTM4a2ppYTNWX1RFNzRncHo0X0dQeGRSQ2YySUZSUjNRM0dCT1B0cmlEbWNlRXRza3A0U2M4XzhKTWVLdTJFVjFSazNyWlc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 02:27 PM ET",
+    "publishedAt": "2026-10-07T18:27:02+00:00",
+    "source": "Unite.AI",
+    "title": "Anthropic Releases Claude Haiku 5.5, Cutting Small-Model API Prices",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmJRRU5wbnZielE5Ul95NTNadVFONVZkYlV0c2xweHI4TFFhQmVQVHh6TDZ1aW5wdmxTcF9PQWxRZHp0SVJQTnN4aWdZMWREUklBRGpXanl4ejBEdGpjYkV0aGk3MFk2Sy1GcGNYVG1tTWhPb09ScjF3ZlpEZ2lITUdfR2xEbmdRRmotd0M1blBWZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 02:08 PM ET",
+    "publishedAt": "2026-10-07T18:08:26+00:00",
+    "source": "VentureBeat",
+    "title": "Anthropic launches Claude Haiku 5.5 with 90% API price reduction, matching GPT-6 Luna",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTFMTVFQOTJ2SmdCSGdjR2Z4Q2ZYMF9ncldZM3NUNTlEWUVOUERVUVVpdHdfQno4c3F3aWJ1WnIybnpYNGxnMmk5d3FCaUlkdkhCeHpPMENmRG81MEpBcGx5Y1kxY25GY3oxb3gzNGk1bDdOS0JwMkxFZ1hkUFI2M21GMWowTzc4VVJaLUNaajc5MGJrMTdtcXNJem93Q2lpSGFvYXJCbEFwN2hMTnY4bzcxdEswa29DWFE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 07, 11:38 AM ET",
+    "publishedAt": "2026-10-07T15:38:42+00:00",
+    "source": "The Decoder",
+    "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMk03cFp1MGRpX3RDZ3dPYmVRR2JCQm5KY0pNSWE3d25qaVdtVlJtX01JbjIxTG9uTUVMT200dmwtY1MxR0ROMlRpU01tVGR4ZUpCMTUzWTJCTk1xREZOcjA2VGdTMDJFZ1NXN0JLMDZFcEJIWGtoMXpPOTQ1SklIeVBzNEdzdFk1UGhoR2JDMG4ycmxOalFka0w3eDNsUnZZd0lLUFhPc2FpUTBqMWc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 11:36 AM ET",
+    "publishedAt": "2026-10-07T15:36:00+00:00",
+    "source": "Yahoo Finance",
+    "title": "Anthropic recognizes Intuitive.ai as a Preferred Partner in Claude Partner Network",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGVJUUw1YkU3elhLdnN4OTRpVFhKOUZsTTgwakNzeENNTkdtUmxHUHUxVkFrMjZnMGFxX09Nc2dMNlNKSnJsSHExWmZ4V1N6OTFYVVI5R1ZKRktJZElqZ0JTMzlIR0RucXdMVjhObTU1V1RSQzVzS0FPaVRBUkRveTF6MWJjU0IyNTBnd19Ld3dzdy1fTlc1N0lrWHpqZTJTNTJTdXc4VGlodFE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 10:54 AM ET",
+    "publishedAt": "2026-10-07T14:54:14+00:00",
     "source": "Tech Edition",
     "title": "Anthropic offers startups a free year of Claude Team and US$1,000 in credits",
     "summary": "Tech Edition is reporting this update. Open the article for the full story.",
@@ -26,8 +86,8 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Oct 07, 08:19 AM ET",
-    "publishedAt": "2026-10-07T12:19:02+00:00",
+    "time": "Oct 07, 08:38 AM ET",
+    "publishedAt": "2026-10-07T12:38:19+00:00",
     "source": "KDnuggets",
     "title": "I Tested 5 AI Coding Assistants for a Month: Here’s What I Actually Found",
     "summary": "KDnuggets is reporting this update. Open the article for the full story.",
@@ -36,39 +96,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 07, 06:35 AM ET",
-    "publishedAt": "2026-10-07T10:35:00+00:00",
-    "source": "BigGo Finance",
-    "title": "OpenAI Debuts Decisions API for Near Real-Time Classification, Up to 10x Faster Than GPT-6 Luna",
-    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wSHhGZTVQanlNLUF2LVpQUFRlemlETXFoZzEtc2YxeHU5aE9sWndsOVNsWWo0Y21kdmhRWFpVWTZVVWd3LTRuWVowRmNmSUYwWEtveHh0ZU5YZ3NuSHd4aUk4ZldtcmVyREhMT3ctMmFIaXdwY1E?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 07, 04:52 AM ET",
-    "publishedAt": "2026-10-07T08:52:36+00:00",
+    "time": "Oct 07, 04:55 AM ET",
+    "publishedAt": "2026-10-07T08:55:37+00:00",
     "source": "TechPluto",
     "title": "Gemini API pricing, worked out before you add a card",
     "summary": "TechPluto is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0x2b1lRYXgtZU5mLUdmbDJWNmdLUjRlSkhweHU2ZFZEaGpuVFFyY0g4S1BiTUQ1ZEJ4UGlyVFpBYTR2UnVnMllaZ0FibUJUWmdzak53bG85UmtDck4wRjB2Yk9lVlFQRnZNYTBjNkg3REdSd3BITFdSN1YxdW9uVU16SEY?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 07, 04:18 AM ET",
-    "publishedAt": "2026-10-07T08:18:43+00:00",
-    "source": "Dataconomy",
-    "title": "Anthropic Expands Claude For Startups With Free Team Plan",
-    "summary": "Dataconomy is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3NBdzdickhjQ0Y2UXpZZ0g4OXZhRGFKSVU2YUNGSHVsSVM2MjVQMV9faXN6NG9GNzdBdTFONU9KM3hjZk1Qa19GRTEza1FxblZScFVrZWF4elh5b0tia18zZUwtS2NpblBwUk9BWVVSRXVyOV9GLXRocllQTm9jelpsUzU4TUVvV2ZPVzVRdFMxR0VhQWxZ?oc=5",
     "difficulty": "News"
   },
   {
@@ -110,18 +146,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 06, 10:24 PM ET",
-    "publishedAt": "2026-10-07T02:24:00+00:00",
-    "source": "TOKENPOST",
-    "title": "Google Launches Nano Banana 2.1 With Lower Prices and Higher Cited Scores",
-    "summary": "TOKENPOST is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5icThkaUY5czFwYm54NGo1VExXR0dRMVJEaThoZTF2Mnhzd0FUOHpxNWxnaGNTVWJheVczRm4yWkpjandkSEo5VWhzRzVOUzZLTC1vUUtOakxRME0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Oct 06, 07:43 PM ET",
     "publishedAt": "2026-10-06T23:43:04+00:00",
     "source": "Unite.AI",
@@ -158,30 +182,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 06, 05:00 PM ET",
-    "publishedAt": "2026-10-06T21:00:14+00:00",
-    "source": "How-To Geek",
-    "title": "I ditched Claude Code and Codex’s rate limits by switching to this open-source agent with 75 model providers",
-    "summary": "How-To Geek is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDNHY1E2d3QzelBJc2MwMHZocXZwTDRpbWRyTUhaVC0wVjdqNmlKOWYwc0k4SndaVzd0ZTRpSlhubXZ5eDhHXzhoUzRnMWlwb0F2RXFtdzQ0Z1ZBdTBGQndORWlzV2dOSER3MXFZT29PQW5ua2c4WTNHb2FEeUwwc3ZlTkFIM1pDY3ZNUHNsQzNhNHRGeXNfVHI4REVReEJGUmFEMGhHZElIaHFuR3oteW9sU1ZSZjlUMGVYSHhCMzFNVmJwVWpLRWJ3Vk1tMzg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 06, 12:35 PM ET",
-    "publishedAt": "2026-10-06T16:35:48+00:00",
-    "source": "Quartz",
-    "title": "Anthropic expands Claude Startups program with credits and perks",
-    "summary": "Quartz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tOXNuT0szYmp5c01VRTRkZmI5eU9URGZBMXFjd2M3QnctNFM4ekdjb3JDOFpMdkRXaFFHWl9XaERJZ1RreDZZSjdkd01XUUtyWmlGemU5a2o0UDllRHpJQklOWFhQVHBfTUN0MVNlVnVHNDQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Oct 06, 12:00 PM ET",
     "publishedAt": "2026-10-06T16:00:28+00:00",
     "source": "CNBC",
@@ -189,18 +189,6 @@
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrMXU1ams3ZHlMaE4yVnNKLUFKUEREMjJGRkVJQ09UVHRYbzBiXzdQSlFqS2lsY3dtSWZmLUpoZFRkb0tEZHh4YlBvbUVVQVBCcUFQMlVyNTJuOVdscHhabW5SY1oyRzZLU2ZsT1BwSlJoUHRiYVNrSmlR0gF_QVVfeXFMUFlncV9mdTFCd3ZGSVZqeGVEUVVfVl9mRzc0UzhEQ2dncnNRN1Y0NE9LWHpvREFYcVljSG90RXl3UGRIVnVhaEc3NldUSjlZSTdDTHJSRGxEekZXQUJaejVWSGtiOW45RHZuZHA0RlFzVzdGa3M4NEIySjJEWWdIdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 06, 12:00 PM ET",
-    "publishedAt": "2026-10-06T16:00:00+00:00",
-    "source": "TechCrunch",
-    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUw1T3diMDBtTXdtdnJ1bk5DdUpfUWtuYzJaVjF2M0lUMjJkeXYxZUN0bEQ5bU45OGM5OXZXUzJGZFJKSHhRaHRlbk80dnZlMEpNaGZfT1JfWmhnRmtpMGJ0dWNlaFRNd0FWVUNQVGRoeVhJVmk5clNPMkRZWmNnLUZSRmlZeXN5bEtvNW51WmlSazMxcHhPODdIV2lZYnNyWDBRUk1nRW5KMklkaHpwSFQ5M0NOS2l2dlow?oc=5",
     "difficulty": "News"
   },
   {
@@ -237,6 +225,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 05, 08:48 AM ET",
+    "publishedAt": "2026-10-05T12:48:17+00:00",
+    "source": "MakeUseOf",
+    "title": "Google's new paywall will remove Gemini's advanced models from free accounts",
+    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2JjdTdWZ050eUhSaDlEMVN4UVV2OW15czNwUXotRFE5RU1ndmVwel9PTWJJaGNuWVhUbUdPeGtPZWhVVUpTNFZSR21WSTFDOEFLNk5fYmFBVk5fRHBsSWpfUDFLQUNFRkxnNnFMYmdOOHFSTE1DTGhBRU1zYkxCTTdkZ3NweDdtWVA2UHBPQQ?oc=5",
     "difficulty": "News"
   },
   {
