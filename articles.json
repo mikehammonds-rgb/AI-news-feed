@@ -1,5 +1,77 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 09:54 AM ET",
+    "publishedAt": "2026-10-07T13:54:33+00:00",
+    "source": "Tech Edition",
+    "title": "Anthropic offers startups a free year of Claude Team and US$1,000 in credits",
+    "summary": "Tech Edition is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakZTTjZGcGJoT0tjNWE5R0JWQXdsRHBmUkh4M2lXMmVERkdzTWQtbFBGTXd5QjdBZzJxWTFhMk9mLXJ0Mm1XMm9HdTEtTnJ1SGFla0ZNZXpCRXlKWTJLT3JwRUI5MWhuMzF1ZEZCSjhfMXNnZmdFSDVFUk5VQk1XdWtlZkJveHY4MWFiQjl5aC1IdkpwWFgwVDUyMnZ3bEU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 07, 09:23 AM ET",
+    "publishedAt": "2026-10-07T13:23:45+00:00",
+    "source": "FourWeekMBA",
+    "title": "OpenAI Prices Decisions API: $0.10/M Input, No Output Fees",
+    "summary": "FourWeekMBA is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDV2am11QjEyazNwS19qTFZUb2Nfd29QOEdZZHdpSTNjQzJJbzdPb3VqaFc0aE03T0JtN2xPVVMwRkl5Ty1DLU02QWlFaC1hb0ZDSjJVbFNIQnZaRFZiakhqY1p6R2d2c1A5d3J6bG5OYU82Y2Zsb0VkeEt6NkE1SEdiZTRoSjllNV9j?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 07, 08:19 AM ET",
+    "publishedAt": "2026-10-07T12:19:02+00:00",
+    "source": "KDnuggets",
+    "title": "I Tested 5 AI Coding Assistants for a Month: Here’s What I Actually Found",
+    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQREg5UTV0YlMzWHlBLUFTOGZXTUZDMEh0ODlhRzZUcGV1aWlpMFpRMnZmREs5Y003NHBhTGtjR0hFZGpvVjJoMmtjMlZRX2VCMU9fSDVYeFRnTmhRbUZHTlBlOEJyd3lJZlQtbnZvY3hzTTVOTUR3T01XUzBERXVYWFNoQy1OOWRUNFNPc0dMazM1eEE3cl9nNlhJNVhpUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 07, 06:35 AM ET",
+    "publishedAt": "2026-10-07T10:35:00+00:00",
+    "source": "BigGo Finance",
+    "title": "OpenAI Debuts Decisions API for Near Real-Time Classification, Up to 10x Faster Than GPT-6 Luna",
+    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wSHhGZTVQanlNLUF2LVpQUFRlemlETXFoZzEtc2YxeHU5aE9sWndsOVNsWWo0Y21kdmhRWFpVWTZVVWd3LTRuWVowRmNmSUYwWEtveHh0ZU5YZ3NuSHd4aUk4ZldtcmVyREhMT3ctMmFIaXdwY1E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 07, 04:52 AM ET",
+    "publishedAt": "2026-10-07T08:52:36+00:00",
+    "source": "TechPluto",
+    "title": "Gemini API pricing, worked out before you add a card",
+    "summary": "TechPluto is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0x2b1lRYXgtZU5mLUdmbDJWNmdLUjRlSkhweHU2ZFZEaGpuVFFyY0g4S1BiTUQ1ZEJ4UGlyVFpBYTR2UnVnMllaZ0FibUJUWmdzak53bG85UmtDck4wRjB2Yk9lVlFQRnZNYTBjNkg3REdSd3BITFdSN1YxdW9uVU16SEY?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 04:18 AM ET",
+    "publishedAt": "2026-10-07T08:18:43+00:00",
+    "source": "Dataconomy",
+    "title": "Anthropic Expands Claude For Startups With Free Team Plan",
+    "summary": "Dataconomy is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3NBdzdickhjQ0Y2UXpZZ0g4OXZhRGFKSVU2YUNGSHVsSVM2MjVQMV9faXN6NG9GNzdBdTFONU9KM3hjZk1Qa19GRTEza1FxblZScFVrZWF4elh5b0tia18zZUwtS2NpblBwUk9BWVVSRXVyOV9GLXRocllQTm9jelpsUzU4TUVvV2ZPVzVRdFMxR0VhQWxZ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 07, 02:02 AM ET",
@@ -38,6 +110,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Oct 06, 10:24 PM ET",
+    "publishedAt": "2026-10-07T02:24:00+00:00",
+    "source": "TOKENPOST",
+    "title": "Google Launches Nano Banana 2.1 With Lower Prices and Higher Cited Scores",
+    "summary": "TOKENPOST is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5icThkaUY5czFwYm54NGo1VExXR0dRMVJEaThoZTF2Mnhzd0FUOHpxNWxnaGNTVWJheVczRm4yWkpjandkSEo5VWhzRzVOUzZLTC1vUUtOakxRME0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Oct 06, 07:43 PM ET",
     "publishedAt": "2026-10-06T23:43:04+00:00",
     "source": "Unite.AI",
@@ -62,18 +146,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 06, 06:25 PM ET",
-    "publishedAt": "2026-10-06T22:25:00+00:00",
-    "source": "BigGo Finance",
-    "title": "Anthropic Expands Claude into Google Workspace, Enabling Direct Control of Docs, Sheets, and Slides",
-    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BMklpUFBnOW9oMGRyaHkxSnFFLUs3VkJ5a1dsWmY5Um9DWUZVaWlIc0NxZDlPS2M0SElvUmUyRVhScXBHVjZQRUdKY1lLZWJjTGt5RDlkY0tNd3prYWNtYWhXN05aS21Dak5NcVREX25ycl9oSnc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Oct 06, 05:11 PM ET",
     "publishedAt": "2026-10-06T21:11:38+00:00",
     "source": "The Register",
@@ -93,30 +165,6 @@
     "summary": "How-To Geek is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDNHY1E2d3QzelBJc2MwMHZocXZwTDRpbWRyTUhaVC0wVjdqNmlKOWYwc0k4SndaVzd0ZTRpSlhubXZ5eDhHXzhoUzRnMWlwb0F2RXFtdzQ0Z1ZBdTBGQndORWlzV2dOSER3MXFZT29PQW5ua2c4WTNHb2FEeUwwc3ZlTkFIM1pDY3ZNUHNsQzNhNHRGeXNfVHI4REVReEJGUmFEMGhHZElIaHFuR3oteW9sU1ZSZjlUMGVYSHhCMzFNVmJwVWpLRWJ3Vk1tMzg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 06, 04:49 PM ET",
-    "publishedAt": "2026-10-06T20:49:00+00:00",
-    "source": "Android Authority",
-    "title": "Google's latest version of Nano Banana ups the visual quality and consistency",
-    "summary": "Android Authority is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hZ2g2WndfMTNGUW9uNVpDWHJGeWhfc3JfWTZyeUp1RUNpTHpzYXhsWXFIZ0J6YmxoTEFjR01TUzc3XzNjVS1KYk9GcVZOcGtkVUk1TkgzN1NESVp4dEpseDJ1ODg0UlJpLWVnb1VhZUNoUW9LOFRHVVZ5OXBGUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 06, 03:48 PM ET",
-    "publishedAt": "2026-10-06T19:48:29+00:00",
-    "source": "The Decoder",
-    "title": "Google's new image model Nano Banana 2.1 generates better images for less money",
-    "summary": "The Decoder is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3oxTUR5MnQ3TVJ3eXhlRk5DTFBVMGtrT2ZoTlgyeUVRRXNRa1RiSUNlRnB5dUJ1RlpXb3JQcFhCeUVmUGZVZUs1TURCSUJONnJfM2psQnJKWHduc24xdlptSlRmVlZyUDBvb2g1V3JhUkxDa3l2MzlHd2JQb196ZjA5M3N4YnVyNXQtS2hnaEhudV9RQUduRHRJcGp2TGMyem5rLUpn?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,30 +204,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 06, 10:36 AM ET",
-    "publishedAt": "2026-10-06T14:36:53+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Meta, Microsoft Cut Claude Use, Lean on In-House AI Tools [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNnJQN1FEMVVhYTVMVHZIalg4MmZ0WnB0dkZiR0lUc1hGVzBnVks1bXFSa2FFRDdzb2hGVkI0Vl83eXFFQVdLMUhTOVIwRkMzaWZwbTRDall5NU5TZ21OUVZQdG1oY1FhTC1JcjJoR1dBVEZ1N2Y5U2dCdmV5eTBjZEhB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 05, 09:51 PM ET",
-    "publishedAt": "2026-10-06T01:51:56+00:00",
-    "source": "The New Stack",
-    "title": "OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YcVlZSTdJM09ibS1LUHVOUl9BYlZYVWxkTjRFc2ZRY2pxcERwWVRFd2xyNXJLckZaWnJIdDUxYkJQVzZHRUlJU2lsR0ZNQVpQeTlJcXREUjBuNVRNT2U0OEpn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 05, 04:46 PM ET",
@@ -201,18 +225,6 @@
     "summary": "SemiAnalysis is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1obmlsblJmOTI4SDVYR1hzd3lzNEVkM0JONGV0ZUJjZXpWRjdzaW85cjNIclpLZXJVbzQyU0VkbFVzX3VuM0M5VkZ2MlowRG1DaVc0ZllobllaLTBDaFlrSllvRmpqZVBMS0E2b1NNRkdwMkNnT0xxSFhn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 05, 01:38 PM ET",
-    "publishedAt": "2026-10-05T17:38:23+00:00",
-    "source": "The Decoder",
-    "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
-    "summary": "The Decoder is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzMydWVjQmp6S1lVWlZodGx0dm5KS3dJbzR5R0M4M0hoVUEtdmxlSzJuMzlVSnpjOFhFSjhNakhtOGl1WFd4TFd0dmpFbTJHZ2U1bkctUkJJSXphUWtEN2twOThGa2M0RmlLSDVUN0hBV3RNQ0V2dDJ0ai1mZEdsaHk1bnozN09XLWpTX05XTm5nZnQxWldGVGkwQVNHcGR2ZmFxd2lSaUNHRUY1akd4V2lfdzJLQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,18 +369,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 29, 03:00 AM ET",
-    "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "Business Insider",
-    "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "Business Insider is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
   }
 ]
