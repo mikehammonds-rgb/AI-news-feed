@@ -1,5 +1,29 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 06, 07:43 PM ET",
+    "publishedAt": "2026-10-06T23:43:04+00:00",
+    "source": "Unite.AI",
+    "title": "Nano Banana 2.1 Debuts at Half the Image Cost of Its Predecessor",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmlmeXpIdzZiR29JbVhzeVBualNVbUlmVnFYazA3ai1iX3VLUm5Rc1kyY2duNTZZSHNaR3UwRXQ4S3RCeWdpZ0Q2MjBVX2pxaFEyeWdkV0tJdkxzSlFLdGR3RWVuV0Y5R3RjWjVlUXEtWHIzSlJ0SFBITDhxNHNZUFVucU5valJ5RExhUXpGWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 06, 05:11 PM ET",
+    "publishedAt": "2026-10-06T21:11:38+00:00",
+    "source": "The Register",
+    "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcWY4dUh1dUExNEs0Mng4cHZfS0FhSGwzX1Y5UmxxanI4S0JucjBRdWR5TUZwZTBJckd0SUhLRk80V0pnOTFHdVZvX2tGVEc4eDZWR3F2Q01USzZwV2NSVUhPc3JDZzhaWTB3NW81NjBHRTBCYmJSM3NvUTdiZzVLVlNDVWdLUGpWRnZUYS1LbUxydmlVMTl4UUx0YmtGRnFobUc1Y2JhVEhyM3ZpekxxUnh0cVkza0hVT09yemU3RFJ4Y3BsRDFmaEg3bVRwS3V4?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 06, 05:00 PM ET",
@@ -40,23 +64,11 @@
     "label": "Claude Code",
     "time": "Oct 06, 02:33 PM ET",
     "publishedAt": "2026-10-06T18:33:00+00:00",
-    "source": "Morningstar",
+    "source": "PR Newswire",
     "title": "Blend Achieves Select Partner Tier in the Claude Partner Network",
-    "summary": "Morningstar is reporting this update. Open the article for the full story.",
+    "summary": "PR Newswire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYW5kNVVpSUxBZTQxOFdGOFNJNXA2YWgyblpUVmxCdzUxVGhqU3BCRGFUdFNlcVh1T1JrWUNNUWo2cUw4Smw4cjM5YkNicUlpOVpDTjRpT0I0R1lpS3hLb0ZjWDV0N3BGbTNkQ1I0anFIZFlGdzNOWDAzWm5mSU1WbVJpcWdaUGI4MjhLSThvczRpeFcxeXVGS1dfWGxmREE1bjRVWUxZb01Qdl9wUVBKSy1DUVRnczByaV9fX3VWdlJJTHc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 06, 12:39 PM ET",
-    "publishedAt": "2026-10-06T16:39:01+00:00",
-    "source": "Unite.AI",
-    "title": "Anthropic Expands Claude Startups Program With New Founder Benefits",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObEVJRnlsdjMzQUVDQWVnNC14TUpHVm1qRTVpTjV0R3dGU1pJaUx3SGV5RkJZUWJhRmNkb0pURHB1Sk1xZkxLSURSckN1d2JadWwwc28yV1JBNmhsUnRvXzhfWmVNdTFOM1NGcjVxWEJMSlZEQ0J2Z2RzYWZCZWVuRC1zV3ZCbWRkaUFCSzVJSTJ2Nms?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFAxV0o4R1NCd0NLWFAxNFB6Q2dqcGtpRHczdkF1R2lJRkxGSEhUSGZoRFhVMnIwZV81SlVVLTIwSHdEUWZoZ3ZKa2xpNy1VS0V5SndZMWZkNGhUUkxXUTVrYnJ3YkpWYW8xbGd5TzNKRTBJQmhQbHA0VVg4enNkZmpHTXA3dDVIcVNzVnB4Mjl4eUYwN2lJX19EbFdQSGFacWlsWUZQTWxack5FeVh6X01FS3dPeUR3YmFVdA?oc=5",
     "difficulty": "News"
   },
   {
@@ -96,18 +108,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 06, 10:36 AM ET",
-    "publishedAt": "2026-10-06T14:36:53+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Meta, Microsoft Cut Claude Use, Lean on In-House AI Tools [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNnJQN1FEMVVhYTVMVHZIalg4MmZ0WnB0dkZiR0lUc1hGVzBnVks1bXFSa2FFRDdzb2hGVkI0Vl83eXFFQVdLMUhTOVIwRkMzaWZwbTRDall5NU5TZ21OUVZQdG1oY1FhTC1JcjJoR1dBVEZ1N2Y5U2dCdmV5eTBjZEhB?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 06, 10:24 AM ET",
@@ -132,15 +132,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 05, 10:43 PM ET",
-    "publishedAt": "2026-10-06T02:43:04+00:00",
-    "source": "Nokiapoweruser",
-    "title": "Major Google Gemini Shakeup: Older Models Deprecated, Fast Modes Pulled as Gemini 4 Argon Nears",
-    "summary": "Nokiapoweruser is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 06, 06:11 AM ET",
+    "publishedAt": "2026-10-06T10:11:34+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "Claude Opus 5.5 API Setup: 13 Steps, $4/$20 per 1M [2026]",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdXBCYlVjZ19rTVo4aFd0VVdjQVFHV1JfSmx5bFNtdXlVbjJLMnB3STlBZGVsTkVrSzg0S3pTMkpZcUNpZ1M2cHFhSGFDbEkzV1BVQkRMd0RlWWVQT1RPZHJuWFlib00ySlVRa0NEUXJBR1JvQV80M1NSUzVkeXRHaUh4WmJWS1d1ZmZOcUdMZWRXYllwZlFNdXBZWHI?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43ZEVjdzZSbTk4WTFtYVE5YWpMMTZxMEY4cjFYWnNyZUJQMm5tQkR6MHVTS3JNYUg3QU05VEVNV2l2NE96eVJDRWpEMF81eDIyWW91RnQ2Q0RtYjVHWlNTWlo4ZTlSaEE?oc=5",
     "difficulty": "News"
   },
   {
