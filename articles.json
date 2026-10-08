@@ -2,6 +2,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Oct 07, 04:48 PM ET",
+    "publishedAt": "2026-10-07T20:48:45+00:00",
+    "source": "The Tech Portal",
+    "title": "Claude Haiku 5.5 is Anthropic’s most capable small model yet, and its far cheaper than predecessor",
+    "summary": "The Tech Portal is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclBZbC1naU9YTWZxUmpZQ3drU0F6RzVWQjNwVHMyUlExREtUREk0SGZPYVY5T2tZU2tNYjFHVU1LTHd5em5jLVZ3bHJjcmE0WGw3MU1hZExKU1hFWk5EREh5emkxMkdiVUxuTVlaSHFoRWFEZmRIbnBJYjBNYXAwN2NZNWNUc3Bfa3E2WnJLb3hoeC1MOTFuMnMxYlNuVkFKUU5RR2QyY3o5MmZ2eklpUExaajVMSTVRRi1LZjhpNEpKWmRCLWxfNjhURW1jakHSAdQBQVVfeXFMT3JWVE9YdnNHdnEzOWxib2cxU3dwazRjdEdTVjVpLUJTWkhqYmdmN3FMa3Y1MG9MUmp1R1l1Z1RILV8ydDJfZ01wWHNrQmpBNzF1Z2trRmg0X0xvRW8ydFlaTG9vZktmNlNXVlhpbE5mRHp3aXRSM0VCVHZSRkpZRzFVbUpGUi1scUh0WHI4dUJNbk9YVzNBMERFTjgzWUl1cVpMdEdsU3dWanlmaDRsS0dDNUU2MXhjSnU1aDM1S3dIS1ZqQWdyZXM4Zk9UblRCUEdjbko?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Oct 07, 02:53 PM ET",
     "publishedAt": "2026-10-07T18:53:45+00:00",
     "source": "The Decoder",
@@ -9,6 +21,18 @@
     "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLTlVLUtxSHZoWEktZ1llZ2ktc2hZMXNJeU9VRFBhZkRpeG1JQ3hlZU5td2R5YktlamNjWnVpVjJDS0s0SXV0QXBGYUFzREo1NVJiUlVKWndvOC0wY0dCWXVGNEZmX3dCUE1ldkxFS3pCbHN1TGk2czZMOTM4a2ppYTNWX1RFNzRncHo0X0dQeGRSQ2YySUZSUjNRM0dCT1B0cmlEbWNlRXRza3A0U2M4XzhKTWVLdTJFVjFSazNyWlc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 02:52 PM ET",
+    "publishedAt": "2026-10-07T18:52:10+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Introducing Claude Haiku 5.5 on AWS",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkU2SklzNGNKdXpOWUpkMFJhVEZvbGpLWlpUeDIzakxtcE1HbVRFeGp5N3FDNXlRd21BWWwzd19Na3RadEpaVk9wY3luT3lBc2tQdk9EcVkwNEZ1RTZJeUlpaDlVaG42MWx6U2h2RERsWXA0RTk3eXlTUC1EVzNFQ25EVjBLQUlrYVE?oc=5",
     "difficulty": "News"
   },
   {
@@ -36,6 +60,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 07, 11:48 AM ET",
+    "publishedAt": "2026-10-07T15:48:57+00:00",
+    "source": "shattered.io",
+    "title": "Nano Banana 2.1: Google Cuts Image Price 50% [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzUzRVRl9UZm9ub2pUVDhtTE93MzUzLW5LNUFZcTZiWkc1OHJDOHprc2dBU3EzVVlVa1hWc0k2ZVp1NmJuaGViTDdrQXB0MXdnZ2dVTE42MjE0NnBsanlSZFNiano3bVAx?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 07, 11:38 AM ET",
@@ -57,18 +93,6 @@
     "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGVJUUw1YkU3elhLdnN4OTRpVFhKOUZsTTgwakNzeENNTkdtUmxHUHUxVkFrMjZnMGFxX09Nc2dMNlNKSnJsSHExWmZ4V1N6OTFYVVI5R1ZKRktJZElqZ0JTMzlIR0RucXdMVjhObTU1V1RSQzVzS0FPaVRBUkRveTF6MWJjU0IyNTBnd19Ld3dzdy1fTlc1N0lrWHpqZTJTNTJTdXc4VGlodFE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 07, 10:54 AM ET",
-    "publishedAt": "2026-10-07T14:54:14+00:00",
-    "source": "Tech Edition",
-    "title": "Anthropic offers startups a free year of Claude Team and US$1,000 in credits",
-    "summary": "Tech Edition is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakZTTjZGcGJoT0tjNWE5R0JWQXdsRHBmUkh4M2lXMmVERkdzTWQtbFBGTXd5QjdBZzJxWTFhMk9mLXJ0Mm1XMm9HdTEtTnJ1SGFla0ZNZXpCRXlKWTJLT3JwRUI5MWhuMzF1ZEZCSjhfMXNnZmdFSDVFUk5VQk1XdWtlZkJveHY4MWFiQjl5aC1IdkpwWFgwVDUyMnZ3bEU?oc=5",
     "difficulty": "News"
   },
   {
@@ -96,10 +120,22 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 07, 06:35 AM ET",
+    "publishedAt": "2026-10-07T10:35:00+00:00",
+    "source": "BigGo Finance",
+    "title": "OpenAI Debuts Decisions API for Near Real-Time Classification, Up to 10x Faster Than GPT-6 Luna",
+    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wSHhGZTVQanlNLUF2LVpQUFRlemlETXFoZzEtc2YxeHU5aE9sWndsOVNsWWo0Y21kdmhRWFpVWTZVVWd3LTRuWVowRmNmSUYwWEtveHh0ZU5YZ3NuSHd4aUk4ZldtcmVyREhMT3ctMmFIaXdwY1E?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 07, 04:55 AM ET",
-    "publishedAt": "2026-10-07T08:55:37+00:00",
+    "publishedAt": "2026-10-07T08:55:39+00:00",
     "source": "TechPluto",
     "title": "Gemini API pricing, worked out before you add a card",
     "summary": "TechPluto is reporting this update. Open the article for the full story.",
@@ -132,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 06, 10:54 PM ET",
-    "publishedAt": "2026-10-07T02:54:53+00:00",
-    "source": "MIXED Reality News",
-    "title": "OpenAI's Decisions API runs on gpt-6-luna alone, and the model's own endpoint table omits it",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEZFc2pvUGYxQ2RXYVRubzJ2dEdtVXhMNjMwNm0zUzgyQlYzb1BYUzdtZFFKekx2UktBV19mSVJyckFzWnRYMHhfVEtleDBJcTgyS296WjR3a0pWU05zMEZGNkEzUG5NQVdneGkzdUJOT3JjMS1lTC1rdjZfWG1mODBMNUs?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 06, 07:43 PM ET",
@@ -156,30 +180,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 06, 06:35 PM ET",
-    "publishedAt": "2026-10-06T22:35:03+00:00",
-    "source": "Unite.AI",
-    "title": "OpenAI Releases Decisions API in Public Beta, Powered by GPT-6 Luna",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGxIVzVqMEhveXZib2JTNHZkU1ZEdGkyc3hQZHVUYjBSanhEd0FDV2ctNnhZaVJHdGxWWHE5UUFKSjg4bURDTFBHMVhOTXIyX2RJU1FPeFE2aUt2UDFka3ZhQWY0SmhBTzBoM0ZxT3B3SDVZWF8zb2dCTl9oWVJHamQ3VmVTMFhUQTVsSlZkMXdIZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 06, 05:11 PM ET",
-    "publishedAt": "2026-10-06T21:11:38+00:00",
-    "source": "The Register",
-    "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcWY4dUh1dUExNEs0Mng4cHZfS0FhSGwzX1Y5UmxxanI4S0JucjBRdWR5TUZwZTBJckd0SUhLRk80V0pnOTFHdVZvX2tGVEc4eDZWR3F2Q01USzZwV2NSVUhPc3JDZzhaWTB3NW81NjBHRTBCYmJSM3NvUTdiZzVLVlNDVWdLUGpWRnZUYS1LbUxydmlVMTl4UUx0YmtGRnFobUc1Y2JhVEhyM3ZpekxxUnh0cVkza0hVT09yemU3RFJ4Y3BsRDFmaEg3bVRwS3V4?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 06, 12:00 PM ET",
@@ -189,6 +189,18 @@
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrMXU1ams3ZHlMaE4yVnNKLUFKUEREMjJGRkVJQ09UVHRYbzBiXzdQSlFqS2lsY3dtSWZmLUpoZFRkb0tEZHh4YlBvbUVVQVBCcUFQMlVyNTJuOVdscHhabW5SY1oyRzZLU2ZsT1BwSlJoUHRiYVNrSmlR0gF_QVVfeXFMUFlncV9mdTFCd3ZGSVZqeGVEUVVfVl9mRzc0UzhEQ2dncnNRN1Y0NE9LWHpvREFYcVljSG90RXl3UGRIVnVhaEc3NldUSjlZSTdDTHJSRGxEekZXQUJaejVWSGtiOW45RHZuZHA0RlFzVzdGa3M4NEIySjJEWWdIdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 06, 12:32 AM ET",
+    "publishedAt": "2026-10-06T04:32:52+00:00",
+    "source": "Search Engine Journal",
+    "title": "OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In",
+    "summary": "Search Engine Journal is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFJwa0lvNDdzVkJ5WkRyWVRyb1gtbDVjWHdhRTFSTkRtRWFoQkVaMGRfUlhvT0hxaHlfZzNsVW5fOG9LOGxsM1dLeGNDOWU5bm96dFp4dm80b1VRSXdmOENpSVo3MU9vdTJCSGVMaTVWaDN5TFktcTdiMkx1N01DY3Z0YUFZdWZWd3hYUHZIbUNRLWs0N2VTa2poWllpaXhOVjNtRUlB?oc=5",
     "difficulty": "News"
   },
   {
@@ -230,18 +242,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 05, 08:48 AM ET",
-    "publishedAt": "2026-10-05T12:48:17+00:00",
-    "source": "MakeUseOf",
-    "title": "Google's new paywall will remove Gemini's advanced models from free accounts",
-    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2JjdTdWZ050eUhSaDlEMVN4UVV2OW15czNwUXotRFE5RU1ndmVwel9PTWJJaGNuWVhUbUdPeGtPZWhVVUpTNFZSR21WSTFDOEFLNk5fYmFBVk5fRHBsSWpfUDFLQUNFRkxnNnFMYmdOOHFSTE1DTGhBRU1zYkxCTTdkZ3NweDdtWVA2UHBPQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Oct 03, 04:57 PM ET",
     "publishedAt": "2026-10-03T20:57:00+00:00",
     "source": "9to5Google",
@@ -249,18 +249,6 @@
     "summary": "9to5Google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04R1J3UHRCTHp2S0FSeTd6YUllLS1TYVZvMDFSeVZraUFnZDJxdjk5Rm9Pd3o0Zlk3NEp2WkhOSXQ1aTVTdGJRb2NXaktIRlM1YmVqeHprdWVobkpPTXBiVkVzRFloWC1DamlXbmZB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 02, 12:37 PM ET",
-    "publishedAt": "2026-10-02T16:37:53+00:00",
-    "source": "TechRepublic",
-    "title": "AMD Launches Ross AI Assistant for Embedded Development",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEkzaWNGTFpvQmtvY2RXUi13TGJFWV9yVXBjSHVuVFI0QUp6WWJraTUzbnVQanlTVFRmelZXMDN2R0ltQVNIWkRzdFBsVzBaVWd4MTE1Um4zUlVFci1rZU05eEhqMEgzS0xRY3A1OVIxNko2VmFJX1Y2U1Mya2dDMA?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,6 +357,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 29, 03:00 AM ET",
+    "publishedAt": "2026-07-29T07:00:00+00:00",
+    "source": "Business Insider",
+    "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
+    "summary": "Business Insider is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
   }
 ]
