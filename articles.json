@@ -1,5 +1,53 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 08, 10:05 AM ET",
+    "publishedAt": "2026-10-08T14:05:41+00:00",
+    "source": "UC Today",
+    "title": "Google Just Wired Gemini Into Everyone Else's Stack",
+    "summary": "UC Today is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HRlZjWmZEc3RoNk9EMzZraVFwUE1KM2swX1dOVTREQ21vV2ZPVy03V2E5TXdHZHpBMkVhcjNCU2hqa3lRQlMxOXZkRHFmNlZWSGszWkktQW10bVlDSWFTMXZ5eXBMZlJ0MUw2ajNPTUZUd3R6MDY3RnZB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 08, 09:25 AM ET",
+    "publishedAt": "2026-10-08T13:25:00+00:00",
+    "source": "BigGo Finance",
+    "title": "Google Cloud Unveils Gemini Universal Work Agent, Enabling Enterprise Users to Handle Q&A, Content Creation, and Coding in a Single Window",
+    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xQ2Vib3NRTGlyUG92dWJRa1pDelhUZS1heVZuX2gwcE5tZER1WjNLWG5MQXdLNHlYaDlXNGVjUWZMTXVyNU1keXozX0cwM3ZENUw2R0ZPRDBvMkVZaElacEdid1B4LWM1QmxHSl9jYnRsZDZ5alE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 08, 07:04 AM ET",
+    "publishedAt": "2026-10-08T11:04:13+00:00",
+    "source": "GitGuardian Blog",
+    "title": "AI Hooks for Claude Code, Cursor, and Codex: Block Secrets",
+    "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYnppRlN6LTJvazFmMVpuRkhabWtxQ05DN1BTcmhMYnlSZ1A4aXZ6d1o3RkdkcnJyRm12OWpLaHhyNWo0NFlQUUNMMVhDQUxIRnBpTDdVRTFIWGM4VGYtOFM0Mkp3X3E0QUU4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 08, 06:08 AM ET",
+    "publishedAt": "2026-10-08T10:08:57+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "OpenAI Cuts GPT-6 API Prices 50% as UI Expands [2026]",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZbkpBSUtid1JUUmtjcE9CRWp6RFdVUDE0bE0ycllqZ2Rpb05FbXlQSkljLWtWemEteTZ1bE5FRUFLZVg4cF9EczVSbm1LaFdkR2drNnFrZzAybUVGSFVLeG81MUdxd1c3UFVVVDZnMHZ3RmNEbGIxSm1pRFo?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 08, 12:05 AM ET",
@@ -26,30 +74,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 07, 06:29 PM ET",
-    "publishedAt": "2026-10-07T22:29:51+00:00",
-    "source": "TestingCatalog AI News",
-    "title": "Anthropic launches Claude Haiku 5.5 at lower API prices",
-    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNalRYb250bkF0bXlVQ3JPLTNjMU9seTJaeUcyV0xSNl8yeER0TDdpZDI1UjR6SHBZQWRGUkxreElUVGl1ZUl6TnMySjFkdmIySk9TaGJUc2J5cG5yYmtqZXhKZWlNcTY5QW1qQVN5Z0xDV2pZcWtsZE5tV0FNQWdfcXR0MEdpelppYkRQcHlJVUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 07, 04:46 PM ET",
-    "publishedAt": "2026-10-07T20:46:46+00:00",
-    "source": "shattered.io",
-    "title": "Claude Haiku 5.5: Anthropic Cuts API Costs 75% [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Xdk8tc0NrZDY2LWdtbVhkZEg4SEJBYk9NZEozSFZsV3RJZXBBZjRzRnVlVlVVR2VWRDNMa3lxRUhEZGVJOGg0c3ZKMWZ6cXNSUlJhVi1GV1lVa3ZmcjVZbUhic0g4ZkFnUWNYMzlnMERzeEpPUm84?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Oct 07, 04:38 PM ET",
     "publishedAt": "2026-10-07T20:38:30+00:00",
     "source": "MarkTechPost",
@@ -65,7 +89,7 @@
     "time": "Oct 07, 02:52 PM ET",
     "publishedAt": "2026-10-07T18:52:10+00:00",
     "source": "Amazon Web Services (AWS)",
-    "title": "Introducing Claude Haiku 5.5 on AWS",
+    "title": "Introducing Claude Haiku 5.5 on AWS | Artificial Intelligence",
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkU2SklzNGNKdXpOWUpkMFJhVEZvbGpLWlpUeDIzakxtcE1HbVRFeGp5N3FDNXlRd21BWWwzd19Na3RadEpaVk9wY3luT3lBc2tQdk9EcVkwNEZ1RTZJeUlpaDlVaG42MWx6U2h2RERsWXA0RTk3eXlTUC1EVzNFQ25EVjBLQUlrYVE?oc=5",
@@ -108,30 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 07, 11:38 AM ET",
-    "publishedAt": "2026-10-07T15:38:42+00:00",
-    "source": "The Decoder",
-    "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
-    "summary": "The Decoder is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMk03cFp1MGRpX3RDZ3dPYmVRR2JCQm5KY0pNSWE3d25qaVdtVlJtX01JbjIxTG9uTUVMT200dmwtY1MxR0ROMlRpU01tVGR4ZUpCMTUzWTJCTk1xREZOcjA2VGdTMDJFZ1NXN0JLMDZFcEJIWGtoMXpPOTQ1SklIeVBzNEdzdFk1UGhoR2JDMG4ycmxOalFka0w3eDNsUnZZd0lLUFhPc2FpUTBqMWc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 07, 09:23 AM ET",
-    "publishedAt": "2026-10-07T13:23:45+00:00",
-    "source": "FourWeekMBA",
-    "title": "OpenAI Prices Decisions API: $0.10/M Input, No Output Fees",
-    "summary": "FourWeekMBA is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDV2am11QjEyazNwS19qTFZUb2Nfd29QOEdZZHdpSTNjQzJJbzdPb3VqaFc0aE03T0JtN2xPVVMwRkl5Ty1DLU02QWlFaC1hb0ZDSjJVbFNIQnZaRFZiakhqY1p6R2d2c1A5d3J6bG5OYU82Y2Zsb0VkeEt6NkE1SEdiZTRoSjllNV9j?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 07, 08:38 AM ET",
@@ -146,18 +146,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 07, 04:55 AM ET",
-    "publishedAt": "2026-10-07T08:55:39+00:00",
-    "source": "TechPluto",
-    "title": "Gemini API pricing, worked out before you add a card",
-    "summary": "TechPluto is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0x2b1lRYXgtZU5mLUdmbDJWNmdLUjRlSkhweHU2ZFZEaGpuVFFyY0g4S1BiTUQ1ZEJ4UGlyVFpBYTR2UnVnMllaZ0FibUJUWmdzak53bG85UmtDck4wRjB2Yk9lVlFQRnZNYTBjNkg3REdSd3BITFdSN1YxdW9uVU16SEY?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Oct 06, 07:43 PM ET",
     "publishedAt": "2026-10-06T23:43:04+00:00",
     "source": "Unite.AI",
@@ -165,6 +153,18 @@
     "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmlmeXpIdzZiR29JbVhzeVBualNVbUlmVnFYazA3ai1iX3VLUm5Rc1kyY2duNTZZSHNaR3UwRXQ4S3RCeWdpZ0Q2MjBVX2pxaFEyeWdkV0tJdkxzSlFLdGR3RWVuV0Y5R3RjWjVlUXEtWHIzSlJ0SFBITDhxNHNZUFVucU5valJ5RExhUXpGWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 06, 05:11 PM ET",
+    "publishedAt": "2026-10-06T21:11:38+00:00",
+    "source": "The Register",
+    "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcWY4dUh1dUExNEs0Mng4cHZfS0FhSGwzX1Y5UmxxanI4S0JucjBRdWR5TUZwZTBJckd0SUhLRk80V0pnOTFHdVZvX2tGVEc4eDZWR3F2Q01USzZwV2NSVUhPc3JDZzhaWTB3NW81NjBHRTBCYmJSM3NvUTdiZzVLVlNDVWdLUGpWRnZUYS1LbUxydmlVMTl4UUx0YmtGRnFobUc1Y2JhVEhyM3ZpekxxUnh0cVkza0hVT09yemU3RFJ4Y3BsRDFmaEg3bVRwS3V4?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,6 +213,18 @@
     "summary": "SemiAnalysis is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1obmlsblJmOTI4SDVYR1hzd3lzNEVkM0JONGV0ZUJjZXpWRjdzaW85cjNIclpLZXJVbzQyU0VkbFVzX3VuM0M5VkZ2MlowRG1DaVc0ZllobllaLTBDaFlrSllvRmpqZVBMS0E2b1NNRkdwMkNnT0xxSFhn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 05, 01:38 PM ET",
+    "publishedAt": "2026-10-05T17:38:23+00:00",
+    "source": "The Decoder",
+    "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzMydWVjQmp6S1lVWlZodGx0dm5KS3dJbzR5R0M4M0hoVUEtdmxlSzJuMzlVSnpjOFhFSjhNakhtOGl1WFd4TFd0dmpFbTJHZ2U1bkctUkJJSXphUWtEN2twOThGa2M0RmlLSDVUN0hBV3RNQ0V2dDJ0ai1mZEdsaHk1bnozN09XLWpTX05XTm5nZnQxWldGVGkwQVNHcGR2ZmFxd2lSaUNHRUY1akd4V2lfdzJLQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 02, 06:30 AM ET",
-    "publishedAt": "2026-10-02T10:30:10+00:00",
-    "source": "Android Police",
-    "title": "I built the perfect to-do app with Gemini; I just talk about my day, and it sorts the rest",
-    "summary": "Android Police is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWHVuZk9BaWFRQUdiUENrM3pXSzd5dkdadThMSXdyMXNMdTBYWWk1aWMtelJyNjlMZFJuTVB2elh4T0pYTWUtOU1rT3p5alpuamtIQkVTRnVGMVBHUjBWcUwwcVhWZVNTQzRHcnlHYUVnVGd1Y1QyVERGLWF2bkpuMkNPZms4RDVwVGNEemtHQy1yc0l3Zm1udjdzTTF1M055Zy12SW90MA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 25, 03:00 AM ET",
@@ -312,6 +312,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 25, 03:00 AM ET",
+    "publishedAt": "2026-09-25T07:00:00+00:00",
+    "source": "The Official Microsoft Blog",
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 25, 03:00 AM ET",
@@ -328,35 +340,11 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "The Official Microsoft Blog",
-    "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 25, 03:00 AM ET",
-    "publishedAt": "2026-09-25T07:00:00+00:00",
     "source": "Reuters",
     "title": "Microsoft revamps Copilot with code generation, agentic AI tools",
     "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 25, 03:00 AM ET",
-    "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "Quartz",
-    "title": "Microsoft is relaunching Copilot as a unified app combining coding and autonomous AI agents",
-    "summary": "Quartz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LbXJvWGxkSC1BX3lFYWpkaE1HVFE4eHNZMG9hcUp1LWJOOGFCempXQWV1VWdObEpvNWUybjNZVlN5dVhrQkdkeHdMUnVycDVOME9lWWZZRDIwWWthWTlkQl9Od1JGOUdlT0dULWRvQk93d3VOYlRj?oc=5",
     "difficulty": "News"
   },
   {
