@@ -1,5 +1,41 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 08, 01:24 PM ET",
+    "publishedAt": "2026-10-08T17:24:48+00:00",
+    "source": "Benzinga",
+    "title": "Anthropic Commits $150 Million To White House-Backed AI Science Mission",
+    "summary": "Benzinga is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS0tzbDFZTUlZQmdodTdqbXlMY3N4aXl3bWE4bHdmSWdHQjROUjQ1eXpWOEFfUlVtZnpJMHdoYXg0QW0zRUd2RGdGTHlkN1dXZ1Qtb2pHenFkbmh6c1RLektuZE9ua1h6WkFmZUY5M1E5V2FhdkZ4U3MwU0c2Vm8yVmdqek5EVll0SmN1RXlyaGQ2ZV9fRWxhUGtuZm01TGNJRFJYSXRsMVFMWmVoNWh3aEU3cFIyOFhETWdfdTF5bUYyOTdObVpvTXVQeGQ5T0k?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 08, 12:50 PM ET",
+    "publishedAt": "2026-10-08T16:50:52+00:00",
+    "source": "OpenAI",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOdExScjJHVHppUWxYLXBCT05xMGRwOWpQYmdkblAwdFM0alZ3SXlSUkNFbFFVUnJQM1hVSXA3d0JsWDh5U2dOZFhB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 08, 12:49 PM ET",
+    "publishedAt": "2026-10-08T16:49:11+00:00",
+    "source": "LinkedIn",
+    "title": "Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2 Nano Banana 2.1 is Google's new image model, released on October 6. It is based on Gemini 3.6 Flash and replaces Nano Banana",
+    "summary": "LinkedIn is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjF1VjZyMDdIamdwWm1pTmM4eUE2b1ZaaXhkNkR2ZHpUQ19yeWItNDkwWmxOVHE5a3Z5VmgyZFlnNXlxNWhOQ3kxeENJaHJ3WW5DZFhEazQwaU1xWEs2S25fTUo0ZTBIUW1pTFJieHhFOTZldU5Hcy1jZ21KMW82Y3c4X3A1bllkc3lueUlyd3dCWHQtNjhTZFhWeTRRUHFkdjcwdzVMNkVKRUNUOGNMY3J6RmR3dE9ualJyZnlGUFM?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 08, 10:05 AM ET",
@@ -12,15 +48,27 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 08, 09:00 AM ET",
+    "publishedAt": "2026-10-08T13:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Building on our commitment to American scientific discovery",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHU4UENXNWlFZ2RsUElpRkhvVGdzdTdydk9kT2ZlN3RCNXdLV2VtQ0ZQU01adTI5Mkw4Y3JrcGpIZ1ZxWUtDOUxqbG1JVXNTNWJvSU5NMF9KY2o5Tlp5QVJpNElQeFdv?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 08, 09:25 AM ET",
-    "publishedAt": "2026-10-08T13:25:00+00:00",
-    "source": "BigGo Finance",
-    "title": "Google Cloud Unveils Gemini Universal Work Agent, Enabling Enterprise Users to Handle Q&A, Content Creation, and Coding in a Single Window",
-    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
+    "time": "Oct 08, 08:08 AM ET",
+    "publishedAt": "2026-10-08T12:08:24+00:00",
+    "source": "Nokiapoweruser",
+    "title": "Gemini 4 Argon Could Launch Today: Full Specs, Benchmarks & Features",
+    "summary": "Nokiapoweruser is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xQ2Vib3NRTGlyUG92dWJRa1pDelhUZS1heVZuX2gwcE5tZER1WjNLWG5MQXdLNHlYaDlXNGVjUWZMTXVyNU1keXozX0cwM3ZENUw2R0ZPRDBvMkVZaElacEdid1B4LWM1QmxHSl9jYnRsZDZ5alE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9reVNqQWJHb0E2cmQtczZoUWQtR3NiT1IxVTdpUHNJbkRiTWM4b2h0V3NaSUN6Q1FVaWlhVGw0azZJUkdRQXpHSmR4Unh0UjBfZU1qMTlmRDNoR3NlSDE5NEs3YjZQaGVudkN3aWEzblJjRVBubUJLZ1hLVzh4SUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -45,18 +93,6 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZbkpBSUtid1JUUmtjcE9CRWp6RFdVUDE0bE0ycllqZ2Rpb05FbXlQSkljLWtWemEteTZ1bE5FRUFLZVg4cF9EczVSbm1LaFdkR2drNnFrZzAybUVGSFVLeG81MUdxd1c3UFVVVDZnMHZ3RmNEbGIxSm1pRFo?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 08, 12:05 AM ET",
-    "publishedAt": "2026-10-08T04:05:05+00:00",
-    "source": "MIXED Reality News",
-    "title": "OpenAI cuts its API usage tiers from five to three, and the top one now costs $500",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnRVOHBiUmZoaktzSVExcWc2S2FzX3dZQV9Kd2p4TGVmQk5yYzlBWVpoaWNKV0EyLVYzcl9YVjZUcUN3T3B3QUpFVU5nZ0NTM2h4TXp3cDdaT0VIUUo3T0lzQVA5MWZGQWhyUVcyT3VLeEU4RUZhWjF4ZHM5bF9OZThhSXdmdVpi?oc=5",
     "difficulty": "News"
   },
   {
@@ -98,18 +134,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 07, 02:27 PM ET",
-    "publishedAt": "2026-10-07T18:27:02+00:00",
-    "source": "Unite.AI",
-    "title": "Anthropic Releases Claude Haiku 5.5, Cutting Small-Model API Prices",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmJRRU5wbnZielE5Ul95NTNadVFONVZkYlV0c2xweHI4TFFhQmVQVHh6TDZ1aW5wdmxTcF9PQWxRZHp0SVJQTnN4aWdZMWREUklBRGpXanl4ejBEdGpjYkV0aGk3MFk2Sy1GcGNYVG1tTWhPb09ScjF3ZlpEZ2lITUdfR2xEbmdRRmotd0M1blBWZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Oct 07, 02:08 PM ET",
     "publishedAt": "2026-10-07T18:08:26+00:00",
     "source": "VentureBeat",
@@ -117,18 +141,6 @@
     "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTFMTVFQOTJ2SmdCSGdjR2Z4Q2ZYMF9ncldZM3NUNTlEWUVOUERVUVVpdHdfQno4c3F3aWJ1WnIybnpYNGxnMmk5d3FCaUlkdkhCeHpPMENmRG81MEpBcGx5Y1kxY25GY3oxb3gzNGk1bDdOS0JwMkxFZ1hkUFI2M21GMWowTzc4VVJaLUNaajc5MGJrMTdtcXNJem93Q2lpSGFvYXJCbEFwN2hMTnY4bzcxdEswa29DWFE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 07, 11:48 AM ET",
-    "publishedAt": "2026-10-07T15:48:57+00:00",
-    "source": "shattered.io",
-    "title": "Nano Banana 2.1: Google Cuts Image Price 50% [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzUzRVRl9UZm9ub2pUVDhtTE93MzUzLW5LNUFZcTZiWkc1OHJDOHprc2dBU3EzVVlVa1hWc0k2ZVp1NmJuaGViTDdrQXB0MXdnZ2dVTE42MjE0NnBsanlSZFNiano3bVAx?oc=5",
     "difficulty": "News"
   },
   {
@@ -158,18 +170,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 06, 05:11 PM ET",
-    "publishedAt": "2026-10-06T21:11:38+00:00",
-    "source": "The Register",
-    "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcWY4dUh1dUExNEs0Mng4cHZfS0FhSGwzX1Y5UmxxanI4S0JucjBRdWR5TUZwZTBJckd0SUhLRk80V0pnOTFHdVZvX2tGVEc4eDZWR3F2Q01USzZwV2NSVUhPc3JDZzhaWTB3NW81NjBHRTBCYmJSM3NvUTdiZzVLVlNDVWdLUGpWRnZUYS1LbUxydmlVMTl4UUx0YmtGRnFobUc1Y2JhVEhyM3ZpekxxUnh0cVkza0hVT09yemU3RFJ4Y3BsRDFmaEg3bVRwS3V4?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Oct 06, 12:00 PM ET",
     "publishedAt": "2026-10-06T16:00:28+00:00",
     "source": "CNBC",
@@ -189,6 +189,18 @@
     "summary": "Search Engine Journal is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFJwa0lvNDdzVkJ5WkRyWVRyb1gtbDVjWHdhRTFSTkRtRWFoQkVaMGRfUlhvT0hxaHlfZzNsVW5fOG9LOGxsM1dLeGNDOWU5bm96dFp4dm80b1VRSXdmOENpSVo3MU9vdTJCSGVMaTVWaDN5TFktcTdiMkx1N01DY3Z0YUFZdWZWd3hYUHZIbUNRLWs0N2VTa2poWllpaXhOVjNtRUlB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 05, 09:51 PM ET",
+    "publishedAt": "2026-10-06T01:51:56+00:00",
+    "source": "The New Stack",
+    "title": "OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YcVlZSTdJM09ibS1LUHVOUl9BYlZYVWxkTjRFc2ZRY2pxcERwWVRFd2xyNXJLckZaWnJIdDUxYkJQVzZHRUlJU2lsR0ZNQVpQeTlJcXREUjBuNVRNT2U0OEpn?oc=5",
     "difficulty": "News"
   },
   {
@@ -237,18 +249,6 @@
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNmRVNHF0WHp0eml1aHdrRXVyVEJxS1lNWjlJSjFJR1kyYXFvZHpTYjEwUDFET1N4cVZzUEttb1JRY3FUaE5CTXl1SllCNl9MZ1puRWNxR2RMTFhMMG10U2JDOW5WWkRLWlhpdWxjTTBHRGNtcGVPaXFMQlBQdzhESWRmZnhraWUtZklPUWJheTNhdC1YUmI4ZW1lYzRKMVpoV2FmVVV4T25GM19YMmoyY0NnTUduTmREQldGWlRlZEVDVjlTa2xXN3FMbUJTNGtvc0N4QTdWWVFtWmJuMmc0RVNWbkM0RFlYR0FkRDY1Mk4xLUprdU4xbXdickdDQ0R2?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 05, 11:12 AM ET",
-    "publishedAt": "2026-10-05T15:12:28+00:00",
-    "source": "OpenAI",
-    "title": "Our approach to EU text provenance rules",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5",
     "difficulty": "News"
   },
   {
