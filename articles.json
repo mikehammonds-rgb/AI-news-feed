@@ -1,14 +1,26 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 08, 01:24 PM ET",
-    "publishedAt": "2026-10-08T17:24:48+00:00",
-    "source": "Benzinga",
-    "title": "Anthropic Commits $150 Million To White House-Backed AI Science Mission",
-    "summary": "Benzinga is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 08, 07:33 PM ET",
+    "publishedAt": "2026-10-08T23:33:11+00:00",
+    "source": "EdTech Innovation Hub",
+    "title": "Google selects 100+ AI startups from more than 2,000 applicants for Gemini Startup Forum",
+    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS0tzbDFZTUlZQmdodTdqbXlMY3N4aXl3bWE4bHdmSWdHQjROUjQ1eXpWOEFfUlVtZnpJMHdoYXg0QW0zRUd2RGdGTHlkN1dXZ1Qtb2pHenFkbmh6c1RLektuZE9ua1h6WkFmZUY5M1E5V2FhdkZ4U3MwU0c2Vm8yVmdqek5EVll0SmN1RXlyaGQ2ZV9fRWxhUGtuZm01TGNJRFJYSXRsMVFMWmVoNWh3aEU3cFIyOFhETWdfdTF5bUYyOTdObVpvTXVQeGQ5T0k?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFBTbl9aaUp2Umg0VTQtNjdHcF92TnppZVppX2tUa2dzSk5VME90NVNQUDRaUnFiQ0hsMEtwX1BuMWhaUlE3ZVo1ZlRZNVNkSVN2MGFPaC1uREV6MmVQVV9pOUN5LUtNS0stVkswSndJX19KQ1ZNaXZOdTZqb3JYa1pWRXNZR3EzbmdSNFpWOVN4bU5jYmVJRTdwRHJjQ19naElIQWdaUC1tQk9RX2lBNzJ1UmlhSkNJY1FXM0xwWHdlaVFNeVE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 08, 03:02 PM ET",
+    "publishedAt": "2026-10-08T19:02:29+00:00",
+    "source": "TOKENPOST",
+    "title": "OpenAI Launches Decisions API After TypeSafe AI’s Jev Debut",
+    "summary": "TOKENPOST is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNdmZRQnJMS1RVMmNnYlhSRzgyQXd2LVUyb0ZydHVuUVBSbzQzWFdxNUplal8wZzRVRllYcUs3VnpMQ1JHZElGdE05aXFsNl9aUGhFLTFkb2hYVXM?oc=5",
     "difficulty": "News"
   },
   {
@@ -60,15 +72,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 08, 08:08 AM ET",
-    "publishedAt": "2026-10-08T12:08:24+00:00",
-    "source": "Nokiapoweruser",
-    "title": "Gemini 4 Argon Could Launch Today: Full Specs, Benchmarks & Features",
-    "summary": "Nokiapoweruser is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 08, 08:10 AM ET",
+    "publishedAt": "2026-10-08T12:10:35+00:00",
+    "source": "The New Stack",
+    "title": "Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9reVNqQWJHb0E2cmQtczZoUWQtR3NiT1IxVTdpUHNJbkRiTWM4b2h0V3NaSUN6Q1FVaWlhVGw0azZJUkdRQXpHSmR4Unh0UjBfZU1qMTlmRDNoR3NlSDE5NEs3YjZQaGVudkN3aWEzblJjRVBubUJLZ1hLVzh4SUE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WcFhYMWsybWZSS3BfdmRreklEVzVnMVVhNGRMbmN3eTdHS1JZU2VFNVhwZHROTjRkd0FvV0VjSVJEa1JUbDVPXzhHWlJ2SWk1M0hLRkhvQmZEeWZvWmlJWkJDYw?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,18 +117,6 @@
     "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXU2YTFTUklZUG95RUN1Y2tKcHBPVWtNcXhuZFFyUUNCeE9EbEI5cjgzSjJ2WXVYVTdXeU9WUDZNRUN4cXlCOXhwU0FoQzNoeGh4MGtlZjJ6azRvdE5wUG1TbzhNVzFBS2NZdnJuNmFrcE9XZXBJbTJMV3BRdmY3aG94NFE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 07, 04:38 PM ET",
-    "publishedAt": "2026-10-07T20:38:30+00:00",
-    "source": "MarkTechPost",
-    "title": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ004TDgwUFlDTU9VcE12Rl9IZDRVR0VNREdxdWQ0dTNnRlpQbmNVa25uZGhDN2FNTklfVENRZFN6cmpFWU1jdEwtV2VMcDV2Y2lCMDFLbXQwSThrRHRQaTdjZDEzQm03Rnhhc1BybEt2VEVUT0t2UUZmZ1MyMEVEX09ZV01UMXhxNFVldnBacWlGd3ZwUXlRaklsb0ttNlFnRm9zbExWM0Z5Qld4TnV2OHduaDZ4NWVsR3VONDZ0eDhXT25MejRuQk1oTF84RVItT0JvOTlHazhBdFlUeGRz0gHfAUFVX3lxTE1DTThMODBQWUNNT1VwTXZGX0hkNFVHRU1ER3F1ZDR1M2dGWlBuY1Vrbm5kaEM3YU1OSV9UQ1FkU3pyakVZTWN0TC1XZUxwNXZjaUIwMUttdDBJOGtEdFBpN2NkMTNCbTdGeGFzUHJsS3ZURVRPS3ZRRmZnUzIwRURfT1lXTVQxeHE0VWV2cFpxaUZ3dnBReVFqSWxvS202UWdGb3NsTFYzRnlCV3hOdXY4d25oNng1ZWxHdU40NnR4OFdPbkx6NG5CTWhMXzhFUi1PQm85OUdrOEF0WVR4ZHM?oc=5",
     "difficulty": "News"
   },
   {
@@ -170,6 +170,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Oct 06, 05:11 PM ET",
+    "publishedAt": "2026-10-06T21:11:38+00:00",
+    "source": "The Register",
+    "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcWY4dUh1dUExNEs0Mng4cHZfS0FhSGwzX1Y5UmxxanI4S0JucjBRdWR5TUZwZTBJckd0SUhLRk80V0pnOTFHdVZvX2tGVEc4eDZWR3F2Q01USzZwV2NSVUhPc3JDZzhaWTB3NW81NjBHRTBCYmJSM3NvUTdiZzVLVlNDVWdLUGpWRnZUYS1LbUxydmlVMTl4UUx0YmtGRnFobUc1Y2JhVEhyM3ZpekxxUnh0cVkza0hVT09yemU3RFJ4Y3BsRDFmaEg3bVRwS3V4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Oct 06, 12:00 PM ET",
     "publishedAt": "2026-10-06T16:00:28+00:00",
     "source": "CNBC",
@@ -189,18 +201,6 @@
     "summary": "Search Engine Journal is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFJwa0lvNDdzVkJ5WkRyWVRyb1gtbDVjWHdhRTFSTkRtRWFoQkVaMGRfUlhvT0hxaHlfZzNsVW5fOG9LOGxsM1dLeGNDOWU5bm96dFp4dm80b1VRSXdmOENpSVo3MU9vdTJCSGVMaTVWaDN5TFktcTdiMkx1N01DY3Z0YUFZdWZWd3hYUHZIbUNRLWs0N2VTa2poWllpaXhOVjNtRUlB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 05, 09:51 PM ET",
-    "publishedAt": "2026-10-06T01:51:56+00:00",
-    "source": "The New Stack",
-    "title": "OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YcVlZSTdJM09ibS1LUHVOUl9BYlZYVWxkTjRFc2ZRY2pxcERwWVRFd2xyNXJLckZaWnJIdDUxYkJQVzZHRUlJU2lsR0ZNQVpQeTlJcXREUjBuNVRNT2U0OEpn?oc=5",
     "difficulty": "News"
   },
   {
