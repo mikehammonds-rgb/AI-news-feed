@@ -1,5 +1,65 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 09, 02:34 PM ET",
+    "publishedAt": "2026-10-09T18:34:07+00:00",
+    "source": "The Decoder",
+    "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb0hjSnZiM0d4ckZBbkpJSUVVYUxwZ3VVQ2hGd3VCWFRxM1BFb3lueXZUMzVZRmd1UElZVUNXbm5mTjN2TGs0S2tzOXhqQ3NONHFRRnpFMU9Id0tnVG1fUFhIU3BtZnZ1TlBYS1RGWTBnUlFpOU45Zk90MWNIRVplT1FQTV8zLTN3U3ZYZGxWWFhfWm5McGMyR2xSVXE1bzc2aVNLQ19ma1ktWFJRN1ZyOVVnTDlMQW9KdHdyS1ln?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 09, 11:41 AM ET",
+    "publishedAt": "2026-10-09T15:41:41+00:00",
+    "source": "Forbes",
+    "title": "OpenAI’s Ultrafast And Decisions API Shift AI Race To Speed, Cost",
+    "summary": "Forbes is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczk3Ym4xT3k0a0ZjZG94M3FUV2ZJWkVibEV5QXpGREgwZE51T3YtOXEtNlktcTQyUk95R3NMVlJBZDJDRzA2TGl3b2x3enI1X0U5bVVCSHpnQmhKcVV1eXNmZmptSlozdDNwTDYtOGxLeGkxUS0zb1Vtd1Faa1MzLXRweVA3Vmh4WmxLNW1kbWdsR1pKQVJQSkR3SGp3R3RkT0p1LW9vMTk2cVBhX1h4TDZhMXNpR1Fq?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 09, 10:54 AM ET",
+    "publishedAt": "2026-10-09T14:54:37+00:00",
+    "source": "Forbes",
+    "title": "Anthropic Pauses Free Claude Startup Perks Days After Launch",
+    "summary": "Forbes is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXhCYjlxWDNfb1ltVFFTVTkxdjdiS2p0RlB2UjU1a3BlaVNqbUM0WVlIS2dOdV9JaVE0ZHI3VFFzVkZJZU5PZHVieTRMVU1MWFNITzNUZVg4ZHRrQ3Z4cThUUlpQeHZ0QnRSb3M2RjR0OXhnbnhQbHBiX1EtRnBkTjZfUl9ENTROZ0E1aERQOF9ZcUxUdUF4Tl9YWkx0VkUtQnRWaDVoVWZmREthbFJMYnJ3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 09, 10:23 AM ET",
+    "publishedAt": "2026-10-09T14:23:58+00:00",
+    "source": "The Rundown AI",
+    "title": "Anthropic will ban sustained, needless abuse of Claude",
+    "summary": "The Rundown AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhSmplcFZ4czFzeC1FNXBEUklCeUdGTFRpUVRIN1BfWXhOcjJBMHJ6NldGUmZITEpJUVF6OXBIZXJidHFuSFpPSnlvUWNFa2M1VU9yR1NHMFJNOWF6cFRMcm5XVUtsaS0yRVFuVS05Um81MWFsRXpBRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 09, 10:23 AM ET",
+    "publishedAt": "2026-10-09T14:23:13+00:00",
+    "source": "The Rundown AI",
+    "title": "OpenAI plans textGrain watermarks for ChatGPT and Codex in the EU",
+    "summary": "The Rundown AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3JIMFhlYlRQZ0xDMThpdUc2WERYczNQeXJSelRVOUhhZ0RZQjMxTzk3YzZuSEw0QjFHdVBKa3B2YzlGTnMySjFKX1I3Q1dqbGlrWDBvV2ZrRWhfNDJCdXVvZG1Ga0FyRkJuTFhnNDZTRXpOTm9uMGJ4WHlzejQ5UA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 09, 08:49 AM ET",
@@ -36,6 +96,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 09, 07:41 AM ET",
+    "publishedAt": "2026-10-09T11:41:28+00:00",
+    "source": "Türkiye Today",
+    "title": "Gemini partially down as users worldwide report problems with AI generation",
+    "summary": "Türkiye Today is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOVFkam4xcUVEdWoxOXBvTFZxLVB4SnlpSDhTT3lBVUZhOW1XNWtOTGM1VzBPdjNCZ3ozUUp4V3FRZU0zbl8za3hIeXQxR0Q5NExOTExTUmdYNWdtM3B1WkVqSkNkN25kTW5GNUZKb1dxdnIzazE3WmZRRnRBMWxFR1ZZcjF2NFJydTVUajhUV2V1QmRteE9GWldOUmE4WlEtcGRSNzZPMGtOMWIxMjlTSmhLU0ZwbUhJekZndDd3?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 09, 04:14 AM ET",
@@ -57,42 +129,6 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmQtZzZRS2E4SWEtaDM4V3U0ZHJTZkhiblJOdkpZem9WR2V5dTYwWVk4TF9zeFJiTF9keUg1LVBEYTdoUTc3d2dXN1dkd0RBeEYzcG1VaVNFWmNuaGtLX0VQTXBaazNPMlpKSDZyd1diQTY0TnIzZ2FNQnoxLTNiYVFxaEF6aW9C?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 09, 03:45 AM ET",
-    "publishedAt": "2026-10-09T07:45:24+00:00",
-    "source": "Українські Національні Новини (УНН)",
-    "title": "You can lose access for insulting Claude - Anthropic introduces new rules",
-    "summary": "Українські Національні Новини (УНН) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemFWMHJQTGVvMVNuT1diSGN4b2NpTm1RUG8xbEE2UG9VWXVzYmd5WGJlM2ItZHBEX29Eb081OU5wZkZrY3Z5UnFuNjNGbGE2M3pmQVRtZnlJTFMxZTlZOVNnTkhCdWdyYmFJdldodkVIekNmenduSks0bGEzZndmdk9lYjVNMFBQTlBiYnRvbkhRV1JyYkRydVp30gGYAUFVX3lxTE02SHdNbEt3c0JLTmhrX1FCZUtVY2hWVmYzMjBuN0FpQmZyWU5UdklWc1FYNDNXdlZCbjJRdkdja0E2TE9jN2ZXV25YT1F2LUl2YWJlM1hlNWVjMUJ4c3VGYXdMTHFtOFlVb3Z0dmVYeHRXQ2pzQk0zRFpiWTBnV2Z4NnFTZFFLR3JkY3V6dlVwaTJYX1hOQlZ4?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 08, 07:30 PM ET",
-    "publishedAt": "2026-10-08T23:30:52+00:00",
-    "source": "EdTech Innovation Hub",
-    "title": "Google selects 100+ AI startups from more than 2,000 applicants for Gemini Startup Forum",
-    "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFBTbl9aaUp2Umg0VTQtNjdHcF92TnppZVppX2tUa2dzSk5VME90NVNQUDRaUnFiQ0hsMEtwX1BuMWhaUlE3ZVo1ZlRZNVNkSVN2MGFPaC1uREV6MmVQVV9pOUN5LUtNS0stVkswSndJX19KQ1ZNaXZOdTZqb3JYa1pWRXNZR3EzbmdSNFpWOVN4bU5jYmVJRTdwRHJjQ19naElIQWdaUC1tQk9RX2lBNzJ1UmlhSkNJY1FXM0xwWHdlaVFNeVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 08, 12:50 PM ET",
-    "publishedAt": "2026-10-08T16:50:52+00:00",
-    "source": "OpenAI",
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOdExScjJHVHppUWxYLXBCT05xMGRwOWpQYmdkblAwdFM0alZ3SXlSUkNFbFFVUnJQM1hVSXA3d0JsWDh5U2dOZFhB?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 08, 06:08 AM ET",
-    "publishedAt": "2026-10-08T10:08:57+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "OpenAI Cuts GPT-6 API Prices 50% as UI Expands [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZbkpBSUtid1JUUmtjcE9CRWp6RFdVUDE0bE0ycllqZ2Rpb05FbXlQSkljLWtWemEteTZ1bE5FRUFLZVg4cF9EczVSbm1LaFdkR2drNnFrZzAybUVGSFVLeG81MUdxd1c3UFVVVDZnMHZ3RmNEbGIxSm1pRFo?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 07, 04:38 PM ET",
@@ -149,7 +173,7 @@
     "time": "Oct 07, 02:52 PM ET",
     "publishedAt": "2026-10-07T18:52:10+00:00",
     "source": "Amazon Web Services (AWS)",
-    "title": "Introducing Claude Haiku 5.5 on AWS | Artificial Intelligence",
+    "title": "Introducing Claude Haiku 5.5 on AWS | Amazon Web Services",
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkU2SklzNGNKdXpOWUpkMFJhVEZvbGpLWlpUeDIzakxtcE1HbVRFeGp5N3FDNXlRd21BWWwzd19Na3RadEpaVk9wY3luT3lBc2tQdk9EcVkwNEZ1RTZJeUlpaDlVaG42MWx6U2h2RERsWXA0RTk3eXlTUC1EVzNFQ25EVjBLQUlrYVE?oc=5",
@@ -180,6 +204,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 07, 08:00 AM ET",
+    "publishedAt": "2026-10-07T12:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 07, 01:13 AM ET",
@@ -204,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 06, 12:00 PM ET",
-    "publishedAt": "2026-10-06T16:00:28+00:00",
-    "source": "CNBC",
-    "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrMXU1ams3ZHlMaE4yVnNKLUFKUEREMjJGRkVJQ09UVHRYbzBiXzdQSlFqS2lsY3dtSWZmLUpoZFRkb0tEZHh4YlBvbUVVQVBCcUFQMlVyNTJuOVdscHhabW5SY1oyRzZLU2ZsT1BwSlJoUHRiYVNrSmlR0gF_QVVfeXFMUFlncV9mdTFCd3ZGSVZqeGVEUVVfVl9mRzc0UzhEQ2dncnNRN1Y0NE9LWHpvREFYcVljSG90RXl3UGRIVnVhaEc3NldUSjlZSTdDTHJSRGxEekZXQUJaejVWSGtiOW45RHZuZHA0RlFzVzdGa3M4NEIySjJEWWdIdw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 06, 10:24 AM ET",
@@ -225,18 +249,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXk1MkxVaC1ITnBDLXc5YWtOOXpNaVFSQ3NES1NHNlVZXzYxVTZkb2djOWtxUU9GdF9TSVNTOEhXQ2h3bWphVHJ0WS1vbFBTR1hkQ2NFeGtFMnl3dVl0ZkVYUmtCbmNnWXBqUkxMWm92TWdva3F1UW1HYnB1bl93NlpkcmZLYzdLMHlxTktFX29LV19wTTVWNkpKSDlyZGs?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 06, 12:32 AM ET",
-    "publishedAt": "2026-10-06T04:32:52+00:00",
-    "source": "Search Engine Journal",
-    "title": "OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In",
-    "summary": "Search Engine Journal is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFJwa0lvNDdzVkJ5WkRyWVRyb1gtbDVjWHdhRTFSTkRtRWFoQkVaMGRfUlhvT0hxaHlfZzNsVW5fOG9LOGxsM1dLeGNDOWU5bm96dFp4dm80b1VRSXdmOENpSVo3MU9vdTJCSGVMaTVWaDN5TFktcTdiMkx1N01DY3Z0YUFZdWZWd3hYUHZIbUNRLWs0N2VTa2poWllpaXhOVjNtRUlB?oc=5",
     "difficulty": "News"
   },
   {
