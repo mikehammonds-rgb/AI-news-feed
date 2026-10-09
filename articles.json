@@ -2,13 +2,25 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 08, 07:33 PM ET",
-    "publishedAt": "2026-10-08T23:33:11+00:00",
+    "time": "Oct 08, 07:30 PM ET",
+    "publishedAt": "2026-10-08T23:30:52+00:00",
     "source": "EdTech Innovation Hub",
     "title": "Google selects 100+ AI startups from more than 2,000 applicants for Gemini Startup Forum",
     "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFBTbl9aaUp2Umg0VTQtNjdHcF92TnppZVppX2tUa2dzSk5VME90NVNQUDRaUnFiQ0hsMEtwX1BuMWhaUlE3ZVo1ZlRZNVNkSVN2MGFPaC1uREV6MmVQVV9pOUN5LUtNS0stVkswSndJX19KQ1ZNaXZOdTZqb3JYa1pWRXNZR3EzbmdSNFpWOVN4bU5jYmVJRTdwRHJjQ19naElIQWdaUC1tQk9RX2lBNzJ1UmlhSkNJY1FXM0xwWHdlaVFNeVE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 08, 04:19 PM ET",
+    "publishedAt": "2026-10-08T20:19:07+00:00",
+    "source": "The New Stack",
+    "title": "Claude can now build your dashboards",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tQXZQUml1cHpUNzFQZldPaXhaTEgwd191X3BEb3lzNlRWVUQxeEtRTmhUMllwb2U5a0FqbS00YjJNVTFtT0pyRmloUXN6V09Hd09ZVjdoRzNPbDI4MTFIeUh2OA?oc=5",
     "difficulty": "News"
   },
   {
@@ -74,18 +86,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 08, 08:10 AM ET",
-    "publishedAt": "2026-10-08T12:10:35+00:00",
-    "source": "The New Stack",
-    "title": "Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WcFhYMWsybWZSS3BfdmRreklEVzVnMVVhNGRMbmN3eTdHS1JZU2VFNVhwZHROTjRkd0FvV0VjSVJEa1JUbDVPXzhHWlJ2SWk1M0hLRkhvQmZEeWZvWmlJWkJDYw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Oct 08, 07:04 AM ET",
     "publishedAt": "2026-10-08T11:04:13+00:00",
     "source": "GitGuardian Blog",
@@ -110,13 +110,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 07, 10:35 PM ET",
-    "publishedAt": "2026-10-08T02:35:05+00:00",
-    "source": "MIXED Reality News",
-    "title": "Claude Max and Team plans now include API credits you cannot spend on Claude Code",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
+    "time": "Oct 07, 04:38 PM ET",
+    "publishedAt": "2026-10-07T20:38:30+00:00",
+    "source": "MarkTechPost",
+    "title": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXU2YTFTUklZUG95RUN1Y2tKcHBPVWtNcXhuZFFyUUNCeE9EbEI5cjgzSjJ2WXVYVTdXeU9WUDZNRUN4cXlCOXhwU0FoQzNoeGh4MGtlZjJ6azRvdE5wUG1TbzhNVzFBS2NZdnJuNmFrcE9XZXBJbTJMV3BRdmY3aG94NFE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ004TDgwUFlDTU9VcE12Rl9IZDRVR0VNREdxdWQ0dTNnRlpQbmNVa25uZGhDN2FNTklfVENRZFN6cmpFWU1jdEwtV2VMcDV2Y2lCMDFLbXQwSThrRHRQaTdjZDEzQm03Rnhhc1BybEt2VEVUT0t2UUZmZ1MyMEVEX09ZV01UMXhxNFVldnBacWlGd3ZwUXlRaklsb0ttNlFnRm9zbExWM0Z5Qld4TnV2OHduaDZ4NWVsR3VONDZ0eDhXT25MejRuQk1oTF84RVItT0JvOTlHazhBdFlUeGRz0gHfAUFVX3lxTE1DTThMODBQWUNNT1VwTXZGX0hkNFVHRU1ER3F1ZDR1M2dGWlBuY1Vrbm5kaEM3YU1OSV9UQ1FkU3pyakVZTWN0TC1XZUxwNXZjaUIwMUttdDBJOGtEdFBpN2NkMTNCbTdGeGFzUHJsS3ZURVRPS3ZRRmZnUzIwRURfT1lXTVQxeHE0VWV2cFpxaUZ3dnBReVFqSWxvS202UWdGb3NsTFYzRnlCV3hOdXY4d25oNng1ZWxHdU40NnR4OFdPbkx6NG5CTWhMXzhFUi1PQm85OUdrOEF0WVR4ZHM?oc=5",
     "difficulty": "News"
   },
   {
