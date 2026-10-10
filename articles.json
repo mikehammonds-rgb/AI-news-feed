@@ -1,5 +1,17 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 09, 09:24 PM ET",
+    "publishedAt": "2026-10-10T01:24:00+00:00",
+    "source": "9to5Google",
+    "title": "Free Gemini users now on ‘Auto’ models as app adds thinking levels",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tYVk5cWgxeWxjaF81UE1uazVnNXRWNEZyb3ZDVTRLdk84TGphNDh3Q1MtVThGYVo2YmRDbHRMMWdla1g1em13Y2l1eVpHalRsUGFSY2p2TDc4T2J5eG5lelkwbEpkQ2hQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 09, 04:05 PM ET",
@@ -28,11 +40,11 @@
     "label": "ChatGPT",
     "time": "Oct 09, 11:41 AM ET",
     "publishedAt": "2026-10-09T15:41:41+00:00",
-    "source": "Forbes",
+    "source": "Yahoo Finance",
     "title": "OpenAI’s Ultrafast And Decisions API Shift AI Race To Speed, Cost",
-    "summary": "Forbes is reporting this update. Open the article for the full story.",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczk3Ym4xT3k0a0ZjZG94M3FUV2ZJWkVibEV5QXpGREgwZE51T3YtOXEtNlktcTQyUk95R3NMVlJBZDJDRzA2TGl3b2x3enI1X0U5bVVCSHpnQmhKcVV1eXNmZmptSlozdDNwTDYtOGxLeGkxUS0zb1Vtd1Faa1MzLXRweVA3Vmh4WmxLNW1kbWdsR1pKQVJQSkR3SGp3R3RkT0p1LW9vMTk2cVBhX1h4TDZhMXNpR1Fq?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORDNnQzdhdUpad2dDSWlabEhCTlpZVllBQnRoeUU2VG5NS1VkUGJsRXlKYXp0dzQxSHZhM1VDQXNYUm1SWTRKdVZBcDRfRUZpTVRpclRNNlhBWDRuTElVYUxqdnhEamY0RVRZOEYzMDd5TXkwQ3FGVnp4OFVBaHFfb3RYek9jYm9mNmw2Q0xfUnBJM1k4WUdrTVczSEpZLXBzSEE?oc=5",
     "difficulty": "News"
   },
   {
@@ -45,18 +57,6 @@
     "summary": "Forbes is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXhCYjlxWDNfb1ltVFFTVTkxdjdiS2p0RlB2UjU1a3BlaVNqbUM0WVlIS2dOdV9JaVE0ZHI3VFFzVkZJZU5PZHVieTRMVU1MWFNITzNUZVg4ZHRrQ3Z4cThUUlpQeHZ0QnRSb3M2RjR0OXhnbnhQbHBiX1EtRnBkTjZfUl9ENTROZ0E1aERQOF9ZcUxUdUF4Tl9YWkx0VkUtQnRWaDVoVWZmREthbFJMYnJ3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 09, 10:23 AM ET",
-    "publishedAt": "2026-10-09T14:23:13+00:00",
-    "source": "The Rundown AI",
-    "title": "OpenAI plans textGrain watermarks for ChatGPT and Codex in the EU",
-    "summary": "The Rundown AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3JIMFhlYlRQZ0xDMThpdUc2WERYczNQeXJSelRVOUhhZ0RZQjMxTzk3YzZuSEw0QjFHdVBKa3B2YzlGTnMySjFKX1I3Q1dqbGlrWDBvV2ZrRWhfNDJCdXVvZG1Ga0FyRkJuTFhnNDZTRXpOTm9uMGJ4WHlzejQ5UA?oc=5",
     "difficulty": "News"
   },
   {
@@ -108,18 +108,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 09, 04:14 AM ET",
-    "publishedAt": "2026-10-09T08:14:00+00:00",
-    "source": "Neowin",
-    "title": "OpenAI boosts GPT-6.1 Sol by 8x and speeds up AI choices 10x with Decisions API",
-    "summary": "Neowin is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3FxUE1jRW5lSHVnTUdqMzh1aDBwc2hmUWFFV2tCakhMb01DNnVYZFZ4SzM3eklKOGdWNEdyWWZQQVdpUjhXWHFwWlR6ZlYxS0JVYU43YlhWUzFCdGo5UDRLZDdjb3pMMk92V3ZTazA1djFLR2xHU2MwVDNhS01QZlY2QVJ5VHh1dWM5cnItYm9hVm5WelpTNEdQS1BURFFMNjRrb3FqWnUwMVU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 08, 09:00 AM ET",
@@ -141,6 +129,18 @@
     "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYnppRlN6LTJvazFmMVpuRkhabWtxQ05DN1BTcmhMYnlSZ1A4aXZ6d1o3RkdkcnJyRm12OWpLaHhyNWo0NFlQUUNMMVhDQUxIRnBpTDdVRTFIWGM4VGYtOFM0Mkp3X3E0QUU4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 08, 06:08 AM ET",
+    "publishedAt": "2026-10-08T10:08:57+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "OpenAI Cuts GPT-6 API Prices 50% as UI Expands [2026]",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZbkpBSUtid1JUUmtjcE9CRWp6RFdVUDE0bE0ycllqZ2Rpb05FbXlQSkljLWtWemEteTZ1bE5FRUFLZVg4cF9EczVSbm1LaFdkR2drNnFrZzAybUVGSFVLeG81MUdxd1c3UFVVVDZnMHZ3RmNEbGIxSm1pRFo?oc=5",
     "difficulty": "News"
   },
   {
@@ -252,18 +252,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 06, 10:24 AM ET",
-    "publishedAt": "2026-10-06T14:24:31+00:00",
-    "source": "blog.google",
-    "title": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXk1MkxVaC1ITnBDLXc5YWtOOXpNaVFSQ3NES1NHNlVZXzYxVTZkb2djOWtxUU9GdF9TSVNTOEhXQ2h3bWphVHJ0WS1vbFBTR1hkQ2NFeGtFMnl3dVl0ZkVYUmtCbmNnWXBqUkxMWm92TWdva3F1UW1HYnB1bl93NlpkcmZLYzdLMHlxTktFX29LV19wTTVWNkpKSDlyZGs?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 05, 04:46 PM ET",
@@ -288,15 +276,27 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 05, 01:38 PM ET",
+    "publishedAt": "2026-10-05T17:38:23+00:00",
+    "source": "The Decoder",
+    "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzMydWVjQmp6S1lVWlZodGx0dm5KS3dJbzR5R0M4M0hoVUEtdmxlSzJuMzlVSnpjOFhFSjhNakhtOGl1WFd4TFd0dmpFbTJHZ2U1bkctUkJJSXphUWtEN2twOThGa2M0RmlLSDVUN0hBV3RNQ0V2dDJ0ai1mZEdsaHk1bnozN09XLWpTX05XTm5nZnQxWldGVGkwQVNHcGR2ZmFxd2lSaUNHRUY1akd4V2lfdzJLQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 03, 04:57 PM ET",
-    "publishedAt": "2026-10-03T20:57:00+00:00",
-    "source": "9to5Google",
-    "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "time": "Oct 02, 11:06 AM ET",
+    "publishedAt": "2026-10-02T15:06:01+00:00",
+    "source": "blog.google",
+    "title": "The latest AI news we announced in September 2026",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04R1J3UHRCTHp2S0FSeTd6YUllLS1TYVZvMDFSeVZraUFnZDJxdjk5Rm9Pd3o0Zlk3NEp2WkhOSXQ1aTVTdGJRb2NXaktIRlM1YmVqeHprdWVobkpPTXBiVkVzRFloWC1DamlXbmZB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzhIUnNPaFVfR0U3TGVCM1AwRnY0Rk15UnVkM1Y5ajNPYUtXWE1mOE5OMjNNM1ZsN2czZS1iOUY5VVRkTnc3ZWhVVUdPUFZHTngtTFl0VjZjREpFbGRWV2VhV19ucVZhN2hra21IcFZISHNZcF81bHQ1Ti1kbnhhcll5a3dzNTl2aGpuZDhB?oc=5",
     "difficulty": "News"
   },
   {
@@ -360,6 +360,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 25, 03:00 AM ET",
+    "publishedAt": "2026-09-25T07:00:00+00:00",
+    "source": "Quartz",
+    "title": "Microsoft is relaunching Copilot as a unified app combining coding and autonomous AI agents",
+    "summary": "Quartz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LbXJvWGxkSC1BX3lFYWpkaE1HVFE4eHNZMG9hcUp1LWJOOGFCempXQWV1VWdObEpvNWUybjNZVlN5dVhrQkdkeHdMUnVycDVOME9lWWZZRDIwWWthWTlkQl9Od1JGOUdlT0dULWRvQk93d3VOYlRj?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 15, 03:00 AM ET",
@@ -369,18 +381,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Jul 29, 03:00 AM ET",
-    "publishedAt": "2026-07-29T07:00:00+00:00",
-    "source": "Business Insider",
-    "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
-    "summary": "Business Insider is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5",
     "difficulty": "News"
   }
 ]
