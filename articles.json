@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 09, 04:05 PM ET",
+    "publishedAt": "2026-10-09T20:05:07+00:00",
+    "source": "MarkTechPost",
+    "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUpYS29va0Q1WURNaGhvM1pxdW5MM0ZoWDdfOEpOanJFZzRzcmQxbFh2Vnd4Z1RsNmlfRm95eFUyazhmaUtZcUpkaFN1NU13VmRSUFVYYVU1VGQtTElIRkwyTFNhcV9EY1dOMjlaSVYzLUo1eWo0TjJDbTVyeWE1VXlzQm1MZVE4SjJ0Qkh4NkExaW15RUdJbzlHMXBEZ3oxYUd2UGREYlFTR2da0gGsAUFVX3lxTFBNSlhLb29rRDVZRE1oaG8zWnF1bkwzRmhYN184Sk5qckVnNHNyZDFsWHZWd3hnVGw2aV9Gb3l4VTJrOGZpS1lxSmRoU3U1TXdWZFJQVVhhVTVUZC1MSUhGTDJMU2FxX0RjV04yOVpJVjMtSjV5ajROMkNtNXJ5YTVVeXNCbUxlUThKMnRCSHg2QTFpbXlFR0lvOUcxcERnejFhR3ZQZERiUVNHZ1o?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 09, 02:34 PM ET",
@@ -33,18 +45,6 @@
     "summary": "Forbes is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXhCYjlxWDNfb1ltVFFTVTkxdjdiS2p0RlB2UjU1a3BlaVNqbUM0WVlIS2dOdV9JaVE0ZHI3VFFzVkZJZU5PZHVieTRMVU1MWFNITzNUZVg4ZHRrQ3Z4cThUUlpQeHZ0QnRSb3M2RjR0OXhnbnhQbHBiX1EtRnBkTjZfUl9ENTROZ0E1aERQOF9ZcUxUdUF4Tl9YWkx0VkUtQnRWaDVoVWZmREthbFJMYnJ3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 09, 10:23 AM ET",
-    "publishedAt": "2026-10-09T14:23:58+00:00",
-    "source": "The Rundown AI",
-    "title": "Anthropic will ban sustained, needless abuse of Claude",
-    "summary": "The Rundown AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhSmplcFZ4czFzeC1FNXBEUklCeUdGTFRpUVRIN1BfWXhOcjJBMHJ6NldGUmZITEpJUVF6OXBIZXJidHFuSFpPSnlvUWNFa2M1VU9yR1NHMFJNOWF6cFRMcm5XVUtsaS0yRVFuVS05Um81MWFsRXpBRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -117,18 +117,6 @@
     "summary": "Neowin is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3FxUE1jRW5lSHVnTUdqMzh1aDBwc2hmUWFFV2tCakhMb01DNnVYZFZ4SzM3eklKOGdWNEdyWWZQQVdpUjhXWHFwWlR6ZlYxS0JVYU43YlhWUzFCdGo5UDRLZDdjb3pMMk92V3ZTazA1djFLR2xHU2MwVDNhS01QZlY2QVJ5VHh1dWM5cnItYm9hVm5WelpTNEdQS1BURFFMNjRrb3FqWnUwMVU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 09, 04:10 AM ET",
-    "publishedAt": "2026-10-09T08:10:11+00:00",
-    "source": "TechRepublic",
-    "title": "Anthropic Launches Claude Haiku 5.5 With API Prices Starting at $0.10",
-    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmQtZzZRS2E4SWEtaDM4V3U0ZHJTZkhiblJOdkpZem9WR2V5dTYwWVk4TF9zeFJiTF9keUg1LVBEYTdoUTc3d2dXN1dkd0RBeEYzcG1VaVNFWmNuaGtLX0VQTXBaazNPMlpKSDZyd1diQTY0TnIzZ2FNQnoxLTNiYVFxaEF6aW9C?oc=5",
     "difficulty": "News"
   },
   {
@@ -233,10 +221,34 @@
     "time": "Oct 06, 07:43 PM ET",
     "publishedAt": "2026-10-06T23:43:04+00:00",
     "source": "Unite.AI",
-    "title": "Nano Banana 2.1 Debuts at Half the Image Cost of Its Predecessor",
+    "title": "Nano Banana 2.1 Halves the Per-Token Image Price of Its Predecessor",
     "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmlmeXpIdzZiR29JbVhzeVBualNVbUlmVnFYazA3ai1iX3VLUm5Rc1kyY2duNTZZSHNaR3UwRXQ4S3RCeWdpZ0Q2MjBVX2pxaFEyeWdkV0tJdkxzSlFLdGR3RWVuV0Y5R3RjWjVlUXEtWHIzSlJ0SFBITDhxNHNZUFVucU5valJ5RExhUXpGWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 06, 05:11 PM ET",
+    "publishedAt": "2026-10-06T21:11:38+00:00",
+    "source": "The Register",
+    "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcWY4dUh1dUExNEs0Mng4cHZfS0FhSGwzX1Y5UmxxanI4S0JucjBRdWR5TUZwZTBJckd0SUhLRk80V0pnOTFHdVZvX2tGVEc4eDZWR3F2Q01USzZwV2NSVUhPc3JDZzhaWTB3NW81NjBHRTBCYmJSM3NvUTdiZzVLVlNDVWdLUGpWRnZUYS1LbUxydmlVMTl4UUx0YmtGRnFobUc1Y2JhVEhyM3ZpekxxUnh0cVkza0hVT09yemU3RFJ4Y3BsRDFmaEg3bVRwS3V4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 06, 12:00 PM ET",
+    "publishedAt": "2026-10-06T16:00:28+00:00",
+    "source": "CNBC",
+    "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrMXU1ams3ZHlMaE4yVnNKLUFKUEREMjJGRkVJQ09UVHRYbzBiXzdQSlFqS2lsY3dtSWZmLUpoZFRkb0tEZHh4YlBvbUVVQVBCcUFQMlVyNTJuOVdscHhabW5SY1oyRzZLU2ZsT1BwSlJoUHRiYVNrSmlR0gF_QVVfeXFMUFlncV9mdTFCd3ZGSVZqeGVEUVVfVl9mRzc0UzhEQ2dncnNRN1Y0NE9LWHpvREFYcVljSG90RXl3UGRIVnVhaEc3NldUSjlZSTdDTHJSRGxEekZXQUJaejVWSGtiOW45RHZuZHA0RlFzVzdGa3M4NEIySjJEWWdIdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -273,18 +285,6 @@
     "summary": "SemiAnalysis is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1obmlsblJmOTI4SDVYR1hzd3lzNEVkM0JONGV0ZUJjZXpWRjdzaW85cjNIclpLZXJVbzQyU0VkbFVzX3VuM0M5VkZ2MlowRG1DaVc0ZllobllaLTBDaFlrSllvRmpqZVBMS0E2b1NNRkdwMkNnT0xxSFhn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 05, 01:38 PM ET",
-    "publishedAt": "2026-10-05T17:38:23+00:00",
-    "source": "The Decoder",
-    "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
-    "summary": "The Decoder is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzMydWVjQmp6S1lVWlZodGx0dm5KS3dJbzR5R0M4M0hoVUEtdmxlSzJuMzlVSnpjOFhFSjhNakhtOGl1WFd4TFd0dmpFbTJHZ2U1bkctUkJJSXphUWtEN2twOThGa2M0RmlLSDVUN0hBV3RNQ0V2dDJ0ai1mZEdsaHk1bnozN09XLWpTX05XTm5nZnQxWldGVGkwQVNHcGR2ZmFxd2lSaUNHRUY1akd4V2lfdzJLQQ?oc=5",
     "difficulty": "News"
   },
   {
