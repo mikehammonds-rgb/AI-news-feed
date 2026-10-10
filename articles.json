@@ -1,5 +1,17 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 10, 10:59 AM ET",
+    "publishedAt": "2026-10-10T14:59:53+00:00",
+    "source": "TestingCatalog AI News",
+    "title": "OpenAI lists new gpt-rosalind-discovery model in docs",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3JHMEdJMVFFOFJfQXBfRDFMZlUxOW90U21rS05qTVhhWFF6Q0NBTnVVQS1PN1JYSlUxRkpmalBPb3J2VzFaa3BqU0dwVUgzbEk4eEpiZkZJLWVTVlJ0MU83ei1xaDVMZjJvNjBncEVaUjZrQmZkd1JxU3hnUTJqWGU0UDREdXJER3ZqWjhB?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 10, 06:04 AM ET",
@@ -129,18 +141,6 @@
     "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYnppRlN6LTJvazFmMVpuRkhabWtxQ05DN1BTcmhMYnlSZ1A4aXZ6d1o3RkdkcnJyRm12OWpLaHhyNWo0NFlQUUNMMVhDQUxIRnBpTDdVRTFIWGM4VGYtOFM0Mkp3X3E0QUU4?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 08, 06:08 AM ET",
-    "publishedAt": "2026-10-08T10:08:57+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "OpenAI Cuts GPT-6 API Prices 50% as UI Expands [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZbkpBSUtid1JUUmtjcE9CRWp6RFdVUDE0bE0ycllqZ2Rpb05FbXlQSkljLWtWemEteTZ1bE5FRUFLZVg4cF9EczVSbm1LaFdkR2drNnFrZzAybUVGSFVLeG81MUdxd1c3UFVVVDZnMHZ3RmNEbGIxSm1pRFo?oc=5",
     "difficulty": "News"
   },
   {
@@ -350,13 +350,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 15, 03:00 AM ET",
-    "publishedAt": "2026-09-15T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "time": "Jul 30, 03:00 AM ET",
+    "publishedAt": "2026-07-30T07:00:00+00:00",
+    "source": "Oracle",
+    "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
+    "summary": "Oracle is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
     "difficulty": "News"
   },
   {
