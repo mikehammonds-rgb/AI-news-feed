@@ -2,6 +2,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Oct 11, 03:30 PM ET",
+    "publishedAt": "2026-10-11T19:30:46+00:00",
+    "source": "Pasquale Pillitteri",
+    "title": "How to Turn On textGrain in the OpenAI API (and Why Code Is Harder to Watermark)",
+    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BNlJkSDVyaVNjaXB1VUNWaTZleEg2OXVBZXRIUFlFemNZX2NFeUR1VWpHWmpXZnllS0xQQkl5NkdrMnB5X19STlZrZTJ5b0hlcmwta3ZfYXNubzVRZV9WWDJpZVhCUXJuOXlWLW9ocXg0aXo5VmNwN1hseFI?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Oct 11, 11:23 AM ET",
     "publishedAt": "2026-10-11T15:23:53+00:00",
     "source": "Towards Data Science",
@@ -9,6 +21,18 @@
     "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUlHYlVWdWhfQm5Rd2RxakQtZ0o4a3ZfaU5JSTNFeENNTUZlTHlKZUpsTHpYalVkUmFyZG9Fd2dwMGNJWmNSOS1CTmx4dDUteURkMlFxOHk3YVN3YnZ1amFyTWl4b0JpdnVYejBXbkMxaHVVbkp0TXhZNlgwQnl6eXpuQ28?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 11, 10:41 AM ET",
+    "publishedAt": "2026-10-11T14:41:30+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "Claude Code vs Codex vs Copilot: 2026 Comparison",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BbXNsV09QY0xLN2hlVXNmbFQ4OFlGcnlSUmR4bnlmWkVOUEV6YWRjRHdhQno1UWNjSTY4NHhyQmhxZ09EQmdFVUZVSUZxS2tSYUFiemNXUkhOTVZmZTUxWU81YkY4UEtUTzgxSnJhNHIxNVRLSXNfWQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -21,18 +45,6 @@
     "summary": "FourWeekMBA is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREp3bFVsdU0yX3kyZEltV183UnhLcGFJODBqSFE2ZXJzTWZzbmFYYXJ4SW15UHJ6VGxKNjd0eEw3MDdUR1hERUJVUklJMUpVWER3N2NSSE9zVnFkSHRSUEdsZUhVdGY5OElhS1dmSE15b012OU1Zckg3Y1M5VHNJbW1UZFNhdk8yVkc3cmN5SQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 10, 09:44 PM ET",
-    "publishedAt": "2026-10-11T01:44:06+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Set Up Cursor With Claude Code: 13 Steps, 1M Tokens [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MRk1uRlpybjItNW1wNjZxUlBaNzVVQnk0NVhDdHgxX0E5U2hNTVF4U3RHd2FvY0pSYkdLaXVEX3dIZ0UzVDJnUDZHNVpsNjV5a05wLXMxTkNFS20tTFZibEQtVHRDT01WS3BPSm50T2o4dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,18 +273,6 @@
     "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrMXU1ams3ZHlMaE4yVnNKLUFKUEREMjJGRkVJQ09UVHRYbzBiXzdQSlFqS2lsY3dtSWZmLUpoZFRkb0tEZHh4YlBvbUVVQVBCcUFQMlVyNTJuOVdscHhabW5SY1oyRzZLU2ZsT1BwSlJoUHRiYVNrSmlR0gF_QVVfeXFMUFlncV9mdTFCd3ZGSVZqeGVEUVVfVl9mRzc0UzhEQ2dncnNRN1Y0NE9LWHpvREFYcVljSG90RXl3UGRIVnVhaEc3NldUSjlZSTdDTHJSRGxEekZXQUJaejVWSGtiOW45RHZuZHA0RlFzVzdGa3M4NEIySjJEWWdIdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 05, 04:01 PM ET",
-    "publishedAt": "2026-10-05T20:01:09+00:00",
-    "source": "SemiAnalysis",
-    "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-    "summary": "SemiAnalysis is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1obmlsblJmOTI4SDVYR1hzd3lzNEVkM0JONGV0ZUJjZXpWRjdzaW85cjNIclpLZXJVbzQyU0VkbFVzX3VuM0M5VkZ2MlowRG1DaVc0ZllobllaLTBDaFlrSllvRmpqZVBMS0E2b1NNRkdwMkNnT0xxSFhn?oc=5",
     "difficulty": "News"
   },
   {
