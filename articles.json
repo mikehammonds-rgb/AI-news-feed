@@ -2,6 +2,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Oct 11, 11:23 AM ET",
+    "publishedAt": "2026-10-11T15:23:53+00:00",
+    "source": "Towards Data Science",
+    "title": "A Practical Guide to OpenAI's New Decisions API",
+    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUlHYlVWdWhfQm5Rd2RxakQtZ0o4a3ZfaU5JSTNFeENNTUZlTHlKZUpsTHpYalVkUmFyZG9Fd2dwMGNJWmNSOS1CTmx4dDUteURkMlFxOHk3YVN3YnZ1amFyTWl4b0JpdnVYejBXbkMxaHVVbkp0TXhZNlgwQnl6eXpuQ28?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Oct 11, 03:52 AM ET",
     "publishedAt": "2026-10-11T07:52:46+00:00",
     "source": "FourWeekMBA",
@@ -184,9 +196,9 @@
     "label": "Claude Code",
     "time": "Oct 07, 02:52 PM ET",
     "publishedAt": "2026-10-07T18:52:10+00:00",
-    "source": "Amazon Web Services",
+    "source": "Amazon Web Services (AWS)",
     "title": "Introducing Claude Haiku 5.5 on AWS | Amazon Web Services",
-    "summary": "Amazon Web Services is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkU2SklzNGNKdXpOWUpkMFJhVEZvbGpLWlpUeDIzakxtcE1HbVRFeGp5N3FDNXlRd21BWWwzd19Na3RadEpaVk9wY3luT3lBc2tQdk9EcVkwNEZ1RTZJeUlpaDlVaG42MWx6U2h2RERsWXA0RTk3eXlTUC1EVzNFQ25EVjBLQUlrYVE?oc=5",
     "difficulty": "News"
@@ -252,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 05, 04:46 PM ET",
-    "publishedAt": "2026-10-05T20:46:00+00:00",
-    "source": "9to5Mac",
-    "title": "OpenAI details new text watermarking system for ChatGPT, Codex, and the API",
-    "summary": "9to5Mac is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORU5BV0lERk9wVFgtdUhpWHIwVXZNRVZhYnhjTzJDNEpJanZ6NFJIZ09FU0g5RDBKOFB2VHBrTGRmN3lWMVlDSmZhak84M29xRUswaE1qYkRIZTQ1VVJ0QWRlVGIxYjdjaDkybG9FcTV2cFFPYXh0UDlVMGNjdG9QMjhGX1FEamlwN1hSWTJ0cUI5VXRVMUgxYmQ4THcwRnNnY3dLU3hfZEE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 05, 04:01 PM ET",
@@ -316,11 +316,11 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "The Official Microsoft Blog",
-    "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
+    "source": "CIO Dive",
+    "title": "Microsoft retools Copilot with coding, AI agent capabilities",
+    "summary": "CIO Dive is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
     "difficulty": "News"
   },
   {
@@ -328,11 +328,11 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "CIO Dive",
-    "title": "Microsoft retools Copilot with coding, AI agent capabilities",
-    "summary": "CIO Dive is reporting this update. Open the article for the full story.",
+    "source": "The Official Microsoft Blog",
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
     "difficulty": "News"
   },
   {
