@@ -2,6 +2,78 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Oct 13, 02:51 AM ET",
+    "publishedAt": "2026-10-13T06:51:15+00:00",
+    "source": "Pasquale Pillitteri",
+    "title": "Gemini 4 Argon for Ultra, Logan tweets but Google has not confirmed",
+    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUc1RnJMM3JKYnZ2RlM3Qk5obW1iUl96VVp3RndsQU9yU3hsOUpnMlVlUkt3NTROUDdmTk9fSHczd3JtQXBBRmZrS1ZENEZtSnRNcnczOUF6QU9FUWlmUnRDNVBfNUI5YkNGaUEzN0FpSV9TZDBsMHBvbm9BT3RWYjVreEFXLXNYQVA5RzFCWEw3MkNxMkVMZnhNMA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 13, 02:40 AM ET",
+    "publishedAt": "2026-10-13T06:40:47+00:00",
+    "source": "Yellow.com",
+    "title": "Anthropic Names Z.ai As Claude Copycat, Says New Shields Stop Most Attempts",
+    "summary": "Yellow.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40dUw2Ym03MTI2XzRRMU5xRjd2OTBMOUpzcUJRZzVwQkZ0R0ZNWnVVNnRuM010NXpzNUlQUFd4Rmg4U1hRU251QVJBaUNqN2NKXy04SVVYWHZfU2JiOERobTlIdXZvMGtFVUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 13, 02:39 AM ET",
+    "publishedAt": "2026-10-13T06:39:01+00:00",
+    "source": "MIXED Reality News",
+    "title": "Claude Haiku 5.5's prompt is the first of 22 to tell it to check a child's dose on DailyMed",
+    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFp0cGhXZFJtcU5YWmRDcEtPYmYwU2RCWWc4NUlKeDdsSkpJdjk4RGhRUjhDV1pSZmtMb3VnODhaTXZzeGExMWtvYXl6eVhXcTczcVpId0xHZ0N4QUVQTV8yOXZSQnY2cVFPanJxTXN5ekNWU2V3NThJMENocXRFdFdaWFg2cVkwUXFhbkZua2pwX1VJeUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 13, 01:36 AM ET",
+    "publishedAt": "2026-10-13T05:36:00+00:00",
+    "source": "BigGo Finance",
+    "title": "Google Gemini Notebook Designer: AI Shouldn't Just Hand Out Answers—It Should Guide Independent Thinking",
+    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxYTNCVG5RRzk2UXBRaHVOVTg3RzZfX1k1UDdKQXkyZlRmaVZVMkJ4NUd5NGp4RGRabkZPdUNrUW1EMGsySDd1b1JfRjZvTUNlaHM0X09qSV9wNm5JeXl3ZHFNRm9KYnhaZTRIY2c4cjFsWWtxQWc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 12, 04:04 PM ET",
+    "publishedAt": "2026-10-12T20:04:04+00:00",
+    "source": "VentureBeat",
+    "title": "Meta's new Muse Wonder and Muse Wonder Full models achieve frontier performance, but only the weaker one is available via API",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMUwyWl9PSVZmUHlCamxZRU80cnlBcjNUUkc1SFRTVVYybEI0Y0ZWZzNpbkdqSHU5a2ZyUGlDUlIwd0QyeDN1MGRRamx5YU41WF9WMTdJZ05nUDZGakt1LWkwQVhOS0ZPc2RCcXFEMFNPSmRiOXlsUmstdmsxcDVRLXg0TjhNVzZIeU91aEdFcDVhT1lJeXZicktoRm5UTWFFRXg5b1ZKaC1TSHFRTVVBY1Y0aWdBM1ROdHYtLU93OTl6V3RrM0UxdXUxODJhVnVqd3lXZ1NIMm1yeTlEYnNXamdHU0VwcDdNQ3VRbDlONA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 12, 02:06 PM ET",
+    "publishedAt": "2026-10-12T18:06:50+00:00",
+    "source": "TechRepublic",
+    "title": "Anthropic’s Claude Abuse Policy: What Users Should Know",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwSDBYTU93SENsQUNKR0FoaWVEcUZGd0JhOU9iVUcycmtEcl8wRk5MY3pza0s1ZVhCSTd6T255VEg4VDJGWlRUc3hjV3VPVmtEWl9HT2d3ZjdKa2tzQklIWTBFMzZvakhxLVBrNTlVbExRd0ZicUxjdzR6OE4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Oct 12, 01:53 PM ET",
     "publishedAt": "2026-10-12T17:53:52+00:00",
     "source": "PPC Land",
@@ -9,18 +81,6 @@
     "summary": "PPC Land is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAxd1NVVlByN2txUVU3Y09kLTl2RllVNHlMZWNIWlltZlp6WEFYNzdkeENGRzhqMGhlUmkwSDh0SGw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 12, 07:58 AM ET",
-    "publishedAt": "2026-10-12T11:58:17+00:00",
-    "source": "Gagadget.com",
-    "title": "Google's free Gemini now picks the AI model for you",
-    "summary": "Gagadget.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb1hCeXE4YTBPWGljOXlKNjNLSGdjSjN1N3JnMjcxaGFYRUVRdmYwcFlxNjNsM1F4Tk9vX3FUSTl2ZVpqaUNlaXFuc1VJU2liTDJuTE92YWhxUkZnMWh0eHVLUFFYNFVmMlBxU1UzbHFBejZmbm85MHNvZ18yUVNBRDRjdlNUTGxGZHfSAY8BQVVfeXFMUDVObUxqYmZ5eTN0OWJfeGtLeEQ3dnl1ancwZnZOXy1WU1ctaFBEaFl0SGs4aExQRHlCWUxBYXBGcWpUZmJsbzdHc2NWNlBhX09mRVdsX1BmLUhRRHpta1Z1cnNZeXltdHBKTWcxT09KbEttbjZhQklEeXhJMUtSX1hOaUlDYnN0ME9VREI0ekE?oc=5",
     "difficulty": "News"
   },
   {
@@ -33,18 +93,6 @@
     "summary": "Konsulteer is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ28yTkxMZldLaER1RUxDMXR4VFhHUG5la05SQ3BsZjVMWGppc0xQd25BaFV5ZWlkcU1GTGZHZUh5X2NFWTRyeEJmaEhvaG9sVTRPd05iUTc5WDJiS29FY0Y3TjBkVXJDTE1fMjZNLWFuQzdFaWJuOXJZd0dSdk5uQjhsWnpmczctNmNDUTZOWndEQldnOHVqVW5fblFORzRwbGNsa3dBVHNEc3JzVHI5OQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 12, 03:26 AM ET",
-    "publishedAt": "2026-10-12T07:26:00+00:00",
-    "source": "The Hacker News",
-    "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWW9lR3lLdjJLcGlBRDg1UG1VcktFcG1IOXVRX0lCQ2lEQkJON0hsSFZEd0MxS1lwMkZHUDZwbEpEajYwQU5VOGNaN1NMQXItS095NTVNSWl1bk1kdXd1QXJuemxaWHl5OTYxbk5rZWhPYWRfQU5NM1FrSzkxekFqa05hRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -132,18 +180,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 09, 09:24 PM ET",
-    "publishedAt": "2026-10-10T01:24:00+00:00",
-    "source": "9to5Google",
-    "title": "Free Gemini users now on ‘Auto’ models as app adds thinking levels",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tYVk5cWgxeWxjaF81UE1uazVnNXRWNEZyb3ZDVTRLdk84TGphNDh3Q1MtVThGYVo2YmRDbHRMMWdla1g1em13Y2l1eVpHalRsUGFSY2p2TDc4T2J5eG5lelkwbEpkQ2hQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 09, 04:05 PM ET",
@@ -153,18 +189,6 @@
     "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUpYS29va0Q1WURNaGhvM1pxdW5MM0ZoWDdfOEpOanJFZzRzcmQxbFh2Vnd4Z1RsNmlfRm95eFUyazhmaUtZcUpkaFN1NU13VmRSUFVYYVU1VGQtTElIRkwyTFNhcV9EY1dOMjlaSVYzLUo1eWo0TjJDbTVyeWE1VXlzQm1MZVE4SjJ0Qkh4NkExaW15RUdJbzlHMXBEZ3oxYUd2UGREYlFTR2da0gGsAUFVX3lxTFBNSlhLb29rRDVZRE1oaG8zWnF1bkwzRmhYN184Sk5qckVnNHNyZDFsWHZWd3hnVGw2aV9Gb3l4VTJrOGZpS1lxSmRoU3U1TXdWZFJQVVhhVTVUZC1MSUhGTDJMU2FxX0RjV04yOVpJVjMtSjV5ajROMkNtNXJ5YTVVeXNCbUxlUThKMnRCSHg2QTFpbXlFR0lvOUcxcERnejFhR3ZQZERiUVNHZ1o?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 09, 02:34 PM ET",
-    "publishedAt": "2026-10-09T18:34:07+00:00",
-    "source": "The Decoder",
-    "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
-    "summary": "The Decoder is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb0hjSnZiM0d4ckZBbkpJSUVVYUxwZ3VVQ2hGd3VCWFRxM1BFb3lueXZUMzVZRmd1UElZVUNXbm5mTjN2TGs0S2tzOXhqQ3NONHFRRnpFMU9Id0tnVG1fUFhIU3BtZnZ1TlBYS1RGWTBnUlFpOU45Zk90MWNIRVplT1FQTV8zLTN3U3ZYZGxWWFhfWm5McGMyR2xSVXE1bzc2aVNLQ19ma1ktWFJRN1ZyOVVnTDlMQW9KdHdyS1ln?oc=5",
     "difficulty": "News"
   },
   {
@@ -266,18 +290,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 07, 02:52 PM ET",
-    "publishedAt": "2026-10-07T18:52:10+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Introducing Claude Haiku 5.5 on AWS | Amazon Web Services",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkU2SklzNGNKdXpOWUpkMFJhVEZvbGpLWlpUeDIzakxtcE1HbVRFeGp5N3FDNXlRd21BWWwzd19Na3RadEpaVk9wY3luT3lBc2tQdk9EcVkwNEZ1RTZJeUlpaDlVaG42MWx6U2h2RERsWXA0RTk3eXlTUC1EVzNFQ25EVjBLQUlrYVE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Oct 07, 02:08 PM ET",
     "publishedAt": "2026-10-07T18:08:26+00:00",
     "source": "VentureBeat",
@@ -285,18 +297,6 @@
     "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTFMTVFQOTJ2SmdCSGdjR2Z4Q2ZYMF9ncldZM3NUNTlEWUVOUERVUVVpdHdfQno4c3F3aWJ1WnIybnpYNGxnMmk5d3FCaUlkdkhCeHpPMENmRG81MEpBcGx5Y1kxY25GY3oxb3gzNGk1bDdOS0JwMkxFZ1hkUFI2M21GMWowTzc4VVJaLUNaajc5MGJrMTdtcXNJem93Q2lpSGFvYXJCbEFwN2hMTnY4bzcxdEswa29DWFE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 07, 11:38 AM ET",
-    "publishedAt": "2026-10-07T15:38:42+00:00",
-    "source": "The Decoder",
-    "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
-    "summary": "The Decoder is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMk03cFp1MGRpX3RDZ3dPYmVRR2JCQm5KY0pNSWE3d25qaVdtVlJtX01JbjIxTG9uTUVMT200dmwtY1MxR0ROMlRpU01tVGR4ZUpCMTUzWTJCTk1xREZOcjA2VGdTMDJFZ1NXN0JLMDZFcEJIWGtoMXpPOTQ1SklIeVBzNEdzdFk1UGhoR2JDMG4ycmxOalFka0w3eDNsUnZZd0lLUFhPc2FpUTBqMWc?oc=5",
     "difficulty": "News"
   },
   {
