@@ -2,13 +2,61 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 13, 12:08 PM ET",
-    "publishedAt": "2026-10-13T16:08:53+00:00",
+    "time": "Oct 13, 04:20 PM ET",
+    "publishedAt": "2026-10-13T20:20:52+00:00",
+    "source": "Gizmodo",
+    "title": "Google’s Gemini Argon 4 Is Now Available Worldwide",
+    "summary": "Gizmodo is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3l4LUpsbmxPdThtZ0xNdkZJUDFZLW9yVUFPb254c1hRTVJyRGxDa2FHUG12VzBpTjF2R01TS1lFY2tuNmZiWTdFOFU4Smd5d1dPOE1oWUs3dWlnc003a3dObFlpdExkSGRZdnZ0RVZCMVN4Qmp3M3BOb3hCM0NhcC1za0FPZ28?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 13, 01:24 PM ET",
+    "publishedAt": "2026-10-13T17:24:00+00:00",
+    "source": "Quiver Quantitative",
+    "title": "Quiver Quantitative Is Now Available in the Claude Connector Directory",
+    "summary": "Quiver Quantitative is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0JqeEJmaFBWS0s2M3RkRUtzMjdoS181VllUeE5HX2hlSWRpckFCa3JnazFoY3dEVTdBY0ZLSUN6MkZzNDBONVdsNTFWSWRLX1pnWHRLdk1iV000RXM5NUxTTlJta0FYQThPbm1LU1VLMGd1U2t1Z3hCc2Fic0owOW1kNFZZU3dEUzlMSXQyVWdiaDhQRms4OWs3UURkams2eWd6d1RR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 13, 01:15 PM ET",
+    "publishedAt": "2026-10-13T17:15:40+00:00",
+    "source": "Quartz",
+    "title": "Google releases Gemini 4 Argon AI model to developers, businesses",
+    "summary": "Quartz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTJYVVNQTkVvRExCcU0zdGplVnpUYWw5V2MxVDhhTFI0N1U0ZFNEc1RrclFrTVQyUlFkRkV2UE5zSER5Um82dUFTcHRvVHFmcnZjZjhqcTd6MEdjMV80aXc5T2VPU2tCR3AtUXZweGZSelFmU3pGRFpBY01vc3VmXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 13, 01:05 PM ET",
+    "publishedAt": "2026-10-13T17:05:00+00:00",
     "source": "VentureBeat",
-    "title": "Google makes Gemini 4 Argon broadly available with limited-time low API pricing of $2/$10 per 1M token",
+    "title": "OpenAI's AI agent platform is used by twice as many companies as Anthropic's, new VentureBeat survey finds",
     "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMWVpd2JZRXp6eS1fYlUyeWFPZjlCaDVzR3RQa3lUMHFKUmduUGlrOVZHTjJxUGRGakpYWk1qUFpkS1FpcmZDSlozMjM1STFVcGE1NmFsNjZLLW4xU09UUk9UNmY5MEs2Mk9RN0ZRbndtbzJUZDRidkVzU3l1aGZPVEhzb2N1MFlpeF9JZGtxbkU1U1BIWTd2eG1fM19JdjNXSm94Y0VjYWt5Nll3U1VDUS15RzJjWE5Bdm1kSm9oN0VCc3lPajIxZS1MQ2JXZkl1?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZlYwdVI2WWI5aFhaN3NoS2llUko2VmIyckttSE1pWW44S0ZDSGlybC1MTFdfUFYyS0VFRXg4SjliU2N6RTBWYVhNSk9MU2dCU3FPRlMtdElyT19fUTlNNjNFRkVYNGlBVENLX0VjREJYNjFSMDF6dHYtVHlkSVZzMC1MeWdIUDBXLUJuSkh5bW80VU9xVy1uQjBVc1J3cjZUMzY2WnNXVzRMTUlYVW5VUUVKSVByOFc0eENsNDJPbE1tUkw2dnZJX09Pdm5sR2dyYTdhQms1OEw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 13, 12:16 PM ET",
+    "publishedAt": "2026-10-13T16:16:01+00:00",
+    "source": "blog.google",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnlfSFAtZ3F0bFlnbTVkTUJHb2ZMa2ZLR2Q0Zm4wUi1yd0dPNjk0Z1dxalhMZ0x3WFpmNGF0bnA5SGpnalRXSFZEcjc0M2VsNjlHOFZtU1dVVUlrUGpNN24zLW02V0U0NFk5Z3dwbDZFcE1kS0ZSaFNxOHVHUWdTWURZSWIyUENmbXdjeTRwOGQ3SkhOSHMxaHlBMVpEbWw2?oc=5",
     "difficulty": "News"
   },
   {
@@ -62,13 +110,25 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 13, 10:20 AM ET",
-    "publishedAt": "2026-10-13T14:20:07+00:00",
+    "time": "Oct 13, 10:34 AM ET",
+    "publishedAt": "2026-10-13T14:34:45+00:00",
     "source": "ALM Corp",
     "title": "Anthropic Gives Startups a Free Year of Claude Team (2026)",
     "summary": "ALM Corp is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SRWw3aV9teThzZUZrZTJOSzR0U2FRVVVteUZaaXMyYmpjVzNOdmlxTHJGRnFPZnczd1puTFNleGQ2eHkwWmMyNGE1R2p6c3hEZ3AyWnBZWWVqWGw3UlZFdFZTRERpOTZsaTJrNXVEYW1adndmczZDbTJ6Z2c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 13, 09:33 AM ET",
+    "publishedAt": "2026-10-13T13:33:15+00:00",
+    "source": "Business Model Analyst",
+    "title": "Meta Promised Cheaper AI. It Matched Claude’s Price to the Cent",
+    "summary": "Business Model Analyst is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNDZZSVBwR0g2d2RXOTBxR1kyblFZWHg1RDZjNmxleTZiMUR1cVQ3V25lTy0zbFQ0ajA3RzNzcUkyeGdtSzhrbm15WG95MUJ3QkxsUXBSdTZWeDNZVEFCbE5iSHlVTDgzUXVZQzJZSzRhY1VfdWp2Z1VIUmNvLTBTOEt4T3E?oc=5",
     "difficulty": "News"
   },
   {
@@ -81,30 +141,6 @@
     "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFp0cGhXZFJtcU5YWmRDcEtPYmYwU2RCWWc4NUlKeDdsSkpJdjk4RGhRUjhDV1pSZmtMb3VnODhaTXZzeGExMWtvYXl6eVhXcTczcVpId0xHZ0N4QUVQTV8yOXZSQnY2cVFPanJxTXN5ekNWU2V3NThJMENocXRFdFdaWFg2cVkwUXFhbkZua2pwX1VJeUE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 12, 04:04 PM ET",
-    "publishedAt": "2026-10-12T20:04:04+00:00",
-    "source": "VentureBeat",
-    "title": "Meta's new Muse Wonder and Muse Wonder Full models achieve frontier performance, but only the weaker one is available via API",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMUwyWl9PSVZmUHlCamxZRU80cnlBcjNUUkc1SFRTVVYybEI0Y0ZWZzNpbkdqSHU5a2ZyUGlDUlIwd0QyeDN1MGRRamx5YU41WF9WMTdJZ05nUDZGakt1LWkwQVhOS0ZPc2RCcXFEMFNPSmRiOXlsUmstdmsxcDVRLXg0TjhNVzZIeU91aEdFcDVhT1lJeXZicktoRm5UTWFFRXg5b1ZKaC1TSHFRTVVBY1Y0aWdBM1ROdHYtLU93OTl6V3RrM0UxdXUxODJhVnVqd3lXZ1NIMm1yeTlEYnNXamdHU0VwcDdNQ3VRbDlONA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 12, 01:53 PM ET",
-    "publishedAt": "2026-10-12T17:53:52+00:00",
-    "source": "PPC Land",
-    "title": "Explaining AI Studio",
-    "summary": "PPC Land is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAxd1NVVlByN2txUVU3Y09kLTl2RllVNHlMZWNIWlltZlp6WEFYNzdkeENGRzhqMGhlUmkwSDh0SGw?oc=5",
     "difficulty": "News"
   },
   {
@@ -129,6 +165,18 @@
     "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUlHYlVWdWhfQm5Rd2RxakQtZ0o4a3ZfaU5JSTNFeENNTUZlTHlKZUpsTHpYalVkUmFyZG9Fd2dwMGNJWmNSOS1CTmx4dDUteURkMlFxOHk3YVN3YnZ1amFyTWl4b0JpdnVYejBXbkMxaHVVbkp0TXhZNlgwQnl6eXpuQ28?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 11, 10:41 AM ET",
+    "publishedAt": "2026-10-11T14:41:30+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "Claude Code vs Codex vs Copilot: 2026 Comparison",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BbXNsV09QY0xLN2hlVXNmbFQ4OFlGcnlSUmR4bnlmWkVOUEV6YWRjRHdhQno1UWNjSTY4NHhyQmhxZ09EQmdFVUZVSUZxS2tSYUFiemNXUkhOTVZmZTUxWU81YkY4UEtUTzgxSnJhNHIxNVRLSXNfWQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,18 +228,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 09, 02:34 PM ET",
-    "publishedAt": "2026-10-09T18:34:07+00:00",
-    "source": "The Decoder",
-    "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
-    "summary": "The Decoder is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb0hjSnZiM0d4ckZBbkpJSUVVYUxwZ3VVQ2hGd3VCWFRxM1BFb3lueXZUMzVZRmd1UElZVUNXbm5mTjN2TGs0S2tzOXhqQ3NONHFRRnpFMU9Id0tnVG1fUFhIU3BtZnZ1TlBYS1RGWTBnUlFpOU45Zk90MWNIRVplT1FQTV8zLTN3U3ZYZGxWWFhfWm5McGMyR2xSVXE1bzc2aVNLQ19ma1ktWFJRN1ZyOVVnTDlMQW9KdHdyS1ln?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 09, 11:41 AM ET",
@@ -225,18 +261,6 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80TURmT3dRX1VoZHlhcXRkaFNvZWRUOGIwLXpqSTFYV0txX3dQeVpxdDdGT0U2TElHQ0RXbHFJTVdobU1FaWFCRXdHMnR4SWtrRC1yNlZDTG1iVklpa1hr?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 09, 07:41 AM ET",
-    "publishedAt": "2026-10-09T11:41:28+00:00",
-    "source": "Türkiye Today",
-    "title": "Gemini partially down as users worldwide report problems with AI generation",
-    "summary": "Türkiye Today is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOVFkam4xcUVEdWoxOXBvTFZxLVB4SnlpSDhTT3lBVUZhOW1XNWtOTGM1VzBPdjNCZ3ozUUp4V3FRZU0zbl8za3hIeXQxR0Q5NExOTExTUmdYNWdtM3B1WkVqSkNkN25kTW5GNUZKb1dxdnIzazE3WmZRRnRBMWxFR1ZZcjF2NFJydTVUajhUV2V1QmRteE9GWldOUmE4WlEtcGRSNzZPMGtOMWIxMjlTSmhLU0ZwbUhJekZndDd3?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,42 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 07, 04:38 PM ET",
-    "publishedAt": "2026-10-07T20:38:30+00:00",
-    "source": "MarkTechPost",
-    "title": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ004TDgwUFlDTU9VcE12Rl9IZDRVR0VNREdxdWQ0dTNnRlpQbmNVa25uZGhDN2FNTklfVENRZFN6cmpFWU1jdEwtV2VMcDV2Y2lCMDFLbXQwSThrRHRQaTdjZDEzQm03Rnhhc1BybEt2VEVUT0t2UUZmZ1MyMEVEX09ZV01UMXhxNFVldnBacWlGd3ZwUXlRaklsb0ttNlFnRm9zbExWM0Z5Qld4TnV2OHduaDZ4NWVsR3VONDZ0eDhXT25MejRuQk1oTF84RVItT0JvOTlHazhBdFlUeGRz0gHfAUFVX3lxTE1DTThMODBQWUNNT1VwTXZGX0hkNFVHRU1ER3F1ZDR1M2dGWlBuY1Vrbm5kaEM3YU1OSV9UQ1FkU3pyakVZTWN0TC1XZUxwNXZjaUIwMUttdDBJOGtEdFBpN2NkMTNCbTdGeGFzUHJsS3ZURVRPS3ZRRmZnUzIwRURfT1lXTVQxeHE0VWV2cFpxaUZ3dnBReVFqSWxvS202UWdGb3NsTFYzRnlCV3hOdXY4d25oNng1ZWxHdU40NnR4OFdPbkx6NG5CTWhMXzhFUi1PQm85OUdrOEF0WVR4ZHM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 07, 02:08 PM ET",
-    "publishedAt": "2026-10-07T18:08:26+00:00",
-    "source": "VentureBeat",
-    "title": "Anthropic launches Claude Haiku 5.5 with 90% API price reduction, matching GPT-6 Luna",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTFMTVFQOTJ2SmdCSGdjR2Z4Q2ZYMF9ncldZM3NUNTlEWUVOUERVUVVpdHdfQno4c3F3aWJ1WnIybnpYNGxnMmk5d3FCaUlkdkhCeHpPMENmRG81MEpBcGx5Y1kxY25GY3oxb3gzNGk1bDdOS0JwMkxFZ1hkUFI2M21GMWowTzc4VVJaLUNaajc5MGJrMTdtcXNJem93Q2lpSGFvYXJCbEFwN2hMTnY4bzcxdEswa29DWFE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 07, 08:38 AM ET",
-    "publishedAt": "2026-10-07T12:38:19+00:00",
-    "source": "KDnuggets",
-    "title": "I Tested 5 AI Coding Assistants for a Month: Here’s What I Actually Found",
-    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQREg5UTV0YlMzWHlBLUFTOGZXTUZDMEh0ODlhRzZUcGV1aWlpMFpRMnZmREs5Y003NHBhTGtjR0hFZGpvVjJoMmtjMlZRX2VCMU9fSDVYeFRnTmhRbUZHTlBlOEJyd3lJZlQtbnZvY3hzTTVOTUR3T01XUzBERXVYWFNoQy1OOWRUNFNPc0dMazM1eEE3cl9nNlhJNVhpUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 07, 08:00 AM ET",
@@ -321,6 +309,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 30, 03:00 AM ET",
+    "publishedAt": "2026-09-30T07:00:00+00:00",
+    "source": "TechCrunch",
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2FtdGtxQTNoRnBrUWhFS3J4ZnExeThrRDhVbldnRVpQcTRjMldvb2ZFNkJ5R2tVOHRfT0pteDhvbkFTYmpOYVR4SVNhSUltLXl2anl6TWhFZjZyRGdmUmNPMnk4NnBySFhlN2RrU2dYWThSbFFJc3dRaVc5dDJLWkdsX0NQSmwtNURrdlhfOVFtcFhPZ1NWcXJERFp1bUJ4YmxLRjBzVUU?oc=5",
     "difficulty": "News"
   },
   {
