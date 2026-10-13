@@ -2,8 +2,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 12, 11:49 AM ET",
-    "publishedAt": "2026-10-12T15:49:25+00:00",
+    "time": "Oct 12, 01:53 PM ET",
+    "publishedAt": "2026-10-12T17:53:52+00:00",
     "source": "PPC Land",
     "title": "Explaining AI Studio",
     "summary": "PPC Land is reporting this update. Open the article for the full story.",
@@ -33,18 +33,6 @@
     "summary": "Konsulteer is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ28yTkxMZldLaER1RUxDMXR4VFhHUG5la05SQ3BsZjVMWGppc0xQd25BaFV5ZWlkcU1GTGZHZUh5X2NFWTRyeEJmaEhvaG9sVTRPd05iUTc5WDJiS29FY0Y3TjBkVXJDTE1fMjZNLWFuQzdFaWJuOXJZd0dSdk5uQjhsWnpmczctNmNDUTZOWndEQldnOHVqVW5fblFORzRwbGNsa3dBVHNEc3JzVHI5OQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 12, 06:56 AM ET",
-    "publishedAt": "2026-10-12T10:56:59+00:00",
-    "source": "Memeburn",
-    "title": "Claude for Startups 2026: What the Free Package Is Worth",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OeTBhWm1NRTlBd18xbnJoVWZwSTdSRkowLVRRZTZyXzlRMHA2UGM0ZGxFa21fbHR1Y1RPMnNYWmlRc0loaEpDQnlld2t2VjNOeV9YODlLa2V0dw?oc=5",
     "difficulty": "News"
   },
   {
@@ -168,6 +156,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 09, 02:34 PM ET",
+    "publishedAt": "2026-10-09T18:34:07+00:00",
+    "source": "The Decoder",
+    "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb0hjSnZiM0d4ckZBbkpJSUVVYUxwZ3VVQ2hGd3VCWFRxM1BFb3lueXZUMzVZRmd1UElZVUNXbm5mTjN2TGs0S2tzOXhqQ3NONHFRRnpFMU9Id0tnVG1fUFhIU3BtZnZ1TlBYS1RGWTBnUlFpOU45Zk90MWNIRVplT1FQTV8zLTN3U3ZYZGxWWFhfWm5McGMyR2xSVXE1bzc2aVNLQ19ma1ktWFJRN1ZyOVVnTDlMQW9KdHdyS1ln?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 09, 11:41 AM ET",
@@ -216,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 08, 02:19 PM ET",
-    "publishedAt": "2026-10-08T18:19:31+00:00",
-    "source": "Hostinger",
-    "title": "How to use your ChatGPT subscription in Managed OpenClaw",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVBJTVZOSW0wSGx6VkY3dV9OTnZQT3Rzc0dsZ08yNmE2NktnNzRpMkptQW9ZbHdLMFdZVURoOEhwclJGLWt0MjJ6YnAzNGMzaHhNZUFsYk51cVQwb0lLOXJGR3NETGZ2Qy1DMTN6VmRaRXZTU1ZFTTZBU3lnYThQOHJ0U3kzZ1dpdWstZUZabEtWcHNZd0E?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 08, 09:00 AM ET",
@@ -249,6 +237,18 @@
     "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYnppRlN6LTJvazFmMVpuRkhabWtxQ05DN1BTcmhMYnlSZ1A4aXZ6d1o3RkdkcnJyRm12OWpLaHhyNWo0NFlQUUNMMVhDQUxIRnBpTDdVRTFIWGM4VGYtOFM0Mkp3X3E0QUU4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 08, 03:00 AM ET",
+    "publishedAt": "2026-10-08T07:00:00+00:00",
+    "source": "Hostinger",
+    "title": "12 best Cursor alternatives for web development with AI",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOWVUZWR6VkdKNUNhVzI0d25DNV8ySnRISkpDbDl1QVhoRy02ejVWSU5WWEZXa1NHSVRnckRWMUI1aVg1TDRyMG5fZ0lTRXdPNzZ2RWQ5aDJvMUlkeGVLWjdqMEJvRUk?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,15 +288,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 07, 08:38 AM ET",
-    "publishedAt": "2026-10-07T12:38:19+00:00",
-    "source": "KDnuggets",
-    "title": "I Tested 5 AI Coding Assistants for a Month: Here’s What I Actually Found",
-    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 07, 11:38 AM ET",
+    "publishedAt": "2026-10-07T15:38:42+00:00",
+    "source": "The Decoder",
+    "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQREg5UTV0YlMzWHlBLUFTOGZXTUZDMEh0ODlhRzZUcGV1aWlpMFpRMnZmREs5Y003NHBhTGtjR0hFZGpvVjJoMmtjMlZRX2VCMU9fSDVYeFRnTmhRbUZHTlBlOEJyd3lJZlQtbnZvY3hzTTVOTUR3T01XUzBERXVYWFNoQy1OOWRUNFNPc0dMazM1eEE3cl9nNlhJNVhpUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMk03cFp1MGRpX3RDZ3dPYmVRR2JCQm5KY0pNSWE3d25qaVdtVlJtX01JbjIxTG9uTUVMT200dmwtY1MxR0ROMlRpU01tVGR4ZUpCMTUzWTJCTk1xREZOcjA2VGdTMDJFZ1NXN0JLMDZFcEJIWGtoMXpPOTQ1SklIeVBzNEdzdFk1UGhoR2JDMG4ycmxOalFka0w3eDNsUnZZd0lLUFhPc2FpUTBqMWc?oc=5",
     "difficulty": "News"
   },
   {
