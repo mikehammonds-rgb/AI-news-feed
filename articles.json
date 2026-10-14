@@ -1,26 +1,62 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 13, 09:15 PM ET",
-    "publishedAt": "2026-10-14T01:15:56+00:00",
-    "source": "Memeburn",
-    "title": "Muse Wonder vs Claude Opus 5.5: What Developers Can Buy",
-    "summary": "Memeburn is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 14, 04:41 AM ET",
+    "publishedAt": "2026-10-14T08:41:00+00:00",
+    "source": "Technology Org",
+    "title": "Google Opens Gemini 4 Argon at $2/$10 Pricing",
+    "summary": "Technology Org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85dXRsbDdGZzNaWmRSQTVYZWcyVFNfWVZoc1hvQlhMY3ZFRi1qT09sZThkSlBvTnZ0S2hFcmFNQ3l5WkhOcmZVUElHUG55R0FEanV5YU9uREZZU0w0czhuM3ln?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb25yU2RFVExOZEg5V3l6RTQteFBVSXhYZE9wUXJDemN3ME90ZjVPc1VLOG9aeEkwNktLTFljeHZfNUFnelA3ZUJNS1o1V2lvaU1SR1VRVkJfRDhZNk5DM1F6dnNkb1ZvSXdGbms1MFVSS3pSR01iNjBNUXFkUUl4bVA1ektFUjZMTnVVRFd4WVFqS2Fx?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 14, 04:27 AM ET",
+    "publishedAt": "2026-10-14T08:27:40+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "GPT-5.5 Retirement: ChatGPT, Codex Move to GPT-6.1 Sol",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZVBGTi1jRmQ5Vm1STE1pTVpLT21pSk1ZZmpMQUlOZ2JMUXFxamdiRW9yZVl4cWlWSVRlTmduMUMyZ0FyaFR0RDJjZGc2RVNyUlEtVV9mdkZVXy1vRUlMeF9GQUhvbUhkdG9wTXZ0MDJzWWllNDh2Uk1QMGNwWElmXw?oc=5",
     "difficulty": "News"
   },
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 13, 01:24 PM ET",
-    "publishedAt": "2026-10-13T17:24:00+00:00",
-    "source": "Quiver Quantitative",
-    "title": "Quiver Quantitative Is Now Available in the Claude Connector Directory",
-    "summary": "Quiver Quantitative is reporting this update. Open the article for the full story.",
+    "time": "Oct 14, 03:59 AM ET",
+    "publishedAt": "2026-10-14T07:59:16+00:00",
+    "source": "AI News",
+    "title": "Virtual no KYC card for Claude: Developers Guide",
+    "summary": "AI News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0JqeEJmaFBWS0s2M3RkRUtzMjdoS181VllUeE5HX2hlSWRpckFCa3JnazFoY3dEVTdBY0ZLSUN6MkZzNDBONVdsNTFWSWRLX1pnWHRLdk1iV000RXM5NUxTTlJta0FYQThPbm1LU1VLMGd1U2t1Z3hCc2Fic0owOW1kNFZZU3dEUzlMSXQyVWdiaDhQRms4OWs3UURkams2eWd6d1RR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNclZvYzFMUE5sYTFldEwxbW1qRTRIRndiZXNqQjZaMmVhaUJjbzhYX2xzS3dUY29mUWt1bzJuQ2QxZHdYZ2pWcXlzbkM2cXE0UmJkb3VuaHhqNVJybXNDYm0zanBnOXNuV1lNZk95cUxQUmFLX3ZNOFJ6ck9WemZSWm1xbHBLVTBrYjVHWGViM2xkeWdZT2x5UVJ3YzBMUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 14, 01:03 AM ET",
+    "publishedAt": "2026-10-14T05:03:34+00:00",
+    "source": "MarkTechPost",
+    "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fcl9icHlOYk91NmhDSkNia085dkVlZmVXREQxbEEtU3NnQ1VOemZxSHpucG5zbnNVRzl2S0dOeWl3Z3JUMzJyUUdhd19qeEdtakxEX3NVdDV3REpGNF9YWHBNM0tXbEZWcGxrbTZxZ1lqX1FEYkV5aElZN0FkQVXSAX9BVV95cUxNX3JfYnB5TmJPdTZoQ0pDYmtPOXZFZWZlV0REMWxBLVNzZ0NVTnpmcUh6bnBuc25zVUc5dktHTnlpd2dyVDMyclFHYXdfanhHbWpMRF9zVXQ1d0RKRjRfWFhwTTNLV2xGVnBsa202cWdZal9RRGJFeWhJWTdBZEFV?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 13, 04:51 PM ET",
+    "publishedAt": "2026-10-13T20:51:37+00:00",
+    "source": "shattered.io",
+    "title": "Meta’s Muse Wonder Ties Claude at 56 on AI Index [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xaFRfOElZcjBZOUVsMmRYTnJmSEVvYnU1bWZvZzdqVXlhaHZWUVFiV2syWFhVb0lHMnBCODMyTzBDQ20xTTctZThNZm1mcmRKYWctVzlnV1QzWE9sYlhVQWNJTVU0aVg0NUYzTENwYw?oc=5",
     "difficulty": "News"
   },
   {
@@ -45,18 +81,6 @@
     "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZlYwdVI2WWI5aFhaN3NoS2llUko2VmIyckttSE1pWW44S0ZDSGlybC1MTFdfUFYyS0VFRXg4SjliU2N6RTBWYVhNSk9MU2dCU3FPRlMtdElyT19fUTlNNjNFRkVYNGlBVENLX0VjREJYNjFSMDF6dHYtVHlkSVZzMC1MeWdIUDBXLUJuSkh5bW80VU9xVy1uQjBVc1J3cjZUMzY2WnNXVzRMTUlYVW5VUUVKSVByOFc0eENsNDJPbE1tUkw2dnZJX09Pdm5sR2dyYTdhQms1OEw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 13, 12:20 PM ET",
-    "publishedAt": "2026-10-13T16:20:57+00:00",
-    "source": "blog.google",
-    "title": "Gemini 4 Argon is now available for developers.",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2stSFI2WG51bU8wRy12dnNnMHpUZG93VTBLVmhiY01LSUhlSzJpUTZfSkRHc0hjd3A1UTgwSUUwbWptblFUT3hzSzdhLUczOEJIeFRsREtLOGdySlRiZnNmVXVmckZaU2hneFJNem56el9xa19ReWhzQmJWRXlsQ1gzcXpuQktuM1RUMVl4U21CRENLQ1Vr?oc=5",
     "difficulty": "News"
   },
   {
@@ -93,18 +117,6 @@
     "summary": "CNET is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPenFKdXZuTzVWY2NEenV3aUJzWmoyZDVUZ1dQTU43NTVHdlZwTzJNd2FMLTlCZjZJS1ZSVVVqeE9iOE5idExncXZYWElHQ19oUEw1SVY5SF9mSVF6WTAyNkUwdmFTN3VLUi1aOHpHdUg0UzJlcEF0aGVLUXAzSkJEVEROZExZMVFLdEFMTGRKcWo4eW90LWxFT1Nn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 13, 12:00 PM ET",
-    "publishedAt": "2026-10-13T16:00:00+00:00",
-    "source": "9to5Google",
-    "title": "Gemini app rolling out Gemini 4 Argon to AI Pro and AI Ultra",
-    "summary": "9to5Google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93RklpWlBONjl3akxkYUQyV3JsUFplNUtZRDZPRnZHdEVXMmpOblRrZWZNa2RrbmJNSjZkRHpHRVl3bTlIc3MxRFJVUmtYdjdIYW9VM0xZSVdXSzdJUGJTUnplaw?oc=5",
     "difficulty": "News"
   },
   {
@@ -189,18 +201,6 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MRk1uRlpybjItNW1wNjZxUlBaNzVVQnk0NVhDdHgxX0E5U2hNTVF4U3RHd2FvY0pSYkdLaXVEX3dIZ0UzVDJnUDZHNVpsNjV5a05wLXMxTkNFS20tTFZibEQtVHRDT01WS3BPSm50T2o4dw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 10, 01:27 PM ET",
-    "publishedAt": "2026-10-10T17:27:12+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "OpenAI Responses API Setup: 13 Steps, Ultrafast Mode [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ROEJQQ194ZzhGaklUdVhuNWlVTnhvbWxISEJzY200cUlyWXZSaUpGRmt3QnFhbmZrenZZRWhNLTJVaDBVUnZGYXg5SG5MbkNRZGxIVWIxU1dhYjlNOHNkX1lpa0x4WVRrMWEwcmVGN2E2UVE2RnRic3pram4?oc=5",
     "difficulty": "News"
   },
   {
