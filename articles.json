@@ -1,5 +1,41 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 14, 02:14 PM ET",
+    "publishedAt": "2026-10-14T18:14:40+00:00",
+    "source": "Pasquale Pillitteri",
+    "title": "OpenTelemetry Arrives on Claude API, Traces Now in Public Beta",
+    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWlJWDNkLWhpZ21iQ01mNGZLUFlBTHN0anU0SXRfc0UyVlRqZlV5RUlzOU1aUU5XaXJxSUpKU3UwT1otVG9Gd1BZajRNYnNLYkJFbVltS3NvN1ZsQlJOcFFsbzhyRElKX1YwTlhyeFRadjh1WmpWT2ZkREx3b1otU0ZOMENLUVJKMmUtSFllazA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 14, 01:36 PM ET",
+    "publishedAt": "2026-10-14T17:36:08+00:00",
+    "source": "Unite.AI",
+    "title": "Anthropic Adds OpenTelemetry Trace Export to the Claude Platform",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNURXaXYyZE1uTmQxTWRyY0hmYmlaT1lLZS11akFpRjJTN0FkazRQd0d5cWVBUEI5R1Y2bnVicjBiOWk4YXQta01rbGJ4NjJXeVlCVmllLVFwc0txUUd5R0lmbEhkSklvLVoxM1VUVllvdXdCQlo4X285N2dvVzhsZWo0ZTlwUl9EZW5IMlgyaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 14, 08:28 AM ET",
+    "publishedAt": "2026-10-14T12:28:35+00:00",
+    "source": "Medium",
+    "title": "Gemini 4 Argon Is Now Available: Plans, Price and How It Compares",
+    "summary": "Medium is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkY1aEZiXzZoVU54ZnZWVDJ2V3ljSlBobEFuNzZ2QWV3NjRPYmYyQkRkT05SQ0pmdW1Id2ZVTTVNV3pEc0dWWk1JcTYzU2ZaRlhobVVRUXZnQk4tM3VSNlp3am8xal9jOHA2U0NFSHNpN2I2SFNjSHRSZzRBYV96Wk9VZU84eW1TMFozSGtOOWUzZFpDaExLWmg3emFOOWJBM0MtZVhpNWJVNDkteHRqWVVQcWVJYnlqN09N?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 14, 08:09 AM ET",
@@ -14,8 +50,8 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 14, 07:26 AM ET",
-    "publishedAt": "2026-10-14T11:26:51+00:00",
+    "time": "Oct 14, 07:27 AM ET",
+    "publishedAt": "2026-10-14T11:27:30+00:00",
     "source": "InfoWorld",
     "title": "Google positions Gemini 4 Argon for long-horizon agentic work",
     "summary": "InfoWorld is reporting this update. Open the article for the full story.",
@@ -29,22 +65,10 @@
     "time": "Oct 14, 04:41 AM ET",
     "publishedAt": "2026-10-14T08:41:00+00:00",
     "source": "Technology Org",
-    "title": "Google Opens Gemini 4 Argon at $2/$10 Pricing",
+    "title": "Google Makes Gemini 4 Argon Generally Available at $2 per Million Tokens",
     "summary": "Technology Org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb25yU2RFVExOZEg5V3l6RTQteFBVSXhYZE9wUXJDemN3ME90ZjVPc1VLOG9aeEkwNktLTFljeHZfNUFnelA3ZUJNS1o1V2lvaU1SR1VRVkJfRDhZNk5DM1F6dnNkb1ZvSXdGbms1MFVSS3pSR01iNjBNUXFkUUl4bVA1ektFUjZMTnVVRFd4WVFqS2Fx?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 14, 04:27 AM ET",
-    "publishedAt": "2026-10-14T08:27:40+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "GPT-5.5 Retirement: ChatGPT, Codex Move to GPT-6.1 Sol",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZVBGTi1jRmQ5Vm1STE1pTVpLT21pSk1ZZmpMQUlOZ2JMUXFxamdiRW9yZVl4cWlWSVRlTmduMUMyZ0FyaFR0RDJjZGc2RVNyUlEtVV9mdkZVXy1vRUlMeF9GQUhvbUhkdG9wTXZ0MDJzWWllNDh2Uk1QMGNwWElmXw?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,18 +93,6 @@
     "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fcl9icHlOYk91NmhDSkNia085dkVlZmVXREQxbEEtU3NnQ1VOemZxSHpucG5zbnNVRzl2S0dOeWl3Z3JUMzJyUUdhd19qeEdtakxEX3NVdDV3REpGNF9YWHBNM0tXbEZWcGxrbTZxZ1lqX1FEYkV5aElZN0FkQVXSAX9BVV95cUxNX3JfYnB5TmJPdTZoQ0pDYmtPOXZFZWZlV0REMWxBLVNzZ0NVTnpmcUh6bnBuc25zVUc5dktHTnlpd2dyVDMyclFHYXdfanhHbWpMRF9zVXQ1d0RKRjRfWFhwTTNLV2xGVnBsa202cWdZal9RRGJFeWhJWTdBZEFV?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 13, 06:33 PM ET",
-    "publishedAt": "2026-10-13T22:33:04+00:00",
-    "source": "AI Insider",
-    "title": "Google Begins Gemini 4 Argon Frontier Model Rollout",
-    "summary": "AI Insider is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MdnM2bjNOZEE2d0xLR3Ftblhmd1RnSThtd2d4QVlEdWozcXM1NGFNZEJCV3VqaGZsSTZ0RDZlNDF1MmxoUWVISWQ4RjN1a1lGMzI3RGptS3ZobTZ2MFJ3X1l6ZV9xcmNERkJrQ196akVrR1ZjVnpScjhYWG9fTlU?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 11, 11:23 AM ET",
-    "publishedAt": "2026-10-11T15:23:53+00:00",
-    "source": "Towards Data Science",
-    "title": "A Practical Guide to OpenAI's New Decisions API",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUlHYlVWdWhfQm5Rd2RxakQtZ0o4a3ZfaU5JSTNFeENNTUZlTHlKZUpsTHpYalVkUmFyZG9Fd2dwMGNJWmNSOS1CTmx4dDUteURkMlFxOHk3YVN3YnZ1amFyTWl4b0JpdnVYejBXbkMxaHVVbkp0TXhZNlgwQnl6eXpuQ28?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 11, 10:41 AM ET",
@@ -177,30 +177,6 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BbXNsV09QY0xLN2hlVXNmbFQ4OFlGcnlSUmR4bnlmWkVOUEV6YWRjRHdhQno1UWNjSTY4NHhyQmhxZ09EQmdFVUZVSUZxS2tSYUFiemNXUkhOTVZmZTUxWU81YkY4UEtUTzgxSnJhNHIxNVRLSXNfWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 11, 03:52 AM ET",
-    "publishedAt": "2026-10-11T07:52:46+00:00",
-    "source": "FourWeekMBA",
-    "title": "OpenAI Adds gpt-rosalind-discovery to Its API Pricing Page",
-    "summary": "FourWeekMBA is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREp3bFVsdU0yX3kyZEltV183UnhLcGFJODBqSFE2ZXJzTWZzbmFYYXJ4SW15UHJ6VGxKNjd0eEw3MDdUR1hERUJVUklJMUpVWER3N2NSSE9zVnFkSHRSUEdsZUhVdGY5OElhS1dmSE15b012OU1Zckg3Y1M5VHNJbW1UZFNhdk8yVkc3cmN5SQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 09, 04:05 PM ET",
-    "publishedAt": "2026-10-09T20:05:07+00:00",
-    "source": "MarkTechPost",
-    "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUpYS29va0Q1WURNaGhvM1pxdW5MM0ZoWDdfOEpOanJFZzRzcmQxbFh2Vnd4Z1RsNmlfRm95eFUyazhmaUtZcUpkaFN1NU13VmRSUFVYYVU1VGQtTElIRkwyTFNhcV9EY1dOMjlaSVYzLUo1eWo0TjJDbTVyeWE1VXlzQm1MZVE4SjJ0Qkh4NkExaW15RUdJbzlHMXBEZ3oxYUd2UGREYlFTR2da0gGsAUFVX3lxTFBNSlhLb29rRDVZRE1oaG8zWnF1bkwzRmhYN184Sk5qckVnNHNyZDFsWHZWd3hnVGw2aV9Gb3l4VTJrOGZpS1lxSmRoU3U1TXdWZFJQVVhhVTVUZC1MSUhGTDJMU2FxX0RjV04yOVpJVjMtSjV5ajROMkNtNXJ5YTVVeXNCbUxlUThKMnRCSHg2QTFpbXlFR0lvOUcxcERnejFhR3ZQZERiUVNHZ1o?oc=5",
     "difficulty": "News"
   },
   {
@@ -218,37 +194,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Oct 09, 11:41 AM ET",
-    "publishedAt": "2026-10-09T15:41:41+00:00",
-    "source": "Forbes",
-    "title": "OpenAI’s Ultrafast And Decisions API Shift AI Race To Speed, Cost",
-    "summary": "Forbes is reporting this update. Open the article for the full story.",
+    "time": "Oct 08, 12:50 PM ET",
+    "publishedAt": "2026-10-08T16:50:52+00:00",
+    "source": "OpenAI",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczk3Ym4xT3k0a0ZjZG94M3FUV2ZJWkVibEV5QXpGREgwZE51T3YtOXEtNlktcTQyUk95R3NMVlJBZDJDRzA2TGl3b2x3enI1X0U5bVVCSHpnQmhKcVV1eXNmZmptSlozdDNwTDYtOGxLeGkxUS0zb1Vtd1Faa1MzLXRweVA3Vmh4WmxLNW1kbWdsR1pKQVJQSkR3SGp3R3RkT0p1LW9vMTk2cVBhX1h4TDZhMXNpR1Fq?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 09, 08:03 AM ET",
-    "publishedAt": "2026-10-09T12:03:50+00:00",
-    "source": "The New Stack",
-    "title": "AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on.",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80TURmT3dRX1VoZHlhcXRkaFNvZWRUOGIwLXpqSTFYV0txX3dQeVpxdDdGT0U2TElHQ0RXbHFJTVdobU1FaWFCRXdHMnR4SWtrRC1yNlZDTG1iVklpa1hr?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 08, 09:00 AM ET",
-    "publishedAt": "2026-10-08T13:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Building on our commitment to American scientific discovery",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHU4UENXNWlFZ2RsUElpRkhvVGdzdTdydk9kT2ZlN3RCNXdLV2VtQ0ZQU01adTI5Mkw4Y3JrcGpIZ1ZxWUtDOUxqbG1JVXNTNWJvSU5NMF9KY2o5Tlp5QVJpNElQeFdv?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOdExScjJHVHppUWxYLXBCT05xMGRwOWpQYmdkblAwdFM0alZ3SXlSUkNFbFFVUnJQM1hVSXA3d0JsWDh5U2dOZFhB?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,51 +228,27 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 07, 10:35 PM ET",
-    "publishedAt": "2026-10-08T02:35:05+00:00",
-    "source": "MIXED Reality News",
-    "title": "Claude Max and Team plans now include API credits you cannot spend on Claude Code",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXU2YTFTUklZUG95RUN1Y2tKcHBPVWtNcXhuZFFyUUNCeE9EbEI5cjgzSjJ2WXVYVTdXeU9WUDZNRUN4cXlCOXhwU0FoQzNoeGh4MGtlZjJ6azRvdE5wUG1TbzhNVzFBS2NZdnJuNmFrcE9XZXBJbTJMV3BRdmY3aG94NFE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 07, 02:08 PM ET",
-    "publishedAt": "2026-10-07T18:08:26+00:00",
-    "source": "VentureBeat",
-    "title": "Anthropic launches Claude Haiku 5.5 with 90% API price reduction, matching GPT-6 Luna",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTFMTVFQOTJ2SmdCSGdjR2Z4Q2ZYMF9ncldZM3NUNTlEWUVOUERVUVVpdHdfQno4c3F3aWJ1WnIybnpYNGxnMmk5d3FCaUlkdkhCeHpPMENmRG81MEpBcGx5Y1kxY25GY3oxb3gzNGk1bDdOS0JwMkxFZ1hkUFI2M21GMWowTzc4VVJaLUNaajc5MGJrMTdtcXNJem93Q2lpSGFvYXJCbEFwN2hMTnY4bzcxdEswa29DWFE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 30, 03:00 AM ET",
-    "publishedAt": "2026-09-30T07:00:00+00:00",
-    "source": "TechCrunch",
-    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2FtdGtxQTNoRnBrUWhFS3J4ZnExeThrRDhVbldnRVpQcTRjMldvb2ZFNkJ5R2tVOHRfT0pteDhvbkFTYmpOYVR4SVNhSUltLXl2anl6TWhFZjZyRGdmUmNPMnk4NnBySFhlN2RrU2dYWThSbFFJc3dRaVc5dDJLWkdsX0NQSmwtNURrdlhfOVFtcFhPZ1NWcXJERFp1bUJ4YmxLRjBzVUU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 03:00 AM ET",
-    "publishedAt": "2026-09-29T07:00:00+00:00",
+    "time": "Oct 07, 08:00 AM ET",
+    "publishedAt": "2026-10-07T12:00:00+00:00",
     "source": "OpenAI",
-    "title": "DevDay 2026 Recap",
+    "title": "Introducing GPT-6 Sol and Luna",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 05, 03:00 AM ET",
+    "publishedAt": "2026-10-05T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Our approach to EU text provenance rules",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -360,6 +288,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 22, 03:00 AM ET",
+    "publishedAt": "2026-09-22T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Opus 5.5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Sep 15, 03:00 AM ET",
@@ -372,6 +312,42 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 10, 03:00 AM ET",
+    "publishedAt": "2026-09-10T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 10, 03:00 AM ET",
+    "publishedAt": "2026-09-10T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing the Agents API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoM3lZaDNuLUc5aXZtdTRfY1l3d0VKcGxYaGxkZXlzVmZpR3VRSUoyaWotQ1hxTlZMbGt3SWNOUkwtY3RZNDg5dktGdFlBczhhUFp0V1RnUU83ekwtSm00Wk1n?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 09, 05:47 PM ET",
+    "publishedAt": "2026-09-09T21:47:05+00:00",
+    "source": "OpenAI",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 28, 03:00 AM ET",
@@ -381,6 +357,30 @@
     "summary": "Reuters is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Aug 19, 03:00 AM ET",
+    "publishedAt": "2026-08-19T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Offering Zero Data Retention for frontier models",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94QkJmU0lSZG9WQ2xIeVMxWDhRaHVTZHFzRzZvd1E4WmpCRlNOaVlLNHhNMi01UEVuZHRFVlBwMVh1bHV6bG0zdk9kTU9RTEV3NnNvZkNoTjl3OW1rRmFiQTBGRVZ1UnUzTy1naXFNcmpOSEVGUmpYTE5ZV3l0c3M?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Jul 30, 03:00 AM ET",
+    "publishedAt": "2026-07-30T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
     "difficulty": "News"
   }
 ]
