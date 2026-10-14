@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 13, 07:39 PM ET",
+    "publishedAt": "2026-10-13T23:39:52+00:00",
+    "source": "OrcaRouter",
+    "title": "Ingeniería de bucles en Three Agents con Claude Opus 5.5",
+    "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTDE5YzkyTXV0X1k2cVpLaldncHhQYmp5Si1JeEQxXzVCeGU1UnMzX28tTFl5Vk1MekQ5bE5vOGJfS29SdE5OMkxPUGd2WHBBVmZ4bUJPNERYWUM3dVFLZGdaakV3eHQ2U3VQSkNHeEo0TTd5MGFYQjN3N09TcGUxQg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 13, 04:20 PM ET",
@@ -101,7 +113,7 @@
     "time": "Oct 13, 11:57 AM ET",
     "publishedAt": "2026-10-13T15:57:57+00:00",
     "source": "https://tech-insider.org/",
-    "title": "VS Code HydraFusion: AI Routing Hits 4 Copilot Tiers",
+    "title": "VS Code 1.140 Adds HydraFusion AI Routing, 4 Tiers [2026]",
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KTmRkVmtQRXByQkNfdmR2VkNSZjhTeFF6dGVJU2VMLVZhZV9pb0Z3UkY5WGg2V3I4YkdGYTM5Y2JxaDBPRkNzcUlmM09tbHhWUWtIUW83VGEwZU1HaUhaajVqRGpVU1pVMUJ4eHV0YXZuYXdibTNj?oc=5",
@@ -117,18 +129,6 @@
     "summary": "ALM Corp is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SRWw3aV9teThzZUZrZTJOSzR0U2FRVVVteUZaaXMyYmpjVzNOdmlxTHJGRnFPZnczd1puTFNleGQ2eHkwWmMyNGE1R2p6c3hEZ3AyWnBZWWVqWGw3UlZFdFZTRERpOTZsaTJrNXVEYW1adndmczZDbTJ6Z2c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 13, 09:33 AM ET",
-    "publishedAt": "2026-10-13T13:33:15+00:00",
-    "source": "Business Model Analyst",
-    "title": "Meta Promised Cheaper AI. It Matched Claude’s Price to the Cent",
-    "summary": "Business Model Analyst is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNDZZSVBwR0g2d2RXOTBxR1kyblFZWHg1RDZjNmxleTZiMUR1cVQ3V25lTy0zbFQ0ajA3RzNzcUkyeGdtSzhrbm15WG95MUJ3QkxsUXBSdTZWeDNZVEFCbE5iSHlVTDgzUXVZQzJZSzRhY1VfdWp2Z1VIUmNvLTBTOEt4T3E?oc=5",
     "difficulty": "News"
   },
   {
@@ -302,18 +302,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Oct 07, 08:00 AM ET",
-    "publishedAt": "2026-10-07T12:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Sep 30, 03:00 AM ET",
     "publishedAt": "2026-09-30T07:00:00+00:00",
     "source": "TechCrunch",
@@ -321,6 +309,18 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2FtdGtxQTNoRnBrUWhFS3J4ZnExeThrRDhVbldnRVpQcTRjMldvb2ZFNkJ5R2tVOHRfT0pteDhvbkFTYmpOYVR4SVNhSUltLXl2anl6TWhFZjZyRGdmUmNPMnk4NnBySFhlN2RrU2dYWThSbFFJc3dRaVc5dDJLWkdsX0NQSmwtNURrdlhfOVFtcFhPZ1NWcXJERFp1bUJ4YmxLRjBzVUU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 03:00 AM ET",
+    "publishedAt": "2026-09-29T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "DevDay 2026 Recap",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
     "difficulty": "News"
   },
   {
