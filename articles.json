@@ -2,6 +2,30 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Oct 14, 08:09 AM ET",
+    "publishedAt": "2026-10-14T12:09:33+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "Claude Opus 5.5 vs Gemini 4 Argon: 2x Price Gap [2026]",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55ajNkTndxd3VIYVZpOWhudWRTc191NUxHazNGVjdJd0Y2RXBpN1piT3kxOHB5OWNiSUNPVzVmQVFrMzJkTjBqbUhSS1BYOUxKV3dQMElGQXRwZjNoTUxlVlVaUVFJRkVEcGV1N1dYZktTZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 14, 07:26 AM ET",
+    "publishedAt": "2026-10-14T11:26:51+00:00",
+    "source": "InfoWorld",
+    "title": "Google positions Gemini 4 Argon for long-horizon agentic work",
+    "summary": "InfoWorld is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmwtYlFITS1vUE1ldWF1Rk1hNXJyN25neXlxbnlNOFBKdjc2Q0tWLWlBYk55Nml1OEI0YUpIRnBwWDZ0Sm81SWptY29Kc25WWFRtb1pjRWZTemJXc3dLSE9aZUM0R3FCWXk0UGJPVU55NEtLY1pnNE9PWS05ak1TMkwydjJZemE4NHhiRkxFTFBMd1NWZE5mZWlvM1Q4WFJmdmJEZXIwQTZzNkdu?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Oct 14, 04:41 AM ET",
     "publishedAt": "2026-10-14T08:41:00+00:00",
     "source": "Technology Org",
@@ -48,6 +72,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 13, 06:33 PM ET",
+    "publishedAt": "2026-10-13T22:33:04+00:00",
+    "source": "AI Insider",
+    "title": "Google Begins Gemini 4 Argon Frontier Model Rollout",
+    "summary": "AI Insider is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MdnM2bjNOZEE2d0xLR3Ftblhmd1RnSThtd2d4QVlEdWozcXM1NGFNZEJCV3VqaGZsSTZ0RDZlNDF1MmxoUWVISWQ4RjN1a1lGMzI3RGptS3ZobTZ2MFJ3X1l6ZV9xcmNERkJrQ196akVrR1ZjVnpScjhYWG9fTlU?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 13, 04:51 PM ET",
@@ -65,22 +101,10 @@
     "time": "Oct 13, 01:15 PM ET",
     "publishedAt": "2026-10-13T17:15:40+00:00",
     "source": "Quartz",
-    "title": "Google releases Gemini 4 Argon AI model to developers, businesses",
+    "title": "Google is releasing Gemini 4 Argon to developers and paying subscribers",
     "summary": "Quartz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTJYVVNQTkVvRExCcU0zdGplVnpUYWw5V2MxVDhhTFI0N1U0ZFNEc1RrclFrTVQyUlFkRkV2UE5zSER5Um82dUFTcHRvVHFmcnZjZjhqcTd6MEdjMV80aXc5T2VPU2tCR3AtUXZweGZSelFmU3pGRFpBY01vc3VmXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 13, 01:05 PM ET",
-    "publishedAt": "2026-10-13T17:05:00+00:00",
-    "source": "VentureBeat",
-    "title": "OpenAI's AI agent platform is used by twice as many companies as Anthropic's, new VentureBeat survey finds",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZlYwdVI2WWI5aFhaN3NoS2llUko2VmIyckttSE1pWW44S0ZDSGlybC1MTFdfUFYyS0VFRXg4SjliU2N6RTBWYVhNSk9MU2dCU3FPRlMtdElyT19fUTlNNjNFRkVYNGlBVENLX0VjREJYNjFSMDF6dHYtVHlkSVZzMC1MeWdIUDBXLUJuSkh5bW80VU9xVy1uQjBVc1J3cjZUMzY2WnNXVzRMTUlYVW5VUUVKSVByOFc0eENsNDJPbE1tUkw2dnZJX09Pdm5sR2dyYTdhQms1OEw?oc=5",
     "difficulty": "News"
   },
   {
@@ -108,42 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 13, 12:01 PM ET",
-    "publishedAt": "2026-10-13T16:01:09+00:00",
-    "source": "CNET",
-    "title": "You Can Use Gemini 4 Argon Now: Google’s New AI Is Built for Coding, Math and Robotics",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPenFKdXZuTzVWY2NEenV3aUJzWmoyZDVUZ1dQTU43NTVHdlZwTzJNd2FMLTlCZjZJS1ZSVVVqeE9iOE5idExncXZYWElHQ19oUEw1SVY5SF9mSVF6WTAyNkUwdmFTN3VLUi1aOHpHdUg0UzJlcEF0aGVLUXAzSkJEVEROZExZMVFLdEFMTGRKcWo4eW90LWxFT1Nn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 13, 11:57 AM ET",
-    "publishedAt": "2026-10-13T15:57:57+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "VS Code 1.140 Adds HydraFusion AI Routing, 4 Tiers [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KTmRkVmtQRXByQkNfdmR2VkNSZjhTeFF6dGVJU2VMLVZhZV9pb0Z3UkY5WGg2V3I4YkdGYTM5Y2JxaDBPRkNzcUlmM09tbHhWUWtIUW83VGEwZU1HaUhaajVqRGpVU1pVMUJ4eHV0YXZuYXdibTNj?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 13, 10:34 AM ET",
-    "publishedAt": "2026-10-13T14:34:45+00:00",
-    "source": "ALM Corp",
-    "title": "Anthropic Gives Startups a Free Year of Claude Team (2026)",
-    "summary": "ALM Corp is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SRWw3aV9teThzZUZrZTJOSzR0U2FRVVVteUZaaXMyYmpjVzNOdmlxTHJGRnFPZnczd1puTFNleGQ2eHkwWmMyNGE1R2p6c3hEZ3AyWnBZWWVqWGw3UlZFdFZTRERpOTZsaTJrNXVEYW1adndmczZDbTJ6Z2c?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 12, 07:40 AM ET",
@@ -153,6 +141,18 @@
     "summary": "Konsulteer is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ28yTkxMZldLaER1RUxDMXR4VFhHUG5la05SQ3BsZjVMWGppc0xQd25BaFV5ZWlkcU1GTGZHZUh5X2NFWTRyeEJmaEhvaG9sVTRPd05iUTc5WDJiS29FY0Y3TjBkVXJDTE1fMjZNLWFuQzdFaWJuOXJZd0dSdk5uQjhsWnpmczctNmNDUTZOWndEQldnOHVqVW5fblFORzRwbGNsa3dBVHNEc3JzVHI5OQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 12, 03:26 AM ET",
+    "publishedAt": "2026-10-12T07:26:00+00:00",
+    "source": "The Hacker News",
+    "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWW9lR3lLdjJLcGlBRDg1UG1VcktFcG1IOXVRX0lCQ2lEQkJON0hsSFZEd0MxS1lwMkZHUDZwbEpEajYwQU5VOGNaN1NMQXItS095NTVNSWl1bk1kdXd1QXJuemxaWHl5OTYxbk5rZWhPYWRfQU5NM1FrSzkxekFqa05hRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 10, 09:44 PM ET",
-    "publishedAt": "2026-10-11T01:44:06+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Set Up Cursor With Claude Code: 13-Step Hybrid Workflow",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MRk1uRlpybjItNW1wNjZxUlBaNzVVQnk0NVhDdHgxX0E5U2hNTVF4U3RHd2FvY0pSYkdLaXVEX3dIZ0UzVDJnUDZHNVpsNjV5a05wLXMxTkNFS20tTFZibEQtVHRDT01WS3BPSm50T2o4dw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 09, 04:05 PM ET",
@@ -232,23 +220,11 @@
     "label": "ChatGPT",
     "time": "Oct 09, 11:41 AM ET",
     "publishedAt": "2026-10-09T15:41:41+00:00",
-    "source": "Yahoo Finance",
-    "title": "OpenAI’s Ultrafast And Decisions API Shift AI Race To Speed, Cost",
-    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORDNnQzdhdUpad2dDSWlabEhCTlpZVllBQnRoeUU2VG5NS1VkUGJsRXlKYXp0dzQxSHZhM1VDQXNYUm1SWTRKdVZBcDRfRUZpTVRpclRNNlhBWDRuTElVYUxqdnhEamY0RVRZOEYzMDd5TXkwQ3FGVnp4OFVBaHFfb3RYek9jYm9mNmw2Q0xfUnBJM1k4WUdrTVczSEpZLXBzSEE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 09, 10:54 AM ET",
-    "publishedAt": "2026-10-09T14:54:37+00:00",
     "source": "Forbes",
-    "title": "Anthropic Faces Online Backlash After Pausing Free Claude Startup Perks",
+    "title": "OpenAI’s Ultrafast And Decisions API Shift AI Race To Speed, Cost",
     "summary": "Forbes is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXhCYjlxWDNfb1ltVFFTVTkxdjdiS2p0RlB2UjU1a3BlaVNqbUM0WVlIS2dOdV9JaVE0ZHI3VFFzVkZJZU5PZHVieTRMVU1MWFNITzNUZVg4ZHRrQ3Z4cThUUlpQeHZ0QnRSb3M2RjR0OXhnbnhQbHBiX1EtRnBkTjZfUl9ENTROZ0E1aERQOF9ZcUxUdUF4Tl9YWkx0VkUtQnRWaDVoVWZmREthbFJMYnJ3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczk3Ym4xT3k0a0ZjZG94M3FUV2ZJWkVibEV5QXpGREgwZE51T3YtOXEtNlktcTQyUk95R3NMVlJBZDJDRzA2TGl3b2x3enI1X0U5bVVCSHpnQmhKcVV1eXNmZmptSlozdDNwTDYtOGxLeGkxUS0zb1Vtd1Faa1MzLXRweVA3Vmh4WmxLNW1kbWdsR1pKQVJQSkR3SGp3R3RkT0p1LW9vMTk2cVBhX1h4TDZhMXNpR1Fq?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,15 +276,27 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 07, 08:00 AM ET",
-    "publishedAt": "2026-10-07T12:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 10:35 PM ET",
+    "publishedAt": "2026-10-08T02:35:05+00:00",
+    "source": "MIXED Reality News",
+    "title": "Claude Max and Team plans now include API credits you cannot spend on Claude Code",
+    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXU2YTFTUklZUG95RUN1Y2tKcHBPVWtNcXhuZFFyUUNCeE9EbEI5cjgzSjJ2WXVYVTdXeU9WUDZNRUN4cXlCOXhwU0FoQzNoeGh4MGtlZjJ6azRvdE5wUG1TbzhNVzFBS2NZdnJuNmFrcE9XZXBJbTJMV3BRdmY3aG94NFE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 02:08 PM ET",
+    "publishedAt": "2026-10-07T18:08:26+00:00",
+    "source": "VentureBeat",
+    "title": "Anthropic launches Claude Haiku 5.5 with 90% API price reduction, matching GPT-6 Luna",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTFMTVFQOTJ2SmdCSGdjR2Z4Q2ZYMF9ncldZM3NUNTlEWUVOUERVUVVpdHdfQno4c3F3aWJ1WnIybnpYNGxnMmk5d3FCaUlkdkhCeHpPMENmRG81MEpBcGx5Y1kxY25GY3oxb3gzNGk1bDdOS0JwMkxFZ1hkUFI2M21GMWowTzc4VVJaLUNaajc5MGJrMTdtcXNJem93Q2lpSGFvYXJCbEFwN2hMTnY4bzcxdEswa29DWFE?oc=5",
     "difficulty": "News"
   },
   {
@@ -321,6 +309,18 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2FtdGtxQTNoRnBrUWhFS3J4ZnExeThrRDhVbldnRVpQcTRjMldvb2ZFNkJ5R2tVOHRfT0pteDhvbkFTYmpOYVR4SVNhSUltLXl2anl6TWhFZjZyRGdmUmNPMnk4NnBySFhlN2RrU2dYWThSbFFJc3dRaVc5dDJLWkdsX0NQSmwtNURrdlhfOVFtcFhPZ1NWcXJERFp1bUJ4YmxLRjBzVUU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 03:00 AM ET",
+    "publishedAt": "2026-09-29T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "DevDay 2026 Recap",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
     "difficulty": "News"
   },
   {
@@ -362,18 +362,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Sep 23, 03:00 AM ET",
-    "publishedAt": "2026-09-23T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpTWDNZcWVYandkVlNIa1E5TWFsSG81NU5ST3Q1cGt1Z2xmUXdWRnEzb19zMjVfakoxdDNEVTlzdEJhUzFLanV2dlFaVTZ4a2RjRFMxTXlqUVpNaFFONVZzeGlHcnBwRTlWNlpMektVMlZ4RlJhVlN3X0k1NG0xSklibWpqLUVBUEJjSFVWOTZMWE1ZYllGMUVxbWlSV3c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Sep 15, 03:00 AM ET",
     "publishedAt": "2026-09-15T07:00:00+00:00",
     "source": "blog.google",
@@ -381,6 +369,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Aug 28, 03:00 AM ET",
+    "publishedAt": "2026-08-28T07:00:00+00:00",
+    "source": "Reuters",
+    "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
+    "summary": "Reuters is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
     "difficulty": "News"
   }
 ]
