@@ -2,25 +2,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 13, 07:39 PM ET",
-    "publishedAt": "2026-10-13T23:39:52+00:00",
-    "source": "OrcaRouter",
-    "title": "Ingeniería de bucles en Three Agents con Claude Opus 5.5",
-    "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
+    "time": "Oct 13, 09:15 PM ET",
+    "publishedAt": "2026-10-14T01:15:56+00:00",
+    "source": "Memeburn",
+    "title": "Muse Wonder vs Claude Opus 5.5: What Developers Can Buy",
+    "summary": "Memeburn is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTDE5YzkyTXV0X1k2cVpLaldncHhQYmp5Si1JeEQxXzVCeGU1UnMzX28tTFl5Vk1MekQ5bE5vOGJfS29SdE5OMkxPUGd2WHBBVmZ4bUJPNERYWUM3dVFLZGdaakV3eHQ2U3VQSkNHeEo0TTd5MGFYQjN3N09TcGUxQg?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 13, 04:20 PM ET",
-    "publishedAt": "2026-10-13T20:20:52+00:00",
-    "source": "Gizmodo",
-    "title": "Google’s Gemini Argon 4 Is Now Available Worldwide",
-    "summary": "Gizmodo is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3l4LUpsbmxPdThtZ0xNdkZJUDFZLW9yVUFPb254c1hRTVJyRGxDa2FHUG12VzBpTjF2R01TS1lFY2tuNmZiWTdFOFU4Smd5d1dPOE1oWUs3dWlnc003a3dObFlpdExkSGRZdnZ0RVZCMVN4Qmp3M3BOb3hCM0NhcC1za0FPZ28?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85dXRsbDdGZzNaWmRSQTVYZWcyVFNfWVZoc1hvQlhMY3ZFRi1qT09sZThkSlBvTnZ0S2hFcmFNQ3l5WkhOcmZVUElHUG55R0FEanV5YU9uREZZU0w0czhuM3ln?oc=5",
     "difficulty": "News"
   },
   {
@@ -62,6 +50,18 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Oct 13, 12:20 PM ET",
+    "publishedAt": "2026-10-13T16:20:57+00:00",
+    "source": "blog.google",
+    "title": "Gemini 4 Argon is now available for developers.",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2stSFI2WG51bU8wRy12dnNnMHpUZG93VTBLVmhiY01LSUhlSzJpUTZfSkRHc0hjd3A1UTgwSUUwbWptblFUT3hzSzdhLUczOEJIeFRsREtLOGdySlRiZnNmVXVmckZaU2hneFJNem56el9xa19ReWhzQmJWRXlsQ1gzcXpuQktuM1RUMVl4U21CRENLQ1Vr?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Oct 13, 12:16 PM ET",
     "publishedAt": "2026-10-13T16:16:01+00:00",
     "source": "blog.google",
@@ -74,13 +74,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 13, 12:02 PM ET",
-    "publishedAt": "2026-10-13T16:02:42+00:00",
-    "source": "blog.google",
-    "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "time": "Oct 13, 12:08 PM ET",
+    "publishedAt": "2026-10-13T16:08:53+00:00",
+    "source": "VentureBeat",
+    "title": "Google makes Gemini 4 Argon broadly available with limited-time low API pricing of $2/$10 per 1M token",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2p5blgxYkN5OGNOekI3SFkwcm5TeTZBNnAwSTlDX3lPWWh4UkpmeVpCVnRkN3RqZk4xZEFhdHNqR1VzZks2OTY3UlE4V1U4SHN4VXlZMUJFSGRyc180X2hOQmNhMjNDcmNPXzZpaEZnTzdudTBHWHhSZmdwanZyWjdmX2VEMjJYM2xIQVZMWEhkMlZVbWp3dTMtQ0hCV0VGSWpvZ0FPTWY?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMWVpd2JZRXp6eS1fYlUyeWFPZjlCaDVzR3RQa3lUMHFKUmduUGlrOVZHTjJxUGRGakpYWk1qUFpkS1FpcmZDSlozMjM1STFVcGE1NmFsNjZLLW4xU09UUk9UNmY5MEs2Mk9RN0ZRbndtbzJUZDRidkVzU3l1aGZPVEhzb2N1MFlpeF9JZGtxbkU1U1BIWTd2eG1fM19JdjNXSm94Y0VjYWt5Nll3U1VDUS15RzJjWE5Bdm1kSm9oN0VCc3lPajIxZS1MQ2JXZkl1?oc=5",
     "difficulty": "News"
   },
   {
@@ -129,18 +129,6 @@
     "summary": "ALM Corp is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SRWw3aV9teThzZUZrZTJOSzR0U2FRVVVteUZaaXMyYmpjVzNOdmlxTHJGRnFPZnczd1puTFNleGQ2eHkwWmMyNGE1R2p6c3hEZ3AyWnBZWWVqWGw3UlZFdFZTRERpOTZsaTJrNXVEYW1adndmczZDbTJ6Z2c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 13, 02:57 AM ET",
-    "publishedAt": "2026-10-13T06:57:35+00:00",
-    "source": "MIXED Reality News",
-    "title": "Claude Haiku 5.5's prompt is the first of 22 to tell it to check a child's dose on DailyMed",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFp0cGhXZFJtcU5YWmRDcEtPYmYwU2RCWWc4NUlKeDdsSkpJdjk4RGhRUjhDV1pSZmtMb3VnODhaTXZzeGExMWtvYXl6eVhXcTczcVpId0xHZ0N4QUVQTV8yOXZSQnY2cVFPanJxTXN5ekNWU2V3NThJMENocXRFdFdaWFg2cVkwUXFhbkZua2pwX1VJeUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -197,7 +185,7 @@
     "time": "Oct 10, 09:44 PM ET",
     "publishedAt": "2026-10-11T01:44:06+00:00",
     "source": "https://tech-insider.org/",
-    "title": "Set Up Cursor With Claude Code: 13 Steps, 1M Tokens [2026]",
+    "title": "Set Up Cursor With Claude Code: 13-Step Hybrid Workflow",
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MRk1uRlpybjItNW1wNjZxUlBaNzVVQnk0NVhDdHgxX0E5U2hNTVF4U3RHd2FvY0pSYkdLaXVEX3dIZ0UzVDJnUDZHNVpsNjV5a05wLXMxTkNFS20tTFZibEQtVHRDT01WS3BPSm50T2o4dw?oc=5",
@@ -225,6 +213,18 @@
     "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUpYS29va0Q1WURNaGhvM1pxdW5MM0ZoWDdfOEpOanJFZzRzcmQxbFh2Vnd4Z1RsNmlfRm95eFUyazhmaUtZcUpkaFN1NU13VmRSUFVYYVU1VGQtTElIRkwyTFNhcV9EY1dOMjlaSVYzLUo1eWo0TjJDbTVyeWE1VXlzQm1MZVE4SjJ0Qkh4NkExaW15RUdJbzlHMXBEZ3oxYUd2UGREYlFTR2da0gGsAUFVX3lxTFBNSlhLb29rRDVZRE1oaG8zWnF1bkwzRmhYN184Sk5qckVnNHNyZDFsWHZWd3hnVGw2aV9Gb3l4VTJrOGZpS1lxSmRoU3U1TXdWZFJQVVhhVTVUZC1MSUhGTDJMU2FxX0RjV04yOVpJVjMtSjV5ajROMkNtNXJ5YTVVeXNCbUxlUThKMnRCSHg2QTFpbXlFR0lvOUcxcERnejFhR3ZQZERiUVNHZ1o?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 09, 02:34 PM ET",
+    "publishedAt": "2026-10-09T18:34:07+00:00",
+    "source": "The Decoder",
+    "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb0hjSnZiM0d4ckZBbkpJSUVVYUxwZ3VVQ2hGd3VCWFRxM1BFb3lueXZUMzVZRmd1UElZVUNXbm5mTjN2TGs0S2tzOXhqQ3NONHFRRnpFMU9Id0tnVG1fUFhIU3BtZnZ1TlBYS1RGWTBnUlFpOU45Zk90MWNIRVplT1FQTV8zLTN3U3ZYZGxWWFhfWm5McGMyR2xSVXE1bzc2aVNLQ19ma1ktWFJRN1ZyOVVnTDlMQW9KdHdyS1ln?oc=5",
     "difficulty": "News"
   },
   {
@@ -302,6 +302,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Oct 07, 08:00 AM ET",
+    "publishedAt": "2026-10-07T12:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Sep 30, 03:00 AM ET",
     "publishedAt": "2026-09-30T07:00:00+00:00",
     "source": "TechCrunch",
@@ -309,18 +321,6 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2FtdGtxQTNoRnBrUWhFS3J4ZnExeThrRDhVbldnRVpQcTRjMldvb2ZFNkJ5R2tVOHRfT0pteDhvbkFTYmpOYVR4SVNhSUltLXl2anl6TWhFZjZyRGdmUmNPMnk4NnBySFhlN2RrU2dYWThSbFFJc3dRaVc5dDJLWkdsX0NQSmwtNURrdlhfOVFtcFhPZ1NWcXJERFp1bUJ4YmxLRjBzVUU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 03:00 AM ET",
-    "publishedAt": "2026-09-29T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "DevDay 2026 Recap",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
     "difficulty": "News"
   },
   {
