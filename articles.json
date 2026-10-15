@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 14, 09:11 PM ET",
+    "publishedAt": "2026-10-15T01:11:36+00:00",
+    "source": "36Kr",
+    "title": "Claude Fully Lifts Third-Party App Ban Immediately",
+    "summary": "36Kr is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wN3NXYjA0U0ZUQ1lIU3BZcUo4MEdCa1RyMm9NbTZZNm1NMW9YYnNKLVd1ZTVVRl9GbDlBWkdtRmViV2IzcU12MXB2NG9rODNucDBn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 14, 06:48 PM ET",
@@ -12,15 +24,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 14, 04:21 PM ET",
-    "publishedAt": "2026-10-14T20:21:47+00:00",
-    "source": "OrcaRouter",
-    "title": "Ultramarine 1 Flash vs Claude Haiku 4.5: $0.13 vs $0.28",
-    "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 14, 06:45 PM ET",
+    "publishedAt": "2026-10-14T22:45:57+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "Cursor vs VS Code: 13-Step Benchmark, 90 Min [2026]",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5TlhZZlVDSmNIbzJJR18wc1c3a1o4d0xramcyaVNpTHBMMk00Si01Y00wU214Ml9POUVnNXk0RFhiLWRiTHRlR0RTYUlXYmlBeHU4ZU5Lcld5ekloRVlna1VzZW5ZUVJPS2NWVFNQMWJQdWlIWW9BNHNTUlhYQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBReE1ZVFllU1lIS21nTkhEZkxzQ2p4YXhKTzUwaXVPOVpTMkhSS0IydW40d2xMVXpUd2E4cnltZGxzcmNLcUloV3V5cTJXNmxGR3E4RkFHeTJ1S0JGV0dCbnZpRHNUVnRWX21sSjBhZ3NEZHd3?oc=5",
     "difficulty": "News"
   },
   {
@@ -101,22 +113,10 @@
     "time": "Oct 14, 04:27 AM ET",
     "publishedAt": "2026-10-14T08:27:40+00:00",
     "source": "https://tech-insider.org/",
-    "title": "GPT-5.5 Retirement: ChatGPT, Codex Move to GPT-6.1 Sol",
+    "title": "GPT-5.5 Retires From ChatGPT, Codex as Sol Steps In [2026]",
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZVBGTi1jRmQ5Vm1STE1pTVpLT21pSk1ZZmpMQUlOZ2JMUXFxamdiRW9yZVl4cWlWSVRlTmduMUMyZ0FyaFR0RDJjZGc2RVNyUlEtVV9mdkZVXy1vRUlMeF9GQUhvbUhkdG9wTXZ0MDJzWWllNDh2Uk1QMGNwWElmXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 14, 03:59 AM ET",
-    "publishedAt": "2026-10-14T07:59:16+00:00",
-    "source": "AI News",
-    "title": "Virtual no KYC card for Claude: Developers Guide",
-    "summary": "AI News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNclZvYzFMUE5sYTFldEwxbW1qRTRIRndiZXNqQjZaMmVhaUJjbzhYX2xzS3dUY29mUWt1bzJuQ2QxZHdYZ2pWcXlzbkM2cXE0UmJkb3VuaHhqNVJybXNDYm0zanBnOXNuV1lNZk95cUxQUmFLX3ZNOFJ6ck9WemZSWm1xbHBLVTBrYjVHWGViM2xkeWdZT2x5UVJ3YzBMUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -252,6 +252,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 09, 02:34 PM ET",
+    "publishedAt": "2026-10-09T18:34:07+00:00",
+    "source": "The Decoder",
+    "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb0hjSnZiM0d4ckZBbkpJSUVVYUxwZ3VVQ2hGd3VCWFRxM1BFb3lueXZUMzVZRmd1UElZVUNXbm5mTjN2TGs0S2tzOXhqQ3NONHFRRnpFMU9Id0tnVG1fUFhIU3BtZnZ1TlBYS1RGWTBnUlFpOU45Zk90MWNIRVplT1FQTV8zLTN3U3ZYZGxWWFhfWm5McGMyR2xSVXE1bzc2aVNLQ19ma1ktWFJRN1ZyOVVnTDlMQW9KdHdyS1ln?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 09, 11:41 AM ET",
@@ -369,18 +381,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Aug 28, 03:00 AM ET",
-    "publishedAt": "2026-08-28T07:00:00+00:00",
-    "source": "Reuters",
-    "title": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-    "summary": "Reuters is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5",
     "difficulty": "News"
   }
 ]
