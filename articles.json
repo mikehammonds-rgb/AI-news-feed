@@ -24,6 +24,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 15, 12:31 PM ET",
+    "publishedAt": "2026-10-15T16:31:45+00:00",
+    "source": "shattered.io",
+    "title": "Claude Opus 6 Rumors vs Facts: What Is Confirmed [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QQVJOdzRBLVBwUF9DdnNNay14V2tfYnlEdjNqWXpuSHV6b0tSSDdXcm81MTQtMnNCRzdoUHloVHc4TVdhVVBRTjJEVHFXY0ZWNGdoOFloNEZuNVF6VVEtZmNHTDBmNzdUWkpZVnVxbVB4NGs?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 15, 10:39 AM ET",
@@ -84,18 +96,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 14, 09:11 PM ET",
-    "publishedAt": "2026-10-15T01:11:36+00:00",
-    "source": "36 Kr",
-    "title": "Claude Fully Lifts Third-Party App Ban Immediately",
-    "summary": "36 Kr is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wN3NXYjA0U0ZUQ1lIU3BZcUo4MEdCa1RyMm9NbTZZNm1NMW9YYnNKLVd1ZTVVRl9GbDlBWkdtRmViV2IzcU12MXB2NG9rODNucDBn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 14, 08:50 PM ET",
@@ -105,18 +105,6 @@
     "summary": "IndyStar is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSzVmRGxDenFpRjBObFlweVl1ZEpBWDllNFpGai1HWHZ4SnBucEdneUJtaHV5SnhMY2t6LVJOcmczVU1HdF9lT1p5SkRaOGlSR0VVR1R1Z1hPOGRGdktHdHZUeUsyZk1JR3gtUUpFQTE3NFVXWmhMbjJvX2I3bVpKc3JiSEVjLUtxTXUyV250cy1WT21JaUIzR213elZ6aDBSSGd0QTBCTzY0Yk5OTmQ2Ykw4clZxcTJydzRqWTRVZ0V4LWJIQnpMOHE1M3gzeHhkNE5BMVM2WUw2VlE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 14, 06:45 PM ET",
-    "publishedAt": "2026-10-14T22:45:57+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Cursor vs VS Code: 13-Step Benchmark, 90 Min [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBReE1ZVFllU1lIS21nTkhEZkxzQ2p4YXhKTzUwaXVPOVpTMkhSS0IydW40d2xMVXpUd2E4cnltZGxzcmNLcUloV3V5cTJXNmxGR3E4RkFHeTJ1S0JGV0dCbnZpRHNUVnRWX21sSjBhZ3NEZHd3?oc=5",
     "difficulty": "News"
   },
   {
@@ -266,6 +254,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Oct 11, 10:41 AM ET",
+    "publishedAt": "2026-10-11T14:41:30+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "Claude Code vs Codex vs Copilot: 2026 Comparison",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BbXNsV09QY0xLN2hlVXNmbFQ4OFlGcnlSUmR4bnlmWkVOUEV6YWRjRHdhQno1UWNjSTY4NHhyQmhxZ09EQmdFVUZVSUZxS2tSYUFiemNXUkhOTVZmZTUxWU81YkY4UEtUTzgxSnJhNHIxNVRLSXNfWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Oct 10, 09:44 PM ET",
     "publishedAt": "2026-10-11T01:44:06+00:00",
     "source": "https://tech-insider.org/",
@@ -285,18 +285,6 @@
     "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUpYS29va0Q1WURNaGhvM1pxdW5MM0ZoWDdfOEpOanJFZzRzcmQxbFh2Vnd4Z1RsNmlfRm95eFUyazhmaUtZcUpkaFN1NU13VmRSUFVYYVU1VGQtTElIRkwyTFNhcV9EY1dOMjlaSVYzLUo1eWo0TjJDbTVyeWE1VXlzQm1MZVE4SjJ0Qkh4NkExaW15RUdJbzlHMXBEZ3oxYUd2UGREYlFTR2da0gGsAUFVX3lxTFBNSlhLb29rRDVZRE1oaG8zWnF1bkwzRmhYN184Sk5qckVnNHNyZDFsWHZWd3hnVGw2aV9Gb3l4VTJrOGZpS1lxSmRoU3U1TXdWZFJQVVhhVTVUZC1MSUhGTDJMU2FxX0RjV04yOVpJVjMtSjV5ajROMkNtNXJ5YTVVeXNCbUxlUThKMnRCSHg2QTFpbXlFR0lvOUcxcERnejFhR3ZQZERiUVNHZ1o?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 09, 11:41 AM ET",
-    "publishedAt": "2026-10-09T15:41:41+00:00",
-    "source": "Forbes",
-    "title": "OpenAI’s Ultrafast And Decisions API Shift AI Race To Speed, Cost",
-    "summary": "Forbes is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczk3Ym4xT3k0a0ZjZG94M3FUV2ZJWkVibEV5QXpGREgwZE51T3YtOXEtNlktcTQyUk95R3NMVlJBZDJDRzA2TGl3b2x3enI1X0U5bVVCSHpnQmhKcVV1eXNmZmptSlozdDNwTDYtOGxLeGkxUS0zb1Vtd1Faa1MzLXRweVA3Vmh4WmxLNW1kbWdsR1pKQVJQSkR3SGp3R3RkT0p1LW9vMTk2cVBhX1h4TDZhMXNpR1Fq?oc=5",
     "difficulty": "News"
   },
   {
@@ -321,6 +309,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 03:00 AM ET",
+    "publishedAt": "2026-09-29T07:00:00+00:00",
+    "source": "The New Stack",
+    "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
     "difficulty": "News"
   },
   {
