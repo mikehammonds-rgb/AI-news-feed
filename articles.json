@@ -14,10 +14,22 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Oct 15, 12:59 PM ET",
+    "publishedAt": "2026-10-15T16:59:26+00:00",
+    "source": "Droid Life",
+    "title": "Your Gemini Pro Cost is Going Up Considerably",
+    "summary": "Droid Life is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRG1UZWxHUDF0aFdfeWJLS1ZFc3NWVUJvUGViTVViRnRvVVhWd2wtT0lZOE5MeS00X2NNNmxzblVEbjFIYmVLSHB3UDB1RkFSOWxTR3I2elRtMnZ3MnlzVnZoSlY2eUd5MU9JU2hKVkxJXzFNSDlraHpSUUNqNFFES1hxMnY3S1JHSHFObw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Oct 15, 10:39 AM ET",
     "publishedAt": "2026-10-15T14:39:07+00:00",
     "source": "https://tech-insider.org/",
-    "title": "Gemini 4 Argon Coding Agents Hit Android Studio [2026]",
+    "title": "Gemini 4 Argon Powers Android Studio’s 1M-Token Push [2026]",
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XeVFTcGVoSWVkZnk1Q3RmemlUYnltdFU4LVpjbkJLTzNZWW9STF9EcjY3NG00RTlLeVQ2bHNYZ3NxMHRScEhwaXNpTHpmMjNOUFp5NXh2a1pQSkR2d3FRVVczQTY0bkdnc2RocURzdEhSTlBXc2JET2VHR0F1d3M?oc=5",
@@ -62,18 +74,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 15, 05:50 AM ET",
-    "publishedAt": "2026-10-15T09:50:39+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Claude Opus 6 Rumors vs OpenAI Bell: What We Know [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80d3hrRmgwdmZuTk5VNkJYbHAzeEc0WXZGX1VYTUtmazFDeEdjLVNlME4zc3dlY2JDNDNPZVh1RFRKQkp3TE1BaGdqeWJ5Z0lESHhqdVEtNDF6UlNING5UbTlRZkJuTkoydkJraFBtT0w?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Oct 14, 09:55 PM ET",
     "publishedAt": "2026-10-15T01:55:00+00:00",
     "source": "BigGo Finance",
@@ -81,18 +81,6 @@
     "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qcHFIMHpRWS1zVm9wbVI4Y21nWUNnOHgzZ0ZSc0RocWxZNzZQdm55YW91N1YzNXdiYmxqNnloMTVkVzM1S0ZRb2VyWE1lS1V1cE5CZ2hjOExuZHViU2hpNGpkNkhoYUpwTjdjcEpza0ItQklMQmc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 14, 09:46 PM ET",
-    "publishedAt": "2026-10-15T01:46:24+00:00",
-    "source": "Channel Insider",
-    "title": "Google Expands Gemini 4 Argon Access for Enterprise AI Projects",
-    "summary": "Channel Insider is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SRDBkSlNFWFREWU5oeHFnUlp0OVNpRHg0eW1RTTczMzc1dndvRkNKZVhEaThhMmhlNjNRNVUwT3hCU2RSbTdNa3ZrNHp6amYzUFRhMWY2amJBMGVFV3FTTU91UjB0V1AxaWJFaUE4NDFWd1IwaUEwdjhzbHk?oc=5",
     "difficulty": "News"
   },
   {
@@ -194,13 +182,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 13, 12:01 PM ET",
-    "publishedAt": "2026-10-13T16:01:09+00:00",
-    "source": "CNET",
-    "title": "You Can Use Gemini 4 Argon Now: Google’s New AI Is Built for Coding, Math and Robotics",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "time": "Oct 13, 12:02 PM ET",
+    "publishedAt": "2026-10-13T16:02:42+00:00",
+    "source": "blog.google",
+    "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPenFKdXZuTzVWY2NEenV3aUJzWmoyZDVUZ1dQTU43NTVHdlZwTzJNd2FMLTlCZjZJS1ZSVVVqeE9iOE5idExncXZYWElHQ19oUEw1SVY5SF9mSVF6WTAyNkUwdmFTN3VLUi1aOHpHdUg0UzJlcEF0aGVLUXAzSkJEVEROZExZMVFLdEFMTGRKcWo4eW90LWxFT1Nn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2p5blgxYkN5OGNOekI3SFkwcm5TeTZBNnAwSTlDX3lPWWh4UkpmeVpCVnRkN3RqZk4xZEFhdHNqR1VzZks2OTY3UlE4V1U4SHN4VXlZMUJFSGRyc180X2hOQmNhMjNDcmNPXzZpaEZnTzdudTBHWHhSZmdwanZyWjdmX2VEMjJYM2xIQVZMWEhkMlZVbWp3dTMtQ0hCV0VGSWpvZ0FPTWY?oc=5",
     "difficulty": "News"
   },
   {
@@ -273,6 +261,18 @@
     "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUlHYlVWdWhfQm5Rd2RxakQtZ0o4a3ZfaU5JSTNFeENNTUZlTHlKZUpsTHpYalVkUmFyZG9Fd2dwMGNJWmNSOS1CTmx4dDUteURkMlFxOHk3YVN3YnZ1amFyTWl4b0JpdnVYejBXbkMxaHVVbkp0TXhZNlgwQnl6eXpuQ28?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 10, 09:44 PM ET",
+    "publishedAt": "2026-10-11T01:44:06+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "Set Up Cursor With Claude Code: 13-Step Hybrid Workflow",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MRk1uRlpybjItNW1wNjZxUlBaNzVVQnk0NVhDdHgxX0E5U2hNTVF4U3RHd2FvY0pSYkdLaXVEX3dIZ0UzVDJnUDZHNVpsNjV5a05wLXMxTkNFS20tTFZibEQtVHRDT01WS3BPSm50T2o4dw?oc=5",
     "difficulty": "News"
   },
   {
