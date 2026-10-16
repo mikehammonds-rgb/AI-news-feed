@@ -1,14 +1,26 @@
 [
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 15, 01:02 PM ET",
-    "publishedAt": "2026-10-15T17:02:58+00:00",
-    "source": "The Decoder",
-    "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
-    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 15, 09:33 PM ET",
+    "publishedAt": "2026-10-16T01:33:33+00:00",
+    "source": "36Kr",
+    "title": "Opus 5.5 Turbo Edition All Restrictions Fully Lifted – Full Access Unlocked Now",
+    "summary": "36Kr is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONmM3Z0p3Q0pZXzBiNFRKWFZfT21Rd1l0cUdRa25mSU15OHpiczV6WXNFWGdYZjRUb0JhbGQwUzRNSjh5c3dmcHc3MFVfWnRDQ1h6SG4yRWw2ZEZOUm44dk9xWHZZQzNFbmNsLU02UThhN056WDd4Wl9GeWxocUFPM1dLOUVHQzZNSjhpUlJzQUd4UQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PSm0teGMtenBLN3AtZmZqSlhJYkNWSkI4cHpOWF8tOWh4WUxlTnJkeFU4R3lYU2dNMjFoeHoycjlZVDRFendaSmxaTy00MDRyVTFr?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 15, 01:55 PM ET",
+    "publishedAt": "2026-10-15T17:55:28+00:00",
+    "source": "The New Stack",
+    "title": "OpenAI promised developers six months’ notice. GPT-4o users got three.",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jbmxSWm1Kd0ozVkE4WmU3RFlyUHlQMk8tZnduSEVLZWpQd1ZGUlVfU0s3ZUJ2UjNEWG1QTE44VHdWQ0FhZmxWSlVyNGVrSnREdVloNEc2eFozVlBfSHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -41,7 +53,7 @@
     "time": "Oct 15, 10:39 AM ET",
     "publishedAt": "2026-10-15T14:39:07+00:00",
     "source": "https://tech-insider.org/",
-    "title": "Gemini 4 Argon Powers Android Studio’s 1M-Token Push [2026]",
+    "title": "Gemini 4 Argon Coding Agents Hit Android Studio [2026]",
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XeVFTcGVoSWVkZnk1Q3RmemlUYnltdFU4LVpjbkJLTzNZWW9STF9EcjY3NG00RTlLeVQ2bHNYZ3NxMHRScEhwaXNpTHpmMjNOUFp5NXh2a1pQSkR2d3FRVVczQTY0bkdnc2RocURzdEhSTlBXc2JET2VHR0F1d3M?oc=5",
@@ -81,18 +93,6 @@
     "summary": "SECURITY.COM is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91N1JuQkJGTkVOQVVUYzJtbUhnYjJjNUlRMG5OSThQaEhOM3JNeWViS3BtbkxBQ3hsazVSWlJXbS1NY1lYQmxXU0p0VVhHcF9YREZRNFRhbEFuWEthWndLTTNVNmllZmNhUS1ZUHdrdEpVRHFTYzVHTUE3R1hTWFk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 14, 09:55 PM ET",
-    "publishedAt": "2026-10-15T01:55:00+00:00",
-    "source": "BigGo Finance",
-    "title": "Anthropic Opens Third-Party Access, Expanding the Claude Subscription Ecosystem",
-    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qcHFIMHpRWS1zVm9wbVI4Y21nWUNnOHgzZ0ZSc0RocWxZNzZQdm55YW91N1YzNXdiYmxqNnloMTVkVzM1S0ZRb2VyWE1lS1V1cE5CZ2hjOExuZHViU2hpNGpkNkhoYUpwTjdjcEpza0ItQklMQmc?oc=5",
     "difficulty": "News"
   },
   {
@@ -177,6 +177,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2p5blgxYkN5OGNOekI3SFkwcm5TeTZBNnAwSTlDX3lPWWh4UkpmeVpCVnRkN3RqZk4xZEFhdHNqR1VzZks2OTY3UlE4V1U4SHN4VXlZMUJFSGRyc180X2hOQmNhMjNDcmNPXzZpaEZnTzdudTBHWHhSZmdwanZyWjdmX2VEMjJYM2xIQVZMWEhkMlZVbWp3dTMtQ0hCV0VGSWpvZ0FPTWY?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 13, 12:01 PM ET",
+    "publishedAt": "2026-10-13T16:01:09+00:00",
+    "source": "CNET",
+    "title": "You Can Use Gemini 4 Argon Now: Google’s New AI Is Built for Coding, Math and Robotics",
+    "summary": "CNET is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPenFKdXZuTzVWY2NEenV3aUJzWmoyZDVUZ1dQTU43NTVHdlZwTzJNd2FMLTlCZjZJS1ZSVVVqeE9iOE5idExncXZYWElHQ19oUEw1SVY5SF9mSVF6WTAyNkUwdmFTN3VLUi1aOHpHdUg0UzJlcEF0aGVLUXAzSkJEVEROZExZMVFLdEFMTGRKcWo4eW90LWxFT1Nn?oc=5",
     "difficulty": "News"
   },
   {
@@ -302,25 +314,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Oct 05, 03:00 AM ET",
-    "publishedAt": "2026-10-05T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Our approach to EU text provenance rules",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Sep 29, 03:00 AM ET",
     "publishedAt": "2026-09-29T07:00:00+00:00",
-    "source": "The New Stack",
-    "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "source": "OpenAI",
+    "title": "DevDay 2026 Recap",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
     "difficulty": "News"
   },
   {
