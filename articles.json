@@ -2,6 +2,30 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Oct 16, 03:03 AM ET",
+    "publishedAt": "2026-10-16T07:03:49+00:00",
+    "source": "MIXED Reality News",
+    "title": "The instructions you typed into Claude can now be pulled by every organisation you belong to",
+    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbU9fbWVtZzU3TkRyTnYtU1NscjdfaUVOVVNWeTFxY2U2Qi03SUhaRjNmTENIVjBSQVRSdk43QWVUZlhLdkVQclFYSHpqcWVfV2daZ3RlTm9sbmw4MVFiQ1JhXzNJT09hLURxUkl6djYxeHR3V29Ca2JBUnlOaDlwam9VQUdGXzB5VEktZHBROVo5MktZTmR2RXlKY0EyUFU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 16, 01:32 AM ET",
+    "publishedAt": "2026-10-16T05:32:00+00:00",
+    "source": "ActuIA",
+    "title": "Google's Gemini 4 Argon API to double prices on 1 December",
+    "summary": "ActuIA is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDV2T3BuOFZtQl9Ha2dyZFhJcjA0V0VDTWd3bDJ6Mm5qTGVjTk1WOU1jb05lbXF0MUIyTlV0S0VhVUphSW5JcDVrNmtkc0o4QV9FcHcxcnhjT3ljYkRJeExCRTduS3JmVDc0OGt1NnpXb1VJanVLQmsySzVnLVRzTmxGQVgwYXE5bE9xRkZEa0Nyb00?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Oct 15, 09:33 PM ET",
     "publishedAt": "2026-10-16T01:33:33+00:00",
     "source": "36Kr",
@@ -110,13 +134,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 14, 04:18 PM ET",
-    "publishedAt": "2026-10-14T20:18:45+00:00",
-    "source": "MIXED Reality News",
-    "title": "Claude Code was sending your gateway's API key to Anthropic, and 2.1.299 stops it",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
+    "time": "Oct 14, 07:00 PM ET",
+    "publishedAt": "2026-10-14T23:00:28+00:00",
+    "source": "The New Stack",
+    "title": "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race.",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ01RUjh5T1d5UXRLUi1OdlNITU5LNlZaZ1Awd01ZV081QTU3TUlBZVhBZTR4UllzdUc1Z2lZanZZS3ZCY1RMSnlGU1pyQnZUckU5VElnbTB1bVZCNDBwR2NwRHNOYW01QnhNbVk3NVFsdldHTmF5bGhjd3B6bDFmVEdRcHp5YXMxX1lfc3JremNteWgySVFJ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWNVVYdFVjSlNnZUd1SkhrMk5XQzJ2ajhWLTFGbm5Wbk9HalI2R3BMYjRFQlRITnc0LWxKMWJTeXZod0t6OFBsd1kySWxmaEUzdkRwWFNGd2ZJOHJ3aF9UXw?oc=5",
     "difficulty": "News"
   },
   {
@@ -177,18 +201,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2p5blgxYkN5OGNOekI3SFkwcm5TeTZBNnAwSTlDX3lPWWh4UkpmeVpCVnRkN3RqZk4xZEFhdHNqR1VzZks2OTY3UlE4V1U4SHN4VXlZMUJFSGRyc180X2hOQmNhMjNDcmNPXzZpaEZnTzdudTBHWHhSZmdwanZyWjdmX2VEMjJYM2xIQVZMWEhkMlZVbWp3dTMtQ0hCV0VGSWpvZ0FPTWY?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 13, 12:01 PM ET",
-    "publishedAt": "2026-10-13T16:01:09+00:00",
-    "source": "CNET",
-    "title": "You Can Use Gemini 4 Argon Now: Google’s New AI Is Built for Coding, Math and Robotics",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPenFKdXZuTzVWY2NEenV3aUJzWmoyZDVUZ1dQTU43NTVHdlZwTzJNd2FMLTlCZjZJS1ZSVVVqeE9iOE5idExncXZYWElHQ19oUEw1SVY5SF9mSVF6WTAyNkUwdmFTN3VLUi1aOHpHdUg0UzJlcEF0aGVLUXAzSkJEVEROZExZMVFLdEFMTGRKcWo4eW90LWxFT1Nn?oc=5",
     "difficulty": "News"
   },
   {
@@ -314,13 +326,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Sep 29, 03:00 AM ET",
-    "publishedAt": "2026-09-29T07:00:00+00:00",
+    "time": "Oct 05, 03:00 AM ET",
+    "publishedAt": "2026-10-05T07:00:00+00:00",
     "source": "OpenAI",
-    "title": "DevDay 2026 Recap",
+    "title": "Our approach to EU text provenance rules",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5",
     "difficulty": "News"
   },
   {
