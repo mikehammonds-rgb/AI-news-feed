@@ -2,8 +2,32 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 16, 09:40 AM ET",
-    "publishedAt": "2026-10-16T13:40:08+00:00",
+    "time": "Oct 16, 04:09 PM ET",
+    "publishedAt": "2026-10-16T20:09:28+00:00",
+    "source": "Dark Reading",
+    "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+    "summary": "Dark Reading is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXRGZzIzMlNBLWhUaWtkbjk3RUdBbnl2aXlCbkczcnZ0Ykh5Z2tqcW5ybC1qWGh3eFFyMTlOdktBcTRVbjkyMm4zRDJFWlZLLWZaU281dmpSSkQwQ2FYdUxXYkotOGtaMF9jMnJ3VGFqQmVUdWVnT25pcURmNjhSLTd0Z3JLejBXV01CdmZRbzhkUm5sTmQ4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 16, 03:25 PM ET",
+    "publishedAt": "2026-10-16T19:25:45+00:00",
+    "source": "ALM Corp",
+    "title": "Gemini 4 Argon Lands in Google AI Mode (October 2026)",
+    "summary": "ALM Corp is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ia2xWd0tyWnBOU0lwMXdlNEFyNnBJb3FEZll6djYyME1ybUs3VjN4NVBOMmVPQTdpT2pFRklMaWIycjA3MFRpTTRFUW5YTDRwVTJCLXlwbVZxMlRqbzVkc0NoMnJlamR1Ump4eVZ3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 16, 11:18 AM ET",
+    "publishedAt": "2026-10-16T15:18:50+00:00",
     "source": "MIXED Reality News",
     "title": "Claude Code could spend your credits on a summary by the model you were leaving, until 2.1.301",
     "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
@@ -69,18 +93,6 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jbmxSWm1Kd0ozVkE4WmU3RFlyUHlQMk8tZnduSEVLZWpQd1ZGUlVfU0s3ZUJ2UjNEWG1QTE44VHdWQ0FhZmxWSlVyNGVrSnREdVloNEc2eFozVlBfSHc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 15, 10:39 AM ET",
-    "publishedAt": "2026-10-15T14:39:07+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Gemini 4 Argon Coding Agents Hit Android Studio [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XeVFTcGVoSWVkZnk1Q3RmemlUYnltdFU4LVpjbkJLTzNZWW9STF9EcjY3NG00RTlLeVQ2bHNYZ3NxMHRScEhwaXNpTHpmMjNOUFp5NXh2a1pQSkR2d3FRVVczQTY0bkdnc2RocURzdEhSTlBXc2JET2VHR0F1d3M?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,18 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 10, 09:44 PM ET",
-    "publishedAt": "2026-10-11T01:44:06+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Set Up Cursor With Claude Code: 13-Step Hybrid Workflow",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MRk1uRlpybjItNW1wNjZxUlBaNzVVQnk0NVhDdHgxX0E5U2hNTVF4U3RHd2FvY0pSYkdLaXVEX3dIZ0UzVDJnUDZHNVpsNjV5a05wLXMxTkNFS20tTFZibEQtVHRDT01WS3BPSm50T2o4dw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 08, 03:00 AM ET",
@@ -352,11 +352,11 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "The Official Microsoft Blog",
-    "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
+    "source": "CIO Dive",
+    "title": "Microsoft retools Copilot with coding, AI agent capabilities",
+    "summary": "CIO Dive is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
     "difficulty": "News"
   },
   {
@@ -364,11 +364,11 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "Reuters",
-    "title": "Microsoft revamps Copilot with code generation, agentic AI tools",
-    "summary": "Reuters is reporting this update. Open the article for the full story.",
+    "source": "The Official Microsoft Blog",
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
     "difficulty": "News"
   },
   {
