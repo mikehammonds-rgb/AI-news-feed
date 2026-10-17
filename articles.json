@@ -1,23 +1,11 @@
 [
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 17, 06:29 AM ET",
-    "publishedAt": "2026-10-17T10:29:04+00:00",
-    "source": "shattered.io",
-    "title": "DeepSeek V4.1-Flash-1017 Hits 77.0 on DeepSWE [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OSlM2T1g2czdzWHM0WWVBTnJwLTVXeU1aeWRlcTdXNl8wdUt4YjdzWEtzUTBJS3AtYXlPSjNnbllId2hkeGE1Z0ZDUXAydEpWYzhSb29IXzBnYXd0UUdqWFhORll5VWpqZjVESjZKQUZmaHVON1R6UTFCT0NMdw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 17, 01:39 AM ET",
-    "publishedAt": "2026-10-17T05:39:48+00:00",
+    "time": "Oct 17, 01:50 AM ET",
+    "publishedAt": "2026-10-17T05:50:15+00:00",
     "source": "shattered.io",
-    "title": "Gemini 4 Argon Goes Global: 1M-Token Launch [2026]",
+    "title": "Gemini 4 Argon Goes Global, Tokens Jump 16x to 1M [2026]",
     "summary": "shattered.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaTk5VLVNMSzBNcmhfWWtLbEZzNENRdVBQazhKMzI4ZTk3M3h5dmZndW1WQko5Mk1Pd01OWEl3YnltazhZN1d2N2tha0NfWHZWMTNVb25DbzF1anhYbUtpQTI5S3cyMG96Q3hlTFJOVnBfMkV6?oc=5",
@@ -33,6 +21,18 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwVXdkNmJYTUVuc1NTX2VCVFl0blhjUHJGSkNXbFJKT0pvLTV4WjNfQ1N5LVJFMHFwSE9wYzFQVTU3Q1JobDVBUE02Nkl5NFViNVlhcDJ4VkFTWEd2THN1VDAwMjBhY0pzc0gzb0h0ekQ3ZEFXV1BBQ3RrZVBaQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 16, 07:43 PM ET",
+    "publishedAt": "2026-10-16T23:43:50+00:00",
+    "source": "MIXED Reality News",
+    "title": "Claude Opus 5.5 fast mode needs no access request, but falling back costs the cache",
+    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGcwOTdPc2J5TGNGRnZZdmJHZ3M2YTFoa1ZaRXZkVTNMQmtUS2lrR3NBZ3JmY1JXUUJQdDdoaVV4N19ncC1lb1Y5VDNCODlSRjFsWVFpeWtaaDhOdzdLcVItZ21QTVlhUE5pU3B6czNNTFh1STBvWjlKOWtKLTdaeWVhbVpjM2VwaVhUb3ZHYzc?oc=5",
     "difficulty": "News"
   },
   {
@@ -81,18 +81,6 @@
     "summary": "SC Media is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMnZHYUVkWXoyZXY3RkVRNlN4LTJ3SmtYNHdYSkRIbEN4VFNBWW4yNDV1WkptbGMxTlhDSGlpQ3g4UnRUNk1LU2otVjFBeFdPYnJQaGduMmJLUzQyMmtGdWNHV25sdFd2Nl9ibWg2UXItaWxGSnl6YTNuS3F3Z3dXVWVycDVCOGZrbzJfanpn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 16, 11:18 AM ET",
-    "publishedAt": "2026-10-16T15:18:50+00:00",
-    "source": "MIXED Reality News",
-    "title": "Claude Code could spend your credits on a summary by the model you were leaving, until 2.1.301",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0lFNXZBX3pwZUlUb3d2VXVoQm83cDhFck1EQVJSZ2xTdld6U1BwWG1lb21FVlF0RUNoWU1oSDU5TFNDRFRtY1BlRl9zYUpWMUhIZ2x1Q0t0c0I5aWR2MjFUdVFTS3RoLVBPdlZHMi1xQVZOdmtnQ0pZME84RmVSWnBDOTZXUE5M?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,6 +288,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 03:00 AM ET",
+    "publishedAt": "2026-10-07T07:00:00+00:00",
+    "source": "VentureBeat",
+    "title": "Anthropic launches Claude Haiku 5.5 with 90% API price reduction, matching GPT-6 Luna",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTFMTVFQOTJ2SmdCSGdjR2Z4Q2ZYMF9ncldZM3NUNTlEWUVOUERVUVVpdHdfQno4c3F3aWJ1WnIybnpYNGxnMmk5d3FCaUlkdkhCeHpPMENmRG81MEpBcGx5Y1kxY25GY3oxb3gzNGk1bDdOS0JwMkxFZ1hkUFI2M21GMWowTzc4VVJaLUNaajc5MGJrMTdtcXNJem93Q2lpSGFvYXJCbEFwN2hMTnY4bzcxdEswa29DWFE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Sep 30, 03:00 AM ET",
@@ -309,6 +309,18 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2FtdGtxQTNoRnBrUWhFS3J4ZnExeThrRDhVbldnRVpQcTRjMldvb2ZFNkJ5R2tVOHRfT0pteDhvbkFTYmpOYVR4SVNhSUltLXl2anl6TWhFZjZyRGdmUmNPMnk4NnBySFhlN2RrU2dYWThSbFFJc3dRaVc5dDJLWkdsX0NQSmwtNURrdlhfOVFtcFhPZ1NWcXJERFp1bUJ4YmxLRjBzVUU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 03:00 AM ET",
+    "publishedAt": "2026-09-29T07:00:00+00:00",
+    "source": "The New Stack",
+    "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
     "difficulty": "News"
   },
   {
