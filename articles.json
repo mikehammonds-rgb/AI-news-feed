@@ -2,6 +2,42 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Oct 17, 12:45 PM ET",
+    "publishedAt": "2026-10-17T16:45:54+00:00",
+    "source": "Substack",
+    "title": "AI Week in Review 26.10.17",
+    "summary": "Substack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZbXBRUEZCZnc5U2VVMGdKdndXSGVpaVl1Vl9CMmJwNHNsMEF0c1Y5X2Y0WlVkalVuWm1BNDJjQ1JMeHl5c2xvTWZpdUYyWldVY29hZTNzMnFGa01mdm1UNnRZY2E3RlAyaXFtbERn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 17, 11:55 AM ET",
+    "publishedAt": "2026-10-17T15:55:21+00:00",
+    "source": "shattered.io",
+    "title": "Claude Fable 5 Ends 87-Year Math Feud; BTC Reacts [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uNW14aXVBSktmRDZXTXNSck5HX3ZOWmVnMzVBOWdhZGIyT2JlVFFSTTBTeDhQOUZqTW1YTXVGdXBwc0phZlQ2X0NuZVVZZW5lVy1pRHdsbnBKUVZ4M3AwUkdGSndKWTk1M2IzQlhfamFqNkdfenc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 17, 10:07 AM ET",
+    "publishedAt": "2026-10-17T14:07:01+00:00",
+    "source": "HackerNoon",
+    "title": "170 Blog Posts To Learn About Github Copilot",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FTzNFSTU1N0Fkb2pxYV82dDNxSlNEXzNzZ1dxamtZblU4TzZxNzJxamMxR0NsUVVrME5MQjRXQ21LRzJXdklnWktCbVJ5RnI1WjNGZWhMTVZhLWd3N0J5WE9hZDBwQi1LUF9YZFFVX2dJdnhGN1E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Oct 17, 01:50 AM ET",
     "publishedAt": "2026-10-17T05:50:15+00:00",
     "source": "shattered.io",
@@ -45,18 +81,6 @@
     "summary": "Dark Reading is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXRGZzIzMlNBLWhUaWtkbjk3RUdBbnl2aXlCbkczcnZ0Ykh5Z2tqcW5ybC1qWGh3eFFyMTlOdktBcTRVbjkyMm4zRDJFWlZLLWZaU281dmpSSkQwQ2FYdUxXYkotOGtaMF9jMnJ3VGFqQmVUdWVnT25pcURmNjhSLTd0Z3JLejBXV01CdmZRbzhkUm5sTmQ4?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 16, 03:25 PM ET",
-    "publishedAt": "2026-10-16T19:25:45+00:00",
-    "source": "ALM Corp",
-    "title": "Gemini 4 Argon Lands in Google AI Mode (October 2026)",
-    "summary": "ALM Corp is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ia2xWd0tyWnBOU0lwMXdlNEFyNnBJb3FEZll6djYyME1ybUs3VjN4NVBOMmVPQTdpT2pFRklMaWIycjA3MFRpTTRFUW5YTDRwVTJCLXlwbVZxMlRqbzVkc0NoMnJlamR1Ump4eVZ3?oc=5",
     "difficulty": "News"
   },
   {
@@ -158,6 +182,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Oct 14, 03:46 PM ET",
+    "publishedAt": "2026-10-14T19:46:32+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude vs ChatGPT: 60% Cheaper, 8.5-Point Gap [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93cFFiR2Vtd2lHMnA0N0JnM3JDRkxLd3Z5TGtGX2gyZ19ZYjBFREhlZ2syWFl3SEVfeGtpLVEyUkVpb2VEMllGVnE0REJPSDViQTladWE1VV93aEMwblNLek1NSXRjSHRBTWlNeVZydFJESURxV281Y2N3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Oct 14, 01:36 PM ET",
     "publishedAt": "2026-10-14T17:36:08+00:00",
     "source": "Unite.AI",
@@ -196,9 +232,9 @@
     "label": "Gemini",
     "time": "Oct 13, 12:02 PM ET",
     "publishedAt": "2026-10-13T16:02:42+00:00",
-    "source": "blog.google",
+    "source": "Google for Developers Blog",
     "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "summary": "Google for Developers Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2p5blgxYkN5OGNOekI3SFkwcm5TeTZBNnAwSTlDX3lPWWh4UkpmeVpCVnRkN3RqZk4xZEFhdHNqR1VzZks2OTY3UlE4V1U4SHN4VXlZMUJFSGRyc180X2hOQmNhMjNDcmNPXzZpaEZnTzdudTBHWHhSZmdwanZyWjdmX2VEMjJYM2xIQVZMWEhkMlZVbWp3dTMtQ0hCV0VGSWpvZ0FPTWY?oc=5",
     "difficulty": "News"
@@ -273,30 +309,6 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BbXNsV09QY0xLN2hlVXNmbFQ4OFlGcnlSUmR4bnlmWkVOUEV6YWRjRHdhQno1UWNjSTY4NHhyQmhxZ09EQmdFVUZVSUZxS2tSYUFiemNXUkhOTVZmZTUxWU81YkY4UEtUTzgxSnJhNHIxNVRLSXNfWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 08, 03:00 AM ET",
-    "publishedAt": "2026-10-08T07:00:00+00:00",
-    "source": "Hostinger",
-    "title": "12 best Cursor alternatives for web development with AI",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaOWVUZWR6VkdKNUNhVzI0d25DNV8ySnRISkpDbDl1QVhoRy02ejVWSU5WWEZXa1NHSVRnckRWMUI1aVg1TDRyMG5fZ0lTRXdPNzZ2RWQ5aDJvMUlkeGVLWjdqMEJvRUk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 07, 03:00 AM ET",
-    "publishedAt": "2026-10-07T07:00:00+00:00",
-    "source": "VentureBeat",
-    "title": "Anthropic launches Claude Haiku 5.5 with 90% API price reduction, matching GPT-6 Luna",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTFMTVFQOTJ2SmdCSGdjR2Z4Q2ZYMF9ncldZM3NUNTlEWUVOUERVUVVpdHdfQno4c3F3aWJ1WnIybnpYNGxnMmk5d3FCaUlkdkhCeHpPMENmRG81MEpBcGx5Y1kxY25GY3oxb3gzNGk1bDdOS0JwMkxFZ1hkUFI2M21GMWowTzc4VVJaLUNaajc5MGJrMTdtcXNJem93Q2lpSGFvYXJCbEFwN2hMTnY4bzcxdEswa29DWFE?oc=5",
     "difficulty": "News"
   },
   {
