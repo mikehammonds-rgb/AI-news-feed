@@ -1,5 +1,41 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 17, 02:57 PM ET",
+    "publishedAt": "2026-10-17T18:57:21+00:00",
+    "source": "Startup Fortune",
+    "title": "OpenCode breach exposes stored OpenAI and Anthropic keys, prompts urgent key rotation",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTRuYTBta3p6RENuTVRJdWlGTW9qV1pPYmdZWl9qR1BEN1k4czdONmx5elpCa3hfOTExaWJSRkQ5RHE4QVFjcmhxa3lSc1c2a0x5aVlCUThkTElreHkzbG81RG5lUGdzSkNCbU9JRmRIc0Fqb0hXNngxRG1vTmJGNmVuU2Nwclc1R3hONHFuWi1OSDhRUzNXalNIS21pb3gxeHZDVy1uSnd1bnpmYUwxdVNn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 17, 01:28 PM ET",
+    "publishedAt": "2026-10-17T17:28:32+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "Gemini’s Veo 3.1 API: Generate AI Video in 13 Steps [2026]",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNWFSdHh6dDBlTUQ5RjhUZ3NHZEVFZVVENk5mX3VLSEgzMTNJQm81b1NVQjRJUGV3bGpXZVpsWVNhQ3Q0STJJX0FUdGZOMVEyS0pKdEdHMEpFcUlwOS1rbEF0dXZTTTIxM2t1SGQ2VmRITnVMcHc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 17, 01:25 PM ET",
+    "publishedAt": "2026-10-17T17:25:04+00:00",
+    "source": "Pasquale Pillitteri",
+    "title": "OpenAI Adds Prompt-to-Voice and Nine New Voices to the GPT-Live API",
+    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGt4R1BhTnl3Umd3a3l5b3dVcERjSGFfbmhXV0gyeUM5cW1RRVVxTExtTGk2VFIxUmV2dmhfU2hmeUxaS2hGazV3RTRfWkxLLS1RVjFaaDlOSEVyMjRPbEFWUG1LQnl3Rm52SVlZUEoyMnhpZVRhV2lHRndsckctWjVrQjBEQTJxNWdWTHJqc2k2a1gzVEE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 17, 12:45 PM ET",
@@ -48,18 +84,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 16, 09:36 PM ET",
-    "publishedAt": "2026-10-17T01:36:59+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Gemini 4 Argon Goes Public: $2 vs $4 Pricing Cliff Looms [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwVXdkNmJYTUVuc1NTX2VCVFl0blhjUHJGSkNXbFJKT0pvLTV4WjNfQ1N5LVJFMHFwSE9wYzFQVTU3Q1JobDVBUE02Nkl5NFViNVlhcDJ4VkFTWEd2THN1VDAwMjBhY0pzc0gzb0h0ekQ3ZEFXV1BBQ3RrZVBaQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 16, 07:43 PM ET",
@@ -69,18 +93,6 @@
     "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGcwOTdPc2J5TGNGRnZZdmJHZ3M2YTFoa1ZaRXZkVTNMQmtUS2lrR3NBZ3JmY1JXUUJQdDdoaVV4N19ncC1lb1Y5VDNCODlSRjFsWVFpeWtaaDhOdzdLcVItZ21QTVlhUE5pU3B6czNNTFh1STBvWjlKOWtKLTdaeWVhbVpjM2VwaVhUb3ZHYzc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 16, 04:11 PM ET",
-    "publishedAt": "2026-10-16T20:11:20+00:00",
-    "source": "Dark Reading",
-    "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
-    "summary": "Dark Reading is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXRGZzIzMlNBLWhUaWtkbjk3RUdBbnl2aXlCbkczcnZ0Ykh5Z2tqcW5ybC1qWGh3eFFyMTlOdktBcTRVbjkyMm4zRDJFWlZLLWZaU281dmpSSkQwQ2FYdUxXYkotOGtaMF9jMnJ3VGFqQmVUdWVnT25pcURmNjhSLTd0Z3JLejBXV01CdmZRbzhkUm5sTmQ4?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,30 +321,6 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BbXNsV09QY0xLN2hlVXNmbFQ4OFlGcnlSUmR4bnlmWkVOUEV6YWRjRHdhQno1UWNjSTY4NHhyQmhxZ09EQmdFVUZVSUZxS2tSYUFiemNXUkhOTVZmZTUxWU81YkY4UEtUTzgxSnJhNHIxNVRLSXNfWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 30, 03:00 AM ET",
-    "publishedAt": "2026-09-30T07:00:00+00:00",
-    "source": "TechCrunch",
-    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2FtdGtxQTNoRnBrUWhFS3J4ZnExeThrRDhVbldnRVpQcTRjMldvb2ZFNkJ5R2tVOHRfT0pteDhvbkFTYmpOYVR4SVNhSUltLXl2anl6TWhFZjZyRGdmUmNPMnk4NnBySFhlN2RrU2dYWThSbFFJc3dRaVc5dDJLWkdsX0NQSmwtNURrdlhfOVFtcFhPZ1NWcXJERFp1bUJ4YmxLRjBzVUU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 03:00 AM ET",
-    "publishedAt": "2026-09-29T07:00:00+00:00",
-    "source": "The New Stack",
-    "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
     "difficulty": "News"
   },
   {
