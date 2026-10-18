@@ -72,6 +72,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 17, 02:57 PM ET",
+    "publishedAt": "2026-10-17T18:57:21+00:00",
+    "source": "Startup Fortune",
+    "title": "OpenCode breach exposes stored OpenAI and Anthropic keys, prompts urgent key rotation",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTRuYTBta3p6RENuTVRJdWlGTW9qV1pPYmdZWl9qR1BEN1k4czdONmx5elpCa3hfOTExaWJSRkQ5RHE4QVFjcmhxa3lSc1c2a0x5aVlCUThkTElreHkzbG81RG5lUGdzSkNCbU9JRmRIc0Fqb0hXNngxRG1vTmJGNmVuU2Nwclc1R3hONHFuWi1OSDhRUzNXalNIS21pb3gxeHZDVy1uSnd1bnpmYUwxdVNn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 17, 10:35 AM ET",
@@ -86,13 +98,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 16, 04:11 PM ET",
-    "publishedAt": "2026-10-16T20:11:20+00:00",
-    "source": "Dark Reading",
-    "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
-    "summary": "Dark Reading is reporting this update. Open the article for the full story.",
+    "time": "Oct 16, 08:00 AM ET",
+    "publishedAt": "2026-10-16T12:00:28+00:00",
+    "source": "The New Stack",
+    "title": "Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXRGZzIzMlNBLWhUaWtkbjk3RUdBbnl2aXlCbkczcnZ0Ykh5Z2tqcW5ybC1qWGh3eFFyMTlOdktBcTRVbjkyMm4zRDJFWlZLLWZaU281dmpSSkQwQ2FYdUxXYkotOGtaMF9jMnJ3VGFqQmVUdWVnT25pcURmNjhSLTd0Z3JLejBXV01CdmZRbzhkUm5sTmQ4?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GVHpxUlpXanZOUTJIVHVMVWJ3SUNRWmFlT2s4SjdfclpILUZ2ZjJ5Q2k3OFBkNy1vckhSdVlEdHRiMHNBU0F6NmlhY3lLUEVLR1FIZldfWFRFbktj?oc=5",
     "difficulty": "News"
   },
   {
@@ -110,13 +122,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Oct 15, 01:55 PM ET",
-    "publishedAt": "2026-10-15T17:55:28+00:00",
-    "source": "The New Stack",
-    "title": "OpenAI promised developers six months’ notice. GPT-4o users got three.",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "time": "Oct 15, 03:00 PM ET",
+    "publishedAt": "2026-10-15T19:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jbmxSWm1Kd0ozVkE4WmU3RFlyUHlQMk8tZnduSEVLZWpQd1ZGUlVfU0s3ZUJ2UjNEWG1QTE44VHdWQ0FhZmxWSlVyNGVrSnREdVloNEc2eFozVlBfSHc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -141,18 +153,6 @@
     "summary": "SECURITY.COM is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91N1JuQkJGTkVOQVVUYzJtbUhnYjJjNUlRMG5OSThQaEhOM3JNeWViS3BtbkxBQ3hsazVSWlJXbS1NY1lYQmxXU0p0VVhHcF9YREZRNFRhbEFuWEthWndLTTNVNmllZmNhUS1ZUHdrdEpVRHFTYzVHTUE3R1hTWFk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 14, 07:00 PM ET",
-    "publishedAt": "2026-10-14T23:00:28+00:00",
-    "source": "The New Stack",
-    "title": "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race.",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWNVVYdFVjSlNnZUd1SkhrMk5XQzJ2ajhWLTFGbm5Wbk9HalI2R3BMYjRFQlRITnc0LWxKMWJTeXZod0t6OFBsd1kySWxmaEUzdkRwWFNGd2ZJOHJ3aF9UXw?oc=5",
     "difficulty": "News"
   },
   {
