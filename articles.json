@@ -60,18 +60,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 17, 01:25 PM ET",
-    "publishedAt": "2026-10-17T17:25:04+00:00",
-    "source": "Pasquale Pillitteri",
-    "title": "OpenAI Adds Prompt-to-Voice and Nine New Voices to the GPT-Live API",
-    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGt4R1BhTnl3Umd3a3l5b3dVcERjSGFfbmhXV0gyeUM5cW1RRVVxTExtTGk2VFIxUmV2dmhfU2hmeUxaS2hGazV3RTRfWkxLLS1RVjFaaDlOSEVyMjRPbEFWUG1LQnl3Rm52SVlZUEoyMnhpZVRhV2lHRndsckctWjVrQjBEQTJxNWdWTHJqc2k2a1gzVEE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 17, 11:55 AM ET",
@@ -288,6 +276,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 13, 11:57 AM ET",
+    "publishedAt": "2026-10-13T15:57:57+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "VS Code 1.140 Adds HydraFusion AI Routing, 4 Tiers [2026]",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KTmRkVmtQRXByQkNfdmR2VkNSZjhTeFF6dGVJU2VMLVZhZV9pb0Z3UkY5WGg2V3I4YkdGYTM5Y2JxaDBPRkNzcUlmM09tbHhWUWtIUW83VGEwZU1HaUhaajVqRGpVU1pVMUJ4eHV0YXZuYXdibTNj?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 12, 05:30 AM ET",
@@ -314,18 +314,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 11, 10:41 AM ET",
-    "publishedAt": "2026-10-11T14:41:30+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Claude Code vs Codex vs Copilot: 2026 Comparison",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BbXNsV09QY0xLN2hlVXNmbFQ4OFlGcnlSUmR4bnlmWkVOUEV6YWRjRHdhQno1UWNjSTY4NHhyQmhxZ09EQmdFVUZVSUZxS2tSYUFiemNXUkhOTVZmZTUxWU81YkY4UEtUTzgxSnJhNHIxNVRLSXNfWQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Oct 08, 03:00 AM ET",
     "publishedAt": "2026-10-08T07:00:00+00:00",
     "source": "GitGuardian Blog",
@@ -333,6 +321,18 @@
     "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYnppRlN6LTJvazFmMVpuRkhabWtxQ05DN1BTcmhMYnlSZ1A4aXZ6d1o3RkdkcnJyRm12OWpLaHhyNWo0NFlQUUNMMVhDQUxIRnBpTDdVRTFIWGM4VGYtOFM0Mkp3X3E0QUU4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 30, 03:00 AM ET",
+    "publishedAt": "2026-09-30T07:00:00+00:00",
+    "source": "TechCrunch",
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2FtdGtxQTNoRnBrUWhFS3J4ZnExeThrRDhVbldnRVpQcTRjMldvb2ZFNkJ5R2tVOHRfT0pteDhvbkFTYmpOYVR4SVNhSUltLXl2anl6TWhFZjZyRGdmUmNPMnk4NnBySFhlN2RrU2dYWThSbFFJc3dRaVc5dDJLWkdsX0NQSmwtNURrdlhfOVFtcFhPZ1NWcXJERFp1bUJ4YmxLRjBzVUU?oc=5",
     "difficulty": "News"
   },
   {
