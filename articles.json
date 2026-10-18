@@ -2,6 +2,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Oct 18, 09:07 AM ET",
+    "publishedAt": "2026-10-18T13:07:24+00:00",
+    "source": "FourWeekMBA",
+    "title": "Three Unannounced Aurora Models Reported in OpenAI’s API",
+    "summary": "FourWeekMBA is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOWhsNHdVZWtkRDc5RDVfNjd4THp6UVM0UFFiN0wteG03RGY1MHNKMk1BQzdqSDJUZ2lZS2Jwbi1BRXNwOG9PRXlVWHNrdTZFNm5CR3F6bEJWendFN3lZRDdiRDU2TXQtWFRTUXZGTG9VemU4OEVxemZYWDdUTVJfaXRydzFxV1lVb1V3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Oct 18, 04:00 AM ET",
     "publishedAt": "2026-10-18T08:00:00+00:00",
     "source": "Search Engine Journal",
@@ -9,18 +21,6 @@
     "summary": "Search Engine Journal is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 18, 03:00 AM ET",
-    "publishedAt": "2026-10-18T07:00:06+00:00",
-    "source": "Pasquale Pillitteri",
-    "title": "OpenCode hacked, API keys for OpenAI, Anthropic and Google at risk",
-    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZVo1ek9ENDZrc1BLbm12enkyZ3c5ZlZpYkZqcFI4TG5ldFhMMlVKMFM5NlRGZF9HUzBhUVNfT1BJa0IyWkx3QTRWNHJEZzVsWlpyUzhPSWFMSGVLekJPNmduV2k2bEY5Z21iWlZhV2NHaFhDMVNPVnVJSGdMWUlic2hmRGMzV0pxTEp0ZnhUX2VXWEpuQ21OaWh5SDRoZl92akE?oc=5",
     "difficulty": "News"
   },
   {
@@ -57,18 +57,6 @@
     "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTRuYTBta3p6RENuTVRJdWlGTW9qV1pPYmdZWl9qR1BEN1k4czdONmx5elpCa3hfOTExaWJSRkQ5RHE4QVFjcmhxa3lSc1c2a0x5aVlCUThkTElreHkzbG81RG5lUGdzSkNCbU9JRmRIc0Fqb0hXNngxRG1vTmJGNmVuU2Nwclc1R3hONHFuWi1OSDhRUzNXalNIS21pb3gxeHZDVy1uSnd1bnpmYUwxdVNn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 17, 01:28 PM ET",
-    "publishedAt": "2026-10-17T17:28:32+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Gemini’s Veo 3.1 API: Generate AI Video in 13 Steps [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNWFSdHh6dDBlTUQ5RjhUZ3NHZEVFZVVENk5mX3VLSEgzMTNJQm81b1NVQjRJUGV3bGpXZVpsWVNhQ3Q0STJJX0FUdGZOMVEyS0pKdEdHMEpFcUlwOS1rbEF0dXZTTTIxM2t1SGQ2VmRITnVMcHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -144,6 +132,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 15, 10:39 AM ET",
+    "publishedAt": "2026-10-15T14:39:07+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "Gemini 4 Argon Coding Agents Hit Android Studio [2026]",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XeVFTcGVoSWVkZnk1Q3RmemlUYnltdFU4LVpjbkJLTzNZWW9STF9EcjY3NG00RTlLeVQ2bHNYZ3NxMHRScEhwaXNpTHpmMjNOUFp5NXh2a1pQSkR2d3FRVVczQTY0bkdnc2RocURzdEhSTlBXc2JET2VHR0F1d3M?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 15, 10:05 AM ET",
@@ -192,6 +192,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 14, 06:45 PM ET",
+    "publishedAt": "2026-10-14T22:45:57+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "Cursor vs VS Code: 13-Step Benchmark, 90 Min [2026]",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBReE1ZVFllU1lIS21nTkhEZkxzQ2p4YXhKTzUwaXVPOVpTMkhSS0IydW40d2xMVXpUd2E4cnltZGxzcmNLcUloV3V5cTJXNmxGR3E4RkFHeTJ1S0JGV0dCbnZpRHNUVnRWX21sSjBhZ3NEZHd3?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 14, 04:18 PM ET",
@@ -213,6 +225,18 @@
     "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNURXaXYyZE1uTmQxTWRyY0hmYmlaT1lLZS11akFpRjJTN0FkazRQd0d5cWVBUEI5R1Y2bnVicjBiOWk4YXQta01rbGJ4NjJXeVlCVmllLVFwc0txUUd5R0lmbEhkSklvLVoxM1VUVllvdXdCQlo4X285N2dvVzhsZWo0ZTlwUl9EZW5IMlgyaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 14, 04:41 AM ET",
+    "publishedAt": "2026-10-14T08:41:00+00:00",
+    "source": "Technology Org",
+    "title": "Google Makes Gemini 4 Argon Generally Available at $2 per Million Tokens",
+    "summary": "Technology Org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb25yU2RFVExOZEg5V3l6RTQteFBVSXhYZE9wUXJDemN3ME90ZjVPc1VLOG9aeEkwNktLTFljeHZfNUFnelA3ZUJNS1o1V2lvaU1SR1VRVkJfRDhZNk5DM1F6dnNkb1ZvSXdGbms1MFVSS3pSR01iNjBNUXFkUUl4bVA1ektFUjZMTnVVRFd4WVFqS2Fx?oc=5",
     "difficulty": "News"
   },
   {
@@ -266,18 +290,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 13, 12:01 PM ET",
-    "publishedAt": "2026-10-13T16:01:09+00:00",
-    "source": "CNET",
-    "title": "You Can Use Gemini 4 Argon Now: Google’s New AI Is Built for Coding, Math and Robotics",
-    "summary": "CNET is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPenFKdXZuTzVWY2NEenV3aUJzWmoyZDVUZ1dQTU43NTVHdlZwTzJNd2FMLTlCZjZJS1ZSVVVqeE9iOE5idExncXZYWElHQ19oUEw1SVY5SF9mSVF6WTAyNkUwdmFTN3VLUi1aOHpHdUg0UzJlcEF0aGVLUXAzSkJEVEROZExZMVFLdEFMTGRKcWo4eW90LWxFT1Nn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Oct 13, 12:00 PM ET",
     "publishedAt": "2026-10-13T16:00:00+00:00",
     "source": "9to5Google",
@@ -288,15 +300,15 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 13, 11:57 AM ET",
-    "publishedAt": "2026-10-13T15:57:57+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "VS Code 1.140 Adds HydraFusion AI Routing, 4 Tiers [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 12, 01:52 PM ET",
+    "publishedAt": "2026-10-12T17:52:22+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan | Amazon Web Services",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KTmRkVmtQRXByQkNfdmR2VkNSZjhTeFF6dGVJU2VMLVZhZV9pb0Z3UkY5WGg2V3I4YkdGYTM5Y2JxaDBPRkNzcUlmM09tbHhWUWtIUW83VGEwZU1HaUhaajVqRGpVU1pVMUJ4eHV0YXZuYXdibTNj?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSndHTHhtTDJJM0s0bURxQVE3cW93WnFkRW9DWDhIMFNKSmFwVTUwSHk0VjZWYjA5bExXekVDcV9OUnJRZUxFWFZBU1hxT1RBQTBxeXppTUFqZjFBbDlRakp1bThUNTNDUHkwNXJFM09uOGNqcXFGUEdiNkV1T3Nqb2tQVVdvZmRXZFVVZFZOdFJ2anBza0tXOGhDTGFZNDFoc1FCSWtrS3lscWJsTGM0UTFCU29mOEdMQ3ZkazI1aHgyWUd2alRYYkt6djJLT3E4eFFWWXFzU2NkXzVUMy02bWtFMDdCYklkLW9kMXIzWTBlaWxwaFRVR2FKSkZLTklXNzlmUm1BVWpOZzA?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,18 +321,6 @@
     "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYnppRlN6LTJvazFmMVpuRkhabWtxQ05DN1BTcmhMYnlSZ1A4aXZ6d1o3RkdkcnJyRm12OWpLaHhyNWo0NFlQUUNMMVhDQUxIRnBpTDdVRTFIWGM4VGYtOFM0Mkp3X3E0QUU4?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 30, 03:00 AM ET",
-    "publishedAt": "2026-09-30T07:00:00+00:00",
-    "source": "TechCrunch",
-    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2FtdGtxQTNoRnBrUWhFS3J4ZnExeThrRDhVbldnRVpQcTRjMldvb2ZFNkJ5R2tVOHRfT0pteDhvbkFTYmpOYVR4SVNhSUltLXl2anl6TWhFZjZyRGdmUmNPMnk4NnBySFhlN2RrU2dYWThSbFFJc3dRaVc5dDJLWkdsX0NQSmwtNURrdlhfOVFtcFhPZ1NWcXJERFp1bUJ4YmxLRjBzVUU?oc=5",
     "difficulty": "News"
   },
   {
