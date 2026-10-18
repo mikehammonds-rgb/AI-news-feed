@@ -72,18 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 17, 11:55 AM ET",
-    "publishedAt": "2026-10-17T15:55:21+00:00",
-    "source": "shattered.io",
-    "title": "Claude Fable 5 Ends 87-Year Math Feud; BTC Reacts [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uNW14aXVBSktmRDZXTXNSck5HX3ZOWmVnMzVBOWdhZGIyT2JlVFFSTTBTeDhQOUZqTW1YTXVGdXBwc0phZlQ2X0NuZVVZZW5lVy1pRHdsbnBKUVZ4M3AwUkdGSndKWTk1M2IzQlhfamFqNkdfenc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 17, 10:35 AM ET",
@@ -93,6 +81,18 @@
     "summary": "HackerNoon is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FTzNFSTU1N0Fkb2pxYV82dDNxSlNEXzNzZ1dxamtZblU4TzZxNzJxamMxR0NsUVVrME5MQjRXQ21LRzJXdklnWktCbVJ5RnI1WjNGZWhMTVZhLWd3N0J5WE9hZDBwQi1LUF9YZFFVX2dJdnhGN1E?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 16, 04:11 PM ET",
+    "publishedAt": "2026-10-16T20:11:20+00:00",
+    "source": "Dark Reading",
+    "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+    "summary": "Dark Reading is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXRGZzIzMlNBLWhUaWtkbjk3RUdBbnl2aXlCbkczcnZ0Ykh5Z2tqcW5ybC1qWGh3eFFyMTlOdktBcTRVbjkyMm4zRDJFWlZLLWZaU281dmpSSkQwQ2FYdUxXYkotOGtaMF9jMnJ3VGFqQmVUdWVnT25pcURmNjhSLTd0Z3JLejBXV01CdmZRbzhkUm5sTmQ4?oc=5",
     "difficulty": "News"
   },
   {
@@ -218,18 +218,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 14, 04:41 AM ET",
-    "publishedAt": "2026-10-14T08:41:00+00:00",
-    "source": "Technology Org",
-    "title": "Google Makes Gemini 4 Argon Generally Available at $2 per Million Tokens",
-    "summary": "Technology Org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb25yU2RFVExOZEg5V3l6RTQteFBVSXhYZE9wUXJDemN3ME90ZjVPc1VLOG9aeEkwNktLTFljeHZfNUFnelA3ZUJNS1o1V2lvaU1SR1VRVkJfRDhZNk5DM1F6dnNkb1ZvSXdGbms1MFVSS3pSR01iNjBNUXFkUUl4bVA1ektFUjZMTnVVRFd4WVFqS2Fx?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Oct 13, 01:15 PM ET",
     "publishedAt": "2026-10-13T17:15:40+00:00",
     "source": "Quartz",
@@ -314,30 +302,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 12, 05:30 AM ET",
-    "publishedAt": "2026-10-12T09:30:00+00:00",
-    "source": "Anthropic",
-    "title": "Strengthening our defenses against distillation attacks",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OcHNZdWYyUWdnYV9lY1lrOGw0MEhIY2dhY0dFbmxXUWd3QjYtanptamV5cEl1TVRXdGhsZnFtRUFUVzlNZXJGNWhnU1g2cDBEMDhEVXVDWUZkZmFPY1BZVEhucjBDY1U?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 11, 11:23 AM ET",
-    "publishedAt": "2026-10-11T15:23:53+00:00",
-    "source": "Towards Data Science",
-    "title": "A Practical Guide to OpenAI's New Decisions API",
-    "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUlHYlVWdWhfQm5Rd2RxakQtZ0o4a3ZfaU5JSTNFeENNTUZlTHlKZUpsTHpYalVkUmFyZG9Fd2dwMGNJWmNSOS1CTmx4dDUteURkMlFxOHk3YVN3YnZ1amFyTWl4b0JpdnVYejBXbkMxaHVVbkp0TXhZNlgwQnl6eXpuQ28?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Oct 08, 03:00 AM ET",
     "publishedAt": "2026-10-08T07:00:00+00:00",
     "source": "GitGuardian Blog",
@@ -345,6 +309,18 @@
     "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYnppRlN6LTJvazFmMVpuRkhabWtxQ05DN1BTcmhMYnlSZ1A4aXZ6d1o3RkdkcnJyRm12OWpLaHhyNWo0NFlQUUNMMVhDQUxIRnBpTDdVRTFIWGM4VGYtOFM0Mkp3X3E0QUU4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 30, 03:00 AM ET",
+    "publishedAt": "2026-09-30T07:00:00+00:00",
+    "source": "TechCrunch",
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2FtdGtxQTNoRnBrUWhFS3J4ZnExeThrRDhVbldnRVpQcTRjMldvb2ZFNkJ5R2tVOHRfT0pteDhvbkFTYmpOYVR4SVNhSUltLXl2anl6TWhFZjZyRGdmUmNPMnk4NnBySFhlN2RrU2dYWThSbFFJc3dRaVc5dDJLWkdsX0NQSmwtNURrdlhfOVFtcFhPZ1NWcXJERFp1bUJ4YmxLRjBzVUU?oc=5",
     "difficulty": "News"
   },
   {
@@ -369,6 +345,30 @@
     "summary": "CIO Dive is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 22, 03:00 AM ET",
+    "publishedAt": "2026-09-22T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Opus 5.5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 15, 03:00 AM ET",
+    "publishedAt": "2026-09-15T07:00:00+00:00",
+    "source": "blog.google",
+    "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
     "difficulty": "News"
   }
 ]
