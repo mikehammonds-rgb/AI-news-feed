@@ -1,26 +1,86 @@
 [
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 18, 09:40 PM ET",
-    "publishedAt": "2026-10-19T01:40:26+00:00",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 19, 05:56 AM ET",
+    "publishedAt": "2026-10-19T09:56:03+00:00",
     "source": "shattered.io",
-    "title": "Cursor vs GitHub Copilot Benchmark: 12-Step Tutorial",
+    "title": "Gemini 4 Argon Hits AI Mode in 19 Countries [2026]",
     "summary": "shattered.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NZjA2WmNnZTdYLUpuTzVOenhiSGVpZDE2TGZPZFRRZXYxTV9zMmp4bFEtZTVjNGZIc2Ftd2g2SFBaalZ3NUozQV91NmJFeGtKYmI2Uk0yd2ZRTGI0RUttMzFaMHQ1QlVmdW9rNUdR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42OGtWanVVeGZwaS1iaFk3a0pJaE1TWENOa1ROY0xfcTRuc2hTMDlEZzRIMFZnaFZwMW9VdFczRU5BTHFYbVBXVFphV1ItX3FCTHNxakR2NVpZOWxFQTlGQm03eWJXZXNPbHAwYWhvdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 19, 04:32 AM ET",
+    "publishedAt": "2026-10-19T08:32:47+00:00",
+    "source": "36Kr",
+    "title": "3 New OpenAI Models Briefly Launched Online Late at Night",
+    "summary": "36Kr is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qZjQxbDVreDItWTdENHpLRUZnOU4ycjNjbVMwTlBIZXZpNlduRkl5M2FzZG03QUE4Sl9PdnlKU3dSazAydFRWMmM4Vzc3aHhudlJF?oc=5",
     "difficulty": "News"
   },
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 18, 09:38 PM ET",
-    "publishedAt": "2026-10-19T01:38:42+00:00",
-    "source": "XenoSpectrum",
-    "title": "OpenCode Console Breach Affects 1.4% of Users, May Have Exposed OpenAI and Claude API Keys",
-    "summary": "XenoSpectrum is reporting this update. Open the article for the full story.",
+    "time": "Oct 19, 03:55 AM ET",
+    "publishedAt": "2026-10-19T07:55:59+00:00",
+    "source": "Rescana",
+    "title": "OpenCode Console Breach Exposes OpenAI, Anthropic, and Google API Keys in Credential Theft and Distillation Attack (October 2026)",
+    "summary": "Rescana is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85Mm4wMjY3NmlaMFFESUYzZWRyQkZtS09udzJ4ZFNuOU9rV3RHREh5RHpNYlZFbEtSYU9jUFp1RDRPVy10aUw3YVBCVFc3dGJ3UFZMYnQ5OFRhMDctUGtudGRZb2RVTjJIZlQtS1R6ekl6SEZrLWZCdDdJTQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeXpxTjhnbllMYVhnUE5BX19XbHlqaGRMYlBLUzNMTEstbDNCeFhRSjJiaTVqbzFXcjV2YTY3WmFTbmFjZlN1QzVZc2FLbHNhZk9NbHRUS0ZkZFVXT19zUTRuZ3E1ZXdEREVvN2dzQ0dSc1R5ZTVmb0lTOXlvYjh5aUVwOHM1M09mMDVVR1FHOVdZV0dzRElHbEdoSDFSSzc5VFdGaG1OOVBmY2F6Wmo2Rm5VWmI2M0pCNGUxcm9QR2VHeUctOURaMlpVMXRZSzNoazAycDBXT3VpeGljYUpkR3lOaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 19, 02:07 AM ET",
+    "publishedAt": "2026-10-19T06:07:00+00:00",
+    "source": "The Hacker News",
+    "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DSHd3eWxKVUpRZVpodjBWSENuSVRUMUpEQnQxNFJvN0JaT0JkQndMamRlRVk5QUtvaDJ5M2hldzh2bkhOVWlGa3VHcXlheHg3d3UxamFSbDNDd2o0a1FpbXB1UWpva3VUSE1xTkhYUGtrbFQ4d19hSVpyRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 18, 10:48 PM ET",
+    "publishedAt": "2026-10-19T02:48:56+00:00",
+    "source": "MIXED Reality News",
+    "title": "OpenAI's own page still calls GPT-4o its flagship, and it leaves the API on January 14",
+    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYy05dWM3a2lCSEpaVl9kS3hYenhLN0pLQXV1amtDeldISk01cUxMSlh4MVRTZDQ3cklsZUtVWnFIVlpmVzZWcnZFV256eVFWZ00yNlllTHpZWXR4QWh4NWFaZU16bmxQVDk1NE9kMjNUOENEekhscVhJWDFGdG11V2lhM3NEUWZ2WGVLWTNIVTV1UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 18, 10:10 PM ET",
+    "publishedAt": "2026-10-19T02:10:26+00:00",
+    "source": "shattered.io",
+    "title": "GitHub Copilot Retires 6 Models, Shifts to GPT-5.6 [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvOWhrckpiRzFLYW10NXB5MUV2bTdDZU9DTHRsQ0lqNXdGUnQxUnI4QmJ1RnVUVlBfUGxiRUdHdHFDczA5MklIeDl4Q3QxVktvV0hKUWxDZGVpeWlzaUFHUm1zX3pqVHFWcnFTQ1ByZVRJdDhC?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 18, 09:40 PM ET",
+    "publishedAt": "2026-10-19T01:40:26+00:00",
+    "source": "shattered.io",
+    "title": "Benchmark Cursor vs GitHub Copilot: 12 Steps, 90 Min [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NZjA2WmNnZTdYLUpuTzVOenhiSGVpZDE2TGZPZFRRZXYxTV9zMmp4bFEtZTVjNGZIc2Ftd2g2SFBaalZ3NUozQV91NmJFeGtKYmI2Uk0yd2ZRTGI0RUttMzFaMHQ1QlVmdW9rNUdR?oc=5",
     "difficulty": "News"
   },
   {
@@ -36,30 +96,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 18, 07:17 PM ET",
-    "publishedAt": "2026-10-18T23:17:39+00:00",
-    "source": "shattered.io",
-    "title": "GitHub Copilot Retires 6 Models, Shifts to GPT-5.6 [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvOWhrckpiRzFLYW10NXB5MUV2bTdDZU9DTHRsQ0lqNXdGUnQxUnI4QmJ1RnVUVlBfUGxiRUdHdHFDczA5MklIeDl4Q3QxVktvV0hKUWxDZGVpeWlzaUFHUm1zX3pqVHFWcnFTQ1ByZVRJdDhC?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 18, 02:07 PM ET",
-    "publishedAt": "2026-10-18T18:07:51+00:00",
-    "source": "TestingCatalog AI News",
-    "title": "OpenAI testing new \"Aurora\" GPT-Image model on Arena",
-    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0WkZOSmJtRjRoLV9GZzFyRlloNFB3WVZlOVp4bmNZVVExSW9XNG5saTdTUGN6cnlaYjBkR0M0ZTFTUDNxS01zZXdYclVFSV93RmcwZ3Z4T2dQc1RJeC01WmVMSk1pYko1SDZieXRuVnlwcVhRZ2c?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 18, 01:40 PM ET",
@@ -69,18 +105,6 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90OUI3ZmVaTHE1NUR0d0hPb0J1dksyUTdrWEFIZUFRN1U1ZEdXZXBKNTJnU3k3bTdfY2JDaklXUmZDSFd2NjdGOUFVTlNEVVhpQk1wWHF2RjZENGZVT2MzVkE3c0JDTHFoZktiSjdxd2ZFakdGU1NadA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 18, 01:28 PM ET",
-    "publishedAt": "2026-10-18T17:28:52+00:00",
-    "source": "Pasquale Pillitteri",
-    "title": "OpenAI leak, three aurora alpha models show up in the API without an announcement",
-    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVFheXNpLXRUZFFuU0YzR3JsWDd4MzZ5dzRmYXN6Qmg0WHBKVmhhM2w2dHhiU0NHXzQ3UE4xbGJmamtQNW91bUdQRDFsX2VfeTN2amx0ektESHNGcTdWUUJkTkhnUVQ4ZXZCdDdObU1yN0tJTXBOdXBIXzJDNWtMSkM5Mkp3amhoRWdkQTZB?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 17, 10:35 AM ET",
-    "publishedAt": "2026-10-17T14:35:48+00:00",
-    "source": "HackerNoon",
-    "title": "170 Blog Posts To Learn About Github Copilot",
-    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FTzNFSTU1N0Fkb2pxYV82dDNxSlNEXzNzZ1dxamtZblU4TzZxNzJxamMxR0NsUVVrME5MQjRXQ21LRzJXdklnWktCbVJ5RnI1WjNGZWhMTVZhLWd3N0J5WE9hZDBwQi1LUF9YZFFVX2dJdnhGN1E?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 16, 06:12 AM ET",
@@ -141,18 +153,6 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhUTZaS3RGN1dLTmJ4THZreUdYWXdPUkZBRjEzSTI1RG1zYXJjLS05Rm9LM0hpeUFIdU9ITHluSTl0VkxxbzlubTctX21BRjVDaXdfekNqaEpMby10Z0ZLSHZROUxKMlEzYkRxNkViTF8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 15, 03:00 PM ET",
-    "publishedAt": "2026-10-15T19:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -177,6 +177,18 @@
     "summary": "SECURITY.COM is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91N1JuQkJGTkVOQVVUYzJtbUhnYjJjNUlRMG5OSThQaEhOM3JNeWViS3BtbkxBQ3hsazVSWlJXbS1NY1lYQmxXU0p0VVhHcF9YREZRNFRhbEFuWEthWndLTTNVNmllZmNhUS1ZUHdrdEpVRHFTYzVHTUE3R1hTWFk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 14, 07:00 PM ET",
+    "publishedAt": "2026-10-14T23:00:28+00:00",
+    "source": "The New Stack",
+    "title": "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race.",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWNVVYdFVjSlNnZUd1SkhrMk5XQzJ2ajhWLTFGbm5Wbk9HalI2R3BMYjRFQlRITnc0LWxKMWJTeXZod0t6OFBsd1kySWxmaEUzdkRwWFNGd2ZJOHJ3aF9UXw?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,18 +225,6 @@
     "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNURXaXYyZE1uTmQxTWRyY0hmYmlaT1lLZS11akFpRjJTN0FkazRQd0d5cWVBUEI5R1Y2bnVicjBiOWk4YXQta01rbGJ4NjJXeVlCVmllLVFwc0txUUd5R0lmbEhkSklvLVoxM1VUVllvdXdCQlo4X285N2dvVzhsZWo0ZTlwUl9EZW5IMlgyaw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 14, 04:41 AM ET",
-    "publishedAt": "2026-10-14T08:41:00+00:00",
-    "source": "Technology Org",
-    "title": "Google Makes Gemini 4 Argon Generally Available at $2 per Million Tokens",
-    "summary": "Technology Org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb25yU2RFVExOZEg5V3l6RTQteFBVSXhYZE9wUXJDemN3ME90ZjVPc1VLOG9aeEkwNktLTFljeHZfNUFnelA3ZUJNS1o1V2lvaU1SR1VRVkJfRDhZNk5DM1F6dnNkb1ZvSXdGbms1MFVSS3pSR01iNjBNUXFkUUl4bVA1ektFUjZMTnVVRFd4WVFqS2Fx?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 12, 01:52 PM ET",
-    "publishedAt": "2026-10-12T17:52:22+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan | Amazon Web Services",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSndHTHhtTDJJM0s0bURxQVE3cW93WnFkRW9DWDhIMFNKSmFwVTUwSHk0VjZWYjA5bExXekVDcV9OUnJRZUxFWFZBU1hxT1RBQTBxeXppTUFqZjFBbDlRakp1bThUNTNDUHkwNXJFM09uOGNqcXFGUEdiNkV1T3Nqb2tQVVdvZmRXZFVVZFZOdFJ2anBza0tXOGhDTGFZNDFoc1FCSWtrS3lscWJsTGM0UTFCU29mOEdMQ3ZkazI1aHgyWUd2alRYYkt6djJLT3E4eFFWWXFzU2NkXzVUMy02bWtFMDdCYklkLW9kMXIzWTBlaWxwaFRVR2FKSkZLTklXNzlmUm1BVWpOZzA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 08, 03:00 AM ET",
@@ -309,6 +297,30 @@
     "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYnppRlN6LTJvazFmMVpuRkhabWtxQ05DN1BTcmhMYnlSZ1A4aXZ6d1o3RkdkcnJyRm12OWpLaHhyNWo0NFlQUUNMMVhDQUxIRnBpTDdVRTFIWGM4VGYtOFM0Mkp3X3E0QUU4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 03:00 AM ET",
+    "publishedAt": "2026-10-07T07:00:00+00:00",
+    "source": "VentureBeat",
+    "title": "Anthropic launches Claude Haiku 5.5 with 90% API price reduction, matching GPT-6 Luna",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTFMTVFQOTJ2SmdCSGdjR2Z4Q2ZYMF9ncldZM3NUNTlEWUVOUERVUVVpdHdfQno4c3F3aWJ1WnIybnpYNGxnMmk5d3FCaUlkdkhCeHpPMENmRG81MEpBcGx5Y1kxY25GY3oxb3gzNGk1bDdOS0JwMkxFZ1hkUFI2M21GMWowTzc4VVJaLUNaajc5MGJrMTdtcXNJem93Q2lpSGFvYXJCbEFwN2hMTnY4bzcxdEswa29DWFE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 03:00 AM ET",
+    "publishedAt": "2026-09-29T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "DevDay 2026 Recap",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
     "difficulty": "News"
   },
   {
@@ -333,6 +345,18 @@
     "summary": "CIO Dive is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 25, 03:00 AM ET",
+    "publishedAt": "2026-09-25T07:00:00+00:00",
+    "source": "The Official Microsoft Blog",
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
     "difficulty": "News"
   },
   {
