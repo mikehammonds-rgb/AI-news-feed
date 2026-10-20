@@ -1,5 +1,41 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 20, 10:41 AM ET",
+    "publishedAt": "2026-10-20T14:41:10+00:00",
+    "source": "shattered.io",
+    "title": "Claude vs ChatGPT vs Gemini: Price Gap Hits 20x [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aM0NfWWpkX3o0eWlQV1BPVU1lZk9zLWN6eUJ6dHRhZDNobWdnVzlkcGM4RGh3ajNYMUF5Wld3TnJxYXJnbEEzd1FuektKUkJtVWlKQnVod0F0MnVGcXh6ZVA5Z1VVNkwtVzgtVTdtNWhqdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 20, 10:22 AM ET",
+    "publishedAt": "2026-10-20T14:22:41+00:00",
+    "source": "Sportskeeda Tech",
+    "title": "Is ChatGPT down right now (October 20, 2026)? Outage status explored",
+    "summary": "Sportskeeda Tech is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXp0TW9USkVCSExGcy1IakJ5VWc3czlKdW85MndoNlRNeWFQMTZlUEZ6SUdVQjhBVjByY0RzejNwbjNVaWhGcjBFbE5KS0FrdWEzY3pscjVCOWxJMEpWTUJRS2o4SWtsMVdidDhQeU5IWjlJOW9RT0JZUUJ2Ym5rUFp0MGpManRxb1B1al90T09zTldpOEJZLUZraER4dF9JTjl3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 20, 09:00 AM ET",
+    "publishedAt": "2026-10-20T13:00:00+00:00",
+    "source": "Business Wire",
+    "title": "Reveal Adds Claude Connector to Onna, Giving Legal Teams a Way to Collect and Search Employees’ AI Conversations",
+    "summary": "Business Wire is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQT3JRMWtZSUo0eVRwc3k0SHo4LUk2a2hpZlFFUVFUVjRtYTR2MlRqckQ3S2xQb0JjWlZzSzU1QXZBODlRNDk1a1dSb2g0RlJGSmRfYUNSdGJyREVqNWJLWmQtalBsbXJDd1l0RUtKNjRSdXF4UmZveFp1dU1pQ0hwRElnRTJIRC0xamp1SU5WU2N5c2cwdENBLUd2bF9ZckhLb3o2U3M0UkVrTWUwZE55YnJGT2Nka0dlcjAwVHVoQjh3MEQwR2VWZHpEaV9uZzFMdktaZ2xWcW5TN1hZUUVSNElHX2FnWDFMeWJYTFFWTDRUTTR4OEN1aENQWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 20, 12:54 AM ET",
@@ -29,7 +65,7 @@
     "time": "Oct 19, 07:32 PM ET",
     "publishedAt": "2026-10-19T23:32:19+00:00",
     "source": "Amazon Web Services (AWS)",
-    "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+    "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock | Artificial Intelligence",
     "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGtQZ3VDNTRrRVNBTDA4ak5mUlBKUG1kdWpwWDJxQUx2UWxFMGw3Sk85MllYN1gyTENSZEcxa0RwZ2RXLTk5WlE0ejZPZWU0UzI5RVRmUnlLdXgwcjZBUUhEUnI5enprM2NPZVlhbXl6ZUhTVU4wZEpwMjc0SHlQME54Ri1NMk40UmF5bDBReHdEV0V6OWxXVnJVSl9nUkpsTGFQejBtU2tFeEliQXpvZw?oc=5",
@@ -105,30 +141,6 @@
     "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uZTJkalB3aTJDdmZFOFhaOHJDZG43YTdOOGRoQkZGeEgyTVp1ak5QcDNvbXN2aXZUWWJLZE5VeXo3d0dXc0NuMGw2bFJfd2hPTUktZnVXcHM1ZnBIWW5RX2F2NGZKbS13UnFmTm5vSEd2dw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 19, 11:03 AM ET",
-    "publishedAt": "2026-10-19T15:03:10+00:00",
-    "source": "GitGuardian Blog",
-    "title": "Leaked API Keys in LLMs: How AI Agents Expose Secrets",
-    "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mSV9FazQ4bG5obmdvWmtLdEpTczRocjYyblVlRXFnT05GaWs5dURZMkFCYVc4eVU3OWZhX0ZuOU0zazR0ZUNFSDRBb29QVV8wWHZXTXVMOFF4SDdHemc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 19, 10:48 AM ET",
-    "publishedAt": "2026-10-19T14:48:56+00:00",
-    "source": "MIXED Reality News",
-    "title": "OpenAI gives US university labs 30 free seats, and gates GPT-Rosalind on top",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1hjZTFNYTJERkFtbDFSU0NHVHg1QUFxXzk2ekdodW5HNFhmM2ktTDhRNzM4c1hvd2NkeEJXSHJRcTdDMmljSzJEM1U5MUdmRGNKQzJQbTNXNi1CeVZGR09sTDJ3Q2RxeThNLVRrc3N5ZEx0ZmFoTzNfV3dKVzRUNXdReVJfLWRiMkJ4WjBZdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -252,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 17, 03:00 AM ET",
-    "publishedAt": "2026-10-17T07:00:00+00:00",
-    "source": "shattered.io",
-    "title": "Claude Opus 5.5: Free Plan Excluded, Pro Gets It [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KVzFFeHpwWHI4NkljdnA1OEI0VmZCZUFPZnVxR2loVk5SdDUzTWx2YzlPZ1YzNzROLWEtYkwxZUxuemgtcG5Tc3ktU05WWFlkTXRUU205TW1vX2hTU0xwSnJtbDI5SHNFVnBfWUFn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 16, 03:25 PM ET",
@@ -326,18 +326,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 13, 01:15 PM ET",
-    "publishedAt": "2026-10-13T17:15:40+00:00",
-    "source": "Quartz",
-    "title": "Google is releasing Gemini 4 Argon to developers and paying subscribers",
-    "summary": "Quartz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTJYVVNQTkVvRExCcU0zdGplVnpUYWw5V2MxVDhhTFI0N1U0ZFNEc1RrclFrTVQyUlFkRkV2UE5zSER5Um82dUFTcHRvVHFmcnZjZjhqcTd6MEdjMV80aXc5T2VPU2tCR3AtUXZweGZSelFmU3pGRFpBY01vc3VmXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Oct 13, 12:20 PM ET",
     "publishedAt": "2026-10-13T16:20:57+00:00",
     "source": "blog.google",
@@ -357,6 +345,18 @@
     "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYnppRlN6LTJvazFmMVpuRkhabWtxQ05DN1BTcmhMYnlSZ1A4aXZ6d1o3RkdkcnJyRm12OWpLaHhyNWo0NFlQUUNMMVhDQUxIRnBpTDdVRTFIWGM4VGYtOFM0Mkp3X3E0QUU4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 03, 03:00 AM ET",
+    "publishedAt": "2026-10-03T07:00:00+00:00",
+    "source": "9to5Google",
+    "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+    "summary": "9to5Google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04R1J3UHRCTHp2S0FSeTd6YUllLS1TYVZvMDFSeVZraUFnZDJxdjk5Rm9Pd3o0Zlk3NEp2WkhOSXQ1aTVTdGJRb2NXaktIRlM1YmVqeHprdWVobkpPTXBiVkVzRFloWC1DamlXbmZB?oc=5",
     "difficulty": "News"
   },
   {
