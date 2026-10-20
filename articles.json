@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 20, 12:38 PM ET",
+    "publishedAt": "2026-10-20T16:38:37+00:00",
+    "source": "OpenTools",
+    "title": "Amazon Bedrock adds schema-enforced outputs for Claude across both API surfaces",
+    "summary": "OpenTools is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVXRITFJYeU11STZCcEY1MVZCLWVLc3ZiNFN1YnBIMExwZXRYRzhrUElXWUh6ekEtRXN2RmUzOTZHTXdIVFJKZWVxT09haTg0em82dXdtXzhEczctampJMDhtcHR3N3lXYkV1TWZXZ3NhZHJ3emNVeEVJb1NlTWtoa3dWbDNUN3Z2WkE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 20, 10:41 AM ET",
@@ -33,6 +45,18 @@
     "summary": "Business Wire is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQT3JRMWtZSUo0eVRwc3k0SHo4LUk2a2hpZlFFUVFUVjRtYTR2MlRqckQ3S2xQb0JjWlZzSzU1QXZBODlRNDk1a1dSb2g0RlJGSmRfYUNSdGJyREVqNWJLWmQtalBsbXJDd1l0RUtKNjRSdXF4UmZveFp1dU1pQ0hwRElnRTJIRC0xamp1SU5WU2N5c2cwdENBLUd2bF9ZckhLb3o2U3M0UkVrTWUwZE55YnJGT2Nka0dlcjAwVHVoQjh3MEQwR2VWZHpEaV9uZzFMdktaZ2xWcW5TN1hZUUVSNElHX2FnWDFMeWJYTFFWTDRUTTR4OEN1aENQWQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 20, 08:00 AM ET",
+    "publishedAt": "2026-10-20T12:00:00+00:00",
+    "source": "Quasa.io",
+    "title": "GPT-Rosalind: Free Seats for Approved US Labs, No API Credits",
+    "summary": "Quasa.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkltM2pFclhoaF9STTNmeG8xcllkUXZXNk9Wd0Nxb0pLalNyZHdEcF9teTZENEJGOFp6cU40dFZZYVVaczRMUVp2Sy1JbE9Fb240OTVvUmFtV2ZtQmd2TnFQZUxPZGhuZmpwUkNRS2gzd3o0eVVrZWRQQlBmb0drMVlkd29pTGlKdG82OElUZW5lQWtvWmNLQm5NRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -72,42 +96,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 19, 06:46 PM ET",
-    "publishedAt": "2026-10-19T22:46:07+00:00",
-    "source": "shattered.io",
-    "title": "Cursor Origin vs GitHub: AI Code Hosting Launch [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yNGlXeHQ2NV9mMmxmOVdPSGtJLXpoQ0xpaHRKU1hraTNkamlOT1FPdDQ4MTMzNVVOcTl1TDJVQUlfSEVTS2lMWEVvOFFqYldhRllQcVBjaEZwZ1Nkb0ZwV0JmUFE4Z25RWklTVDd3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 19, 06:41 PM ET",
-    "publishedAt": "2026-10-19T22:41:13+00:00",
-    "source": "eSecurity Planet",
-    "title": "OpenCode Breach Exposes AI API Keys, Putting OpenAI and Anthropic Users at Risk",
-    "summary": "eSecurity Planet is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWE1MMVl5eXNkdWZIY1I0cGotWGstV2JJNmdNM2gxWGpjbElhMnplRTF4UlkxcW5IRGg0d0lKeURINm5IRzlLcS1NMXdvSWJJZklDZW5qcFQwbVVDU3F5NzhPVUVKdUtjb0ZVcUZMQUhTb2gwUXhuWEhzT3k0Qi1yQTNxYzhPMW1nNXVnUzFQVnJQalk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 19, 05:08 PM ET",
-    "publishedAt": "2026-10-19T21:08:50+00:00",
-    "source": "Snowflake",
-    "title": "AI Observability APIs: Boost AI Agent Accuracy",
-    "summary": "Snowflake is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGllVUsxWGlNMldETVdzMFdnMTFSWnlWb2w1QnpSTy0wX2VtcFhGOHVJUzk0T1l5T1NHd2lZYjE0QzFCSXJZOXVqTWlhVFk0Y3p3blJ0LUp3VFY4bENDSlhhVUtibmdkalFHY3d4SkhPeWtMbDFFcWxKbDdEZ1M5cFNkZWQzUFJ6Z0JfSG9fVm5YajBKRTdCaA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 19, 02:36 PM ET",
@@ -117,18 +105,6 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xRXF6bnN2MFFWRFQwTzYtNUhMMTk4MkVONnE1TWVIelhkd2FwME9QYnZxbTNGVnNPRm1hWnQzNGQ1c3puVkd6LS1MTWV4TURUYkg1Z2RRdzFPWC05dTNQQnB3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 19, 02:33 PM ET",
-    "publishedAt": "2026-10-19T18:33:57+00:00",
-    "source": "MIXED Reality News",
-    "title": "Claude Code stops prompt suggestions spending your credits, and stable has neither fix",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRTYtWkFweV9VMFBYR1dYX0dxNXZ0b1pPSmM5MWRLdUxReUt5cEIxZ2xyWnFYRTJTb0NlZUhHcnRvU1B0UE9WU1hXMWFlODBSWDBBM0RuYmtBaGRXMDlnV2V6TnBxcEZZWlUxeEZtMVhNREpIQTJIZkhuaG5qdzVicEk1QXZkNkFLRlV1LWhKTzNQbE9xa1RUeEhR?oc=5",
     "difficulty": "News"
   },
   {
@@ -264,6 +240,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 17, 10:35 AM ET",
+    "publishedAt": "2026-10-17T14:35:48+00:00",
+    "source": "HackerNoon",
+    "title": "170 Blog Posts To Learn About Github Copilot",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FTzNFSTU1N0Fkb2pxYV82dDNxSlNEXzNzZ1dxamtZblU4TzZxNzJxamMxR0NsUVVrME5MQjRXQ21LRzJXdklnWktCbVJ5RnI1WjNGZWhMTVZhLWd3N0J5WE9hZDBwQi1LUF9YZFFVX2dJdnhGN1E?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 16, 03:25 PM ET",
@@ -285,18 +273,6 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhUTZaS3RGN1dLTmJ4THZreUdYWXdPUkZBRjEzSTI1RG1zYXJjLS05Rm9LM0hpeUFIdU9ITHluSTl0VkxxbzlubTctX21BRjVDaXdfekNqaEpMby10Z0ZLSHZROUxKMlEzYkRxNkViTF8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 15, 03:00 PM ET",
-    "publishedAt": "2026-10-15T19:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Advancing voice intelligence with new models in the API",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGJVRVo5Ni1zU3NxcmI2T3dvdURCa3NZQTRpM2pOVVEzWlFmVVl6S1lNUVRsZEYxeDBFSGVRdklzamhtakNCZV9kNDJhLXBYQ2FIQkFVWXBnbElOTGkxZGJiRDdiR2N3Q1BuMF9pdm5yM2EzR1lxc0pvNTZQWk5ReFV6UjM5eGxMRURFNThBWTg?oc=5",
     "difficulty": "News"
   },
   {
@@ -348,6 +324,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 05, 03:00 AM ET",
+    "publishedAt": "2026-10-05T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Our approach to EU text provenance rules",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBndFg3dkRHQWJpbWRzMU1NVXZucE9POUFlMlNZemhnSlNOYTRNSDhEVFhnS3oxSVVEWFN5TDRjd3ZSTVJpdjFvUGQyc092YnVqX2ZxdEhCSQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 03, 03:00 AM ET",
@@ -381,6 +369,18 @@
     "summary": "CIO Dive is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 22, 03:00 AM ET",
+    "publishedAt": "2026-09-22T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Opus 5.5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
     "difficulty": "News"
   }
 ]
