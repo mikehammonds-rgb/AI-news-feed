@@ -1,5 +1,41 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 19, 07:32 PM ET",
+    "publishedAt": "2026-10-19T23:32:19+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGtQZ3VDNTRrRVNBTDA4ak5mUlBKUG1kdWpwWDJxQUx2UWxFMGw3Sk85MllYN1gyTENSZEcxa0RwZ2RXLTk5WlE0ejZPZWU0UzI5RVRmUnlLdXgwcjZBUUhEUnI5enprM2NPZVlhbXl6ZUhTVU4wZEpwMjc0SHlQME54Ri1NMk40UmF5bDBReHdEV0V6OWxXVnJVSl9nUkpsTGFQejBtU2tFeEliQXpvZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 19, 06:46 PM ET",
+    "publishedAt": "2026-10-19T22:46:07+00:00",
+    "source": "shattered.io",
+    "title": "Cursor Origin vs GitHub: AI Code Hosting Launch [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yNGlXeHQ2NV9mMmxmOVdPSGtJLXpoQ0xpaHRKU1hraTNkamlOT1FPdDQ4MTMzNVVOcTl1TDJVQUlfSEVTS2lMWEVvOFFqYldhRllQcVBjaEZwZ1Nkb0ZwV0JmUFE4Z25RWklTVDd3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 19, 04:45 PM ET",
+    "publishedAt": "2026-10-19T20:45:23+00:00",
+    "source": "eSecurity Planet",
+    "title": "OpenCode Breach Exposes AI API Keys, Putting OpenAI and Anthropic Users at Risk",
+    "summary": "eSecurity Planet is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWE1MMVl5eXNkdWZIY1I0cGotWGstV2JJNmdNM2gxWGpjbElhMnplRTF4UlkxcW5IRGg0d0lKeURINm5IRzlLcS1NMXdvSWJJZklDZW5qcFQwbVVDU3F5NzhPVUVKdUtjb0ZVcUZMQUhTb2gwUXhuWEhzT3k0Qi1yQTNxYzhPMW1nNXVnUzFQVnJQalk?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 19, 03:28 PM ET",
@@ -9,18 +45,6 @@
     "summary": "TechCrunch is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ25zM0g4TlR6X281OWQxV1FzUHliajQweEVkdHFFZlVtYTNqUzdIWHdjanVTS0RUaUd3dVA5UE5ZdHZKRkVnVWxfVzYyRGNtNkpBZXVVR19KOUQ3UFlfUnBNNHBzNmNjdzU0cnlGZk81cU03dUhkTUhacV85QV9zSW41RUtHOUhKQy1HOERnMzM4dk4tZkZ0LWNWcTZILVlZYXpQaGl1T1N0eEpPUm44?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 19, 03:10 PM ET",
-    "publishedAt": "2026-10-19T19:10:45+00:00",
-    "source": "OrcaRouter",
-    "title": "Claude Fable 5.5 Now Has Two Checkpoints and Still No Vendor Page",
-    "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrV0haVkNHRGpaVkt6dS1mWWZWTWsxQUpmWW9BR3dUamhMTWFZTXk5X2hRX294Nl95TlFKRFBObUpWT2JvSFNIMDdsRWt0Um8yMGVIQU1VQ2NjcG5aajlVMzducjJwQTU0aXFwRGhENFFuc0hfdzF5VUFn?oc=5",
     "difficulty": "News"
   },
   {
@@ -132,15 +156,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 19, 08:36 AM ET",
-    "publishedAt": "2026-10-19T12:36:07+00:00",
-    "source": "shattered.io",
-    "title": "Grok 4.7 and the GPT-6 Family: What Changed This Fall",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 19, 08:04 AM ET",
+    "publishedAt": "2026-10-19T12:04:40+00:00",
+    "source": "Google Cloud Press Corner",
+    "title": "Huntington Bank Introduces The 1866 Studio, an AI-Powered Small Business Operating System Built with Google Cloud",
+    "summary": "Google Cloud Press Corner is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVQzV4OHBpR2RvZEhIV05Ndm1OX1FueHhMYXRLdF9RRnRCUEQyeUo1NnlnSXlFSlAtdW9vUWFwRzYxSmozS1dPSEpneDVoMk1GWXd6YUV3OEQzbkNoTldMVTVuckprVHNsOElNNG9WZ1dkMTk0b29DU09JamRjT1U?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeTdTakNKckxJQW5wSW02Mnp6aDE5WXhhVkhxWWdKMTBmRnFBOGdFcDJkX2NuRFA5bV8wU0J1N3B4OE1sLWJBT1M5QmloTUpKeVU4ckNyRFZwTzRsYkZJYzM5ZHM3X0NrcGdBbmtLalBma053cERwQ19ybGxZVU8xWUVsVy1ZcFVvdmJwTXY5RU82VjFFd0RtT3RwOGw1cldUVVhyaDVSdEJRVW1IRnB3YmpBYzBYRk1tR0Z5dVNkaUtmZEkzcDA3YjQyazV1VGljckVrSGtWMUtnbF9UYXRvelpGaWUwLTRVNUhpLWdnZ3RCa193dHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -218,18 +242,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Oct 18, 09:40 PM ET",
-    "publishedAt": "2026-10-19T01:40:26+00:00",
-    "source": "shattered.io",
-    "title": "Cursor vs GitHub Copilot Benchmark: 12-Step Tutorial",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NZjA2WmNnZTdYLUpuTzVOenhiSGVpZDE2TGZPZFRRZXYxTV9zMmp4bFEtZTVjNGZIc2Ftd2g2SFBaalZ3NUozQV91NmJFeGtKYmI2Uk0yd2ZRTGI0RUttMzFaMHQ1QlVmdW9rNUdR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Oct 18, 01:40 PM ET",
     "publishedAt": "2026-10-18T17:40:11+00:00",
     "source": "https://tech-insider.org/",
@@ -261,18 +273,6 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhUTZaS3RGN1dLTmJ4THZreUdYWXdPUkZBRjEzSTI1RG1zYXJjLS05Rm9LM0hpeUFIdU9ITHluSTl0VkxxbzlubTctX21BRjVDaXdfekNqaEpMby10Z0ZLSHZROUxKMlEzYkRxNkViTF8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 15, 03:00 PM ET",
-    "publishedAt": "2026-10-15T19:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -324,18 +324,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 13, 12:02 PM ET",
-    "publishedAt": "2026-10-13T16:02:42+00:00",
-    "source": "Google for Developers Blog",
-    "title": "Gemini 4 Argon for Robotics",
-    "summary": "Google for Developers Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZ2cwR0ROa3N6T1Z5ZXlHdTR3TkdTTE1VcVNFcF9sQnBoM2tTbHNoUFJ5MFRjNWo0djd4a3hIa2gyUzRYay10YWZzblJPSHJmSzhkWkZrYV9VcTN2QWFCUkMtZ0hCSzJkTjFSckk3RQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 08, 03:00 AM ET",
@@ -345,6 +333,18 @@
     "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYnppRlN6LTJvazFmMVpuRkhabWtxQ05DN1BTcmhMYnlSZ1A4aXZ6d1o3RkdkcnJyRm12OWpLaHhyNWo0NFlQUUNMMVhDQUxIRnBpTDdVRTFIWGM4VGYtOFM0Mkp3X3E0QUU4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 03:00 AM ET",
+    "publishedAt": "2026-09-29T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "DevDay 2026 Recap",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
     "difficulty": "News"
   },
   {
