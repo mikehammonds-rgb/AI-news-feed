@@ -2,6 +2,30 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Oct 20, 12:54 AM ET",
+    "publishedAt": "2026-10-20T04:54:07+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "ChatGPT Dots vs Meta Muse vs Claude: $500 Plan Gap [2026]",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0Tk9Dc0tqU0E2WjVsdTYwZ2d0R2l1OXZMVW5jM1JxcE44MEUwSlNiRGxTU0hNMUhiQmY4SEs4SDU4VURSX2FIcHdnaDhFbjhGOEl3VmNmNEg2N0dTTFZOYjhUWE43eTRGVzk0UG51SlVVX2lidDg2aXMxQXk4UQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 20, 12:45 AM ET",
+    "publishedAt": "2026-10-20T04:45:44+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "GitHub Copilot vs Cursor: HydraFusion Max 2026",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xb2htaGVWY0FyaEZodjBINHNUQk5pOXQ3MDFnWnZmZnh1VEtzRUJkd2NjM3JoUElkS3NtOUlHODZxQ1VOMG5yS0d5dnBqWnpDRUo5NERLTjJqc01XRHdPZWc4NmcyeHJIMmM0U0k0ZGxOX2xGX3R4NEVYSDZhQXc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Oct 19, 07:32 PM ET",
     "publishedAt": "2026-10-19T23:32:19+00:00",
     "source": "Amazon Web Services (AWS)",
@@ -26,8 +50,8 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 19, 04:45 PM ET",
-    "publishedAt": "2026-10-19T20:45:23+00:00",
+    "time": "Oct 19, 06:41 PM ET",
+    "publishedAt": "2026-10-19T22:41:13+00:00",
     "source": "eSecurity Planet",
     "title": "OpenCode Breach Exposes AI API Keys, Putting OpenAI and Anthropic Users at Risk",
     "summary": "eSecurity Planet is reporting this update. Open the article for the full story.",
@@ -81,18 +105,6 @@
     "summary": "Towards Data Science is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uZTJkalB3aTJDdmZFOFhaOHJDZG43YTdOOGRoQkZGeEgyTVp1ak5QcDNvbXN2aXZUWWJLZE5VeXo3d0dXc0NuMGw2bFJfd2hPTUktZnVXcHM1ZnBIWW5RX2F2NGZKbS13UnFmTm5vSEd2dw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 19, 12:17 PM ET",
-    "publishedAt": "2026-10-19T16:17:48+00:00",
-    "source": "KDnuggets",
-    "title": "Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows",
-    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLW9KaWpQLURhY2ptbDNnQlZIT0Rfdm5MOWRSOWVrdE4zMVliS09LRmZ1RTJGUmdNR0w1NnQ3bmVfd04tdUI4OVZVUXZmLUJ2THZVdGI0WUJLdDlOOHVmVEd5MTZRZHVtbnNVU0RvNHkxQmhpMW52bkNPT3gyQktubGdiU1N1cy1tVVJqbUpxTkE0TnFEVkFvaVBVWE4xYk0?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,18 +192,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 19, 06:14 AM ET",
-    "publishedAt": "2026-10-19T10:14:53+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Claude Agent SDK Setup: Sonnet 5.5 in 13 Steps [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KZWhranROczB2NjVYQkgyTXRpNFp3UXAzMzg3cTZkT051WDN1ME5RYWRpN29mcDJtdWdqaTJUOEpyU0pKSnh2Tm1hbFMyRlV0TmdkcUJISXpmaWRyUDdyQ3VSaGpZYW5HSG1iYkdfZ3BYdw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 19, 05:56 AM ET",
@@ -201,6 +201,18 @@
     "summary": "shattered.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42OGtWanVVeGZwaS1iaFk3a0pJaE1TWENOa1ROY0xfcTRuc2hTMDlEZzRIMFZnaFZwMW9VdFczRU5BTHFYbVBXVFphV1ItX3FCTHNxakR2NVpZOWxFQTlGQm03eWJXZXNPbHAwYWhvdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 19, 05:41 AM ET",
+    "publishedAt": "2026-10-19T09:41:57+00:00",
+    "source": "AI Magazine",
+    "title": "Anthropic: Claude, Enterprise AI Agents and $965bn Valuation",
+    "summary": "AI Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX094N1RhQldFWjZOUkwzUGVGUUVNNDlobGlRLTZGMUxvVXB0WGJXUjE2Zl8tRGt1b2hwZDNaWkcxTEFCU2QwNUpPdmJzaGhjMUp0WkFwdUctVkI2cklEWF9zNmNkS1ppaXZKck9CX0ZqT0hnVkJvajhHUmc3UGZYcE0wenBxaU9PYmk5TVFB?oc=5",
     "difficulty": "News"
   },
   {
@@ -225,30 +237,6 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DSHd3eWxKVUpRZVpodjBWSENuSVRUMUpEQnQxNFJvN0JaT0JkQndMamRlRVk5QUtvaDJ5M2hldzh2bkhOVWlGa3VHcXlheHg3d3UxamFSbDNDd2o0a1FpbXB1UWpva3VUSE1xTkhYUGtrbFQ4d19hSVpyRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 18, 10:10 PM ET",
-    "publishedAt": "2026-10-19T02:10:26+00:00",
-    "source": "shattered.io",
-    "title": "GitHub Copilot Retires 6 Models, Shifts to GPT-5.6 [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvOWhrckpiRzFLYW10NXB5MUV2bTdDZU9DTHRsQ0lqNXdGUnQxUnI4QmJ1RnVUVlBfUGxiRUdHdHFDczA5MklIeDl4Q3QxVktvV0hKUWxDZGVpeWlzaUFHUm1zX3pqVHFWcnFTQ1ByZVRJdDhC?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 18, 01:40 PM ET",
-    "publishedAt": "2026-10-18T17:40:11+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Cursor AI Agents Now Merge 56% of All PRs [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90OUI3ZmVaTHE1NUR0d0hPb0J1dksyUTdrWEFIZUFRN1U1ZEdXZXBKNTJnU3k3bTdfY2JDaklXUmZDSFd2NjdGOUFVTlNEVVhpQk1wWHF2RjZENGZVT2MzVkE3c0JDTHFoZktiSjdxd2ZFakdGU1NadA?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,18 +276,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 15, 06:13 AM ET",
-    "publishedAt": "2026-10-15T10:13:03+00:00",
-    "source": "SECURITY.COM",
-    "title": "Aoki: Infostealer Targets AI Coding Assistant Credentials",
-    "summary": "SECURITY.COM is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91N1JuQkJGTkVOQVVUYzJtbUhnYjJjNUlRMG5OSThQaEhOM3JNeWViS3BtbkxBQ3hsazVSWlJXbS1NY1lYQmxXU0p0VVhHcF9YREZRNFRhbEFuWEthWndLTTNVNmllZmNhUS1ZUHdrdEpVRHFTYzVHTUE3R1hTWFk?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 13, 01:15 PM ET",
@@ -321,6 +297,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2stSFI2WG51bU8wRy12dnNnMHpUZG93VTBLVmhiY01LSUhlSzJpUTZfSkRHc0hjd3A1UTgwSUUwbWptblFUT3hzSzdhLUczOEJIeFRsREtLOGdySlRiZnNmVXVmckZaU2hneFJNem56el9xa19ReWhzQmJWRXlsQ1gzcXpuQktuM1RUMVl4U21CRENLQ1Vr?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 13, 12:02 PM ET",
+    "publishedAt": "2026-10-13T16:02:42+00:00",
+    "source": "Google for Developers Blog",
+    "title": "Gemini 4 Argon for Robotics",
+    "summary": "Google for Developers Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZ2cwR0ROa3N6T1Z5ZXlHdTR3TkdTTE1VcVNFcF9sQnBoM2tTbHNoUFJ5MFRjNWo0djd4a3hIa2gyUzRYay10YWZzblJPSHJmSzhkWkZrYV9VcTN2QWFCUkMtZ0hCSzJkTjFSckk3RQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -372,15 +360,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Sep 15, 03:00 AM ET",
-    "publishedAt": "2026-09-15T07:00:00+00:00",
-    "source": "blog.google",
-    "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Sep 25, 03:00 AM ET",
+    "publishedAt": "2026-09-25T07:00:00+00:00",
+    "source": "The Official Microsoft Blog",
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
     "difficulty": "News"
   }
 ]
