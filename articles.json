@@ -2,6 +2,30 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Oct 21, 09:53 AM ET",
+    "publishedAt": "2026-10-21T13:53:58+00:00",
+    "source": "MIXED Reality News",
+    "title": "Claude API resellers can now get one customer banned instead of their whole account",
+    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXZ6UC04clRxb0hVcFZBamh3dURDUVdlc2F2NjM3YzhRTUF5cXdGd2lZUThOb1Nxa0M1MzN0V2lDOUxoX3dKbURKbVl2Wmh3LXhmcXZXaHZyUzdlUlB5ejhUdnBqZDNJckxiSldqT09PbkhJZ3lVY0VKLVpmdjhOT2lMcTBRb2U2MnByUGxJdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 21, 08:59 AM ET",
+    "publishedAt": "2026-10-21T12:59:48+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "LLM Leaderboard 2026: Opus 5.5 vs GPT-6.1 vs Gemini 4",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFdic28wd2pOQk9aTzVHZVBWR0E4WDBLWVJRR01fZ18yYVJpR2p2NXdQMVlJTmRkNGN6ZGV6eHA4ekNwbVdYZ3VXVDdFczg0STNtM1V5SzJXRnlrV2l3UG9EakxldUdIelRMS0UtWVROeFlsMU1vTHg1bWlPVGhodUJuWTZhVmpCeVA0UkFBN1RBQlU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Oct 21, 06:00 AM ET",
     "publishedAt": "2026-10-21T10:00:20+00:00",
     "source": "XDA",
@@ -254,30 +278,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 15, 10:39 AM ET",
-    "publishedAt": "2026-10-15T14:39:07+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Gemini 4 Argon Coding Agents Hit Android Studio [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XeVFTcGVoSWVkZnk1Q3RmemlUYnltdFU4LVpjbkJLTzNZWW9STF9EcjY3NG00RTlLeVQ2bHNYZ3NxMHRScEhwaXNpTHpmMjNOUFp5NXh2a1pQSkR2d3FRVVczQTY0bkdnc2RocURzdEhSTlBXc2JET2VHR0F1d3M?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 15, 03:24 AM ET",
-    "publishedAt": "2026-10-15T07:24:23+00:00",
-    "source": "Technology Org",
-    "title": "Google Makes Gemini 4 Argon Generally Available at $2 per Million Tokens",
-    "summary": "Technology Org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb25yU2RFVExOZEg5V3l6RTQteFBVSXhYZE9wUXJDemN3ME90ZjVPc1VLOG9aeEkwNktLTFljeHZfNUFnelA3ZUJNS1o1V2lvaU1SR1VRVkJfRDhZNk5DM1F6dnNkb1ZvSXdGbms1MFVSS3pSR01iNjBNUXFkUUl4bVA1ektFUjZMTnVVRFd4WVFqS2Fx?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Oct 13, 03:00 AM ET",
     "publishedAt": "2026-10-13T07:00:00+00:00",
     "source": "blog.google",
@@ -285,6 +285,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2stSFI2WG51bU8wRy12dnNnMHpUZG93VTBLVmhiY01LSUhlSzJpUTZfSkRHc0hjd3A1UTgwSUUwbWptblFUT3hzSzdhLUczOEJIeFRsREtLOGdySlRiZnNmVXVmckZaU2hneFJNem56el9xa19ReWhzQmJWRXlsQ1gzcXpuQktuM1RUMVl4U21CRENLQ1Vr?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 13, 03:00 AM ET",
+    "publishedAt": "2026-10-13T07:00:00+00:00",
+    "source": "Google Cloud",
+    "title": "Gemini 4 Argon available on Google Cloud, built to help solve your business’ hardest problems",
+    "summary": "Google Cloud is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGd3TDcxbjF6SUMyYVQzeHBVVFRMQjVzVVVzQWZBd1FxNnBaVmJXdzgtd1pRcEdDdEdhZlhzSEtHZ09rTVRpN1ZQV0c5VVc5M3d0Q0JUUUlMUUE0dUZ6aWRUSktuZHFXR2JLTEFianRsTEZ0WEs4aUlPTjZvQVBNS0pNT29FbzBVZzZqQUlSM0s2S3pjSEg5bHNLazFkbW1z?oc=5",
     "difficulty": "News"
   },
   {
