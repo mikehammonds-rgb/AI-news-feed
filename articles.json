@@ -2,6 +2,54 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Oct 22, 03:52 PM ET",
+    "publishedAt": "2026-10-22T19:52:41+00:00",
+    "source": "TradingView",
+    "title": "OpenAI launches Decisions API with up to 10x faster AI decisions",
+    "summary": "TradingView is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDhaZlVLQmszTXh3ZHBXTWt3THdXWDdKanlBaUpIN1FsNlV6OXRjbGdTa1JnU2pRZTRZQ3ltcmpad3dCTVczZFA1MjNEajZBNjJKU1gwelluSlBGSEhOVWg5Q01RS1lheFE5akRjY01GS0JhaklQcjJnMXdOMkRmRDBUNWVicGRscU1hcnhJX203LWJhdi1JR0NDWnVac3ZtWlJYZlFjOTJrNlU1VlQ2UnVuenNQczV2VHRpU3l6TTg2a2lRZ3c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 22, 03:49 PM ET",
+    "publishedAt": "2026-10-22T19:49:29+00:00",
+    "source": "UA.NEWS",
+    "title": "OpenAI opens Decisions API to all customers — TechCrunch",
+    "summary": "UA.NEWS is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0VxNEdibUM5V2FxdlYxTF9OSEFTVnpEVFlLeklzWjdHaWtZUDQ3ODlZd2hBZkMzbDVxNVZUVXE4R1M2ZG9UZXNKb0lpdnNITHNCdVdydE11bGJSN0hhY1ZEd29fOHR3bTh2QWFQaWJzZGVIY0tWczVuaUlfM2dnMFBxNWlYb2d0Y25PcEcwU2R6Y2RlcGFLZWh4bXY2WENRN2prUEx3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 22, 03:45 PM ET",
+    "publishedAt": "2026-10-22T19:45:04+00:00",
+    "source": "Unite.AI",
+    "title": "OpenAI Makes Decisions API Generally Available with GPT-6 Luna",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUNSalBEV21ZMzE4MTU0d0tCVmNNZTFybGZOQ1V4YW1ubFZvbnpMdnJmUGZkNXRvcHVuQjQyZGxxT2VZdnl1TGVsSGtnbUtEckdCSHU4MndZZ2dGeTlxQ3hEUW9TV1cxQzZtWmllaFFVaUVLU3pITkVqUC1BQkxrWW9WeUg4M3NHcjdlRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 22, 03:38 PM ET",
+    "publishedAt": "2026-10-22T19:38:27+00:00",
+    "source": "OpenAI",
+    "title": "Build more responsive apps with the Decisions API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Oct 22, 03:00 PM ET",
     "publishedAt": "2026-10-22T19:00:00+00:00",
     "source": "TechCrunch",
@@ -72,18 +120,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 22, 02:10 AM ET",
-    "publishedAt": "2026-10-22T06:10:08+00:00",
-    "source": "Tech Times",
-    "title": "Google Cloud Unifies GPT-6, Claude, and Gemini on Single Invoice for Enterprise",
-    "summary": "Tech Times is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjNHa3hTOXpUMHpxS3ZjbnpCT3IzM2g1WmR4Z2sxUzRmcjA0MmhEMjNRRjlKTW94VDBkbTh3VG1XTEpiTHF3c191ektldFU4eExqTDN6VWc0ZGZrU3R2WDNJNTNIOVpJOS1wMkp1SDJTRktpd2hVQ1RZREJxNmFXanRPRHAyUnJJdkxqMjZKRmtObmd0cDRTTWlBVjdXMVRYNlcwMjQ5NkV4OFRMSm1SNlhINThJQU5tZU1HVFV3?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 22, 01:27 AM ET",
@@ -98,13 +134,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 21, 07:30 PM ET",
-    "publishedAt": "2026-10-21T23:30:48+00:00",
-    "source": "Courthouse News",
-    "title": "Music labels clash with Claude over copyrighted lyrics",
-    "summary": "Courthouse News is reporting this update. Open the article for the full story.",
+    "time": "Oct 21, 06:00 AM ET",
+    "publishedAt": "2026-10-21T10:00:20+00:00",
+    "source": "XDA",
+    "title": "I asked Claude Code to build its own replacement, and it took just 15 minutes",
+    "summary": "XDA is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDM0dnNBaUhiRE14THk4dDI0RGx4Mm5lN1lIXzBUdFZ6ZGxLbENId0JaNHZiZ0JRVEE1QndwNkozQUxLdHNWSkh4TG1vLWRmREozR1pYQ0hidzE0WFhSUTJpazNhbE9Dc01LMTExOHVteGZCb0hGMkdWMnVrcHVBRmhYamNHenNFdHgwcnZDRQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd19UWlotY2Jkd2hCNGFnbjFRX0dUNEZOXzA0Ym44WDNqcEVXZjItdUsydGdULVE4eU1XdVREb2pzN1Y3dm1WcjlCeWtHdVZRaHd2elN1YXBla1BvZThmbVVsclRsbkdBbi02b3VTQkIzTjNTZUJTSjlXQV9Vb0l1R1Y5aUQ5RllHZ1ZKLWNQRFR4QQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -124,9 +160,9 @@
     "label": "Claude Code",
     "time": "Oct 19, 07:32 PM ET",
     "publishedAt": "2026-10-19T23:32:19+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "Amazon Web Services",
     "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGtQZ3VDNTRrRVNBTDA4ak5mUlBKUG1kdWpwWDJxQUx2UWxFMGw3Sk85MllYN1gyTENSZEcxa0RwZ2RXLTk5WlE0ejZPZWU0UzI5RVRmUnlLdXgwcjZBUUhEUnI5enprM2NPZVlhbXl6ZUhTVU4wZEpwMjc0SHlQME54Ri1NMk40UmF5bDBReHdEV0V6OWxXVnJVSl9nUkpsTGFQejBtU2tFeEliQXpvZw?oc=5",
     "difficulty": "News"
@@ -204,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 16, 02:34 PM ET",
-    "publishedAt": "2026-10-16T18:34:49+00:00",
-    "source": "OpenAI",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 13, 03:00 AM ET",
@@ -264,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 03:00 AM ET",
-    "publishedAt": "2026-09-29T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "DevDay 2026 Recap",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 25, 03:00 AM ET",
@@ -321,18 +333,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 10, 03:00 AM ET",
-    "publishedAt": "2026-09-10T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
     "difficulty": "News"
   },
   {
