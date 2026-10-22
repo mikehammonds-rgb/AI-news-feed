@@ -2,13 +2,25 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 21, 04:19 PM ET",
-    "publishedAt": "2026-10-21T20:19:05+00:00",
+    "time": "Oct 21, 07:30 PM ET",
+    "publishedAt": "2026-10-21T23:30:48+00:00",
+    "source": "Courthouse News",
+    "title": "Music labels clash with Claude over copyrighted lyrics",
+    "summary": "Courthouse News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDM0dnNBaUhiRE14THk4dDI0RGx4Mm5lN1lIXzBUdFZ6ZGxLbENId0JaNHZiZ0JRVEE1QndwNkozQUxLdHNWSkh4TG1vLWRmREozR1pYQ0hidzE0WFhSUTJpazNhbE9Dc01LMTExOHVteGZCb0hGMkdWMnVrcHVBRmhYamNHenNFdHgwcnZDRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 21, 04:31 PM ET",
+    "publishedAt": "2026-10-21T20:31:32+00:00",
     "source": "The Globe and Mail",
     "title": "Two Customers Account for a Fifth of Anthropic's Revenue, a Concentration Risk IPO Buyers Should Know",
     "summary": "The Globe and Mail is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOd3RyTnlQUjgwR1o0M21zZV9WOHNYa3U5NlZDeVRwTndGYTZyenJmcGpRTzhVNVVaNTEzVjBMaGcxb202NTFMRXhnbHQybGNyc0x2bDZUdzRmXzR0WXhsSktmU0t6eFJ1Z2wwLVg0Q25qS2RyMHFjcDBvS29Dc19LSGF0VjBDTWdkOFN4WmFnY1NhOWFBM0dLUWY4ek4xS09yamhFdVNuVFlIS2ZkZkNpb3ZBLW9tbmszWTFxUDRpdFp3TmxHWS0xMkNEUlB3UTJnZE9mdEhfOVNSVVB0RVNUY2laMWxNSkxINHEwT0FfWFNfY0Q5TS1KM28xcFNudDNTSG5VbkNOdFdoRG0tdlQ2Qnk1OEJ4QQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQVRWZV9kVjh2TTdQSjY3elBNZFhhMnNLNEtpQWxxaTItRWhGZC0yS0h4NHpaN2xyRmdpLV9mNjhlenpONXJ2d1JDeGxHSGVfZmRvZnVUN2k3NDJ1LVZVVnhDNzZuRXBqNmpJTTVzMTVGdWRCa3ZKWkJfOG1SUEx2aUtZS2xhMndaTWs5TVN2QU00Nzhzd1YwaHpHRzNmTlhrNmFvc1ctb1FoUE0zNkJaVm1BVTBTY2FlM3psbDVibXhvcDdPMHhReVBnYXJ6VjlGSXU4eDJ1RGpISms5al82WU5BVVhuNnlKdmd4Z1BLX294bXg2M2tpYzFRbTBoWGprNFAzdG9MeDMxTG9JYW5sSWRR?oc=5",
     "difficulty": "News"
   },
   {
@@ -21,6 +33,18 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSGlGdWpnTW16dzRBNGU0d1E0bFduSUhMclB6cHJlejR1ME44VWlpaEstRkdwSS1GaEJHbkI4aHFfQ2VjSkNqcDlZM3k2WUlLRWxRcTB6NUNGdm5pN0NKY1g0aS1HLS1iNWxqaUZFUVBaRENrQ2RqRmVOdlVfUXM5Yw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 21, 11:42 AM ET",
+    "publishedAt": "2026-10-21T15:42:19+00:00",
+    "source": "SitePoint",
+    "title": "Prompt Caching API Example: Cut Node.js LLM Costs",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91WWs0R1VMTDFKem9oaXplM0EwT3pBYW9weENwZ2UybmZjZnJBaWVxdDNvYVNBSG9ZQ1hvWTRJa2VfVTg5ZTVVUXdYWU5oYXotbHJYZmNjNXJhc1diV0dnSk55VQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -88,9 +112,9 @@
     "label": "Claude Code",
     "time": "Oct 19, 07:32 PM ET",
     "publishedAt": "2026-10-19T23:32:19+00:00",
-    "source": "Amazon Web Services (AWS)",
+    "source": "Amazon Web Services",
     "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGtQZ3VDNTRrRVNBTDA4ak5mUlBKUG1kdWpwWDJxQUx2UWxFMGw3Sk85MllYN1gyTENSZEcxa0RwZ2RXLTk5WlE0ejZPZWU0UzI5RVRmUnlLdXgwcjZBUUhEUnI5enprM2NPZVlhbXl6ZUhTVU4wZEpwMjc0SHlQME54Ri1NMk40UmF5bDBReHdEV0V6OWxXVnJVSl9nUkpsTGFQejBtU2tFeEliQXpvZw?oc=5",
     "difficulty": "News"
@@ -240,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 16, 03:25 PM ET",
-    "publishedAt": "2026-10-16T19:25:45+00:00",
-    "source": "ALM Corp",
-    "title": "Gemini 4 Argon Lands in Google AI Mode (October 2026)",
-    "summary": "ALM Corp is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ia2xWd0tyWnBOU0lwMXdlNEFyNnBJb3FEZll6djYyME1ybUs3VjN4NVBOMmVPQTdpT2pFRklMaWIycjA3MFRpTTRFUW5YTDRwVTJCLXlwbVZxMlRqbzVkc0NoMnJlamR1Ump4eVZ3?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 16, 02:34 PM ET",
@@ -300,27 +312,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 07, 03:00 AM ET",
-    "publishedAt": "2026-10-07T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Haiku 5.5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 13, 03:00 AM ET",
+    "publishedAt": "2026-10-13T07:00:00+00:00",
+    "source": "Google for Developers Blog",
+    "title": "Gemini 4 Argon for Robotics",
+    "summary": "Google for Developers Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 03:00 AM ET",
-    "publishedAt": "2026-09-29T07:00:00+00:00",
-    "source": "The New Stack",
-    "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZ2cwR0ROa3N6T1Z5ZXlHdTR3TkdTTE1VcVNFcF9sQnBoM2tTbHNoUFJ5MFRjNWo0djd4a3hIa2gyUzRYay10YWZzblJPSHJmSzhkWkZrYV9VcTN2QWFCUkMtZ0hCSzJkTjFSckk3RQ?oc=5",
     "difficulty": "News"
   },
   {
