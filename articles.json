@@ -1,5 +1,53 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 22, 05:12 AM ET",
+    "publishedAt": "2026-10-22T09:12:00+00:00",
+    "source": "The Tech Buzz",
+    "title": "Cursor vs GitHub Copilot 2027: Which Is Better?",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41bllhU1lRUU55d2NROW5Zck9uckdwVFpmemdTRVlhdTVWeU1CRkxHT0VnMjFfZGhTczhES0Y1YmFxczAwTTQ0OW4zRUZGMG41QWtEb2U1Vzc1SWVrMXRCWER4c2NpT3Rk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 22, 05:01 AM ET",
+    "publishedAt": "2026-10-22T09:01:34+00:00",
+    "source": "HackerNoon",
+    "title": "Fake AI Tools Put US Companies at Risk: Inside Counterfeit Claude, ChatGPT, and Copilot",
+    "summary": "HackerNoon is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU1zcVRpUEZxb0VabmdqejlEc2RZVkJQaU9SWVYwNS0xMkZ3dnRhMm9faXBvTkdTdW9SVmFNSFVHNnNQeENCT1d0c0Z2ZzB3ZmdDS2ZydkQ5d3ZnRXZWektQamhnSUFObXIyLS1xcEVsU1NDZkljcFB6c1M3VktWSVd3WDh2MXFXWmNGUHpXaTk5TUlmLVhRaC1OeEFiLTJ5M0k0WE00RHU4M0k?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 22, 01:27 AM ET",
+    "publishedAt": "2026-10-22T05:27:10+00:00",
+    "source": "shattered.io",
+    "title": "Claude vs ChatGPT for Coding: Astra Costs 100x More [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqWVZoVTctZW1vTTVDMlNYMGJ0RFN4TklyOGJGVVNYQUU4VlNsb2JGUGxKZElmc19ZTG5XUDhRdE56S0tLc25CR1dtX0Vub21GSHlpenZIVDByVXZnMTBMSW9pVmh0cWU3Vy1MREJyNmwxSUt5?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 22, 01:08 AM ET",
+    "publishedAt": "2026-10-22T05:08:00+00:00",
+    "source": "BigGo Finance",
+    "title": "Railway Breach: Stolen Anthropic and OpenAI API Keys Fuel a Black Market for Model Distillation, Theo Browne Says",
+    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xa2RCdUwtaTNxcUdYdnFPSkNfYUcyM2owVnFBN3hsNHFwRFJjelhOT1ZYZkVPV1lleTJQYldTZ21PR1RWcHpMVmhPU1RLVVEybHBRa1VJb1h2enc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 21, 10:25 PM ET",
@@ -50,18 +98,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 21, 09:53 AM ET",
-    "publishedAt": "2026-10-21T13:53:58+00:00",
-    "source": "MIXED Reality News",
-    "title": "Claude API resellers can now get one customer banned instead of their whole account",
-    "summary": "MIXED Reality News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXZ6UC04clRxb0hVcFZBamh3dURDUVdlc2F2NjM3YzhRTUF5cXdGd2lZUThOb1Nxa0M1MzN0V2lDOUxoX3dKbURKbVl2Wmh3LXhmcXZXaHZyUzdlUlB5ejhUdnBqZDNJckxiSldqT09PbkhJZ3lVY0VKLVpmdjhOT2lMcTBRb2U2MnByUGxJdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Oct 21, 06:00 AM ET",
     "publishedAt": "2026-10-21T10:00:20+00:00",
     "source": "XDA",
@@ -100,9 +136,9 @@
     "label": "Claude Code",
     "time": "Oct 19, 07:32 PM ET",
     "publishedAt": "2026-10-19T23:32:19+00:00",
-    "source": "Amazon Web Services",
+    "source": "Amazon Web Services (AWS)",
     "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock | Artificial Intelligence",
-    "summary": "Amazon Web Services is reporting this update. Open the article for the full story.",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGtQZ3VDNTRrRVNBTDA4ak5mUlBKUG1kdWpwWDJxQUx2UWxFMGw3Sk85MllYN1gyTENSZEcxa0RwZ2RXLTk5WlE0ejZPZWU0UzI5RVRmUnlLdXgwcjZBUUhEUnI5enprM2NPZVlhbXl6ZUhTVU4wZEpwMjc0SHlQME54Ri1NMk40UmF5bDBReHdEV0V6OWxXVnJVSl9nUkpsTGFQejBtU2tFeEliQXpvZw?oc=5",
     "difficulty": "News"
@@ -129,18 +165,6 @@
     "summary": "FF News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmtJRnlEN0lrc2N1d1hfSnNmWkk4Wm9MRFNGRjI1ZElMcjNhTFRNZXRQRUJCamlwa3lka2FoOE9fZnluSVY2RXVRSmRvT1pYN205MDh0ZFFrVkZ1dDFxbE5WTnRiWktWbmF1WFY3eTZEVDA5Mll3cDlxSF9ZTUx3eENoMlV6UVhSTmtQdW5TNmJKYldtZjhtSC1xY1NYRUFvWW5XNGoyRTFONFYyelR6Ql9FOA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 19, 08:04 AM ET",
-    "publishedAt": "2026-10-19T12:04:40+00:00",
-    "source": "Google Cloud Press Corner",
-    "title": "Huntington Bank Introduces The 1866 Studio, an AI-Powered Small Business Operating System Built with Google Cloud",
-    "summary": "Google Cloud Press Corner is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeTdTakNKckxJQW5wSW02Mnp6aDE5WXhhVkhxWWdKMTBmRnFBOGdFcDJkX2NuRFA5bV8wU0J1N3B4OE1sLWJBT1M5QmloTUpKeVU4ckNyRFZwTzRsYkZJYzM5ZHM3X0NrcGdBbmtLalBma053cERwQ19ybGxZVU8xWUVsVy1ZcFVvdmJwTXY5RU82VjFFd0RtT3RwOGw1cldUVVhyaDVSdEJRVW1IRnB3YmpBYzBYRk1tR0Z5dVNkaUtmZEkzcDA3YjQyazV1VGljckVrSGtWMUtnbF9UYXRvelpGaWUwLTRVNUhpLWdnZ3RCa193dHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,27 +312,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 07, 03:00 AM ET",
-    "publishedAt": "2026-10-07T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Haiku 5.5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 13, 03:00 AM ET",
+    "publishedAt": "2026-10-13T07:00:00+00:00",
+    "source": "Quartz",
+    "title": "Google is releasing Gemini 4 Argon to developers and paying subscribers",
+    "summary": "Quartz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 03:00 AM ET",
-    "publishedAt": "2026-09-29T07:00:00+00:00",
-    "source": "The New Stack",
-    "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiSzdUZGNYaGNzZkMzZVVxVVg1THFrZlE0Mlg5elNGalBhR3ZQcHVkbEdUOXJvZDhHYldKWWYxcm42Yk9lMzRJWThpR2JyNTZUZHU3UVRBSGItNGk2?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTJYVVNQTkVvRExCcU0zdGplVnpUYWw5V2MxVDhhTFI0N1U0ZFNEc1RrclFrTVQyUlFkRkV2UE5zSER5Um82dUFTcHRvVHFmcnZjZjhqcTd6MEdjMV80aXc5T2VPU2tCR3AtUXZweGZSelFmU3pGRFpBY01vc3VmXw?oc=5",
     "difficulty": "News"
   },
   {
@@ -333,18 +345,6 @@
     "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb1pEWkdWanVyVWp0UlV0a0NvTDZLU0Q0eXZwcXc1Tmt0eFl6RElRSklVR1N4Y2xUYnljNDJDaTQ3SlR3OUVRVkhXd0JMbkpBME42dFNmMk1pWjBkQXRnUDQ3c25zY1d0ZVMwa04wcDBXR3lhSFF4Z25GYTJIYjJQWjZPZjVWdjZ5dGU0RGYzQzBYNjhuel9sbmNzZE56cmh2a3BfT2pR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Sep 25, 03:00 AM ET",
-    "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "CIO Dive",
-    "title": "Microsoft retools Copilot with coding, AI agent capabilities",
-    "summary": "CIO Dive is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
     "difficulty": "News"
   },
   {
