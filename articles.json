@@ -1,5 +1,41 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 23, 11:17 AM ET",
+    "publishedAt": "2026-10-23T15:17:25+00:00",
+    "source": "Hostinger",
+    "title": "Cursor vs VS Code: which AI code editor should you choose?",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DaXJOU1pvcnRKbkhvNmRCWVkyTnZic3lBTnppR2NsdEdBSWpRWnJuY0lsQzJScGkxdklZV1BQd2xhd0tIQU5fMTVxdGM3ZnIyR215aFpuLXNTSGlnenE3cGRHNXBtNzlv?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 23, 10:58 AM ET",
+    "publishedAt": "2026-10-23T14:58:12+00:00",
+    "source": "OrcaRouter",
+    "title": "What Is Claude AI? The Models, Plans and Surfaces Anthropic Actually Publishes",
+    "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XUkZyTTFWTmpnYjNCYzNwSUQ2bm8yQjl6VWRaMnVacTNra2tMblJ0eWtYejUtbFBHZ3I2dVVib0djRldvYktSYWJ0OWtwQWtsNkswWG9QOEl4ME8xM2cyZ3FyQ0s4ajgyRnpiWHgwOXZBMnNSTnlPaG1jck5keU0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 23, 07:23 AM ET",
+    "publishedAt": "2026-10-23T11:23:13+00:00",
+    "source": "SitePoint",
+    "title": "Best Claude Tracking Tools in 2026: 6 Options Compared",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54bEFNSktXN2E2YjBFX1k4dkFZN3ZqNm43b3ZaNFlTZGFfZVdxb2JaSU5hT1VzV3FVclV2cEE4ejZvOHMzdGlUSHpkR0lMY1IzSGx3NTNWRV9MTzV6eVQ5QmpuRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 23, 05:51 AM ET",
@@ -9,6 +45,18 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDRKaGhMN3B6QlVWcDJJNWZIUzA2bVZHdTBxRjZRdmlVUTh3aWdnVjZqa0hHWDRZUE0wUnB4emJyalVwTVRaMzdaQk1jNWNXS0ZUMTFpRlJEZzlITXJCemFhMThQQzdDZWsweE0tOTNIOUUxc1E5VE1kOGVLN0lpd29EcWJ6TVhKZEtrVTlqQzlCdzdD?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 23, 05:29 AM ET",
+    "publishedAt": "2026-10-23T09:29:34+00:00",
+    "source": "GuruFocus",
+    "title": "OpenAI Launches Decisions API to Compete in AI Decision-Making M",
+    "summary": "GuruFocus is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVlXaEdVckhBNWxRUHp1OUw4ZWJQQnVaa3lubzJvdmRkcHltXzNhcXVWUWJpQXFwTnBzZUhLVzVBaG1wZ3M3UURXd0daZFJyUlJ1dTlEdEFQQXVqTkhLdElyYnpnbXNqd1BPUkR0TWpMT3N3SVVUNmgwWktQZ1U5WE1VcWJjcElnZVFGM1paZHh3MUtrNmk2MnN5N3lZVG40YTkwOXVZY1lNelU?oc=5",
     "difficulty": "News"
   },
   {
@@ -24,30 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 23, 04:06 AM ET",
-    "publishedAt": "2026-10-23T08:06:13+00:00",
-    "source": "OrcaRouter",
-    "title": "Is Claude Free? What Free, Pro and Max Plans Include",
-    "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmJwc3MtdTVzN2ZGQ1YtSEZ5X1dXV1EtRmtBbk9nNHg4MF85X2xhOUFaMHM4Vi03dnRYWnpqVVludTVQekRZclgxejJWRlRaRDEwQTBWb01reWUxUW0zRzhzNU5aNWhCMF9rYmZOVU9tTGV0aUV2QUxYdHNJc1hrbw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 23, 03:11 AM ET",
-    "publishedAt": "2026-10-23T07:11:00+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Claude vs ChatGPT vs Gemini vs Grok: 56.4% Share [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeFRDcUZIc0VjeXZNRkV0RmVTbDVYRVBTd253anNMXzVjajhrVk1lOHpkM2hDcWVyZnA5cGJ2WXBDWTh0ZzNSRms5TmpvV3JaQ0xNYXF0ZlV4OHdVUFh6OEw5OTk0X1FtUDZVcW5wLXBieGJvOXdkV2huV3VUQi11Ymd0U2Q?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 23, 03:07 AM ET",
@@ -57,18 +81,6 @@
     "summary": "Fello AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SazZWeTdSRDVRWlU3dFFxV2pEcXFaSXBNSXF2dkdVa0o5TU1NcnJILTQ5VzAyV1M1M3d1OWIyXzhVbkRJZ3lFRGNnamU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 22, 03:52 PM ET",
-    "publishedAt": "2026-10-22T19:52:41+00:00",
-    "source": "TradingView",
-    "title": "OpenAI launches Decisions API with up to 10x faster AI decisions",
-    "summary": "TradingView is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDhaZlVLQmszTXh3ZHBXTWt3THdXWDdKanlBaUpIN1FsNlV6OXRjbGdTa1JnU2pRZTRZQ3ltcmpad3dCTVczZFA1MjNEajZBNjJKU1gwelluSlBGSEhOVWg5Q01RS1lheFE5akRjY01GS0JhaklQcjJnMXdOMkRmRDBUNWVicGRscU1hcnhJX203LWJhdi1JR0NDWnVac3ZtWlJYZlFjOTJrNlU1VlQ2UnVuenNQczV2VHRpU3l6TTg2a2lRZ3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -122,18 +134,6 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 22, 10:12 AM ET",
-    "publishedAt": "2026-10-22T14:12:01+00:00",
-    "source": "HowStuffWorks",
-    "title": "Who Owns Claude AI? Anthropic, Investors and Control",
-    "summary": "HowStuffWorks is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rLTZKdEFMbHpUUFVSajA0eGIwbmI2OUtwTV9pRVItb0FEOHdGdkkxS3JEaTNUYWVKdU9tQ0pQNnpKVGhxbURxNkFLc2YtMmlnZ2QteXhGMzdLeVV4WkpZU01oMHk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
     "time": "Oct 22, 07:02 AM ET",
     "publishedAt": "2026-10-22T11:02:36+00:00",
     "source": "Help Net Security",
@@ -180,6 +180,30 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 20, 12:20 PM ET",
+    "publishedAt": "2026-10-20T16:20:38+00:00",
+    "source": "Google Cloud",
+    "title": "Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity",
+    "summary": "Google Cloud is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYlRVVVRvR21CSnQ3QUFkSkZBcWZhSmk4UTEzZmJlbU1PZ0k5cWFUTjg3TDBkdkdpdzJ6bU9TUGREdjQxZ2dxTllMODNMYTdlUVNJbDZ5bmFUMHNGNzhFby1MQ3ZNbUp0UVJLX3N5aHJmaDlKS1YteVIya1V3ZFBmOGxHWGNuWTFoQ1FjVTZTVHI2bTRvUU04ek44SmUyLUdjZEhTdk02WTlDOF9UUFVMRlkya2dPSDk4RUdn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 20, 03:00 AM ET",
+    "publishedAt": "2026-10-20T07:00:00+00:00",
+    "source": "shattered.io",
+    "title": "GitHub Copilot Retires 6 Models for GPT-5.6 [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvOWhrckpiRzFLYW10NXB5MUV2bTdDZU9DTHRsQ0lqNXdGUnQxUnI4QmJ1RnVUVlBfUGxiRUdHdHFDczA5MklIeDl4Q3QxVktvV0hKUWxDZGVpeWlzaUFHUm1zX3pqVHFWcnFTQ1ByZVRJdDhC?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 20, 12:45 AM ET",
@@ -216,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 19, 03:00 AM ET",
-    "publishedAt": "2026-10-19T07:00:00+00:00",
-    "source": "Hostinger",
-    "title": "22 best AI coding tools for developers and beginners",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qOW40ZHIyQ2U5czJSTkJhc05SQUJISE0tM0pFLWUzcUdjVVlyUjFxeDBqei1tdjNDQmY2RnZWNmhhVUlNQ0FJU2hKdk9BY0dpanNWRVlDdXdGTno3NzJtNEN5OXQtYmhYNjRvTw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 19, 02:07 AM ET",
@@ -237,42 +249,6 @@
     "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DSHd3eWxKVUpRZVpodjBWSENuSVRUMUpEQnQxNFJvN0JaT0JkQndMamRlRVk5QUtvaDJ5M2hldzh2bkhOVWlGa3VHcXlheHg3d3UxamFSbDNDd2o0a1FpbXB1UWpva3VUSE1xTkhYUGtrbFQ4d19hSVpyRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 18, 10:10 PM ET",
-    "publishedAt": "2026-10-19T02:10:26+00:00",
-    "source": "shattered.io",
-    "title": "GitHub Copilot Retires 6 Models for GPT-5.6 [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvOWhrckpiRzFLYW10NXB5MUV2bTdDZU9DTHRsQ0lqNXdGUnQxUnI4QmJ1RnVUVlBfUGxiRUdHdHFDczA5MklIeDl4Q3QxVktvV0hKUWxDZGVpeWlzaUFHUm1zX3pqVHFWcnFTQ1ByZVRJdDhC?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 18, 01:40 PM ET",
-    "publishedAt": "2026-10-18T17:40:11+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Cursor AI Agents Now Merge 56% of All PRs [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90OUI3ZmVaTHE1NUR0d0hPb0J1dksyUTdrWEFIZUFRN1U1ZEdXZXBKNTJnU3k3bTdfY2JDaklXUmZDSFd2NjdGOUFVTlNEVVhpQk1wWHF2RjZENGZVT2MzVkE3c0JDTHFoZktiSjdxd2ZFakdGU1NadA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 18, 03:00 AM ET",
-    "publishedAt": "2026-10-18T07:00:00+00:00",
-    "source": "shattered.io",
-    "title": "Gemini 4 Argon Goes Global, Tokens Jump 16x to 1M [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaTk5VLVNMSzBNcmhfWWtLbEZzNENRdVBQazhKMzI4ZTk3M3h5dmZndW1WQko5Mk1Pd01OWEl3YnltazhZN1d2N2tha0NfWHZWMTNVb25DbzF1anhYbUtpQTI5S3cyMG96Q3hlTFJOVnBfMkV6?oc=5",
     "difficulty": "News"
   },
   {
@@ -304,11 +280,35 @@
     "label": "Gemini",
     "time": "Oct 13, 03:00 AM ET",
     "publishedAt": "2026-10-13T07:00:00+00:00",
+    "source": "Google for Developers Blog",
+    "title": "Gemini 4 Argon for Robotics",
+    "summary": "Google for Developers Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZ2cwR0ROa3N6T1Z5ZXlHdTR3TkdTTE1VcVNFcF9sQnBoM2tTbHNoUFJ5MFRjNWo0djd4a3hIa2gyUzRYay10YWZzblJPSHJmSzhkWkZrYV9VcTN2QWFCUkMtZ0hCSzJkTjFSckk3RQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 13, 03:00 AM ET",
+    "publishedAt": "2026-10-13T07:00:00+00:00",
     "source": "Quartz",
     "title": "Google is releasing Gemini 4 Argon to developers and paying subscribers",
     "summary": "Quartz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTJYVVNQTkVvRExCcU0zdGplVnpUYWw5V2MxVDhhTFI0N1U0ZFNEc1RrclFrTVQyUlFkRkV2UE5zSER5Um82dUFTcHRvVHFmcnZjZjhqcTd6MEdjMV80aXc5T2VPU2tCR3AtUXZweGZSelFmU3pGRFpBY01vc3VmXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 08, 03:00 AM ET",
+    "publishedAt": "2026-10-08T07:00:00+00:00",
+    "source": "GitGuardian Blog",
+    "title": "AI Hooks for Claude Code, Cursor, and Codex: Block Secrets",
+    "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYnppRlN6LTJvazFmMVpuRkhabWtxQ05DN1BTcmhMYnlSZ1A4aXZ6d1o3RkdkcnJyRm12OWpLaHhyNWo0NFlQUUNMMVhDQUxIRnBpTDdVRTFIWGM4VGYtOFM0Mkp3X3E0QUU4?oc=5",
     "difficulty": "News"
   },
   {
