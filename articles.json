@@ -1,14 +1,26 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 23, 03:03 PM ET",
+    "publishedAt": "2026-10-23T19:03:11+00:00",
+    "source": "The Decoder",
+    "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3hIVEJReWhldnNyNVRzeGhuZjdJNHh6X1dkSG9CbkliWXducy14dlhrdk0yM09mLTJNcmtRak5JRTlCSW5oVm1vVnY0ZDJod0ZZZmxCd2JScllXdHVvLXlLR1BsOFNuLXBsWGhWWjNoMm1tY0FoN3BaM2F4LUpLZjFVNTI4VmNySFBneWNCWFMxSFRDNUhiWW1WVzhITUIy?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Oct 23, 11:17 AM ET",
-    "publishedAt": "2026-10-23T15:17:25+00:00",
+    "time": "Oct 23, 12:07 PM ET",
+    "publishedAt": "2026-10-23T16:07:30+00:00",
     "source": "Hostinger",
     "title": "Cursor vs VS Code: which AI code editor should you choose?",
     "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DaXJOU1pvcnRKbkhvNmRCWVkyTnZic3lBTnppR2NsdEdBSWpRWnJuY0lsQzJScGkxdklZV1BQd2xhd0tIQU5fMTVxdGM3ZnIyR215aFpuLXNTSGlnenE3cGRHNXBtNzlv?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzT2xGOU1laS1IcEs5WHM1MURpdjlCaWhyU0VpUmVjajNuMVRpUDBpaDRGSzQyZm1FMDlfZ3ZoamVIUkg0cU1meloycEVDVGprQy1COTNKUzFKQk5iOHJRVEJ0bXB2c0U1?oc=5",
     "difficulty": "News"
   },
   {
@@ -21,6 +33,18 @@
     "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XUkZyTTFWTmpnYjNCYzNwSUQ2bm8yQjl6VWRaMnVacTNra2tMblJ0eWtYejUtbFBHZ3I2dVVib0djRldvYktSYWJ0OWtwQWtsNkswWG9QOEl4ME8xM2cyZ3FyQ0s4ajgyRnpiWHgwOXZBMnNSTnlPaG1jck5keU0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 23, 08:05 AM ET",
+    "publishedAt": "2026-10-23T12:05:00+00:00",
+    "source": "BigGo Finance",
+    "title": "OpenAI Opens Decisions API to All Customers, Cutting Response Times to 100 Milliseconds",
+    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40UFNuVVd6Q1ppUnktbEY5NEtGZEZISnFTeHlaUXdlYWpWekVKeF9HXy00ajM0Q2plZlNKNUFQcnNweFhhMGJacFdaRzRNZkVzVWpxVG50S3Z5UHhzdXc3VThqMWVHNUdKNXk0X0U3NGZELS1PcWc?oc=5",
     "difficulty": "News"
   },
   {
@@ -86,18 +110,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Oct 22, 03:45 PM ET",
-    "publishedAt": "2026-10-22T19:45:04+00:00",
-    "source": "Unite.AI",
-    "title": "OpenAI Makes Decisions API Generally Available with GPT-6 Luna",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUNSalBEV21ZMzE4MTU0d0tCVmNNZTFybGZOQ1V4YW1ubFZvbnpMdnJmUGZkNXRvcHVuQjQyZGxxT2VZdnl1TGVsSGtnbUtEckdCSHU4MndZZ2dGeTlxQ3hEUW9TV1cxQzZtWmllaFFVaUVLU3pITkVqUC1BQkxrWW9WeUg4M3NHcjdlRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Oct 22, 03:38 PM ET",
     "publishedAt": "2026-10-22T19:38:27+00:00",
     "source": "OpenAI",
@@ -129,18 +141,6 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9od1VBRl9jX29qSGVZVDZPZ2g2ekE2WjhYWFltR0oyeHYxeWdEWVhRMHN3bFc3WXVfNlVIcm5mYmtzaWRjUW1WeUVHTW51MTl1ZGYzN3Nsblo5M1lJR3FCV1Zzaw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 22, 07:02 AM ET",
-    "publishedAt": "2026-10-22T11:02:36+00:00",
-    "source": "Help Net Security",
-    "title": "Claude Security can now spot vulnerabilities that reappear in code",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWoyZjQ4X0ZoYUtacURwZU4yM1BqbTQ4d284NVJxM3hGc3RmUTFOMHJzcFFFLVdfa3piUzAyVDB0aXAwX1FjTDJRNHlZdUlhVUg1UVVzNXNWaUpIWUdSMmVlQmZaN2NfVTU3Rm85bnkzZ20wemwtck40eERoWmVUWUhyMng3aS02UEViWWs1NA?oc=5",
     "difficulty": "News"
   },
   {
