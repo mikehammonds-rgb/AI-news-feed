@@ -1,5 +1,53 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 23, 05:51 AM ET",
+    "publishedAt": "2026-10-23T09:51:13+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "Gemini 3.6 Flash in Antigravity: 17% Fewer Tokens [2026]",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDRKaGhMN3B6QlVWcDJJNWZIUzA2bVZHdTBxRjZRdmlVUTh3aWdnVjZqa0hHWDRZUE0wUnB4emJyalVwTVRaMzdaQk1jNWNXS0ZUMTFpRlJEZzlITXJCemFhMThQQzdDZWsweE0tOTNIOUUxc1E5VE1kOGVLN0lpd29EcWJ6TVhKZEtrVTlqQzlCdzdD?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 23, 05:08 AM ET",
+    "publishedAt": "2026-10-23T09:08:03+00:00",
+    "source": "TestingCatalog AI News",
+    "title": "Gemini 4 Carbon early test results are in ahead of public release",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1SGdjUGhYRzY0dnpzYkdqMm91Z0lHNnZTOE5mTC1kZGY2SDY1MTR4cnJNRGpPY3BHZVpZX3N5Rmd1NGZySUc1cTJIVms3MzB2c2pGZUdReTQyRVFZeVFLckhtakh4VnRFbVB1djE4MDVYVnRC?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 23, 04:06 AM ET",
+    "publishedAt": "2026-10-23T08:06:13+00:00",
+    "source": "OrcaRouter",
+    "title": "Is Claude Free? What Free, Pro and Max Plans Include",
+    "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmJwc3MtdTVzN2ZGQ1YtSEZ5X1dXV1EtRmtBbk9nNHg4MF85X2xhOUFaMHM4Vi03dnRYWnpqVVludTVQekRZclgxejJWRlRaRDEwQTBWb01reWUxUW0zRzhzNU5aNWhCMF9rYmZOVU9tTGV0aUV2QUxYdHNJc1hrbw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 23, 03:11 AM ET",
+    "publishedAt": "2026-10-23T07:11:00+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "Claude vs ChatGPT vs Gemini vs Grok: 56.4% Share [2026]",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeFRDcUZIc0VjeXZNRkV0RmVTbDVYRVBTd253anNMXzVjajhrVk1lOHpkM2hDcWVyZnA5cGJ2WXBDWTh0ZzNSRms5TmpvV3JaQ0xNYXF0ZlV4OHdVUFh6OEw5OTk0X1FtUDZVcW5wLXBieGJvOXdkV2huV3VUQi11Ymd0U2Q?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 23, 03:07 AM ET",
@@ -9,18 +57,6 @@
     "summary": "Fello AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SazZWeTdSRDVRWlU3dFFxV2pEcXFaSXBNSXF2dkdVa0o5TU1NcnJILTQ5VzAyV1M1M3d1OWIyXzhVbkRJZ3lFRGNnamU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 22, 05:08 PM ET",
-    "publishedAt": "2026-10-22T21:08:00+00:00",
-    "source": "BigGo Finance",
-    "title": "Stolen Claude and OpenAI API Keys Are Fueling a Black Market for AI Model Distillation",
-    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41MTZPYnZPRnJnZDh2RURHWjBBUlhiZ2cyS2FJdVI4RWxIRmJFWDNJSVFsYnlCQTdvaUg4ODlZcG05M1pSYjQ3WnN1Vjg3em9wNXNjcm9WRklQTVU?oc=5",
     "difficulty": "News"
   },
   {
@@ -38,18 +74,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Oct 22, 03:49 PM ET",
-    "publishedAt": "2026-10-22T19:49:29+00:00",
-    "source": "UA.NEWS",
-    "title": "OpenAI opens Decisions API to all customers — TechCrunch",
-    "summary": "UA.NEWS is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0VxNEdibUM5V2FxdlYxTF9OSEFTVnpEVFlLeklzWjdHaWtZUDQ3ODlZd2hBZkMzbDVxNVZUVXE4R1M2ZG9UZXNKb0lpdnNITHNCdVdydE11bGJSN0hhY1ZEd29fOHR3bTh2QWFQaWJzZGVIY0tWczVuaUlfM2dnMFBxNWlYb2d0Y25PcEcwU2R6Y2RlcGFLZWh4bXY2WENRN2prUEx3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Oct 22, 03:45 PM ET",
     "publishedAt": "2026-10-22T19:45:04+00:00",
     "source": "Unite.AI",
@@ -57,6 +81,18 @@
     "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUNSalBEV21ZMzE4MTU0d0tCVmNNZTFybGZOQ1V4YW1ubFZvbnpMdnJmUGZkNXRvcHVuQjQyZGxxT2VZdnl1TGVsSGtnbUtEckdCSHU4MndZZ2dGeTlxQ3hEUW9TV1cxQzZtWmllaFFVaUVLU3pITkVqUC1BQkxrWW9WeUg4M3NHcjdlRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 22, 03:38 PM ET",
+    "publishedAt": "2026-10-22T19:38:27+00:00",
+    "source": "OpenAI",
+    "title": "Build more responsive apps with the Decisions API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
     "difficulty": "News"
   },
   {
@@ -96,18 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 22, 09:38 AM ET",
-    "publishedAt": "2026-10-22T13:38:57+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Gemini vs ChatGPT vs Claude API: $0.10 Cache Rate [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQjB6RHdVUUgtTXlaS25WazZFODlqSmUtVFNlanIyLTM3LVlYZ2ZjaE9EMDVOcm5DZFQ2a2dxMHpTYlUyTzU1ekgtcXdWSWxLVFloazhQQ2tzZ3hhcWJydEhzamtFVENYN2tUNWZ6b3h3d2ZhblhYOVhyQVZfNFhWeTFn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 22, 07:02 AM ET",
@@ -141,6 +165,18 @@
     "summary": "XDA is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd19UWlotY2Jkd2hCNGFnbjFRX0dUNEZOXzA0Ym44WDNqcEVXZjItdUsydGdULVE4eU1XdVREb2pzN1Y3dm1WcjlCeWtHdVZRaHd2elN1YXBla1BvZThmbVVsclRsbkdBbi02b3VTQkIzTjNTZUJTSjlXQV9Vb0l1R1Y5aUQ5RllHZ1ZKLWNQRFR4QQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 20, 12:42 PM ET",
+    "publishedAt": "2026-10-20T16:42:53+00:00",
+    "source": "Amazon Web Services (AWS)",
+    "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference | Artificial Intelligence",
+    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUmE2bG9XRjB0WXdKaWphVzhDYWZ3U0ZtaDdxbEhPNnNmcm53dk9VdktBTk9uX29JMUFFb1p5MjJxamsxQnBJdTZ6X09uYmVuSDgwSWVmaG1MR1RzeEJnRlkwZmVlUE1QNnBFaEIta1plSjEtOXM3d3laNlZrcXl3ekRhQjVVbmR2cmhfVExZdW5rRm54cjVJclpfcmtYek9aWnpKSGJ4clZ0ZV93bGdKQ1BtY09URXNLb2F3ZmhZQldlX1MtUWZkXw?oc=5",
     "difficulty": "News"
   },
   {
@@ -273,30 +309,6 @@
     "summary": "Quartz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTJYVVNQTkVvRExCcU0zdGplVnpUYWw5V2MxVDhhTFI0N1U0ZFNEc1RrclFrTVQyUlFkRkV2UE5zSER5Um82dUFTcHRvVHFmcnZjZjhqcTd6MEdjMV80aXc5T2VPU2tCR3AtUXZweGZSelFmU3pGRFpBY01vc3VmXw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 13, 03:00 AM ET",
-    "publishedAt": "2026-10-13T07:00:00+00:00",
-    "source": "Google for Developers Blog",
-    "title": "Gemini 4 Argon for Robotics",
-    "summary": "Google for Developers Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZ2cwR0ROa3N6T1Z5ZXlHdTR3TkdTTE1VcVNFcF9sQnBoM2tTbHNoUFJ5MFRjNWo0djd4a3hIa2gyUzRYay10YWZzblJPSHJmSzhkWkZrYV9VcTN2QWFCUkMtZ0hCSzJkTjFSckk3RQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 07, 03:00 AM ET",
-    "publishedAt": "2026-10-07T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Haiku 5.5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5",
     "difficulty": "News"
   },
   {
