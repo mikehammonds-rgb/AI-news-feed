@@ -1,5 +1,17 @@
 [
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 23, 04:05 PM ET",
+    "publishedAt": "2026-10-23T20:05:52+00:00",
+    "source": "Hostinger",
+    "title": "Cursor vs VS Code: which AI code editor should you choose?",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BSkkwa0RmWF9uWnRYTDdQMXNSM0FfQ01rUEY1NmVzdkx2UEo0YnJERGF3cThLS1FtUXhIdk5aa3lIRThOalcwb20zUHZVbWw3VGt5YkFsR2g1Z0JRWEpmN1RSaE9hcTlt?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 23, 03:03 PM ET",
@@ -9,30 +21,6 @@
     "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3hIVEJReWhldnNyNVRzeGhuZjdJNHh6X1dkSG9CbkliWXducy14dlhrdk0yM09mLTJNcmtRak5JRTlCSW5oVm1vVnY0ZDJod0ZZZmxCd2JScllXdHVvLXlLR1BsOFNuLXBsWGhWWjNoMm1tY0FoN3BaM2F4LUpLZjFVNTI4VmNySFBneWNCWFMxSFRDNUhiWW1WVzhITUIy?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 23, 12:07 PM ET",
-    "publishedAt": "2026-10-23T16:07:30+00:00",
-    "source": "Hostinger",
-    "title": "Cursor vs VS Code: which AI code editor should you choose?",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzT2xGOU1laS1IcEs5WHM1MURpdjlCaWhyU0VpUmVjajNuMVRpUDBpaDRGSzQyZm1FMDlfZ3ZoamVIUkg0cU1meloycEVDVGprQy1COTNKUzFKQk5iOHJRVEJ0bXB2c0U1?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 23, 10:58 AM ET",
-    "publishedAt": "2026-10-23T14:58:12+00:00",
-    "source": "OrcaRouter",
-    "title": "What Is Claude AI? The Models, Plans and Surfaces Anthropic Actually Publishes",
-    "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XUkZyTTFWTmpnYjNCYzNwSUQ2bm8yQjl6VWRaMnVacTNra2tMblJ0eWtYejUtbFBHZ3I2dVVib0djRldvYktSYWJ0OWtwQWtsNkswWG9QOEl4ME8xM2cyZ3FyQ0s4ajgyRnpiWHgwOXZBMnNSTnlPaG1jck5keU0?oc=5",
     "difficulty": "News"
   },
   {
@@ -84,6 +72,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 23, 05:26 AM ET",
+    "publishedAt": "2026-10-23T09:26:40+00:00",
+    "source": "Konsulteer",
+    "title": "OpenAI Launches Decisions API With Up to 10x Faster Processing for Routine AI Tasks",
+    "summary": "Konsulteer is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT3RqUnVteTBoTThTUXZRQWNJYm1aamRLbGs2SEF3b1RnaW5IM0hyTEJDZnowcU5oYS1rajdNNFlRN0xjM3pBODI3a3gwZm1qcXNzdnRua1JtaDBSRDh5cWY0TEVKbTgtZkhvUkVUY3FuQ3E1aVFLSjlnY2NhYnJweTJpME5PcTRXMUdOUUV4YzJHR0k3UEhTUFotUWlUU2JRbWJvRnhwYjBDVUdfeHBBdzRQRC12b1lYYXc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 23, 05:08 AM ET",
@@ -93,18 +93,6 @@
     "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1SGdjUGhYRzY0dnpzYkdqMm91Z0lHNnZTOE5mTC1kZGY2SDY1MTR4cnJNRGpPY3BHZVpZX3N5Rmd1NGZySUc1cTJIVms3MzB2c2pGZUdReTQyRVFZeVFLckhtakh4VnRFbVB1djE4MDVYVnRC?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 23, 03:07 AM ET",
-    "publishedAt": "2026-10-23T07:07:04+00:00",
-    "source": "Fello AI",
-    "title": "Codex vs Cursor: Which to Use After 12 November",
-    "summary": "Fello AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SazZWeTdSRDVRWlU3dFFxV2pEcXFaSXBNSXF2dkdVa0o5TU1NcnJILTQ5VzAyV1M1M3d1OWIyXzhVbkRJZ3lFRGNnamU?oc=5",
     "difficulty": "News"
   },
   {
@@ -141,6 +129,18 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9od1VBRl9jX29qSGVZVDZPZ2g2ekE2WjhYWFltR0oyeHYxeWdEWVhRMHN3bFc3WXVfNlVIcm5mYmtzaWRjUW1WeUVHTW51MTl1ZGYzN3Nsblo5M1lJR3FCV1Zzaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 22, 07:02 AM ET",
+    "publishedAt": "2026-10-22T11:02:36+00:00",
+    "source": "Help Net Security",
+    "title": "Claude Security can now spot vulnerabilities that reappear in code",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWoyZjQ4X0ZoYUtacURwZU4yM1BqbTQ4d284NVJxM3hGc3RmUTFOMHJzcFFFLVdfa3piUzAyVDB0aXAwX1FjTDJRNHlZdUlhVUg1UVVzNXNWaUpIWUdSMmVlQmZaN2NfVTU3Rm85bnkzZ20wemwtck40eERoWmVUWUhyMng3aS02UEViWWs1NA?oc=5",
     "difficulty": "News"
   },
   {
@@ -280,11 +280,11 @@
     "label": "Gemini",
     "time": "Oct 13, 03:00 AM ET",
     "publishedAt": "2026-10-13T07:00:00+00:00",
-    "source": "Google for Developers Blog",
-    "title": "Gemini 4 Argon for Robotics",
-    "summary": "Google for Developers Blog is reporting this update. Open the article for the full story.",
+    "source": "Quartz",
+    "title": "Google is releasing Gemini 4 Argon to developers and paying subscribers",
+    "summary": "Quartz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZ2cwR0ROa3N6T1Z5ZXlHdTR3TkdTTE1VcVNFcF9sQnBoM2tTbHNoUFJ5MFRjNWo0djd4a3hIa2gyUzRYay10YWZzblJPSHJmSzhkWkZrYV9VcTN2QWFCUkMtZ0hCSzJkTjFSckk3RQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTJYVVNQTkVvRExCcU0zdGplVnpUYWw5V2MxVDhhTFI0N1U0ZFNEc1RrclFrTVQyUlFkRkV2UE5zSER5Um82dUFTcHRvVHFmcnZjZjhqcTd6MEdjMV80aXc5T2VPU2tCR3AtUXZweGZSelFmU3pGRFpBY01vc3VmXw?oc=5",
     "difficulty": "News"
   },
   {
@@ -292,11 +292,11 @@
     "label": "Gemini",
     "time": "Oct 13, 03:00 AM ET",
     "publishedAt": "2026-10-13T07:00:00+00:00",
-    "source": "Quartz",
-    "title": "Google is releasing Gemini 4 Argon to developers and paying subscribers",
-    "summary": "Quartz is reporting this update. Open the article for the full story.",
+    "source": "Google for Developers Blog",
+    "title": "Gemini 4 Argon for Robotics",
+    "summary": "Google for Developers Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTJYVVNQTkVvRExCcU0zdGplVnpUYWw5V2MxVDhhTFI0N1U0ZFNEc1RrclFrTVQyUlFkRkV2UE5zSER5Um82dUFTcHRvVHFmcnZjZjhqcTd6MEdjMV80aXc5T2VPU2tCR3AtUXZweGZSelFmU3pGRFpBY01vc3VmXw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZ2cwR0ROa3N6T1Z5ZXlHdTR3TkdTTE1VcVNFcF9sQnBoM2tTbHNoUFJ5MFRjNWo0djd4a3hIa2gyUzRYay10YWZzblJPSHJmSzhkWkZrYV9VcTN2QWFCUkMtZ0hCSzJkTjFSckk3RQ?oc=5",
     "difficulty": "News"
   },
   {
