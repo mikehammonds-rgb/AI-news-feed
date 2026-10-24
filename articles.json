@@ -2,6 +2,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Oct 24, 03:07 PM ET",
+    "publishedAt": "2026-10-24T19:07:44+00:00",
+    "source": "WinBuzzer",
+    "title": "OpenAI’s Decision API Leaves Beta With Voice Integration",
+    "summary": "WinBuzzer is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWpQZndwLVgzWlNSdlpnRUZsel9ZbGg1MWJSSXpFYm9xT2paTGpvZmRWQ1lBWkZHRW1XVEJIa0FBaVVTUHI3Y3NVUVVlZnY5aVFrUEI2VnlnajdDamlKTHZDUG02cmxiT3FaZHlEa0VCbkRrcGZLZnBseS00RjJVZTFLLURFX3l0QlZzNVp3YlREOENiLVN0RTVtZ1hOVjNVVlFySA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Oct 24, 02:44 PM ET",
     "publishedAt": "2026-10-24T18:44:06+00:00",
     "source": "AI Insider",
@@ -16,9 +28,9 @@
     "label": "Gemini",
     "time": "Oct 24, 10:38 AM ET",
     "publishedAt": "2026-10-24T14:38:01+00:00",
-    "source": "tech-insider.org",
+    "source": "https://tech-insider.org/",
     "title": "Gemini 4 Argon: 1M Tokens, $2 Input, Paid Only [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHphR0ZWWmJVNVZ0aGJ1SDBHc3lDN0NHSm81RER3NHBKWmpGS0pLZGZPYUh6S1F3TTZXTVh3UVdwdkIxSE9aZUc3ZU5JSFYwdV9QSldIN2NIXy13RjJrU015WDRsRUdoR1hlMEZaZTlYUlJBVTFXVm1GMXBjdm1OaA?oc=5",
     "difficulty": "News"
@@ -96,27 +108,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 22, 03:45 PM ET",
-    "publishedAt": "2026-10-22T19:45:04+00:00",
-    "source": "Unite.AI",
-    "title": "OpenAI Makes Decisions API Generally Available with GPT-6 Luna",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 23, 03:00 AM ET",
+    "publishedAt": "2026-10-23T07:00:00+00:00",
+    "source": "Fello AI",
+    "title": "Is Google Gemini Free? Google's Free Plan Explained (2026)",
+    "summary": "Fello AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUNSalBEV21ZMzE4MTU0d0tCVmNNZTFybGZOQ1V4YW1ubFZvbnpMdnJmUGZkNXRvcHVuQjQyZGxxT2VZdnl1TGVsSGtnbUtEckdCSHU4MndZZ2dGeTlxQ3hEUW9TV1cxQzZtWmllaFFVaUVLU3pITkVqUC1BQkxrWW9WeUg4M3NHcjdlRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 22, 03:38 PM ET",
-    "publishedAt": "2026-10-22T19:38:27+00:00",
-    "source": "OpenAI",
-    "title": "Build more responsive apps with the Decisions API",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iREpNUDN0cWl4OUk2RWJuZHU1OUp5RVlQcXhjdmVISUtlb3NwZldETExEZnc5cHJJUm9BOGpxNmFHNjZvckFhVFdJZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 13, 03:00 AM ET",
-    "publishedAt": "2026-10-13T07:00:00+00:00",
-    "source": "Google for Developers Blog",
-    "title": "Gemini 4 Argon for Robotics",
-    "summary": "Google for Developers Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZ2cwR0ROa3N6T1Z5ZXlHdTR3TkdTTE1VcVNFcF9sQnBoM2tTbHNoUFJ5MFRjNWo0djd4a3hIa2gyUzRYay10YWZzblJPSHJmSzhkWkZrYV9VcTN2QWFCUkMtZ0hCSzJkTjFSckk3RQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 08, 03:00 AM ET",
@@ -309,6 +297,18 @@
     "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYnppRlN6LTJvazFmMVpuRkhabWtxQ05DN1BTcmhMYnlSZ1A4aXZ6d1o3RkdkcnJyRm12OWpLaHhyNWo0NFlQUUNMMVhDQUxIRnBpTDdVRTFIWGM4VGYtOFM0Mkp3X3E0QUU4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 03:00 AM ET",
+    "publishedAt": "2026-09-29T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "DevDay 2026 Recap",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
     "difficulty": "News"
   },
   {
