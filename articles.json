@@ -1,14 +1,38 @@
 [
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 23, 09:46 PM ET",
-    "publishedAt": "2026-10-24T01:46:02+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Cursor Tutorial: Lint AI Edits in 13 Steps [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 24, 04:20 AM ET",
+    "publishedAt": "2026-10-24T08:20:06+00:00",
+    "source": "shattered.io",
+    "title": "Cloudflare’s 1% Pilot Feeds ChatGPT Search [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNHYyWl9BaXU0YlhiZlpYbmVVWjZQUVpqMEw2ZUlYblY3MUJIQ1R6VFV0dHJoX01LdU1HcVk3eEhManBpdEFubWRSTlltWEstUzZ3anJIbUQ1NmhQRlNfeURlVXZTUmNVNXJBWGxFQVFUNy1CVDVrZTM4am9GdmJtcg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM0R6SkdreVF1UU5PUnljWG5CNjJZQmlVOUlodk5qVVQtMzNJeFltMldTYlQxNGNGYUVCQ3A1NTVEY0hrY3ljTlBDNk8tbG80eU1rWVFvamw4Zi04cTBOMVBCY1IxN2ZrNTlTY3hHUU00VGloUFBPVG5IczRSdmtMeA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 24, 02:48 AM ET",
+    "publishedAt": "2026-10-24T06:48:22+00:00",
+    "source": "Fello AI",
+    "title": "Is Google Gemini Free? Google's Free Plan Explained (2026)",
+    "summary": "Fello AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iREpNUDN0cWl4OUk2RWJuZHU1OUp5RVlQcXhjdmVISUtlb3NwZldETExEZnc5cHJJUm9BOGpxNmFHNjZvckFhVFdJZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 24, 01:20 AM ET",
+    "publishedAt": "2026-10-24T05:20:05+00:00",
+    "source": "shattered.io",
+    "title": "Claude vs GPT: Opus 5.5 vs Sol, 40% vs 50% Cuts [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYZGRSZFNYUUtTc1pJTngzTHZTQVkwd3RNb2F2MEtEY1VoZWRnX19lZnRTbml2RnRNSm9HODg0Vks4dWVJcjBwNmtDQmVjaDBFR3RxTTJUNFVNRWVTSDVsdGluTEU3b2ZFZlpoN1RQT3djUndfQi13bw?oc=5",
     "difficulty": "News"
   },
   {
@@ -24,6 +48,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 23, 03:51 PM ET",
+    "publishedAt": "2026-10-23T19:51:49+00:00",
+    "source": "tech-insider.org",
+    "title": "7 Best AI Chatbots for Aussie Small Business [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbnpEcUU2bUNXcDdMaEIzVUpNT2NNY2JxYngzU0hoVDlBNUVoM01RQTJKWXAzMDFQSkZtM3dVcTJjUEFSSXozbkZiUGkyeGRpaThCSnNZSTBLY0tkRzN2RDgtMEpsMEd4ZHU2WlhNclZXejN0NWZGSWk2TEcwY0U?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 23, 03:03 PM ET",
@@ -33,66 +69,6 @@
     "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3hIVEJReWhldnNyNVRzeGhuZjdJNHh6X1dkSG9CbkliWXducy14dlhrdk0yM09mLTJNcmtRak5JRTlCSW5oVm1vVnY0ZDJod0ZZZmxCd2JScllXdHVvLXlLR1BsOFNuLXBsWGhWWjNoMm1tY0FoN3BaM2F4LUpLZjFVNTI4VmNySFBneWNCWFMxSFRDNUhiWW1WVzhITUIy?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 23, 02:49 PM ET",
-    "publishedAt": "2026-10-23T18:49:01+00:00",
-    "source": "blog.google",
-    "title": "See what 5 builders are making with Gemini 4 Argon",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXBYeFJQQ0o0dlJwWWk1OEFpYTNOUlFLVk5vQXd0MWh6SUd3b0tNQzlLTmhrSGZWMGlfNl9XN0dGLXI3NzRKVHRkaHdqcFpwbDNUV0szeVg0MC11M2ZtaUkwSlZ3M2lrNm5QOWFtV2h2by12TDNYRFNfZDlDWkV5WHB4YVBzQ3pIT0p3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 23, 08:05 AM ET",
-    "publishedAt": "2026-10-23T12:05:00+00:00",
-    "source": "BigGo Finance",
-    "title": "OpenAI Opens Decisions API to All Customers, Cutting Response Times to 100 Milliseconds",
-    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40UFNuVVd6Q1ppUnktbEY5NEtGZEZISnFTeHlaUXdlYWpWekVKeF9HXy00ajM0Q2plZlNKNUFQcnNweFhhMGJacFdaRzRNZkVzVWpxVG50S3Z5UHhzdXc3VThqMWVHNUdKNXk0X0U3NGZELS1PcWc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 23, 07:23 AM ET",
-    "publishedAt": "2026-10-23T11:23:13+00:00",
-    "source": "SitePoint",
-    "title": "Best Claude Tracking Tools in 2026: 6 Options Compared",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54bEFNSktXN2E2YjBFX1k4dkFZN3ZqNm43b3ZaNFlTZGFfZVdxb2JaSU5hT1VzV3FVclV2cEE4ejZvOHMzdGlUSHpkR0lMY1IzSGx3NTNWRV9MTzV6eVQ5QmpuRQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 23, 05:51 AM ET",
-    "publishedAt": "2026-10-23T09:51:13+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Gemini 3.6 Flash in Antigravity: 17% Fewer Tokens [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDRKaGhMN3B6QlVWcDJJNWZIUzA2bVZHdTBxRjZRdmlVUTh3aWdnVjZqa0hHWDRZUE0wUnB4emJyalVwTVRaMzdaQk1jNWNXS0ZUMTFpRlJEZzlITXJCemFhMThQQzdDZWsweE0tOTNIOUUxc1E5VE1kOGVLN0lpd29EcWJ6TVhKZEtrVTlqQzlCdzdD?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 23, 05:29 AM ET",
-    "publishedAt": "2026-10-23T09:29:34+00:00",
-    "source": "GuruFocus",
-    "title": "OpenAI Launches Decisions API to Compete in AI Decision-Making M",
-    "summary": "GuruFocus is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVlXaEdVckhBNWxRUHp1OUw4ZWJQQnVaa3lubzJvdmRkcHltXzNhcXVWUWJpQXFwTnBzZUhLVzVBaG1wZ3M3UURXd0daZFJyUlJ1dTlEdEFQQXVqTkhLdElyYnpnbXNqd1BPUkR0TWpMT3N3SVVUNmgwWktQZ1U5WE1VcWJjcElnZVFGM1paZHh3MUtrNmk2MnN5N3lZVG40YTkwOXVZY1lNelU?oc=5",
     "difficulty": "News"
   },
   {
@@ -146,6 +122,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Oct 22, 09:15 AM ET",
+    "publishedAt": "2026-10-22T13:15:00+00:00",
+    "source": "Yahoo Finance",
+    "title": "Trust3 AI Brings Enterprise Agent Security to Claude Code",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSkVUSjR6ck82M284aUFqamo5WnQ0Q1J6dVNKWllQMGk5Z2I4VkQ3WGExYkNVWm00bmgybWpCUUp1eDJTNGxSUWNkaWdlVl9IY0FZZFNuMlF1ZTZOaDduc3JiWjZLUjR6V1ZXNGpXZVJTX0s0d0hWNndLS2NsQk1tZjlwLTBidlowVmYyZnd5aUZkb2I2VjZfR2Z0bXJLUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Oct 22, 07:02 AM ET",
     "publishedAt": "2026-10-22T11:02:36+00:00",
     "source": "Help Net Security",
@@ -165,18 +153,6 @@
     "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41bllhU1lRUU55d2NROW5Zck9uckdwVFpmemdTRVlhdTVWeU1CRkxHT0VnMjFfZGhTczhES0Y1YmFxczAwTTQ0OW4zRUZGMG41QWtEb2U1Vzc1SWVrMXRCWER4c2NpT3Rk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 21, 06:00 AM ET",
-    "publishedAt": "2026-10-21T10:00:20+00:00",
-    "source": "XDA",
-    "title": "I asked Claude Code to build its own replacement, and it took just 15 minutes",
-    "summary": "XDA is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd19UWlotY2Jkd2hCNGFnbjFRX0dUNEZOXzA0Ym44WDNqcEVXZjItdUsydGdULVE4eU1XdVREb2pzN1Y3dm1WcjlCeWtHdVZRaHd2elN1YXBla1BvZThmbVVsclRsbkdBbi02b3VTQkIzTjNTZUJTSjlXQV9Vb0l1R1Y5aUQ5RllHZ1ZKLWNQRFR4QQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,6 +252,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 18, 04:00 AM ET",
+    "publishedAt": "2026-10-18T08:00:00+00:00",
+    "source": "Search Engine Journal",
+    "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds",
+    "summary": "Search Engine Journal is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNjc0hVUzlfU3pMb29SUUpSYTZXMGVaaVNJMFEyM2o4a0FLeFRmZXNvYzJHZHp4Y3JDNFVUVUVHVC16cU0zdWU4R2FLRXdFZHJoNmJCaFlzVzFJN0ZTN0p0SGJxX0x6a0ZDMk12b0FnaHhwSDFObGJBS2tkOUVGU2o0emo1VktpQktFTVV4OEZ5X2tELWdOVm5VaGVaQXZaQnEwLWotWEdrdw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 13, 03:00 AM ET",
@@ -297,6 +285,18 @@
     "summary": "Google Cloud is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGd3TDcxbjF6SUMyYVQzeHBVVFRMQjVzVVVzQWZBd1FxNnBaVmJXdzgtd1pRcEdDdEdhZlhzSEtHZ09rTVRpN1ZQV0c5VVc5M3d0Q0JUUUlMUUE0dUZ6aWRUSktuZHFXR2JLTEFianRsTEZ0WEs4aUlPTjZvQVBNS0pNT29FbzBVZzZqQUlSM0s2S3pjSEg5bHNLazFkbW1z?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 08, 03:00 AM ET",
+    "publishedAt": "2026-10-08T07:00:00+00:00",
+    "source": "GitGuardian Blog",
+    "title": "AI Hooks for Claude Code, Cursor, and Codex: Block Secrets",
+    "summary": "GitGuardian Blog is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYnppRlN6LTJvazFmMVpuRkhabWtxQ05DN1BTcmhMYnlSZ1A4aXZ6d1o3RkdkcnJyRm12OWpLaHhyNWo0NFlQUUNMMVhDQUxIRnBpTDdVRTFIWGM4VGYtOFM0Mkp3X3E0QUU4?oc=5",
     "difficulty": "News"
   },
   {
