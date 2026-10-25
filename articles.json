@@ -60,6 +60,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 24, 06:53 AM ET",
+    "publishedAt": "2026-10-24T10:53:33+00:00",
+    "source": "OrcaRouter",
+    "title": "Running Kimi K3.1 Pro in Claude Code and Codex: The Config, the Silent Failures, and the One-Line Switch",
+    "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MWmw1S2hudk1mWGs5dXFGTUdEREhESVk5RmRkY1BFbDNya3lKX1duVGNGUDZtelJrMGhXYmg4UHYwQmVXUHZrWGR2dUNIb2ZoTXpvbXJoWV9iSUxoSkdFYjhkLUVFeTlxMzNCMWxvd0lNWmRJ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 24, 04:20 AM ET",
@@ -122,6 +134,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Oct 22, 03:38 PM ET",
+    "publishedAt": "2026-10-22T19:38:27+00:00",
+    "source": "OpenAI",
+    "title": "Build more responsive apps with the Decisions API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Oct 22, 03:00 PM ET",
     "publishedAt": "2026-10-22T19:00:00+00:00",
     "source": "TechCrunch",
@@ -156,18 +180,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 22, 07:02 AM ET",
-    "publishedAt": "2026-10-22T11:02:36+00:00",
-    "source": "Help Net Security",
-    "title": "Claude Security can now spot vulnerabilities that reappear in code",
-    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWoyZjQ4X0ZoYUtacURwZU4yM1BqbTQ4d284NVJxM3hGc3RmUTFOMHJzcFFFLVdfa3piUzAyVDB0aXAwX1FjTDJRNHlZdUlhVUg1UVVzNXNWaUpIWUdSMmVlQmZaN2NfVTU3Rm85bnkzZ20wemwtck40eERoWmVUWUhyMng3aS02UEViWWs1NA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 22, 05:12 AM ET",
@@ -177,6 +189,18 @@
     "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41bllhU1lRUU55d2NROW5Zck9uckdwVFpmemdTRVlhdTVWeU1CRkxHT0VnMjFfZGhTczhES0Y1YmFxczAwTTQ0OW4zRUZGMG41QWtEb2U1Vzc1SWVrMXRCWER4c2NpT3Rk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 21, 06:00 AM ET",
+    "publishedAt": "2026-10-21T10:00:20+00:00",
+    "source": "XDA",
+    "title": "I asked Claude Code to build its own replacement, and it took just 15 minutes",
+    "summary": "XDA is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd19UWlotY2Jkd2hCNGFnbjFRX0dUNEZOXzA0Ym44WDNqcEVXZjItdUsydGdULVE4eU1XdVREb2pzN1Y3dm1WcjlCeWtHdVZRaHd2elN1YXBla1BvZThmbVVsclRsbkdBbi02b3VTQkIzTjNTZUJTSjlXQV9Vb0l1R1Y5aUQ5RllHZ1ZKLWNQRFR4QQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,15 +324,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 03:00 AM ET",
-    "publishedAt": "2026-09-29T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "DevDay 2026 Recap",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 03:00 AM ET",
+    "publishedAt": "2026-10-07T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Haiku 5.5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,30 +381,6 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Apr 23, 03:00 AM ET",
-    "publishedAt": "2026-04-23T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "An update on recent Claude Code quality reports",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbGtBekJzZUdTdWREenUzZnNsOFQwU0VUaFpOM0dOQ25KRUREYnBVbFlWYkVIdk5BWkV2SlZmNnVXMmh2ZkZ3ZTBxNklkMFk5eGFoZy1XZlZBUEJ5ZGhpb2JubU8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 24, 03:00 AM ET",
-    "publishedAt": "2025-11-24T08:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing advanced tool use for Claude",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BTzhCRENrWXdjbHNIVlhZYW5Xa2ZidnRuQWVQVS1ZdlU2VC1mZUZIREFsUnVHaVFycDk4QW9rQlFmSG0xZjVFa1l0U1dNTXNwQVh0MGVmV01ELU8tamF1blRB?oc=5",
     "difficulty": "News"
   }
 ]
