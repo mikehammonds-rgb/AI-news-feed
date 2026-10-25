@@ -2,6 +2,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Oct 24, 05:45 PM ET",
+    "publishedAt": "2026-10-24T21:45:08+00:00",
+    "source": "Online Tech Tips",
+    "title": "OpenAI’s GPT-6.1 Sol shows dramatic improvements in legacy code migration including COBOL",
+    "summary": "Online Tech Tips is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGo0NHZudExPX0g3UmtHSThQSXNwZWtGWkZRQV9zUi1BY3UwNmlYY1FTZHlJdEZzV3dGclpBQWhzWXAyc2VBelpKOXhvSXlPSHRZTlVNZlhlLVBvMXJVTGxyalNpNDNaX09yNS05VTlzN01jdEN4MHJwcURNenIxSURJNzRKMkU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Oct 24, 03:07 PM ET",
     "publishedAt": "2026-10-24T19:07:44+00:00",
     "source": "WinBuzzer",
@@ -60,42 +72,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 24, 06:53 AM ET",
-    "publishedAt": "2026-10-24T10:53:33+00:00",
-    "source": "OrcaRouter",
-    "title": "Running Kimi K3.1 Pro in Claude Code and Codex: The Config, the Silent Failures, and the One-Line Switch",
-    "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MWmw1S2hudk1mWGs5dXFGTUdEREhESVk5RmRkY1BFbDNya3lKX1duVGNGUDZtelJrMGhXYmg4UHYwQmVXUHZrWGR2dUNIb2ZoTXpvbXJoWV9iSUxoSkdFYjhkLUVFeTlxMzNCMWxvd0lNWmRJ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 24, 04:20 AM ET",
-    "publishedAt": "2026-10-24T08:20:06+00:00",
-    "source": "shattered.io",
-    "title": "Cloudflare’s 1% Pilot Feeds ChatGPT Search [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM0R6SkdreVF1UU5PUnljWG5CNjJZQmlVOUlodk5qVVQtMzNJeFltMldTYlQxNGNGYUVCQ3A1NTVEY0hrY3ljTlBDNk8tbG80eU1rWVFvamw4Zi04cTBOMVBCY1IxN2ZrNTlTY3hHUU00VGloUFBPVG5IczRSdmtMeA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 24, 01:20 AM ET",
-    "publishedAt": "2026-10-24T05:20:05+00:00",
-    "source": "shattered.io",
-    "title": "Claude vs GPT: Opus 5.5 vs Sol, 40% vs 50% Cuts [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYZGRSZFNYUUtTc1pJTngzTHZTQVkwd3RNb2F2MEtEY1VoZWRnX19lZnRTbml2RnRNSm9HODg0Vks4dWVJcjBwNmtDQmVjaDBFR3RxTTJUNFVNRWVTSDVsdGluTEU3b2ZFZlpoN1RQT3djUndfQi13bw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 23, 07:18 PM ET",
@@ -134,13 +110,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Oct 22, 03:38 PM ET",
-    "publishedAt": "2026-10-22T19:38:27+00:00",
-    "source": "OpenAI",
-    "title": "Build more responsive apps with the Decisions API",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "time": "Oct 22, 03:45 PM ET",
+    "publishedAt": "2026-10-22T19:45:04+00:00",
+    "source": "Unite.AI",
+    "title": "OpenAI Makes Decisions API Generally Available with GPT-6 Luna",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUNSalBEV21ZMzE4MTU0d0tCVmNNZTFybGZOQ1V4YW1ubFZvbnpMdnJmUGZkNXRvcHVuQjQyZGxxT2VZdnl1TGVsSGtnbUtEckdCSHU4MndZZ2dGeTlxQ3hEUW9TV1cxQzZtWmllaFFVaUVLU3pITkVqUC1BQkxrWW9WeUg4M3NHcjdlRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -201,18 +177,6 @@
     "summary": "XDA is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd19UWlotY2Jkd2hCNGFnbjFRX0dUNEZOXzA0Ym44WDNqcEVXZjItdUsydGdULVE4eU1XdVREb2pzN1Y3dm1WcjlCeWtHdVZRaHd2elN1YXBla1BvZThmbVVsclRsbkdBbi02b3VTQkIzTjNTZUJTSjlXQV9Vb0l1R1Y5aUQ5RllHZ1ZKLWNQRFR4QQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 20, 12:42 PM ET",
-    "publishedAt": "2026-10-20T16:42:53+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUmE2bG9XRjB0WXdKaWphVzhDYWZ3U0ZtaDdxbEhPNnNmcm53dk9VdktBTk9uX29JMUFFb1p5MjJxamsxQnBJdTZ6X09uYmVuSDgwSWVmaG1MR1RzeEJnRlkwZmVlUE1QNnBFaEIta1plSjEtOXM3d3laNlZrcXl3ekRhQjVVbmR2cmhfVExZdW5rRm54cjVJclpfcmtYek9aWnpKSGJ4clZ0ZV93bGdKQ1BtY09URXNLb2F3ZmhZQldlX1MtUWZkXw?oc=5",
     "difficulty": "News"
   },
   {
@@ -336,15 +300,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Sep 25, 03:00 AM ET",
-    "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "CNBC",
-    "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 03:00 AM ET",
+    "publishedAt": "2026-09-29T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "DevDay 2026 Recap",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaE56cEZlT0tlaGw5Mno4QUZnTUFKT3Jod2ZQZEZsSmtxVWg0Vy10M2hwMU1acjNqamZ4LXZ6cS1nNkI2aURrRklYaEFmVVVvZEhWUURVOWhfcEwtZUVDck04WGhuX2ZZd0Rsa0dfMnlhNHExQlVsdDVmOF95V2_SAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,6 +321,18 @@
     "summary": "CIO Dive is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeERFNXJtNk5fQy1MTlpqdG5mQVo3TDlrSkh0NTVMNm1BTWlXYkctQlVLbHAyR1hVVWdLZXZONkRJcE9UR0JOakZWdFVJYlkwNmNwa3lqMlplMFpxQmpxWUVqVW9ZbVBKVEF4SlBPVXU0azFIOUROY004TTh5ZHM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 25, 03:00 AM ET",
+    "publishedAt": "2026-09-25T07:00:00+00:00",
+    "source": "CNBC",
+    "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
+    "summary": "CNBC is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaE56cEZlT0tlaGw5Mno4QUZnTUFKT3Jod2ZQZEZsSmtxVWg0Vy10M2hwMU1acjNqamZ4LXZ6cS1nNkI2aURrRklYaEFmVVVvZEhWUURVOWhfcEwtZUVDck04WGhuX2ZZd0Rsa0dfMnlhNHExQlVsdDVmOF95V2_SAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5",
     "difficulty": "News"
   },
   {
@@ -381,6 +357,30 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "An update on recent Claude Code quality reports",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbGtBekJzZUdTdWREenUzZnNsOFQwU0VUaFpOM0dOQ25KRUREYnBVbFlWYkVIdk5BWkV2SlZmNnVXMmh2ZkZ3ZTBxNklkMFk5eGFoZy1XZlZBUEJ5ZGhpb2JubU8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 24, 03:00 AM ET",
+    "publishedAt": "2025-11-24T08:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing advanced tool use for Claude",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BTzhCRENrWXdjbHNIVlhZYW5Xa2ZidnRuQWVQVS1ZdlU2VC1mZUZIREFsUnVHaVFycDk4QW9rQlFmSG0xZjVFa1l0U1dNTXNwQVh0MGVmV01ELU8tamF1blRB?oc=5",
     "difficulty": "News"
   }
 ]
