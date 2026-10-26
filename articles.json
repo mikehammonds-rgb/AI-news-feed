@@ -1,9 +1,105 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 26, 03:01 PM ET",
+    "publishedAt": "2026-10-26T19:01:29+00:00",
+    "source": "TradingView",
+    "title": "OpenAI unveils new AI model, GPT-6.1 Terra",
+    "summary": "TradingView is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR2RNT2FSUDlWV1BONG50dV9pU2pxUHVrNnZmMzhCbmJCb1k0XzEtSm5UcWhHdzRqZHlKbThSUVhqNDRCUEJjTkZpOGtmX0tjSVJTcklqOGVLX0Z2NmowSzVITThJYWZvVFpoeFdyR1FoUWdTa1ctNE1CMks4alVmQkhZTzNWVXBtTE5PRGppYTRWMDgwbVk4T3YyWWRuSkJ5MHltenZoRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 26, 02:05 PM ET",
+    "publishedAt": "2026-10-26T18:05:36+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-6.1 Terra",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 26, 10:11 AM ET",
-    "publishedAt": "2026-10-26T14:11:16+00:00",
+    "time": "Oct 26, 01:05 PM ET",
+    "publishedAt": "2026-10-26T17:05:23+00:00",
+    "source": "The New Stack",
+    "title": "Claude Code's top enterprise users outspend other Claude users 20 to 1, Anthropic's IPO filing says",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1QlQ5SXlDeF9EZUVLUWQySDd3Zkt2c1U2Wm1yM2lwS1hJZXhUbXMxU3NtVFJUbUVXVEVIRXZaaUM2Sm9vNHpsMncteUlFZUlaMW1OZEtub0VVVXh2ZUtWbkxWV28zQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 26, 01:05 PM ET",
+    "publishedAt": "2026-10-26T17:05:00+00:00",
+    "source": "AOL.com",
+    "title": "Are Your Google Gemini Chats Disappearing? Here's What You Can Do",
+    "summary": "AOL.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNmdfamt0VTJoUEJTU1FXeThIaGljdlpBNWJYRHlYQTYweFFSZTFJRXFaVEpyckVGem5ISmJsTzV6dGhaNkZQZ2xxTTV4S2N2cXdMQ1IyWEpjd3JfbG4tbjFpcktySnVTLUNzOUsyYlctTnZ2S0tldmRnQW5hVkdVZUxqU2FFLTl4VFE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 26, 12:49 PM ET",
+    "publishedAt": "2026-10-26T16:49:42+00:00",
+    "source": "TechCrunch",
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2pOYXpaOW03X0lrN3B2Yzgtby1PZkg2MEdhRlZrcHVLWFUyd0RDSXU4aTllRXZwek01S2pRdFZRVWtyQzZNRXhNOGdXbG82UDJxZ2JlWmZJdlBBYlczM00wLXBfQkt1MEFkdFM1R3VZU1lhaFYtMkFvZEhPSGdPWHZfUjZ5dy1ZTk5kcEdjNGs2MlVDSE1heTJnRTZSb3pvZllLbzlxRTJiaE05ZGF2TFEzaS1xVXdE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 26, 12:41 PM ET",
+    "publishedAt": "2026-10-26T16:41:05+00:00",
+    "source": "MIXED News",
+    "title": "Claude’s full API now works through Google Cloud billing and account permissions",
+    "summary": "MIXED News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRnRQY1JrY2Q4YXNnTW05YkdpWHhaanZMTzdQMFdaMkZxVld6Q285RDA3QS1QZWpxOTZJdzVCdExUNFJ4Snd4QlEteW16WDBYNWJfcmNLVjd1UXB6eTFlWEhxNmJzWWxsakxlTTNsR1dXcVVvWE10WGFyTnhpekdVbjEyVQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 26, 11:59 AM ET",
+    "publishedAt": "2026-10-26T15:59:14+00:00",
+    "source": "shattered.io",
+    "title": "Codex vs Claude Code: 65.5% vs 29.5% Usage [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnQtTy1telV5VlJMSWRzbUJtLW5KNnNBRURmTnFuZ1NaczgxWFl3b3A5NHlUTkxRbkFoME9MUXhCR3RwY3o0Q3lmNlN2QzFDYjhPNnkzOFplRGx6R2xJRlV5ZTduMGZ2ZG5tNnJnMVZWWS10OW9ubm9BaDYxYjJHOA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 26, 11:45 AM ET",
+    "publishedAt": "2026-10-26T15:45:00+00:00",
+    "source": "SecurityBrief New Zealand",
+    "title": "Google puts Gemini 4 Argon on Cloud for enterprise",
+    "summary": "SecurityBrief New Zealand is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd3pOYjk0YWJaSFhKYW1fS0t3Vm1mMmNoSVZPd2pPSk9XZ1YzaXo4V0pqZi1UdVZCTzVEVk13RENCM1Nxc3RYd1piQVlkcUNWZjhlU0QtMDQwb19DazBUOU5uRHRCZk5GVVFSRlBuVmFuYVJaQnpUQ3ZGSkRqOGJEejZmektDRzlZM24zTw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 26, 10:21 AM ET",
+    "publishedAt": "2026-10-26T14:21:58+00:00",
     "source": "The Futurum Group",
     "title": "Claude Agent Observability Can't Be the Audit Record on Its Own",
     "summary": "The Futurum Group is reporting this update. Open the article for the full story.",
@@ -21,42 +117,6 @@
     "summary": "KDnuggets is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblhoeXFkSXQ0QWVHVkZuSnk1NXVZX3dmSlNlTkpqcXp5NE54X2FDRm8xejFlZE5EODQ5QktEdW90eV9xLVl0eGxmUjJRNm55Q0xWZUFnVDRsNERhRkUwRDU1a09XQVBLczZpMGRWSi1WWGNiMVgxYVlBMGRtNnJ1VlBRcmVzbHBrNzJfanNDbFFMUGdiT2c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 26, 09:08 AM ET",
-    "publishedAt": "2026-10-26T13:08:00+00:00",
-    "source": "TradingView",
-    "title": "Anthropic, Frontier AI Models and Enterprise Software, Files for NASDAQ IPO",
-    "summary": "TradingView is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbW5oc25ZSS11X01BMnhoQmlPdFdxT3RYT2VfQzU1U1ZwUWY3U3pJNW56N1dBb3g5VFpFVEFTVUg0MjNKTnVwNkVINVZvNl9wbHhKeUxTVk5FZE9TbzBYbDBSaHR5RjhJX0FWUkExREFNZ01HSnBPM1hDR1hHc3hDYVJ6N0FRVmx4RktOR21LUWNrNUlMUjRIMFh0d3RRcVd6bE1IdmpOM0NmM3ZKSUxDTXBvRkRRWUFfMmZRbnZJRXhVbVAtVGJnb01FNWY1Ui0y?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 26, 07:23 AM ET",
-    "publishedAt": "2026-10-26T11:23:36+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Claude Georgia Voter Data: Paywall Skipped, 0 Records [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZFVYMDJGN1haOGhxcVNGZEtCMENOSzlYdU4xa3p4Q09kLTUxVDVLZ3FvWk1ZTUZsamlwSmVDYV9PazQ1YTh2R3N1UG41US1vNHdhaWZRNnQtaGNzTXluM3Ztb1NDM3lwT1lLVFJfRktocndKTzFuRUlva3pQUWI0WXVQMjljUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 26, 04:07 AM ET",
-    "publishedAt": "2026-10-26T08:07:08+00:00",
-    "source": "Fello AI",
-    "title": "Why Is Gemini So Slow Today? Causes and Fixes (2026)",
-    "summary": "Fello AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YeURnM1czdjhGNEFRWXgxak1DTC05NGxRWjEyUzIzaWlHQmpPQ3JWRnBjcXJYSDZDekh6ZFJVWEUtb3o0SUU2bEt3VU1zbEtiV1ZMRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -84,18 +144,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 25, 10:05 PM ET",
-    "publishedAt": "2026-10-26T02:05:00+00:00",
-    "source": "BigGo Finance",
-    "title": "OpenAI Holds First 'Model Masters' in Seoul; Cutback Wins Top Prize with AI Video Editing",
-    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hS2RjNEYyeEZhb21oWTBrVExkMTJHVjFLc0o0aUdpWDNNSm9MQmZFeF9ocFpzazRlSU5oTTB1ZnFMWHV5UnBQOUg4bndhNVZ5YXFDU21fTUQ3RERPZnNLck5Ic1RJNzBNS1ltdHFVMTBka3RxNmc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 25, 09:33 AM ET",
@@ -105,18 +153,6 @@
     "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVTNDZHFEOUFzb0xVT3JhZHpZNlEtbE14STdGbW1rcFN0VW9mclAzT2N2Zkk4SzhqZ1J5QlpGcDFEd2Y5bEQxLTlQTzdQdnppaWhGTjl4WVYwWVpfV1N0Mm1fTENURmVwdmJuS3ZvZ1kyTVNUdDdncGgxRjU2TlV6ZHNYd1QxUFE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 25, 02:30 AM ET",
-    "publishedAt": "2026-10-25T06:30:11+00:00",
-    "source": "Unite.AI",
-    "title": "Anthropic Investigates Elevated Errors Across Five Claude Models",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0VWT1ZhaXhkVkdab21aZUZvbTF3eFN6RUxKdFhTYkc1ZU9xX21BVkNhamNYamtfV1VTR1pEQnpxZlhZT054SEtfdDRKWFB3T3NXYWpVS0d2TWo4TGJHM1F1VjUtUzJUbmV6NU9VX2JjbGp1Sk5OOGFFcDlWSUdpNlpaUk45dzJyZUxGQlRfUQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -144,6 +180,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 24, 12:05 PM ET",
+    "publishedAt": "2026-10-24T16:05:16+00:00",
+    "source": "shattered.io",
+    "title": "GitHub Copilot vs Claude Code: $19 vs $20 Seats [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83LXB0UWNqX18wOHZ5Q29mTTV0a2wzdUdzemxhcTkzS2ZEQ1pBRXNEa1BkSnZJOTlaal9zWkt0UTI1VWdodTBPaW45RmJLeWJRS2RxdW5Cek9WTkZDTXQwYk5OZUZFVTg?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 24, 10:38 AM ET",
@@ -165,18 +213,6 @@
     "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DaXJOU1pvcnRKbkhvNmRCWVkyTnZic3lBTnppR2NsdEdBSWpRWnJuY0lsQzJScGkxdklZV1BQd2xhd0tIQU5fMTVxdGM3ZnIyR215aFpuLXNTSGlnenE3cGRHNXBtNzlv?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 22, 03:45 PM ET",
-    "publishedAt": "2026-10-22T19:45:04+00:00",
-    "source": "Unite.AI",
-    "title": "OpenAI Makes Decisions API Generally Available with GPT-6 Luna",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUNSalBEV21ZMzE4MTU0d0tCVmNNZTFybGZOQ1V4YW1ubFZvbnpMdnJmUGZkNXRvcHVuQjQyZGxxT2VZdnl1TGVsSGtnbUtEckdCSHU4MndZZ2dGeTlxQ3hEUW9TV1cxQzZtWmllaFFVaUVLU3pITkVqUC1BQkxrWW9WeUg4M3NHcjdlRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -228,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 20, 03:00 AM ET",
-    "publishedAt": "2026-10-20T07:00:00+00:00",
-    "source": "shattered.io",
-    "title": "GitHub Copilot Retires 6 Models, Shifts to GPT-5.6 [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvOWhrckpiRzFLYW10NXB5MUV2bTdDZU9DTHRsQ0lqNXdGUnQxUnI4QmJ1RnVUVlBfUGxiRUdHdHFDczA5MklIeDl4Q3QxVktvV0hKUWxDZGVpeWlzaUFHUm1zX3pqVHFWcnFTQ1ByZVRJdDhC?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 20, 12:45 AM ET",
@@ -249,18 +273,6 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xb2htaGVWY0FyaEZodjBINHNUQk5pOXQ3MDFnWnZmZnh1VEtzRUJkd2NjM3JoUElkS3NtOUlHODZxQ1VOMG5yS0d5dnBqWnpDRUo5NERLTjJqc01XRHdPZWc4NmcyeHJIMmM0U0k0ZGxOX2xGX3R4NEVYSDZhQXc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 19, 07:32 PM ET",
-    "publishedAt": "2026-10-19T23:32:19+00:00",
-    "source": "Amazon Web Services (AWS)",
-    "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock | Artificial Intelligence",
-    "summary": "Amazon Web Services (AWS) is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGtQZ3VDNTRrRVNBTDA4ak5mUlBKUG1kdWpwWDJxQUx2UWxFMGw3Sk85MllYN1gyTENSZEcxa0RwZ2RXLTk5WlE0ejZPZWU0UzI5RVRmUnlLdXgwcjZBUUhEUnI5enprM2NPZVlhbXl6ZUhTVU4wZEpwMjc0SHlQME54Ri1NMk40UmF5bDBReHdEV0V6OWxXVnJVSl9nUkpsTGFQejBtU2tFeEliQXpvZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -285,18 +297,6 @@
     "summary": "Google Cloud is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGd3TDcxbjF6SUMyYVQzeHBVVFRMQjVzVVVzQWZBd1FxNnBaVmJXdzgtd1pRcEdDdEdhZlhzSEtHZ09rTVRpN1ZQV0c5VVc5M3d0Q0JUUUlMUUE0dUZ6aWRUSktuZHFXR2JLTEFianRsTEZ0WEs4aUlPTjZvQVBNS0pNT29FbzBVZzZqQUlSM0s2S3pjSEg5bHNLazFkbW1z?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 13, 03:00 AM ET",
-    "publishedAt": "2026-10-13T07:00:00+00:00",
-    "source": "Google for Developers Blog",
-    "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-    "summary": "Google for Developers Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2p5blgxYkN5OGNOekI3SFkwcm5TeTZBNnAwSTlDX3lPWWh4UkpmeVpCVnRkN3RqZk4xZEFhdHNqR1VzZks2OTY3UlE4V1U4SHN4VXlZMUJFSGRyc180X2hOQmNhMjNDcmNPXzZpaEZnTzdudTBHWHhSZmdwanZyWjdmX2VEMjJYM2xIQVZMWEhkMlZVbWp3dTMtQ0hCV0VGSWpvZ0FPTWY?oc=5",
     "difficulty": "News"
   },
   {
