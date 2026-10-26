@@ -110,13 +110,13 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Oct 23, 07:18 PM ET",
-    "publishedAt": "2026-10-23T23:18:05+00:00",
+    "time": "Oct 23, 11:17 AM ET",
+    "publishedAt": "2026-10-23T15:17:25+00:00",
     "source": "Hostinger",
     "title": "Cursor vs VS Code: which AI code editor should you choose?",
     "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QY3dVYWtrNzhfUFpwUGNValhqamZhVTZxQTlGdUhvMmw4Rlp3MDdwVXhTLU5PbWtaWXhQNU9wVEd0MnRZM0lqaVRJNDFNQkhvbkNRXzZJTTR3eW1LNHlhZ3NtZ28xS2o5?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DaXJOU1pvcnRKbkhvNmRCWVkyTnZic3lBTnppR2NsdEdBSWpRWnJuY0lsQzJScGkxdklZV1BQd2xhd0tIQU5fMTVxdGM3ZnIyR215aFpuLXNTSGlnenE3cGRHNXBtNzlv?oc=5",
     "difficulty": "News"
   },
   {
@@ -300,18 +300,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 29, 03:00 AM ET",
-    "publishedAt": "2026-09-29T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "DevDay 2026 Recap",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 25, 03:00 AM ET",
@@ -357,6 +345,18 @@
     "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 10, 03:00 AM ET",
+    "publishedAt": "2026-09-10T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
     "difficulty": "News"
   },
   {
