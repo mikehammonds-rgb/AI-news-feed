@@ -2,6 +2,54 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Oct 27, 08:29 AM ET",
+    "publishedAt": "2026-10-27T12:29:58+00:00",
+    "source": "Gagadget.com",
+    "title": "OpenAI's GPT-6.1 Terra cuts API prices in half for AI agents",
+    "summary": "Gagadget.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb09JdWhaWlg5Z09GbUl0MEZnSFA0a2VQdVZLZzBUSE5CenF6Wk1tTjQtdXM3R2FrZjJQbVFpd3d4WWVuaWFsRGt2VG1pQWVrMHVyWm1rM3ZMX2JKZ2ttamN4eEswMTVHa2tGeWo0WFF6SkxRWjdwWVRVeFpIbUgtaVlqTS1NMVI2T2trZm83Uy10bFBn0gGaAUFVX3lxTE00eWxKMWxGZnZXODYxNnQ1UGNWZ1lNZjN0YVNEMEVkOVBYSld3SzhIbnJDN05ZTEQwX253a0ZpTGZKTHNJYk9yanUxNUFDMnpmTndDalRiQ0ZXOEtucUlud253WDlrZF9KQlVlNVpHa09DUlBXYkhJdndtalFHdl94bkpQb2hyVlRYeGMyNFNhRU9JWnEweS03OGc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 27, 08:21 AM ET",
+    "publishedAt": "2026-10-27T12:21:52+00:00",
+    "source": "GBHackers News",
+    "title": "Researchers Discover OpenAI API Vulnerability That Leaks Hidden AI Reasoning Traces",
+    "summary": "GBHackers News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZOW1VLVBoMXBzS0JTQ2E0dnp4RVVjNmhnZDNGT0ZLRTBKa0dJWHk4WTY1OWFBU0lDdW1ONGNyMXg3RDF3cFk0bF8yZ09nelRfdUtHN2VfVEtDWWhDelBWUVl6OWtESnlNZS1POXhpN1BTRXhCaHBz0gF8QVVfeXFMTjlqWENTRlEtM1VLd3JZUElWWFQ3eTN1U0ZoSUdseDUtT0xEZ3BUaEI0bUlfY1FGYTlNSWQ1MXJkREpaR0dpSFZEbjRXWXhTZmhXNUxvaTZvTXd0WGV2S21YdHJkeVFKU3UzaWJycG02QmZJMjlfSE1ONDVhMw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 27, 08:13 AM ET",
+    "publishedAt": "2026-10-27T12:13:03+00:00",
+    "source": "KDnuggets",
+    "title": "An Unbiased Look at Google Gemini Omni",
+    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTC1aVDNJN1hEY0FhSzUtR2ZET0FnVXpXeVktb0FjSHpRQ1JENlN6M3o0NnhlWFVVVWFRR2VVQ2hCaTFISWNXM2NRVi1yYVY2ZnZ2Z2tybloyazJQdEMxWGR4bjNIM2FOUW1CM3RfSEFMN2ZoUzVrbWozdnZMRkNnbnZ4TjhKYnBRd2hKUmpCSkNOUFNsMWpFN2VOa1BtWlZoYWc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 27, 06:38 AM ET",
+    "publishedAt": "2026-10-27T10:38:12+00:00",
+    "source": "TestingCatalog AI News",
+    "title": "OpenAI launches GPT-6.1 Terra for precise computer use",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRXZ4NVFHRHgycTFkSlk3VWZzMXFIandrU2NYRFEwSW9nVUg4YWF1VWFoUTFBNzBRLWN1Yk14LTlNQXRSS3NtMVF0TU4yT3J0TWVNNGFaRkF2TDRPV1hPaGVIRGx2blZ2SUFWQmowNTV3ZkEtdWZCVmt5YXVvTXBfU3prTlNfUlNNcWx5eEhIaw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Oct 27, 05:13 AM ET",
     "publishedAt": "2026-10-27T09:13:44+00:00",
     "source": "Dataconomy",
@@ -14,6 +62,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Oct 27, 03:41 AM ET",
+    "publishedAt": "2026-10-27T07:41:23+00:00",
+    "source": "www.techtimes.co.uk",
+    "title": "Anthropic's Claude AI Reached Georgia's Election Data, but Officials Dispute How It Got There",
+    "summary": "www.techtimes.co.uk is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTnhUdHBnVlJCVURIcHY0X3ZKQzREMmN4aGw0UndsZ3N4OWx4aWRKM2ZoTzlWQy1JUG5sSXNDWjlYLXBlbW1BeWVPalcxaVl2ZE5Fc0lnNjFSNXZCNDFrekswczBLTzFMd3Z6Y1RiRk9fZFEzZHBDVlU3NV90SDRCZTI3REItNzBrdWxsYUpDbEdnMlk?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Oct 27, 02:10 AM ET",
     "publishedAt": "2026-10-27T06:10:57+00:00",
     "source": "shattered.io",
@@ -21,18 +81,6 @@
     "summary": "shattered.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3dHdllwYVNQTVVxUVlzLThOd2JESW5NNWJwTzhKaUhsMUZZM05oYUx1eHNINXR1alQtclBjQzNyeHlJYzlpa3JYRW91YU1rZlM0ekVpT2syTEljVkdTTGZKQm1sNTVfWE93ZUo4RkhVa2IzYXVmZjFKSVBOM1RvQndXVzZwQzVPa3c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 27, 12:10 AM ET",
-    "publishedAt": "2026-10-27T04:10:37+00:00",
-    "source": "nokiapoweruser.com",
-    "title": "Gemini 4 Argon: Coding, Autonomous Agents & Gaming Performance - NPowerUser",
-    "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdnZhVzR2OVVoTkpvNm1JSmxhclY0cWk5c0FJNUk2MW5qVm1DdFkyTVNNdm00RjViQThzcTZlMDJMQmtjME9XRWE0SWY0dVlaY2FQeGlnOG9zQ2FpV1o3bl9OZHpDZUFEckVaS0tGMU56dDVuZW1fak9SR2MySVltNlNB?oc=5",
     "difficulty": "News"
   },
   {
@@ -69,18 +117,6 @@
     "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zMFNvUXA3eU1GdUZQbjU3c2g1ak5seUNtc1hLTFJfWVJGdW14dS1hMDNIZGdEN1NkNlNENXRvYVdOcVNiekw0bkFFZFYzUjUyeGJsQTNZYWlySVBwTVo5LWF0eXhkRDE1Zm5Mc3U3aGY?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 26, 07:18 PM ET",
-    "publishedAt": "2026-10-26T23:18:35+00:00",
-    "source": "PYMNTS.com",
-    "title": "OpenAI Unveils Half-Price AI Model to Target Enterprise Automation",
-    "summary": "PYMNTS.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmN5THZQLTZnZjdTSDZmRlo2ZldLSFA4M3I3NnNPaDBQMWp2RUtjTjhpN1hWU01qbGk2UllUcG5vMk5uOEpxTHpxcUpiUXNoNUxqdXVFLVQ5Q2NhRmhwWkUtb0tDUEs3VVFiWXNtTFJQcGh1RjFYWVFWajB5T0d1bXhrUnlZOXh4YS1Hb3hDOTdTZFFndjlmVEItRXRmc3oyZ1ZBeVJvRjZkeGhXcnBkcDBMY0ZwVzdRdWkzcVRvOHhBZw?oc=5",
     "difficulty": "News"
   },
   {
@@ -129,30 +165,6 @@
     "summary": "AOL.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNmdfamt0VTJoUEJTU1FXeThIaGljdlpBNWJYRHlYQTYweFFSZTFJRXFaVEpyckVGem5ISmJsTzV6dGhaNkZQZ2xxTTV4S2N2cXdMQ1IyWEpjd3JfbG4tbjFpcktySnVTLUNzOUsyYlctTnZ2S0tldmRnQW5hVkdVZUxqU2FFLTl4VFE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 26, 12:49 PM ET",
-    "publishedAt": "2026-10-26T16:49:42+00:00",
-    "source": "TechCrunch",
-    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2pOYXpaOW03X0lrN3B2Yzgtby1PZkg2MEdhRlZrcHVLWFUyd0RDSXU4aTllRXZwek01S2pRdFZRVWtyQzZNRXhNOGdXbG82UDJxZ2JlWmZJdlBBYlczM00wLXBfQkt1MEFkdFM1R3VZU1lhaFYtMkFvZEhPSGdPWHZfUjZ5dy1ZTk5kcEdjNGs2MlVDSE1heTJnRTZSb3pvZllLbzlxRTJiaE05ZGF2TFEzaS1xVXdE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 26, 12:41 PM ET",
-    "publishedAt": "2026-10-26T16:41:05+00:00",
-    "source": "MIXED News",
-    "title": "Claude’s full API now works through Google Cloud billing and account permissions",
-    "summary": "MIXED News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRnRQY1JrY2Q4YXNnTW05YkdpWHhaanZMTzdQMFdaMkZxVld6Q285RDA3QS1QZWpxOTZJdzVCdExUNFJ4Snd4QlEteW16WDBYNWJfcmNLVjd1UXB6eTFlWEhxNmJzWWxsakxlTTNsR1dXcVVvWE10WGFyTnhpekdVbjEyVQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,30 +228,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 22, 03:38 PM ET",
-    "publishedAt": "2026-10-22T19:38:27+00:00",
-    "source": "OpenAI",
-    "title": "Build more responsive apps with the Decisions API",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 22, 03:00 PM ET",
-    "publishedAt": "2026-10-22T19:00:00+00:00",
-    "source": "TechCrunch",
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "summary": "TechCrunch is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVDl0aHEyRXI3SGQ4X09saUVHd1VrZFVBbkNXQXlQS0hHV3FwdC0xaEs2T0xyRVNXTlo3cWZKbHZ1MEhsd2pyQUJydWJpRjBTYWlkQUZxZDFySndOdEpUT2YxRm9xR0pIREh0S3NvZjRobERRaHA0ZFhjdTI0NHJfdHo2U1RhRUlodHFrbWtqN0FTMXNXRU1FM1g5aWt5aFRqUXpTelNjdW5wWEQxcHRGV3JrR3NVNXYyX2cyWE16cw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 22, 05:12 AM ET",
@@ -280,11 +268,23 @@
     "label": "Gemini",
     "time": "Oct 13, 03:00 AM ET",
     "publishedAt": "2026-10-13T07:00:00+00:00",
-    "source": "Google for Developers Blog",
-    "title": "Gemini 4 Argon for Robotics",
-    "summary": "Google for Developers Blog is reporting this update. Open the article for the full story.",
+    "source": "Quartz",
+    "title": "Google is releasing Gemini 4 Argon to developers and paying subscribers",
+    "summary": "Quartz is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZ2cwR0ROa3N6T1Z5ZXlHdTR3TkdTTE1VcVNFcF9sQnBoM2tTbHNoUFJ5MFRjNWo0djd4a3hIa2gyUzRYay10YWZzblJPSHJmSzhkWkZrYV9VcTN2QWFCUkMtZ0hCSzJkTjFSckk3RQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTJYVVNQTkVvRExCcU0zdGplVnpUYWw5V2MxVDhhTFI0N1U0ZFNEc1RrclFrTVQyUlFkRkV2UE5zSER5Um82dUFTcHRvVHFmcnZjZjhqcTd6MEdjMV80aXc5T2VPU2tCR3AtUXZweGZSelFmU3pGRFpBY01vc3VmXw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 03:00 AM ET",
+    "publishedAt": "2026-10-07T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Haiku 5.5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5",
     "difficulty": "News"
   },
   {
