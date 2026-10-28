@@ -1,5 +1,53 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 27, 07:16 PM ET",
+    "publishedAt": "2026-10-27T23:16:00+00:00",
+    "source": "Breakingthenews.net",
+    "title": "Anthropic gives GSA 40% off Claude",
+    "summary": "Breakingthenews.net is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3UzWXREaWVPYzBwbmVXVUNKYjF4SXlyYzJLNmx1UzB6aXhpcFdBcmhLdWdiLW5UU3VVNDdZZjZkU0I1ODlnb3VTMUo0ZEplMWp5X3loZm4yZmV1Skt1YlFLNHZsRWZiSDRjanduUEp3dDB0azVtS2ZUak9qRkxGLXlqb3c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 27, 06:40 PM ET",
+    "publishedAt": "2026-10-27T22:40:13+00:00",
+    "source": "Unite.AI",
+    "title": "GSA Expands Anthropic OneGov Agreement with 40% Claude Discount",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOczM4Q01pc2xXUkZTX0xWY0RkVE4zUkVlcEl2dW9kSk5NSTlhbHN0dTE0NmdtYkxnaFdyTWZqdF9QMnp0OVptakZpVTdoZVBtZWEzRHVyR2Q2YnoxT09ORng4R1BXUzdsZHR3Z2JKd2Z1cEl0dS1hcnhsVDBzWkdKbVdqV3NHdDNaNUhBTw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 27, 06:23 PM ET",
+    "publishedAt": "2026-10-27T22:23:13+00:00",
+    "source": "Anthropic",
+    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 27, 04:40 PM ET",
+    "publishedAt": "2026-10-27T20:40:32+00:00",
+    "source": "Northeast Times",
+    "title": "Google DeepMind Opens Genie 4 Preview to Testers, With Audio and Two-Minute Scenes",
+    "summary": "Northeast Times is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZzNqdE5TTS12NmlUMWplc0hzYWEtdkVGWXZ3T0xpVzZxMy1QWkpOVWRYU3RLLUlkOHZ0ZTZ0ai1WZ1d3Z0k2clFucGg5TnBMMUdMeWVFVW1Va2tHcmZEUWFkLWFoMUpsdmNZRTdNeEdVaGlBcUFlRE5DLTBJQk1ZZ2NFRUZPRGRyUG5heXZKa0lhd2d5ZlpJMC1qWGx0V19fMDhZS2UwQ2pBQWlGbkxOdDhodw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 27, 03:49 PM ET",
@@ -50,18 +98,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 27, 01:42 PM ET",
-    "publishedAt": "2026-10-27T17:42:44+00:00",
-    "source": "Quartz",
-    "title": "Google DeepMind is unveiling Genie 4, its most realistic AI world model yet",
-    "summary": "Quartz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmSUx1cW1BWnBETElWNmlYMjdTY3VBZFJmRkx2eVNOcktkWXhiUlVBQUd5eEE2ZUt0YWJMTGRNejV2MTlpUDlnM1hTVVZHd0RKY3hXOTQtd0hyX2dHbFdRd1p3eVRKVmVtdFVzaVp5bHM?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Oct 27, 01:30 PM ET",
     "publishedAt": "2026-10-27T17:30:25+00:00",
     "source": "The Decoder",
@@ -96,6 +132,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 27, 12:06 PM ET",
+    "publishedAt": "2026-10-27T16:06:33+00:00",
+    "source": "Google DeepMind",
+    "title": "Genie 4: A new generation of world simulation",
+    "summary": "Google DeepMind is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSHE1Q2pvLWgzQk5SaDNUVjcwWnpNLUoteDhJZVRLU3RPZjFhX2dtSGdSRW9OVGdLbUZRQ2dyd3pMeWRqNEtUM080azFBX2l6RGZCd2diZkxYU19LSE9HNUNoTUFHa3NLMUN4SjhwMmRXdFFHVW1hVEpsZkxnWTA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 27, 12:00 PM ET",
@@ -108,6 +156,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 27, 12:00 PM ET",
+    "publishedAt": "2026-10-27T16:00:00+00:00",
+    "source": "Bloomberg.com",
+    "title": "Google Upgrades AI World Model That Rattled Video Game Stocks",
+    "summary": "Bloomberg.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUx6Z0xYcXpVWEdaSGswN0tVc3hOdmFXZmNpLWxreG5sallSc0RnbHlQcVpXWGZwRzZfZW5JM19nTkYzRVlyLWVGRktZbG4waVlPajJnVEp1aXJ2TEVMM29sbEJYTFlvY2Q4M2Nna3VLeHNTOEhiN1ZYalplUWRWN0xfbE16RlpfMjdSaFd4Ym1qU1kxWmFKNWl0djluT3VOM3JMN1lycDhPQ1N3UHFaRnln?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 27, 08:29 AM ET",
@@ -117,18 +177,6 @@
     "summary": "Gagadget.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb09JdWhaWlg5Z09GbUl0MEZnSFA0a2VQdVZLZzBUSE5CenF6Wk1tTjQtdXM3R2FrZjJQbVFpd3d4WWVuaWFsRGt2VG1pQWVrMHVyWm1rM3ZMX2JKZ2ttamN4eEswMTVHa2tGeWo0WFF6SkxRWjdwWVRVeFpIbUgtaVlqTS1NMVI2T2trZm83Uy10bFBn0gGaAUFVX3lxTE00eWxKMWxGZnZXODYxNnQ1UGNWZ1lNZjN0YVNEMEVkOVBYSld3SzhIbnJDN05ZTEQwX253a0ZpTGZKTHNJYk9yanUxNUFDMnpmTndDalRiQ0ZXOEtucUlud253WDlrZF9KQlVlNVpHa09DUlBXYkhJdndtalFHdl94bkpQb2hyVlRYeGMyNFNhRU9JWnEweS03OGc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 27, 08:12 AM ET",
-    "publishedAt": "2026-10-27T12:12:36+00:00",
-    "source": "KDnuggets",
-    "title": "An Unbiased Look at Google Gemini Omni",
-    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTC1aVDNJN1hEY0FhSzUtR2ZET0FnVXpXeVktb0FjSHpRQ1JENlN6M3o0NnhlWFVVVWFRR2VVQ2hCaTFISWNXM2NRVi1yYVY2ZnZ2Z2tybloyazJQdEMxWGR4bjNIM2FOUW1CM3RfSEFMN2ZoUzVrbWozdnZMRkNnbnZ4TjhKYnBRd2hKUmpCSkNOUFNsMWpFN2VOa1BtWlZoYWc?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,18 +228,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 26, 01:05 PM ET",
-    "publishedAt": "2026-10-26T17:05:23+00:00",
-    "source": "The New Stack",
-    "title": "Claude Code's top enterprise users outspend other Claude users 20 to 1, Anthropic's IPO filing says",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1QlQ5SXlDeF9EZUVLUWQySDd3Zkt2c1U2Wm1yM2lwS1hJZXhUbXMxU3NtVFJUbUVXVEVIRXZaaUM2Sm9vNHpsMncteUlFZUlaMW1OZEtub0VVVXh2ZUtWbkxWV28zQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 26, 02:07 AM ET",
@@ -201,42 +237,6 @@
     "summary": "Fello AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xYTVxcHBOdlhtemFUcjBoekthU3Q5WEg2eGYtMWJpdVJuU2w0cWV5eXN0S3JOaWJSeHE0ejVwUVBoRksyN1dCSXUwTzVnZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 25, 09:33 AM ET",
-    "publishedAt": "2026-10-25T13:33:07+00:00",
-    "source": "TestingCatalog AI News",
-    "title": "Google AI Studio prepares new Managed Agents hub",
-    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVTNDZHFEOUFzb0xVT3JhZHpZNlEtbE14STdGbW1rcFN0VW9mclAzT2N2Zkk4SzhqZ1J5QlpGcDFEd2Y5bEQxLTlQTzdQdnppaWhGTjl4WVYwWVpfV1N0Mm1fTENURmVwdmJuS3ZvZ1kyTVNUdDdncGgxRjU2TlV6ZHNYd1QxUFE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 25, 02:30 AM ET",
-    "publishedAt": "2026-10-25T06:30:11+00:00",
-    "source": "Unite.AI",
-    "title": "Anthropic Investigates Elevated Errors Across Five Claude Models",
-    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0VWT1ZhaXhkVkdab21aZUZvbTF3eFN6RUxKdFhTYkc1ZU9xX21BVkNhamNYamtfV1VTR1pEQnpxZlhZT054SEtfdDRKWFB3T3NXYWpVS0d2TWo4TGJHM1F1VjUtUzJUbmV6NU9VX2JjbGp1Sk5OOGFFcDlWSUdpNlpaUk45dzJyZUxGQlRfUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 07, 03:00 AM ET",
-    "publishedAt": "2026-10-07T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing Claude Haiku 5.5",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5",
     "difficulty": "News"
   },
   {
