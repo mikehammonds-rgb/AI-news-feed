@@ -2,25 +2,73 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Oct 28, 09:59 PM ET",
-    "publishedAt": "2026-10-29T01:59:59+00:00",
-    "source": "KuCoin",
-    "title": "OpenAI Offers Up to $500 in Monthly API Credits for ChatGPT Pro and Business Users",
-    "summary": "KuCoin is reporting this update. Open the article for the full story.",
+    "time": "Oct 29, 04:21 AM ET",
+    "publishedAt": "2026-10-29T08:21:24+00:00",
+    "source": "36Kr",
+    "title": "Is OpenAI Giving Away Free Money? Claim Up to $500 Monthly OpenAI API Credits Now",
+    "summary": "36Kr is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlRhR3NSaEI2enRZcnV6bF9fV0lZOHdMRUlUcWlZRWNnZV9ZWFlFazJBS3I3ZG51YzVCQWJ3bmkxdUNPSEpLZVZ4bWcwMTRHeGtxUGYwMHE4Ymp0ZUdnVWpfZG1JQ1hNU0RxdWY0SXExRkxCWU5sUF9uV2ctUlR3VVRWdkEzN1FGNlhyLXNEekxlZEpnS3kyWXVxaFdIYkJMbGdRdjRvU09TUEdja0tLbFVR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwc1R2cmpXY3luN2Jac2FBZE4wLUFvTmVtcFNBbnhJYjJXOTFYM2czaWhMUzZQRHJkVnptdk9JRlVndFVjczN2TFlFRXAwQ3pOcUY0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 29, 03:48 AM ET",
+    "publishedAt": "2026-10-29T07:48:42+00:00",
+    "source": "Pasquale Pillitteri",
+    "title": "OpenAI announces up to $500 a month in API credits for ChatGPT Pro and Business",
+    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPejBsSXB4UVkyQlpvY1VOS0F3SXQ5VFpwYUpQT3ZYRklGNlNIbExWbWVpbmxCVmVZUU50eGRnSWwyRlV4RUYyOXoyakRtdWtyd1J3dXFiaGFRSEE2alVFX3pkUnNQcVRVZ2ZLczdQYlh6LTlaSnJxNExzb2VtSmJqNVFOUlRmR3hROGlB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 29, 12:15 AM ET",
+    "publishedAt": "2026-10-29T04:15:55+00:00",
+    "source": "36Kr",
+    "title": "Anthropic Team Zero Rust Experience: Achieves 40% Lower CPU Consumption & 20% Reduced Latency via Claude-Assisted Cross-Language Core API Refactoring",
+    "summary": "36Kr is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kTGNfSEVOdVU3V3lVVzcyYlhiOTQ4Mzk1SFdzUFlLNTRCaTV2cExhMGl6LWVWRS1OWGdHVnNpc00wZHI0b09CbFJuVmlyN1lMYm1v?oc=5",
     "difficulty": "News"
   },
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 28, 04:42 PM ET",
-    "publishedAt": "2026-10-28T20:42:38+00:00",
-    "source": "Fello AI",
-    "title": "Gemini 4 Carbon: Benchmarks, Price and Release Date",
-    "summary": "Fello AI is reporting this update. Open the article for the full story.",
+    "time": "Oct 28, 11:37 PM ET",
+    "publishedAt": "2026-10-29T03:37:50+00:00",
+    "source": "Basic Tutorials",
+    "title": "Gemini 4 Carbon: Google’s New Flagship AI Model for Cybersecurity and Coding",
+    "summary": "Basic Tutorials is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVcWtLNmtLMmtjVjVFUUR3Umo1dnYwSUl6b2FKQ1JzT2RaQWw5OEVlZ2dQVWh5MGllbFptOVI1TnppYnBKMUdhbW84YUw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkRmRGZNTzhySjUzNHhSV0QxSkx6RlgtZzRCOVlVZlFBSkdQSzNfdmpEZ3ZrTFRQVk9pSVpMalZjY1ZpNEVDcl95bk4yQmZpOWJiYWxZOG5wQmtWV3JqSUNmTW90T1pDVVhIZ0lvQzh0RTBjTVdrV1JWV3hsaUhlRldaVnFab0tfSF9Gd2k3cUFsWkRNYThWOGJiakRER0FHYlVhaE1uZXprdEdZ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 28, 11:25 PM ET",
+    "publishedAt": "2026-10-29T03:25:00+00:00",
+    "source": "BigGo Finance",
+    "title": "Anthropic's Zero-Rust Team Rebuilds Core API With Claude, Cutting CPU Consumption by 40%",
+    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WOE5mQmU2VG9Ddng2elNsQXNqWFJkU1o4MFJEQWN2VVR2dk1EMWNvZUpTd1YweGIzek1rMXlZNkcxS1ZoejJmaGt3QjIzTzVWaXZpaWdfNExicU5wQlNKYUd2WUR2WG1ackR2UkxJZnFTOHVSclE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 28, 10:01 PM ET",
+    "publishedAt": "2026-10-29T02:01:53+00:00",
+    "source": "KuCoin",
+    "title": "OpenAI Offers Up to $500 in Monthly API Credits for ChatGPT Pro and Business Users",
+    "summary": "KuCoin is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlRhR3NSaEI2enRZcnV6bF9fV0lZOHdMRUlUcWlZRWNnZV9ZWFlFazJBS3I3ZG51YzVCQWJ3bmkxdUNPSEpLZVZ4bWcwMTRHeGtxUGYwMHE4Ymp0ZUdnVWpfZG1JQ1hNU0RxdWY0SXExRkxCWU5sUF9uV2ctUlR3VVRWdkEzN1FGNlhyLXNEekxlZEpnS3kyWXVxaFdIYkJMbGdRdjRvU09TUEdja0tLbFVR?oc=5",
     "difficulty": "News"
   },
   {
@@ -50,13 +98,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 28, 01:20 PM ET",
-    "publishedAt": "2026-10-28T17:20:48+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Gemini 4 Carbon: 1 Employee Quote, 0 Specs [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "time": "Oct 28, 01:08 PM ET",
+    "publishedAt": "2026-10-28T17:08:56+00:00",
+    "source": "blog.google",
+    "title": "Gemini 4 Carbon: our next frontier model",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYmpzc3VyRVIzQ3JzWm92THpZTzJraHU3eklrdTZrZlZjZzhUa2R3ZlpXem83SEdFTF8wQVVDdmJHYUx5dDhUU2hNTGlwWllwVWU1ZXl2QVVDb1RsYWtFVGZTVHg2VXhuOU4yYVVXWDBHcFo3RmpQVksyaTNwRTZacWdRYzhWaXprRFBRUW1Vb0Jxa28?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -72,6 +120,18 @@
     "difficulty": "News"
   },
   {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 28, 12:58 PM ET",
+    "publishedAt": "2026-10-28T16:58:54+00:00",
+    "source": "Hostinger",
+    "title": "Cursor vs VS Code: which AI code editor should you choose?",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzT2xGOU1laS1IcEs5WHM1MURpdjlCaWhyU0VpUmVjajNuMVRpUDBpaDRGSzQyZm1FMDlfZ3ZoamVIUkg0cU1meloycEVDVGprQy1COTNKUzFKQk5iOHJRVEJ0bXB2c0U1?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 28, 12:22 PM ET",
@@ -81,42 +141,6 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1md2xqdDM4TGFVT2RfUWw5VW1Cb2lOeVVQc1ZxdzBoR0hpODRxSi13Rk1zMHdIZVlOcVlWaVM0aWR2dzQxVEFOQ1ZRaEJGbnVWaE45V3NfSVY?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 28, 07:57 AM ET",
-    "publishedAt": "2026-10-28T11:57:55+00:00",
-    "source": "citybiz",
-    "title": "Anthropic Expands Government Partnership, Offers 40% Discount on Claude",
-    "summary": "citybiz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkEteGpMeWJVM2JfT21TWDcxN3pVcUxrc09FMldZNXphNXl4aWtGeUVJUURhWVNRUzNiVG1WZ1ZOc0Q2a1ZKWGhGTVM5aVk3WWlGOE12V0N6U2R0eGJEYW5wZnBMR2R4SG5rY1lDcTJyVGZwQmhUSnVKa2JxclQ1UTRFSk84V0ZFUllmOFZGMDI4SjRYWFU3MXo3SVdxOUlEVThzcm4wdXdQRzBT?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 28, 07:24 AM ET",
-    "publishedAt": "2026-10-28T11:24:41+00:00",
-    "source": "TradingView",
-    "title": "Anthropic signs deal to expand Claude usage in US governments",
-    "summary": "TradingView is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1lfcUgyQVQyZnFGaElnRUJjOF9BaE83RW9Ic3N3Y2RWZFNlb3haOExGUTRxZDNDVnlLTkRYMS1YMjhadHlIeFZoaTBsaWh6VVRnbmNBZ0ttOVFVaFY0OWl6bWYyR0laOThfNGNlM1gxbEhMZEFScXpPcUZhRFUzRlBGdTJkQkdpN0o4SkFtUnpKWFdGR09DaUZVZy1pd1I5blg0T2tPUVVQeXBibWlLMGlDbW9CYm5rMDZSN21JcWhUZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 28, 04:56 AM ET",
-    "publishedAt": "2026-10-28T08:56:27+00:00",
-    "source": "MIXED News",
-    "title": "Google now saves Gemini API requests by default for new paid projects",
-    "summary": "MIXED News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03a3BMb245ak85a0lDc0ltTHctM0duUEVaUDRsRzdyYnlGcFBoYnNHMDh0NC1NbURzUHJmbzlMdURneVI4WE82VzljVFlab2oxMk41aWpVTHhFWUE1SjBubWp1Zi01SmtYVjVXWUdoODFBcjh1MDFQaS1rRjFsQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,42 +180,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 26, 09:01 PM ET",
-    "publishedAt": "2026-10-27T01:01:59+00:00",
-    "source": "tech-insider.org",
-    "title": "Install Claude Code in Australia: 13 Steps, 30 Min [2026]",
-    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zMFNvUXA3eU1GdUZQbjU3c2g1ak5seUNtc1hLTFJfWVJGdW14dS1hMDNIZGdEN1NkNlNENXRvYVdOcVNiekw0bkFFZFYzUjUyeGJsQTNZYWlySVBwTVo5LWF0eXhkRDE1Zm5Mc3U3aGY?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 26, 07:18 PM ET",
-    "publishedAt": "2026-10-26T23:18:35+00:00",
-    "source": "PYMNTS.com",
-    "title": "OpenAI Unveils Half-Price AI Model to Target Enterprise Automation",
-    "summary": "PYMNTS.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmN5THZQLTZnZjdTSDZmRlo2ZldLSFA4M3I3NnNPaDBQMWp2RUtjTjhpN1hWU01qbGk2UllUcG5vMk5uOEpxTHpxcUpiUXNoNUxqdXVFLVQ5Q2NhRmhwWkUtb0tDUEs3VVFiWXNtTFJQcGh1RjFYWVFWajB5T0d1bXhrUnlZOXh4YS1Hb3hDOTdTZFFndjlmVEItRXRmc3oyZ1ZBeVJvRjZkeGhXcnBkcDBMY0ZwVzdRdWkzcVRvOHhBZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 26, 07:08 PM ET",
-    "publishedAt": "2026-10-26T23:08:59+00:00",
-    "source": "The Register",
-    "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFlaQlJZSTRmSnp5WkJ3ZmprNUU4VnZkNjRCdTFYOEN1QVBSRXlTVnRmVmdWckFMMWc2N2V1OEJhN1VqMVZ3TFhNX0xuUlZsRk10aW9iUTJRNVp3eC1VbzVmOWJtN2ZBS05TUEtyNmkwekpjdU8yVlFuS3R5ejRySlBobEpWam9DS1BJNXBfd21lQlpjTkpSSGVtS3ZXaU0tVHJxN0JiZVlWeUlmZ2c?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 26, 04:35 PM ET",
@@ -225,6 +213,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 26, 03:00 AM ET",
+    "publishedAt": "2026-10-26T07:00:00+00:00",
+    "source": "Channel Insider",
+    "title": "Anthropic Gives Startups Free Claude to Seed Its Next Wave of Customers",
+    "summary": "Channel Insider is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMnBlUGZndjlWcGY5T0tOQzJISDRPUEJVTFdJZW92bnBYZWo0anJobngwOXAtY1R5Q0FudTlRNmxuT3V0NnYtYkNMREdHYktGOHNSLUJqUm5Eeks3MHU4Q203YUxsWU12YzF1a2JLaWtRVEE0czVaNDQxVVpMOFdvZUt1bFNkVUY4RDlHbmZn?oc=5",
     "difficulty": "News"
   },
   {
@@ -266,18 +266,6 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Oct 22, 05:12 AM ET",
-    "publishedAt": "2026-10-22T09:12:00+00:00",
-    "source": "The Tech Buzz",
-    "title": "Cursor vs GitHub Copilot 2027: Which Is Better?",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41bllhU1lRUU55d2NROW5Zck9uckdwVFpmemdTRVlhdTVWeU1CRkxHT0VnMjFfZGhTczhES0Y1YmFxczAwTTQ0OW4zRUZGMG41QWtEb2U1Vzc1SWVrMXRCWER4c2NpT3Rk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
     "time": "Oct 18, 03:00 AM ET",
     "publishedAt": "2026-10-18T07:00:00+00:00",
     "source": "https://tech-insider.org/",
@@ -285,6 +273,18 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90OUI3ZmVaTHE1NUR0d0hPb0J1dksyUTdrWEFIZUFRN1U1ZEdXZXBKNTJnU3k3bTdfY2JDaklXUmZDSFd2NjdGOUFVTlNEVVhpQk1wWHF2RjZENGZVT2MzVkE3c0JDTHFoZktiSjdxd2ZFakdGU1NadA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 13, 03:00 AM ET",
+    "publishedAt": "2026-10-13T07:00:00+00:00",
+    "source": "Google Cloud",
+    "title": "Gemini 4 Argon available on Google Cloud, built to help solve your business’ hardest problems",
+    "summary": "Google Cloud is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGd3TDcxbjF6SUMyYVQzeHBVVFRMQjVzVVVzQWZBd1FxNnBaVmJXdzgtd1pRcEdDdEdhZlhzSEtHZ09rTVRpN1ZQV0c5VVc5M3d0Q0JUUUlMUUE0dUZ6aWRUSktuZHFXR2JLTEFianRsTEZ0WEs4aUlPTjZvQVBNS0pNT29FbzBVZzZqQUlSM0s2S3pjSEg5bHNLazFkbW1z?oc=5",
     "difficulty": "News"
   },
   {
@@ -316,11 +316,11 @@
     "label": "Codex / LLM Code",
     "time": "Sep 25, 03:00 AM ET",
     "publishedAt": "2026-09-25T07:00:00+00:00",
-    "source": "The Official Microsoft Blog",
-    "title": "Introducing the new Copilot with Home, Code and Autopilot",
-    "summary": "The Official Microsoft Blog is reporting this update. Open the article for the full story.",
+    "source": "Yahoo Finance",
+    "title": "Microsoft relaunches Copilot app with coding and AI agents",
+    "summary": "Yahoo Finance is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb1pEWkdWanVyVWp0UlV0a0NvTDZLU0Q0eXZwcXc1Tmt0eFl6RElRSklVR1N4Y2xUYnljNDJDaTQ3SlR3OUVRVkhXd0JMbkpBME42dFNmMk1pWjBkQXRnUDQ3c25zY1d0ZVMwa04wcDBXR3lhSFF4Z25GYTJIYjJQWjZPZjVWdjZ5dGU0RGYzQzBYNjhuel9sbmNzZE56cmh2a3BfT2pR?oc=5",
     "difficulty": "News"
   },
   {
