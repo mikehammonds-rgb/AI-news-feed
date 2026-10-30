@@ -2,6 +2,42 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Oct 30, 04:42 PM ET",
+    "publishedAt": "2026-10-30T20:42:57+00:00",
+    "source": "Chrome Unboxed",
+    "title": "Google’s Gemini 4 Carbon and Genie 4 just changed how AI builds software and worlds",
+    "summary": "Chrome Unboxed is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWc3Tmp4NmR2TWI1NC1KRHVsZjh3MDFfcFl3YTgxZVVlSWZoNVl6VUE2di1TLVgzWHZ4MmRqNkxtMXlSLVVKMjRZSTFRQVktU0ZwUVlvOUNWcnlRZnpVeU5waTBSLUVNLTYwQVJwX0dqbXQxMG9JcEJSRGdOaXpsNlNER3ZYQTB5UURCRGVmVlRoalBsazdhVnJfMkUzbE9raDhDYW5SbnlBM0tjZ3c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 30, 04:15 PM ET",
+    "publishedAt": "2026-10-30T20:15:41+00:00",
+    "source": "The New Stack",
+    "title": "Anthropic just removed one of Claude’s biggest usage limits — but not for everyone",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2WWg2bVhLZjRZVDBxMExxSjVlY1U4ZGJyVFlxT0xNTXhxd1prSlZYV2JsQlM5NzBnLWVPcjExQlVjRV9lY3Q1VUJGVEJKX0lMZ000RUJlR25QZllZeGNr?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 30, 04:07 PM ET",
+    "publishedAt": "2026-10-30T20:07:26+00:00",
+    "source": "FourWeekMBA",
+    "title": "Polymarket’s $2.7M Drain and a Tampered Claude Code Add-On",
+    "summary": "FourWeekMBA is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdmFfeG1hMmk3dnhwNHVGVWlweXQ2bXdFMmZYay1ldzJzNVRMVDN0QWRwekFyMTNQdlk0bk93X1hPbS1UUmNNbkV6WWdMLUx4SFVUYWZKZEwySVVaZHVrd0UyeTl1c3hOVS12OUZCLUpyUVNRSDdzVENnSHpTcGlIOGdFZTJLd2lPUXVqSQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Oct 30, 12:11 PM ET",
     "publishedAt": "2026-10-30T16:11:00+00:00",
     "source": "Small Business Trends",
@@ -33,30 +69,6 @@
     "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY2RPZzhmclF2N2I0Q09oQjl0QjNMVWdmcGcxaGhVa0dHSi1PYXVPWGRIdkpTUk9HWUxLeVE4eXVsN1cwdzZPaDNjM3k0V1JISGdKeGF1QXVmZ3A5empvbTdIXy1LcEF1SHhFeXVnU2hJZWVwT3BRM2pPOG9ZVXdjQmpfYW1pYk9Nb0RxdVZMaWh3bmJCYWhXa0lKdHNlaDFQY1RtZHdnRTlBbWtXWEJfdldPUWZmRUJLUDNqM2xFYUJHSmN2TF83LUdYa2phNVBXSDQwREV3?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 30, 08:35 AM ET",
-    "publishedAt": "2026-10-30T12:35:35+00:00",
-    "source": "GBHackers News",
-    "title": "New AI-Powered NIK C2 Malware Uses OpenAI API to Help Hackers Steal Data and Control Windows PCs",
-    "summary": "GBHackers News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1NDJhSXBEWmJmaFQ1M2I1WC14UEQ0V1d5OGV4eml4T2ljcmpoTVZhRld4RG03blBKa2c3UWVzODZuLXItbU1WWW5KYVJjUdIBU0FVX3lxTFBVdnNaUXI0SjNVUHhLb1BtN0tlb1FuVWZxaEFwSW52NkdUbFh0Nnp3YkYtUlFtS3FBZ3R0N2xtcUFCRlVMT2c2eGhIbDFteE9JRkww?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 30, 08:31 AM ET",
-    "publishedAt": "2026-10-30T12:31:31+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Claude vs ChatGPT vs Gemini: Carbon, Opus 5.5, Terra [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSHNTUmdWNllzaW0wcUVsNkhZMExBdGgySEdOcGYwck9TMWtablFiS0VyTDNOeFdJd0NFRXJpV0JpNDNaVjMtQkFQbkhwbmJwbHMtcE9lZ3oxMHBBa09kVDRmZnMtZmlQb0Z0anhGaWY2MFczVS1wZ0E2NjhicmFtWTlYMEtKdjdXOHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -93,30 +105,6 @@
     "summary": "Music Business Worldwide is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSUprUEU5bGhBaGJxaTVJcEVhMWppc3U1M1drNGVsMU1yZ0tjT2JLNXBva3BZYU5pN2lGTm1jWi1JUjdBYlE1UHBtYkx0N09iY1BObGVqYVNoVmFocnZXLXRQb193M3JRUnFsZnBEUnFzUmtaVzZLSTlWalNNcW1LNi1yWmZiNTk4VThjWTNWTUxqc0lkZUhLV2tmbkpmQXN3MnRZUWx1QWVCbEZ5N0ltX2VxVm5MUEdWdXVnakhCbV9pcm9ibkcwdW94allaQkRFX1BUa1FuU195N2hwYkFERDc5cGcwcmUyMDdGeTQweEhrdUNDOWZOYVh5UUo4cWQwei1iNDk2VQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 30, 03:23 AM ET",
-    "publishedAt": "2026-10-30T07:23:38+00:00",
-    "source": "FourWeekMBA",
-    "title": "Anthropic Lifts Claude API Requests to 128 MB, 6.4x Bedrock",
-    "summary": "FourWeekMBA is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHU0amdRYUVlODdNTWg1VElpUGpyUlZ3RWp2MlJ4WnJMTzJaN3pCa2NrM0UtYnpzQndHa0lVdXRiM3V5X3dxa1lBUFNyTEdwdXB4cUNFQnpScmczS2pTM3BPeW45NzVwTllPV21rbTVXejFoOUg4OTZFYWJ4TTdwUlNLM3hodFNlMy1YZEVqUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 30, 02:21 AM ET",
-    "publishedAt": "2026-10-30T06:21:33+00:00",
-    "source": "Cyber Press",
-    "title": "NIK C2 Malware Abuses OpenAI API to Analyze Stolen Data and Assist Hackers During Attacks",
-    "summary": "Cyber Press is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsM2FtU19EUXotTkU5c244T0ZKVVktLVlSMDNfOWRsbWprYkN6R0VGQUtycFZjYTU5LW10V1RueFB2X3V6bzV2aC00TkFwUEZjSEVnUzY2a9IBV0FVX3lxTFBsM2FtU19EUXotTkU5c244T0ZKVVktLVlSMDNfOWRsbWprYkN6R0VGQUtycFZjYTU5LW10V1RueFB2X3V6bzV2aC00TkFwUEZjSEVnUzY2aw?oc=5",
     "difficulty": "News"
   },
   {
@@ -206,18 +194,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 28, 04:56 AM ET",
-    "publishedAt": "2026-10-28T08:56:27+00:00",
-    "source": "MIXED News",
-    "title": "Google now saves Gemini API requests by default for new paid projects",
-    "summary": "MIXED News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03a3BMb245ak85a0lDc0ltTHctM0duUEVaUDRsRzdyYnlGcFBoYnNHMDh0NC1NbURzUHJmbzlMdURneVI4WE82VzljVFlab2oxMk41aWpVTHhFWUE1SjBubWp1Zi01SmtYVjVXWUdoODFBcjh1MDFQaS1rRjFsQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Oct 28, 03:00 AM ET",
     "publishedAt": "2026-10-28T07:00:00+00:00",
     "source": "Fello AI",
@@ -237,6 +213,18 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 27, 12:12 PM ET",
+    "publishedAt": "2026-10-27T16:12:24+00:00",
+    "source": "OpenAI",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ca1otcHJaQVN6SUk5ck9iOTRENVdhWW82Q3o4aW9DTjZIaXhhUngxSDFQNXAtbVRkSGh0a1M5OFp4LVM4Qm5HaXJCbHYxMjU2WEVPZG1KZVlLWjhY?oc=5",
     "difficulty": "News"
   },
   {
@@ -273,6 +261,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 26, 10:05 AM ET",
+    "publishedAt": "2026-10-26T14:05:12+00:00",
+    "source": "KDnuggets",
+    "title": "Building Your First AI Agent in Python with the OpenAI Agents SDK",
+    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblhoeXFkSXQ0QWVHVkZuSnk1NXVZX3dmSlNlTkpqcXp5NE54X2FDRm8xejFlZE5EODQ5QktEdW90eV9xLVl0eGxmUjJRNm55Q0xWZUFnVDRsNERhRkUwRDU1a09XQVBLczZpMGRWSi1WWGNiMVgxYVlBMGRtNnJ1VlBRcmVzbHBrNzJfanNDbFFMUGdiT2c?oc=5",
     "difficulty": "News"
   },
   {
