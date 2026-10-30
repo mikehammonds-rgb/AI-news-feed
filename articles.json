@@ -1,5 +1,65 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 30, 03:23 AM ET",
+    "publishedAt": "2026-10-30T07:23:38+00:00",
+    "source": "FourWeekMBA",
+    "title": "Anthropic Lifts Claude API Requests to 128 MB, 6.4x Bedrock",
+    "summary": "FourWeekMBA is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHU0amdRYUVlODdNTWg1VElpUGpyUlZ3RWp2MlJ4WnJMTzJaN3pCa2NrM0UtYnpzQndHa0lVdXRiM3V5X3dxa1lBUFNyTEdwdXB4cUNFQnpScmczS2pTM3BPeW45NzVwTllPV21rbTVXejFoOUg4OTZFYWJ4TTdwUlNLM3hodFNlMy1YZEVqUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 29, 11:21 PM ET",
+    "publishedAt": "2026-10-30T03:21:01+00:00",
+    "source": "Cyprus Shipping News",
+    "title": "Trust3 AI brings enterprise agent security to Claude Code",
+    "summary": "Cyprus Shipping News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ2dRSFV3Q0Y4enhabTc4RUlKVms0WkVKTk44UEl3akF5M2RwZ0lkYkU1Y0lfclh6Zkp2M1VaNWJCS1gzQ0VpSURBcHRKZ0QzQVdtbXBZaHJjcXRNUDlFNTRVUFFtbzZ3emJ2ZVZwNmFkR21yc3NxOWtvUGZvSkZsd1kwZXBkVWJQUThRZE1TbUw2N1lMSENQVU05bGpZWjVrcGc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 29, 09:43 PM ET",
+    "publishedAt": "2026-10-30T01:43:02+00:00",
+    "source": "Fello AI",
+    "title": "Is Google Gemini Free? Google's Free Plan Explained (2026)",
+    "summary": "Fello AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iREpNUDN0cWl4OUk2RWJuZHU1OUp5RVlQcXhjdmVISUtlb3NwZldETExEZnc5cHJJUm9BOGpxNmFHNjZvckFhVFdJZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 29, 09:37 PM ET",
+    "publishedAt": "2026-10-30T01:37:32+00:00",
+    "source": "Startup Fortune",
+    "title": "Anthropic quadruples Claude API request cap to 128 MB from 32 MB",
+    "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2tnWEM2QWZjMHNGcnZmR2trcUVNZkZMWG0zWVJsZ1Z2eTN5UUtTS1RvTGprdGtFQVRfbnljemFkYjIzNkZKa2NYQ0JUbHVWcnRxWHVCQ2lYZHd4QXFDdUpRWm55UjhGUjQta1d2YjAzcVBGWDlvRWNrMmdSNHBjck1NVjU4MTc3QmV2cGswSUNJTHFjOW8w?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 29, 06:54 PM ET",
+    "publishedAt": "2026-10-29T22:54:45+00:00",
+    "source": "Fello AI",
+    "title": "Gemini Pricing 2026: Plans, API & Workspace Cost Guide",
+    "summary": "Fello AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wVjJONnhJWDF0R0VkeGNaTVRlN01LTmxBVnkzeXl4dk5JeXc3QzU5Q2U3VTYyd1ZlLTdXN3pTZjVFeWxVamJUdkdpUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 29, 01:40 PM ET",
@@ -72,18 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 29, 08:00 AM ET",
-    "publishedAt": "2026-10-29T12:00:00+00:00",
-    "source": "The Tech Buzz",
-    "title": "Claude vs ChatGPT 2027: Which Is Better?",
-    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TZUpmUHlNa3JZVDZPR3FXSENQem9aYTN4c1BCenRKN1JpcWVGbFFKcWVmZ1NZdnJZamdmV1o4MVlXeVRqd2xsRFAxMkpiVUs5UHA5NmxGaGk2ejZaR2t3?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 29, 06:25 AM ET",
@@ -93,42 +141,6 @@
     "summary": "EdTech Innovation Hub is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRmNjRmRQX2dwakpCMk9Wblo4NzBscnBaOWtiYjkzX1ZiQ3Vob05DaFhZbFZaYkJHLUprT2I2V2drczVLamRnRjJyS3ExUE83ZWF1SnRCLXUtSkpxN2hBalRwdHZGZWljNE5RQkJQOGZOOGRvWTU0d0JROWJvSndwSzloOVRPQUFhbjdDRnlQdElDUzVGekFYZXhRSFhmb1F4aHlsZ0U3QlZOTTlhS1JyaWI4bUtfUTNMLVVzOGdn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 29, 06:04 AM ET",
-    "publishedAt": "2026-10-29T10:04:52+00:00",
-    "source": "Cisco Talos Blog",
-    "title": "NIK C2: The new AI-enabled command-and-control framework",
-    "summary": "Cisco Talos Blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xbXVhTFBxc1kwOVBmd0tBVnpkZXpwNkl3MGRVT0FBR2xVWDFJR2M0R1AxY1Ric05oQnRtODN5emZZZG01UXNIeFF3bTNUT0ktaVpndl8zdnZoV0Q0X0IyOWpYQ3BURjY4YlNfX255QXAtajliTlE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 29, 04:25 AM ET",
-    "publishedAt": "2026-10-29T08:25:00+00:00",
-    "source": "BigGo Finance",
-    "title": "OpenAI Gives Pro and Business Subscribers Free API Credits Worth Up to $500 a Month",
-    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KR1dScXJMdVVQMlowZjh4T19BeFJkX1Z2WC1lc241Nk5rZkZnZTZYZlA4TVpIOUZQdGg1WFdWQU5tSlRET2p0OGQ2Uy1GNG8welhfUnFoMHF1cC1rQVFaZUhTREh1ZWp4UFI1Wld5cm8tRmRUbnc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 29, 04:21 AM ET",
-    "publishedAt": "2026-10-29T08:21:24+00:00",
-    "source": "36Kr",
-    "title": "Is OpenAI Giving Away Free Money? Claim Up to $500 Monthly OpenAI API Credits Now",
-    "summary": "36Kr is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwc1R2cmpXY3luN2Jac2FBZE4wLUFvTmVtcFNBbnhJYjJXOTFYM2czaWhMUzZQRHJkVnptdk9JRlVndFVjczN2TFlFRXAwQ3pOcUY0?oc=5",
     "difficulty": "News"
   },
   {
@@ -146,13 +158,13 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 28, 01:08 PM ET",
-    "publishedAt": "2026-10-28T17:08:56+00:00",
-    "source": "blog.google",
-    "title": "Gemini 4 Carbon: our next frontier model",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "time": "Oct 28, 01:35 PM ET",
+    "publishedAt": "2026-10-28T17:35:35+00:00",
+    "source": "shattered.io",
+    "title": "ChatGPT vs Claude vs Gemini Test: 12 Steps, 90 Min [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzJoa0dYcHozYXk5WkJSbTFOUmNSLTVmVlNHSTZWSDlyU19VVkd6T0FVZEZQaFk2OUc1VVdhODZhODhHSU9GdndsajZkTEYwbldOd1dXb2YzSE1LU2JWZl9OUjV6R0xObGVBWm9uWVhPalF1OEpEOW1oYXU5bVNYQkxxd0JUa3M?oc=5",
     "difficulty": "News"
   },
   {
@@ -168,18 +180,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 28, 12:22 PM ET",
-    "publishedAt": "2026-10-28T16:22:17+00:00",
-    "source": "The New Stack",
-    "title": "GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats Claude Code for half the API cost",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1md2xqdDM4TGFVT2RfUWw5VW1Cb2lOeVVQc1ZxdzBoR0hpODRxSi13Rk1zMHdIZVlOcVlWaVM0aWR2dzQxVEFOQ1ZRaEJGbnVWaE45V3NfSVY?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 28, 04:56 AM ET",
@@ -189,18 +189,6 @@
     "summary": "MIXED News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03a3BMb245ak85a0lDc0ltTHctM0duUEVaUDRsRzdyYnlGcFBoYnNHMDh0NC1NbURzUHJmbzlMdURneVI4WE82VzljVFlab2oxMk41aWpVTHhFWUE1SjBubWp1Zi01SmtYVjVXWUdoODFBcjh1MDFQaS1rRjFsQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 28, 03:00 AM ET",
-    "publishedAt": "2026-10-28T07:00:00+00:00",
-    "source": "Fello AI",
-    "title": "Why Is Gemini So Slow Today? Causes and Fixes (2026)",
-    "summary": "Fello AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YeURnM1czdjhGNEFRWXgxak1DTC05NGxRWjEyUzIzaWlHQmpPQ3JWRnBjcXJYSDZDekh6ZFJVWEUtb3o0SUU2bEt3VU1zbEtiV1ZMRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -218,13 +206,13 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Oct 27, 12:12 PM ET",
-    "publishedAt": "2026-10-27T16:12:24+00:00",
-    "source": "OpenAI",
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "time": "Oct 27, 01:44 PM ET",
+    "publishedAt": "2026-10-27T17:44:57+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Researchers Exploit OpenAI API Flaw to Extract Hidden GPT-5.6 Reasoning Traces",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ca1otcHJaQVN6SUk5ck9iOTRENVdhWW82Q3o4aW9DTjZIaXhhUngxSDFQNXAtbVRkSGh0a1M5OFp4LVM4Qm5HaXJCbHYxMjU2WEVPZG1KZVlLWjhY?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySVFHWS04OWdQMk1wWGtQUkpfamZMSEExNENRTWRPRkd2S0xwQWZ5eVhLelVyYzFOYUt1ZmJuQXVsSGVRbVFRbmNwWmNKdExWUS1GUVFkdXpVT08zSWdrZFJ4QXFRU1hWNWswck8yUmtabW9w0gF6QVVfeXFMT2N0d1JNUHJQb2V3LVkwRmlPSXNlVEs2d0VqV3oyZWtsQktOekNsTXRlazl3UW9TTFI4NjRwY3JEd2Q0RWhYeUNuSmhBRlZqMkNHRm5OZ3B3aDVmNXRNTDBMaFgzV0VrWXRpM2ZsblVrMDRnVU1yUEFJWHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -242,13 +230,25 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 26, 10:37 PM ET",
-    "publishedAt": "2026-10-27T02:37:16+00:00",
-    "source": "shattered.io",
-    "title": "Codex vs Claude Code: 65.5% vs 29.5% Usage [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "time": "Oct 27, 08:00 AM ET",
+    "publishedAt": "2026-10-27T12:00:00+00:00",
+    "source": "GSA (.gov)",
+    "title": "GSA, Anthropic Reach OneGov Agreement on Discounted, Consumption-Based Pricing for Claude",
+    "summary": "GSA (.gov) is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnQtTy1telV5VlJMSWRzbUJtLW5KNnNBRURmTnFuZ1NaczgxWFl3b3A5NHlUTkxRbkFoME9MUXhCR3RwY3o0Q3lmNlN2QzFDYjhPNnkzOFplRGx6R2xJRlV5ZTduMGZ2ZG5tNnJnMVZWWS10OW9ubm9BaDYxYjJHOA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQnRuaDM2Y2lvbmNsNFlnUk9xXzRrQUlCVk9XUnZ6ZHdUQ0VQNzI4X2U1OU1Nc0VaMm9EdUlTTG1PSFdtdFpjNERVNjcyajJ2NG5zNkM1WHpQYnpFdVB1dzFnRndSOVN2eFQ2ZEFuZmhCR2RINThQb09WQ2gxdnY4VEpvOEN2bTBhT1dyRDg3bjd6eDdxUUcxR1puakhPWE8zNVI2Z2RoWXRtT1V2RjJLbnNPV05McWJDZElUY3NzaXhFeHJ4TU9fOXlORzhnTm9uR0tF?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 26, 07:08 PM ET",
+    "publishedAt": "2026-10-26T23:08:59+00:00",
+    "source": "The Register",
+    "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
+    "summary": "The Register is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFlaQlJZSTRmSnp5WkJ3ZmprNUU4VnZkNjRCdTFYOEN1QVBSRXlTVnRmVmdWckFMMWc2N2V1OEJhN1VqMVZ3TFhNX0xuUlZsRk10aW9iUTJRNVp3eC1VbzVmOWJtN2ZBS05TUEtyNmkwekpjdU8yVlFuS3R5ejRySlBobEpWam9DS1BJNXBfd21lQlpjTkpSSGVtS3ZXaU0tVHJxN0JiZVlWeUlmZ2c?oc=5",
     "difficulty": "News"
   },
   {
@@ -276,15 +276,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 19, 10:57 AM ET",
-    "publishedAt": "2026-10-19T14:57:23+00:00",
-    "source": "SitePoint",
-    "title": "How to Install Claude Code in VS Code: 2025 Setup Guide",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 26, 03:00 AM ET",
+    "publishedAt": "2026-10-26T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RNko0bnNWb0pOaUlBcnZnZEljb3dXTnlYb1JHejJaR0MxZDgwM096NVBPcjBja1ZaWnpicVVQQTdOLWhPQktSdURpQ29LRHB1Q1pqcHVtTXZRVm04eUxLLVgyM0I1MHdpbC1Fbl9tQm1RZHRLaTFFVF9oblpsUHM?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
     "difficulty": "News"
   },
   {
