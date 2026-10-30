@@ -1,5 +1,29 @@
 [
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 30, 12:11 PM ET",
+    "publishedAt": "2026-10-30T16:11:00+00:00",
+    "source": "Small Business Trends",
+    "title": "Developers Can Now Leverage Gemini 4 Argon for Complex Workflows",
+    "summary": "Small Business Trends is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3lBSW00ZEowRHF4TUNDN0xpNXU3OHBtNzJmM19oeUNveVRjQUtVMlRoYXAwZXJOVnVXYUVUcFRac2pneDI2WTFWR184YlNkN19tWEtLRnZPVFpiOEZRX28wVy1md0VwR0xmNl9TMU9tT2JSaU9pZDlITEs2LXA2Qll4eDJ3R2NzTTRmYzRqeXBVMVo4MEYw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 30, 10:59 AM ET",
+    "publishedAt": "2026-10-30T14:59:34+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Hackers Weaponize OpenAI API in NIK C2 Framework for Credential Theft and Remote System Control",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kdF9VNXpQVG44REtJeEVOZTYyRXZPR1lLOTVTbS1wQ1haOWFqajRJcUh3YW1mX21MQ2d2bG5YaWRzOV9JdUFDNzVKeWVDQnF1OFBteXhxNjZaTlhjaHVuMy1BTkpwdjY4Nk5R0gFwQVVfeXFMTzNmUENRYkcwOURNNDd5R3dLYmgtRG9WYktQaHYzNk5DQ21tellrb2Y2Z296WXhTQVFuME9LR3F0ZnVVVVI4VGR6c19LYWdaVzJSWjR6dGNoajVFM2xTd3VCekpPd2RtOXZtQ0RkdDM5Mw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 30, 10:53 AM ET",
@@ -9,6 +33,18 @@
     "summary": "Startup Fortune is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY2RPZzhmclF2N2I0Q09oQjl0QjNMVWdmcGcxaGhVa0dHSi1PYXVPWGRIdkpTUk9HWUxLeVE4eXVsN1cwdzZPaDNjM3k0V1JISGdKeGF1QXVmZ3A5empvbTdIXy1LcEF1SHhFeXVnU2hJZWVwT3BRM2pPOG9ZVXdjQmpfYW1pYk9Nb0RxdVZMaWh3bmJCYWhXa0lKdHNlaDFQY1RtZHdnRTlBbWtXWEJfdldPUWZmRUJLUDNqM2xFYUJHSmN2TF83LUdYa2phNVBXSDQwREV3?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 30, 08:35 AM ET",
+    "publishedAt": "2026-10-30T12:35:35+00:00",
+    "source": "GBHackers News",
+    "title": "New AI-Powered NIK C2 Malware Uses OpenAI API to Help Hackers Steal Data and Control Windows PCs",
+    "summary": "GBHackers News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1NDJhSXBEWmJmaFQ1M2I1WC14UEQ0V1d5OGV4eml4T2ljcmpoTVZhRld4RG03blBKa2c3UWVzODZuLXItbU1WWW5KYVJjUdIBU0FVX3lxTFBVdnNaUXI0SjNVUHhLb1BtN0tlb1FuVWZxaEFwSW52NkdUbFh0Nnp3YkYtUlFtS3FBZ3R0N2xtcUFCRlVMT2c2eGhIbDFteE9JRkww?oc=5",
     "difficulty": "News"
   },
   {
@@ -24,15 +60,15 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 30, 05:27 AM ET",
-    "publishedAt": "2026-10-30T09:27:52+00:00",
-    "source": "GBHackers News",
-    "title": "New AI-Powered NIK C2 Malware Uses OpenAI API to Help Hackers Steal Data and Control Windows PCs",
-    "summary": "GBHackers News is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 30, 07:25 AM ET",
+    "publishedAt": "2026-10-30T11:25:10+00:00",
+    "source": "About Chromebooks",
+    "title": "NotebookLM Statistics 2026 [Users, Traffic, Pricing and Gemini Notebook Data]",
+    "summary": "About Chromebooks is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVdnNaUXI0SjNVUHhLb1BtN0tlb1FuVWZxaEFwSW52NkdUbFh0Nnp3YkYtUlFtS3FBZ3R0N2xtcUFCRlVMT2c2eGhIbDFteE9JRkww0gFTQVVfeXFMUFV2c1pRcjRKM1VQeEtvUG03S2VvUW5VZnFoQXBJbnY2R1RsWHQ2endiRi1SUW1LcUFndHQ3bG1xQUJGVUxPZzZ4aEhsMW14T0lGTDA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ETWlBRW9tNlZuT2ZFVVVIcjkwS3BkcUVqZHE2dWxmR3FUSFFxcXlpVFRtUTNpbHEwbXdMZ18xT2lzSUtGLWlUdmUxUk95R09UOW1UczYxQWVJYmlZcC05cGllbkdoQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -84,18 +120,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 29, 06:54 PM ET",
-    "publishedAt": "2026-10-29T22:54:45+00:00",
-    "source": "Fello AI",
-    "title": "Gemini Pricing 2026: Plans, API & Workspace Cost Guide",
-    "summary": "Fello AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wVjJONnhJWDF0R0VkeGNaTVRlN01LTmxBVnkzeXl4dk5JeXc3QzU5Q2U3VTYyd1ZlLTdXN3pTZjVFeWxVamJUdkdpUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 29, 12:34 PM ET",
@@ -117,6 +141,18 @@
     "summary": "Hackread is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kQ3lBVlRENkNTdVBpSS1NNWdyaTBCN1ZxUzB5S0NZTWdCN3JfbWtWN19OdWJuSWVmcTN1dk52NTNYZFg0UXZGeXRqbkNhR0EtY2U1SWt0ZGw1VmMwMXpBZ0tadXBETThHamU2Z1hwZEtUOF9LMVRTQkJlRzQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 29, 11:00 AM ET",
+    "publishedAt": "2026-10-29T15:00:00+00:00",
+    "source": "Infosecurity Magazine",
+    "title": "NIK C2 Malware Can Use Victims’ OpenAI Keys for AI Queries",
+    "summary": "Infosecurity Magazine is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFItTndTU2ZKQnp5QjIxN3RGR1Awc1FOR21IUE91UFpWVXc5TUFiQ0tuaFNpbWhfNmlteXdvWXMtQ1MtazYyRGxQLWNvMlJWMFdaZldCb05Id3JuQUVITVRTZlRJMUFFc0pjOUVEVFFGMDJza2FvVE9ZME5SZ0o2UUY0Wkk?oc=5",
     "difficulty": "News"
   },
   {
@@ -144,27 +180,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 28, 02:25 PM ET",
-    "publishedAt": "2026-10-28T18:25:49+00:00",
-    "source": "VentureBeat",
-    "title": "Google unveils Gemini 4 Carbon, retaking the world's no. 1 spot on updated, harder benchmarks — but access is limited",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 29, 03:00 AM ET",
+    "publishedAt": "2026-10-29T07:00:00+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Researchers Hacked Cursor, GitHub Copilot, Codex, VS Code, and Claude Desktop Embedded Browsers",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1BfSV9DNVl1aW5HV3A3SVc1bDFqZEhFT3VpekhjVDIwaVNKOTc2Z0c2WEJaaWtiNmFfc3BWWXBKWEtqUWpvaGRTOWMwNHBwYlRmbGIyX1FVN1M0Y0xWVGYzMnFWV2NYaFBlZ0JIZzlfR2p1Y2szTDIybXFTQ3FFOUtkazNVbzNoRUJQZV9GNXZLN3V1MWdOVmpCLS1IS2ZIQmRXbE01ZWNHVTNyLTZRWDV5YmFTbjJNZ1Y2VmoycFBnYlFpd1JuY3pRYUlWREMxSmE2b2FEYThGTVJhODA4?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 28, 01:08 PM ET",
-    "publishedAt": "2026-10-28T17:08:56+00:00",
-    "source": "blog.google",
-    "title": "Gemini 4 Carbon: our next frontier model",
-    "summary": "blog.google is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RWHlNTU1RUUtCMUpLSUtMVWxjZl9fWFMyd1pRUlVKVlk4R3lRUk9Cc1JTZm80RnRkdzdwUU16QTdjaGk4YUZ3WmVsUElNTC1Lel9wQ3dyMkt2RG40c3gteVY3YVo5VWZqbUNTYTgySVZCSzVx0gF6QVVfeXFMT082V0FsNG14NUVoMkFBSEVPaDhjSnR5ZHpIS0c2TnBNYVFPQ0t2OHNyWjhBSGV1MGFyd283TTA5dzFET09qREtnbkp6R0VOa0oyZWFPOWl3VXVQU0NWOXlvOWNRZ29fbk9aYmRyeEVRZ1B5X29fdnJ2bUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,6 +216,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 28, 03:00 AM ET",
+    "publishedAt": "2026-10-28T07:00:00+00:00",
+    "source": "Fello AI",
+    "title": "Why Is Gemini So Slow Today? Causes and Fixes (2026)",
+    "summary": "Fello AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YeURnM1czdjhGNEFRWXgxak1DTC05NGxRWjEyUzIzaWlHQmpPQ3JWRnBjcXJYSDZDekh6ZFJVWEUtb3o0SUU2bEt3VU1zbEtiV1ZMRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 27, 09:16 PM ET",
@@ -201,18 +237,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 27, 01:44 PM ET",
-    "publishedAt": "2026-10-27T17:44:57+00:00",
-    "source": "CyberSecurityNews",
-    "title": "Researchers Exploit OpenAI API Flaw to Extract Hidden GPT-5.6 Reasoning Traces",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySVFHWS04OWdQMk1wWGtQUkpfamZMSEExNENRTWRPRkd2S0xwQWZ5eVhLelVyYzFOYUt1ZmJuQXVsSGVRbVFRbmNwWmNKdExWUS1GUVFkdXpVT08zSWdrZFJ4QXFRU1hWNWswck8yUmtabW9w0gF6QVVfeXFMT2N0d1JNUHJQb2V3LVkwRmlPSXNlVEs2d0VqV3oyZWtsQktOekNsTXRlazl3UW9TTFI4NjRwY3JEd2Q0RWhYeUNuSmhBRlZqMkNHRm5OZ3B3aDVmNXRNTDBMaFgzV0VrWXRpM2ZsblVrMDRnVU1yUEFJWHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -252,30 +276,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 26, 03:00 AM ET",
-    "publishedAt": "2026-10-26T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 25, 09:33 AM ET",
-    "publishedAt": "2026-10-25T13:33:07+00:00",
-    "source": "TestingCatalog AI News",
-    "title": "Google AI Studio prepares new Managed Agents hub",
-    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVTNDZHFEOUFzb0xVT3JhZHpZNlEtbE14STdGbW1rcFN0VW9mclAzT2N2Zkk4SzhqZ1J5QlpGcDFEd2Y5bEQxLTlQTzdQdnppaWhGTjl4WVYwWVpfV1N0Mm1fTENURmVwdmJuS3ZvZ1kyTVNUdDdncGgxRjU2TlV6ZHNYd1QxUFE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 13, 03:00 AM ET",
@@ -312,6 +312,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Sep 15, 03:00 AM ET",
+    "publishedAt": "2026-09-15T07:00:00+00:00",
+    "source": "blog.google",
+    "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORklOLTI2REdZOWdBZFJmbEg1S3J3ejNuTGhGMVBlWmVXeGtZRkxXcW1zSUtOVnR5eWd2aG9ibWdmd2xUTmllTDhrZWF2UXpRb1V1SWUzNVIzOEJrZEdNYVYyM1NTaS1oMmZaWWZyNEpSRUowR1dsd2otTV9UQkdaZVpKMGwwSkxGeG11U1J1M1RnVEF4S0dCbjNMRUpKcDNqdm9wWDl5THFKVTluOEp6RGVfNTM?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Aug 28, 03:00 AM ET",
@@ -333,18 +345,6 @@
     "summary": "Reply is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN0N3TUVtM1pkcWlTTDJVeGdzNVBOVUcxWC1aU19wQ0ZhUjE4czlMdTc5RHZGZGp2YkhRSjZtTTVKTGtmOHlOMXRoNFFqN2lzeVZ0MC1fT2pvbWNRakRZY2ppUWF6UnhKUFF0ZTVqa2gyOU5uMUVJZmI4WnVEZFR3UUJ4MVhVQ0F6ZlhqUFdoN0FKUExxaUloYkJZLXUzS1RkU2lTRmhRRnIzMlBpbGdhRy1pNjJ0OXNmOVExMVFyYVYxcmFPZHJRNExnN1NLaFZ2UUp4MUt1Tm4yZk9WSnc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Apr 24, 03:00 AM ET",
-    "publishedAt": "2026-04-24T07:00:00+00:00",
-    "source": "wiz.io",
-    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
-    "summary": "wiz.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
     "difficulty": "News"
   },
   {
