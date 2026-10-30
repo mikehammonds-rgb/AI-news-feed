@@ -1,17 +1,5 @@
 [
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 29, 04:11 PM ET",
-    "publishedAt": "2026-10-29T20:11:04+00:00",
-    "source": "OrcaRouter",
-    "title": "Claude Opus 5.5 refused the mouse surgery: reroute vs wall",
-    "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56ekZ0NVJRV0RTRnRLV0lndFdEU2pIbzJkLVZHV0Z1WDBhNDNEVmYzbDlPbFB6MTNJYWpzRS1xb25oRE1VTDBJZTRTYm9KM1dvM2pYZnZKQ1NSN2R0ZG9kakNaRy1lRTYtQ1hHVXhPbjVlZlZaZXk4?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 29, 01:40 PM ET",
@@ -230,18 +218,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Oct 27, 01:44 PM ET",
-    "publishedAt": "2026-10-27T17:44:57+00:00",
-    "source": "CyberSecurityNews",
-    "title": "Researchers Exploit OpenAI API Flaw to Extract Hidden GPT-5.6 Reasoning Traces",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySVFHWS04OWdQMk1wWGtQUkpfamZMSEExNENRTWRPRkd2S0xwQWZ5eVhLelVyYzFOYUt1ZmJuQXVsSGVRbVFRbmNwWmNKdExWUS1GUVFkdXpVT08zSWdrZFJ4QXFRU1hWNWswck8yUmtabW9w0gF6QVVfeXFMT2N0d1JNUHJQb2V3LVkwRmlPSXNlVEs2d0VqV3oyZWtsQktOekNsTXRlazl3UW9TTFI4NjRwY3JEd2Q0RWhYeUNuSmhBRlZqMkNHRm5OZ3B3aDVmNXRNTDBMaFgzV0VrWXRpM2ZsblVrMDRnVU1yUEFJWHc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Oct 27, 12:12 PM ET",
     "publishedAt": "2026-10-27T16:12:24+00:00",
     "source": "OpenAI",
@@ -264,6 +240,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 26, 10:37 PM ET",
+    "publishedAt": "2026-10-27T02:37:16+00:00",
+    "source": "shattered.io",
+    "title": "Codex vs Claude Code: 65.5% vs 29.5% Usage [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnQtTy1telV5VlJMSWRzbUJtLW5KNnNBRURmTnFuZ1NaczgxWFl3b3A5NHlUTkxRbkFoME9MUXhCR3RwY3o0Q3lmNlN2QzFDYjhPNnkzOFplRGx6R2xJRlV5ZTduMGZ2ZG5tNnJnMVZWWS10OW9ubm9BaDYxYjJHOA?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 26, 04:35 PM ET",
@@ -276,15 +264,27 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 26, 02:05 PM ET",
+    "publishedAt": "2026-10-26T18:05:36+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-6.1 Terra",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 26, 12:41 PM ET",
-    "publishedAt": "2026-10-26T16:41:05+00:00",
-    "source": "MIXED News",
-    "title": "Claude’s full API now works through Google Cloud billing and account permissions",
-    "summary": "MIXED News is reporting this update. Open the article for the full story.",
+    "time": "Oct 19, 10:57 AM ET",
+    "publishedAt": "2026-10-19T14:57:23+00:00",
+    "source": "SitePoint",
+    "title": "How to Install Claude Code in VS Code: 2025 Setup Guide",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRnRQY1JrY2Q4YXNnTW05YkdpWHhaanZMTzdQMFdaMkZxVld6Q285RDA3QS1QZWpxOTZJdzVCdExUNFJ4Snd4QlEteW16WDBYNWJfcmNLVjd1UXB6eTFlWEhxNmJzWWxsakxlTTNsR1dXcVVvWE10WGFyTnhpekdVbjEyVQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RNko0bnNWb0pOaUlBcnZnZEljb3dXTnlYb1JHejJaR0MxZDgwM096NVBPcjBja1ZaWnpicVVQQTdOLWhPQktSdURpQ29LRHB1Q1pqcHVtTXZRVm04eUxLLVgyM0I1MHdpbC1Fbl9tQm1RZHRLaTFFVF9oblpsUHM?oc=5",
     "difficulty": "News"
   },
   {
