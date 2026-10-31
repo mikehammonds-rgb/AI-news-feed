@@ -72,15 +72,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 30, 07:25 AM ET",
-    "publishedAt": "2026-10-30T11:25:10+00:00",
-    "source": "About Chromebooks",
-    "title": "NotebookLM Statistics 2026 [Users, Traffic, Pricing and Gemini Notebook Data]",
-    "summary": "About Chromebooks is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 30, 08:35 AM ET",
+    "publishedAt": "2026-10-30T12:35:35+00:00",
+    "source": "GBHackers News",
+    "title": "New AI-Powered NIK C2 Malware Uses OpenAI API to Help Hackers Steal Data and Control Windows PCs",
+    "summary": "GBHackers News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ETWlBRW9tNlZuT2ZFVVVIcjkwS3BkcUVqZHE2dWxmR3FUSFFxcXlpVFRtUTNpbHEwbXdMZ18xT2lzSUtGLWlUdmUxUk95R09UOW1UczYxQWVJYmlZcC05cGllbkdoQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1NDJhSXBEWmJmaFQ1M2I1WC14UEQ0V1d5OGV4eml4T2ljcmpoTVZhRld4RG03blBKa2c3UWVzODZuLXItbU1WWW5KYVJjUdIBU0FVX3lxTFBVdnNaUXI0SjNVUHhLb1BtN0tlb1FuVWZxaEFwSW52NkdUbFh0Nnp3YkYtUlFtS3FBZ3R0N2xtcUFCRlVMT2c2eGhIbDFteE9JRkww?oc=5",
     "difficulty": "News"
   },
   {
@@ -117,6 +117,18 @@
     "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSzRxTk80WUdNMnhtNWNtaE95MUdwb2pOVmdqd1dUMlJMV1QyOWtodi1Hd3M5UXFTclB6bV8yYUVRNHJ1OXpRRWtNWWpzUnBZTjJJdlFNSExfWmRGVDJqS0JaNGxmelBVZV9yajcyY3VzZ2I0QndJaC1hTWhMTU5pWVpRS0lqM2hFdXgyN0w2NHBxek0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 29, 11:37 AM ET",
+    "publishedAt": "2026-10-29T15:37:23+00:00",
+    "source": "Hostinger",
+    "title": "How to use your ChatGPT subscription in Managed OpenClaw",
+    "summary": "Hostinger is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVBJTVZOSW0wSGx6VkY3dV9OTnZQT3Rzc0dsZ08yNmE2NktnNzRpMkptQW9ZbHdLMFdZVURoOEhwclJGLWt0MjJ6YnAzNGMzaHhNZUFsYk51cVQwb0lLOXJGR3NETGZ2Qy1DMTN6VmRaRXZTU1ZFTTZBU3lnYThQOHJ0U3kzZ1dpdWstZUZabEtWcHNZd0E?oc=5",
     "difficulty": "News"
   },
   {
@@ -182,6 +194,30 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Oct 28, 07:15 PM ET",
+    "publishedAt": "2026-10-28T23:15:39+00:00",
+    "source": "Fello AI",
+    "title": "Google AI Studio: What It Is, What Is Free, How to Use It",
+    "summary": "Fello AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xYTVxcHBOdlhtemFUcjBoekthU3Q5WEg2eGYtMWJpdVJuU2w0cWV5eXN0S3JOaWJSeHE0ejVwUVBoRksyN1dCSXUwTzVnZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 28, 02:25 PM ET",
+    "publishedAt": "2026-10-28T18:25:49+00:00",
+    "source": "VentureBeat",
+    "title": "Google unveils Gemini 4 Carbon, retaking the world's no. 1 spot on updated, harder benchmarks — but access is limited",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1BfSV9DNVl1aW5HV3A3SVc1bDFqZEhFT3VpekhjVDIwaVNKOTc2Z0c2WEJaaWtiNmFfc3BWWXBKWEtqUWpvaGRTOWMwNHBwYlRmbGIyX1FVN1M0Y0xWVGYzMnFWV2NYaFBlZ0JIZzlfR2p1Y2szTDIybXFTQ3FFOUtkazNVbzNoRUJQZV9GNXZLN3V1MWdOVmpCLS1IS2ZIQmRXbE01ZWNHVTNyLTZRWDV5YmFTbjJNZ1Y2VmoycFBnYlFpd1JuY3pRYUlWREMxSmE2b2FEYThGTVJhODA4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Oct 28, 01:01 PM ET",
     "publishedAt": "2026-10-28T17:01:14+00:00",
     "source": "The Decoder",
@@ -189,18 +225,6 @@
     "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUWJuS3dPd3p3THNtMnp6aUhyS2RIMEpXSkFINGhGZFVFRFNZNHFXTncycEotdVZNTUw3WjNqT0RXNUVVTXVvY09raHh6YXVVX1I3cDktczFrcEkxMktXSzVLck9ZejZjRnpVTXotWkN5d0NjQ2dzUzg3MFB2bk9EVHNPQ0ZIcGdvZ3NmTzJfazdDQWJkZ3puWm9paVF2QTMtalYyRmFXOUNoR054eDVv?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 28, 03:00 AM ET",
-    "publishedAt": "2026-10-28T07:00:00+00:00",
-    "source": "Fello AI",
-    "title": "Why Is Gemini So Slow Today? Causes and Fixes (2026)",
-    "summary": "Fello AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YeURnM1czdjhGNEFRWXgxak1DTC05NGxRWjEyUzIzaWlHQmpPQ3JWRnBjcXJYSDZDekh6ZFJVWEUtb3o0SUU2bEt3VU1zbEtiV1ZMRQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -213,18 +237,6 @@
     "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 27, 12:12 PM ET",
-    "publishedAt": "2026-10-27T16:12:24+00:00",
-    "source": "OpenAI",
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ca1otcHJaQVN6SUk5ck9iOTRENVdhWW82Q3o4aW9DTjZIaXhhUngxSDFQNXAtbVRkSGh0a1M5OFp4LVM4Qm5HaXJCbHYxMjU2WEVPZG1KZVlLWjhY?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,18 +273,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 26, 10:05 AM ET",
-    "publishedAt": "2026-10-26T14:05:12+00:00",
-    "source": "KDnuggets",
-    "title": "Building Your First AI Agent in Python with the OpenAI Agents SDK",
-    "summary": "KDnuggets is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblhoeXFkSXQ0QWVHVkZuSnk1NXVZX3dmSlNlTkpqcXp5NE54X2FDRm8xejFlZE5EODQ5QktEdW90eV9xLVl0eGxmUjJRNm55Q0xWZUFnVDRsNERhRkUwRDU1a09XQVBLczZpMGRWSi1WWGNiMVgxYVlBMGRtNnJ1VlBRcmVzbHBrNzJfanNDbFFMUGdiT2c?oc=5",
     "difficulty": "News"
   },
   {
