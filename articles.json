@@ -96,15 +96,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 30, 04:47 AM ET",
-    "publishedAt": "2026-10-30T08:47:23+00:00",
-    "source": "Music Business Worldwide",
-    "title": "Suno’s new MCP tool lets users make songs inside ChatGPT, Claude, and Gemini – as its developer API gets a sign-in portal but remains in beta",
-    "summary": "Music Business Worldwide is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 29, 03:10 PM ET",
+    "publishedAt": "2026-10-29T19:10:41+00:00",
+    "source": "Understanding AI | Timothy B. Lee",
+    "title": "Anthropic’s financials are surprisingly strong",
+    "summary": "Understanding AI | Timothy B. Lee is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSUprUEU5bGhBaGJxaTVJcEVhMWppc3U1M1drNGVsMU1yZ0tjT2JLNXBva3BZYU5pN2lGTm1jWi1JUjdBYlE1UHBtYkx0N09iY1BObGVqYVNoVmFocnZXLXRQb193M3JRUnFsZnBEUnFzUmtaVzZLSTlWalNNcW1LNi1yWmZiNTk4VThjWTNWTUxqc0lkZUhLV2tmbkpmQXN3MnRZUWx1QWVCbEZ5N0ltX2VxVm5MUEdWdXVnakhCbV9pcm9ibkcwdW94allaQkRFX1BUa1FuU195N2hwYkFERDc5cGcwcmUyMDdGeTQweEhrdUNDOWZOYVh5UUo4cWQwei1iNDk2VQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByaHZWbjdzYUFQeU9KTkpiaFdCV1lOdUN2Z2ZZaUFfNDRpVHU0MW5uWlNNdk1XeGhlcUhNMEVTLWg2T1hCazNaQkhrUFNOZldWQmM2cDRCOThiai0yNFEwSFdXZzA1dnZKeWF3cmxrVW1XbVRLUGtQeW5HNFg?oc=5",
     "difficulty": "News"
   },
   {
@@ -132,18 +132,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 29, 11:00 AM ET",
-    "publishedAt": "2026-10-29T15:00:00+00:00",
-    "source": "Infosecurity Magazine",
-    "title": "NIK C2 Malware Can Use Victims’ OpenAI Keys for AI Queries",
-    "summary": "Infosecurity Magazine is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFItTndTU2ZKQnp5QjIxN3RGR1Awc1FOR21IUE91UFpWVXc5TUFiQ0tuaFNpbWhfNmlteXdvWXMtQ1MtazYyRGxQLWNvMlJWMFdaZldCb05Id3JuQUVITVRTZlRJMUFFc0pjOUVEVFFGMDJza2FvVE9ZME5SZ0o2UUY0Wkk?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 29, 10:10 AM ET",
@@ -168,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 29, 05:48 AM ET",
-    "publishedAt": "2026-10-29T09:48:59+00:00",
-    "source": "Hostinger",
-    "title": "How to use your ChatGPT subscription in Managed Hermes",
-    "summary": "Hostinger is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNlJCMDF4djFZY0tVZE9GTGgya1FnRDNVVTRwWVhOVmplLUtDM2JPcVhocUZvd1FCLTc1NEkwWEVqYXBJeEc1VnBmNFpobVBPc1d2UTVjZTFZOWxxQkh5SExHc0IzZktJR2o4S1RMb0ZxWDJuekpiMExpSkw3UVpFMnU2cHhVbnp3RWtmY0FpZV8xSGM?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 29, 03:00 AM ET",
@@ -189,6 +165,18 @@
     "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RWHlNTU1RUUtCMUpLSUtMVWxjZl9fWFMyd1pRUlVKVlk4R3lRUk9Cc1JTZm80RnRkdzdwUU16QTdjaGk4YUZ3WmVsUElNTC1Lel9wQ3dyMkt2RG40c3gteVY3YVo5VWZqbUNTYTgySVZCSzVx0gF6QVVfeXFMT082V0FsNG14NUVoMkFBSEVPaDhjSnR5ZHpIS0c2TnBNYVFPQ0t2OHNyWjhBSGV1MGFyd283TTA5dzFET09qREtnbkp6R0VOa0oyZWFPOWl3VXVQU0NWOXlvOWNRZ29fbk9aYmRyeEVRZ1B5X29fdnJ2bUE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 28, 11:58 PM ET",
+    "publishedAt": "2026-10-29T03:58:57+00:00",
+    "source": "shattered.io",
+    "title": "DeepSeek vs Claude: $0.30 vs $2 Input Tokens [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUpIRi1oRmV0Q2lLRUZGdU9ab2ZyUGhZVTVDVDh2VnVSOG5nZVFBQ3gxd3VUeUs5QUw0emMtRVJpWHVtV2MxNzUwc0dVSF8tRWluWTFqcjhiY2J5RzNCMHdwV3A3R0JtVlNsVmtvRUtUX29SZ29CQTU1dV9ZYWVmT1AtdnpYOFZSSHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -242,6 +230,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Oct 28, 03:00 AM ET",
+    "publishedAt": "2026-10-28T07:00:00+00:00",
+    "source": "Channel Insider",
+    "title": "Anthropic Gives Startups Free Claude to Seed Its Next Wave of Customers",
+    "summary": "Channel Insider is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMnBlUGZndjlWcGY5T0tOQzJISDRPUEJVTFdJZW92bnBYZWo0anJobngwOXAtY1R5Q0FudTlRNmxuT3V0NnYtYkNMREdHYktGOHNSLUJqUm5Eeks3MHU4Q203YUxsWU12YzF1a2JLaWtRVEE0czVaNDQxVVpMOFdvZUt1bFNkVUY4RDlHbmZn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Oct 27, 09:16 PM ET",
     "publishedAt": "2026-10-28T01:16:46+00:00",
     "source": "Anthropic",
@@ -288,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 26, 12:28 PM ET",
-    "publishedAt": "2026-10-26T16:28:49+00:00",
-    "source": "SitePoint",
-    "title": "Claude Token Limit per Day: Claude Limits Explained (2026)",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MV0pUb3RGVXRtMHhnUEZILUFON0RoZ01zQk9DZXNBTGRsT1JHcUlOSjM5Qlo2YmctNDdNclRRdjF1TVRCSjlNR085SmRGQUFQWjRtOWNtV3RyMlBGNVpxMU40NGdaMko2QjhoRA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 26, 03:00 AM ET",
@@ -309,6 +297,18 @@
     "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QRV8xcWduVHJkLWZkUzdLOENrZ3Bqd3hCSVdxZ251YllUQ25IZ01FakE0MndEX0I0Y1ZOcWVDQ0VRNnBtUWFadHVLc2NueEtGTG9PdkVzVzA4ZVhEd0FKVWF5b3VCbUlkd0d0Tg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 22, 03:00 AM ET",
+    "publishedAt": "2026-10-22T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Build more responsive apps with the Decisions API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
     "difficulty": "News"
   },
   {
@@ -336,6 +336,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 29, 03:00 AM ET",
+    "publishedAt": "2026-09-29T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "DevDay 2026 Recap",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 25, 03:00 AM ET",
@@ -360,27 +372,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Apr 23, 03:00 AM ET",
-    "publishedAt": "2026-04-23T07:00:00+00:00",
-    "source": "Anthropic",
-    "title": "An update on recent Claude Code quality reports",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 10, 03:00 AM ET",
+    "publishedAt": "2026-09-10T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbGtBekJzZUdTdWREenUzZnNsOFQwU0VUaFpOM0dOQ25KRUREYnBVbFlWYkVIdk5BWkV2SlZmNnVXMmh2ZkZ3ZTBxNklkMFk5eGFoZy1XZlZBUEJ5ZGhpb2JubU8?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 24, 03:00 AM ET",
-    "publishedAt": "2025-11-24T08:00:00+00:00",
-    "source": "Anthropic",
-    "title": "Introducing advanced tool use for Claude",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BTzhCRENrWXdjbHNIVlhZYW5Xa2ZidnRuQWVQVS1ZdlU2VC1mZUZIREFsUnVHaVFycDk4QW9rQlFmSG0xZjVFa1l0U1dNTXNwQVh0MGVmV01ELU8tamF1blRB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
     "difficulty": "News"
   }
 ]
