@@ -3,10 +3,10 @@
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 31, 03:24 PM ET",
-    "publishedAt": "2026-10-31T19:24:43+00:00",
-    "source": "the-decoder.com",
+    "publishedAt": "2026-10-31T19:24:37+00:00",
+    "source": "The Decoder",
     "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
-    "summary": "the-decoder.com is reporting this update. Open the article for the full story.",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWRRVDc2NW4xb3Vod21YR3hORTRGNjlONHFUc3ozSWx0SGZ2ZnpGd1NoUnRXSFlXcUoxOUZEcXJHVkhQVHc1ei01VHpaMWJXZUJZVEFjTXpoVm5oMnlaOW9KZ3BPQXBBMzVRaEVva3p3eFMteHFjdnltQmozZnZqNXFDTVVRME9ONXZ5YXdCRDV5U2FiTzFmRmtKa2c3ams?oc=5",
     "difficulty": "News"
@@ -48,6 +48,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 31, 03:22 AM ET",
+    "publishedAt": "2026-10-31T07:22:41+00:00",
+    "source": "nokiapoweruser.com",
+    "title": "Google Cloud Adds Gemini 4 Argon: Major Next-Gen AI Launch Imminent",
+    "summary": "nokiapoweruser.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlOUd1cC1EUFQ2N25WcGIwWjZyVDQyOXpjUUNiZW9CdjY2a0plbEVoUlhlem9DUmVKUkp6a0w4cEFGZjhqR094eVNYcmNTUVdOM0NwbEZGaTZ1REVzQklJWk5yRzFtVWoyM3I5bEF3UEk5MmVlWnN6NlJDZUI?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 30, 04:15 PM ET",
@@ -57,18 +69,6 @@
     "summary": "The New Stack is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2WWg2bVhLZjRZVDBxMExxSjVlY1U4ZGJyVFlxT0xNTXhxd1prSlZYV2JsQlM5NzBnLWVPcjExQlVjRV9lY3Q1VUJGVEJKX0lMZ000RUJlR25QZllZeGNr?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 30, 12:11 PM ET",
-    "publishedAt": "2026-10-30T16:11:00+00:00",
-    "source": "Small Business Trends",
-    "title": "Developers Can Now Leverage Gemini 4 Argon for Complex Workflows",
-    "summary": "Small Business Trends is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3lBSW00ZEowRHF4TUNDN0xpNXU3OHBtNzJmM19oeUNveVRjQUtVMlRoYXAwZXJOVnVXYUVUcFRac2pneDI2WTFWR184YlNkN19tWEtLRnZPVFpiOEZRX28wVy1md0VwR0xmNl9TMU9tT2JSaU9pZDlITEs2LXA2Qll4eDJ3R2NzTTRmYzRqeXBVMVo4MEYw?oc=5",
     "difficulty": "News"
   },
   {
@@ -93,18 +93,6 @@
     "summary": "Step Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QN1Q5bXI1WXMzZlpOLWIxaDJEVGhuTWZxcXRwTWdaXzlETHZYd0pIcGhpdnR3R1dsQXUzWGFoZHUyZUd2UldGMHotYVFHNHFQZjdCWERJektwVXZVMWw5dGc4WldHQktiLXFYVnBST19Ecmc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 29, 03:10 PM ET",
-    "publishedAt": "2026-10-29T19:10:41+00:00",
-    "source": "Understanding AI | Timothy B. Lee",
-    "title": "Anthropic’s financials are surprisingly strong",
-    "summary": "Understanding AI | Timothy B. Lee is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByaHZWbjdzYUFQeU9KTkpiaFdCV1lOdUN2Z2ZZaUFfNDRpVHU0MW5uWlNNdk1XeGhlcUhNMEVTLWg2T1hCazNaQkhrUFNOZldWQmM2cDRCOThiai0yNFEwSFdXZzA1dnZKeWF3cmxrVW1XbVRLUGtQeW5HNFg?oc=5",
     "difficulty": "News"
   },
   {
@@ -156,6 +144,18 @@
     "difficulty": "News"
   },
   {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 29, 03:00 AM ET",
+    "publishedAt": "2026-10-29T07:00:00+00:00",
+    "source": "shattered.io",
+    "title": "Google Reportedly Cut Free Gemini to 1 Model After Argon [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52c2dBNDJ1blF4QkgtVkJtVDdwYVNsV0dITnNsblZmaktoYS12U1MtcVdPYVp6YU5nbXZoTHg1dFgtQWxSbGZrU0t2OEZjVGcwTlVNMHNVbkJESndYQ3paUzV4MGlzYlRjUmtBUVNVdV9Bbm9hVGc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 29, 03:00 AM ET",
@@ -168,18 +168,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 28, 11:58 PM ET",
-    "publishedAt": "2026-10-29T03:58:57+00:00",
-    "source": "shattered.io",
-    "title": "DeepSeek vs Claude: $0.30 vs $2 Input Tokens [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUpIRi1oRmV0Q2lLRUZGdU9ab2ZyUGhZVTVDVDh2VnVSOG5nZVFBQ3gxd3VUeUs5QUw0emMtRVJpWHVtV2MxNzUwc0dVSF8tRWluWTFqcjhiY2J5RzNCMHdwV3A3R0JtVlNsVmtvRUtUX29SZ29CQTU1dV9ZYWVmT1AtdnpYOFZSSHc?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 28, 07:15 PM ET",
@@ -189,18 +177,6 @@
     "summary": "Fello AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xYTVxcHBOdlhtemFUcjBoekthU3Q5WEg2eGYtMWJpdVJuU2w0cWV5eXN0S3JOaWJSeHE0ejVwUVBoRksyN1dCSXUwTzVnZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 28, 02:25 PM ET",
-    "publishedAt": "2026-10-28T18:25:49+00:00",
-    "source": "VentureBeat",
-    "title": "Google unveils Gemini 4 Carbon, retaking the world's no. 1 spot on updated, harder benchmarks — but access is limited",
-    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1BfSV9DNVl1aW5HV3A3SVc1bDFqZEhFT3VpekhjVDIwaVNKOTc2Z0c2WEJaaWtiNmFfc3BWWXBKWEtqUWpvaGRTOWMwNHBwYlRmbGIyX1FVN1M0Y0xWVGYzMnFWV2NYaFBlZ0JIZzlfR2p1Y2szTDIybXFTQ3FFOUtkazNVbzNoRUJQZV9GNXZLN3V1MWdOVmpCLS1IS2ZIQmRXbE01ZWNHVTNyLTZRWDV5YmFTbjJNZ1Y2VmoycFBnYlFpd1JuY3pRYUlWREMxSmE2b2FEYThGTVJhODA4?oc=5",
     "difficulty": "News"
   },
   {
@@ -225,18 +201,6 @@
     "summary": "TechRepublic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aMFhjNkNDa18yV3V5ZW5UeV84OVdEa3ZHMVp1TGozNk8xa3hLOGo0N0dPaGF0a2hxY1FwX0tmRnRaaDFhQ0E4V2hzNWFJUFFqUUZPazdKYUM5UGJwNm1sM3lmTG9wNHRtbVRZWDdRcEtGcjN5WktKZDY2YWo?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 28, 03:00 AM ET",
-    "publishedAt": "2026-10-28T07:00:00+00:00",
-    "source": "Channel Insider",
-    "title": "Anthropic Gives Startups Free Claude to Seed Its Next Wave of Customers",
-    "summary": "Channel Insider is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMnBlUGZndjlWcGY5T0tOQzJISDRPUEJVTFdJZW92bnBYZWo0anJobngwOXAtY1R5Q0FudTlRNmxuT3V0NnYtYkNMREdHYktGOHNSLUJqUm5Eeks3MHU4Q203YUxsWU12YzF1a2JLaWtRVEE0czVaNDQxVVpMOFdvZUt1bFNkVUY4RDlHbmZn?oc=5",
     "difficulty": "News"
   },
   {
@@ -288,6 +252,18 @@
     "difficulty": "News"
   },
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 26, 02:05 PM ET",
+    "publishedAt": "2026-10-26T18:05:36+00:00",
+    "source": "OpenAI",
+    "title": "Introducing GPT-6.1 Terra",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Oct 26, 03:00 AM ET",
@@ -309,6 +285,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 19, 10:57 AM ET",
+    "publishedAt": "2026-10-19T14:57:23+00:00",
+    "source": "SitePoint",
+    "title": "How to Install Claude Code in VS Code: 2025 Setup Guide",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RNko0bnNWb0pOaUlBcnZnZEljb3dXTnlYb1JHejJaR0MxZDgwM096NVBPcjBja1ZaWnpicVVQQTdOLWhPQktSdURpQ29LRHB1Q1pqcHVtTXZRVm04eUxLLVgyM0I1MHdpbC1Fbl9tQm1RZHRLaTFFVF9oblpsUHM?oc=5",
     "difficulty": "News"
   },
   {
@@ -372,15 +360,27 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 10, 03:00 AM ET",
-    "publishedAt": "2026-09-10T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Apr 23, 03:00 AM ET",
+    "publishedAt": "2026-04-23T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "An update on recent Claude Code quality reports",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbGtBekJzZUdTdWREenUzZnNsOFQwU0VUaFpOM0dOQ25KRUREYnBVbFlWYkVIdk5BWkV2SlZmNnVXMmh2ZkZ3ZTBxNklkMFk5eGFoZy1XZlZBUEJ5ZGhpb2JubU8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 24, 03:00 AM ET",
+    "publishedAt": "2025-11-24T08:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing advanced tool use for Claude",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BTzhCRENrWXdjbHNIVlhZYW5Xa2ZidnRuQWVQVS1ZdlU2VC1mZUZIREFsUnVHaVFycDk4QW9rQlFmSG0xZjVFa1l0U1dNTXNwQVh0MGVmV01ELU8tamF1blRB?oc=5",
     "difficulty": "News"
   }
 ]
