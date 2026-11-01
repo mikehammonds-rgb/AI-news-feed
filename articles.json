@@ -1,5 +1,29 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 01, 01:51 PM ET",
+    "publishedAt": "2026-11-01T18:51:03+00:00",
+    "source": "Pasquale Pillitteri",
+    "title": "Which Claude Academy course to take, all 28 by role and time needed",
+    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEY2OC02Mk84emJlSEtMWERLSnVIdDRXR0VCMFBxUEdvV2drRGV1UkFrc1FLOTlqN19tX0VKRkdKYnJ5QzIxT3Z1S0cwZm14dmNqVlBJV183aDdoX24zMEk4R1ZfMF9mMm9LUmQ2MG1DTmZvRUFDVjh4aHY3UkozS21B?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Nov 01, 11:34 AM ET",
+    "publishedAt": "2026-11-01T16:34:34+00:00",
+    "source": "TestingCatalog AI News",
+    "title": "Google testing Comic Artifacts for Gemini Notebook",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWpLXzU5OTVweXFNRHhfVzlWWkh2YTVJd3lQTDlsc1hURUVIYUNNYmFVbDRubDQ5Y0JJamxfS1BvV21BcF9KTFJueUhhRVVydXNUR2hreW9QQ3N0eEVhRDFfaWNGLWJmMTdJUWVXV3lwWFZ3SEwyTFpTZ1hzLXJmajRiZUNWMXBlUHc?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Nov 01, 10:44 AM ET",
@@ -21,30 +45,6 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR29pZ2JtcUU2YjZwcUttVFFPdkdWeG56OEpFWjZZeUVVV05qQ3Y1VDdCQlRKRkR5dHRDUjRYbjFwUmN6V0cxYkRpMy1jTkJ4YmZobF9LTGZzRjBHNGctQVRtMzlKcDNaTFU3eXYwSmtleVFXWVhIYkpZSEJka1U1b3U2aWd2QQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 01, 04:07 AM ET",
-    "publishedAt": "2026-11-01T09:07:35+00:00",
-    "source": "MIXED News",
-    "title": "“No five-hour limit”: Claude’s $200 Ultra plan changes how long verified users can work",
-    "summary": "MIXED News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHR2dVBjY0E2MDhOWDFwTWF0Zms3cjJWb3Y4NzI3X1Qta05YZDlkS3ZKYXA3TzJCVmV5UXZzR09zYkFnRGRBYzRIUW5ueWVOR2JtR3d0aEpDOFRvR2hsZF9iakRueTlZNDQ3SDhwSEhLcjVrQTg0Zm1takdzbzRCXy1fVnA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 31, 03:24 PM ET",
-    "publishedAt": "2026-10-31T19:24:37+00:00",
-    "source": "The Decoder",
-    "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
-    "summary": "The Decoder is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWRRVDc2NW4xb3Vod21YR3hORTRGNjlONHFUc3ozSWx0SGZ2ZnpGd1NoUnRXSFlXcUoxOUZEcXJHVkhQVHc1ei01VHpaMWJXZUJZVEFjTXpoVm5oMnlaOW9KZ3BPQXBBMzVRaEVva3p3eFMteHFjdnltQmozZnZqNXFDTVVRME9ONXZ5YXdCRDV5U2FiTzFmRmtKa2c3ams?oc=5",
     "difficulty": "News"
   },
   {
@@ -86,25 +86,13 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Oct 30, 04:15 PM ET",
-    "publishedAt": "2026-10-30T20:15:41+00:00",
-    "source": "The New Stack",
-    "title": "Anthropic just removed one of Claude’s biggest usage limits — but not for everyone",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2WWg2bVhLZjRZVDBxMExxSjVlY1U4ZGJyVFlxT0xNTXhxd1prSlZYV2JsQlM5NzBnLWVPcjExQlVjRV9lY3Q1VUJGVEJKX0lMZ000RUJlR25QZllZeGNr?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 30, 10:59 AM ET",
-    "publishedAt": "2026-10-30T14:59:34+00:00",
+    "time": "Oct 30, 07:18 AM ET",
+    "publishedAt": "2026-10-30T11:18:28+00:00",
     "source": "CyberSecurityNews",
-    "title": "Hackers Weaponize OpenAI API in NIK C2 Framework for Credential Theft and Remote System Control",
+    "title": "Researchers Hacked Cursor, GitHub Copilot, Codex, VS Code, and Claude Desktop Embedded Browsers",
     "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kdF9VNXpQVG44REtJeEVOZTYyRXZPR1lLOTVTbS1wQ1haOWFqajRJcUh3YW1mX21MQ2d2bG5YaWRzOV9JdUFDNzVKeWVDQnF1OFBteXhxNjZaTlhjaHVuMy1BTkpwdjY4Nk5R0gFwQVVfeXFMTzNmUENRYkcwOURNNDd5R3dLYmgtRG9WYktQaHYzNk5DQ21tellrb2Y2Z296WXhTQVFuME9LR3F0ZnVVVVI4VGR6c19LYWdaVzJSWjR6dGNoajVFM2xTd3VCekpPd2RtOXZtQ0RkdDM5Mw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RWHlNTU1RUUtCMUpLSUtMVWxjZl9fWFMyd1pRUlVKVlk4R3lRUk9Cc1JTZm80RnRkdzdwUU16QTdjaGk4YUZ3WmVsUElNTC1Lel9wQ3dyMkt2RG40c3gteVY3YVo5VWZqbUNTYTgySVZCSzVx0gF6QVVfeXFMT082V0FsNG14NUVoMkFBSEVPaDhjSnR5ZHpIS0c2TnBNYVFPQ0t2OHNyWjhBSGV1MGFyd283TTA5dzFET09qREtnbkp6R0VOa0oyZWFPOWl3VXVQU0NWOXlvOWNRZ29fbk9aYmRyeEVRZ1B5X29fdnJ2bUE?oc=5",
     "difficulty": "News"
   },
   {
@@ -168,18 +156,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 29, 03:00 AM ET",
-    "publishedAt": "2026-10-29T07:00:00+00:00",
-    "source": "CyberSecurityNews",
-    "title": "Researchers Hacked Cursor, GitHub Copilot, Codex, VS Code, and Claude Desktop Embedded Browsers",
-    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RWHlNTU1RUUtCMUpLSUtMVWxjZl9fWFMyd1pRUlVKVlk4R3lRUk9Cc1JTZm80RnRkdzdwUU16QTdjaGk4YUZ3WmVsUElNTC1Lel9wQ3dyMkt2RG40c3gteVY3YVo5VWZqbUNTYTgySVZCSzVx0gF6QVVfeXFMT082V0FsNG14NUVoMkFBSEVPaDhjSnR5ZHpIS0c2TnBNYVFPQ0t2OHNyWjhBSGV1MGFyd283TTA5dzFET09qREtnbkp6R0VOa0oyZWFPOWl3VXVQU0NWOXlvOWNRZ29fbk9aYmRyeEVRZ1B5X29fdnJ2bUE?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 28, 07:15 PM ET",
@@ -216,15 +192,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 28, 04:56 AM ET",
-    "publishedAt": "2026-10-28T08:56:27+00:00",
-    "source": "MIXED News",
-    "title": "Google now saves Gemini API requests by default for new paid projects",
-    "summary": "MIXED News is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 28, 03:00 AM ET",
+    "publishedAt": "2026-10-28T07:00:00+00:00",
+    "source": "Channel Insider",
+    "title": "Anthropic Gives Startups Free Claude to Seed Its Next Wave of Customers",
+    "summary": "Channel Insider is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03a3BMb245ak85a0lDc0ltTHctM0duUEVaUDRsRzdyYnlGcFBoYnNHMDh0NC1NbURzUHJmbzlMdURneVI4WE82VzljVFlab2oxMk41aWpVTHhFWUE1SjBubWp1Zi01SmtYVjVXWUdoODFBcjh1MDFQaS1rRjFsQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMnBlUGZndjlWcGY5T0tOQzJISDRPUEJVTFdJZW92bnBYZWo0anJobngwOXAtY1R5Q0FudTlRNmxuT3V0NnYtYkNMREdHYktGOHNSLUJqUm5Eeks3MHU4Q203YUxsWU12YzF1a2JLaWtRVEE0czVaNDQxVVpMOFdvZUt1bFNkVUY4RDlHbmZn?oc=5",
     "difficulty": "News"
   },
   {
@@ -273,6 +249,18 @@
     "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejNKQjJRSi1pUHhhUWZwbVFndmo5Y3hoVTlLcHVTMmdGTFhEQW1uZ0JvZV9xaEZQR0RqU25kOVM5TE0zTTNIak5xLXlraTFJdGdWT1NCNHJQeVNLdTI3SlpvM296SGstVDFjeTA1Y3d2b2hYVmtsa0NYNVFENGtiWlNQRjhURHI3VDNwWFlrb01nSjVuYkI2MHZZeVE5TmxVTmNRbzNxa2pOblFx?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 26, 12:28 PM ET",
+    "publishedAt": "2026-10-26T16:28:49+00:00",
+    "source": "SitePoint",
+    "title": "Claude Token Limit per Day: Claude Limits Explained (2026)",
+    "summary": "SitePoint is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MV0pUb3RGVXRtMHhnUEZILUFON0RoZ01zQk9DZXNBTGRsT1JHcUlOSjM5Qlo2YmctNDdNclRRdjF1TVRCSjlNR085SmRGQUFQWjRtOWNtV3RyMlBGNVpxMU40NGdaMko2QjhoRA?oc=5",
     "difficulty": "News"
   },
   {
@@ -357,6 +345,18 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoM3lZaDNuLUc5aXZtdTRfY1l3d0VKcGxYaGxkZXlzVmZpR3VRSUoyaWotQ1hxTlZMbGt3SWNOUkwtY3RZNDg5dktGdFlBczhhUFp0V1RnUU83ekwtSm00Wk1n?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Sep 10, 03:00 AM ET",
+    "publishedAt": "2026-09-10T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
     "difficulty": "News"
   },
   {
