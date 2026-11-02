@@ -1,5 +1,53 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 02, 02:13 AM ET",
+    "publishedAt": "2026-11-02T07:13:35+00:00",
+    "source": "Dealroom",
+    "title": "OpenCode brings Claude subscriptions back, ten months after Anthropic shut third-party harnesses out",
+    "summary": "Dealroom is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUWppS1ZXb1JackhDVjg4MkNHWXlVOXpnSEVkRHZwdVBIa21odzNJOVJtZEtjdnh6ZVJtd0JSVVlBMXdLZ1dEdWVaS2czVURnWjhmV1U0cEk3ZUFBc2V1RURhUzIydXFKOGtHdUJNWkpUanA5N1cwcHR2V05PZUtjZGNvU29wRnNVcFp3NU5kbk1HQzV5cnBnSm5IZGV3WVR0Z2g3NTRnTDVTeFpIVklQVXpfMnhPWmdFLUI5a3hob0h2RDdkQUlEXzlmYmV1dw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 02, 01:00 AM ET",
+    "publishedAt": "2026-11-02T06:00:33+00:00",
+    "source": "Help Net Security",
+    "title": "Byoky: Open-source wallet for AI API keys",
+    "summary": "Help Net Security is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHVoRTU3NjZ1TUowTHFSOW9OSzhaRUx2Q29FemZoaXhKRnVTQTRvT3hwS1lCZ3VrVV8weFREaHVyZDBBQWg2d29ibHVXeTdnSkFaRWxLc0ZxSnBDU05YdVg0cVgxNkt4dVlERHU5a3ByQk5xbXZWcXgyWHVBckdfQWNnUDFQQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Nov 02, 12:51 AM ET",
+    "publishedAt": "2026-11-02T05:51:00+00:00",
+    "source": "The Hacker News",
+    "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93OElTMGR4MzhRckpfc04xZkp1RmNBTkFpN0JVRDFjTmc1QXFZV3lxZDFIWG1jakRuNkEyb1ZNRzRTeGJvSkNVcndtQzVEY1pIWGt1ZjJIMkJzY0ZWVUF4RWgtQ3dCR190amVpRjZkYlJTcWVDQjgtWXFYb0Q?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 01, 11:05 PM ET",
+    "publishedAt": "2026-11-02T04:05:16+00:00",
+    "source": "gHacks",
+    "title": "Anthropic Adds a Claude Code Rule on Opus 5.5 That Blocks Recreations of Existing Games",
+    "summary": "gHacks is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWkNxMDNfalU3VTgxanZGTVFFZVI0OTZ3VEhsWnNpWHBTUXREWXJZcU1xaWRDM1hhNzlRUkh4NVpGMVlrZXcxTUJ3XzlIMnpqQ0hrcU43a1h0ZjFMVVZhUVdxeWRTVFF5OFU5VmtZUE5fYnV1RnVpM0MyNlNJb3ktc2tpSWM2WmtGZ2xuM0ZPYWRrVlhuVk9JWVhLeWNzQ2w2RU82bmY0dzR1UUlYRUZxeC1LdE05Wld6eEdjakVpRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Nov 01, 07:21 PM ET",
@@ -9,18 +57,6 @@
     "summary": "shattered.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzby1UaTBjdVZJZ0RqR0hwUDltNUhDc0IySVFONVp2czc0YUJPTUtkVTBVQngxczZROTh0ZzBDdld3Y051Q2RQVHd1NlBCaFRRT1dUaThydmFCS1I3MUtCRnZIUEY3Qzk5b0xHemRva1BKWE9lYnljSVdncTY?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 01, 01:51 PM ET",
-    "publishedAt": "2026-11-01T18:51:03+00:00",
-    "source": "Pasquale Pillitteri",
-    "title": "Which Claude Academy course to take, all 28 by role and time needed",
-    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEY2OC02Mk84emJlSEtMWERLSnVIdDRXR0VCMFBxUEdvV2drRGV1UkFrc1FLOTlqN19tX0VKRkdKYnJ5QzIxT3Z1S0cwZm14dmNqVlBJV183aDdoX24zMEk4R1ZfMF9mMm9LUmQ2MG1DTmZvRUFDVjh4aHY3UkozS21B?oc=5",
     "difficulty": "News"
   },
   {
@@ -48,30 +84,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Nov 01, 04:47 AM ET",
-    "publishedAt": "2026-11-01T09:47:41+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Gemini 3.1 Pro Pricing: $2/$12 vs Claude, GPT [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR29pZ2JtcUU2YjZwcUttVFFPdkdWeG56OEpFWjZZeUVVV05qQ3Y1VDdCQlRKRkR5dHRDUjRYbjFwUmN6V0cxYkRpMy1jTkJ4YmZobF9LTGZzRjBHNGctQVRtMzlKcDNaTFU3eXYwSmtleVFXWVhIYkpZSEJka1U1b3U2aWd2QQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 31, 03:24 PM ET",
-    "publishedAt": "2026-10-31T19:24:37+00:00",
-    "source": "The Decoder",
-    "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
-    "summary": "The Decoder is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWRRVDc2NW4xb3Vod21YR3hORTRGNjlONHFUc3ozSWx0SGZ2ZnpGd1NoUnRXSFlXcUoxOUZEcXJHVkhQVHc1ei01VHpaMWJXZUJZVEFjTXpoVm5oMnlaOW9KZ3BPQXBBMzVRaEVva3p3eFMteHFjdnltQmozZnZqNXFDTVVRME9ONXZ5YXdCRDV5U2FiTzFmRmtKa2c3ams?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 31, 08:26 AM ET",
@@ -93,18 +105,6 @@
     "summary": "shattered.io is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aTjl2cGJCQjZnS1VISURmLUdoYld5R3o2d2d1cEtjMjJ3MWpGYzdCSk1yTjdLaVR2UG5XUVR1OEJmNllsOVhVRi1VVTRzd0tycGNIdElLam9vLWtPUFY5SFI2T3Y0b0VYa1c5Q3JndE0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 30, 04:15 PM ET",
-    "publishedAt": "2026-10-30T20:15:41+00:00",
-    "source": "The New Stack",
-    "title": "Anthropic just removed one of Claude’s biggest usage limits — but not for everyone",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2WWg2bVhLZjRZVDBxMExxSjVlY1U4ZGJyVFlxT0xNTXhxd1prSlZYV2JsQlM5NzBnLWVPcjExQlVjRV9lY3Q1VUJGVEJKX0lMZ000RUJlR25QZllZeGNr?oc=5",
     "difficulty": "News"
   },
   {
@@ -264,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 27, 12:12 PM ET",
-    "publishedAt": "2026-10-27T16:12:24+00:00",
-    "source": "OpenAI",
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ca1otcHJaQVN6SUk5ck9iOTRENVdhWW82Q3o4aW9DTjZIaXhhUngxSDFQNXAtbVRkSGh0a1M5OFp4LVM4Qm5HaXJCbHYxMjU2WEVPZG1KZVlLWjhY?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Oct 27, 12:06 PM ET",
@@ -309,6 +297,18 @@
     "summary": "Hostinger is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QRV8xcWduVHJkLWZkUzdLOENrZ3Bqd3hCSVdxZ251YllUQ25IZ01FakE0MndEX0I0Y1ZOcWVDQ0VRNnBtUWFadHVLc2NueEtGTG9PdkVzVzA4ZVhEd0FKVWF5b3VCbUlkd0d0Tg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Oct 22, 03:00 AM ET",
+    "publishedAt": "2026-10-22T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Build more responsive apps with the Decisions API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
     "difficulty": "News"
   },
   {
