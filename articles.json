@@ -12,6 +12,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 03, 02:41 AM ET",
+    "publishedAt": "2026-11-03T07:41:54+00:00",
+    "source": "Pasquale Pillitteri",
+    "title": "Anthropic launches message threads, cutting Claude Code wait time by 35%",
+    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY3BubjZaYTNRREVkaWFCX28xbFRtTUhUNjBMcDRJQnVFYVBWSC1WQTlQTER0V3YwaFp1QjRNT1BQNjFIWHhXN1F4NG0tUlFDMk5sWGZsRXA4dk1FVkVrWmdhOEpCbTVaRnpwdFk1cWx1ejltWlhxYXZ4WkNacnZkN3JfNF83Yjdmb1JzelhsRTNNZw?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Nov 03, 01:50 AM ET",
@@ -57,30 +69,6 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyb2tiQ2NXaVBKcE9SM1VVYmFUWGJFZHNMbXBZeVRYdnRkYzdMbjdZci1fdXFHaXZ6VEtfX1Z3ZWhUc05wZDBUdHFjSTNwTkZFSk91d3BJVC1aN2piSWFpT0ZRSUdSMmdkeERtMWZEU1dSVG1QNjdsMF8tQmE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Nov 02, 03:36 PM ET",
-    "publishedAt": "2026-11-02T20:36:22+00:00",
-    "source": "jetstream.blog",
-    "title": "Google AI Updates: October 2026 Edition",
-    "summary": "jetstream.blog is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rRUhBYVMtR2JWbmFkMlkzdnU3NHBwaTVUcFFxM2MxLW0wY1RYeFZkcmZyRVlTUkgyX01TT2M4a1JCd1RGa0V4d2NkVmxmdjBhUXUxZWhBTDJUT1JqdnFxTjZuSkJTcXds?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 02, 03:16 PM ET",
-    "publishedAt": "2026-11-02T20:16:05+00:00",
-    "source": "The Next Web",
-    "title": "Anthropic’s message threads let Claude agents skip resending chats",
-    "summary": "The Next Web is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVXZPb2lkMldOU19WbkE3WEJJM1ZMZnh3ZFhyVklTRFJmd2pZUmlQTmpQS1NFaEpBOUY4cGdPY1Z0ZDdRN3F6a21mZWtsbWRuSm1FVzF1d1NUenlYTjhSZ1BEcGE0M3pUaXNXZUxaMVVoMU1Dd1FmMkRNaW10dFNYeVpB?oc=5",
     "difficulty": "News"
   },
   {
@@ -132,18 +120,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 02, 10:00 AM ET",
-    "publishedAt": "2026-11-02T15:00:00+00:00",
-    "source": "Runway",
-    "title": "Runway News | Runway Dev is in Claude Code, Codex and Cursor",
-    "summary": "Runway is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XSmxIS0xXLXBZR21ld2U2OWVlbkdfOUc0VWotNExrUkhVYjNaWGZtak12ZmlIUlNVT19vT1pwRGpxUm0tMVhCYXdZcklqSHE1bjlaTnB6Zklyc0t6NnhtdGdPZWRhZEZsbFF3WWp2V0Z5bVo0bjJuemtISQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Nov 02, 07:57 AM ET",
@@ -153,6 +129,30 @@
     "summary": "Homeland411 is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXlNendUWkZNRjVjYUVKUElyMEpJVHR0ZjV6aHhqU3RNMDRrOHNsTG1kTC1zLXBzQVRMRFdnanhHM0J3aG5oelhrUEVVZDBSNkc5T3JEQzFwOVhyRWszOUFxUXd2ZGtkSEE1clRnWWVCWm00dmdnYXNhdWZVU21OaUM0MExCWjhaMlNhMzJXcnJObEV4cG5qOU1LUnhzdw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 01, 11:05 PM ET",
+    "publishedAt": "2026-11-02T04:05:16+00:00",
+    "source": "gHacks",
+    "title": "Anthropic Adds a Claude Code Rule on Opus 5.5 That Blocks Recreations of Existing Games",
+    "summary": "gHacks is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWkNxMDNfalU3VTgxanZGTVFFZVI0OTZ3VEhsWnNpWHBTUXREWXJZcU1xaWRDM1hhNzlRUkh4NVpGMVlrZXcxTUJ3XzlIMnpqQ0hrcU43a1h0ZjFMVVZhUVdxeWRTVFF5OFU5VmtZUE5fYnV1RnVpM0MyNlNJb3ktc2tpSWM2WmtGZ2xuM0ZPYWRrVlhuVk9JWVhLeWNzQ2w2RU82bmY0dzR1UUlYRUZxeC1LdE05Wld6eEdjakVpRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Nov 01, 11:34 AM ET",
+    "publishedAt": "2026-11-01T16:34:34+00:00",
+    "source": "TestingCatalog AI News",
+    "title": "Google testing Comic Artifacts for Gemini Notebook",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWpLXzU5OTVweXFNRHhfVzlWWkh2YTVJd3lQTDlsc1hURUVIYUNNYmFVbDRubDQ5Y0JJamxfS1BvV21BcF9KTFJueUhhRVVydXNUR2hreW9QQ3N0eEVhRDFfaWNGLWJmMTdJUWVXV3lwWFZ3SEwyTFpTZ1hzLXJmajRiZUNWMXBlUHc?oc=5",
     "difficulty": "News"
   },
   {
@@ -240,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 27, 09:16 PM ET",
-    "publishedAt": "2026-10-28T01:16:46+00:00",
-    "source": "Anthropic",
-    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-    "summary": "Anthropic is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Oct 27, 12:12 PM ET",
@@ -297,6 +285,18 @@
     "summary": "Google Cloud is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGd3TDcxbjF6SUMyYVQzeHBVVFRMQjVzVVVzQWZBd1FxNnBaVmJXdzgtd1pRcEdDdEdhZlhzSEtHZ09rTVRpN1ZQV0c5VVc5M3d0Q0JUUUlMUUE0dUZ6aWRUSktuZHFXR2JLTEFianRsTEZ0WEs4aUlPTjZvQVBNS0pNT29FbzBVZzZqQUlSM0s2S3pjSEg5bHNLazFkbW1z?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Oct 07, 03:00 AM ET",
+    "publishedAt": "2026-10-07T07:00:00+00:00",
+    "source": "Anthropic",
+    "title": "Introducing Claude Haiku 5.5",
+    "summary": "Anthropic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5",
     "difficulty": "News"
   },
   {
