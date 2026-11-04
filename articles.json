@@ -1,5 +1,53 @@
 [
   {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Nov 04, 02:47 PM ET",
+    "publishedAt": "2026-11-04T19:47:53+00:00",
+    "source": "The Decoder",
+    "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPenJmc1pNNGsteEZyWDBjN0ttemlNSzVmcWRyWk1JUDJKanZ0R1h1WXh1dW5ZS2h6aDJUR3lxcFRCbkE0YVEweG5SY0s0MWdlZ0l2SVhWTEtnYV9SZVRIaXhQa1VkNmg0ZGpNYWZZUHFib0FubG8yd3MyTmlQOTVzSGoxYVZqOG9XaHpUb0RSVWlNamJrYjFhdUM2d1l3Mm53TW5xa0x5VjRXY2VuWEg5T0M0Y01LNDZic3c?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 04, 02:07 PM ET",
+    "publishedAt": "2026-11-04T19:07:53+00:00",
+    "source": "The Decoder",
+    "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON21xVHlTUEVsSW5hLTUyWkg4dmlDVmVBX3lQaXJTSVhYZUR5anhxVDBHbkpZUnV1SWFydi04S1pUSUQzMk9OSnJIQnJqalZiZ3M5Z3JLX2JROUVZUEsxZTNiZkNyRzgzRFFLZTg1ay1tY0RESk4xWmFVSU82Mk1iVFRvSzFXWUxiVkJJQnJhR3FGYVpaZ0RESVk0MTFNNEdU?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Nov 04, 01:23 PM ET",
+    "publishedAt": "2026-11-04T18:23:03+00:00",
+    "source": "Unite.AI",
+    "title": "ChatGPT Adds Animated GIF Creation and Editing with Images 2.6",
+    "summary": "Unite.AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGJLOFZpanh4UGhGTjA1My15MjcxS3l0M3BjQUdPMENMZkNFT2ptYXVVT2RJTzZQZ3ZpN3hJUE0zMUFSS3ZzVVJWWjl1eVY1Z3BGTzhMTnBkckhMWURoSUNuRXJwNFFVZGZUeXVKQU93TlpGS3RWekhZLTBnaFBUd1ZreEM0SHpVbzgtag?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Nov 04, 10:35 AM ET",
+    "publishedAt": "2026-11-04T15:35:58+00:00",
+    "source": "The Tech Buzz",
+    "title": "OpenAI Acquires Pierre Computer to Supercharge Codex",
+    "summary": "The Tech Buzz is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmdvYkd0OGstbzgtMjBQTzFad3AwNVFTN0VLNzBpaEJiVkNhbDZGMk96YXBEMFkyWE5SbTBPS3IxelYya0pCdGpVbVRURWlDTFBOeVY1T3pyemMzczRSMHlUNzJlSzh5WXc4cTRVaXVYaDhPRnoxSjdvSmlwbU5LVzlJVWFnV2JfWUNqWWRn?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Nov 04, 06:37 AM ET",
@@ -21,18 +69,6 @@
     "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdnpjdlVPbzk3S1lWeS1PSVVQWkV0NjNxVkRRNmdDZ3dRVDJacFRDQkdYZGxYRnMwcnN3cGx4UjRXT2R6TWJwWXRXb2ZhbWNwajNSaHZORWJmQkNRbXBNRTBEU2JLVkMyc2k4cWwxS1ZyX1lWMVdqTGNRUC15RXRCSy11NA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 04, 05:59 AM ET",
-    "publishedAt": "2026-11-04T10:59:22+00:00",
-    "source": "OrcaRouter",
-    "title": "Claudy Day: how three claude.ai flaws chain together",
-    "summary": "OrcaRouter is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9veTJmNFJYbnV3U3VvUHNqUTQwTTEyb1BPeG9pbG1OVW53VVFYVmFvckJJUVgyUWl6LWZhMS1oTy1xX0hRWmFsZUM2RWcwWXJxS2NVYkRCclQ0RHpLbTlIdG1nRUk5eGxZbGloUmdWdw?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,6 +141,18 @@
     "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2hpSXMwV1dFT21nZ0VOaUZIQVdndmtubzI1ak1NdWo2Q193NlN1V0pWSm9WcWlhZjhSaXJINl9wMTlyUE1xMDR6UTNGWFA1bzNFM0J5ZmRvblY5bWZxa091SlhOMFRsUmNFTll2NzNRWnJxNUw1bVF3NGNPSE9VY1ZCaXdOampNSUxtRFN6RUY4Z1B2TWZEaHo3SQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 03, 08:50 AM ET",
+    "publishedAt": "2026-11-03T13:50:46+00:00",
+    "source": "The New Stack",
+    "title": "Anthropic speeds up Claude Code with message threads. But your token bill stays the same.",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00S0lXVE1UVDl2VnluQzE0Z1NVbDlBQmktT3NKRnVZaGFuSmlMdENzaUFKSGcwTjZQTGFNMjJlMmkyMExNQUp3OVdhbVJLR29jOE41Y3JzZlY0WWRpeG5oQzhOS0pWeXM?oc=5",
     "difficulty": "News"
   },
   {
@@ -218,30 +266,6 @@
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Oct 31, 12:00 PM ET",
-    "publishedAt": "2026-10-31T16:00:17+00:00",
-    "source": "MakeUseOf",
-    "title": "Google says Gemini 4 Argon is the best coder alive, so I put it up against Claude Opus 5.5",
-    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanZvU21ubnJYUEtpR1JYZjVyclM1SmNGU3p6cnVyMjlJaHgwWEFiWWNET1BLdHJGREVXenR3dGxkbG9wS1h6THhwQ0MwaV9UcDNTMTZIUV85dEdENjlTdVJWa0R1YVB2bE5oNndzdDBUaVJJaDZDR2lVd2JwaHhCNnYxckhKMHFQSHZB?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 31, 08:26 AM ET",
-    "publishedAt": "2026-10-31T12:26:12+00:00",
-    "source": "shattered.io",
-    "title": "DeepSeek vs ChatGPT: $0.15 to $50 per 1M Tokens [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTmd5LTZFVWRKd0piN0JzSDc5UWx2aThIbDVGMHlDRDZheFFWZW5hdjJlS2dJd1RNWlNHc21QMXB6NVdPdF9QdG5ia0VCRERIYngteFg1SXI1TElpT1VJZE1tY0Y4a0tWOTZZR2VPWUFWaDhhV2xOeDJTbFcyZXpUYw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
     "time": "Oct 30, 12:11 PM ET",
     "publishedAt": "2026-10-30T16:11:00+00:00",
     "source": "Small Business Trends",
@@ -249,6 +273,18 @@
     "summary": "Small Business Trends is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3lBSW00ZEowRHF4TUNDN0xpNXU3OHBtNzJmM19oeUNveVRjQUtVMlRoYXAwZXJOVnVXYUVUcFRac2pneDI2WTFWR184YlNkN19tWEtLRnZPVFpiOEZRX28wVy1md0VwR0xmNl9TMU9tT2JSaU9pZDlITEs2LXA2Qll4eDJ3R2NzTTRmYzRqeXBVMVo4MEYw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 30, 07:15 AM ET",
+    "publishedAt": "2026-10-30T11:15:57+00:00",
+    "source": "TechRepublic",
+    "title": "Google Unveils Gemini 4 Carbon With Advanced Cybersecurity Skills — Who Gets Access First?",
+    "summary": "TechRepublic is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yek5iQXBGUi1XZXlhX1VpbFdHM1V6X3RHWW4wM1hJdmE3R1QwR211VTRpRVFZMjFiMVlXUDZCZVlDMTAxOXRfWlp6TVJlM2NMNWh6eW8wX2Iwdkg4ajZqamxoN3Q2RkN6TGFkT3doNkFsVWljT01NTWtjNGs?oc=5",
     "difficulty": "News"
   },
   {
@@ -261,18 +297,6 @@
     "summary": "Step Security is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QN1Q5bXI1WXMzZlpOLWIxaDJEVGhuTWZxcXRwTWdaXzlETHZYd0pIcGhpdnR3R1dsQXUzWGFoZHUyZUd2UldGMHotYVFHNHFQZjdCWERJektwVXZVMWw5dGc4WldHQktiLXFYVnBST19Ecmc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 30, 04:16 AM ET",
-    "publishedAt": "2026-10-30T08:16:09+00:00",
-    "source": "shattered.io",
-    "title": "GitHub Copilot Fusion GA: 3 Tiers, 30% Off [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVF1SHNvYU9qMVpfNzA1R1FtbEZxc01laEZGb2d3dHVzWWFUTUE5bHMtRG1DRzB6SU5tWHVSWjc2NlZuNTNNTFZlOUtsMWJxMUJBM3FmZGJSTEJ1OFhiWktVR1ptaklVbTZEakYwSl9GZlBiSGRId2h4bURfLUowWV9fMlhrX3pzd0UwQlpzdjM1Z0xx?oc=5",
     "difficulty": "News"
   },
   {
@@ -290,18 +314,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Oct 27, 12:12 PM ET",
-    "publishedAt": "2026-10-27T16:12:24+00:00",
-    "source": "OpenAI",
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ca1otcHJaQVN6SUk5ck9iOTRENVdhWW82Q3o4aW9DTjZIaXhhUngxSDFQNXAtbVRkSGh0a1M5OFp4LVM4Qm5HaXJCbHYxMjU2WEVPZG1KZVlLWjhY?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Oct 26, 02:05 PM ET",
     "publishedAt": "2026-10-26T18:05:36+00:00",
     "source": "OpenAI",
@@ -314,6 +326,18 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Oct 22, 03:00 AM ET",
+    "publishedAt": "2026-10-22T07:00:00+00:00",
+    "source": "OpenAI",
+    "title": "Build more responsive apps with the Decisions API",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Sep 29, 03:00 AM ET",
     "publishedAt": "2026-09-29T07:00:00+00:00",
     "source": "OpenAI",
@@ -321,18 +345,6 @@
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Sep 10, 03:00 AM ET",
-    "publishedAt": "2026-09-10T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iOG1jX2MydURESEhHYXluWGN1UXVoWTRPWEcxZmRaZkZNcnBTQ1VEazZ6V2dhSlFCdl9GX1lzWkZkVEo1LWtmc1lNOTRJVlJRTkRVN2gzLVFyUmtNeTViZlpnRVRyS1NOb3lB?oc=5",
     "difficulty": "News"
   },
   {
