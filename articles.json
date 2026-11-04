@@ -1,5 +1,17 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 04, 01:30 AM ET",
+    "publishedAt": "2026-11-04T06:30:44+00:00",
+    "source": "FourWeekMBA",
+    "title": "Anthropic Names Claude Code in 79 of Its 681 Open Job Ads",
+    "summary": "FourWeekMBA is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONzFIZ1J3TVlVT2lBeW9JcWRLWEY2MUxhcnlQOEczTWsyUjV3WjNfOUo0d1NPSE9BcUF3Q2xXSXVMZFFvU19fMFMwN1ItVGJWRDYtbm5fbWJYMnM2WXZraDZzS0RacXFpSFdpNjhSa1NWT3MtOWVFZTA5cUR3UFZoeHJ6b05WZEREN09qWDh3?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Nov 03, 04:04 PM ET",
@@ -9,18 +21,6 @@
     "summary": "9to5Mac is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2hpSXMwV1dFT21nZ0VOaUZIQVdndmtubzI1ak1NdWo2Q193NlN1V0pWSm9WcWlhZjhSaXJINl9wMTlyUE1xMDR6UTNGWFA1bzNFM0J5ZmRvblY5bWZxa091SlhOMFRsUmNFTll2NzNRWnJxNUw1bVF3NGNPSE9VY1ZCaXdOampNSUxtRFN6RUY4Z1B2TWZEaHo3SQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Nov 03, 10:05 AM ET",
-    "publishedAt": "2026-11-03T15:05:08+00:00",
-    "source": "Gadget Review",
-    "title": "Goldman Sachs Restricts AI Coding Tools to Engineers",
-    "summary": "Gadget Review is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN09uZ0c2cldXSThtQzB3aHBVbm14SU1GR3RxV3EzRG9YcXRCRHpGQzVraGJwSnR6bXJPWV9jSzh0SFJoQTdLVUlTSUxlNWhxcnhxQ0M2a2JIaTliTEUtX1gxcy1BUnJ4am5iS0kwZGNoRXpJYTY0SXJlN0lyUkcxUmpxVW54RXg0?oc=5",
     "difficulty": "News"
   },
   {
@@ -120,18 +120,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 02, 10:00 AM ET",
-    "publishedAt": "2026-11-02T15:00:00+00:00",
-    "source": "Runway",
-    "title": "Runway News | Runway Dev is in Claude Code, Codex and Cursor",
-    "summary": "Runway is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XSmxIS0xXLXBZR21ld2U2OWVlbkdfOUc0VWotNExrUkhVYjNaWGZtak12ZmlIUlNVT19vT1pwRGpxUm0tMVhCYXdZcklqSHE1bjlaTnB6Zklyc0t6NnhtdGdPZWRhZEZsbFF3WWp2V0Z5bVo0bjJuemtISQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Nov 02, 07:57 AM ET",
@@ -146,13 +134,49 @@
   {
     "category": "claude",
     "label": "Claude Code",
-    "time": "Nov 01, 02:00 AM ET",
-    "publishedAt": "2026-11-01T07:00:00+00:00",
-    "source": "Fello AI",
-    "title": "Cursor vs Claude Code: Which to Pay For in 2026",
-    "summary": "Fello AI is reporting this update. Open the article for the full story.",
+    "time": "Nov 01, 11:05 PM ET",
+    "publishedAt": "2026-11-02T04:05:16+00:00",
+    "source": "gHacks",
+    "title": "Anthropic Adds a Claude Code Rule on Opus 5.5 That Blocks Recreations of Existing Games",
+    "summary": "gHacks is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuOHlBTmZMdW55VzhoZUhndEJUM3FGVTdmemkxZGQ4ME5UN0xsVTRXLVpyR3dybDVRQy1Ea1BwVDRzY2VuTVcza1NGalRPdGtWYlZtZQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWkNxMDNfalU3VTgxanZGTVFFZVI0OTZ3VEhsWnNpWHBTUXREWXJZcU1xaWRDM1hhNzlRUkh4NVpGMVlrZXcxTUJ3XzlIMnpqQ0hrcU43a1h0ZjFMVVZhUVdxeWRTVFF5OFU5VmtZUE5fYnV1RnVpM0MyNlNJb3ktc2tpSWM2WmtGZ2xuM0ZPYWRrVlhuVk9JWVhLeWNzQ2w2RU82bmY0dzR1UUlYRUZxeC1LdE05Wld6eEdjakVpRQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Nov 01, 11:34 AM ET",
+    "publishedAt": "2026-11-01T16:34:34+00:00",
+    "source": "TestingCatalog AI News",
+    "title": "Google testing Comic Artifacts for Gemini Notebook",
+    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWpLXzU5OTVweXFNRHhfVzlWWkh2YTVJd3lQTDlsc1hURUVIYUNNYmFVbDRubDQ5Y0JJamxfS1BvV21BcF9KTFJueUhhRVVydXNUR2hreW9QQ3N0eEVhRDFfaWNGLWJmMTdJUWVXV3lwWFZ3SEwyTFpTZ1hzLXJmajRiZUNWMXBlUHc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Oct 31, 05:42 PM ET",
+    "publishedAt": "2026-10-31T21:42:57+00:00",
+    "source": "Innovation Village",
+    "title": "Is Learning to Code Still Worth It in the Age of AI?",
+    "summary": "Innovation Village is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVJLSVByNlBrQWhlUUYzZ3pkbi1qbmhNRlFnTFlNcTlZNGVIeDR6ajZyZGJxUG9tX3c3M2hzNW5XTUtlWXpmN2gza3JpdGVscTFsQVpTSExSZWtUVXRMTVhqSEI5WENJcW5sLXlIZGt0X0Z6Q09ubkpvbjFwWi02UlBmTHBYaFNDWURZ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Oct 31, 12:00 PM ET",
+    "publishedAt": "2026-10-31T16:00:17+00:00",
+    "source": "MakeUseOf",
+    "title": "Google says Gemini 4 Argon is the best coder alive, so I put it up against Claude Opus 5.5",
+    "summary": "MakeUseOf is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanZvU21ubnJYUEtpR1JYZjVyclM1SmNGU3p6cnVyMjlJaHgwWEFiWWNET1BLdHJGREVXenR3dGxkbG9wS1h6THhwQ0MwaV9UcDNTMTZIUV85dEdENjlTdVJWa0R1YVB2bE5oNndzdDBUaVJJaDZDR2lVd2JwaHhCNnYxckhKMHFQSHZB?oc=5",
     "difficulty": "News"
   },
   {
@@ -216,18 +240,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Oct 29, 11:25 AM ET",
-    "publishedAt": "2026-10-29T15:25:24+00:00",
-    "source": "Hackread",
-    "title": "EMBRACE Flaws in 5 AI Coding Tools Enable Code Execution and File Theft",
-    "summary": "Hackread is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kQ3lBVlRENkNTdVBpSS1NNWdyaTBCN1ZxUzB5S0NZTWdCN3JfbWtWN19OdWJuSWVmcTN1dk52NTNYZFg0UXZGeXRqbkNhR0EtY2U1SWt0ZGw1VmMwMXpBZ0tadXBETThHamU2Z1hwZEtUOF9LMVRTQkJlRzQ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 29, 10:10 AM ET",
@@ -252,18 +264,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 28, 07:15 PM ET",
-    "publishedAt": "2026-10-28T23:15:39+00:00",
-    "source": "Fello AI",
-    "title": "Google AI Studio: What It Is, What Is Free, How to Use It",
-    "summary": "Fello AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xYTVxcHBOdlhtemFUcjBoekthU3Q5WEg2eGYtMWJpdVJuU2w0cWV5eXN0S3JOaWJSeHE0ejVwUVBoRksyN1dCSXUwTzVnZw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Oct 27, 09:16 PM ET",
@@ -276,27 +276,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Oct 26, 12:28 PM ET",
-    "publishedAt": "2026-10-26T16:28:49+00:00",
-    "source": "SitePoint",
-    "title": "Claude Token Limit per Day: Claude Limits Explained (2026)",
-    "summary": "SitePoint is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MV0pUb3RGVXRtMHhnUEZILUFON0RoZ01zQk9DZXNBTGRsT1JHcUlOSjM5Qlo2YmctNDdNclRRdjF1TVRCSjlNR085SmRGQUFQWjRtOWNtV3RyMlBGNVpxMU40NGdaMko2QjhoRA?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Oct 22, 03:00 AM ET",
-    "publishedAt": "2026-10-22T07:00:00+00:00",
+    "time": "Oct 26, 02:05 PM ET",
+    "publishedAt": "2026-10-26T18:05:36+00:00",
     "source": "OpenAI",
-    "title": "Build more responsive apps with the Decisions API",
+    "title": "Introducing GPT-6.1 Terra",
     "summary": "OpenAI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXZFeG9pNFFNNEU4R0tGRjNFYnhBTWFFblE3Snp1MVJVVHJjSlQxb2s5S2FGZnRfNjlzUzkzN1JiZ2pUWl9oRTJlSl80Z0g2Zy1nekNzQ253NU13VE9zYw?oc=5",
     "difficulty": "News"
   },
   {
@@ -336,15 +324,15 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Oct 13, 03:00 AM ET",
-    "publishedAt": "2026-10-13T07:00:00+00:00",
-    "source": "Quartz",
-    "title": "Google releases Gemini 4 Argon AI model to developers, businesses",
-    "summary": "Quartz is reporting this update. Open the article for the full story.",
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Sep 25, 03:00 AM ET",
+    "publishedAt": "2026-09-25T07:00:00+00:00",
+    "source": "CNBC",
+    "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
+    "summary": "CNBC is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTJYVVNQTkVvRExCcU0zdGplVnpUYWw5V2MxVDhhTFI0N1U0ZFNEc1RrclFrTVQyUlFkRkV2UE5zSER5Um82dUFTcHRvVHFmcnZjZjhqcTd6MEdjMV80aXc5T2VPU2tCR3AtUXZweGZSelFmU3pGRFpBY01vc3VmXw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaE56cEZlT0tlaGw5Mno4QUZnTUFKT3Jod2ZQZEZsSmtxVWg0Vy10M2hwMU1acjNqamZ4LXZ6cS1nNkI2aURrRklYaEFmVVVvZEhWUURVOWhfcEwtZUVDck04WGhuX2ZZd0Rsa0dfMnlhNHExQlVsdDVmOF95V2_SAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5",
     "difficulty": "News"
   },
   {
