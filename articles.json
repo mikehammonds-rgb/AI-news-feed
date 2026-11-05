@@ -1,26 +1,62 @@
 [
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Nov 05, 12:55 PM ET",
-    "publishedAt": "2026-11-05T17:55:00+00:00",
-    "source": "BigGo Finance",
-    "title": "Google Cuts Gemini Omni Video Price 30% to $0.07 a Second, Extends Clip Length to 15 Seconds",
-    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Nov 05, 06:37 PM ET",
+    "publishedAt": "2026-11-05T23:37:55+00:00",
+    "source": "MarketScale",
+    "title": "OpenAI launches GPT-6 Cyber, which found 81 high-severity Firefox flaws",
+    "summary": "MarketScale is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iYllUNTFRMER1RGlQaGdjbVFhTWV2Z3VCbUVoeUQ2cHRHREQ4bXRqRVNGOUhoMTAySm1xMXFpRlZvYjhVNlFLMUg5S0ZybmxjcW5SczlWVjM3MWxIS1N5a3hiSWZJekJSYzVFRUZuc3hocDBIc3c?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHZmY2QwRDJVWWFjaXpFRnF0U3M5YVpuRlNTMGZYRFVSQ2o0bVNPM1JLQ3JFVjNiVEprbkZGbm9vMHVTYkh1ekVybFNZWXNydkxYcG1LZzhfbzk5RlFlSHJ2UFhHMlhrUENIOGNZRy11VUxId2hZbEJLUEFkQlBYS3BmY1dGVHc0ZVZpd2Z1UDJ1cUxCb2ZqekJnNHZ3RzBWb2VyTWVSTGM3LTlVV3ZLYmMtVnBIbHY1SjA4?oc=5",
     "difficulty": "News"
   },
   {
     "category": "gemini",
     "label": "Gemini",
-    "time": "Nov 05, 12:42 PM ET",
-    "publishedAt": "2026-11-05T17:42:01+00:00",
-    "source": "Investing.com",
-    "title": "Google launches Gemini Omni 1.2 Flash with longer clips and lower cost",
-    "summary": "Investing.com is reporting this update. Open the article for the full story.",
+    "time": "Nov 05, 05:58 PM ET",
+    "publishedAt": "2026-11-05T22:58:21+00:00",
+    "source": "MarkTechPost",
+    "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
+    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcXhzWFVkbkVDYTJYVm1HZDkyOUVDSVpzdWFIUWdDMjZtT1JNYjdzVEZ1MndRWjVPVDZUR1plLWZGalhOUVdPNEd1TlljUnF2QjZlbzRwWUp1NlM2b3p3ZlpZR1JDVW5DanNKSFlPSFVMbDVQaTNrak5HRUZmdkhGbURPSU00WEsxNkVZUTRnQnNtd3FYdXlGbFBOdGRvM1dFLTZNRnM1djdPM3VkcDM3anh4eThuOTZEYmhlTHRzM3NLZ0hSV3F4ZE9jNA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmJWa2FkdGFucENpYjdFTXJLN1NNdTFxTnZqdWt2OFJQaGRuVkZaclRDY3NnZEc1ZENhUExDYVIxVHlBQ2RnOUtFVFlCTEFxOE5SMENWdGlFQlZmcEt4VUkwQmVYYnN6YXZuME1WNU1nS2ZTSXdKVHkzYzVmUnIxbzRCZjFIdzRKaVRUSnh30gGOAUFVX3lxTE52YlZrYWR0YW5wQ2liN0VNcks3U011MXFOdmp1a3Y4UlBoZG5WRlpyVENjc2dkRzVkQ2FQTENhUjFUeUFDZGc5S0VUWUJMQXE4TlIwQ1Z0aUVCVmZwS3hVSTBCZVhic3phdm4wTVY1TWdLZlNJd0pUeTNjNWZScjFvNEJmMUh3NEppVFRKeHc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Nov 05, 04:48 PM ET",
+    "publishedAt": "2026-11-05T21:48:20+00:00",
+    "source": "Fello AI",
+    "title": "ChatGPT Images 2.6: GIFs, Reference Images, API Cost",
+    "summary": "Fello AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wREUzTENoWlIxVDFsYXFVc0twWnNTLVl0S2xaRUV6Vnp2cjM5a2xOUi16Nnk2NDJlQVpvcVI4OFo5ckpiN21ESkR4RFJKRlpJ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 05, 03:57 PM ET",
+    "publishedAt": "2026-11-05T20:57:22+00:00",
+    "source": "Security Boulevard",
+    "title": "Claude AI Governance and Security Visibility",
+    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUI1VjAwOVg5dVVkZDIxR3dyRWVkV0F0NWVHM2J1VEFlR3ZqX2FOLU9SRG51M19hMUhJOWNoVHFodnNwS3h1aGdxRjliWXRhMzBQdE8wQ3dqNmh5ZF9IclhwbEpUODNzbmloZVVHaEhTSGlpalY0WUJxQ2lyY3FsR3RobXNMWG5teXpB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Nov 05, 02:08 PM ET",
+    "publishedAt": "2026-11-05T19:08:10+00:00",
+    "source": "The Decoder",
+    "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
+    "summary": "The Decoder is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGdycWROdW9kWlpFRWtJc0wzeVMtVTgxTENtWm1DbDJlREJxWkZKYWJLZWpQMEs0NTBHVW9BekxiZ3hJd1JfVnEzN3hwMm5fYThpMGZuQ0wxMnk4UUlHNG1kN0pZTTlqYXZEWG1Jd19Ld0pEVnZJR1dSVXhQLUMwZGtiWlcxM1V3VzFXWjRva3FzTGhudkIzaURaX1lTOXltVmdkaHduYk1JQnEyMDROSkFuTXhtME1BWncxTTdSc3MyQQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -57,6 +93,30 @@
     "summary": "Unite.AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOHlCR1RzOXVSdXlUSlNELWlDWWt0Y1l0WTZxel9wa3ZEZk5EZzZvRTE1dVAyTE5sbHgyYndSeTk3MU5SV0xLSkVTWG1BRlBESFI4UzNmNXE3cWNNWjFYRUhWYVRrMWhycnc0ZERDMW5kZjAwV2VaT19kWUxpLWQzcHVuOVI0XzQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Nov 05, 12:20 PM ET",
+    "publishedAt": "2026-11-05T17:20:29+00:00",
+    "source": "blog.google",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "summary": "blog.google is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzdSQ1BzbGFWajh1Z0VvUHZvN215LXFXa25rRnNRakRIVW9WbkxQTk10N2tJUEZKODd6cXJBWlQ0VWdFd2JWYllfQlh3ZXAyYXRkclQ1M0NXdHNLaUhjSUpCSXFBMElKdDZBQWxGZEJKajhfY1RRbThUeVlJMUkwdlRoR09ZZF90Q1JEekZfN2RKeUVNak1lZmdPSW9hV2g1SGc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Nov 05, 12:13 PM ET",
+    "publishedAt": "2026-11-05T17:13:58+00:00",
+    "source": "FourWeekMBA",
+    "title": "Google Cuts Gemini Omni Video Price 30% to $0.07 a Second",
+    "summary": "FourWeekMBA is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcVpIeVZqMUQ2WlplTEZGQU5nRHhxbGFQQ3BZMlNQSjNJMXZKN1REVzZ2M3VjTDRqME1LWmZJWUU4SVFlUTNYUnd0LUdJd01FTldhV1A3T3lpOTlpeXZIZ1JILV9PTjFoLVoxdFd0Z3FLaDZpUmNINVIzRkM3dGJHblFGMmlyTzJzXzJZ?oc=5",
     "difficulty": "News"
   },
   {
@@ -110,18 +170,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Nov 05, 05:15 AM ET",
-    "publishedAt": "2026-11-05T10:15:16+00:00",
-    "source": "Resultsense",
-    "title": "OpenAI launches Images 2.6 with GIFs and SVG export",
-    "summary": "Resultsense is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjAxMG9xYXdCb0lkcDdrNWJWTmRBRkgxbjFRQmVTLVhLYUFzNTVsM29vbzIxaFlROXFhZ0Rtam9KX2JlV1FWbWN2cGc0bWdpS3BuWlFxNVZmUHI0OUNaNFc3Sl9MLUpOeTRCUGFFczlubFZzb0JBZmR2LWJ1bm92WnZRcUttdw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Nov 05, 05:00 AM ET",
     "publishedAt": "2026-11-05T10:00:39+00:00",
     "source": "Gizmodo",
@@ -129,18 +177,6 @@
     "summary": "Gizmodo is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWswMTFoWU55ZFpEeDFqaVdEaEE4YXBZTUJqT2FHM2FIdWc4MG9Oa2FSZGFHXzZWQTF2SUJMUGJqV3VCRV93SVgtcnZpM3Z3SW5zQ1pTQzlHRGVUZ01aNnluU2xTUHh0U0pTRWpIVXRNTmp2ZkRjY2g0dm9nT1I0TXJuekZJd2dXTFlyNU5sWU1EMDNrdUFfMEFGQUZyZUt3eUFyUlFR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 05, 02:43 AM ET",
-    "publishedAt": "2026-11-05T07:43:00+00:00",
-    "source": "Notebookcheck",
-    "title": "Postman added itself to Claude Code and Codex without asking",
-    "summary": "Notebookcheck is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDVQaWJXWFI0Vkd2WDRwWTdKbUJqVE5kTG1zekpwemJDajJZX2hwT2tFSTFIVTJrY3hKRTh2MWh2VjZ5OXpnWWY3UFVEUlRkUHlpREIyV2trekNCcWZxT2p1bXZub2VCcVdFOWZvdzF1X0pPcjdRYW9JYUhVSHJ6b0tYVTlhN3dVOTFCUVRuUjFDX3M4SG9TOFZ0WDViRkZ6aGtkZ1dvNVY?oc=5",
     "difficulty": "News"
   },
   {
@@ -158,13 +194,25 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Nov 04, 07:44 PM ET",
-    "publishedAt": "2026-11-05T00:44:32+00:00",
-    "source": "TestingCatalog AI News",
-    "title": "OpenAI launches Images 2.6 with GIFs and image reference",
-    "summary": "TestingCatalog AI News is reporting this update. Open the article for the full story.",
+    "time": "Nov 04, 11:32 PM ET",
+    "publishedAt": "2026-11-05T04:32:22+00:00",
+    "source": "The Hacker News",
+    "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX3dIb0FWWHhMdTVNVENaWnBKWFV5d1NmYXA5ZU5NN3VjVWJsSnNXRklqcF95alVZaHRHSUhxSWcyRUxDVWthcVVKRk8zOS02OFo0WG94TDhOaENYSkRITFl0eFRDdzFBUHVRMFRDVU9VeVY3LURzY1Rwb0xaSkZ5eFZvc2xwSGZ3MjVXNEwxMmpSQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTjBhVWJNR1E4TFpreTFWVVNQTzhVT29FbFU2RjFiQzJlOXhRRWlJejhwMUZPMzFhaGJMbm9GakpFR3NDZzZwZFJWQ2gzdjNQeXFzQ3JpNTh6ZXVKcE1tTGZfYlhnQ3RXZ2RWM2JxTWJXN0hrMzVmMDdnRlIyM0s0cjZXUQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Nov 04, 05:21 PM ET",
+    "publishedAt": "2026-11-04T22:21:42+00:00",
+    "source": "OpenAI",
+    "title": "A thousand fewer paths to root",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YNndWbW1YdWJ1bFpGb3cyOGcyamlnWV9keHhVSV9NQ0poX0JTSzNMckF1TkNEZ05wdTNObGFXS04xU2xzVlIteXRFSkxfSnFsQVlnY0dLcUpGa1doY0NvX0VVNEVGYjg?oc=5",
     "difficulty": "News"
   },
   {
@@ -240,18 +288,6 @@
     "difficulty": "News"
   },
   {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Nov 03, 01:07 AM ET",
-    "publishedAt": "2026-11-03T06:07:35+00:00",
-    "source": "Fello AI",
-    "title": "ChatGPT Credits: What They Cost and How They Work",
-    "summary": "Fello AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TeXRKU3cxeGVxa1dRRXBxSjhDS2xVc0pNdHBLOUtEeEdfRHQ1N1BmX3ZRVmFNaktOaUlleWljVnRqYWZZb3BKM3N5ZkY?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "codex",
     "label": "Codex / LLM Code",
     "time": "Nov 03, 12:35 AM ET",
@@ -261,30 +297,6 @@
     "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyb2tiQ2NXaVBKcE9SM1VVYmFUWGJFZHNMbXBZeVRYdnRkYzdMbjdZci1fdXFHaXZ6VEtfX1Z3ZWhUc05wZDBUdHFjSTNwTkZFSk91d3BJVC1aN2piSWFpT0ZRSUdSMmdkeERtMWZEU1dSVG1QNjdsMF8tQmE?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Nov 02, 03:02 PM ET",
-    "publishedAt": "2026-11-02T20:02:34+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "ChatGPT vs Claude vs Gemini API: 13 Steps, 60 Min [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObzdhM1NCd0lReUFVek9XS0Q3dnNfQS1ZTVpEbUh5eVBaZWd1MXl1b0lmd3I4WTR2ODJrblhSZ09Ia3ZscmxtYWxKVF9fLU1tRG9KRjNmSmJxZEZiYlgxSERISS1YalZqOHlPbXdRS2pqakZlcmNnclEtTmlvWGMtTHJQcXBUcXZjODJQN2t5MA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Nov 02, 01:17 PM ET",
-    "publishedAt": "2026-11-02T18:17:21+00:00",
-    "source": "Mezha.net",
-    "title": "Google recaps October AI announcements, from Gemini 4 to quantum computing",
-    "summary": "Mezha.net is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR0ppX3B0TGc2dnJ1OHlXMzhYUlpZelJxb1BZLUFZWkpKamRPUzhrR1VDbXlYVUt5eFktZHR1NXNjYWpMMTVVRGl6UFA3Z1NZQ0pFbk5ROXh4NC0wS2xVdEY1ZHNvMUlGT0k3bWR2Um9wT0ZlTVRDQUMtWUtYYjVpMFRQWWxRTGs?oc=5",
     "difficulty": "News"
   },
   {
@@ -309,18 +321,6 @@
     "summary": "DevOps.com is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0RaODFlY2JZZEVVVldpSVFoYWV1bzRJZVNYWDVLemVOY1Z6RVZibDJTd2YwQTZhQXlyYmM3UzZyX3U3NWN4bWFPTkRoOHNqd3U3aGF4Smc4ODJ3NkZVRUY2NFBKMlVYNmx3dEYwWjlnMUQyNkZoN05seGhLTUhUM3hCMGdSdFF3ZU9TbHFHcmtzR2Vh?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Oct 22, 03:00 AM ET",
-    "publishedAt": "2026-10-22T07:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Build more responsive apps with the Decisions API",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWWIyTDlFelEtQS1ZMURmOUFiVFJRRy1TazhJMkxGNF9EYkJHZmFYdjVWNl9qZ3dKanBTWXpDeTlicEhCaG0tUHBxUGJfRm9z?oc=5",
     "difficulty": "News"
   },
   {
