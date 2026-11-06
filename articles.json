@@ -1,14 +1,74 @@
 [
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 06, 07:52 AM ET",
+    "publishedAt": "2026-11-06T12:52:35+00:00",
+    "source": "CyberSecurityNews",
+    "title": "Claude Dispatch Flaw Lets Malicious Browser Extensions Run Code on Connected Computers",
+    "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrSGFRcGxmcDl0X3hqaVo3djJiczhCWG9BWER2RVRKYWtCdnhGVENZbXNpUVRlUWtnc05TY3BiN2FyV2c0VjlvNmZpRW9Eb25kVDdZY05XVVVqcTFwTlZkdl9VNUxHWEtYTVFGVdIBckFVX3lxTE9vUVVGNGtrZkZVa3VvTXpGdUxhQkVIRTJVeG51aDFKUXJSZVQ1eXNLTHVkcXRfZUhONEVfbmhVOVlZVFhzdU9lb3FBMURCM29wcUFPUVFsQ0NjVWR0bVpZQ3QtZ1BFM2xzUUV2WnJhdGJMZw?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Nov 06, 07:03 AM ET",
+    "publishedAt": "2026-11-06T12:03:55+00:00",
+    "source": "https://tech-insider.org/",
+    "title": "Best AI Agents [2026]: Terra $1 vs Argon $2 vs Opus 5.5",
+    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS1NHdXlPZl9GaEc0X3lobWJfVHRSdG9zbGZCYm05SDFaTkxJNG5GV3Fkejd6Xzh3TTUzbnZENm91OW9RSjRIXzN5aXJzSVZmajRQN0Z0OWIzZlR4Zm04WVNYM1IxOUJMU3VHV0RPdGJIWnN1Nkp4dUx2S0xnS1RVbEJrMHJyY0dsS0xLQXJ5REdwS29QeFhBRWtjUmE?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Nov 05, 09:40 PM ET",
-    "publishedAt": "2026-11-06T02:40:49+00:00",
-    "source": "remio",
-    "title": "OpenAI Image Generation Reaches 4 Billion Weekly Images as Images 2.6 Arrives",
-    "summary": "remio is reporting this update. Open the article for the full story.",
+    "time": "Nov 06, 04:56 AM ET",
+    "publishedAt": "2026-11-06T09:56:02+00:00",
+    "source": "Dataconomy",
+    "title": "OpenAI Adds GIF Creation To ChatGPT With Images 2.6",
+    "summary": "Dataconomy is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNzNaakZUVmZnQVZMMFllZmY2cm1NTURlTF9VYmp2djdncHMydlQ3ZjV4TF9lejZZN1NrdDFuSGRsZVRsYkUxRmVwM1RNbDhqM0s4cWFOMVdrTnVhUDM0YndfeHMwOHM2VUpUUHBmd0lVaUZoS3Bxbk9QUHh4V0cwNEI1U1Vrc3FVYmV4T2JGZjJpREFVcXh2M1Nid3cyWDFFMFlWYlNn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdF9QYnJEYldSb01QSDcwM3FTeWdZNzMtMEpkY1pCVUNWZi13eTBBTXBSVnpjWUxwT1FMVHg0eEJhaHJGUkp0LVJNbV9FTDhNS19ETFZjVkZLQXdUM1A1VU1icmp0a1ExNDltbzVpbU5UcDlHVVl2VWxqVl9KZTYydF9QelNCSFZDTDlXZWJB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 06, 04:33 AM ET",
+    "publishedAt": "2026-11-06T09:33:40+00:00",
+    "source": "tech-insider.org",
+    "title": "Claude API Pricing: Cut Costs in 13 Steps [2026]",
+    "summary": "tech-insider.org is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeENIWW9qQmMtRWVsZ3BrUi1Bc1AxZFhRVUNWenpsX1dyUHRsbTBpeHJSeHh2YkVZbklnNWxqX2pHMHdWTEZvV2pIaVhaUlRrUXdrTi1YbzZnYXlraFNUN0ptNnJxamFYcUFaSWtiOFJYZnVsUUZGTU9TTWJSWkZjSUJqbTNEaGZzbHBXbE9lTQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 06, 04:19 AM ET",
+    "publishedAt": "2026-11-06T09:19:52+00:00",
+    "source": "GBHackers News",
+    "title": "Claude AI Flaw Lets Malicious Browser Extensions Execute Commands on Remote Computers",
+    "summary": "GBHackers News is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80RUJnT29oSE9heVo3a0tDWV9aU2dMNTJIQnM0dU5aOTFrcl8wU0Y2bTk4UV9Xc2psX0ZVQWZ4Yl9pdUlKT3JUYzV6cW1wUdIBU0FVX3lxTFAxMW01X1dLT3lmZC1HWXJNSUkxMG0xSnpUeUdLSlU0ci1hc1lXdXBrTXJ2VU56a2tKMGVpRGI4dnlYN1dtVTRoNGp1dUdRYUJrYms0?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Nov 05, 11:20 PM ET",
+    "publishedAt": "2026-11-06T04:20:00+00:00",
+    "source": "Neowin",
+    "title": "Google launches Gemini Omni 1.2 Flash with 30% lower prices and longer AI videos",
+    "summary": "Neowin is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWVjdzI5aTJpUndsUU04Ym1lVHVGOHpaWkFFTk9RV0pWdzhKdVFBelFwNTM4Y3V6T1AxeGp1NlVSXzBNNWI2S1BzVkFrWHBCX0dSVkJYdUZCU2M5TTktd0JpSXRNcnpvQU9lblo2WkpxQ2VaR3YzTGoyZmM2WlJZbDJLYzdVbUcwYkVhVl8wcGgzQXV0dTMwTUc2c2pOVk1MU0Frc05zZXVMMU0?oc=5",
     "difficulty": "News"
   },
   {
@@ -62,30 +122,6 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
-    "time": "Nov 05, 06:12 PM ET",
-    "publishedAt": "2026-11-05T23:12:40+00:00",
-    "source": "www.tokenpost.com",
-    "title": "OpenAI Adds GIF Creation to ChatGPT in Images 2.6 Update",
-    "summary": "www.tokenpost.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJaFJyTjVZOUtlTEdqY0FXYjZKNGVfdEpFcnFqQjhfLXJqX1lDbUJPMFZYYW56eVhnVFZKZHBnR25MT3dtWmVfUDJ0dnBUYmpTcEJ1X19aSUsxajQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Nov 05, 05:58 PM ET",
-    "publishedAt": "2026-11-05T22:58:21+00:00",
-    "source": "MarkTechPost",
-    "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
-    "summary": "MarkTechPost is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmJWa2FkdGFucENpYjdFTXJLN1NNdTFxTnZqdWt2OFJQaGRuVkZaclRDY3NnZEc1ZENhUExDYVIxVHlBQ2RnOUtFVFlCTEFxOE5SMENWdGlFQlZmcEt4VUkwQmVYYnN6YXZuME1WNU1nS2ZTSXdKVHkzYzVmUnIxbzRCZjFIdzRKaVRUSnh30gGOAUFVX3lxTE52YlZrYWR0YW5wQ2liN0VNcks3U011MXFOdmp1a3Y4UlBoZG5WRlpyVENjc2dkRzVkQ2FQTENhUjFUeUFDZGc5S0VUWUJMQXE4TlIwQ1Z0aUVCVmZwS3hVSTBCZVhic3phdm4wTVY1TWdLZlNJd0pUeTNjNWZScjFvNEJmMUh3NEppVFRKeHc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
     "time": "Nov 05, 04:48 PM ET",
     "publishedAt": "2026-11-05T21:48:20+00:00",
     "source": "Fello AI",
@@ -117,18 +153,6 @@
     "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGdycWROdW9kWlpFRWtJc0wzeVMtVTgxTENtWm1DbDJlREJxWkZKYWJLZWpQMEs0NTBHVW9BekxiZ3hJd1JfVnEzN3hwMm5fYThpMGZuQ0wxMnk4UUlHNG1kN0pZTTlqYXZEWG1Jd19Ld0pEVnZJR1dSVXhQLUMwZGtiWlcxM1V3VzFXWjRva3FzTGhudkIzaURaX1lTOXltVmdkaHduYk1JQnEyMDROSkFuTXhtME1BWncxTTdSc3MyQQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Nov 05, 12:55 PM ET",
-    "publishedAt": "2026-11-05T17:55:00+00:00",
-    "source": "BigGo Finance",
-    "title": "Google Slashes Gemini Omni Video Pricing to $0.07 a Second, Extends Clips to 15 Seconds",
-    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iYllUNTFRMER1RGlQaGdjbVFhTWV2Z3VCbUVoeUQ2cHRHREQ4bXRqRVNGOUhoMTAySm1xMXFpRlZvYjhVNlFLMUg5S0ZybmxjcW5SczlWVjM3MWxIS1N5a3hiSWZJekJSYzVFRUZuc3hocDBIc3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -180,30 +204,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 05, 08:22 AM ET",
-    "publishedAt": "2026-11-05T13:22:17+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Claude Dispatch Flaw Report: 3 Plans, Fix Unconfirmed [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUm5WaHhtdVNxVzhuRjVKaTg4U3pMdXJVRmJsQUFuU21wYVVFZWFoTDZjOTFZNG1seHBTY3VOeFZQVDZGaDhjRUlzbFV4OGVXT3BGWndlSEdoTDJUSGZEbjNnQWcyNGYwV0ZITi15RW9VMjFHLXRIRHlsVDdSZEVTcHpiaFhCMFd2Slpybw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 05, 08:00 AM ET",
-    "publishedAt": "2026-11-05T13:00:00+00:00",
-    "source": "The Register",
-    "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWmNYRUNBVGRtakc4aTBFX3c2VXpUQzVuUGJtdjNzNHp0a3VVNG0xMXpUUVBzb053T19yeThmeXl0U1lYeGd4LWY4aF9jMmdHR3lERmN6MVBWai1ZTks5SW5CTEE3NnRSYVljWmpSVGRUMzJ3TnpRS2FEYXQtUnpUeC01eVNBdUM5WmJZakxGUzZvVXJocVBwUWhLWHJudDRIa05rT25udmFMWnhVX201MUJ2NjdWSFJVeVJvSjVDR2k3VE5KNm9iVVJwZnhDMzV3QmVzLUZxZ3ZIQkF2YzdDOGIzNW9UVFU1WDFHcmIzbFFkYm5QMjVXZXFHVGx1cDlkX0JQQw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Nov 05, 05:00 AM ET",
@@ -213,6 +213,18 @@
     "summary": "Gizmodo is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWswMTFoWU55ZFpEeDFqaVdEaEE4YXBZTUJqT2FHM2FIdWc4MG9Oa2FSZGFHXzZWQTF2SUJMUGJqV3VCRV93SVgtcnZpM3Z3SW5zQ1pTQzlHRGVUZ01aNnluU2xTUHh0U0pTRWpIVXRNTmp2ZkRjY2g0dm9nT1I0TXJuekZJd2dXTFlyNU5sWU1EMDNrdUFfMEFGQUZyZUt3eUFyUlFR?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Nov 04, 12:02 PM ET",
+    "publishedAt": "2026-11-04T17:02:44+00:00",
+    "source": "OpenAI",
+    "title": "Introducing Images 2.6 I n t r o d u c i n g I m a g e s 2 6",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aRllmMHFwSmtFNVhMV0dnNXpZa0RkejJ2bDkzYUlTLXRBaHF5TXd0VldHSEZxbWEyQ25EdlM1azgxV2p5dGs0cnZ2dG56ekEzQTJDY1FFWjN5MzZh?oc=5",
     "difficulty": "News"
   },
   {
@@ -338,13 +350,13 @@
   {
     "category": "codex",
     "label": "Codex / LLM Code",
-    "time": "Jun 22, 03:00 AM ET",
-    "publishedAt": "2026-06-22T07:00:00+00:00",
-    "source": "The New Stack",
-    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
-    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "time": "Jun 30, 03:00 AM ET",
+    "publishedAt": "2026-06-30T07:00:00+00:00",
+    "source": "The GitHub Blog",
+    "title": "Copilot Agent is now available in JetBrains AI Assistant",
+    "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
     "difficulty": "News"
   },
   {
