@@ -2,13 +2,73 @@
   {
     "category": "chatgpt",
     "label": "ChatGPT",
+    "time": "Nov 05, 09:40 PM ET",
+    "publishedAt": "2026-11-06T02:40:49+00:00",
+    "source": "remio",
+    "title": "OpenAI Image Generation Reaches 4 Billion Weekly Images as Images 2.6 Arrives",
+    "summary": "remio is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNzNaakZUVmZnQVZMMFllZmY2cm1NTURlTF9VYmp2djdncHMydlQ3ZjV4TF9lejZZN1NrdDFuSGRsZVRsYkUxRmVwM1RNbDhqM0s4cWFOMVdrTnVhUDM0YndfeHMwOHM2VUpUUHBmd0lVaUZoS3Bxbk9QUHh4V0cwNEI1U1Vrc3FVYmV4T2JGZjJpREFVcXh2M1Nid3cyWDFFMFlWYlNn?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 05, 09:11 PM ET",
+    "publishedAt": "2026-11-06T02:11:46+00:00",
+    "source": "Security Boulevard",
+    "title": "Claude AI Governance and Security Visibility",
+    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUI1VjAwOVg5dVVkZDIxR3dyRWVkV0F0NWVHM2J1VEFlR3ZqX2FOLU9SRG51M19hMUhJOWNoVHFodnNwS3h1aGdxRjliWXRhMzBQdE8wQ3dqNmh5ZF9IclhwbEpUODNzbmloZVVHaEhTSGlpalY0WUJxQ2lyY3FsR3RobXNMWG5teXpB?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Nov 05, 08:04 PM ET",
+    "publishedAt": "2026-11-06T01:04:25+00:00",
+    "source": "OpenAI",
+    "title": "Cult.fit builds operational muscle with Codex",
+    "summary": "OpenAI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OVksxbzZxYl9Wd0daazdjWlRpUEF3OUYxbDhtdWNaQjhtTGxuQXFRTExuOE5HeWRQZzhMaHc3U19aeVViVGkwQVZ1T29DT0NTYTlHeUJNNTRRSVo5dzIwYg?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 05, 07:32 PM ET",
+    "publishedAt": "2026-11-06T00:32:24+00:00",
+    "source": "VentureBeat",
+    "title": "OpenAI launches GPT-6 Cyber with stronger exploit research and higher API price than Anthropic and Google",
+    "summary": "VentureBeat is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTB2WEJJVjRiTUJBZmRvTHd1dkphUWRJRmJBcXlzZDNicWhqZWQxUkNMQ3E0TV9DNllQWHNZTFo5QWNiNTM5NEtOdUFjdDMtb3FDZ3FhTnpGS1liWnVPVTFWdjhuWkM3MExXTnVjMTZ1Umw5U3BRTHoycHdaNUNNNXlJS2o2MVBfNHBlQWRFV2IzbVRLZ3lIRGZiSzRwWmJhbUxKLVlMb3M0cGcwSEdXRHVtcUZHSmQxUFNlSXJKc3FZRThFaEg1aDg5WjJ2R29rbFFHaVZ1MA?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
     "time": "Nov 05, 06:37 PM ET",
-    "publishedAt": "2026-11-05T23:37:55+00:00",
+    "publishedAt": "2026-11-05T23:37:31+00:00",
     "source": "MarketScale",
     "title": "OpenAI launches GPT-6 Cyber, which found 81 high-severity Firefox flaws",
     "summary": "MarketScale is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHZmY2QwRDJVWWFjaXpFRnF0U3M5YVpuRlNTMGZYRFVSQ2o0bVNPM1JLQ3JFVjNiVEprbkZGbm9vMHVTYkh1ekVybFNZWXNydkxYcG1LZzhfbzk5RlFlSHJ2UFhHMlhrUENIOGNZRy11VUxId2hZbEJLUEFkQlBYS3BmY1dGVHc0ZVZpd2Z1UDJ1cUxCb2ZqekJnNHZ3RzBWb2VyTWVSTGM3LTlVV3ZLYmMtVnBIbHY1SjA4?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Nov 05, 06:12 PM ET",
+    "publishedAt": "2026-11-05T23:12:40+00:00",
+    "source": "www.tokenpost.com",
+    "title": "OpenAI Adds GIF Creation to ChatGPT in Images 2.6 Update",
+    "summary": "www.tokenpost.com is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJaFJyTjVZOUtlTEdqY0FXYjZKNGVfdEpFcnFqQjhfLXJqX1lDbUJPMFZYYW56eVhnVFZKZHBnR25MT3dtWmVfUDJ0dnBUYmpTcEJ1X19aSUsxajQ?oc=5",
     "difficulty": "News"
   },
   {
@@ -29,22 +89,22 @@
     "time": "Nov 05, 04:48 PM ET",
     "publishedAt": "2026-11-05T21:48:20+00:00",
     "source": "Fello AI",
-    "title": "ChatGPT Images 2.6: GIFs, Reference Images, API Cost",
+    "title": "ChatGPT Images 2.6: GIFs, Saved Reference Images and Two Faster API Models",
     "summary": "Fello AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wREUzTENoWlIxVDFsYXFVc0twWnNTLVl0S2xaRUV6Vnp2cjM5a2xOUi16Nnk2NDJlQVpvcVI4OFo5ckpiN21ESkR4RFJKRlpJ?oc=5",
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 05, 03:57 PM ET",
-    "publishedAt": "2026-11-05T20:57:22+00:00",
-    "source": "Security Boulevard",
-    "title": "Claude AI Governance and Security Visibility",
-    "summary": "Security Boulevard is reporting this update. Open the article for the full story.",
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Nov 05, 04:09 PM ET",
+    "publishedAt": "2026-11-05T21:09:07+00:00",
+    "source": "jetstream.blog",
+    "title": "Google Officially Announces “Gemini Omni 1.2 Flash” Video Generation AI",
+    "summary": "jetstream.blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUI1VjAwOVg5dVVkZDIxR3dyRWVkV0F0NWVHM2J1VEFlR3ZqX2FOLU9SRG51M19hMUhJOWNoVHFodnNwS3h1aGdxRjliWXRhMzBQdE8wQ3dqNmh5ZF9IclhwbEpUODNzbmloZVVHaEhTSGlpalY0WUJxQ2lyY3FsR3RobXNMWG5teXpB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IU0ZwNjlPVFdYWFNEVXM0TXVuSDE4SjF1QjhPRDN0QWFJc2NUZGVEQnJzNE5vTTBVZUVWdjRUeERHVXI2eGRTc3RnY0FfeWxhdkt5TnktRjMtVURD?oc=5",
     "difficulty": "News"
   },
   {
@@ -57,6 +117,18 @@
     "summary": "The Decoder is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGdycWROdW9kWlpFRWtJc0wzeVMtVTgxTENtWm1DbDJlREJxWkZKYWJLZWpQMEs0NTBHVW9BekxiZ3hJd1JfVnEzN3hwMm5fYThpMGZuQ0wxMnk4UUlHNG1kN0pZTTlqYXZEWG1Jd19Ld0pEVnZJR1dSVXhQLUMwZGtiWlcxM1V3VzFXWjRva3FzTGhudkIzaURaX1lTOXltVmdkaHduYk1JQnEyMDROSkFuTXhtME1BWncxTTdSc3MyQQ?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Nov 05, 12:55 PM ET",
+    "publishedAt": "2026-11-05T17:55:00+00:00",
+    "source": "BigGo Finance",
+    "title": "Google Slashes Gemini Omni Video Pricing to $0.07 a Second, Extends Clips to 15 Seconds",
+    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iYllUNTFRMER1RGlQaGdjbVFhTWV2Z3VCbUVoeUQ2cHRHREQ4bXRqRVNGOUhoMTAySm1xMXFpRlZvYjhVNlFLMUg5S0ZybmxjcW5SczlWVjM3MWxIS1N5a3hiSWZJekJSYzVFRUZuc3hocDBIc3c?oc=5",
     "difficulty": "News"
   },
   {
@@ -108,18 +180,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Nov 05, 12:13 PM ET",
-    "publishedAt": "2026-11-05T17:13:58+00:00",
-    "source": "FourWeekMBA",
-    "title": "Google Cuts Gemini Omni Video Price 30% to $0.07 a Second",
-    "summary": "FourWeekMBA is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcVpIeVZqMUQ2WlplTEZGQU5nRHhxbGFQQ3BZMlNQSjNJMXZKN1REVzZ2M3VjTDRqME1LWmZJWUU4SVFlUTNYUnd0LUdJd01FTldhV1A3T3lpOTlpeXZIZ1JILV9PTjFoLVoxdFd0Z3FLaDZpUmNINVIzRkM3dGJHblFGMmlyTzJzXzJZ?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Nov 05, 08:22 AM ET",
@@ -144,30 +204,6 @@
     "difficulty": "News"
   },
   {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Nov 05, 07:35 AM ET",
-    "publishedAt": "2026-11-05T12:35:43+00:00",
-    "source": "www.tokenpost.com",
-    "title": "Google Adds Prompt-Based Voice Remixing to Gemini 3.8 Flash Text-to-Speech",
-    "summary": "www.tokenpost.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZQmx4QzVGUXRlSmpZcm5iclZqMlJEUlE2OU1OVTNuQm96MTlQMWxJZTBYcWtJV2pJd1FtWlZ4V1YzcHk5NFNTbDA3LTdmLXJuVTN0eGpMMnNPclk?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Nov 05, 05:56 AM ET",
-    "publishedAt": "2026-11-05T10:56:23+00:00",
-    "source": "markets.businessinsider.com",
-    "title": "AIVideoFree Integrates OpenAI’s GPT Image 2.6 a Day After Release, Running Both New Models Alongside Competing Image Generators",
-    "summary": "markets.businessinsider.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWmd3Umc4YWJqVFdMLWJ1ZTJLWE1hWjJvbDNpdDh6S0paOHFBdWwwRXQ0UWZqY0lhSjEwOGJVOFdBQUdMNHdmMTQxN1ZyNkNCZTN0QnZPUVhhQlpIMGpUQnhoMVgwMEx2Q2RkdnhhN2N5amFpTlByWWRPV0FmZlNvUzQxM3cxbF82b2tkeU94NTd6M2pyYWVzblNUQmNWNjdWMm9EY1p3ZmliN0lyNk1nVUtQTnZWem9hdl9mSDhWcjhaMUM2OUgtOERuT2pUOGZnb3VrLWhMU09tQzRMcjRTR3NLSUFfNV92bW1hX3VmQzQ2OHJxSmtIWjctOUxFZFhwNWVmRWl1ZHZ3eTZmLUpWNDU0bw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Nov 05, 05:00 AM ET",
@@ -177,42 +213,6 @@
     "summary": "Gizmodo is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWswMTFoWU55ZFpEeDFqaVdEaEE4YXBZTUJqT2FHM2FIdWc4MG9Oa2FSZGFHXzZWQTF2SUJMUGJqV3VCRV93SVgtcnZpM3Z3SW5zQ1pTQzlHRGVUZ01aNnluU2xTUHh0U0pTRWpIVXRNTmp2ZkRjY2g0dm9nT1I0TXJuekZJd2dXTFlyNU5sWU1EMDNrdUFfMEFGQUZyZUt3eUFyUlFR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Nov 05, 01:31 AM ET",
-    "publishedAt": "2026-11-05T06:31:57+00:00",
-    "source": "Kingy AI",
-    "title": "ChatGPT Images 2.6: Specs, Benchmarks, Pricing and Comparisons",
-    "summary": "Kingy AI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tcmRwM0pIcGxjM1E3M3BmcFJSN2tYSTZCTExobnVIcTFHMnZSZ0VoUW4tbWh1Wng5QWhSbVFPVmRuUzFUaWV3TDVxQl85dTBDblNfbm1CQWtuSzJudG5CdA?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Nov 04, 11:32 PM ET",
-    "publishedAt": "2026-11-05T04:32:22+00:00",
-    "source": "The Hacker News",
-    "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-    "summary": "The Hacker News is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTjBhVWJNR1E4TFpreTFWVVNQTzhVT29FbFU2RjFiQzJlOXhRRWlJejhwMUZPMzFhaGJMbm9GakpFR3NDZzZwZFJWQ2gzdjNQeXFzQ3JpNTh6ZXVKcE1tTGZfYlhnQ3RXZ2RWM2JxTWJXN0hrMzVmMDdnRlIyM0s0cjZXUQ?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Nov 04, 05:21 PM ET",
-    "publishedAt": "2026-11-04T22:21:42+00:00",
-    "source": "OpenAI",
-    "title": "A thousand fewer paths to root",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YNndWbW1YdWJ1bFpGb3cyOGcyamlnWV9keHhVSV9NQ0poX0JTSzNMckF1TkNEZ05wdTNObGFXS04xU2xzVlIteXRFSkxfSnFsQVlnY0dLcUpGa1doY0NvX0VVNEVGYjg?oc=5",
     "difficulty": "News"
   },
   {
