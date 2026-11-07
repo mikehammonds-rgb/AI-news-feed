@@ -2,6 +2,42 @@
   {
     "category": "gemini",
     "label": "Gemini",
+    "time": "Nov 06, 11:12 PM ET",
+    "publishedAt": "2026-11-07T04:12:30+00:00",
+    "source": "Kingy AI",
+    "title": "How to Use Gemini: Plans, Limits, Features and Fixes",
+    "summary": "Kingy AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBleUhqSFp2LXlncmNIVzBWSWh3bzVxM3Y4MU1vSEN4Tm1aZGQ0N21nalJIZllEQlYyQkRDbHQyRWI5V3Awa1lWM1lsRlZneFF6UlE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
+    "time": "Nov 06, 07:35 PM ET",
+    "publishedAt": "2026-11-07T00:35:00+00:00",
+    "source": "BigGo Finance",
+    "title": "Google Expands CodeMender Vulnerability-Fixing AI, Automating Defense with Gemini 4 Argon",
+    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EVTd3QmdSMmZrci0yNEd3LW9HM1cwek1acmJPekJPTC1aV2FvWHo5UURndWJCU25iWUFjMlhPclY3UmJSU185bG40VWx6bVE5ODB1N0VJelJ1blFXT1FjQUs5UjczdEZtRFBPdE5TNkJJVklqcVE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 06, 06:08 PM ET",
+    "publishedAt": "2026-11-06T23:08:00+00:00",
+    "source": "BigGo Finance",
+    "title": "Anthropic's Lance Martin: Your Claude Prompts Are Burning Money — and One Command Can Cut 72%",
+    "summary": "BigGo Finance is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56TW53RWVpOXlBMHp6d1ZFc2U3ZjIwcTVpLWJMOWYwVFdFTkU2aFZrZ25QdTJUOVdZS0N2RElienpiUThJUEZEd25PNkU4M0FlS1pTMG90MmNEOWc?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "gemini",
+    "label": "Gemini",
     "time": "Nov 06, 02:52 PM ET",
     "publishedAt": "2026-11-06T19:52:57+00:00",
     "source": "tech-insider.org",
@@ -12,39 +48,15 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 06, 12:38 PM ET",
-    "publishedAt": "2026-11-06T17:38:33+00:00",
-    "source": "shattered.io",
-    "title": "Claude vs ChatGPT Drift Test: 12 Steps, 90 Min [2026]",
-    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Nov 06, 02:37 PM ET",
+    "publishedAt": "2026-11-06T19:37:13+00:00",
+    "source": "BetaNews",
+    "title": "ChatGPT Images 2.6 adds GIFs, saved references and 50% faster output",
+    "summary": "BetaNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QMGVFVVZwTjg1TXdRbS1rTEJuYmpaZzM1a3d1Q283QjBCdjFUcTBIcXVDMlhEWEt2ZGI1LVZJRUdTLWd3OFBYRnh5cVVCRU1nQW5kWExveHFqcUprSjR1eTJTdzNJZGxwSHdRQUo5QWoxYkdrWWdhZENxNE9aamc?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Nov 06, 12:15 PM ET",
-    "publishedAt": "2026-11-06T17:15:14+00:00",
-    "source": "Pasquale Pillitteri",
-    "title": "Google Launches Gemini Omni 1.2 Flash With 15-Second AI Video",
-    "summary": "Pasquale Pillitteri is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91Wkc2RVlvSldzaEhrNFdYeGUtSEVCWllZbFMyTHMxTGNreXRjSkJ6dEF0UHdBcEdrdjBPUjEybUozemxfdGozclAycDB2R3ljTEFDelVlWHdXWEJXSS1RNjJnYW9DNFF1ZjE5ckRBVnU2eU5UVG54UHZyLUhJeGs?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 06, 09:12 AM ET",
-    "publishedAt": "2026-11-06T14:12:00+00:00",
-    "source": "Mezha",
-    "title": "Claude Flaw Lets Browser Extensions Execute Code on PCs, Anthropic Has Left It Unfixed for Six Months",
-    "summary": "Mezha is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PSHNXMWM0VlhJQzNKRXRlb0o5b3lFdTMxSGxxMlQyYUQtSkNHcV9IRFZJbzVneTBOLUxDMGhERnJTZ1pxdTMwU0FXQ2xBM0RZbTh1TlR0X19USVlDZmFsZl9uRkdUV1F2NUlOVEFwVkHSAXZBVV95cUxNLXZ1dzJFdlRFdzB3MkJLYnJMdjQ2dEt1ajNZRlNwdkV0YVoyRXZGODhocmJQenRrb3luU2dZeHFGeVFHeWpPNkhjTHBZY0VzUlA5djhWWm5xQzFZbTdpNy1FMlYwdDRLcklWUjFsQzlCa29fb0N3?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uVGZrWm10X2pfLU5vLWF0eW0yaC1Fal9iVFl2Zkk4czd2VUhWWFM1QUE0dmJxTlpBbWd4TjUtUFk2YVViX3kzOV8wWkZORno0ZlVRMWE4M2hfazVpdzRfcllfTjB6SUp6M1Q3c3FVRHVVekMxckE?oc=5",
     "difficulty": "News"
   },
   {
@@ -57,18 +69,6 @@
     "summary": "CyberSecurityNews is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrSGFRcGxmcDl0X3hqaVo3djJiczhCWG9BWER2RVRKYWtCdnhGVENZbXNpUVRlUWtnc05TY3BiN2FyV2c0VjlvNmZpRW9Eb25kVDdZY05XVVVqcTFwTlZkdl9VNUxHWEtYTVFGVdIBckFVX3lxTE9vUVVGNGtrZkZVa3VvTXpGdUxhQkVIRTJVeG51aDFKUXJSZVQ1eXNLTHVkcXRfZUhONEVfbmhVOVlZVFhzdU9lb3FBMURCM29wcUFPUVFsQ0NjVWR0bVpZQ3QtZ1BFM2xzUUV2WnJhdGJMZw?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 06, 07:25 AM ET",
-    "publishedAt": "2026-11-06T12:25:11+00:00",
-    "source": "https://tech-insider.org/",
-    "title": "Claude Pro vs Max vs Ultra: $20 Plan, $200 Credits [2026]",
-    "summary": "https://tech-insider.org/ is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnVEeGowa3JZVmJ1MzZTMndhNWpMM2U0RGZUQ0FDWG1kUkhuYUFVN3luVDNfQUdFbHRHSWJ6bDZtUDJEX3JvZkxsaVBHTTNWbzVkZU1NYXlpbDIwdW9IbTlRcDJqWHh2ZVV0RHMxX3FUSFg0bnh6OURNZ25TcFBUXzlaTzk4RGJvYllRMw?oc=5",
     "difficulty": "News"
   },
   {
@@ -105,18 +105,6 @@
     "summary": "GBHackers News is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80RUJnT29oSE9heVo3a0tDWV9aU2dMNTJIQnM0dU5aOTFrcl8wU0Y2bTk4UV9Xc2psX0ZVQWZ4Yl9pdUlKT3JUYzV6cW1wUdIBU0FVX3lxTFAxMW01X1dLT3lmZC1HWXJNSUkxMG0xSnpUeUdLSlU0ci1hc1lXdXBrTXJ2VU56a2tKMGVpRGI4dnlYN1dtVTRoNGp1dUdRYUJrYms0?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "gemini",
-    "label": "Gemini",
-    "time": "Nov 05, 11:20 PM ET",
-    "publishedAt": "2026-11-06T04:20:00+00:00",
-    "source": "Neowin",
-    "title": "Google launches Gemini Omni 1.2 Flash with 30% lower prices and longer AI videos",
-    "summary": "Neowin is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWVjdzI5aTJpUndsUU04Ym1lVHVGOHpaWkFFTk9RV0pWdzhKdVFBelFwNTM4Y3V6T1AxeGp1NlVSXzBNNWI2S1BzVkFrWHBCX0dSVkJYdUZCU2M5TTktd0JpSXRNcnpvQU9lblo2WkpxQ2VaR3YzTGoyZmM2WlJZbDJLYzdVbUcwYkVhVl8wcGgzQXV0dTMwTUc2c2pOVk1MU0Frc05zZXVMMU0?oc=5",
     "difficulty": "News"
   },
   {
@@ -302,6 +290,18 @@
   {
     "category": "claude",
     "label": "Claude Code",
+    "time": "Nov 03, 10:35 AM ET",
+    "publishedAt": "2026-11-03T15:35:46+00:00",
+    "source": "shattered.io",
+    "title": "Claude Code vs Cursor vs Copilot: $15 to $200 [2026]",
+    "summary": "shattered.io is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzFfRlRiLS1Rb0c5Ql9mTjcyZDhBSWs4NGhMYmllbWhxN1ZMNDBQWHVkNlY4di1FZDNyVFZRSzh4eFBCbF80c1FSSnBvdmdhOEZ1ajRWNmVpR3lTd2hYaTZ6UEtHTUwyY19WMFNGNGJnT1psMDBnUEN0cEloTnhLQUl5NjZwYUZv?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "claude",
+    "label": "Claude Code",
     "time": "Nov 03, 08:11 AM ET",
     "publishedAt": "2026-11-03T13:11:36+00:00",
     "source": "ZDNET",
@@ -348,18 +348,6 @@
     "difficulty": "News"
   },
   {
-    "category": "codex",
-    "label": "Codex / LLM Code",
-    "time": "Nov 02, 05:37 AM ET",
-    "publishedAt": "2026-11-02T10:37:48+00:00",
-    "source": "DevOps.com",
-    "title": "AI Coding Assistants’ Built-In Browsers Open a Path to Developer Secrets",
-    "summary": "DevOps.com is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0RaODFlY2JZZEVVVldpSVFoYWV1bzRJZVNYWDVLemVOY1Z6RVZibDJTd2YwQTZhQXlyYmM3UzZyX3U3NWN4bWFPTkRoOHNqd3U3aGF4Smc4ODJ3NkZVRUY2NFBKMlVYNmx3dEYwWjlnMUQyNkZoN05seGhLTUhUM3hCMGdSdFF3ZU9TbHFHcmtzR2Vh?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "claude",
     "label": "Claude Code",
     "time": "Sep 25, 03:00 AM ET",
@@ -381,6 +369,18 @@
     "summary": "The GitHub Blog is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2U4S0xmbzUyQ0sydUJJY0pZbGZHalhIUG9XeXdMdUo0TXRCWk15WU5hZVA4R0thN3E0VU9XQURZYzlVSEhNNnBJMW9aTnBMci03c2tteFJHRUpVbU1RLWxjZF9QOFB6bk11SE5aZ1VjWF9DZlExLU5BdXhvbUtudjNjZlNoYlpmV2ZnVzNKR1JYRlg1R0FXWERCd2hybm8?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "codex",
+    "label": "Codex / LLM Code",
+    "time": "Jun 22, 03:00 AM ET",
+    "publishedAt": "2026-06-22T07:00:00+00:00",
+    "source": "The New Stack",
+    "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
+    "summary": "The New Stack is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZVZLNDdTbXNVR2ZmZnFNUk5DWVVZQnJaUmVHdEl6Tkk0aGJQZG5fQkF3ZWZ3Qk5fQUE5MUpfekY3OG82aGxXT0FaWVlRMEltNUhRUDB5cFJTRUg0QnlTMnJkY0I3UQ?oc=5",
     "difficulty": "News"
   }
 ]
