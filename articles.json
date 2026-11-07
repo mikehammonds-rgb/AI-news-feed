@@ -84,6 +84,18 @@
     "difficulty": "News"
   },
   {
+    "category": "claude",
+    "label": "Claude Code",
+    "time": "Nov 06, 11:12 PM ET",
+    "publishedAt": "2026-11-07T04:12:30+00:00",
+    "source": "Kingy AI",
+    "title": "How to Use Claude: Plans, Limits, Features and Fixes",
+    "summary": "Kingy AI is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YOUZwSzRBMFNpQlhZNEROcmZGV193N2NjUncybG8wdklfZVF4QVoxSU84N3o0UWFGaXQwdVlublBoUlBYd21SYWp2Uk5iajVhV3c?oc=5",
+    "difficulty": "News"
+  },
+  {
     "category": "gemini",
     "label": "Gemini",
     "time": "Nov 06, 11:12 PM ET",
@@ -93,6 +105,18 @@
     "summary": "Kingy AI is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBleUhqSFp2LXlncmNIVzBWSWh3bzVxM3Y4MU1vSEN4Tm1aZGQ0N21nalJIZllEQlYyQkRDbHQyRWI5V3Awa1lWM1lsRlZneFF6UlE?oc=5",
+    "difficulty": "News"
+  },
+  {
+    "category": "chatgpt",
+    "label": "ChatGPT",
+    "time": "Nov 06, 04:56 AM ET",
+    "publishedAt": "2026-11-06T09:56:02+00:00",
+    "source": "Dataconomy",
+    "title": "OpenAI Adds GIF Creation To ChatGPT With Images 2.6",
+    "summary": "Dataconomy is reporting this update. Open the article for the full story.",
+    "linkText": "Read article →",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdF9QYnJEYldSb01QSDcwM3FTeWdZNzMtMEpkY1pCVUNWZi13eTBBTXBSVnpjWUxwT1FMVHg0eEJhaHJGUkp0LVJNbV9FTDhNS19ETFZjVkZLQXdUM1A1VU1icmp0a1ExNDltbzVpbU5UcDlHVVl2VWxqVl9KZTYydF9QelNCSFZDTDlXZWJB?oc=5",
     "difficulty": "News"
   },
   {
@@ -192,18 +216,6 @@
     "difficulty": "News"
   },
   {
-    "category": "claude",
-    "label": "Claude Code",
-    "time": "Nov 05, 08:00 AM ET",
-    "publishedAt": "2026-11-05T13:00:00+00:00",
-    "source": "The Register",
-    "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
-    "summary": "The Register is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWmNYRUNBVGRtakc4aTBFX3c2VXpUQzVuUGJtdjNzNHp0a3VVNG0xMXpUUVBzb053T19yeThmeXl0U1lYeGd4LWY4aF9jMmdHR3lERmN6MVBWai1ZTks5SW5CTEE3NnRSYVljWmpSVGRUMzJ3TnpRS2FEYXQtUnpUeC01eVNBdUM5WmJZakxGUzZvVXJocVBwUWhLWHJudDRIa05rT25udmFMWnhVX201MUJ2NjdWSFJVeVJvSjVDR2k3VE5KNm9iVVJwZnhDMzV3QmVzLUZxZ3ZIQkF2YzdDOGIzNW9UVFU1WDFHcmIzbFFkYm5QMjVXZXFHVGx1cDlkX0JQQw?oc=5",
-    "difficulty": "News"
-  },
-  {
     "category": "chatgpt",
     "label": "ChatGPT",
     "time": "Nov 05, 05:00 AM ET",
@@ -213,18 +225,6 @@
     "summary": "Gizmodo is reporting this update. Open the article for the full story.",
     "linkText": "Read article →",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWswMTFoWU55ZFpEeDFqaVdEaEE4YXBZTUJqT2FHM2FIdWc4MG9Oa2FSZGFHXzZWQTF2SUJMUGJqV3VCRV93SVgtcnZpM3Z3SW5zQ1pTQzlHRGVUZ01aNnluU2xTUHh0U0pTRWpIVXRNTmp2ZkRjY2g0dm9nT1I0TXJuekZJd2dXTFlyNU5sWU1EMDNrdUFfMEFGQUZyZUt3eUFyUlFR?oc=5",
-    "difficulty": "News"
-  },
-  {
-    "category": "chatgpt",
-    "label": "ChatGPT",
-    "time": "Nov 05, 03:00 AM ET",
-    "publishedAt": "2026-11-05T08:00:00+00:00",
-    "source": "OpenAI",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "summary": "OpenAI is reporting this update. Open the article for the full story.",
-    "linkText": "Read article →",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
     "difficulty": "News"
   },
   {
