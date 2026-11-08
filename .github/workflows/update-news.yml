@@ -1,55 +1,10 @@
-name: Update AI News Feed
-
+name: Retired — news now runs through Sites
 on:
-  schedule:
-    - cron: '*/30 * * * *'
   workflow_dispatch:
-
-concurrency:
-  group: update-ai-news-feed
-  cancel-in-progress: true
-
 permissions:
-  contents: write
-
+  contents: read
 jobs:
-  update-news:
+  retired:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install feedparser
-
-      - name: Run offline tests
-        run: |
-          python -m unittest discover -s tests
-
-      - name: Run updater
-        run: |
-          python scripts/update_news.py
-
-      - name: Validate feed output
-        run: |
-          python scripts/validate_feed.py articles.json feed-info.json
-
-      - name: Commit updates
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-
-          git add articles.json feed-info.json
-
-          git diff --staged --quiet || git commit -m "Update AI news feed"
-
-          git pull --rebase
-          git push
+      - run: echo 'This legacy feed is retired. AI OS now stores news in Sites D1 and refreshes it through its linked hourly cloud task. No GitHub raw feed or bot commits are used.'
