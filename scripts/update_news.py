@@ -1,11 +1,14 @@
 import json
+import sys
 import html
 import re
 from datetime import datetime, timezone
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlparse
 from zoneinfo import ZoneInfo
 
 import feedparser
+
+from validate_feed import MIN_ARTICLES, validate_articles
 
 SEARCHES = [
     ("chatgpt", "ChatGPT", "ChatGPT OR OpenAI OR GPT-5 OR GPT-4.1 OR OpenAI API"),
@@ -30,6 +33,15 @@ def normalize_text(text):
     return re.sub(r"[^a-z0-9]+", " ", text.lower()).strip()
 
 
+def clean_source(source):
+    """Turn a raw-URL source ('https://www.x.com/') into a display name ('x.com')."""
+    source = (source or "").strip()
+    if re.match(r"^https?://", source):
+        host = re.sub(r"^www\.", "", urlparse(source).netloc.lower())
+        return host or "Unknown source"
+    return source or "Unknown source"
+
+
 def split_title_and_source(title, entry):
     source = ""
     entry_source = entry.get("source", {})
@@ -42,7 +54,7 @@ def split_title_and_source(title, entry):
         source = source or inferred_source.strip()
         title = headline.strip()
 
-    return title, source or "Unknown source"
+    return title, clean_source(source)
 
 
 def is_low_signal_title(title):
@@ -96,56 +108,78 @@ def google_news_rss(query):
     return f"https://news.google.com/rss/search?q={encoded}&hl=en-US&gl=US&ceid=US:en"
 
 
-articles = []
-seen_titles = set()
-seen_urls = set()
+def build_articles(parse=feedparser.parse):
+    """Fetch every search and return the deduplicated, sorted article list."""
+    articles = []
+    seen_titles = set()
+    seen_urls = set()
 
-for fallback_category, fallback_label, query in SEARCHES:
-    feed = feedparser.parse(google_news_rss(query))
+    for fallback_category, fallback_label, query in SEARCHES:
+        feed = parse(google_news_rss(query))
 
-    for entry in feed.entries[:MAX_PER_TOPIC]:
-        raw_title = clean_summary(entry.get("title", "Untitled"))
-        title, source = split_title_and_source(raw_title, entry)
-        normalized = normalize_text(title)
-        url = entry.get("link", "#")
+        for entry in feed.entries[:MAX_PER_TOPIC]:
+            raw_title = clean_summary(entry.get("title", "Untitled"))
+            title, source = split_title_and_source(raw_title, entry)
+            normalized = normalize_text(title)
+            url = entry.get("link", "#")
 
-        if is_low_signal_title(title) or normalized in seen_titles or url in seen_urls:
-            continue
+            if is_low_signal_title(title) or normalized in seen_titles or url in seen_urls:
+                continue
 
-        seen_titles.add(normalized)
-        seen_urls.add(url)
+            seen_titles.add(normalized)
+            seen_urls.add(url)
 
-        category, label = categorize(title, fallback_category, fallback_label)
-        display_time, published_at = format_entry_time(entry)
+            category, label = categorize(title, fallback_category, fallback_label)
+            display_time, published_at = format_entry_time(entry)
 
-        articles.append({
-            "category": category,
-            "label": label,
-            "time": display_time,
-            "publishedAt": published_at,
-            "source": source,
-            "title": title,
-            "summary": build_summary(entry.get("summary", ""), title, source),
-            "linkText": "Read article →",
-            "url": url,
-            "difficulty": "News"
-        })
+            articles.append({
+                "category": category,
+                "label": label,
+                "time": display_time,
+                "publishedAt": published_at,
+                "source": source,
+                "title": title,
+                "summary": build_summary(entry.get("summary", ""), title, source),
+                "linkText": "Read article \u2192",
+                "url": url,
+                "difficulty": "News"
+            })
 
-articles.sort(key=lambda article: article["publishedAt"] or "", reverse=True)
-articles = articles[:MAX_TOTAL]
+    articles.sort(key=lambda article: article["publishedAt"] or "", reverse=True)
+    return articles[:MAX_TOTAL]
 
-with open("articles.json", "w", encoding="utf-8") as f:
-    json.dump(articles, f, indent=2, ensure_ascii=False)
 
-updated_at_utc = datetime.now(timezone.utc)
-eastern_time = updated_at_utc.astimezone(LOCAL_TIMEZONE)
+def main():
+    articles = build_articles()
 
-timestamp = {
-    "lastUpdated": eastern_time.strftime("%B %d, %Y at %I:%M %p ET"),
-    "lastUpdatedUtc": updated_at_utc.isoformat().replace("+00:00", "Z")
-}
+    # Guard: never overwrite good data with a thin or broken fetch.
+    if len(articles) < MIN_ARTICLES:
+        print(f"ABORT: only {len(articles)} articles fetched (need {MIN_ARTICLES}); keeping existing files.")
+        return 1
 
-with open("feed-info.json", "w", encoding="utf-8") as f:
-    json.dump(timestamp, f, indent=2)
+    problems = validate_articles(articles)
+    if problems:
+        print("WARNING: validation problems in fresh data:")
+        for line in problems:
+            print(f"  - {line}")
 
-print(f"Updated {len(articles)} articles at {datetime.now(timezone.utc).isoformat()}")
+    with open("articles.json", "w", encoding="utf-8") as f:
+        json.dump(articles, f, indent=2, ensure_ascii=False)
+
+    updated_at_utc = datetime.now(timezone.utc)
+    eastern_time = updated_at_utc.astimezone(LOCAL_TIMEZONE)
+
+    timestamp = {
+        "lastUpdated": eastern_time.strftime("%B %d, %Y at %I:%M %p ET"),
+        "lastUpdatedUtc": updated_at_utc.isoformat().replace("+00:00", "Z")
+    }
+
+    with open("feed-info.json", "w", encoding="utf-8") as f:
+        json.dump(timestamp, f, indent=2)
+
+    print(f"Updated {len(articles)} articles at {updated_at_utc.isoformat()}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
